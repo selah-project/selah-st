@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Ke beile Yahwe pel'a ka ka mehla; hobane o le letshohong la ka la ho ja, ke ke ke ea ikunyela.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Ke beile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "pel'a ka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "o le letshohong la ka la ho ja"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ke ke ke"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ea ikunyela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:34.295646864Z",
+  "model": "glm-5.3"
+}

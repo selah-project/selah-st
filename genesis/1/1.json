@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Qalong Elohim o ile a bopa ⟨את⟩ mahodimo le ⟨את⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Qalong"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "o ile a bopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahodimo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:46.595483002Z",
+  "model": "glm-5.3"
+}

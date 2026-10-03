@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Yisraele le Ba-Pelishte ba hlahlama mokgatla wa ntwa pele le mokgatla wa ntwa.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "ba hlahlama mokgatla wa ntwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "le Ba-Pelishte"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "mokgatla wa ntwa"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pele le"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "mokgatla wa ntwa"
+    }
+  ],
+  "timestamp": "2026-10-03T07:38:27.444016622Z",
+  "model": "glm-5.3"
+}

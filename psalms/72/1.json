@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "Ya Shelomo. Elohim, dikahlolo tsa hau o nehe morena, le tsedeke ya hau mora wa morena.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Ya Shelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikahlolo tsa hau"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "תן",
+      "gloss": "o nehe"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "le tsedeke ya hau"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:03.441328741Z",
+  "model": "glm-5.3"
+}

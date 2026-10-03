@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Hobane o re ho sekapane: Ba ⟨⟨hona⟩⟩ lefatsheng; le ho pula e nang borena, le ho dipula tsa matla a hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "ho sekapane"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "le ho pula e nang borena"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "e nang borena"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "le ho dipula"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "dipula"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "tsa matla a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:31:48.593678778Z",
+  "model": "glm-5.3"
+}

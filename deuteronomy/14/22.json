@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Sehlaha sa lesome o tla se hlahisa ⟨את⟩ yohle ya poletso ya peo ya hao, ya tlang hodima sejaha selemo le selemo.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sehlaha sa lesome"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "o tla se hlahisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yohle ya poletso ya peo ya hao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ya poletso"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ya peo ya hao"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ya tlang hodima"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sejaha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "le selemo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:52:40.387338646Z",
+  "model": "glm-5.3"
+}

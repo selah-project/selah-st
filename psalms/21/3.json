@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Takatso ya pelo ya hae o e mpile, mme kopo ya molomo wa hao ha o e thibele. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Takatso"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "o e mpile"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "mme kopo"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "molomo wa hao"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "o e thibele"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:23.608782742Z",
+  "model": "glm-5.3"
+}

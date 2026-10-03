@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme sena ke seo o tla se etsa ho bona ho ba halaletsa, ho ba baprista ho Ya: o tsele ntlama e le nngwe ya mora wa dikgomo, le dimmapara tse pedi tse nang le bophara bo feletseng.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "mme sena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ke se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla se etsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "ho ba halaletsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ho ba baprista"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho Ya"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o tsele"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ntlama"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "le dimmapara"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "tse nang le bophara bo feletseng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:58.827261437Z",
+  "model": "glm-5.3"
+}

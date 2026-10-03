@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme ka sebeka sa hao o tla phela, mme ⟨את⟩ moena wa hao o tla mo sebeletsa; mme e tla ba ha o bolla, o tla tlosa khukho ya hae e tloha molaleng wa hao.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sebeka sa hao"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "o tla phela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moena wa hao"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "moena wa hao"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o tla mo sebeletsa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla ba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "o bolla"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "o tla tlosa"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "khukho ya hae"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e tloha"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "molaleng wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:31:17.646570852Z",
+  "model": "glm-5.3"
+}

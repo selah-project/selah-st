@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme bakeng sa Dawide, Yahwe Elohim oa hae o mo file leseli Yerushalayime, hore a behe mora oa hae morao ho hae, mme hore a tsitsise Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mme"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o file"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim oa hae"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o mo"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "leseli"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "hore a behe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mora oa hae"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora oa hae"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "morao ho hae"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "mme hore a tsitsise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T08:12:35.323380118Z",
+  "model": "glm-5.3"
+}

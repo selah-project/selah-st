@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme Ahabe a bolella Izebele ⟨את⟩ tsohle tseo Eliyahu a di entseng, le ⟨את⟩ tsohle tseo a bolotseng ⟨את⟩ boporofeta bohle ka thipa.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a bolella"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabe"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "ho Izebele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a entseng"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a bolotseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boporofeta bohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "boporofeta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka thipa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:15:26.314072248Z",
+  "model": "glm-5.3"
+}

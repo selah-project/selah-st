@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Samuele a mo bolella ⟨את⟩ mantswe ohle, mme a sa fimha hoena letho; mme Eli a re: Yahwe ke yena; se lokileng mahlong a hae a se se etse.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a bolella"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "כחד",
+      "gloss": "fimha letho"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hoena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yena"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "se lokileng"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "mahlong a hae"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a se etse"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:47.776838325Z",
+  "model": "glm-5.3"
+}

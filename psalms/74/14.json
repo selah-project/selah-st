@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Wena o ile wa tlama ditlhaku tsa Livyatane, mme wa mo fa e le lijo ho setjhaba, ho ba dulang sehnong.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "wa tlama"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ditlhaku"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livyatane"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "wa mo fa"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "e le lijo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ho setjhaba"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "ho ba dulang sehnong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:22.757849526Z",
+  "model": "glm-5.3"
+}

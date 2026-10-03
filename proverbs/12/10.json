@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mo lokileng o tseba moea oa phoofolo ea hae; empa meharo ea ba hloileng ke bokhotsi.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Mo lokileng"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moea"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "phoofolo ea hae"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "empa meharo ea"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba hloileng"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ke bokhotsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:09:05.360314433Z",
+  "model": "glm-5.3"
+}

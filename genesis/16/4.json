@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme o ile a kena ho Hagare, mme o ile a imiswa; mme a bona hore o imetswe, mme moladi wa hae a nyarella mahlong a hae.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "o ile a kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagare"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "o ile a imiswa"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "o imetswe"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "a nyarella"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "moladi wa hae"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "mahlong a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:25:10.094534371Z",
+  "model": "glm-5.3"
+}

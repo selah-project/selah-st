@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme Dawide a batla ⟨את⟩ Elohim bakeng sa moshanyana; mme Dawide a itima lijong, a kena, a fetša bosiu, a lale ka fatshe.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "a batla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "moshanyana"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "a itima lijong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "צום",
+      "gloss": "itimiso ya lijong"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "a fetša bosiu"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "a lale"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka fatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:51:15.263003860Z",
+  "model": "glm-5.3"
+}

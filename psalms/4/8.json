@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "O fana ka thabo pelong ya ka, e feta nakong eo poone ya bona le veine ya bona e neng e tletse ka bongata.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "O fana ka"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "thabo"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "pelong ya ka"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "e feta nakong eo"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "poone ya bona"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "le veine ya bona"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "e tletse ka bongata"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:18.535332298Z",
+  "model": "glm-5.3"
+}

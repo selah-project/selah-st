@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme mokhwenyana oa hae, ntatea ngoana, o ile a mo tswa ka matla, mme o ile a dula le ⟨את⟩ eena matsatsi a mararo; mme ba ja, ba noa, mme ba robala moo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a mo tswa ka matla"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mokhwenyana oa hae"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntatea"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ngoana"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eena"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ba noa"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ba robala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-03T07:27:35.891482052Z",
+  "model": "glm-5.3"
+}

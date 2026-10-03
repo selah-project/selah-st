@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "mme se etsa bobe mahlonong a ka, ho sa utele lentswe la ka, ke tla inanela se ntle seo ke neng ke re ke tla se lokisa ho ⟨את⟩ sona;",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "mme se etsa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlonong a ka"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ho sa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "utele"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "lentswe la ka"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ke tla inanela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "se ntle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke neng ke re"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ke tla se lokisa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "sona (se ntle)"
+    }
+  ],
+  "timestamp": "2026-10-03T09:11:52.360945898Z",
+  "model": "glm-5.3"
+}

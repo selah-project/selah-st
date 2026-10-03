@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme a senya ⟨את⟩ ntlo, ⟨את⟩ majwe a yona, le ⟨את⟩ mapolanka a yona, le ⟨את⟩ seretse sa ntlo yohle, mme a di isa ka ntle ho toropo, sebakeng se khopo.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "mme a senya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majwe a yona"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "majwe a yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mapolanka a yona"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "mapolanka a yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "seretse sa ntlo yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "seretse"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa ntlo"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "mme a di isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "se khopo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:11:30.763511141Z",
+  "model": "glm-5.3"
+}

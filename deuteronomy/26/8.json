@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme Yahwe a re tlosa ho Mitsrayime ka letsoho le matla, le ka letsoho le atisitsoeng, le ka tshabo e seholo, le ka ditsupo le dimakatso.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "a re tlosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho Mitsrayime"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "le matla"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "le ka letsoho le atisitsoeng"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "le atisitsoeng"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "le ka tshabo"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "e seholo"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "le ka ditsupo"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "le dimakatso"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:56.411954338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Mme bara ba hae ba etsela yena jwale ka moo a ba laetseng kateng.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bara ba hae"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ka moo"
+    },
+    {
+      "surface": "צום",
+      "gloss": "a ba laetseng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:48.866566511Z",
+  "model": "glm-5.3"
+}

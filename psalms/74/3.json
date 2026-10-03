@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Phahamisa maoto a hao ho mefako ea ho sa fela; ho bobe bohle bao masera a bo entseng sehalalelong.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Phahamisa"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "maoto a hao"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ho mefako"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ea ho sa fela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ho bobe … entseng"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "masera"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sehalalelong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:22.326822642Z",
+  "model": "glm-5.3"
+}

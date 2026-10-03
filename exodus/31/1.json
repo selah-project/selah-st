@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme Yahwe a bolela ho Moshe, a re:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:34.183634387Z",
+  "model": "glm-5.3"
+}

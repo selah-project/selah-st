@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Ba ruileng ba tla tswa Mitsrayime; Kushe o tla halalela ka matsoho a hae ho Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "ba ruileng"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tswa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushe"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "o tla halalela"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ka matsoho a hae"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:22.796100208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme Elohim o ile a dula le ⟨את⟩ mosha eo; a hola, a dula sebakeng se se nang baahi, a ba mozeni wa metsu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme … o ile a dula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosha eo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosha eo"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "a hola"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sebakeng se se nang baahi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mozeni"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "metsu"
+    }
+  ],
+  "timestamp": "2026-10-03T12:42:26.466061802Z",
+  "model": "glm-5.3"
+}

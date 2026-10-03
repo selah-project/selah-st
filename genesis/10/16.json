@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "le ⟨את⟩ Bayebusi le ⟨את⟩ Baemori le ⟨את⟩ Bagirgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bayebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Bayebusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Baemori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bagirgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Bagirgashi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:13.046935911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme o ile a beella bara, ⟨את⟩ Yeushe le ⟨את⟩ Shemaraya le ⟨את⟩ Zahame.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a beella"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o ile a mo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeushe"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeushe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Shemaraya"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemaraya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Zahame"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahame"
+    }
+  ],
+  "timestamp": "2026-10-03T12:26:37.382458628Z",
+  "model": "glm-5.3"
+}

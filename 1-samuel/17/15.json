@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Dawide o ne a ea a boela ho tloha ho Shaule, ho fufatsa ⟨את⟩ dinku ea ntatae, Beith-Lecheme.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Mme Dawide"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "o ne a ea"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ho tloha ho"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ho fufatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinku"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ea ntatae"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beith-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lecheme"
+    }
+  ],
+  "timestamp": "2026-10-03T07:38:25.402147834Z",
+  "model": "glm-5.3"
+}

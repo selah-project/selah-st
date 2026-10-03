@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Yitro, moprista wa Midyane, sesi wa Moshe, a utloa ⟨את⟩ tsohle tseo Elohim a neng a di etsetse Moshe, le Yisraele setjhaba sa hae, hobane Yahwe o ile a ntsha ⟨את⟩ Yisraele ho Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utloa"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "wa Midyane"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a di etsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "le Yisraele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setjhaba sa hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:45.297469983Z",
+  "model": "glm-5.3"
+}

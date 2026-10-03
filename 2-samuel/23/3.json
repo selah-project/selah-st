@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Elohim wa Yisraele o ile a re, Lefika la Yisraele le buile ho nna: Mobusi hodima batho o tla ba ya lokileng, a busa ka tshabo ya Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "o ile a re"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "le buile"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Lefika la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "Mobusi"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "hodima batho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya lokileng"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ka tshabo ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T08:00:03.904307193Z",
+  "model": "glm-5.3"
+}

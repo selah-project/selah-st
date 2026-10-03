@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme o ile a tloha ho ⟨את⟩-ena, a koala ⟨את⟩ monyako ka yena le ka barutao ba hae; bana ba ne ba mo tlisela ⟨את⟩ dinkgethi, mme yena o ne a esela.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "o ile a tloha"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ho ⟨את⟩-ena",
+      "marks": "ena"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "a koala"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "⟨את⟩ monyako"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "ka yena"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "barutao ba hae"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "ba ne ba mo tlisela"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mme yena"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "o ne a esela"
+    }
+  ],
+  "timestamp": "2026-10-03T12:59:11.032638527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Ke tla tsamaya pele ga Yahwe, lefatsheng la baphelang.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "ke tla tsamaya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "la baphelang"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:17.167728142Z",
+  "model": "glm-5.3"
+}

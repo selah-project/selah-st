@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 101,
+  "translation": "Pelo e feto-fetohang e tla tloha ho 'na; bobe ha ke tla bo tseba.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "e feto-fetohang"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "e tla tloha"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha... "
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ke tla bo tseba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:29.188024155Z",
+  "model": "glm-5.3"
+}

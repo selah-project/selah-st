@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "le ⟨את⟩ Cholone le ⟨את⟩ meraka ya yona, le ⟨את⟩ Devire le ⟨את⟩ meraka ya yona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Cholone"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Cholone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "meraka ya yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "meraka ya yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Devire"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "meraka ya yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "meraka ya yona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:31.349453581Z",
+  "model": "glm-5.3"
+}

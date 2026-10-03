@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "O tla eketsa bokhulu baka, mme o boele o ntlhomotse.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "o tla eketsa"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "bokhulu baka"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "mme o boela"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "o ntlhomotse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:40.691077895Z",
+  "model": "glm-5.3"
+}

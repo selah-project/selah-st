@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "⟨את⟩ ke mang a ka mo ruta tsebo? Le ⟨את⟩ ke mang a ka mo hlalosa se utlowang? Ba ntshitsoeng masele, ba hlahlamang mats'o?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ke mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "a ka mo ruta"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ke mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "a ka mo hlalosa"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "se utlowang"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "ba ntshitsoeng"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "masele"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "ba hlahlamang"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "mats'o"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:22.459556964Z",
+  "model": "glm-5.3"
+}

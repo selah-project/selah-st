@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 150,
+  "translation": "Mo halaleleng ka ⟨את⟩ ditshila tsa modumo o moholo, mo halaleleng ka ⟨את⟩ ditshila tsa teruakh.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "mo halaleleng"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "ka ditshila tsa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "modumo o moholo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mo halaleleng"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "ka ditshila tsa"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "teruakh"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:57.047980982Z",
+  "model": "glm-5.3"
+}

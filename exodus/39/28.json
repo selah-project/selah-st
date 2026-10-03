@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Le ⟨את⟩ tjhina ya linene tse putsoa, le ⟨את⟩ dikgabiso tsa dikepe tsa hlooho ya linene tse putsoa, le ⟨את⟩ marago-lotlogolo a linene tse putsoa, linene tse kgoaditsweng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tjhina"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "tjhina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linene tse putsoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgabiso tsa dikepe"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "dikgabiso"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "dikepe tsa hlooho"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linene tse putsoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "marago-lotlogolo"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "marago-lotlogolo"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "a linene"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tse putsoa"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tse kgoaditsweng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:56.966722990Z",
+  "model": "glm-5.3"
+}

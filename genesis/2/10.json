@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme noka e ile e tswa Edene ho dinotshe ⟨את⟩ serapa, mme ho tloha moo e a arohana, mme e baba ⟨π⟩ mane e nne dihlogwana tse nne.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Mme noka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e tswa"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "Edene"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ho dinotshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serapa"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "serapa"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "mme ho tloha moo"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "e a arohana"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e baba"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "tse nne"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "dihlogwana"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:06.421768872Z",
+  "model": "glm-5.3"
+}

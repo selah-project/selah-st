@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Lekgetlong la lerato la ka ba ntshehetsa, empa nna ke thapelo.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Lekgetlong la"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "lerato la ka"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ba ntshehetsa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "empa nna"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "thapelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:56:46.142907279Z",
+  "model": "glm-5.3"
+}

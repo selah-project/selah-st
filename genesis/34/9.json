@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme le tloele le nyalana ⟨את⟩ le rona: banana ba lona le ba nehe rona, mme ⟨את⟩ banana ba rona le ba nkele lona.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "le tloele le nyalana le rona"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rona"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "banana ba lona"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "le ba nehe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "banana ba rona"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "le ba nkele"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:34:33.297334575Z",
+  "model": "glm-5.3"
+}

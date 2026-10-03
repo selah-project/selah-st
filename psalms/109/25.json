@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Mme nna ke ile a fetoha tlhoriso ho bona; ba mpona, ba hlohlela ⟨the⟩ hloho ya bona.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ile a fetoha"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "tlhoriso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "ba mpona"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "ba hlohlela"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "hloho ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:20.728956925Z",
+  "model": "glm-5.3"
+}

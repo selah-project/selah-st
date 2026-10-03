@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 34:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme dikgomo tsa tlhaho tse matla di tla theoha le tsona, le dinyane le dinaka tse matla; mme lefatshe la tsona le tla nwa madi, mme lerole la tsona le tla nona ka mafura.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "di tla theoha"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "dikgomo tsa tlhaho tse matla"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "le tsona"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "le dinyane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "dinaka tse matla"
+    },
+    {
+      "surface": "ורותה",
+      "gloss": "le tla nwa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lefatshe la tsona"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ועפרם",
+      "gloss": "lerole la tsona"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "le tla nona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:47:21.120525509Z",
+  "model": "glm-5.3"
+}

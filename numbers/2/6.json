@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "le sesole sa hae, le ba balwang ho sona, dikete tse nnè le mashome a hlano, le makgone a nnè.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "le sesole sa hae"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "le ba balwang ho sona"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "tse nnè"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le mashome a hlano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgone a nnè"
+    }
+  ],
+  "timestamp": "2026-10-03T06:20:01.449128637Z",
+  "model": "glm-5.3"
+}

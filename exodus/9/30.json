@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Empa wena le batlanka ba hao — ke a tseba hore le sa le ho tshaba seboho sa Yahwe Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "empa wena"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "le batlanka ba hao"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke a tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "le sa le"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ho tshaba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "seboho sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T05:46:41.956468843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "O lokise tsela bakeng sa hao, mme o arolele ka tharo ⟨את⟩ meeli ea lefatshe la hao, eo Yahwe Elohim ea hau a o ruang ka eona, mme e be sebaka sa ho phalla moo bakeng sa moeadi mong le mong.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "o lokise"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bakeng sa hao"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "mme o arolele ka tharo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meeli ea lefatshe la hao"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "meeli"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ea lefatshe la hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "a o ruang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ea hau"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e be"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "sebaka sa ho phalla"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "moo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "moeadi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:49:25.143113213Z",
+  "model": "glm-5.3"
+}

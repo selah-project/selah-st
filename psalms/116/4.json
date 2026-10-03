@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Mme ka lebitso la Yahwe ke ne ke bitsa: Ao, Yahwe, nts'epolle molato oa moya oa ka.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Mme ka lebitso la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke ne ke bitsa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "nts'epolle"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:36.601696996Z",
+  "model": "glm-5.3"
+}

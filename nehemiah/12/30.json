@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme baprista le Balevi ba ihloekisa, mme ba hloekisa ⟨את⟩ setjhaba, le ⟨את⟩ mekala, le ⟨את⟩ lerako.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "ba ihloekisa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "le Balevi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "ba hloekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mekala"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "mekala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lerako"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "lerako"
+    }
+  ],
+  "timestamp": "2026-10-03T12:08:40.229004230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme sehloho sa tsoara ⟨את⟩ boima jwa wona pele jwa fota, mme ba bo apara ka diaparo tsa bone, hodima magetla a bona.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "sa tsoara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sehloho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boima jwa wona"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "boima jwa wona"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "jwa fota"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "ba bo apara"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "ba bo apara"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "ka diaparo tsa bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "magetla a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:06.548502130Z",
+  "model": "glm-5.3"
+}

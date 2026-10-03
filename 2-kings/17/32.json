@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme ba hlompha ⟨את⟩ Yahwe, mme ba ikgethela ho tsoa hara bona baprista ba mabatana, mme ba ne ba etsa mesebetsi ya bona matlong a mabatana.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Mme ba hlompha"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "hlompha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba ikgethela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba ikgethela"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "ho tsoa hara bona"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "baprista ba"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mabatana"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme ba ne ba"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ya bona"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "matlong a"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mabatana"
+    }
+  ],
+  "timestamp": "2026-10-03T08:27:07.865306706Z",
+  "model": "glm-5.3"
+}

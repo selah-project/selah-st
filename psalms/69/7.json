@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "A ba nyefoloe ka lebaka la ka ba letlang ho wena, Adonai, Yahwe Tsebaote; a ba tlotlolloe ka lebaka la ka ba o batlang, Elohim wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ba nyefoloe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka lebaka la ka"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ba letlang ho wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "ba tlotlolloe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka lebaka la ka"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ba o batlang"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:09.828270324Z",
+  "model": "glm-5.3"
+}

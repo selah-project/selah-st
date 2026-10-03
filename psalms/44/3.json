@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "U ka letsoho la hao o ile wa hlakola dinaha mme wa di jala; o ile wa senya merahe mme wa ba romella hole.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hao"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dinaha"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "wa hlakola"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "mme wa di jala"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "wa senya"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "merahe"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "mme wa ba romella hole"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:04.524466094Z",
+  "model": "glm-5.3"
+}

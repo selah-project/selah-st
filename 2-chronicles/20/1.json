@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme ho ile ha etsahala ka mora dintho tseo, hore bana ba Moabe le bana ba Ammone, le bona le ba bang ba Meunime, ba tla kgahlanong le Yehoshafate bakeng sa ntwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ho ile ha etsahala"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dintho tseo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammone"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "ba Meunime"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafate"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "bakeng sa ntwa"
+    }
+  ],
+  "timestamp": "2026-10-03T12:33:03.198150783Z",
+  "model": "glm-5.3"
+}

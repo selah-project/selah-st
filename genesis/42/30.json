@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Motho eo, monga ⟨את⟩ lefatshe, o ile a bua le rona ka boima, mme a re etsa ⟨את⟩ jwalo ka barupuru ba ⟨את⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho eo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "monga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ lefatshe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rona"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ka boima"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a re etsa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "jwalo ka barupuru"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "jwalo ka barupuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:37.496552998Z",
+  "model": "glm-5.3"
+}

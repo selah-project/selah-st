@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 110,
+  "translation": "Yahwe o tla roma sethala sa matla a hao ho tloha Tsiyone: Busa ka hara dira tsa hao.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "sethala"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "sa matla a hao"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "o tla roma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ho tloha Tsiyone"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka hara"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dira tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:45.370477875Z",
+  "model": "glm-5.3"
+}

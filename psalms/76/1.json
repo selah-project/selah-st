@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 76,
+  "translation": "Ho mokaedi, ka ditherese. Moko wa Asafe, sebinwa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho mokaedi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ka ditherese"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa Asafe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sebinwa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:07.001442675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme ⟨את⟩ Aharone le ⟨את⟩ baroa ba hao o tla ba lotlha, mme o tla halaletsa ⟨את⟩ bone hore ba serve e le baprista ho 'na.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "baroa ba hao"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "baroa ba hao"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "o tla ba lotlha"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "o tla halaletsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "Aharone le baroa ba hao"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "e le baprista"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:56.165439398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Pakiti ho belegwa, le pakiti ho swa; pakiti ho jala, le pakiti ho hula ka ntle seo se jalotsweng.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pakiti"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ho belegwa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le pakiti"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ho swa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pakiti"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "ho jala"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le pakiti"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ho hula ka ntle"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "seo se jalotsweng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:22.464462516Z",
+  "model": "glm-5.3"
+}

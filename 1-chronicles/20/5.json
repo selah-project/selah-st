@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme hape ho ile ha ba le ntoa le ⟨את⟩ Ba-Pelishta; mme Elkhanane, mora wa Yaire, o ile a bolaia ⟨את⟩ Lakhmi, mora'abo Goliata wa Gata, mme sefate sa sehlabelo sa hae se ne se le jwalo ka molala wa ba jahang.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "mme ho ile ha ba le"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba-Pelishta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelishta"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mme o ile a bolaia"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elkhanane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Yaire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lakhmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lakhmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mora'abo"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliata"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "wa Gata"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mme sefate"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "sa sehlabelo sa hae"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "jwalo ka molala"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "wa ba jahang"
+    }
+  ],
+  "timestamp": "2026-10-03T12:17:59.223548553Z",
+  "model": "glm-5.3"
+}

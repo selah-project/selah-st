@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme a phalla ⟨את⟩tente holima Mishkane, a beha ⟨את⟩ sekoereelo sa tente hodima wona ka hodimo, jwalo ka ha Yahwe a laetse ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "a phalla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tente"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekoereelo sa tente"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "sekoereelo"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sa tente"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hodima wona"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ka hodimo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:31.504042914Z",
+  "model": "glm-5.3"
+}

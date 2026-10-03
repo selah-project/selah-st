@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 84,
+  "translation": "Ba tsamaya ho tswa matleng ho ya ho matla; ba tla bonahala pela Elohim Tsiyone.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "ho tswa matleng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ho matla"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ba tla bonahala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:25.050231148Z",
+  "model": "glm-5.3"
+}

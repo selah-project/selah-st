@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Jwalokaha Yahwe a laetse ⟨את⟩ Moshe, jwalo a ba bala lehalimeng la Sinaita.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "jwalokaha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "a ba bala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "lehalimeng la"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaita"
+    }
+  ],
+  "timestamp": "2026-10-03T06:20:01.161803645Z",
+  "model": "glm-5.3"
+}

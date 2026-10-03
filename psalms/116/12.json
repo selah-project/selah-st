@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Ke khutlisa eng ho Yahwe, bakeng sa melemo ya hae eohle ho 'na?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ke khutlisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "melemo ya hae"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:13.168122405Z",
+  "model": "glm-5.3"
+}

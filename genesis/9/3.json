@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Selaodi se seng le se seng se phelang se tla be sebakeng sa lona sa lijo; jwalo ka mona o motala, ke le file ⟨את⟩ tsohle.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "selaodi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "חי",
+      "gloss": "se phelang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sebakeng sa lona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla be"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "sa lijo"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "jwalo ka mona"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "o motala"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke le file"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    }
+  ],
+  "timestamp": "2026-10-03T12:42:12.917394845Z",
+  "model": "glm-5.3"
+}

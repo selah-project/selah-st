@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme sechaba sa re ho Yehoshua: ⟨את⟩ Yahwe, Elohim wa rona, ke eo re tlang ho mo direla, mme lentsoe la hae re tla le mamela.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mme sa re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe, Elohim wa rona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ke eo re tlang ho mo direla"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "mme lentsoe la hae"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "re tla le mamela"
+    }
+  ],
+  "timestamp": "2026-10-03T07:15:45.253036900Z",
+  "model": "glm-5.3"
+}

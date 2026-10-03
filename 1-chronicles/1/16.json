@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ Arvade, le ⟨את⟩ Tsemare, le ⟨את⟩ Khamate.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Arvade"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvade"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsemare"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Khamate"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Khamate"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:30.091523083Z",
+  "model": "glm-5.3"
+}

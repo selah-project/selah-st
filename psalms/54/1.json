@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 54,
+  "translation": "Ho moea-fatshe, ka dithunya tsa dinoka. Thuto ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moea-fatshe"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ka dithunya tsa dinoka"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Thuto"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:25.228790593Z",
+  "model": "glm-5.3"
+}

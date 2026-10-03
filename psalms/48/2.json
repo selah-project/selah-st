@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Yahwe ke ya kgolo, mme o dumelelwa haholo, toropong ya Elohim ya rona, thabeng ya kgalalelo ya Hae.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ya kgolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "mme o dumelelwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim ya rona"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya kgalalelo ya Hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:32.509166603Z",
+  "model": "glm-5.3"
+}

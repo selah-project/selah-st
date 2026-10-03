@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "le ⟨את⟩ ba-Arwadi, le ⟨את⟩ ba-Tsemari, le ⟨את⟩ ba-Khamati; mme ka mora moo malapa a Mokenaane a pharalletse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-Arwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ba-Arwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-Tsemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ba-Tsemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-Khamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ba-Khamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mme ka mora moo"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "a pharalletse"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a Mokenaane"
+    }
+  ],
+  "timestamp": "2026-10-03T12:41:44.561942606Z",
+  "model": "glm-5.3"
+}

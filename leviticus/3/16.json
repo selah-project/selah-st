@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme moprista a li chesa fara: ke borotho ba ofelo ya mollo, bo monate bo phumutsang; mafura ohle ke a Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "a li chesa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "fara"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "borotho"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ba ofelo ya mollo"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "bo monate"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "bo phumutsang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ke a Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:55.692033319Z",
+  "model": "glm-5.3"
+}

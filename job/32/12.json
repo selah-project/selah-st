@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 32:12",
+  "book": "job",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme ho fihlela ho lona ke ne ke hlahlobile, mme bonang, ha ho ya ka lebisa khahlelo ho Jobo, kapa ya araba mantswe a hae ho tloha ho lona.",
+  "tokens": [
+    {
+      "surface": "ועדיכם",
+      "gloss": "mme ho fihlela ho lona"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ke hlahlobile"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ho Jobo"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "ya ka lebisa khahlelo"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ya araba"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "mantswe a hae"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ho tloha ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:29:08.776986160Z",
+  "model": "glm-5.3"
+}

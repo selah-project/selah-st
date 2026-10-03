@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme a ba etsela jwalo, mme a ba lokolla letsohong la bana ba Yisraele, mme ba sa ba bolaea.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme a ba etsela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "mme a ba lokolla"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "letsohong la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "ba bolaea"
+    }
+  ],
+  "timestamp": "2026-10-03T07:05:37.088332210Z",
+  "model": "glm-5.3"
+}

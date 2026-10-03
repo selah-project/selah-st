@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme ke tla tlosa ⟨את⟩ letsoho la ka, mme o tla bona ⟨את⟩ morao oa ka; empa sefahleho sa ka se ke sa bonwa.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "ke tla tlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la ka"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "letsoho la ka"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "o tla bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morao oa ka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morao oa ka"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "sefahleho sa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke sa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bonwa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:58:36.328005387Z",
+  "model": "glm-5.3"
+}

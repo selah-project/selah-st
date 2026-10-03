@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 27:4",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Meeli ea hao e ka pelong ea mawatle; ba ahehileng ba hao ba phethile tlhaho ea hao.",
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "ka pelong ea"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mawatle"
+    },
+    {
+      "surface": "גבוליך",
+      "gloss": "meeli ea hao"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ba ahehileng ba hao"
+    },
+    {
+      "surface": "כללו",
+      "gloss": "ba phethile"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "tlhaho ea hao"
+    }
+  ],
+  "timestamp": "2026-10-03T09:47:50.546503243Z",
+  "model": "glm-5.3"
+}

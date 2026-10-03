@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme le se ke la ja madi afe kapa afe, a dinonyane kapa a diphoofolo, ho dulo tsa lona ka tsotlhe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mme le madi afe kapa afe"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "la ja"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ho ... ka tsotlhe"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "dulo tsa lona"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "dinonyane"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "diphoofolo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:05:53.216107452Z",
+  "model": "glm-5.3"
+}

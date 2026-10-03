@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Setulo sa bogosi sa hao, Elohim, ke sa kahosafeleng le sa ho sa feleng; sekotlolo sa toka ke sekotlolo sa 'muso wa hao.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "setulo sa bogosi sa hao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kahosafeleng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le sa ho sa feleng"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sekotlolo"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "sa toka"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sekotlolo"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "sa 'muso wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:49.540124861Z",
+  "model": "glm-5.3"
+}

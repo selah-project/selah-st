@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Dikarolo tsotlhe tsa ho tswarileha tsa kerete ho potoloha di ne di le tsa lintho tse tala tse hlakileng tse jeseletsweng.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "dikarolo tsa ho tswarileha"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tsa kerete"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lintho tse tala tse hlakileng"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tse jeseletsweng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:03.607991817Z",
+  "model": "glm-5.3"
+}

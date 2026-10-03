@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 29:29",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme ha ba qetile ho kweletsa, morena le bohle ba fumanwang ⟨את⟩-mmoho le ena ba Mengoe, ba inamisa mekolokoto, ba khumamela.",
+  "tokens": [
+    {
+      "surface": "וככלות",
+      "gloss": "ha ba qetile"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ho kweletsa"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ba inamisa mekolokoto"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le bohle"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ba fumanwang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mmoho le ena",
+      "marks": "morena — ba fumanwang mmoho le ena"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ba khumamela"
+    }
+  ],
+  "timestamp": "2026-10-03T12:37:33.843141584Z",
+  "model": "glm-5.3"
+}

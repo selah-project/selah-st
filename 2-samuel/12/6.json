@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ⟨את⟩ nku e tla e lefisha ka ho nea ka bonne ho e le kaofela, hobane o entse ⟨את⟩ taba ena, le hobane ha a ka a tshwara hloko.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nku"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "nku"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "e tla e lefisha"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "ka bonne ho e le kaofela"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o entse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba ena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le hobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "a tshwara hloko"
+    }
+  ],
+  "timestamp": "2026-10-03T12:54:49.155481383Z",
+  "model": "glm-5.3"
+}

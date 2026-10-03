@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme lefatshe le ile lea hloeka, mme ka etela phoso ya lona hodima lona, mme lefatshe le ile lea hlatsa ⟨את⟩ baahi ba lona.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "lea hloeka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "mme ka etela"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "phoso ya lona"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hodima lona"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "lea hlatsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baahi ba lona"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "baahi ba lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:40.067680046Z",
+  "model": "glm-5.3"
+}

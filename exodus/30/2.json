@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Efa ⟨e⟩ bolelele ba yona, efa bophara ba yona; e tla ba e khutlonne; mme dife tse pedi bolele ba yona; dinaka tsa yona di tla tswa ho yona.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bolelele ba yona"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mme efa"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara ba yona"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "e khutlonne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "mme dife tse pedi"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bolele ba yona"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho tswa ho yona"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "dinaka tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:46.017981553Z",
+  "model": "glm-5.3"
+}

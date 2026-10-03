@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "El ya tshwarwang ka tsabo hodima khotla e moholo ya ba halalelang, mme ya tsosang tsabo ho bohle ba mo potileng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "ya tshwarwang ka tsabo"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "hodima khotla"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya ba halalelang"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "e moholo"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "mme ya tsosang tsabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ba mo potileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:27.546150588Z",
+  "model": "glm-5.3"
+}

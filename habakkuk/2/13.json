@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Na ha e jwalo? Bona! Ho tloha ho ⟨את⟩ Yahwe Tsebaote, hore batho ba fufetse molelong, mme ditjhaba ka ho lefehla di pholohe ka bongata!",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "na ha e jwalo?"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho tloha ho ⟨את⟩",
+      "marks": "Yahwe Tsebaote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "hore ba fufetse"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "molelong"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "mme ditjhaba"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ho lefehla"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "di pholohe ka bongata"
+    }
+  ],
+  "timestamp": "2026-10-03T10:13:20.600175691Z",
+  "model": "glm-5.3"
+}

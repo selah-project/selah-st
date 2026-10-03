@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Kenaane o ile a begeta ⟨את⟩ Tsidone, mokgolokwane wa hae, le ⟨את⟩ Kete.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Mme Kenaane"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "o ile a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidone"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidone"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mokgolokwane wa hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kete"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Kete"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:13.046747534Z",
+  "model": "glm-5.3"
+}

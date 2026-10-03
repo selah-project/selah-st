@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme o ile a etsa ⟨את⟩ dithuluso tseo di neng di le hodima tafole — majale a tsona, le ⟨את⟩ matsoho a tsona, le ⟨את⟩ dibako tsa tsona, le ⟨את⟩ dikhomelo tseo ho tsona ho nouwang ka tsona — gauta e hloekileng.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme o ile a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithuluso"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "dithuluso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di neng di le hodima"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majale a tsona"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "majale a tsona"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "⟨את⟩ le",
+      "notes": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "matsoho a tsona"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "⟨את⟩ matsoho a tsona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dibako tsa tsona"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "⟨את⟩ dibako tsa tsona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikhomelo"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "dikhomelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ho nouwang"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ka tsona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:33.383831581Z",
+  "model": "glm-5.3"
+}

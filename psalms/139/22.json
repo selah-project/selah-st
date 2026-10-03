@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Ka tlhaho e felletseng ya ho hlooya ke ba hloile; ba fetohelitse ba bittera ka ho feteletseng.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "ka ho feletseng"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ya ho hlooya"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ke ba hloile"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "ba bittera"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba fetohelitse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka ho feteletseng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:24.773318281Z",
+  "model": "glm-5.3"
+}

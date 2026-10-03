@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme mehla eohle ya Enoshe e ile ea ⟨become⟩ dingwaga di makholo a robong le metso e hlano, mme a shoele.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "e ile ea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mehla"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ya Enoshe"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "le metso e hlano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "a robong"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "di makholo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a shoele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:28.536278052Z",
+  "model": "glm-5.3"
+}

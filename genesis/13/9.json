@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "A na lefatshe lohle ha le ho pel'a hao? Arolelana, ke kopa, o tlohe ho 'na: ha o ka ea ho ja letswele, ke tla ea ho ja letsoho; kapa ha o ka ea ho ja letsoho, ke tla ea ho ja letswele.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ho pel'a hao"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "arolelana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "o tlohe ho 'na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "ho ja letswele"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "ke tla ea ho ja letsoho"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapa ha"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ho ja letsoho"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "ke tla ea ho ja letswele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:58.524589855Z",
+  "model": "glm-5.3"
+}

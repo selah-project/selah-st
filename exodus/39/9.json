@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "E ne e le sekwere; ba e etsile ⟨את⟩ hoshe ea khohole: zeret e bolelele ba eona, le zeret e bophara ba eona, e khohollotsoe habelo.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "sekwere"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "e khohollotsoe habelo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba e etsile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoshe"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshe"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "zeret"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "e bolelele ba eona"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "le zeret"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "e bophara ba eona"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "e khohollotsoe habelo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:27.276147850Z",
+  "model": "glm-5.3"
+}

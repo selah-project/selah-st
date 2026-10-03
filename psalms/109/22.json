@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Hobane ke mofumahadi le mosoabi, mme pelu ya ka e hlotse ka hare ho ya ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mofumahadi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le mosoabi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "mme pelu ya ka"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "e hlotse"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ka hare ho ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:04.881355057Z",
+  "model": "glm-5.3"
+}

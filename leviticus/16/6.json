@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme Aharone a hlahise ⟨את⟩ nonyana ya sebe e leng ya hae, mme a etse boitshwarelo bakeng sa hae le bakeng sa ntlo ya hae.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "a hlahise"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonyana ya sebe"
+    },
+    {
+      "surface": "פר",
+      "gloss": "nonyana"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya sebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e leng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya hae"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mme a etse boitshwarelo"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "bakeng sa hae"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "le bakeng sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:12.974495524Z",
+  "model": "glm-5.3"
+}

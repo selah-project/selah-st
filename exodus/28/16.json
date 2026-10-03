@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "E tla ba ya khutshwafatswang, e phuthetswe ka bobedi; phapang e tla ba bolele ba yona, le phapang e tla ba bophara ba yona.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ya khutshwafatswang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "e phuthetswe ka bobedi"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "phapang"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bolele ba yona"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "le phapang"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara ba yona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:19.941628438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme ea keng ka ntlong, matsatsi ohle a ⟨את⟩ e koalang, o tla ba khopo ho fihlela mantsiboya.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "mme ea keng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "a e koalang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "ntlo (e koalwang)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "o tla ba khopo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mantsiboya"
+    }
+  ],
+  "timestamp": "2026-10-03T06:11:30.764790737Z",
+  "model": "glm-5.3"
+}

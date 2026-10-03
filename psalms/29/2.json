@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Efang Yahwe kgalalelo ya lebitso la hae; inamang kahare ho Yahwe, sebopehong sa ho halalela.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Efang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ya lebitso la hae"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "inamang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "sebopehong sa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ho halalela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:56.855579798Z",
+  "model": "glm-5.3"
+}

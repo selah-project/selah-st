@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "O neng a tshaba ⟨את⟩ lentswe la Yahwe, ba bang ba makale ba baruti ba Farao, o ile a phutha ⟨את⟩ balebedi ba hae le ⟨את⟩ lifofu tsa hae a kenya ka malapeng.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "O neng a tshaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ba bang ba makale ba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "baruti ba Farao"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "o ile a phutha ka potlako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balebedi ba hae"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "balebedi ba hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lifofu tsa hae"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "lifofu tsa hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a kenya ka"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "malapeng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:00.382467221Z",
+  "model": "glm-5.3"
+}

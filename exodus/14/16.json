@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme u, phahamisa ⟨את⟩ motsana wa hau, o otlolle ⟨את⟩ letsoho la hao hodima lewatle, mme o o arabele; mme bana ba Yisraele ba tlong ho kena bohareng ba lewatle ka ho omile.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme u"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "phahamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motsana wa hau"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "motsana wa hau"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "o otlolle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la hao"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "mme o o arabele"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tlong ho kena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "bohareng ba"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ka ho omile"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:29.740120018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Nako eohle di apere di aparo tsa hao tse tšo; mme mafura a seke a fokola hodima hloho ya hao.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "עת",
+      "gloss": "Nako"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di apere"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "di aparo tsa hao"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "tse tšo"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "mme mafura"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "hloho ya hao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a seke"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "a fokola"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:43.982321804Z",
+  "model": "glm-5.3"
+}

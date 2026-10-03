@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme ke tla bea Mishkane sa ka hare ho lona, mme moya wa ka o ke ke wa le hloileha ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ke tla bea"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mishkane sa ka"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "hare ho lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o ke ke wa"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "hloileha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:48.643569617Z",
+  "model": "glm-5.3"
+}

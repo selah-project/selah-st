@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme ke tla romella moelanele pele ho wena, mme ke tla hlakola ⟨את⟩ Mokenaane, Moamore, Mohethe, Moperise, Mohive le Mojebuse.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ke tla romella"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ho wena"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "moelanele"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ke tla hlakola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mokenaane"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokenaane"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Moamore"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Mohethe"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Moperise"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mohive"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Mojebuse"
+    }
+  ],
+  "timestamp": "2026-10-03T06:00:00.387048011Z",
+  "model": "glm-5.3"
+}

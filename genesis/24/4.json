@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "ho fihla lefatsheng la ka le ho bolōhong ba ka, o tla ea, mme o tla nka mosali ea mora ka, ea Yitshake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ho fihla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lefatsheng la"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "bolōhong ba ka"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "o tla ea"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tla nka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ea mora ka"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ea Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T05:28:37.348901841Z",
+  "model": "glm-5.3"
+}

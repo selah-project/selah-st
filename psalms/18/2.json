@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme a re: Ke a u rata thata, Yahwe, thuso ya ka.",
+  "tokens": [
+    {
+      "surface": "ואמר ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Ke a u rata thata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "thuso ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:08.498043956Z",
+  "model": "glm-5.3"
+}

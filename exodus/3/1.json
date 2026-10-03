@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Moshe o ne a le mohlodi wa ⟨את⟩ dihlapi tsa Yitro, mokgwenyane wa hae, moprista wa Midyane; mme a hapa ⟨את⟩ dihlapi ka mora ⟨ha⟩ naga e tileng, mme a fihla thabeng ya Elohim, ho Khorebe.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Mme Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o ne a le"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mohlodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dihlapi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dihlapi"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mokgwenyane wa hae"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyane"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "mme a hapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dihlapi"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dihlapi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "naga e tileng"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme a fihla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Khorebe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:24.136151845Z",
+  "model": "glm-5.3"
+}

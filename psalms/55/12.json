@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Ditsietsi di teng ka hara yona, mme tloro le bosiene ha di tobokelle sebakeng sa yona sa phalla.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ditsietsi"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ka hara yona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "di tobokelle"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "sebakeng sa yona sa phalla"
+    },
+    {
+      "surface": "תך",
+      "gloss": "tloro"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "le bosiene"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:40.965849177Z",
+  "model": "glm-5.3"
+}

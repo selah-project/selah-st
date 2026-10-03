@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Ba bona mesebetsi ea Yahwe, le diphopholetso tsa hae bo teng boteng.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "bona"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mesebetsi ea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "le diphopholetso tsa hae"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "bo teng boteng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:59.570144007Z",
+  "model": "glm-5.3"
+}

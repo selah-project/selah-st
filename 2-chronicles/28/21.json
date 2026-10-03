@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Hobane Akhaze o ile a ntsha karolo ho ⟨את⟩ ntlo ya Yahwe le ho ⟨את⟩ ntlo ya morena le ya ditona, mme a e fana ho morena wa Ashure, empa e sa mo thusa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "a ntsha karolo"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akhaze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya morena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya morena"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "le ditona"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a fana"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho morena"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Ashure"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa eseng"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "thuso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T12:35:44.371419033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Sheba ⟨את⟩ tsela ya Elohim, hobane ke mang ya khonang ho lokisa ⟨את⟩ seo a se senotse?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela ya Elohim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ya khonang"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ho lokisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo a se senotse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "a se senotse"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:05.630841476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme a beha ⟨את⟩ setopo sa hae mabitleng a hae; mme ba lla ka ho re: Ao, nnabone!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setopo sa hae"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "setopo sa hae"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "mabitleng a hae"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ba lla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka ho mo"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "nnabone"
+    }
+  ],
+  "timestamp": "2026-10-03T08:10:45.856669795Z",
+  "model": "glm-5.3"
+}

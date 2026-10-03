@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme o tla lotla ⟨את⟩ sediba sa ho hlatsoa le ⟨את⟩ motheo wa sona, mme o tla se halaletsa.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "mme o tla lotla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sediba"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "sediba sa ho hlatsoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "motheo wa sona"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "mme o tla se halaletsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sediba le motheo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:05.096272847Z",
+  "model": "glm-5.3"
+}

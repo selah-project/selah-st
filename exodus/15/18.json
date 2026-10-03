@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Yahwe o tla busa ho fihlela kahosafeleng le ho feta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "o tla busa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ho fihlela kahosafeleng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho feta"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:43.034646536Z",
+  "model": "glm-5.3"
+}

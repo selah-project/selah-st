@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme hore o phete litsebeng tsa mora wa hao le mora wa mora wa hao ⟨את⟩ seo ke se entseng Mitsrayime, le ⟨את⟩ matshwao a ka ke aentseng hara bona; mme le tla tseba hore ke nna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Mme hore"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "o phete"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "litsebeng tsa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mora wa hao"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "le mora wa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mora wa hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo ke se entseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "ke se entseng"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "matshwao a ka"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "matshwao a ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke aentseng"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "a beke"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hara bona"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "mme le tla tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:41.953617167Z",
+  "model": "glm-5.3"
+}

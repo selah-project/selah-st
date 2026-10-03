@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Se ke wa ntsebella bathong ba ntsutsumang, hobane ba bile ba eme khahlanong le ‘na bopaki ba leshano, le ba fufunosang tšohanyetso.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se ke"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "wa ntsebella"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "bathong ba ntsutsumang"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ba ntsutsumang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ba bile ba eme"
+    },
+    {
+      "surface": "בי",
+      "gloss": "khahlanong le ‘na"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ba leshano"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "le ba fufunosang"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tšohanyetso"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:42.132338512Z",
+  "model": "glm-5.3"
+}

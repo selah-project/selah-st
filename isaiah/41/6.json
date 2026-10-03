@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Motho o thusa ⟨את⟩ moahisane oa hae, mme o re ho moena oa hae: E be matla.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moahisane oa hae"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moahisane oa hae"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "o thusa"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "mme ho moena oa hae"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "e be matla"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:13.864015678Z",
+  "model": "glm-5.3"
+}

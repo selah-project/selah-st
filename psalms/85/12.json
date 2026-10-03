@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "Nete e tla hlaha lefatsheng, mme tsedeke e sebile ho tloha mahodimoneng.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Nete"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "e tla hlaha"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "mme tsedeke"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ho tloha mahodimoneng"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "e sebile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:28.179603845Z",
+  "model": "glm-5.3"
+}

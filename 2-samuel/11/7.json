@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Uria a fihla ho yena, mme Dawide a botsa ka khotso ya Yoabe, le khotso ya setjhaba, le khotso ya ntoa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "a botsa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ka khotso ya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "le khotso ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "le khotso ya"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ntoa"
+    }
+  ],
+  "timestamp": "2026-10-03T07:50:59.656063819Z",
+  "model": "glm-5.3"
+}

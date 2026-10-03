@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Hore a ka bona botle ba bakgethwa ba hau, hore a ka thaba ka thabo ea sechaba sa hau, hore a ka duma le bojalo ba hau.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "hore a ka bona"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "botle ba"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "bakgethwa ba hau"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "hore a ka thaba"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ka thabo ea"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "sechaba sa hau"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "hore a ka duma"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "bojalo ba hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:46.717394210Z",
+  "model": "glm-5.3"
+}

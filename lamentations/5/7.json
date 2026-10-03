@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Bo-ntate ba rona ba ile ba khosa, ba sa hlola ba le teng; rona re ile ra rwala boshula ba bona.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "bo-ntate ba rona"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ba ile ba khosa"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ba sa hlola ba le teng"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "boshula ba bona"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "re ile ra rwala"
+    }
+  ],
+  "timestamp": "2026-10-03T13:16:17.106466079Z",
+  "model": "glm-5.3"
+}

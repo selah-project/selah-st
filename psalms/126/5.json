@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 126,
+  "translation": "Ba jelimeditseng ka litemo ba tla kotula ka ho bina.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "ba jelimeditseng"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "ka litemo"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ka ho bina"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "ba tla kotula"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:31.252584156Z",
+  "model": "glm-5.3"
+}

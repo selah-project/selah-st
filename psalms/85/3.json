@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "O ile wa tlosa bosebe ba batho ba hao, o ile wa pata dibe tsa bona kaofela. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "o ile wa tlosa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bosebe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ba batho ba hao"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "o ile wa pata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dibe tsa bona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:19.218223300Z",
+  "model": "glm-5.3"
+}

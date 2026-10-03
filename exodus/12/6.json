@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme e tla ba lona phetho ho fihlela la bolesholane la kgwedi ena; mme sehlopha seohle sa phutheho ya Yisraele se tla e bolaela pakeng tsa mantsiboi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "phetho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "bo-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-leshane"
+    },
+    {
+      "surface": "יום",
+      "gloss": "la"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "mme se tla e bolaela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sehlopha seohle sa phutheho ya Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seohle sa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "sehlopha"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "phutheho ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mantsiboi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:55.123023489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Hobane Yahwe ea tsedeke, o rata tsedeke; ba hlakileng ba tla bona sefahleho sa hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ea tsedeke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o rata"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ba hlakileng"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ba tla bona"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "sefahleho sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:44.362960953Z",
+  "model": "glm-5.3"
+}

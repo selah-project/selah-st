@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Ke ratile, hobane Yahwe o utlwa ⟨את⟩ lentswe la ka, thapelo ya ka ea khotsofalla.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ke ratile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "o utlwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la ka"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentswe la ka"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "thapelo ya ka ea khotsofalla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:36.601013611Z",
+  "model": "glm-5.3"
+}

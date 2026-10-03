@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Ba ne ba tsubabela ⟨את⟩ Yahwe, mme ba ne ba sebeletsa ⟨את⟩ melimo ya bona, ho ya ka tlwaelo ya ditjhaba tseo ba neng ba hosetsoe ho tloha moo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ne ba"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "tsubabela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "melimo ya bona"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "melimo ya bona"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ne ba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sebeletsa"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ho ya ka tlwaelo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "ba hosetsweng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ho tloha moo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:26:36.611282617Z",
+  "model": "glm-5.3"
+}

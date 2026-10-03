@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme o tla etsa ⟨את⟩ ditafo ka mokato wa setlhare sa shitime, mme o di khufetsa gauta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditafo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ditafo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ka mokato wa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitime"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "o di khufetsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "gauta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:50.678569391Z",
+  "model": "glm-5.3"
+}

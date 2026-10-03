@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Dintho tsena ke a di gopola, mme ke phella pelo ya ka ⟨ka hare ho⟩ ’na; hobane ke ne ke ea ka hara sehlopha, ke ne ke tsamaya butle le bona ho fihlela ntlong ya Elohim, ka lentsoe la thabelo le tlotliso, le sehlopha se tshwereng moletlo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dintho tsena"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ke a di gopola"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "mme ke phella"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka hare ho ’na"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ke ne ke ea"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "ka hara sehlopha"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "ke tsamaya butle le bona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentsoe la"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "thabelo"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "le tlotliso"
+    },
+    {
+      "surface": "המון",
+      "gloss": "sehloppa se tshwereng"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "moletlo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:15.831028608Z",
+  "model": "glm-5.3"
+}

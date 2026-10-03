@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 9:15",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Yahwe Tsebaote o tla ba sireletsa; mme ba tla ja, ba tla fenya ka majwe a seletsa; ba tla noa, ba tla lebella jwale ka beine, mme ba tla tlala jwale ka dibjale, jwale ka dikhohlokara tsa alatara.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "יגן",
+      "gloss": "o tla ba sireletsa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hodima bona"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mme ba tla ja"
+    },
+    {
+      "surface": "וכבשו",
+      "gloss": "ba tla fenya"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ka majwe"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "a seletsa"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ba tla noa"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ba tla lebella"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jwale ka"
+    },
+    {
+      "surface": "יין",
+      "gloss": "beine"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mme ba tla tlala"
+    },
+    {
+      "surface": "כמזרק",
+      "gloss": "jwale ka dibjale"
+    },
+    {
+      "surface": "כזויות",
+      "gloss": "jwale ka dikhohlokara"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "tsa alatara"
+    }
+  ],
+  "timestamp": "2026-10-03T10:19:10.732579670Z",
+  "model": "glm-5.3"
+}

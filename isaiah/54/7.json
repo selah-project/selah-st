@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 54,
+  "translation": "Ka nako e nyane ke tlohile hao, mme ka mohau o moholo ke tla o phutha.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "ka nako e nyane"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "e nyane"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "ke tlohile hao"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "mme ka mohau"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "o moholo"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ke tla o phutha"
+    }
+  ],
+  "timestamp": "2026-10-03T08:53:55.459427100Z",
+  "model": "glm-5.3"
+}

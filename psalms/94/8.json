@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Tsekisang, lona ba tlwaelohali hara sechaba, le lona ba sa hlaleng — nako efe le tla hlalefa?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "tsekisang"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "lona ba tlwaelohali"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "hara sechaba"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "le lona ba sa hlaleng"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nako efe"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "le tla hlalefa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:04.022251396Z",
+  "model": "glm-5.3"
+}

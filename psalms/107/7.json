@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Mme a ba tataisa tsela e tolang, hore ba tsamaee ho fihlela motseng oa phomolo.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "a ba tataisa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "e tolang"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hore ba tsamaee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "oa phomolo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:16.355450800Z",
+  "model": "glm-5.3"
+}

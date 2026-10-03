@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "mme le tlose kotsing ⟨את⟩ ntata-ka le ⟨את⟩ mme-ka le ⟨את⟩ baradi-ka ba ka le ⟨את⟩ banana-ka ba ka le ⟨את⟩ tsohle tse di leng tsa bona, mme le pholose ⟨את⟩ meele ya rona ho mafeu.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "mme le boloke botjhing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntata-ka"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntata-ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mme-ka"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mme-ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "baradi-ka ba ka"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "baradi-ka ba ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "banana-ka ba ka"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "banana-ka ba ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tsohle tse di leng tsa bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse di leng"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tsa bona"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "mme le pholose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meele ya rona"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "meele ya rona"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ho mafeu"
+    }
+  ],
+  "timestamp": "2026-10-03T07:04:22.494574609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Ke tla etsa motho e le motho a be mokgethwa ho feta gauta e mpane, le ho feta ketembo ya ga Ophire.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Ke tla etsa... a be mokgethwa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "ho feta gauta e mpane"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "le"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ho feta ketembo"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ya ga Ophire"
+    }
+  ],
+  "timestamp": "2026-10-03T08:35:19.342267609Z",
+  "model": "glm-5.3"
+}

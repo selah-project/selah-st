@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 10:20",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme a re: Na o tseba hore na ke tletse ho tla ho wena? mme jwale ke tla kgutlela ho loana le morena wa Persia; mme ha ke tla ntse ke tswa, mme bono, morena wa Yavane o ea tla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "הידעת",
+      "gloss": "na o tseba"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hore na ke eng"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ke tletse ho tla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ke tla kgutlela"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ho loana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שר",
+      "gloss": "morena"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "wa Persia"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ke tla tswa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bono"
+    },
+    {
+      "surface": "שר",
+      "gloss": "morena"
+    },
+    {
+      "surface": "יון",
+      "gloss": "wa Yavane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o ea tla"
+    }
+  ],
+  "timestamp": "2026-10-03T11:56:50.330128661Z",
+  "model": "glm-5.3"
+}

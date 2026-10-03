@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mantswe a ka a ya ka tokelo ya pelo ya ka; mme sefofane sa ka se tseba se hlakileng se se bolelang.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "tokelo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mantswe a ka"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "mme se tseba"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sefofane sa ka"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "se hlakileng"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "se se bolelang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:30:14.223271343Z",
+  "model": "glm-5.3"
+}

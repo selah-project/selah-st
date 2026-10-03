@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "O se ke wa khahlela ntlo ya moahisane hao; o se ke wa khahlela mosadi wa moahisane hao, le mosomi wa hae, le mosadi-mosomi wa hae, le khomo ya hae, le esel ya hae, le seng le se seng se leng ya moahisane hao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "wa khahlela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ya moahisane hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "wa khahlela"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ya moahisane hao"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "le mosomi wa hae"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "le mosadi-mosomi wa hae"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "le khomo ya hae"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "le esel ya hae"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le seng le se seng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "se leng ya moahisane hao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:47.903784716Z",
+  "model": "glm-5.3"
+}

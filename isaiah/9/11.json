@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Aramele ka bochaba, mme Bafilisithea ka morao; mme ba ile ba ja ⟨את⟩ Yisraele ka mohala oohle. Ka tsohle tsena peloaepe ya hae e sa khutle, mme seatla sa hae se ntse se pharalletse.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aramele"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ka bochaba"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "mme Bafilisithea"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "ka morao"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mme ba ile ba ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka oohle"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mohala"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka tsohle"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha e"
+    },
+    {
+      "surface": "שב",
+      "gloss": "khutle"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "peloaepe ya hae"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "mme e sa ntse"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa hae"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "se pharalletse"
+    }
+  ],
+  "timestamp": "2026-10-03T08:35:32.346661012Z",
+  "model": "glm-5.3"
+}

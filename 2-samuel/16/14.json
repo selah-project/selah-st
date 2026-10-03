@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme morena le setjhaba sona sohle se nang ⟨את⟩ le ena ba fihla ba khathetse, mme ba phomola moo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le setjhaba sona sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ena",
+      "marks": "le ena"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "ba khathetse"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "ba phomola"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:54:57.527698616Z",
+  "model": "glm-5.3"
+}

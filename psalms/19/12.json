@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Hape mothaka ya hao o a hlokomisoa ka tsona; ho li boloka ho na le moputso o moholo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hape"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mothaka ya hao"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "o a hlokomisoa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka tsona"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "ho li boloka"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "moputso"
+    },
+    {
+      "surface": "רב",
+      "gloss": "o moholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:37.666773348Z",
+  "model": "glm-5.3"
+}

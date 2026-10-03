@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme e bile ha Dawide le banna ba hae ba fihla Tsiklage ka letsatsi la boraro, Ba-Amaleke ba ile ba hlasela Neegebe le Tsiklage, ba ile ba otla ⟨את⟩ Tsiklage, mme ba e chesa ka mollo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "ha ba fihla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba hae"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklage"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "la boraro"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "Ba-Amaleke"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "ba hlasela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Neegebe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklage"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba ile ba otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklage"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklage"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ba e chesa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "ka mollo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    }
+  ],
+  "timestamp": "2026-10-03T07:45:46.797030383Z",
+  "model": "glm-5.3"
+}

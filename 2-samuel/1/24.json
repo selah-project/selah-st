@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 1:24",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Baradi ba Yisraele, lla Saule, ya le apetseng khalalahala le boithabisong, ya behang dinepe tsa gauta diapareng tsa lona.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "Baradi ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saule"
+    },
+    {
+      "surface": "בכינה",
+      "gloss": "lla"
+    },
+    {
+      "surface": "המלבשכם",
+      "gloss": "ya le apetseng"
+    },
+    {
+      "surface": "שני",
+      "gloss": "khalalahala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "עדנים",
+      "gloss": "boithabisong"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ya behang"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "dinepe tsa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "על",
+      "gloss": "diapareng tsa"
+    },
+    {
+      "surface": "לבושכן",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:47:01.961710617Z",
+  "model": "glm-5.3"
+}

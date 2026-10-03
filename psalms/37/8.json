@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Ema ka pelo e phumotseng tlhahofo, mme tlohele boklope; o se ke wa tuka, e tla bakela bobe feela.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "ema ka pelo e phumotseng"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "tlhahofo"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "mme tlohele"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "boklope"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "tuka"
+    },
+    {
+      "surface": "אך",
+      "gloss": "feelа"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "e tla bakela bobe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:02.891973871Z",
+  "model": "glm-5.3"
+}

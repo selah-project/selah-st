@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 98,
+  "translation": "Hlahlamang ho Yahwe, lefatshe lohle; qhalang thoko, mme le lla ka thabo, mme le bine dipina.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Hlahlamang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "qhalang thoko"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "mme le lla ka thabo"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "mme le bine dipina"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:14.481244517Z",
+  "model": "glm-5.3"
+}

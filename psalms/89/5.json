@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Ho fihla ho nako e sa feleng ke tla theha peo ya hao, mme ke tla aha setulo sa hao molao le molao. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ho fihla ho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nako e sa feleng"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ke tla theha"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya hao"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "mme ke tla aha"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "molao"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "le molao"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "setulo sa hao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:27.545537116Z",
+  "model": "glm-5.3"
+}

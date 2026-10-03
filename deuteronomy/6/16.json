@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Le se ke la leka ⟨את⟩ Yahwe Elohim ya lona, jwalo ka ha le ile la ⟨mo⟩ leka ha Masaha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "la leka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya lona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "le ile la leka"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "ha Masaha"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:46.900147032Z",
+  "model": "glm-5.3"
+}

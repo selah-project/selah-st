@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Ke sehlaha se batlang ⟨את⟩ Yahwe, se batlang sefahleho sa hao — Yaakobo. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ke se"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sehlaha"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "se batlang"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "se batlang"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:59.509058872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Empa wena, Yahwe Adonai, etsa ka mehla ⟨את⟩ ho nna bakeng sa lebitso la hao, hobane hesede ya hao e molemo — ntlohelle.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "empa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ho nna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e molemo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ntlohelle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:04.881050104Z",
+  "model": "glm-5.3"
+}

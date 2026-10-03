@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ Evale, le ⟨את⟩ Abima ele, le ⟨את⟩ Sheba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Evale"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Evale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abimaele"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimaele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-10-03T12:08:57.986457979Z",
+  "model": "glm-5.3"
+}

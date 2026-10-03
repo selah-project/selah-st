@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme ba ntshepisang ba phela, ba matla; mme ba mpolai-hloko ba ile ba ata.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "mme ba ntshepisang"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ba phela"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ba matla"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mme ba ile ba ata"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ba mpolai-hloko"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hloko"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:10.743525603Z",
+  "model": "glm-5.3"
+}

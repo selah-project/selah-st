@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "A be tafole ya bona e be teisi pele ho bona, le sebakeng sa khotso ea bona e be sefahleho sa sesiu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "a be"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "tafole ya bona"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pele ho bona"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "e be teisi"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "le sebakeng sa khotso ea bona"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "e be sefahleho sa sesiu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:30.943136472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Ba bana ba Yehuda, bashepi ba ⟨את⟩ tshepe le ⟨את⟩ borele, ba ne ba le dikete tse tshela le makgolo a robedi, ba aparolotseng tshwanelo ya ntwa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ba bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "bashepi ba"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "tshepe"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "le borele"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "tse tshela"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "le robedi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "ba aparolotseng"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tshwanelo ya ntwa"
+    }
+  ],
+  "timestamp": "2026-10-03T12:15:14.735935557Z",
+  "model": "glm-5.3"
+}

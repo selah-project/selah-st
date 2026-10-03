@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Batsheba a kena ho morena ka phaposing; mme morena a be a lokile haholo; mme Abishage ya Shuneme a ne a hlankela ⟨את⟩ morena.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "ka phaposing"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mme morena"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a be a lokile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "mme Abishage"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "ya Shuneme"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "a ne a hlankela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:00:53.479019106Z",
+  "model": "glm-5.3"
+}

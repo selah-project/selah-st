@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "⟨את⟩ di-pedi tsa dikoloi le ⟨את⟩ dikgomo tse nne o ile a fa bara ba Gereshone, ho ya ka tiro ya bona.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di-pedi tsa dikoloi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "di-pedi"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "tsa dikoloi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo tse nne"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "tse nne"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o ile a fa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshone"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ho ya ka"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "tiro ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:46:27.865857851Z",
+  "model": "glm-5.3"
+}

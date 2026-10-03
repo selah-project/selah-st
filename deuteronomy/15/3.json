@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "⟨את⟩ motho wa sebakeng se seng o ka mo kokoana; empa se se leng le wena ⟨את⟩ ho moholoane wa hao, letsogo la hao le tla le shemisa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho wa sebakeng se seng"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "motho wa sebakeng se seng"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "o ka mo kokoana"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "empa se"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se leng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ho"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "moholoane wa hao"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "o tla shemisa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsogo la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:53:16.572228781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Ho tsona nonyana tsa mahodimo di lula; pakeng tsa maleo di fana ka lentsoe.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "nonyana"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa mahodimo"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "di lula"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "maleo"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "di fana ka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentsoe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:45.214716344Z",
+  "model": "glm-5.3"
+}

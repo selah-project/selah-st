@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme ke tla o atisa haholo haholo, mme ke tla o etsa ditjhaba, mme marena a tla tswa ho wena.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "mme ke tla o atisa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ o",
+      "marks": "wena"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "mme ke tla o etsa"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "marena"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "a tla tswa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:25:18.246062587Z",
+  "model": "glm-5.3"
+}

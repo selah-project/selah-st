@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme barudi ba tla mme ba ba tlola; mme Moshe a thoma mme a ba hlolohetse, mme a mennya ⟨את⟩ dikgomo tsa tsona.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "barudi"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "ba ba tlola"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a thoma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "a ba hlolohetse"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "a mennya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgomo tsa tsona"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "dikgomo tsa tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:31.054129919Z",
+  "model": "glm-5.3"
+}

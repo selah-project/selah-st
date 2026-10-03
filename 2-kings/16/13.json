@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme a chesa ⟨את⟩ ofara ya hae e cheswang le ⟨את⟩ minkha ya hae, a tsehela ⟨את⟩ nseke ya hae, mme a hlatsoa ⟨את⟩ madi a ditlhabelo tsa khotso tsa hae hodima ⟨את⟩ altare.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "a chesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofara ya hae e cheswang"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ofara ya hae e cheswang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "minkha ya hae"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "minkha ya hae"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "a tsehela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nseke ya hae"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "nseke ya hae"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "mme a hlatsoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a ditlhabelo tsa khotso"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "a ditlhabelo tsa khotso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tsa hae"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    }
+  ],
+  "timestamp": "2026-10-03T08:26:35.699028070Z",
+  "model": "glm-5.3"
+}

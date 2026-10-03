@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Le ⟨את⟩ letlalo la mofufu, le ⟨את⟩ nama ya hae kaofela, le sehlooho sa hae le maoto a hae, le mala a hae le matleng a hae.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "letlalo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "la mofufu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "nama ya hae kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nama ya hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "le"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sehlooho sa hae"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "maoto a hae"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "mala a hae"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "matleng a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:53.394783976Z",
+  "model": "glm-5.3"
+}

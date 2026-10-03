@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Moshe a kgetha banna ba matla ho tsoa ho Yisraele kaofela, mme a ba etsa ditlhogo hodima setjhaba, balaodi ba dikete, balaodi ba makgolo, balaodi ba mashome a hlano, le balaodi ba leshome.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "a kgetha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ba matla"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tsoa ho kaofela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba (banna ba matla)"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ditlhogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ba dikete"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ba makgolo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ba mashome a hlano"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le balaodi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ba leshome"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:41.868361184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 128,
+  "translation": "Mosali ea hao ⟨o tla ba⟩ joalo ka leru la mebala ka lapeng la hao; bana ba hao joalo ka meru ea di-olifi ho potolosa tafole ea hao.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Mosali ea hao"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "joalo ka leru"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "la mebala"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "ka lapeng la hao"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "la hao"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba hao"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "joalo ka meru"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ea di-olifi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potolosa"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "tafole ea hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:11.426499071Z",
+  "model": "glm-5.3"
+}

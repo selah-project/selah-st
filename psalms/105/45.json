@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Hore ba ka boloka melawana ya hae, mme Torot ya hae ba e hlokomela. Lebohang Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ba ka boloka"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "melawana ya hae"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "mme Torot ya hae"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ba e hlokomela"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lebohang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:02.393349568Z",
+  "model": "glm-5.3"
+}

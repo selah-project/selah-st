@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 2:25",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme barwa ba Yerakhmeele, ya tswetseng pele wa Khetsrone, ba ne ba le ⟨hano⟩: Rame ya tswetseng pele, le Bune, le Orene, le Otseme, le Ahiya.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ba ne ba le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerakhmeele"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ya tswetseng pele wa"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetsrone"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ya tswetseng pele"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Rame"
+    },
+    {
+      "surface": "ובונה",
+      "gloss": "le Bune"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "le Orene"
+    },
+    {
+      "surface": "ואצם",
+      "gloss": "le Otseme"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "le Ahiya"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:50.807850919Z",
+  "model": "glm-5.3"
+}

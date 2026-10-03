@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ho bana ba Aharone moprista ba nea ⟨את⟩ toropo ya bophemelo bakeng sa mobolai, ⟨את⟩ Chevrome le ⟨את⟩ meraka ya yona, le ⟨את⟩ Livnahe le ⟨את⟩ meraka ya yona.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba nea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo ya bophemelo bakeng sa mobolai"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "ya bophemelo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ya mobolai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevrome"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevrome"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "meraka ya yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "meraka ya yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Livnahe"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnahe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "meraka ya yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "meraka ya yona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:31.348861558Z",
+  "model": "glm-5.3"
+}

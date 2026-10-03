@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme o tla etsa dieriah tsa mabaka a bakine bakeng sa tenda hodima Mishkane; dieriah tse leshome le 'ngoe o tla di etsa ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mme o tla etsa"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dieriah"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "tsa mabaka a bakine"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "bakeng sa tenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "tse leshome"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "le 'ngoe"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dieriah"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla di etsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "dieriah tse leshome le 'ngoe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:40.179060423Z",
+  "model": "glm-5.3"
+}

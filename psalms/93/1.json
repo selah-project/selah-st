@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 93,
+  "translation": "Yahwe o busa, o apere boholo; Yahwe o apere matla, o ikhomme ka lona; ho feta moo, lefatshe le ⟨a⟩ hloma, le ke ke la tshikama.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o busa"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "boholo"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "o apere"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "o apere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "o ikhomme"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ho feta moo"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "le hlometse"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tshikama"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:00.891749156Z",
+  "model": "glm-5.3"
+}

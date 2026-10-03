@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme a etsa ⟨את⟩ ditlalla ka dikgati tsa shitime, mme ⟨את⟩ a di khufisha ka tongore.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlalla"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ditlalla"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ka dikgati"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "tsa shitime"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "a di khufisha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ a di",
+      "marks": "khufisha"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ka tongore"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:01.600736886Z",
+  "model": "glm-5.3"
+}

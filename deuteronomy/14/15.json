@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "le ⟨את⟩ ngoana ya yaaneng, le ⟨את⟩ takhmas, le ⟨את⟩ shakhaf, le ⟨את⟩ nets, ho mofuta wa yona;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ngoana ya yaaneng"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ngoana"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ya yaaneng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "takhmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "takhmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "shakhaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "shakhaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "nets"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ho mofuta wa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:51:37.599488906Z",
+  "model": "glm-5.3"
+}

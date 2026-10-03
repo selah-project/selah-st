@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme ba sa utloe lentswe la ka, ba sa tla nka hloko ea tsebe; ba ile ba thatafatsa letsogo la bona, ba etsa bobe ho feta maloko a bona.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "Mme ba sa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "utloe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lentswe la ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "tla nka hloko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsebe ea bona"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "tsebe ea bona"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ba ile ba thatafatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsogo la bona"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "letsogo la bona"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "ba etsa bobe"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "ho feta maloko a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:05:11.599890456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Sutura, tsamaea o ye Nineve, ⟨⟨the⟩⟩ toropo e kgolo, mme o kgele tle yena ⟨את⟩ karolo eo ke e bolelang ho wena:",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "sutura"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsamaea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o ye"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "mme o kgele"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tle yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karolo"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e bolelang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:04.122822815Z",
+  "model": "glm-5.3"
+}

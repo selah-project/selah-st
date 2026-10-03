@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Bonang, ha o ntse o bua ha ho morena, nna ke tla tla ka mora hao, mme ke tla tlatsa ⟨את⟩ mantswe a hao.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ha o ntse"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ke tla tla"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ka mora hao"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "ke tla tlatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe a hao"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "mantswe a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T08:00:53.478759135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "le ⟨את⟩ Hadorame, le ⟨את⟩ Uzale, le ⟨את⟩ Diklaha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Hadorame"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadorame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Uzale"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Diklaha"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diklaha"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:14.372087662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Ha a bea matshwao a hae ho Mitsrayime, le makgabunyane a hae sebakeng sa Tsoane —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ho Mitsrayime"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "matshwao a hae"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "le makgabunyane a hae"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoane"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:17.122936468Z",
+  "model": "glm-5.3"
+}

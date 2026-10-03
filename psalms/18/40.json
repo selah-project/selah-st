@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme o ntšoareletse ka matla bakeng sa ntoa; o khutsafatsa ba ntsuhang tlas'a ka.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "o ntšoareletse ka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "matla"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "bakeng sa ntoa"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "o khutsafatsa"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "ba ntsuhang"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "tlas'a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:10.870049084Z",
+  "model": "glm-5.3"
+}

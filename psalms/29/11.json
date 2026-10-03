@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Yahwe o fa setjhaba sa hae matla; Yahwe o hlohlotletsa ⟨את⟩ setjhaba sa hae kgalalelong ya khotso.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "setjhaba sa hae"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o hlohlotletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba sa hae"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setjhaba sa hae"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "kgalalelong ya khotso"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:23.327454717Z",
+  "model": "glm-5.3"
+}

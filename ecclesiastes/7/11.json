@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Bohlale bo molebo ⟨le⟩ lefa, mme molemo o moholo ho ba bonang letsatsi.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "bo molebo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "lefa"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "molemo o moholo"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "ho ba bonang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:44.283035908Z",
+  "model": "glm-5.3"
+}

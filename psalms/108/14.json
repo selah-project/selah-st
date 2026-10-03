@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 108,
+  "translation": "Ka Elohim re tla etsa matla; mme oena ⟨ke⟩ yena ya tla khwefolang ba re tswarelang.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re tla etsa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "matla"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme oena ⟨ke⟩ yena"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "ya tla khwefolang"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ba re tswarelang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:39.440704121Z",
+  "model": "glm-5.3"
+}

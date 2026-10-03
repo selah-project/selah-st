@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Khalang ka Yahwe, lona ba tsedeke; bakeng sa ba tshwanetseng, taele e lokile.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Khalang"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba tsedeke"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "bakeng sa ba tshwanetseng"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "e lokile"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "taele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:57.416005202Z",
+  "model": "glm-5.3"
+}

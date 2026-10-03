@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Na ha se jwalo ka ha ke entseng ho Shomeron le ho melimo ea eona, jwale tla etsa ho Yerushalayime le ho sesupo sa eona?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Na ha se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke entseng"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "ho Shomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "le ho melimo ea eona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "tla etsa"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ho Yerushalayime"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "le ho sesupo sa eona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:35:30.901023450Z",
+  "model": "glm-5.3"
+}

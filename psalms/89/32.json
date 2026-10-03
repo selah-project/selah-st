@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Ha ba hlotla melao ya ka, mme meela ya ka ba e sa boloke:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melao ya ka"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ba tla hlotla"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "mme meela ya ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba e sa"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "boloke"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:53.941805313Z",
+  "model": "glm-5.3"
+}

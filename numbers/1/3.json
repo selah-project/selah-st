@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ho tloha ho ngwana wa dilemo di mashome a mabedi le hodimo, bohle ba khutlang setsing sa ntoa Yisraele, le tla ba phalleho ka masole a bona, wena le Aharone.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Ho tloha ho ngwana wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dilemo di mashome a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "le hodimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ba khutlang"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "setsing sa ntoa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "le tla ba phalleho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "phalleho ea bona"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ka masole a bona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:55.796338980Z",
+  "model": "glm-5.3"
+}

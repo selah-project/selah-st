@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 115,
+  "translation": "Matsoho a bona, empa a ka se khanye; maoto a bona, empa a ka se tsamaee; ha ba humulle ka mometong oa bōna.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "Matsoho a bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa a ka se"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "khanye"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "maoto a bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa a ka se"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "tsamaee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ba humulle"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "ka mometong oa bōna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:48.997465238Z",
+  "model": "glm-5.3"
+}

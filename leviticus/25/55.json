@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Hobane bana ba Yisraele ke makgutsa; makgutsa ba ke baneng ke ba tsweditseng ⟨את⟩ ⟨אותם⟩ sebakeng sa Mitsrayime; ke nna, Yahwe, Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "makgutsa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "makgutsa ba ka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ke ba tsweditseng"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "bona — bana ba Yisraele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:19.375845640Z",
+  "model": "glm-5.3"
+}

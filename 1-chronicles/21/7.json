@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ntho ena e ile ya ba e mpe mahlong a Elohim, mme o ile a otla ⟨את⟩ Yisraele.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "e mpe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ntho"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T12:17:47.630090714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Dawide le hlobo yohle ya Yisraele ba ne ba isa ⟨את⟩ arka ya Yahwe ka teriu le ka modumo wa shofare.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Mme Dawide"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le yohle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hlobo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ba ne ba isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ka teriu"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "le ka modumo"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofare"
+    }
+  ],
+  "timestamp": "2026-10-03T12:55:20.705105976Z",
+  "model": "glm-5.3"
+}

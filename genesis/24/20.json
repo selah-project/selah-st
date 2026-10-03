@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme a isa pele, a entsa kadé ya hae hohle sebakeng sa ho noa sa dikamela, mme a matha hape ho sediba ho hela metsi, mme a hela metsi bakeng sa dikamela tsa hae kaofela.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "a isa pele"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "a entsa hohle"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "kadé ya hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "sebakeng sa ho noa"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "a matha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "sediba"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "ho hela metsi"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "a hela metsi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa ... kaofela"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "dikamela tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:28:18.212863913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme Yahwe a utlwa lentswe la Yisraele, mme a neha ⟨את⟩ Moabi; mme ba hlaola ⟨את⟩ bona le ⟨את⟩ metse ya tsona; mme ba bitsa lebitso la sebakeng seo Khorima.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraele"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a neha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "ba hlaola"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "metse ya tsona"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "metse ya tsona"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ba bitsa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "la sebakeng seo"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Khorima"
+    }
+  ],
+  "timestamp": "2026-10-03T06:32:54.077219288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Le hore a tla phele ka ho sa feleng, a se ke a bona ⟨ho⟩ bola.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a tla phele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "le hore"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka ho sa feleng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "a bone"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "ho bola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:03.857345534Z",
+  "model": "glm-5.3"
+}

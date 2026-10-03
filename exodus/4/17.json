@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ⟨את⟩ thoka ena o tla e tshwara ka letsohong la hao, eo o tla etsa ka yona ⟨את⟩ matshwao.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thoka ena"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "thoka ena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "o tla e tshwara"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ka letsohong la hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matshwao"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "matshwao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:27.883932628Z",
+  "model": "glm-5.3"
+}

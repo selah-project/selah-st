@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme barwelibanyane ba tshaba ⟨את⟩ Elohim, mme ba sa eteng joalo ka ha morena wa Mitsrayime a buile ho tsona; mme ba dumedisa ⟨את⟩ bana.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "ba tshaba"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "barwelibanyane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa eteng"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba sa eteng"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "joalo ka ha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayime"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "ba dumedisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-03T12:43:32.310396590Z",
+  "model": "glm-5.3"
+}

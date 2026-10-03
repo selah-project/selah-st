@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ya dutlang mahodimong o a gakgatsa; Adonai o a ba hlonaphatsa.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Ya dutlang"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "o a gakgatsa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "o a ba hlonaphatsa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:01.304136936Z",
+  "model": "glm-5.3"
+}

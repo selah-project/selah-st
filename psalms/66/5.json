@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Tlang, le bone mesebetsi ya Elohim; e tsabahala mekgwa ya hae ho batho.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tlang"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "e tsabahala"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "mokgwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:36.945574748Z",
+  "model": "glm-5.3"
+}

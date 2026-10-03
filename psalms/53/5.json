@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 53,
+  "translation": "Na ba etsang φaha ha ba na tsebo? ba jang sechaba sa ka ja borote, Elohim ba sa mo bitza.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Na"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ha ba na tsebo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "און",
+      "gloss": "φaha"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ba jang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sechaba sa ka"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "borote"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "mo bitza"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:55.269207694Z",
+  "model": "glm-5.3"
+}

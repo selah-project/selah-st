@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Motho ka mehlolo, a sa utlwisise, o tshwanetse le diphoofolo, tse feditsweng.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Motho"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "ka mehlolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "utlwisise"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "o tshwanetse"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "le diphoofolo"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "tse feditsweng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:16.676217921Z",
+  "model": "glm-5.3"
+}

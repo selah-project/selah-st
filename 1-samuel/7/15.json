@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Samuele a atisa kahlolo ⟨את⟩ Yisraele matsatsi ohle a bophelo ba hae.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a atisa kahlolo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "a bophelo ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:18.015389243Z",
+  "model": "glm-5.3"
+}

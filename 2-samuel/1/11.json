@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Dawide o ile a tswara diaparo tsa hae, mme a li sennya; le banna bohle bao e neng e le ⟨את⟩ ena le bona.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "o ile a tswara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "diaparo tsa hae"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "a li sennya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao e neng e le"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ena le bona",
+      "marks": "ena le bona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:47:21.970984670Z",
+  "model": "glm-5.3"
+}

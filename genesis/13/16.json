@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme ke tla etsa ⟨את⟩ peo ya hau e tshwana le mohlaba wa lefatshe; haeba motho a ka bala ⟨את⟩ mohlaba wa lefatshe, le peo ya hau e tla baloa.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Mme ke tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peo ya hau"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya hau"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "e tshwana le mohlaba wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "a ka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mohlaba wa lefatshe"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mohlaba wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya hau"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "e tla baloa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:50.244759613Z",
+  "model": "glm-5.3"
+}

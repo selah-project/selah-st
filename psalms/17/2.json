@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Kahlolo ea ka e tloe pele ho Wena; mahlo a Hona a bone toka.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "pele ho Wena"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kahlolo ea ka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e tloe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a Hona"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "a bone"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:55.024043449Z",
+  "model": "glm-5.3"
+}

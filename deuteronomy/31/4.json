@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme Yahwe o tla ba etsela jwalo ka ha a ile a etsa Sihone le Oge, dikgosi tsa Baemore, le naha ya tsona, ao a ileng a ba timetsa ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Mme o tla etsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a ile a etsa"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "ho Sihone"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "le ho Oge"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemore"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "le naha ya tsona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "a ileng a timetsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "bona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:50:46.719671234Z",
+  "model": "glm-5.3"
+}

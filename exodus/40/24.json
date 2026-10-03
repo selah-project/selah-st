@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme a beha ⟨את⟩ setshwantsho sa dikandele hohleleng ya kopano, se tlakanetse tafole, mose o moholo wa Mishkane ka borwa.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Mme a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshwantsho sa dikandele"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "setshwantsho sa dikandele"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "hohleleng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "se tlakanetse"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "על",
+      "gloss": "mose"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "o moholo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa Mishkane"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ka borwa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:55.005778362Z",
+  "model": "glm-5.3"
+}

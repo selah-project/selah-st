@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ha motho a rekisa ⟨את⟩ moradi wa hae ho ba lekharebara, ha a tlo tswa jwalo ka tswo ya bahlanka.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "a rekise"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moradi wa hae"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "moradi wa hae"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "ho ba lekharebara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a tlo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tswa"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "jwalo ka tswo ya"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "bahlanka"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:00.970798703Z",
+  "model": "glm-5.3"
+}

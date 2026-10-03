@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "le tephe eo letsogo la hao la hodimo le e adileng, le mora eo o mo matlafaditseng bakeng sa hao.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "le tephe ena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "le e adileng"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsogo la hao la hodimo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "o mo matlafaditseng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bakeng sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:29.754467293Z",
+  "model": "glm-5.3"
+}

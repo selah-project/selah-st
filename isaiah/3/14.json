@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Yahwe o tla kena kahong le baholo ba batho ba hae le balaodi ba bona; mme lona le jeile ⟨את⟩ sebola — sehofa sa mafutsane se ile matlong a lona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kahong"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o tla kena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo ba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "batho ba hae"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "mme balaodi ba bona"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "le jeile"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "⟨את⟩ sebola"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "sehofa sa"
+    },
+    {
+      "surface": "העני",
+      "gloss": "mafutsane"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "matlong a lona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:33:20.450499861Z",
+  "model": "glm-5.3"
+}

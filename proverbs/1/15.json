@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mmorwanaka, se tsamae tseleng le ⟨את⟩ bona; thibela leoto la hao mokgatleng wa bona.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mmorwanaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tsamae"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le ⟨את⟩ bona"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "thibela"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "leoto la hao"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "mokgatleng wa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:02.839434503Z",
+  "model": "glm-5.3"
+}

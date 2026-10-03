@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Yahwe o tla dula ka ⟨את⟩ Yehuda e le karolo ya hae, hodima lefatshe le halalelang, mme o tla kgetha Yerushalayime hape.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "mme o tla dula ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "karolo ya hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "le halalelang"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "mme o tla kgetha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T10:17:12.809723891Z",
+  "model": "glm-5.3"
+}

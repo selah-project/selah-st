@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 99,
+  "translation": "Moshe le Aharone har'a baprista ba hae, mme Shemuele har'a ba bitsehang lebitso la hae; ba ile ba bitla Yahwe, mme o ile a ba araba.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "har'a baprista ba hae"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "mme Shemuele"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "har'a ba bitsehang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "ba ile ba bitla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme o ile"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "a ba araba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:36.363115459Z",
+  "model": "glm-5.3"
+}

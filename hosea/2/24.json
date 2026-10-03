@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "mme lefatshe le tla araba ⟨את⟩ koro, le ⟨את⟩ veine, le ⟨את⟩ oli; mme di tla araba ⟨את⟩ Yizreele.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "mme lefatshe"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "le tla araba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koro"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "koro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "veine"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "veine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "oli"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "oli"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme di"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "tla araba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreele"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreele"
+    }
+  ],
+  "timestamp": "2026-10-03T09:59:41.747646693Z",
+  "model": "glm-5.3"
+}

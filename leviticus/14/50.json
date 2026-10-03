@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme a bolae ⟨את⟩ nonyane e 'ngoe setlapeng sa letsopa, hodima metsi a phelang.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "a bolae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonyane e 'ngoe"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "nonyane"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e 'ngoe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "setlapeng"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "setlape"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sa letsopa"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a phelang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:09:50.975077856Z",
+  "model": "glm-5.3"
+}

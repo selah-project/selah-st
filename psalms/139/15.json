@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Mafura a ka a ka se ke a patoa ho Uena, esita le ha ke ne ke entsoe ka bofitšoa, ke bopiloe mahareng, fatshe oa ka:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a ka se ke a"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "patoa"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mafura a ka"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ho Uena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esita le ha"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke ne ke entsoe"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka bofitšoa"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ke bopiloe mahareng"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "fatshe oa ka:"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatše"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:36.081516726Z",
+  "model": "glm-5.3"
+}

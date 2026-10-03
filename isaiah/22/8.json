@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme a tlosa ⟨את⟩ sephethe sa Yuduta; mme o ile a lebelela ka letsatsi leo ho dihlaselo tsa ntlo ya sehlaha.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Mme a tlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sephethe sa Yuduta"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "sephethe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuduta"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "mme o ile a lebelela"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "dihlaselo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ya sehlaha"
+    }
+  ],
+  "timestamp": "2026-10-03T08:40:10.986831180Z",
+  "model": "glm-5.3"
+}

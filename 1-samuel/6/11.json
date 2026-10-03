@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Ba beha ⟨את⟩ arka ya Yahwe koloieng, le ⟨את⟩ lepheo, le ⟨את⟩ ditsepe tsa gauta, le ⟨את⟩ ditshwantsho tsa mahlongwana a tsona.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ba beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "koloieng"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "koloi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lepheo"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "lepheo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditsepe tsa gauta"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "ditsepe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditshwantsho tsa mahlongwana a tsona"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "ditshwantsho"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "tsa mahlongwana a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:50.258277587Z",
+  "model": "glm-5.3"
+}

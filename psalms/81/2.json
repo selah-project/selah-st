@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Binang ka thabo ho Elohim, matla a rona; leloleng ho Elohim wa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "binang ka thabo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "matla a rona"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "leloleng"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:11.129560225Z",
+  "model": "glm-5.3"
+}

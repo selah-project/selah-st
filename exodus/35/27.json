@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Mme balaodi ba hlahisa ⟨את⟩ majwe a shohame le ⟨את⟩ majwe a tlatseholo, bakeng sa efode le bakeng sa hoshene",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "Mme balaodi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ba hlahisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majwe a shohame"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "majwe"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "a shohame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "majwe a tlatseholo"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "majwe"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "a tlatseholo"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "bakeng sa efode"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "le bakeng sa hoshene"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:25.491634791Z",
+  "model": "glm-5.3"
+}

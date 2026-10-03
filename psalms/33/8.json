@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Ho tshaba Yahwe lefatshe lohle; ho tloha ho yena ba sokoloha ba dulang lefatshe ka bophara.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Ho tshaba"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe (ho tloha ho)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho tloha ho yena"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ba sokoloha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dulang"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe ka bophara"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:04.254034047Z",
+  "model": "glm-5.3"
+}

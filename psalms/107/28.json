@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Ba llapelela Yahwe nakong ya bothathabo ba tona, mme o ba ntsha boemong bo thata ba tona.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ba llapelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nakong ya bothathabo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba tona"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "boemong bo thata ba tona"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "o ba ntsha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:46.044326458Z",
+  "model": "glm-5.3"
+}

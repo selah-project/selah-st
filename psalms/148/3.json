@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "Rorisang ⟨את⟩ hae, letsatsi le ngwedi, rorisang ⟨את⟩ hae, dinaledi tsohle tsa khanya.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Rorisang ⟨את⟩ hae"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "le ngwedi"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "rorisang ⟨את⟩ hae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "dinaledi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tsa khanya"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:36.441963174Z",
+  "model": "glm-5.3"
+}

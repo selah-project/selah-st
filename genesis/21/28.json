@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme Abrahame o ile a beha ⟨את⟩ dipoo tse supileng tsa dinku ka thoko.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "o ile a beha"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipoo tse supileng"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tse supileng"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "dipoo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tsa dinku"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "ka thoko"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:08.766915743Z",
+  "model": "glm-5.3"
+}

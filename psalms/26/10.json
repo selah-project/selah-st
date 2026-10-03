@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Bao matswong a tsona ho nnа bokelele, le letsohong la tsona le hodimo le tlala lichekiso.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "matswong a tsona"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "bokelele"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "letsohong la tsona la hodimo"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tlala"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "lichekiso"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:22.348927633Z",
+  "model": "glm-5.3"
+}

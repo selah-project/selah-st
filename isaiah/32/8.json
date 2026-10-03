@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme ya bongatla o rala dilo tsa bongatla, mme oona ka dilo tsa bongatla o tla ema.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "mme ya bongatla"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "dilo tsa bongatla"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "o rala"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme oona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "dilo tsa bongatla"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "o tla ema"
+    }
+  ],
+  "timestamp": "2026-10-03T08:44:29.054701700Z",
+  "model": "glm-5.3"
+}

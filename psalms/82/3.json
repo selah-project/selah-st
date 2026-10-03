@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 82,
+  "translation": "Aholang ya fokolang le lehloa; bakeng sa ya hlokileng le ya fokolang haholo, etsang toka.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Aholang"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ya fokolang"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "le lehloa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ya hlokileng"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "le ya fokolang haholo"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "etsang toka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:52.608776923Z",
+  "model": "glm-5.3"
+}

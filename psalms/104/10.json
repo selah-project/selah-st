@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Ya romellang dimmele ditalalong; pakeng tsa dithaba di tsamaya.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Ya romellang"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "dimmele"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "ditalalong"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "di tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:45.214452460Z",
+  "model": "glm-5.3"
+}

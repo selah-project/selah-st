@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Ho fihlela nako ya ho tla lentsoe la hae; lentswe la Yahwe le ile la mo hlahloba.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya ho tla"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentsoe la hae"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "le ile la mo hlahloba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:34.020802812Z",
+  "model": "glm-5.3"
+}

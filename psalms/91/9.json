@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Hobane uena, Yahwe, ⟨⟨ke⟩⟩ phemelo ya ka; Elyone o beile lehae la hao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "phemelo ya ka"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "o beile"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "lehae la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:55.764659864Z",
+  "model": "glm-5.3"
+}

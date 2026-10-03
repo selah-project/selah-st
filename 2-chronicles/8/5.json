@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a bopa ⟨את⟩ Beti-Khorone ya hodimo le ⟨את⟩ Beti-Khorone ya tlase, dibaka tsa botshepehi, ka dikhoma, makhura le dikhoho.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mme a bopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Khorone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khorone"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ya hodimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Beti-Khorone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khorone"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "ya tlase"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "tsa botshepehi"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ka dikhoma"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "makhura"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "le dikhoho"
+    }
+  ],
+  "timestamp": "2026-10-03T12:27:06.496904921Z",
+  "model": "glm-5.3"
+}

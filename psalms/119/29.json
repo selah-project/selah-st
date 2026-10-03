@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Tseleng ya lesholu e ntlosere, 'me u mphe khutso ka Toraha ya hau.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tsela ya lesholu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lesholu"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "e ntlosere"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho tloha ho nna"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "'me ka Toraha ya hau"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "u mpe khutso"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:01.957222020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme minkhaohle ya moprista e tla ba ka ho felletseng; e ke ke ya jeoa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Mme minkhaohle"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ya minkha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ya moprista"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ka ho felletseng"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jeoa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:05:50.558854909Z",
+  "model": "glm-5.3"
+}

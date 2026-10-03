@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Dawide a re ho yena: O tla kae? Mme a re ho yena: Ke ile ka mmyama kampeng ya Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kae"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "kampeng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "ke ile ka mmyama"
+    }
+  ],
+  "timestamp": "2026-10-03T12:55:34.815834661Z",
+  "model": "glm-5.3"
+}

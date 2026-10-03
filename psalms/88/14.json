@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Empa eena, ho wena, Yahwe, ke ile ka kōha; mme hosasa thapelo ya ka e tla tla pele ho wena.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "empa eena"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ke ile ka kōha"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "mme hosasa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "e tla tla pele ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:38.544069344Z",
+  "model": "glm-5.3"
+}

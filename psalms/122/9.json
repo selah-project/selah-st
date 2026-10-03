@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 122,
+  "translation": "Ka baka la ntlo ya Yahwe Elohim wa rona, ke tla batla ⟨את⟩ molemo bakeng sa hao.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ke tla batla"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bakeng sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:57.303712420Z",
+  "model": "glm-5.3"
+}

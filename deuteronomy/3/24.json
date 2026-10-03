@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Adonai Yahwe, wena o qadile ho bontša ⟨את⟩ mohlanka wa hao ⟨את⟩ botlhale ba hao le ⟨את⟩ letsoho la hao le matla; ke mang El mahodimong kapa lefatshe, ya ka ntseng a ka di etsa jwalo ka mesebetsi ya hao, jwalo ka matla a hao?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "o qadile"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ho bontša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mohlanka wa hao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botlhale ba hao"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "botlhale ba hao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "letsoho la hao"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hao"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "le matla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "kapa lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a ka di etsa"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "jwalo ka mesebetsi ya hao"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "jwalo ka matla a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:42:26.186682228Z",
+  "model": "glm-5.3"
+}

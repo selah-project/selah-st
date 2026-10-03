@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "⟨את⟩ dipoune tsa Mishkane, le ⟨את⟩ dipoune tsa leholo, le ⟨את⟩ mekgoara ya tsona.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipoune tsa Mishkane"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "dipoune"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tsa Mishkane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipoune tsa leholo"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "dipoune"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tsa leholo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mekgoara ya tsona"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "mekgoara ya tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:06.192267102Z",
+  "model": "glm-5.3"
+}

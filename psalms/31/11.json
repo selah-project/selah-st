@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Hobane bophelo ba ka bo phethile thokoelong, mme lilemo tsa ka ka ho noka; matla a ka a ikhutsitse ka bobe ba ka, mme masapo a ka a fokola.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bo phethile"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "thokoelong"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bophelo ba ka"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "mme lilemo tsa ka"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "ka ho noka"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "a ikhutsitse"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "ka bobe ba ka"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "mme masapo a ka"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "a fokola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:46.177909108Z",
+  "model": "glm-5.3"
+}

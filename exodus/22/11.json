@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme ha e ka ea utsoa ho tloha ho yena, o tla lefola ho monga yona.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "גנוב",
+      "gloss": "ea utsoa"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "e ka utsoa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ho tloha ho yena"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla lefola"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ho monga yona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:31.957102846Z",
+  "model": "glm-5.3"
+}

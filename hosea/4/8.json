@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Bolato ba sechaba sa ka ba ja; mme moyao wa bona o hlahelwa ke bolato ba bona.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "bolato"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ba sechaba sa ka"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "bolato ba bona"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "o hlahelwa ke"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyao wa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:28.649746167Z",
+  "model": "glm-5.3"
+}

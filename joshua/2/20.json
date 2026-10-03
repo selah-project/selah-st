@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme ha o ka phatlalatsa ⟨את⟩ lentsoe la rona lena, re tla ba se nang molato ho kano ya hao eo o re kanileng ka yona.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "o ka phatlalatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentsoe la rona lena"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "lentsoe la rona"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "re tla ba"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "se nang molato"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "ho kano ya hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "o re kanileng ka yona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:51:26.284821398Z",
+  "model": "glm-5.3"
+}

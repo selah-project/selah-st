@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 121,
+  "translation": "Yahwe ke moluli wa hao, Yahwe ke moru wa hao ka letlhaku la hao la ja nngoe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ke moluli wa hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ke moru wa hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letlhaku"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "la hao la ja nngoe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:10.558137890Z",
+  "model": "glm-5.3"
+}

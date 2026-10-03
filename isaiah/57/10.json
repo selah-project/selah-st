@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 57,
+  "translation": "Ka bongata ba tsela ya hao o ile a thaketla, o ile o sa re: ha ho tshepo; bophelo ba lets'o la hao o ile o ba fuman, ka lebaka lena o ile o sa babala.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ka bongata"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ba tsela ya hao"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "o ile a thaketla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "re"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "ha ho tshepo"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ba lets'o la hao"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "o ile o ba fuman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka lena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "babala"
+    }
+  ],
+  "timestamp": "2026-10-03T08:55:06.303569718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Ho fihlela neng, Elohim, ya tlwaelang a tla hloeka? Na seba hloile se tla nyefola Lebitso la hau ho ya fela?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "neng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "a tla hloeka"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ya tlwaelang"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "se tla nyefola"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "seba hloile"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Lebitso la hau"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ho ya fela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:07.005459780Z",
+  "model": "glm-5.3"
+}

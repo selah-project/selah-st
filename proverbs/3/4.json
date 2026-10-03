@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "mme o tla fumana mohau le bohlale bo botle mahlonong a Elohim le batho.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "mme o tla fumana"
+    },
+    {
+      "surface": "חן",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "le bohlale"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bo botle"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlonong a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "le batho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:06:14.918448208Z",
+  "model": "glm-5.3"
+}

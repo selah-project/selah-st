@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "le ⟨את⟩ Chashabja, le ⟨את⟩ yena Jesaja, ea baraling ba Merari, bana ba hae le bana ba bona, mashome a mabeli;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Chashabja"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Chashabja"
+    },
+    {
+      "surface": "ו אתו",
+      "gloss": "le ⟨את⟩ yena"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ea baraling ba"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "le bana ba bona"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mashome a mabeli"
+    }
+  ],
+  "timestamp": "2026-10-03T12:02:31.489400791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Lentswe la hao le <hlahlabile> haholo, mme moeletsi wa hao o se a le rata.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "le <hlahlabile>"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lentswe la hao"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "moeletsi wa hao"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "o se a le rata"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:10.937860548Z",
+  "model": "glm-5.3"
+}

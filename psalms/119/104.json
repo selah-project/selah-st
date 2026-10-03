@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ho tloha ditaelong tsa hao ke hlalosa; ka baka la moo ke hloile tsela eohle ya mashano.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "ho tloha ditaelong tsa hao"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ke hlalosa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "baka la moo"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke hloile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya mashano"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:18.095130700Z",
+  "model": "glm-5.3"
+}

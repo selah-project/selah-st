@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "O tla bea tsela bakeng sa ho tla ha mohlare — ho ⟨את⟩ Raba ya bana ba Amon, le ho ⟨את⟩ Yuda, Yerushalayime ⟨e tiileng⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "o tla bea"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "bakeng sa ho tla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mohlare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raba"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "e tiileng"
+    }
+  ],
+  "timestamp": "2026-10-03T09:43:07.363627529Z",
+  "model": "glm-5.3"
+}

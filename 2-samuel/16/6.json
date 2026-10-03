@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme a hasella ka mabitso ⟨את⟩ Dawide le ⟨את⟩ balebedi bohle ba morena Dawide; mme setjhaba sona le bahale-mohla bohle ba le ka ho ja letsoho la hae le ka ho molema.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "mme a hasella"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ka mabitso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "balebedi bohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "balebedi ba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le bohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le bohle"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "bahale-mohla"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "ka ho ja letsoho la hae"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "le ka ho molema"
+    }
+  ],
+  "timestamp": "2026-10-03T07:54:40.351480853Z",
+  "model": "glm-5.3"
+}

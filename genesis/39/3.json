@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme monga wa hae a bona hore Yahwe o ne a le ⟨את⟩ ena, le hore ho seng ka mokgwa Yahwe o o atlehisa ka letsoho la hae, se a se etsang.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mme ... a bona"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "monga wa hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ena",
+      "marks": "ena (Yosefe)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... ka mokgwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "se etsang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "o o atlehisa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ka letsoho la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:37:01.744391599Z",
+  "model": "glm-5.3"
+}

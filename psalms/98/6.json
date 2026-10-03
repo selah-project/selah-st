@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 98,
+  "translation": "Ka diterompete le ka modumo wa shofare, leholiseng lentsoe le phahameng pele ga morena Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Ka diterompete"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "le ka modumo wa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofare"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "leholiseng lentsoe le phahameng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:47.338316527Z",
+  "model": "glm-5.3"
+}

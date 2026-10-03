@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Bahlodi ba setseng sa hae ba mo Romele, ba mo tlose moo, ba mo neheletse ho letsoho la molokolodi wa madi, mme a shoe.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "ba mo Romele"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bahlodi"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ba setseng sa hae"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ba mo tlose"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ba mo neheletse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ho letsoho la"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "molokolodi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wa madi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a shoe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:54:58.295869029Z",
+  "model": "glm-5.3"
+}

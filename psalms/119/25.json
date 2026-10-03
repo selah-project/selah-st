@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Moya wa ka o khomametse lerotala; mphe bophelo ka ho tsamaea le lentsoe la hau.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "o khomametse"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "lerotala"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "mphe bophelo"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ka ho tsamaea le lentsoe la hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:57.308165001Z",
+  "model": "glm-5.3"
+}

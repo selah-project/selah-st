@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ke tla otla ⟨את⟩ ba dulang motsaneng ona, le ⟨את⟩ motho le ⟨את⟩ phoofolo, ba tla swa ka sefuba se seholo-holo.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ke tla otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba dulang motsaneng ona"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motsaneng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phoofolo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "phoofolo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka sefuba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "se seholo-holo"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ba tla swa"
+    }
+  ],
+  "timestamp": "2026-10-03T09:13:24.613258725Z",
+  "model": "glm-5.3"
+}

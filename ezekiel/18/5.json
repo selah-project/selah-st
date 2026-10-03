@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme ha eba motho a le ya lokileng, mme a etsa kahlolo le tsedeke,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mme ha eba motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha eba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a le"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya lokileng"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-03T09:41:18.053952174Z",
+  "model": "glm-5.3"
+}

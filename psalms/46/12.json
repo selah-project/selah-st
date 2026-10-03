@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Yahwe Tsebaote o na le rona; sebakeng sa phihlelo sebakeng sa rona ke Elohim wa Yaakobo. Selaha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "o na le rona"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "sebakeng sa phihlelo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa rona"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:49.242316139Z",
+  "model": "glm-5.3"
+}

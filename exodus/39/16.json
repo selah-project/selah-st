@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme ba etsa dikgerebetsi tse peli tsa gauta, le disele tse peli tsa gauta, mme ba bea ⟨את⟩ disele tse pedi hodima mekhutlwaneng e mmedi ya khoshene.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mme ba etsa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dikgerebetsi tse peli"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "dikgerebetsi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "le disele tse peli"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "disele"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mme ba bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disele tse pedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "disele"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "שני",
+      "gloss": "e mmedi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mekhutlwaneng"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ya khoshene"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:28.391721788Z",
+  "model": "glm-5.3"
+}

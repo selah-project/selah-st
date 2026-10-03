@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Yahwe o molemo ho ya mo emetseng, ho moya ya mo batlang.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "o molemo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "ho ya mo emetseng"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ho moya"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ya mo batlang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:40:00.575368089Z",
+  "model": "glm-5.3"
+}

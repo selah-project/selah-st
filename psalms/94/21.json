@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Ba phuthanela kgahlanong le ⟨את⟩ motho ea lokileng, mme ba ahlaola ⟨את⟩ madi a hloekileng.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "Ba phuthanela"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mothong"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ea lokileng"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "a hloekileng"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "ba ahlaola"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:31.997891184Z",
+  "model": "glm-5.3"
+}

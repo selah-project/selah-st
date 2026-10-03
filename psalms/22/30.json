@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ba tletse mafura a lefatshe ba tla ja mme ba phofumola pele ho Yahwe; botlaswe bo tla gotela pele ho ena, le moputso oa hae o sa pheleng.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "ba tla ja"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "mme ba phofumola pele ho Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botla"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "ba tletse mafura"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a lefatshe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ho ena"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "bo tla gotela pele ho ena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba pholletseng"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ba theohelang"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "serithing"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "le moputso oa hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "pheleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:23.734667179Z",
+  "model": "glm-5.3"
+}

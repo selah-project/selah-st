@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Hobane ke tla swa lefatsheng lena; nna nke ke ka feta ⟨את⟩ Yaratane; empa lona le tla feta, le tla dula le la ⟨את⟩ lefatshe le letle lena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ke tla swa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lena"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "nke ke ka"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaratane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yaratane"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "empa lona"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "le tla feta"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "le tla dula le la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe le letle lena"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "le letle"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lena"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:17.124338657Z",
+  "model": "glm-5.3"
+}

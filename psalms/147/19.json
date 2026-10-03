@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "O bopolella lentsoe la hae ho Yaakobo, melawana ea hae le dikahlolo tsa hae ho Yisraele.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "O bopolella"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentsoe la hae"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ho Yaakobo"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "melawana ea hae"
+    },
+    {
+      "surface": "וומשפטיו",
+      "gloss": "le dikahlolo tsa hae"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:48.070797643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme le tla boloka melao ya ka, mme le e etsa ⟨את⟩; ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "le tla boloka"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "melao ya ka"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "le e etsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "e — melao ya ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:58.709603555Z",
+  "model": "glm-5.3"
+}

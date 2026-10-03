@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Mme baradi ba Yosefa ba le shome ba theoha ho reka ⟨את⟩ mabele ho tloha ho Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ba theoha"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "baradi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ba le shome"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ho reka"
+    },
+    {
+      "surface": "בר",
+      "gloss": "⟨את⟩ mabele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho tloha ho Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:02.201014997Z",
+  "model": "glm-5.3"
+}

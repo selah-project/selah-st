@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Empa nna ke tla tsamaya ka tlotla ya ka; nkhololole, mme u nke mohau ho nna.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "empa nna"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ka tlotla ya ka"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tla tsamaya"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "nkhololole"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mme u nke mohau ho nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:22.349064183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme ke ile ka iponahatsa ho Abrahame, ho Yitshake le ho Yaakobo e le El Shadai, empaa lebitso la ka Yahwe le sa tsejwe ke bona.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ka iponahatsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "באל",
+      "gloss": "e le El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "lebitso la ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le sa"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "tsejwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ke bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:54.943909794Z",
+  "model": "glm-5.3"
+}

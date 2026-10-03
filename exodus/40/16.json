@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme Moshe a etsa jwalo ka tsohle tseo Yahwe a neng a ⟨את⟩ mo laetse; jwalo ha jwalo o ile a etsa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "jwalo ka tsohle tseo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a neng a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo ha jwalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ile a etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:14.384313367Z",
+  "model": "glm-5.3"
+}

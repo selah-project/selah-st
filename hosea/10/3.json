@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Hobane jwale ba tla re: Ha ho morena ho rona, hobane re ne re sa tšabe ⟨את⟩ Yahwe; mme morena — o ka re etsang ho rona?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba tla re"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "re ne re sa tšabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mme morena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "o ka re etsang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:03:17.472117257Z",
+  "model": "glm-5.3"
+}

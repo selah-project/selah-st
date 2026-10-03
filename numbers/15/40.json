@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 15:40",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "E le hore le hopole, mme le etse ⟨את⟩ meala eohle ea Ka, mme le be halalelang ho Elohim oa lona.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "E le hore"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "le hopole"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme le etse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meala eohle ea Ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle ea"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "meala ea Ka"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "mme le be"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "halalelang"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "ho Elohim oa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:30:17.873859376Z",
+  "model": "glm-5.3"
+}

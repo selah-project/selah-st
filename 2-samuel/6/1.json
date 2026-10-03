@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Dawide hape a bokella ⟨את⟩ bahlankana bohle ba Yisraele, dikete tse mashome a mararo.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "hape"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ha a"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahlankana bohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "bahlankana"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mashome a mararo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    }
+  ],
+  "timestamp": "2026-10-03T07:50:36.370490702Z",
+  "model": "glm-5.3"
+}

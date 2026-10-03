@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme letsatsi lena le tla ba le lona bakeng sa sethopo, mme le tla tlotlisa ⟨את⟩ lona bakeng sa mokete ho Yahwe, melokong ea lona; molao wa kahosafeleng ke oo le o tlotlisang.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme o tla ba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi lena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "bakeng sa sethopo"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "mme le tla tlotlisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (mokete)"
+    },
+    {
+      "surface": "חג",
+      "gloss": "mokete"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "melokong ea lona"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "molao"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa kahosafeleng"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "le o tla tlotlisa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:03.406068991Z",
+  "model": "glm-5.3"
+}

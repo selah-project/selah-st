@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Bolokang ka tieo, bolokang ⟨את⟩ melao ya Yahwe Elohim ya lona, le bopaki ba hae, le melawana ya hae, a laelang lona.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ka tieo"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "bolokang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "melao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "le bopaki ba hae"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "le melawana ya hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "laelang lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:52.270613938Z",
+  "model": "glm-5.3"
+}

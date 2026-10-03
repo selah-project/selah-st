@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Nna, Nevukhadnetsare, ke ne ke phomotse ka ⟨⟨ntlong⟩⟩ ea ka, mme ke atile ka bohaleng ba ka.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetsare"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "ke phomotse"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "ke ne ke"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "ka ntlong ea ka"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "mme ke atile"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "ka bohaleng ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:52:17.550847359Z",
+  "model": "glm-5.3"
+}

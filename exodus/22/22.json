@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ha e le hore o ba hlahisa bothata ka tsela efe kapa efe — hobane haeba ba llela ho nna ka peleng, ke tla utloa lla la lona:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha e le hore"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "hlahisa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "bothata ka tsela efe kapa efe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "llela"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ka peleng"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ke tla utloa"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "lla"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "la lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:45.558812946Z",
+  "model": "glm-5.3"
+}

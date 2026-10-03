@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme Nobake ya ile, a nka ⟨את⟩ Kenathe le ⟨את⟩ metseana ya yona, mme a e bitsa Nobake, ka lebitso la hae.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Mme Nobake"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ya ile"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenathe"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenathe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "metseana ya yona"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "metseana ya yona"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mme a e bitsa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "e"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nobake"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ka lebitso la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:38:08.064857337Z",
+  "model": "glm-5.3"
+}

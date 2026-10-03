@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Eshtone o ile a beba ⟨את⟩ Beti-Raphe, le ⟨את⟩ Paseakha, le ⟨את⟩ Tekhinakh, rapsadi wa motse wa Nakhakhe; bana ke banna ba Rekakh.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Mme Eshtone"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ile a beba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Raphe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Raphe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Paseakha"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseakha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tekhinakh"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tekhinakh"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rapsadi wa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse wa"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakhakhe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekakh"
+    }
+  ],
+  "timestamp": "2026-10-03T13:18:31.625651611Z",
+  "model": "glm-5.3"
+}

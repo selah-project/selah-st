@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 96,
+  "translation": "Boleleng sekgofo sa hae har'a ditjhaba; ditsela tsa makatsa tsa hae har'a merafohe kaofela.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "boleleng"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "har'a ditjhaba"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sekgofo sa hae"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "merafohe kaofela"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ditsela tsa makatsa tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:09.928452223Z",
+  "model": "glm-5.3"
+}

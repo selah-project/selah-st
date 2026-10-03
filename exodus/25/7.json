@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Majwe a shoham, le majwe a tlatso bakeng sa ephode, le bakeng sa ḥoshen;",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "Majwe a"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "le majwe a"
+    },
+    {
+      "surface": "מלואים",
+      "gloss": "a tlatsoang \/ a behiloeng ka har'a sebaka"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "bakeng sa ephode"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "le bakeng sa ḥoshen (sebaka sa lets'oalle)"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:41.114125557Z",
+  "model": "glm-5.3"
+}

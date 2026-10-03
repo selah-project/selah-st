@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme o tla etsa ⟨את⟩ altaara ya ho bella mafutha a mangoe; ka mapolanka a setlhare sa shitime o tla e etsa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaara"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "ya ho bella"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "mafutha a mangoe"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ka mapolanka"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "a setlhare sa shitime"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla e etsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (altaara)"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:46.017047140Z",
+  "model": "glm-5.3"
+}

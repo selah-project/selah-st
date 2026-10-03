@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Yehue a fenya ⟨את⟩ Baale ho tloha ho Yisraele.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "a fenya"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baale"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baale"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ho tloha ho Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:20:30.296770470Z",
+  "model": "glm-5.3"
+}

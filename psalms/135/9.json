@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "O romile ⟨את⟩ matshwao le makatsi a maholo ka hare ho Mitsrayime, ho Pharaoh le ho dithanka tsa hae kaofela.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "O romile"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "⟨את⟩ matshwao"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "le makatsi a maholo"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ho Pharaoh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ho dithanka tsa hae kaofela"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:51.444247603Z",
+  "model": "glm-5.3"
+}

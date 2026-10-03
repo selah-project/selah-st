@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Hlolohatsa ⟨את⟩ setjhaba sa hao, mme o hloekise ⟨את⟩ bojalone ba hao, mme o dule o ba tlhokomele, o ba tshware, ho fihlela ho ya lerohong.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Hlolohatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba sa hao"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setjhaba sa hao"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "mme o hloekise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojalone ba hao"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "bojalone ba hao"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "mme o dule o ba tlhokomele"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "o ba tshware"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ho ya lerohong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:14.418091422Z",
+  "model": "glm-5.3"
+}

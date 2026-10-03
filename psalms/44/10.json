@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Empa hle u re latositse, u re tlotsemanyana, mme oa se tsoa le masole a rona.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Empa hle"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "u re latositse"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "u re tlotsemanyana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "oa tsoa"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "le masole a rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:23.717887175Z",
+  "model": "glm-5.3"
+}

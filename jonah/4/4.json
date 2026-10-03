@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Yahwe a re: Na ho halefa ho molemo ho wena?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ho molemo"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ho halefa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:15.605590433Z",
+  "model": "glm-5.3"
+}

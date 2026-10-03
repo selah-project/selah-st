@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Molemo ⟨ho tshwara⟩ ho se, mme ho tloha ho se ⟨a mong⟩ se ke wa lokola ⟨את⟩ letsoho la hao; hobane ya boifang Elohim o tla tswa ka ⟨את⟩ tsohle tsena.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ho tshwara"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "o tshwara"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ho se"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ho se a mang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "wa lokola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la hao"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ya boifang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tla tswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle tsena"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tsohle tsena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:23.525385962Z",
+  "model": "glm-5.3"
+}

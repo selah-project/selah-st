@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Ho fihlela neng, Yahwe, o tla mpolela ka ho sa feleng? Ho fihlela neng o tla pata ⟨את⟩ sefahleho sa hau ho 'na?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ho fihlela"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "neng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "o tla mpolela"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ka ho sa feleng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Ho fihlela"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "neng"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "o tla pata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa hau"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hau"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:31.909159371Z",
+  "model": "glm-5.3"
+}

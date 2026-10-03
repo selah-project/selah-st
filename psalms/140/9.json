@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 140,
+  "translation": "Se ke oa fana, Yahwe, takatso tsa ya boshula; morero wa hae o se ke oa phethahala, e seng hore ba hodime. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "oa fana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "takatso tsa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya boshula"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "morero wa hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "oa phethahala"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ba hodime"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:09.064512181Z",
+  "model": "glm-5.3"
+}

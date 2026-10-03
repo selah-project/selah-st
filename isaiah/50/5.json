@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Adonai Yahwe o ntsehetse lehlekehleke, mme ha ke a hanyetsa, ha ke a ikhula ka morao.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "o ntsehetse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "lehlekehleke"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "ke a hanyetsa"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka morao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "ke a ikhula"
+    }
+  ],
+  "timestamp": "2026-10-03T08:54:30.956918056Z",
+  "model": "glm-5.3"
+}

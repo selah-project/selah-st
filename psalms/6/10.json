@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Yahwe o utlile thapelo ya ka ea khotso; Yahwe o amohela thapelo ya ka.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "o utlile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "thapelo ea khotso ya ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "ייקח",
+      "gloss": "o amohela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:21:53.161246864Z",
+  "model": "glm-5.3"
+}

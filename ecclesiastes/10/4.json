@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Ha ruakh ya mohlabeli e ho oeloa ho uena, o se tlohelele sebaka sa hao, hobane khotso e khomolosa libe tse kholo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh ya"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "mohlabeli"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "e oeloa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "sebaka sa hao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "tlohelele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "e khomolosa"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "libe tse"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "kholo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:37.669066083Z",
+  "model": "glm-5.3"
+}

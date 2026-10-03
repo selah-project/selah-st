@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Ho eena khalefo ya hao e tsamaisitse; mme ka maoatla ohle a hao o nkotse. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "e tsamaisitse"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "khalefo ya hao"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ka ohle"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "maoatla a hao"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "o nkotse"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:20.346788450Z",
+  "model": "glm-5.3"
+}

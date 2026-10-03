@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Le se ileng a se etsela lona bohaleng, ho fihlela lona ho fihla sebakeng sena.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "le se ileng a se etsela lona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a etsela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bohaleng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "lona ho fihla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihla"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sena"
+    }
+  ],
+  "timestamp": "2026-10-03T06:49:38.139535878Z",
+  "model": "glm-5.3"
+}

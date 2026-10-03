@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ba ba duleletseng ba nthontse, ba sesolang torong: A le bone ⟨את⟩ ya moea wa ka a mo ratang?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "ba nthontse"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ba ba duleletseng"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "ba sesolang"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "torong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya moea wa ka a mo ratang"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "a mo ratang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moea wa ka"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "a le bone"
+    }
+  ],
+  "timestamp": "2026-10-03T13:15:37.745832946Z",
+  "model": "glm-5.3"
+}

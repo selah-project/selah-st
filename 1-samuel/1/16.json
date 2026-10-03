@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Se kenngoe ⟨את⟩ lekgari ya hao e le mora wa belial; hobane ho tloha ho bongata ba poelo ya ka le masoabi a ka ke buile ho fihla jwale.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kenngoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lekgari ya hao"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "lekgari ya hao"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "e le"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "belial"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ho tloha ho bongata ba"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "poelo ya ka"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "le masoabi a ka"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke buile"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihla"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "jwale"
+    }
+  ],
+  "timestamp": "2026-10-03T07:30:53.986816643Z",
+  "model": "glm-5.3"
+}

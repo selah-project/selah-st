@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Tsedeke le kahlolo ⟨⟨ke⟩⟩ motheo wa setulo sa hao sa boholosi; hesede le 'nete di peile sefahleho sa hao.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Tsedeke"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "wa setulo sa hao sa boholosi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "le 'nete"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "di peile"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:52.144457298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 100,
+  "translation": "Psalme ya teboho. Lehöleleng ho Yahwe, lefatshe lohle.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "ya teboho"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Lehöleleng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:42.775590759Z",
+  "model": "glm-5.3"
+}

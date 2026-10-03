@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Sehlape se phethahetseng, se nama, se ngwana wa selemo, se tla be la lona; ho tswa ho dinku kapa ho tswa ho dibui tse nang le mahlokwa le lona e tla nka.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "sehlape"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "se phethahetseng"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "se nama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "se ngwana wa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "la lona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tswa ho"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "dinku"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kapa ho tswa ho"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "dibui tse nang le mahlokwa"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "le tla nka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:55.121614187Z",
+  "model": "glm-5.3"
+}

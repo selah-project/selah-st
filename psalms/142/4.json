@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 142,
+  "translation": "Ha ruakh ya ka e aparetse ka hare ho ya ka, mme wena o tseba tsela ya ka; tseleng eo ke tsamaeang ka yona ba patile khobo ya teka ho `issa`.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "e aparetse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka hare ho ya ka"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya ka"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "tsela ya ka"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "זו",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ke tsamaeang ka yona"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ba patile"
+    },
+    {
+      "surface": "פח",
+      "gloss": "khobo ya teka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho `issa`"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:15.401320915Z",
+  "model": "glm-5.3"
+}

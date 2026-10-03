@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "lefatshe leo Yahwe Elohim wa hao a le batlang ⟨את⟩ kamehla; mahlo a Yahwe Elohim wa hao a le fatlatsa, ho tloha qalong ea selemo ho fihlela qetellong ea selemo.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "a le batlang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe (kamehla)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kamehla"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "בה",
+      "gloss": "a le fatlatsa"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "ho tloha qalong"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ea selemo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "qetellong"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ea selemo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:49:15.504530915Z",
+  "model": "glm-5.3"
+}

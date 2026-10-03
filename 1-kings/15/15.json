@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme a kenya ⟨את⟩ dilo tse halalelang tsa ntatae le tse halalelang tsa hae ntlong ya Yahwe — selefa le gauta le didirisiwa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mme a kenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tse halalelang tsa ntatae"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "dilo tse halalelang tsa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntatae"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "le tse halalelang tsa hae"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "le didirisiwa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:12:09.779041032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "O fa phoofolo e ea ja ⟨את⟩ lijo tsa eona, le bana ba khomare ba bitsoang.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "O fa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "phoofolo e ea ja"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "lijo tsa eona"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "khomare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "bitsoang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:08.525470202Z",
+  "model": "glm-5.3"
+}

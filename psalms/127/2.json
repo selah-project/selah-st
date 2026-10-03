@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 127,
+  "translation": "Shawa ho lona, ba tsamang hoseng kapele, ba phomolang bosiu bo letelele, ba jang borotho bo botlhoka kgodumo; jwalo Yahwe o fana ka boroko ho ya a ratang.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Shawa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "ba tsamang hoseng kapele"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ba tsamang"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ba phomolang"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "bosiu bo letelele"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ba jang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "borotho"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "bo botlhoka kgodumo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o fana ka"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "ho ya a ratang"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "boroko"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:35.017065048Z",
+  "model": "glm-5.3"
+}

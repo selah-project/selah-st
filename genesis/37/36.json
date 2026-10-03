@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme Ba-Medane ba mo rekisitse ⟨אתו⟩ ho Mitsrayime, ho Potifare, mookamedi wa Faro, mohlomphehi wa baphekibogosi.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "Mme Ba-Medane"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ba rekisitse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "ho Potifare"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mohlomphehi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wa baphekibogosi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:43:15.483559844Z",
+  "model": "glm-5.3"
+}

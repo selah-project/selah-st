@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "O mo direla molemo, eseng kotsi, matsatsi ohle a bophelo ba yona.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "o mo direla"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kotsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "bophelo ba yona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:18:12.567459559Z",
+  "model": "glm-5.3"
+}

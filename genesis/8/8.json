@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "A romella ⟨את⟩ lephoofolo la lenyenyane la lehlora ⟨את⟩ ho tloha ho yena, hore a tle a bone hore na metsi a ile a tlasa hodima sefahleho sa lefatshe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A romella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lephoofolo la lenyenyane la lehlora"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "lephoofolo la lenyenyane la lehlora"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ho tloha ho yena"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hore a bone"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "a tlasa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:20.381659796Z",
+  "model": "glm-5.3"
+}

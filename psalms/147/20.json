@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Ha a ka a etsa joalo ho sechaba le se seng; dikahlolo—ba se ke ba li tseba. Halalelang Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a ka a etsa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "joalo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho sechaba le se seng"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ba li tseba"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halalelang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:48.070911005Z",
+  "model": "glm-5.3"
+}

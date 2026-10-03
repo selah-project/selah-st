@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme Balake mora wa Tsipore a bona ⟨את⟩ tsohle tseo Yisraele di entseng ho Baemori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "di entseng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ho Baemori"
+    }
+  ],
+  "timestamp": "2026-10-03T06:33:37.070548001Z",
+  "model": "glm-5.3"
+}

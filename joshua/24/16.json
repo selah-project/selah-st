@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme setjhaba se araba, se re: E se ke ya etsahala ho rona ho tloha ho ⟨את⟩ Yahwe ho sebeke melimo e meng.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mme se araba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "se re"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "e se ke ya etsahala"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ho tloha ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ho sebeke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e meng"
+    }
+  ],
+  "timestamp": "2026-10-03T07:16:43.158969352Z",
+  "model": "glm-5.3"
+}

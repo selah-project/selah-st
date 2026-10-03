@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Noache a etsa ⟨את⟩ tsohle tseo Yahwe a neng a mo laetse.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noache"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "⟨את⟩ tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "a mo laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:02.856282057Z",
+  "model": "glm-5.3"
+}

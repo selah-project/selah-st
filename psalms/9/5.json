@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Hobane o entse kahlolo ya ka le toka ya ka; o dula ⟨⟨sebakeng sa⟩⟩ setulo, a ahola ka tsedeke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o entse"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kahlolo ya ka"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "le toka ya ka"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "o dula"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "setulong"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "a ahola"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:38.196155118Z",
+  "model": "glm-5.3"
+}

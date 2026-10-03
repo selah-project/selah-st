@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Pholohisa, Yahwe, hobane ya boitshepo o fedile, hobane ba tshepahalang ba nyametse hara bana ba batho.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Pholohisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "o fedile"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ya boitshepo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "ba nyametse"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ba tshepahalang"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "hara bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba batho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:43.423654103Z",
+  "model": "glm-5.3"
+}

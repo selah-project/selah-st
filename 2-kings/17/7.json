@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme e bile ha bana ba Yisraele ba ne ba le tshekamong ho Yahwe Elohim ya bona, ya ba hlolotseng ⟨אתם⟩ ho tloha lefatsheng la Mitsrayime, tlase ho letsoho la Faro morena wa Mitsrayime, mme ba ne ba tšaba melimo e meng.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ba le tshekamong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ya bona"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ya ba hlolotseng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "tlase ho"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho la"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mme ba tšaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e meng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:26:37.217161287Z",
+  "model": "glm-5.3"
+}

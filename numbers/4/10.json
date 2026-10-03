@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "mme ba e bea, le ⟨את⟩ ditswammung tsa yona tsohle, ka hara sekoere sa letlalo la takhashe, mme ba e bea hodima mokotla;",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "mme ba e bea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ e",
+      "marks": "e (ya setulo sa dinotsi)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditswammung tsa yona tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ditswammung tsa yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka hara"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "sekoere"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sa letlalo"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "la takhashe"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mme ba e bea"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "mokotla"
+    }
+  ],
+  "timestamp": "2026-10-03T06:21:20.130998605Z",
+  "model": "glm-5.3"
+}

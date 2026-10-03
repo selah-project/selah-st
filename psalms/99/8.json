@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 99,
+  "translation": "Yahwe Elohim ea rona, u ile a ba araba; El ya beang melato ea bona hole le bona u ile wa ba le mongalla-hohle, le molekodi wa ditlolomohao tsa bona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ea rona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "u ile a ba araba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ya beang melato hole"
+    },
+    {
+      "surface": "היית",
+      "gloss": "u ile wa ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mongalla-hohle ea bona"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "le molekodi"
+    },
+    {
+      "surface": "על",
+      "gloss": "wa"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "ditlolomohao tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:36.363500388Z",
+  "model": "glm-5.3"
+}

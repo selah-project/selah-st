@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme ba fetoletsa ⟨את⟩ kgalalelo ya bona ba e fetoha sehlōpha sa kgomo e jang peo.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "mme ba fetoletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgalalelo ya bona"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kgalalelo ya bona"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "sehlōpha sa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "e jang"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "peo ea matlakala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:08.885589146Z",
+  "model": "glm-5.3"
+}

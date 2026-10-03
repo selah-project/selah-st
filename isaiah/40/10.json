@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Bonang, Adonai Yahwe o tla ka matla, mme letsoho la hae le la monga; bonang, sekhahla sa hae se ⟨את⟩ le yena, mme mosebetsi wa hae pele ho hae.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ka matla"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "mme letsoho la hae"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "le la monga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "sekhahla sa hae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sekhahla sa hae"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "mme mosebetsi wa hae"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ho hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:19.133625687Z",
+  "model": "glm-5.3"
+}

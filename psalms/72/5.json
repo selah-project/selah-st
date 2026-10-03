@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "Ba tle ba o tshabe le ⟨the⟩ letsatsi, le pele ⟨the⟩ kgwedi, molokwane ya melokwane.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "ba tle ba o tshabe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "le pele"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "molokwane"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ya melokwane"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:09.470248364Z",
+  "model": "glm-5.3"
+}

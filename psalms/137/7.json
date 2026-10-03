@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 137,
+  "translation": "Gopola, Yahwe, barwa ba Edome ⟨את⟩ letsatsi la Yerushalayime, ba neng ba re: E senye, e senye, ho fihlela motheo wa yona!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "gopola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsatsi la Yerushalayime"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "la Yerushalayime"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ba neng ba re"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "e senye"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "e senye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:13.746021713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Yahwe o tla ahlolela ⟨את⟩ lefatshe ka tsedeke, o tla ahlolela merabe ka toka.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "mme yena"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o tla ahlolela"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "o tla ahlolela"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "merabe"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ka toka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:31.169152676Z",
+  "model": "glm-5.3"
+}

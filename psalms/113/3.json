@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 113,
+  "translation": "Ho tloha ho tsoho ya letsatsi ho ya ho ho kenela ha lona, lebitso la Yahwe le a halaleloa.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "ho tloha ho tsoho"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ya letsatsi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ho kenela ha lona"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "le a halaleloa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:23.990369427Z",
+  "model": "glm-5.3"
+}

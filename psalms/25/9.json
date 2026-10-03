@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "O tataisa ba nyarhang ka toka, mme o ruta ba nyarhang tsela ya hae.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "o tataisa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba nyarhang"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka toka"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "mme o ruta"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba nyarhang"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tsela ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:24.450326580Z",
+  "model": "glm-5.3"
+}

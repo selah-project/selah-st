@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme lentswe la Yahwe le ile la tla ho Yonha la bobeli, ho re:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho ile ha etsahala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonha"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "la bobeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:04.122558025Z",
+  "model": "glm-5.3"
+}

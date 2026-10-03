@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 8:9",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Ruangang lehe, dikhabo, le porohale; le utlwehle, batho bohle ba dikgutlelwane tsa lefatshe. Ikgokgetse lehe, le tla porohala; ikgokgetse lehe, le tla porohala.",
+  "tokens": [
+    {
+      "surface": "רעו",
+      "gloss": "ruangang lehe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dikhabo"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "le porohale"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "le utlwehle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "מרחקי",
+      "gloss": "ba dikgutlelwane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tsa lefatshe"
+    },
+    {
+      "surface": "התאזרו",
+      "gloss": "ikgokgetse lehe"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "le porohale"
+    },
+    {
+      "surface": "התאזרו",
+      "gloss": "ikgokgetse lehe"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "le porohale"
+    }
+  ],
+  "timestamp": "2026-10-03T08:33:28.848344568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Ka lebaka leo ke tla leboha Yahwe hara ditjhaba, mme ke tla opela lebitso la hau.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka leo"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ke tla leboha"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "hara ditjhaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "mme ke tla opela lebitso la hau"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla opela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:20.513808065Z",
+  "model": "glm-5.3"
+}

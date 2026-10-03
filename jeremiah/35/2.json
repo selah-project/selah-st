@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Ea lapeng la bareKabite, mme o bule le bone, mme o ba ise ntlong ya Yahwe, ho e 'ngoe ya diphapo, mme o ba ise ⟨את⟩ beine.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Ea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "lapeng la"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "bareKabite"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "mme o bule le bone"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bone",
+      "marks": "bareKabite"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "mme o ba ise"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ho e 'ngoe ya"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "diphapo"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "mme o ba nehe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "beine"
+    },
+    {
+      "surface": "יין",
+      "gloss": "beine"
+    }
+  ],
+  "timestamp": "2026-10-03T13:04:22.606629752Z",
+  "model": "glm-5.3"
+}

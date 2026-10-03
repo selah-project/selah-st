@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 10:25",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Yehoshua a re ho bona: Le se ke la tshaba, mme le se ke la tidimala; le be matla le tiise, hobane jwalo Yahwe o tla etsa ho dira tsa lóna tsohle leo le lulang le lwa ⟨את⟩ tsone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "la tshaba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme le se ke"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "la tidimala"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "le be matla"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "le tiise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho … tsohle"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dira tsa lóna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "le lulang le lwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "tsone (dira tsa lóna)"
+    }
+  ],
+  "timestamp": "2026-10-03T07:08:14.439052946Z",
+  "model": "glm-5.3"
+}

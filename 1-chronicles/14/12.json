@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme ba tlogetse moo ⟨את⟩ melimo ya bona; mme Dawide a laela, mme e ile ya cheswa ka mollo.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ba tlogetse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melimo ya bona"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "melimo ya bona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a laela"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "e ile ya cheswa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:18:31.799722860Z",
+  "model": "glm-5.3"
+}

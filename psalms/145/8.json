@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Ya mohau le ya tlhompho, Yahwe, orekile khalefo, mme o moholo ka hesede.",
+  "tokens": [
+    {
+      "surface": "חַנּ֣וּן",
+      "gloss": "Ya mohau"
+    },
+    {
+      "surface": "וְרַח֣וּם",
+      "gloss": "le ya tlhompho"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אֶ֥רֶךְ",
+      "gloss": "orekile"
+    },
+    {
+      "surface": "אַ֝פַּ֗יִם",
+      "gloss": "khalefo"
+    },
+    {
+      "surface": "וּגְדָל",
+      "gloss": "mme o moholo ka"
+    },
+    {
+      "surface": "חָֽסֶד",
+      "gloss": "hesede"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:20.492063703Z",
+  "model": "glm-5.3"
+}

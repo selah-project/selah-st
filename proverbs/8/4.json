@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Ho lona, banna, ke le bitla, mme lentswe la ka le ho bana ba batho.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke le bitla"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "mme lentswe la ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:07:51.613010331Z",
+  "model": "glm-5.3"
+}

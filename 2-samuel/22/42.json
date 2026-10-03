@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ba ne ba lebile, mme ha ho ya ka ho ba lokolla; ho Yahwe, mme ha a arabe ba ntse ba kopa.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "ba ne ba lebile"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "ya ka ho ba lokolla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "a arabe ba ntse ba kopa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:00:01.861798583Z",
+  "model": "glm-5.3"
+}

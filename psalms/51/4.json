@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "O mphehelle haholo ho tswa boiatong ba ka, mme o ntlhaphohe ho tswa bohlolong ba ka.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "o mphehelle"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ho tswa boiatong ba ka"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "mme ho tswa bohlolong ba ka"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "o ntlhaphohe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:20.304382306Z",
+  "model": "glm-5.3"
+}

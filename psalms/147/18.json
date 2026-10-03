@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "O romella lentsoe la hae, a li lafufa; o bula ruakh ea hae, metsi a nama.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "O romella"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentsoe la hae"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "a li lafufa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o bula"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh ea hae"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "a nama"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:48.070682186Z",
+  "model": "glm-5.3"
+}

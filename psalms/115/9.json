@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 115,
+  "translation": "Yisraele, tshepang ho Yahwe; o thuso ya lona le sehlele ya lona.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tshepang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "thuso ya lona"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "le sehlele ya lona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:05.861180568Z",
+  "model": "glm-5.3"
+}

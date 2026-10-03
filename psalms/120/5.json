@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 120,
+  "translation": "Oh, phokoletso ho 'na, hobane ke ntse ke phela nakana e telele le Mesheke, ke dumelletse le mapolasing a Kedare!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "oh, phokoletso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ke ntse ke phela nakana e telele"
+    },
+    {
+      "surface": "משך",
+      "gloss": "le Mesheke"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ke dumelletse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "mapolasing a"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedare"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:23.570787460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Ho tloha khanyeng ya pele ho yena, maru a hae a ile a feta — sefako le dikhalo tsa mollo.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "ho tloha khanyeng"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ya pele ho yena"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "maru a hae"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "a ile a feta"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "sefako"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "le dikhalo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tsa mollo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:06.231629270Z",
+  "model": "glm-5.3"
+}

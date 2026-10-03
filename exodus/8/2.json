@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Aharone a tlolosa ⟨את⟩ letsogo la hae hodima metsi a Mitsrayime, mme dikhoana di ea hlaha, mme di kenetse ⟨את⟩ lefatshe la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "a tlolosa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsogo la hae"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsogo la hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "metsi a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "mme di ea hlaha"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "dikhoana"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "mme di kenetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Mitsrayime"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:28.348724301Z",
+  "model": "glm-5.3"
+}

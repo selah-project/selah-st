@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "Yahwe, Elohim Tsebaote, khutlisa ⟨⟨re⟩⟩; phethe sefahleho sa hao, mme re tla bolokeha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "khutlisa re"
+    },
+    {
+      "surface": "האר",
+      "gloss": "phethe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "mme re tla bolokeha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:18.532451585Z",
+  "model": "glm-5.3"
+}

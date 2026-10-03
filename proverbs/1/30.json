@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ba hane sephetho sa ka, ba hlonile tlweho ya ka yohle.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "ba rate"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "sephetho sa ka"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ba hlonile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "tlweho ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:21.522884851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Mme Yisraele a kena Mitsrayime, mme Yaakobo a lula jwale naheng ya Khame.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Mme ... a kena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "mme Yaakobo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "a lula jwale"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khame"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:22.268572867Z",
+  "model": "glm-5.3"
+}

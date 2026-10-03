@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 96,
+  "translation": "Hobane melimo yohle ya ditjhaba ke dithoto tse se nang bohlokwa, mme Yahwe o ile a bopa mahodimo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "melimo ya"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "dithoto tse se nang bohlokwa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ile a bopa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:13.829834525Z",
+  "model": "glm-5.3"
+}

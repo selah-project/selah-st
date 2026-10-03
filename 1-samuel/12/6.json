@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme Samuele a re ho setjhaba: Yahwe, eo ya entseng ⟨את⟩ Moshe le ⟨את⟩ Aharone, mme ya hlahisang ⟨את⟩ bo-ntate ba lona ho tloha lefatsheng la Mitsrayime,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo ya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "entseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mme ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hlahisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bo-ntate ba lona"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bo-ntate ba lona"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T07:35:34.701284564Z",
+  "model": "glm-5.3"
+}

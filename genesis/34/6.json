@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme Hamore, ntata Shekeme, a tswa ho ya ho Yaakobo ho bua ⟨את⟩ le ena.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamore"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntata"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho bua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:35:25.486371204Z",
+  "model": "glm-5.3"
+}

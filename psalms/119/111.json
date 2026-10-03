@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ke tsoere bopaki ba hau bosafeleng, hobane ke thabo ya pelo ya ka tsona.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ke tsoere"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bopaki ba hau"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bosafeleng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "thabo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ya pelo ya ka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:29.156959127Z",
+  "model": "glm-5.3"
+}

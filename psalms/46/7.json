@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Ditjhaba di ile tsa tsamaisa mohoo, mmmuso o ile wa tetema; O ile a fana ka lentswe la hae, lefatshe le ne le tsamaya joaloka sepelelwa.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "di ile tsa tsamaisa mohoo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Ditjhaba"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "o ile wa tetema"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mmmuso"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "O ile a fana ka"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "lentswe la hae"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "le ne le tsamaya joaloka sepelelwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:17.952464644Z",
+  "model": "glm-5.3"
+}

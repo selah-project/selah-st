@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 143,
+  "translation": "Mpontshe hesede ya hao hoseng, hobane ka wena ke tshepile; mpontse tsela eo ke tla tsamayang ka eona, hobane ho wena ke phahamisitse moya wa ka.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "Mpontshe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "mpontse"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "זו",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tla tsamayang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ke phahamisitse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:14.474635716Z",
+  "model": "glm-5.3"
+}

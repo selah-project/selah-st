@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ho tloha ho mokoka oa Yisasakhare: ⟨את⟩ Kishione le mehala ea eona, ⟨את⟩ Daberate le mehala ea eona.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mme ho tloha ho mokoka oa"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisasakhare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishione"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishione"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mehala ea eona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mehala ea eona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberate"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mehala ea eona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mehala ea eona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:31.029641607Z",
+  "model": "glm-5.3"
+}

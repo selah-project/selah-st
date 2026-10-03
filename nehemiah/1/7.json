@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Re etsile phoso e mpe haholo ho wena, ra se boloka ⟨את⟩ ditaello le ⟨את⟩ melao le ⟨את⟩ dikahlolo tseo o di laetseng ⟨את⟩ Moshe mohlanka wa hao:",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "e mpe haholo"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "Re etsile phoso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ra se"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaello"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ditaello"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "melao"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikahlolo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "o di laetseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T12:03:11.442129977Z",
+  "model": "glm-5.3"
+}

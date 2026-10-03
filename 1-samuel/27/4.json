@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme ho tsebiswa Shaule hore Dawide o balekile Gathe; mme a sa eketsa ho mo batla hape.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ho tsebiswa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "o balekile"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gathe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "a sa eketsa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "ho mo batla"
+    }
+  ],
+  "timestamp": "2026-10-03T07:45:09.245636740Z",
+  "model": "glm-5.3"
+}

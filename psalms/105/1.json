@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Fumana Yahwe ka ho mo leboha, bitsang lebitso la hae, tsebisang sechabeng mesebetsi wa hae.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Fumana ka ho leboha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bitsang"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "tsebisang"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sechabeng"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "mosebetsi wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:42.520465467Z",
+  "model": "glm-5.3"
+}

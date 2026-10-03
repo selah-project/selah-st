@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 108,
+  "translation": "Hore ba ratwang ba ka hlalosoa: boloka ka letsogo la hao la ho ja nngoe, mme mpolele.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Hore"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "ba ka hlalosoa"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "ba ratwang"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsogo la hao la ho ja nngoe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "mme mpolele"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:35.010627156Z",
+  "model": "glm-5.3"
+}

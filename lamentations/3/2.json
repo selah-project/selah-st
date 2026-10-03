@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "O ntataisitse ⟨את⟩ nna, a ntsamaisa lefifing, mme eseng mmaphefong.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "o ntataisitse"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ntsamaisa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme eseng"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mmaphefong"
+    }
+  ],
+  "timestamp": "2026-10-03T11:40:12.532223303Z",
+  "model": "glm-5.3"
+}

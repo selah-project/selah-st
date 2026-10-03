@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Mme ba beha kgahlanong le ka bobe sebaka sa botle, le ho hloea sebaka sa lorato lwa ka.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Mme ba beha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le ka"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebaka sa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "botle"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "le ho hloea"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebaka sa"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "lorato lwa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:26.195477921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Nketse mohau, Elohim, ka hesede ya hao; ka bongata ba kutlwelo-hloko ya hao phimola ditlolo tsa ka.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "nketse mohau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ka hesede ya hao"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ka bongata"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ba kutlwelo-hloko ya hao"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "phimola"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ditlolo tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:20.304253788Z",
+  "model": "glm-5.3"
+}

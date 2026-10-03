@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Empa 'na, ho wena ke tshephile, Yahwe; ke ile ka re: Elohim ya ka, wena ⟨⟨u⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "empa 'na"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshephile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:03.811794013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Mme hesede ya Yahwe e dula ho tloha ⟨ho⟩ sefela ho ya ho sefela, ho ba mo tsabang, le tsedeke ya hae ho bana ba bana.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Mme hesede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ho tloha sefela"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sefela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ba mo tsabang"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "le tsedeke ya hae"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:53.811301557Z",
+  "model": "glm-5.3"
+}

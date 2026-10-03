@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Se je ⟨את⟩ boroe ba ya nang le mahlo a mabe, mme se ikhahlele lintjae tsa hae tse monate.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boroe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "boroe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a mabe"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme se"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ikhahlele"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "lintjae tsa hae tse monate"
+    }
+  ],
+  "timestamp": "2026-10-03T11:15:59.577848871Z",
+  "model": "glm-5.3"
+}

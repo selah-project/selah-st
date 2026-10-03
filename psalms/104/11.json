@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Di sesetsa liphoofolo tsohle tsa masimong; diphala tsa naha di felisa ea tsona.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "di sesetsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "liphoofolo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tsa masimong"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "di felisa"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "diphala tsa naha"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ea tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:45.214591806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ba fokolang ba tla ja mme ba tla thaba; ba batlang Yahwe ba tla mo boka; pelo ya lona e tla phela ho isa ho nakong e telele.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "ba tla ja"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba fokolang"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "mme ba tla thaba"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ba tla mo boka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "ba mo batlang"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "e tla phela"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pelo ya lona"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ho isa ho nakong e telele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:13.801283854Z",
+  "model": "glm-5.3"
+}

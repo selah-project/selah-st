@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Ha a nkatlalla ka lentswe la hae, se kholoe ho yena; hobane ho hlalosa mehono e supileng ṯe lipelong tsa hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "a nkatlalla"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "lentswe la hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "kholoe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "e supileng"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "mehono"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ṯe lipelong tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:16:31.414372743Z",
+  "model": "glm-5.3"
+}

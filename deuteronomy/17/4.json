@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "mme ho tlalelwa ho wena, mme o utlwa, mme o batlisisa hantle; mme bonang, e `'nnete, taba e netefaditsweng — se hloyahalang se sena se entsoe ho Yisraele —",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "mme ho tlalelwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "mme o utlwa"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "mme o batlisisa"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "hantle"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "'nnete"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e netefaditsweng"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "se entsoe"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "se hloyahalang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "se sena"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ho Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T06:55:50.377277193Z",
+  "model": "glm-5.3"
+}

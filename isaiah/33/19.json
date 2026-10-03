@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Setjhaba se matla ⟨את⟩ o sa se bone; setjhaba sa sepa se tebileng hore ho utlwehe, sa puo e sotlang, se nang tlhaloganyo ha ho eona.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba se matla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "se matla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o sa se bone"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "se tebileng"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "sa sepa"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "hore ho utlwehe"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "e sotlang"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "sa puo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho eona"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "tlhaloganyo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:44:06.510247902Z",
+  "model": "glm-5.3"
+}

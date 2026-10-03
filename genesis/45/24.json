@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Mme a romela ⟨את⟩ bana ba bokae, mme ba tsamaea; mme a ba re: Lokele hore le se qabele tsela.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba bokae"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bana ba bokae"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba tsamaea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "qabele"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tsela"
+    }
+  ],
+  "timestamp": "2026-10-03T05:40:20.123174755Z",
+  "model": "glm-5.3"
+}

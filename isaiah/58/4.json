@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 58:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 58,
+  "translation": "Bonang, ho ngangisano le khang le itima dijo, le ho otta ka lelatsoho la bosulu; le se ke la itima dijo jwalo ka letsatsi lena, hore lentswe la lona le utloehe hodimo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "ho ngangisano"
+    },
+    {
+      "surface": "ומצה",
+      "gloss": "le khang"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "le itima dijo"
+    },
+    {
+      "surface": "ולהכות",
+      "gloss": "le ho otta"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "ka lelatsoho"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "la bosulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "la itima dijo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jwalo ka letsatsi lena"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "hore le utloeise"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "lentswe la lona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:58:01.729680073Z",
+  "model": "glm-5.3"
+}

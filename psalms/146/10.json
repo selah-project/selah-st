@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 146,
+  "translation": "Yahwe o tla busa ho fihlela ho sa feleng, Elohim wa hao, wa Tsiyone, ho loka-lokane le loka-lokane. Lumelang ⟨את⟩ Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "o tla busa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ho sa feleng"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ho loka-lokane"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le loka-lokane"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lumelang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:51.651125742Z",
+  "model": "glm-5.3"
+}

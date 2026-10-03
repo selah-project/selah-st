@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme setjhaba sa phomola ka letsatsi la bosupo.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "sa phomola"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "la bosupo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:04.585985251Z",
+  "model": "glm-5.3"
+}

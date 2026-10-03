@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme ba tla amohela ⟨את⟩ liphoso tsa bona le ⟨את⟩ liphoso tsa bo-ntate bona, ka boikhohetsi boo ba bo ikohetsitseng ho 'na, le hore ba ile ba tsamaya le 'na ka ho hanyetsa.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "ba tla amohela liphoso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liphoso tsa bona"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "liphoso tsa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "liphoso tsa bo-ntate bona"
+    },
+    {
+      "surface": "עון",
+      "gloss": "liphoso"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "tsa bo-ntate bona"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "ka boikhohetsi bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "boo"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ba bo ikohetsitseng"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba ile ba tsamaya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le 'na"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ka ho hanyetsa"
+    }
+  ],
+  "timestamp": "2026-10-03T12:46:47.326527399Z",
+  "model": "glm-5.3"
+}

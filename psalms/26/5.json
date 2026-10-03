@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Ke mo hloyile kereke ya ba bolaetseng, mme le ba molato ha ke ea dula le bona.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ke mo hloyile"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kereke"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ya ba bolaetseng"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba molato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ke ea dula le bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:47.024660105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Ba behe kgalalelo ho Yahwe, mme ba phatlalatse tlelo ya hae ho mabitso.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "Ba behe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "mme tlelo ya hae"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "ho mabitso"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ba phatlalatse"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:02.277854689Z",
+  "model": "glm-5.3"
+}

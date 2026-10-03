@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 87,
+  "translation": "Bana ba Korakhe. Mokoko o mong, o motse. Motheo wa yona o bolelele methareng ⟨e⟩ halalelang.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoko"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "motheo wa yona"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "methareng"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:54.903850297Z",
+  "model": "glm-5.3"
+}

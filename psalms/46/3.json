@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Ka lebaka lena re sa tshabe, lefatshe le ka fetoha, le dithaba di ka tsamaisoa ka pelong ya mawatle.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka lena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "re tshabe"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "le ka fetoha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "le di ka tsamaisoa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ka pelong ya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mawatle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:05.431715121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Bonong, ke a le kgotsoa ⟨ka⟩ peo, ke tla phalla lesweu holim'a lifahleho tsa lona, lesweu la mabenkeleng a lona; mme le tla tsamaiswa ho sona.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "bonong"
+    },
+    {
+      "surface": "גער",
+      "gloss": "ke a le kgotsoa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peo"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "peo"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ke tla phalla"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "lesweu"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "lifahleho tsa lona"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "lesweu"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "mabenkeleng a lona"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "le tla tsamaiswa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "ho sona"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho sona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:21:05.138746071Z",
+  "model": "glm-5.3"
+}

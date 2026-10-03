@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 112,
+  "translation": "Hobane ho sa feleng ha a ke ke a tsejwa kahare; ya lokileng o tla ba sehopotso sa ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a ke ke a"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "tsejwa kahare"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "sehopotso sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya lokileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:23.959690198Z",
+  "model": "glm-5.3"
+}

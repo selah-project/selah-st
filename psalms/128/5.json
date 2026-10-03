@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 128,
+  "translation": "Yahwe a o hlohonolofatse ho tloha Tsiyone, mme o bone ntleho ea Yerushalayime, ka metsotso eohle ea bophelo ba hao.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "a o hlohonolofatse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ho tloha Tsiyone"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mme o bone"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ntleho ea"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle ea"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "metsotso"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "bophelo ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:03.836094638Z",
+  "model": "glm-5.3"
+}

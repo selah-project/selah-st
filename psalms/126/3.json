@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 126,
+  "translation": "Yahwe o ile a etsa dilo tse kgole le rona; re bile ba thabile.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "o ile a etsa dilo tse kgole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "re bile"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ba thabile"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:56.427178669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 112,
+  "translation": "Matla a tla ba le peo ya hae lefatshe; paleho ya ba lokileng e tla hlohonolofatswa.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Matla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a tla ba"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "peo ya hae"
+    },
+    {
+      "surface": "דור",
+      "gloss": "paleho"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ya ba lokileng"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "e tla hlohonolofatswa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:59.770641769Z",
+  "model": "glm-5.3"
+}

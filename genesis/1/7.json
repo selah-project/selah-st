@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Elohim a etsa ⟨את⟩ sekgahlano, mme a hlakanya mahare a metsi a ka tlase ho sekgahlano le a metsi a ka hodima sekgahlano; mme ho ile ha ba jwalo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekgahlano"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "sekgahlano"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "mme a hlakanya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mahare"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a metsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sekgahlano"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a metsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka hodima"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sekgahlano"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho ile ha ba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:45.795786155Z",
+  "model": "glm-5.3"
+}

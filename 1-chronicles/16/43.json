@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme setjhaba sohle sa ya, mong le mong ya ntlo ya hae; mme Dawide a khutlela ho hlahlisa ⟨את⟩ ntlo ya hae.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "mme ... sa ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ya ntlo ya hae"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "mme a khutlela"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "ho hlahlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya hae"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T12:16:59.127409450Z",
+  "model": "glm-5.3"
+}

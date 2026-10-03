@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Aaka e mong o fetola sefahleho sa haka ho ⟨את⟩ sejalla, a rapela ho Yahwe, a re:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "a fetola e mong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa haka"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa haka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "sejalla"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "a rapela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T08:28:56.891812236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "A tsohe Elohim, a dira tsa hae di phatlalatsoe, mme ba mo hloyang ba futhumele pel'a hae.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "a tsohe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "di phatlalatsoe"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "dira tsa hae"
+    },
+    {
+      "surface": "ולוסו",
+      "gloss": "mme ba futhumele"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "ba mo hloyang"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pel'a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:37.394733838Z",
+  "model": "glm-5.3"
+}

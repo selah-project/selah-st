@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ea oa Yahwe ka tlhahlo ea hau; ea oa khahlanong le tukisho ea ditshwarella tsa ka; mme o tsosoe bakeng sa ka: kahlolo o ile wa e laela.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ea oa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ka tlhahlo ea hau"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "ea oa khahlanong le"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "tukisho ea"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ditshwarella tsa ka"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "mme o tsosoe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "bakeng sa ka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "o ile wa e laela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:27.929580716Z",
+  "model": "glm-5.3"
+}

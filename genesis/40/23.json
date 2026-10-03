@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Empa mookudi-barwa a sa hopole ⟨את⟩ Yosefe, mme a mo lebala.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Empa a sa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hopole"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookudi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "mme a mo lebala"
+    }
+  ],
+  "timestamp": "2026-10-03T05:35:56.940438432Z",
+  "model": "glm-5.3"
+}

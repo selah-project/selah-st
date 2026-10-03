@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme o ile a atisa ⟨את⟩ Yisraele mengwaheng ya bafilistime dingwaga di mashome a mabedi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a atisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mengwaheng"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "bafilistime"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mashome a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T07:23:48.301794018Z",
+  "model": "glm-5.3"
+}

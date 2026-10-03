@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 112,
+  "translation": "Ka ditaba tse mpe ha a tshabe; pelo ya hae e tlhomile, e tshephetse ho Yahwe.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "ka ditaba"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "tse mpe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "a tshabe"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e tlhomile"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "e tshephetse"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:23.959823397Z",
+  "model": "glm-5.3"
+}

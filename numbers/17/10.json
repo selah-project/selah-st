@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Emang hodima, tlohang hara sekgutla sena, hore ke je ⟨את⟩ bone ka motsotso. Mme ba wa ka mahlo a bona fatse.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Emang hodima"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "hara"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "sekgutla"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "hore ke je"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bone"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "ka motsotso"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "Mme ba wa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "mahlo a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:31:46.514266701Z",
+  "model": "glm-5.3"
+}

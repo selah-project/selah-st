@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Hobane ntatae le mmea oa tlohile ‘na, empa Yahwe o tla ntokella.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntatae"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "le mmea"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "oa tlohile ‘na"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "empa Yahwe"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "o tla ntokella"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:42.131979849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ka masoabi ke ile ka otla ⟨את⟩ barwa ba lona; ba sa amohelle kholiso. Sehlare sa lona se jele baporofeta ba lona, jwalo ka tau ya senyang.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "ka masoabi"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "ke ile ka otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barwa ba lona"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "barwa ba lona"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kholiso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ba amohetse"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "se jele"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "sehlare sa lona"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "baporofeta ba lona"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "jwalo ka tau"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ya senyang"
+    }
+  ],
+  "timestamp": "2026-10-03T09:00:47.077217675Z",
+  "model": "glm-5.3"
+}

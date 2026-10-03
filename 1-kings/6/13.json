@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme ke tla dula har'a bana ba Yisraele, mme ke ke ke ka tlogela ⟨את⟩ batho ba ka Yisraele.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "ke tla dula"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ke ke ke ka"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho ba ka Yisraele"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "batho ba ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T12:56:25.995593742Z",
+  "model": "glm-5.3"
+}

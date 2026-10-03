@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme Mikhale a theohisa ⟨את⟩ Dawide fatše ha fensetere; mme ya moha, a baleha, a ikgholoha.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "a theohisa"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "fatše ha"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fensetere"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ya moha"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "a baleha"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "a ikgholoha"
+    }
+  ],
+  "timestamp": "2026-10-03T07:40:02.610913686Z",
+  "model": "glm-5.3"
+}

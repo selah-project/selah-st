@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Dawide a ka eketsa eng hape ho bua le wena? Mme wena o tseba ⟨את⟩ mohlanka wa hao, Adonai Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "mme ... eng"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "a ka eketsa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho bua"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mohlanka wa hao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa hao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:49:27.287809746Z",
+  "model": "glm-5.3"
+}

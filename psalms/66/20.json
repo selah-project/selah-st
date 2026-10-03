@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "E halaleleng ke Elohim, ya sa tlosang thapelo ya ka, le hesede hae, ho tswa ho ⟨את⟩ nna.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "e halaleleng ke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya sa tlosang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "tlosang"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "le hesede hae"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "ho tswa ho ⟨את⟩ nna",
+      "marks": "nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:14.161877670Z",
+  "model": "glm-5.3"
+}

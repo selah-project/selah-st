@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Adonai, ho isa nako e kae o tla shebella? Kutlisa moya oa ka merusong ea bona, ho taung tse nyane ea ka ea ikgethang.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ho isa nako e kae"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o tla shebella"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "kutlisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "merusong ea bona"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "ho taung tse nyane"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ea ka ea ikgethang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:50.194052017Z",
+  "model": "glm-5.3"
+}

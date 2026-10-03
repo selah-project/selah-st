@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "E romella makala a yona ho fihla lewatle, le ho ea Noka metjheso ya yona.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "e romella"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "makala a yona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihla"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho ea"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Noka"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "metjheso ya yona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:00.487312611Z",
+  "model": "glm-5.3"
+}

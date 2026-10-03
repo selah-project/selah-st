@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Khetlo ya baholo ke bana ba bana; mme setsi sa bana ke bo-ntate bona.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "khetlo"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ya baholo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ke bana ba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "mme setsi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sa bana"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ke bo-ntate bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:12:53.898455319Z",
+  "model": "glm-5.3"
+}

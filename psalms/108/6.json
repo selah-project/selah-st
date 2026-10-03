@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 108,
+  "translation": "E phahame, Elohim, hodima mahodimo, mme kgalalelo ya hao hodima lefatshe lohle.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "E phahame"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme hodima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kgalalelo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:35.010374310Z",
+  "model": "glm-5.3"
+}

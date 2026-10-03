@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 62,
+  "translation": "Ee, yena feela ⟨ke⟩ lejwa la ka le tokoloho ya ka; teredene ya ka ya bohodimo; nke ke ka tsubuhela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ee, feela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "lejwa la ka"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "le tokoloho ya ka"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "teredene ya ka ya bohodimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nke ke"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ka tsubuhela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:49.311604851Z",
+  "model": "glm-5.3"
+}

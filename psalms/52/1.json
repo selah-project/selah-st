@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Ya motala, pina ea bohlale, ea Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ya motala"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pina ea bohlale"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ea Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:04.734478698Z",
+  "model": "glm-5.3"
+}

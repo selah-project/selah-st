@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Shelomo o ile a rata ⟨את⟩ Yahwe, ho tsamaya melao-choeeng ya Dawide ntatahe; feela o ne a fana dinakong tse phahameng, mme a tukisa mofufutso.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "o ile a rata"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ho tsamaya"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "melao-choeeng"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntatahe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "feela"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "dinakong tse phahameng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o ne a"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "fana"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "a tukisa mofufutso"
+    }
+  ],
+  "timestamp": "2026-10-03T08:02:30.326356598Z",
+  "model": "glm-5.3"
+}

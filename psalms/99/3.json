@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 99,
+  "translation": "A ke a tlotla lebitso la hau, le moholo le le tshosang; o halalelang.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "a ke a tlotla"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hau"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "moholo"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "tshosang"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "halalelang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:07.066400824Z",
+  "model": "glm-5.3"
+}

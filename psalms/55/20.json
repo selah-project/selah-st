@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "El o tla utlwa, mme o tla ba araba, Ee ya dulang qetellong e telele. Selaha. Hobane ha ho phetoho ho bona, mme ha ba tshabe Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "o tla utlwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "o tla ba araba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Ee ya dulang"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "qetellong e telele"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "phetoho"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba tshabe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:50.506978810Z",
+  "model": "glm-5.3"
+}

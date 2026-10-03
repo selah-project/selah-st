@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme a re ho baradi ba hae: O kae? Hobaneng la mo siea motho eo? Mmemang hore a tle a je ⟨את⟩ borotho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "baradi ba hae"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "o kae"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "la mo siea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "mmemang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hore a tle"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "a je"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "borotho"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:31.054773698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme o behe ⟨את⟩ serala ho potoloha, mme o behe ⟨את⟩ seromola sa sebakapa sa serala.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Mme o behe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serala"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "serala"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o behe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seromola sa sebakapa"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "seromola"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sa sebakapa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sa serala"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:02.645056695Z",
+  "model": "glm-5.3"
+}

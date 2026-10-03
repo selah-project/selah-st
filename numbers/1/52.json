@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme bana ba Yisraele ba tla khanna, motho ka kampeng ya hae, le motho ka sesupo sa hae, ka dikgotla tsa bona.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "mme ba tla khanna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kampeng ya hae"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le motho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "sesupo sa hae"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ka dikgotla tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:52.521907795Z",
+  "model": "glm-5.3"
+}

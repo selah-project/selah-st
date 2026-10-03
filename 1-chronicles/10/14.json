@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "mme a sa botsa ho Yahwe; Ya mo bolaila, Ya fetisetsa ⟨את⟩ buso ho Dawide, mora wa Yishai.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "botsa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "Ya mo bolaila"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Ya fetisetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buso"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "buso"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ho Dawide"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-10-03T12:13:29.041274624Z",
+  "model": "glm-5.3"
+}

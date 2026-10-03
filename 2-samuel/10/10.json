@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ⟨את⟩ setsi sa setjhaba a se neela letsohong la Abishae, moena wa hae, mme ena a hlophisa hore a qabele bana ba Amoni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setsi sa setjhaba"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "setsi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa setjhaba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "letsohong la"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abishae"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "moena wa hae"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "a hlophisa"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hore a qabele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    }
+  ],
+  "timestamp": "2026-10-03T07:51:16.248044453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Hao ho ba heletsang ho Yahwe ho pata merero, mme mosebetsi oa tsona o entsoe lefifing, mme ba re: Ke mang ea re bonang, mme ke mang ea re tsebang?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hao"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "ho ba heletsang"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "ho pata"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "merero"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme o bile"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "lefifing"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "mosebetsi oa tsona"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "ea re bonang"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mme ke mang"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "ea re tsebang"
+    }
+  ],
+  "timestamp": "2026-10-03T08:45:07.941561218Z",
+  "model": "glm-5.3"
+}

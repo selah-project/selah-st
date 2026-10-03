@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Hopola ⟨את⟩ se ileng sa etswa ke Yahwe Elohim ya hao ho Miriame, tseleng, ha le tswa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Hopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se ileng sa etswa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se ileng sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etswa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "ho Miriame"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ha le tswa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T06:56:44.552035041Z",
+  "model": "glm-5.3"
+}

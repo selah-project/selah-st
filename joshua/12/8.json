@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "thabeng, le sekhitishong, le Arave, le maalwaneng, le bohaleng, le borwa; Heithe, Emorite, le Kenane, Perize, Hivite, le Jebuse:",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "le sekhitishong"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "le Arave"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "le maalwaneng"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "le bohaleng"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "le borwa"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Heithe"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorite"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "le Kenane"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perize"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivite"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le Jebuse"
+    }
+  ],
+  "timestamp": "2026-10-03T07:11:01.418666469Z",
+  "model": "glm-5.3"
+}

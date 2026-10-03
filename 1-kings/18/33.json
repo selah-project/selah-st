@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme a hlophisetsa ⟨את⟩ meru, a kgaola ⟨את⟩ phoofolo ya nama e tshweu, mme a e beha hodima meru.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "a hlophisetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meru"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "meru"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "a kgaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phoofolo ya nama e tshweu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "phoofolo ya nama e tshweu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mme a beha"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "meru"
+    }
+  ],
+  "timestamp": "2026-10-03T08:13:53.238020746Z",
+  "model": "glm-5.3"
+}

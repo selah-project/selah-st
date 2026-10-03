@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Ha le a tseba? Ha le a utloa? Ha e a bolelloa ho lona ho tloha qalong? Ha le a hlafka mehlafo ya ⟨את⟩ lefatshe?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "le a tseba"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "le a utloa"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "e a bolelloa"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ho tloha qalong"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "le a hlafka"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "mehlafo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:47.486691152Z",
+  "model": "glm-5.3"
+}

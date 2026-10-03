@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Khahlanong le sechaba sa hao ba rera ka boqheketsi, mme ba buisana khahlanong le ba u ba patitseng.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Khahlanong le"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sechaba sa hao"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "ba rera ka boqheketsi"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ka boqheketsi"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "mme ba buisana"
+    },
+    {
+      "surface": "על",
+      "gloss": "khahlanong le"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "ba u ba patitseng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:19.163747786Z",
+  "model": "glm-5.3"
+}

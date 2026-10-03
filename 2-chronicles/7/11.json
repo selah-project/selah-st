@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Shelomoh o qetile ⟨את⟩ ntlo ya Yahwe le ⟨את⟩ ntlo ya morena, mme ⟨את⟩ tsohle tse neng di tla hodima pelo ya Shelomoh ho li etsa ntlong ya Yahwe le ntlong ya hae — o ile a atleha.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "mme o qetile"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya morena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "tse neng di tla"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomoh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho li etsa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "le ntlong ya hae"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "o ile a atleha"
+    }
+  ],
+  "timestamp": "2026-10-03T12:26:22.097385515Z",
+  "model": "glm-5.3"
+}

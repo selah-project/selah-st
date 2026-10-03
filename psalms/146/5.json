@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 146,
+  "translation": "O sehle se thabileng eo ya nang le Elohim ya Yaakobo thusong ya hae, tshepo ya hae e utlohelang ho Yahwe Elohim ya hae.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "O sehle se thabileng"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "eo ya nang le"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "thusong ya hae"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "tshepo ya hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:53.571750614Z",
+  "model": "glm-5.3"
+}

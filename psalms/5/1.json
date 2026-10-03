@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ho moeta-pele, ho ⟨את⟩ Nehilote. Moko wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moeta-pele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nehilote"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Moko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:40.086080844Z",
+  "model": "glm-5.3"
+}

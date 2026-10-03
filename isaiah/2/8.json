@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme naha ya jena e tlale ka melimo; mitho ya matoho a jena e ikhohomosa ho seba e leng maqono a jena a entseng.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "e tlale"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "naha ya jena"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "ka melimo"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "mitho ya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "matoho a jena"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "e ikhohomosa"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ho seba e leng"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "a entseng"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "maqono a jena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:31:14.707680535Z",
+  "model": "glm-5.3"
+}

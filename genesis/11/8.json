@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Yahwe o ile a ba phatlalatsa ⟨אתם⟩ ho tloha teng hodima sefahleho sa lefatshe lohle; mme ba dula ba aha hore ba ae motse.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "a ba phatlalatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ho tloha teng"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ba dula ba aha hore"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ba ae"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motse"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:38.819595201Z",
+  "model": "glm-5.3"
+}

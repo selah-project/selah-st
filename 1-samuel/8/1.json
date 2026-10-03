@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme e bile jwale: ha Shemuela a nka ho tsoala, o ile a beha ⟨את⟩ bana ba hae ba hlola ditsekahalo bakeng sa Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bile jwale"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a nka ho tsoala"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o ile a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba hae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ba hlola ditsekahalo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bakeng sa Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:03.704495026Z",
+  "model": "glm-5.3"
+}

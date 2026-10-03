@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Joalo ka phoofolo ea naha e nyekollang methati ea metsi, jwalo moya oa ka o nyekolla ho uena, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Joalo ka phoofolo ea naha"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "e nyekolla"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "methati"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ea metsi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "o nyekolla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:15.733411849Z",
+  "model": "glm-5.3"
+}

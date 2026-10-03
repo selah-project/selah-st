@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "O hlahola leqhoa la hae joaloka masela; pepeneneng le ho batang ha hae, mang o ka emela?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "O hlahola"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "leqhoa la hae"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "joaloka masela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pepeneneng le"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "ho batang ha hae"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "o ka emela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:48.070457488Z",
+  "model": "glm-5.3"
+}

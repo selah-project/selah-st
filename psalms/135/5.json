@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Hobane nna ke tsebile hore Yahwe ⟨⟨ke⟩⟩ mogolo, mme Adonai wa rona ho feta melimo yohle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke tsebile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "mme Adonai wa rona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho feta yohle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "melimo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:14.381617402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 96,
+  "translation": "Botle bo tletseng le bokgorosi bo duleng pel’a hae, matla le kgalalelo tumellanong ya hae e halalelang.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "botle bo tletseng"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "le bokgorosi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pel’a hae"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "le kgalalelo"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "tumellanong ya hae e halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:13.830082972Z",
+  "model": "glm-5.3"
+}

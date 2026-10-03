@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 5:10",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme le nna, bana ba baratuoa ba ka, le balebedi ba ka, re bokolosa ⟨את⟩ molemo ona ka sefefo le korong; a re tlohele, ke kopa, boima bona.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mme le"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bana ba baratuoa ba ka"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "le balebedi ba ka"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "re bokolosa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "boima bona"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ka sefefo"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "le korong"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "a re tlohele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molemo ona"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "molemo ona"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:04:14.429709780Z",
+  "model": "glm-5.3"
+}

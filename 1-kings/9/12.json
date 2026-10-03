@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Chirame a tswa Tsure a ye ho sheba ⟨את⟩ ditotoropo tseo Solomone a neng a di mo fileng; mme tsa sa mo rate mahlong a hae.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "mme a tswa"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chirame"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "Tsure"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ho sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditotoropo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ditotoropo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a di mo fileng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme tsa sa"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "mo rate"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mahlong a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:06:26.018779128Z",
+  "model": "glm-5.3"
+}

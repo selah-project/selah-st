@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Bakeng sa moeta-pele, ka dithunya tsa dinotshe, poho e ruta ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bakeng sa moeta-pele"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ka dithunya tsa dinotshe"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poho e ruta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:01.732444711Z",
+  "model": "glm-5.3"
+}

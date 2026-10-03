@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "Gepe u e hula ho tloha Mitsrayime, o hlakola ⟨את⟩ ditjhaba, mme wa e jala.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "Gepe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho tloha Mitsrayime"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "u e hula"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "o hlakola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditjhaba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "mme wa e jala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:00.486724143Z",
+  "model": "glm-5.3"
+}

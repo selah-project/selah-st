@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Yahwe, mamele ⟨את⟩ thapelo ya ka, mme leleme la ka le tle ho wena.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "mamele"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "leleme la ka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "e tle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:20.537373934Z",
+  "model": "glm-5.3"
+}

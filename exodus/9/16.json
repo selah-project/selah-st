@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Empa ka ntlha ya sena ke ile ka o emisa, hore ke tle ke bontshe wena ⟨את⟩ matla a ka, le hore lebitso la ka le tle le phatlalatsoe lefatsheng lohle.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "empa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ka ntlha ya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "ke ile ka o emisa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ke bontshe wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matla a ka"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "le hore"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "le phatlalatsoe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "lebitso la ka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lohle"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:05.203263283Z",
+  "model": "glm-5.3"
+}

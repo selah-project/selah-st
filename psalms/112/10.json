@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 112,
+  "translation": "Moesho o tla bona mme a halefa; a tla konkonosa meno ya hale, mme a sesefalla; takatso ya boesho e tla timela.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "moesho"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o tla bona"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "mme a halefa"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "meno ya hae"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "a tla konkonosa"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "mme a sesefalla"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "takatso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya boesho"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "e tla timela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:46.490106249Z",
+  "model": "glm-5.3"
+}

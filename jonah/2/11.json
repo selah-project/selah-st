@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Yahwe a bua le ⟨את⟩ tlhapi, mme e hlaba Nona ka ho hlatsoa hodima naha ea omileng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "le tlhapi"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "mme e hlatsoa ka ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Nona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "naha ea omileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:08:37.273889432Z",
+  "model": "glm-5.3"
+}

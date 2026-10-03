@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Empa jwale ⟨e⟩ tla ho wena, mme o fokola; ⟨e⟩ o oka ho wena, mme o tshohile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "empa jwale"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "e tla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "mme o fokola"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "e oka"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "mme o tshohile"
+    }
+  ],
+  "timestamp": "2026-10-03T11:18:36.020933274Z",
+  "model": "glm-5.3"
+}

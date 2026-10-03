@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Bua kopele litsebeng tsa setjhaba, mme ba batle — monna yo mong le yo mong ho ⟨את⟩ motswalle wa hae, mosali yo mong le yo mong ho ⟨את⟩ motswalle wa yena — didiriswa tsa selekane le didiriswa tsa gauta.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kopele"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "litsebeng tsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "mme ba batle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna yo mong le yo mong"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho ⟨את⟩",
+      "marks": "motswalle wa hae"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "motswalle wa hae"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "mosali yo mong le yo mong"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho ⟨את⟩",
+      "marks": "motswalle wa yena"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "motswalle wa yena"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didiriswa tsa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "le didiriswa tsa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:09.008135855Z",
+  "model": "glm-5.3"
+}

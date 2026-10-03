@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Balisa ba bangata ba senyetse serapo sa ka, ba tlhotsa karolo ya ka; ba fana ka karolo ya thabo ya ka e be naha e se nang letho, e senyehileng.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "balisa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bangata"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ba senyetse"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "serapo sa ka"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "ba tlhotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karolo ya ka"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "karolo ya ka"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba fana ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karolo ya thabo ya ka"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "karolo ya"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "thabo ya ka"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "e be naha e se nang letho"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "e senyehileng"
+    }
+  ],
+  "timestamp": "2026-10-03T09:08:13.492377425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Empa ⟨את⟩ Binjamine, moradi wa Yosefa, Yaakobo a sa mo romela ⟨את⟩ le baradi ba hae; hobane o ile a re: Hore sieo a ka etsahala masetlapa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamine"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamine"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "moradi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "wa Yosefa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mo romela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baradi ba hae"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "le baradi ba hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hore sieo"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "a ka etsahala"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "masetlapa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:02.201297178Z",
+  "model": "glm-5.3"
+}

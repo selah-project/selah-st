@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Empa o wena — motho, o tshwanang le nna, molekane wa ka, le ya ntsamaisang le ya tsebahalang le nna!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "empa o wena"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "o tshwanang le nna"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "molekane wa ka, le ya ntsamaisang"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "le ya tsebahalang le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:43.836765276Z",
+  "model": "glm-5.3"
+}

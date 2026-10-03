@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "El ya ka, El ya ka, hobaneng o ntlohile? O kule ho tolokho ya ka, ho mantswe a ho lla ha ka.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El ya ka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ya ka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "o ntlohile"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "O kule"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "ho tolokho ya ka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ho mantswe a"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ho lla ha ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:23.259148500Z",
+  "model": "glm-5.3"
+}

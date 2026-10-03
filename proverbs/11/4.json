@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ha se thuso lethong setjepe letsatsing la bolumo, mme tsedeke e lokolla ho tswa lefung.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha se thuso lethong"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "se thusa"
+    },
+    {
+      "surface": "הון",
+      "gloss": "setjepe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letsatsing la"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "bolumo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mme tsedeke"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "e lokolla"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ho tswa lefung"
+    }
+  ],
+  "timestamp": "2026-10-03T11:09:59.920129582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 143,
+  "translation": "Mme ka hesede ya hao, timetsa ba mohloyi ba ka, mme o timetse ba kohlehetsang moea wa ka; hobane ke lekhanka la hao.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Mme ka hesede ya hao"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "timetsa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ba mohloyi ba ka"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "mme o timetse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ba kohlehetsang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moea wa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "lekhanka la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:30.779860677Z",
+  "model": "glm-5.3"
+}

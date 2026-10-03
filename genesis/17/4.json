@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Nna — bonang, selekane sa ke ⟨את⟩ le wena, mme u tla ba ⟨⟨⟩⟩ ntja-pelo ya bongata ba ditjhaba.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena",
+      "marks": "le wena"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "mme u tla ba"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ntja-pelo ya"
+    },
+    {
+      "surface": "המון",
+      "gloss": "bongata ba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T05:25:36.885912273Z",
+  "model": "glm-5.3"
+}

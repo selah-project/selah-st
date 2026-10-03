@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Ke hopola Elohim, mme ke a llela; ke nahana, mme ruakh ya ka e ikutlwa e khutla. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Ke hopola"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "mme ke a llela"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ke nahana"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "mme e ikutlwa e khutla"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya ka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:06.141433627Z",
+  "model": "glm-5.3"
+}

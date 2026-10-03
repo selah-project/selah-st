@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme o tla e etsa ⟨את⟩ e tlotswang-peo ya dintafo, mosebetsi wa mokgotswa-peo, o monyang le molahare, e hloekileng, e halalelang.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mme o tla e etsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e tlotswang-peo ya dintafo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "e tlotswang-peo ya dintafo"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "mokgwa wa ho tswelopele"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi wa"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "mokgotswa-peo"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "o monyang le molahare"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:24.856777599Z",
+  "model": "glm-5.3"
+}

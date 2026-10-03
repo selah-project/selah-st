@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Thapelo ya Dawide. Thlahasela litsebe tsa hau, Yahwe, mme mphe karabo, hobane ke mofutsana le mopha.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Thapelo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Thlahasela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "litsebe tsa hau"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mphe karabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mofutsana"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le mopha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:24.469849389Z",
+  "model": "glm-5.3"
+}

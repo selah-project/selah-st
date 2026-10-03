@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme Moshe o qeta ho bua ⟨את⟩ mantswe ohle ao ho Yisraele ohle,",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "o qeta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho bua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T07:01:44.314458074Z",
+  "model": "glm-5.3"
+}

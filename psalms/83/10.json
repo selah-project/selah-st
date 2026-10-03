@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Etsetsa bone joalo ka Mmidiyane, joalo ka Sisera, joalo ka Yabine, keleleng ya Kishone.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Etsetsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bone"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "joalo ka Mmidiyane"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "joalo ka Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "joalo ka Yabine"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "keleleng"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "ya Kishone"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:37.148261697Z",
+  "model": "glm-5.3"
+}

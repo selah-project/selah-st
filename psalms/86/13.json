@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Hobane hesede hau ke kgolo ho isa ho 'na, mme o pholositse ⟨את⟩ moya wa ka ho tloha Sheole ya ka tlase.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede hau"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kgolo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho isa ho 'na"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "mme o pholositse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "ho tloha Sheole"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ya ka tlase"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:34.840763485Z",
+  "model": "glm-5.3"
+}

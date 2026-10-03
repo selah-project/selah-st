@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 21:6",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme o ile a fetafetsa ⟨את⟩ mora wa hae ka mollo, a etsa bokgoni ba ho bua le moya, a ipeha pele, mme a etsa moea wa bokebe le ba tsebang dilo tse fitlang; o ile a atisa ho etsa bobe mahlong a Yahwe, ho mo tsubetsa tlhoho.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "a ile a fetafetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mora wa hae"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "ועונן",
+      "gloss": "a etsa bokgoni ba ho bua le moya"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "a ipeha pele"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "moea wa bokebe"
+    },
+    {
+      "surface": "וידענים",
+      "gloss": "ba tsebang dilo tse fitlang"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "a atisa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "ho mo tsubetsa tlhoho"
+    }
+  ],
+  "timestamp": "2026-10-03T08:29:23.447163992Z",
+  "model": "glm-5.3"
+}

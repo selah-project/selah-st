@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Bakeng sa Gereshome: Libni mora wa hae, Yakhate mora wa hae, Zime mora wa hae.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Bakeng sa Gereshome"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yakhate"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zime"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:18:14.262388297Z",
+  "model": "glm-5.3"
+}

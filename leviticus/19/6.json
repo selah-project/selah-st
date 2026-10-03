@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Ka letsatsi leo le bolaelang kateng ⟨⟨e⟩⟩ jaala, le ka la moso; mme seo se setsang ho fihlela la boraro, ka mollu ho futhumatswa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "leo le bolaelang kateng"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jaala"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "le ka la moso"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "mme seo se setsang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "יום",
+      "gloss": "la"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "boraro"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollu"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ho futhumatswa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:13:00.867760324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Sefahleho sa Yahwe se kgahlanong le ba etsang boloa, ho timetsa ketso ya tsona ho tloha lefatsheng.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "Sefahleho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "le ba etsang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "boloa"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ho timetsa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lefatsheng"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ketso ya tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:10.141955626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Hure a begeta ⟨את⟩ Ure; mme Ure a begeta ⟨את⟩ Betshalele.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Mme Hure"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ure"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ure"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "mme Ure"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betshalele"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betshalele"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:56.127443834Z",
+  "model": "glm-5.3"
+}

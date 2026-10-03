@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "O se ke wa tshoha ha motho a ruha, ha bokgabane ba ntlo ya hae bo ntse bo eketseha.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wa tshoha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "a ruha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "bo eketseha"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "bokgabane"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ba ntlo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:07.599120347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme moremogolo wa Sheba a bona ⟨את⟩ bohlale ba Solomone, le ⟨את⟩ ntlo ya hae a e ahileng.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "moremogolo wa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohlale ba Solomone"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bohlale ba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "le ntlo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya hae a e"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ahileng"
+    }
+  ],
+  "timestamp": "2026-10-03T12:27:00.841936972Z",
+  "model": "glm-5.3"
+}

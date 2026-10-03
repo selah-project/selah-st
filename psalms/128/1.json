@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 128,
+  "translation": "Pina ya ho Nyoloha. Thabang ba hesang ho Yahwe, ba tsamayang metsing ea hae.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya ho Nyoloha"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Thabang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba hesang ho — ba tsamayang"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ba hesang ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ba tsamayang"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "metsing ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:11.426163106Z",
+  "model": "glm-5.3"
+}

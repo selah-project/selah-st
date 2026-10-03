@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme hoseng, ha minkha ea hoseng e ne e phahamela, bona, metsi a tla tseleng ea Edome, mme lefatshe le tlale ⟨את⟩ metsi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho etsahetse"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "ha e phahamela"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha ea hoseng"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tseleng ea"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "mme le tlale"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:20.856326215Z",
+  "model": "glm-5.3"
+}

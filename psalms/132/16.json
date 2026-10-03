@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Mmaprista a yona ke tla a apesa tolotolo; mahlomola a yona a tla qhomela thabo.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "Mmaprista a yona"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ke tla a apesa"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "tolotolo"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "mahlomola a yona"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "qhomela"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "a tla qhomela thabo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:33.652647951Z",
+  "model": "glm-5.3"
+}

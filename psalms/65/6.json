@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 65,
+  "translation": "O re araba ka dintho tse ts'osang, ka toka, Elohim ya pholoho ya rona; ts'epo ⟨ya⟩ mafelelo ohle a lefatshe, le ya lewatle le le hole.",
+  "tokens": [
+    {
+      "surface": "נוראות",
+      "gloss": "ka dintho tse ts'osang"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka toka"
+    },
+    {
+      "surface": "תעננו",
+      "gloss": "O re araba"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ya pholoho ya rona"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ts'epo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "mafelelo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a lefatshe"
+    },
+    {
+      "surface": "וים",
+      "gloss": "le ya lewatle"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "le le hole"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:13.174363015Z",
+  "model": "glm-5.3"
+}

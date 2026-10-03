@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "O tla amohela ⟨את⟩ baraka ho tswa ho Yahwe, le ⟨את⟩ tsedeke ho Elohim ya tokoloho ya hae.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "o tla amohela"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "baraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "le tsedeke"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ya tokoloho ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:59.508862532Z",
+  "model": "glm-5.3"
+}

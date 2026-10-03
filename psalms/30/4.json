@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Yahwe, o phahamisitse moya wa ka o tswa Sheole, o ntseelletse bophelo, ho ba theohelang sedibeng.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "o phahamisitse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "o tswa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "o ntseelletse bophelo"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "ho ba theohelang"
+    },
+    {
+      "surface": "בור",
+      "gloss": "sedibeng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:09.754781076Z",
+  "model": "glm-5.3"
+}

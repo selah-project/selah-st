@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Mme ke tla phuthula ⟨פatings⟩ ba ntseng ba mo khaphetse, mme ba mo hloyang ke tla ba tlotla ka tlhohorelo.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Mme ke tla phuthula"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pela hae"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ba ntseng ba khaphetse"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "mme ba mo hloyang"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "ke tla ba tlotla ka tlhohorelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:16.320566895Z",
+  "model": "glm-5.3"
+}

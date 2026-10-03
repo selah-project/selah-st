@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 10:8",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ba hlatsoetsa mme ba nepeletsa ⟨את⟩ barwa ba Yisraele selemong seo, dilemo tse lesomenе le seswai, ⟨את⟩ botllele ba barwa ba Yisraele ba neng ba le mose ho Joradane, lefatsheng la Baemore, leo le leng ho Gileade.",
+  "tokens": [
+    {
+      "surface": "וירעצו",
+      "gloss": "ba hlatsoetsa"
+    },
+    {
+      "surface": "וירצצו",
+      "gloss": "ba nepeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barwa ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "selemong"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "seo"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "seswai"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesomenе"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botllele ba barwa ba Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botllele ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng ba le"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "mose ho"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Joradane"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng la"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo le leng"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ho Gileade"
+    }
+  ],
+  "timestamp": "2026-10-03T07:22:40.670685520Z",
+  "model": "glm-5.3"
+}

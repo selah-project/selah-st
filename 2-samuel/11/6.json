@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Dawide a romela Yoabe: Roma ho nna ⟨את⟩ Uria Mohete. Mme Yoabe a roma ⟨את⟩ Uria ho Dawide.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Roma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria Mohete"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mohete"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a roma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T07:50:59.655808598Z",
+  "model": "glm-5.3"
+}

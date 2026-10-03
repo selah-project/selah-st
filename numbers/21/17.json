@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Ka nako eo Yisraele o ile a bina ⟨את⟩ sefoko sena: Tlatla, Baare, araba sona!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ka nako eo"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "o ile a bina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefoko sena"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "sefoko sena"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Tlatla"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Baare"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "araba sona"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:32:37.433151636Z",
+  "model": "glm-5.3"
+}

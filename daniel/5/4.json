@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ba nwa mofufu, mme ba reta melimo ya gauta le ya selefera, ya kopore, ya tšepe, ya sehlare le ya majoe.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "ba nwa"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "mofufu"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "mme ba reta"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "ya gauta"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "le ya selefera"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "ya kopore"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "ya tšepe"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "ya sehlare"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "le ya majoe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:52:22.473030364Z",
+  "model": "glm-5.3"
+}

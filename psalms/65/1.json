@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 65,
+  "translation": "Ho mokaedi. Mizmore oa Dawide. Sebineli.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho mokaedi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmore"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oa Dawide"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Sebineli"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:03.192989798Z",
+  "model": "glm-5.3"
+}

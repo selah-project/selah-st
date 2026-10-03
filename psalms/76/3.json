@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 76,
+  "translation": "Mme sehlaha sa hae se dula ba Shaleme, le bono ba hae ba dula Siyone.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme se dula"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "ba Shaleme"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "sehlaha sa hae"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "le bono ba hae"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ba dula Siyone"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:07.001741270Z",
+  "model": "glm-5.3"
+}

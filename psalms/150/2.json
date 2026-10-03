@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 150,
+  "translation": "Halalelang yena matleng a hae a magolo, halalelang yena ho ea ka bongata bo boholo ba hae.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Halalelang yena"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "matleng a hae a magolo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "halalelang yena"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ho ea ka bongata"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "bo boholo ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:53.462377180Z",
+  "model": "glm-5.3"
+}

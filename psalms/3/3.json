@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ba bangata ba bolela ka moya wa ka: Ha ho pholoseho ya hae ho Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Ba bangata"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ka moya wa ka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ha ho"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "pholoseho ya hae"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨hae⟩"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:38.960972330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ea sehlolohi ho ya ho ya hlakileng, mme o tla hlaka ho feta; tlisa tsebo ho ya lokileng, mme o tla eketsa lekgetho la tsebo.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Ea"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ho ya hlakileng"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "mme o tla hlaka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "tlisa tsebo"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ho ya lokileng"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "mme o tla eketsa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "lekgetho la tsebo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:39.628718656Z",
+  "model": "glm-5.3"
+}

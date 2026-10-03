@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Hobane bamoshaneli ba hae ba ile ba dula Tsoane, mme baromuwa ba hae ba fihlela Khane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ile ba dula"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Tsoane"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "bamoshaneli ba hae"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "mme baromuwa ba hae"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Khane"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "ba fihlela"
+    }
+  ],
+  "timestamp": "2026-10-03T08:45:02.473045563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Lebitso le letle ho feta mafura a letle, mme letsatsi la lefu ho feta letsatsi la tswalwa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ho feta mafura"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "a letle"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "mme letsatsi la"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ho feta letsatsi la"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "tswalwa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:14.808695623Z",
+  "model": "glm-5.3"
+}

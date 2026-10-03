@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Ho moeta-pele, ho bara ba Korakhe, ka Alaamote, pina.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moeta-pele"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bara ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alaamote"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:05.431314619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme ba etsa ⟨את⟩ seterata sa korona ea halalelo, sa gauta e hloekileng; mme ba ngola holim'a sona mongolo o bopegang jwalo ka oa sekalemo: Halalelo ho Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mme ba etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seterata sa korona ea halalelo"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "seterata"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "sa korona"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ea halalelo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sa gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "mme ba ngola"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "holim'a sona"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "mongolo"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "o bopegang jwalo ka oa"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "sekalemo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Halalelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:11.782581292Z",
+  "model": "glm-5.3"
+}

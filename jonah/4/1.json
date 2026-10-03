@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ho ba mpe ho Yona — kotsi e kgolo — mme a halefa.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ho ba mpe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kotsi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "mme a halefa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:15.604598745Z",
+  "model": "glm-5.3"
+}

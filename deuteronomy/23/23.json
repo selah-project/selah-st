@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Empa ha u phehella ho se ikane, ho ke ke ha ba sebe ho uena.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Empa ha"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "u phehella ho se"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "ikane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ho ke ke ha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sebe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:02.467309486Z",
+  "model": "glm-5.3"
+}

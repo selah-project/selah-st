@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme ya e jang o tla jara boitshoko bo boya hae, hobane o ile a hlekefola ⟨את⟩ holiness ya Yahwe; mme moyo oo o tla kgaolwa ho tsoa ho setjhaba sa hae.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "mme ya e jang"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "boitshoko bo boya hae"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "o tla jara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "holiness ya Yahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "holiness"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "o ile a hlekefola"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "mme o tla kgaolwa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "moyo oo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oo"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ho tsoa ho setjhaba sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:13:00.869060804Z",
+  "model": "glm-5.3"
+}

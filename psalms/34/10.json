@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Le tshabe ⟨את⟩ Yahwe, malokedi a hae a halalelang; hobane ha ho se nang letho ho ba mo tshabang.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "le tshabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "malokedi a hae a halalelang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho se nang letho"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "se nang letho"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ho ba mo tshabang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:02.944380251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "Malatsi a lilemo tsa rona ke lilemo tse supileng; mme ha eba ka matla, lilemo tse seswai; mme bohlahlami ba tsona ke boima le liphoso, hobane a kape kape, mme re fofela thoko.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Malatsi a"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "lilemo tsa rona"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ke...ho tsona"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tse supileng"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lilemo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme ha eba"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ka matla"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "tse seswai"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lilemo"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "mme bohlahlami ba tsona"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "boima"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "le liphoso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גז",
+      "gloss": "a kape kape"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "ka potlako"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "mme re fofela thoko"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:56.948024515Z",
+  "model": "glm-5.3"
+}

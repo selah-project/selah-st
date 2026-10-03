@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 118,
+  "translation": "Ba ntšoaretse ka mekhahlelo, ee, ba ntšoaretse ka mekhahlelo; ka lebitso la Yahwe ke tla di kgaola.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ba ntšoaretse ka mekhahlelo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ee"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ba ntšoaretse ka mekhahlelo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka lebitso la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ruri⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ke tla di kgaola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:02.080196131Z",
+  "model": "glm-5.3"
+}

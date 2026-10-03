@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "Romela matsoho a hau ho tloha hodimo; ntlholohetse, mme o ntlolohelle metsing e mengata, ho tloha matswong a bana ba se naha.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "romela"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "matsoho a hau"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ho tloha hodimo"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "ntlholohetse"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "mme o ntlolohelle"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "metsing"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "e mengata"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ho tloha matswong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a bana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ba se naha"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:34.880758606Z",
+  "model": "glm-5.3"
+}

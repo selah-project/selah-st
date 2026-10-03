@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Adonai o ile a re: Ho tloha Bashane ke tla busetsa, ke tla busetsa ho tloha bocha bo teng ba lewatle.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "o ile a re"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Ho tloha Bashane"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ke tla busetsa"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ke tla busetsa"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "ho tloha bocha bo teng"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ba lewatle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:35.286773862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme ka ba fa ⟨את⟩ ditaelo tsa ka, mme ⟨את⟩ ditsamaiso tsa ka ka ba tsebisa, ⟨את⟩ tseo motho a di etsang, a tle a phele ho tsona.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "mme ka fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaelo tsa ka"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "ditaelo tsa ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "ditsamaiso tsa ka"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ditsamaiso tsa ka"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "ka ba tsebisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a di etsang"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ tseo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a tle a phele"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:43:21.993510181Z",
+  "model": "glm-5.3"
+}

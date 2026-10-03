@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 1:44",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Emori ya hlalosang thabeng eo a tswa ho le hasanela; ba ile ba le phunya jwaloka dintsha di etsang, mme ba le otla Seirie, ho fihlela Khorime.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "ya hlalosang"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "ho le hasanela"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ba ile ba le phunya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le",
+      "marks": "le"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "di etsang"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dintsha"
+    },
+    {
+      "surface": "ויכתו",
+      "gloss": "mme ba le otla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le",
+      "marks": "le"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "Seirie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Khorime"
+    }
+  ],
+  "timestamp": "2026-10-03T06:41:56.129008691Z",
+  "model": "glm-5.3"
+}

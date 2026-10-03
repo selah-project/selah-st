@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Le ba-Shemida, losika la ba-Shemida; le ba-Khefere, losika la ba-Khefere.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "le ba-Shemida"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "losika"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "la ba-Shemida"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "le ba-Khefere"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "losika"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "la ba-Khefere"
+    }
+  ],
+  "timestamp": "2026-10-03T06:36:23.395907765Z",
+  "model": "glm-5.3"
+}

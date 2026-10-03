@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Moaba a tsuohela kgahlanong le Yisraele, ka mora lefu la Ahaba.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "a tsuohela kgahlanong le"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:02.110044019Z",
+  "model": "glm-5.3"
+}

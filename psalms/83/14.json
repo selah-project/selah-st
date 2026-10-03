@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Elohim ya ka, o beise ba jwalo ka leotwana, jwalo ka mofufutso pele ga ruakh.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "o beise"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "jwalo ka leotwana"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "jwalo ka mofufutso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:14.206490329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ho tswa mmateng wa Reubene: ⟨את⟩ Betser le ⟨את⟩ migraša wa yona, ⟨את⟩ Yahatsehe le ⟨את⟩ migraša wa yona.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Mme ho tswa mmateng"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "wa Reubene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "migraša wa yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraša wa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yahatsehe"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsehe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "migraša wa yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraša wa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:13.677115109Z",
+  "model": "glm-5.3"
+}

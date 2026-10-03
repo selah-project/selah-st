@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme selo se se bonolo mahlong a Yahwe; o tla neha ⟨את⟩ Moabe letsohong la lona.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "mme selo se se bonolo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "selo se"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "o tla neha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "letsohong la lona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:20.855163193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 47,
+  "translation": "Ho moetapele, wa bana ba Korakhe, mokoere.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moetapele"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoere"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:37.641738778Z",
+  "model": "glm-5.3"
+}

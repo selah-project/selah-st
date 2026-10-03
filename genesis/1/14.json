@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Elohim a re: A e be didikii tsa khanya sebakeng se pharalletseng sa mahodimo, ho arola ⟨את⟩ letsatsi le ⟨את⟩ bosiu; e be dinepe, e be melao ya mehla, ya matsatsi le ya dingwaga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "A e be"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "didikii tsa khanya"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "sebakeng se pharalletseng"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mahodimo"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "ho arola"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e be"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "dinepe"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "melao ya mehla"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "ya matsatsi"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "le ya dingwaga"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:48.123043708Z",
+  "model": "glm-5.3"
+}

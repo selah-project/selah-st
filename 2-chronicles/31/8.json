@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme Hizkiyahu le baholo ba ile ba tla, ba bona ⟨את⟩ diphuthelwa, mme ba hlohonolofatsa ⟨את⟩ Yahwe le ⟨את⟩ setjhaba sa hae Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba ile ba tla"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "le baholo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphuthelwa"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "diphuthelwa"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ba hlohonolofatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba sa hae"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setjhaba sa hae"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T12:37:52.748608581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Azarjaha a beletsa ⟨את⟩ Khetse, mme Khetse a beletsa ⟨את⟩ Elasaha.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Mme Azarjaha"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "a beletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khetse"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Khetse"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "mme Khetse"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "a beletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasaha"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasaha"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:34.384831129Z",
+  "model": "glm-5.3"
+}

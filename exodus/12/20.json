@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Chametseso ka moka le se se ke sa ja; lefatshe lohle la dulo tsa lona le ja matzote.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "Chametseso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se se ke sa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "lefatshe lohle la"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "dulo tsa lona"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le ja"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matzote"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:34.176641336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 138,
+  "translation": "Ya Dawide. Ke tla o tlotlisa ka pelo ya ka ka ho felletseng; pele ga Elohim ke tla bina ho wena.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Ke tla o tlotlisa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ho felletseng"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ka pelo ya ka"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ke tla bina ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:43.351278941Z",
+  "model": "glm-5.3"
+}

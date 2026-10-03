@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "A mahlonahе fela mme a tlotlohе ba batlang kelong ya ka; a kgutlele morao mme a makue ha ba hlahlamang bosula ho ka.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "A mahlonahе fela"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "mme a tlotlohe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ba batlang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kelong ya ka"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "a kgutlele"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morao"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "mme a makue"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ba hlahlamang"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bosula ho ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:36.568173904Z",
+  "model": "glm-5.3"
+}

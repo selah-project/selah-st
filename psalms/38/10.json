@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Adonai, lethabo la ka lohle le le pele ho wena; mme phohlelo ya ka ha e a patoa ho wena.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pele ho wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "lethabo la ka"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "mme phohlelo ya ka"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha e a"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "patoa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:21.835599232Z",
+  "model": "glm-5.3"
+}

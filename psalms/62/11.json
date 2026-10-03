@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 62,
+  "translation": "Se itšeheleng ho qhekello, se ikokobedise ho utsoa; ha chelete e atleha, se behe seo pelong.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "itšeheleng"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "ho qhekello"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "ho utsoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "ikokobedise"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chelete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "e atleha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "behe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:38.903962983Z",
+  "model": "glm-5.3"
+}

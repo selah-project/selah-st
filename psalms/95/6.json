@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 95,
+  "translation": "Tlang, re inkeletse re name, re khunamise leng la rona pel'a Yahwe, ya re ileng a re bopa.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Tlang"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "re inkeletse"
+    },
+    {
+      "surface": "וונכרעה",
+      "gloss": "re name"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "re khunamise"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pel'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ya re ileng a re bopa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:57.638961464Z",
+  "model": "glm-5.3"
+}

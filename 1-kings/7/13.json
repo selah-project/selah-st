@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme morena Shelomoh a romella, mme a nka ⟨את⟩ Hiram ho Tzore.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romella"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ho Tzore"
+    }
+  ],
+  "timestamp": "2026-10-03T08:04:51.929971399Z",
+  "model": "glm-5.3"
+}

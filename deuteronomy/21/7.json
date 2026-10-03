@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ba tla araba, ba re: Matsoho a rona a sa tshedeng ⟨את⟩ madi ana, mme mahlo a rona a sa a boneng.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "Mme ba tla araba"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Matsoho a rona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "tshedeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi ana"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "mme mahlo a rona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "a boneng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:54:51.054435412Z",
+  "model": "glm-5.3"
+}

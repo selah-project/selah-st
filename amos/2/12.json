@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Empa lona le ile la tlohela ⟨את⟩ banne ba khethehileng metsi, le la ba laela baraporofeti, hore le re: Le se ke la raporofeta.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "le ile la tlohela…metsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banne ba khethehileng"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "banne ba khethehileng"
+    },
+    {
+      "surface": "יין",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "baraporofeti"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "la ba laela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hore le re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "raporofeta"
+    }
+  ],
+  "timestamp": "2026-10-03T10:04:55.337755230Z",
+  "model": "glm-5.3"
+}

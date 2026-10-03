@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Hao, wena ya senyang, o sa senywa; le wena ya hlokang tshepo, ba sa hloka tshepo ho wena; ha o phetha ho senya, o tla senywa; ha o fedile ho hloka tshepo, ba tla hloka tshepo ho wena.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hao"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "ya senyang"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "o sa senywa"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "le ya hlokang tshepo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ba hlokile tshepo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "ha o phetha"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "ho senya"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "o tla senywa"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "ha o fedile"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "ho hloka tshepo"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "ba tla hloka tshepo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:45:12.549291227Z",
+  "model": "glm-5.3"
+}

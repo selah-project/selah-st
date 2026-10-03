@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme u tle ho morena, u mo bolele ka mantswe a; mme Yoabe a beha ⟨את⟩ mantswe ka molomong wa hae.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "u tle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "u bolele"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ka mantswe a"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "ka molomong wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:52:51.865080261Z",
+  "model": "glm-5.3"
+}

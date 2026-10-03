@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 113,
+  "translation": "Ya ikhutsitseng hore a bone mahodimong le lefatsheng?",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "Ya ikhutsitseng"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hore a bone"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "le lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:03.488619057Z",
+  "model": "glm-5.3"
+}

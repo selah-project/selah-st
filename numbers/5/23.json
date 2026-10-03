@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme moprista o ngole ⟨את⟩ mekaloto ena koraneng, a e tlamparetse ka metsi a mellang.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "mme o ngole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mekaloto ena"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "mekaloto"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "koraneng"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "a e tlamparetse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "a mellang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:23:41.278797715Z",
+  "model": "glm-5.3"
+}

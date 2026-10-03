@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ba se ke ba tloša ho yona ho fihlela hoseng, mme lentho ba se ke ba e tlola ho yona; ka molao ohle wa Paseka ba tla e etsa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba se ke"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "ba tloša"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "mme lentho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke ba e tlola"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ba e tlola"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ka ohle"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "molao"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "wa Paseka"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ba tla e etsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (Paseka)"
+    }
+  ],
+  "timestamp": "2026-10-03T06:27:25.436873361Z",
+  "model": "glm-5.3"
+}

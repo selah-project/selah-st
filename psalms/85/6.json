@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "Na ho fihlela kahosafeleng o tla halefa ho rona? Na o tla kholisa sefahleho sa hao ho lheleha le lheleha?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Na ho fihlela kahosafeleng"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "o tla halefa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "o tla kholisa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ho lheleha"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le lheleha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:01.413455953Z",
+  "model": "glm-5.3"
+}

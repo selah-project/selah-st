@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme a bea ⟨את⟩ makgarebe a sebeli le ⟨את⟩ bana ba tsona pele, le ⟨את⟩ Lea le bana ba hae morao, le ⟨את⟩ Rakhale le ⟨את⟩ Yosefe ba ho qetela.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Mme a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makgarebe a sebeli"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "makgarebe a sebeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba tsona"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "bana ba tsona"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "pele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "le bana ba hae"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "morao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Rakhale"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakhale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ba ho qetela"
+    }
+  ],
+  "timestamp": "2026-10-03T05:34:10.784107883Z",
+  "model": "glm-5.3"
+}

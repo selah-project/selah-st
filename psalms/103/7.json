@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "O ile a tsebisa mehla ya hae ho Moshe, le mesebetsi ya hae ho bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "o ile a tsebisa"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "mehla ya hae"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ho Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "mesebetsi ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:11.523691637Z",
+  "model": "glm-5.3"
+}

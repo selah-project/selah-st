@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme ka mora dintho tseo, Dawide a otla ⟨את⟩ Bafalisete mme a ba fotisa; mme Dawide a nka ⟨את⟩ mosele wa motse-moholo ho tloha letsohong la Bafalisete.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e bile"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dintho tseo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a otla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bafalisete"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafalisete"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "mme a ba fotisa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mme a nka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosele wa motse-moholo"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "mosele"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa motse-moholo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ho tloha letsohong"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "la Bafalisete"
+    }
+  ],
+  "timestamp": "2026-10-03T07:49:59.439693438Z",
+  "model": "glm-5.3"
+}

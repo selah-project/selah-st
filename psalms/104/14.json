@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "O kutlisitseng joang bakeng sa diphoofolo, le morogo bakeng sa boitsebiso ba motho, hore a tle a ntse le konofole lefatsheng.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "o kutlisitseng"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "joang"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "bakeng sa diphoofolo"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "le morogo"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "bakeng sa boitsebiso ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "hore a tle a ntse"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "le konofole"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:19.929380395Z",
+  "model": "glm-5.3"
+}

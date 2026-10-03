@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme Yahwe o ile a tlekeka ⟨את⟩ batho, hobane ba entse ⟨את⟩ lule — lule leo Aharone a neng a se entse.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "a tlekeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "על",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba entse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lule"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "lule"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a entse"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    }
+  ],
+  "timestamp": "2026-10-03T05:58:46.727238103Z",
+  "model": "glm-5.3"
+}

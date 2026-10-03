@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ho ya ka molao, ke eng ho etswa ho morena-mosadi Vashti, eo e neng e sa etse ⟨את⟩ taolo ya morena Ahashueroshe ka letsoho la basarisi?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "Ho ya ka molao"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etswa"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "ho morena-mosadi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "mabapi le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "etsang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taolo ya morena Ahashueroshe"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "taolo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya morena"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashueroshe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "la basarisi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:47:07.303108008Z",
+  "model": "glm-5.3"
+}

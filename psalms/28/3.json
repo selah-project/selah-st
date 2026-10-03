@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "O se ke wa ntseha le ba boloi, le ba etsang phoko, ba buang khotso le balekane ba bona, mme bolo e ka lipelong tsa bona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ke wa"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ntseha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba boloi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "און",
+      "gloss": "phoko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ba buang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "balekane ba bona"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mme bolo"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "e ka lipelong tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:35.561959495Z",
+  "model": "glm-5.3"
+}

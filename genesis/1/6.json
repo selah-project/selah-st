@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Elohim a re: A e be sekgahlano mahoding a metsing, mme a hlakanye metsi le metsi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "A e be"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "sekgahlano"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mahoding"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a metsing"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme a be"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "a hlakanye"
+    },
+    {
+      "surface": "בין",
+      "gloss": "le"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "למים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:45.795501808Z",
+  "model": "glm-5.3"
+}

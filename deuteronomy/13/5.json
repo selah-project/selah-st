@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Morao ga Yahwe Elohim ya lona le tla tsamaya, mme ⟨את⟩ o tla mo tsaba, mme ⟨את⟩ melao ya hae le tla e boloka, mme lentsweng la hae le tla utlwa, mme ⟨את⟩ o tla mo sebeletsa, mme ho yena le tla mamellana.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "morao ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "le tla tsamaya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "mme ⟨את⟩ o",
+      "marks": "o tla mo tsaba"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "le tla mo tsaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "melao ya hae"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "melao ya hae"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "le tla e boloka"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "mme lentsweng la hae"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "le tla utlwa"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "mme ⟨את⟩ o",
+      "marks": "le tla mo sebeletsa"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "le tla mo sebeletsa"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "mme ho yena"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "le tla mamellana"
+    }
+  ],
+  "timestamp": "2026-10-03T06:54:05.543440789Z",
+  "model": "glm-5.3"
+}

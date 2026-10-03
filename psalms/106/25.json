@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme ba bolela ka ho tsieleha matloleng a bona, ba sa retelehela ho lentswe la Yahwe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "ba bolela ka ho tsieleha"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "matloleng a bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "retelehela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ho lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:10.639352035Z",
+  "model": "glm-5.3"
+}

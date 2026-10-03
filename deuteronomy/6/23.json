@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme o re tsoletse moo, hore a re kenyeletse, ho re neha ⟨את⟩ lefatshe leo a hlalletseng ho bo-ntate rona.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ rona"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "o re tsoletse"
+    },
+    {
+      "surface": "משם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "a re kenyeletse"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ho re neha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a hlalletseng"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ho bo-ntate rona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:11.232341567Z",
+  "model": "glm-5.3"
+}

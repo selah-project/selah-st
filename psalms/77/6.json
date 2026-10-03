@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Ke ne ke nahana ka malatsi a khale, dilemo tsa mehlaling ya khale.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ke ne ke nahana"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka malatsi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "a khale"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "tsa mehlaling ya khale"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:00.000099420Z",
+  "model": "glm-5.3"
+}

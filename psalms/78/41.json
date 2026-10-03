@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Ba khutlela, ba leka ⟨את⟩ El, mme ho Ya Halalela wa Yisraele ba bea mellwane.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Ba khutlela"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ba leka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "mme ho Ya Halalela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "ba bea mellwane"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:17.122519406Z",
+  "model": "glm-5.3"
+}

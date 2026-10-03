@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ba araba mme ba re ho Nebukadnetsara morena: Morena, o phele ho ya ho ile!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Ba araba"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "ho Nebukadnetsara"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "morena"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Morena"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "ho ya ho ile"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "o phele"
+    }
+  ],
+  "timestamp": "2026-10-03T11:51:12.480730907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Ha a ba bolaea, ba mo batla, mme ba khutla, ba batla El ka pelong.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "a ba bolaea"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "ba mo batla"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ba khutla"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "ba batla ka pelong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:15.276820352Z",
+  "model": "glm-5.3"
+}

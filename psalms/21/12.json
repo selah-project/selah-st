@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Hobane ba ntshitse bobe ho wena; ba hlahisitwe morero o mobe, empa a ke ke a atleha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "ba ntshitse"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ba hlahisitse"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "morero o mobe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "empa hase"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "a ke ke a atleha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:15.699106993Z",
+  "model": "glm-5.3"
+}

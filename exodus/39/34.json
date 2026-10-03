@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Le ⟨את⟩phokoti ya dihloho tsa dimmapa tse tlotsweng ka bosoeu, le ⟨את⟩phokoti ya dihloho tsa tehashime, le ⟨את⟩serome sa phokoting.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phokoti ya dihloho tsa dimmapa"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "phokoti"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "dihloho tsa"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "dimmapa"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "tse tlotsweng ka bosoeu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phokoti ya dihloho tsa tehashime"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "phokoti"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "dihloho tsa"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tehashime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "serome"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "serome"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sa phokoting"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:01.670353017Z",
+  "model": "glm-5.3"
+}

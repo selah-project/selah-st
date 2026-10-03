@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme Zilpa, lekhanka la Lea, a beba ⟨את⟩ mora wa bobedi ho Yaakobo.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a beba"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "lekhanka la"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ho Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:30:38.772350894Z",
+  "model": "glm-5.3"
+}

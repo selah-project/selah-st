@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Setorong di phalla, hodima mokotla di balehela, hodima matlo di ya hodimo, ka fensetere di kena, jwalo ka maramara.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "setorong"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "di phalla"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "hodima mokotla"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "di balehela"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "hodima matlo"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "di ya hodimo"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "fensetere"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "di kena"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "jwalo ka maramara"
+    }
+  ],
+  "timestamp": "2026-10-03T10:04:30.688354837Z",
+  "model": "glm-5.3"
+}

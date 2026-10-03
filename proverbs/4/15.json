@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "E qhelehela, o se ke wa feta ho yona; ikhutlise ho yona, mme o fete.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "e qhelehela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "feta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "ikhutlise"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "mme o fete"
+    }
+  ],
+  "timestamp": "2026-10-03T11:06:12.880659785Z",
+  "model": "glm-5.3"
+}

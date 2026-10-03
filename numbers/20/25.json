@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Tseere Aharone le ⟨את⟩ Elazare mora wa hae, mme o mo kenyeletse hodima ⟨את⟩ Thoro, thoro eo.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tseere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Elazare"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazare"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "mme o mo kenyeletse hodima"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Thoro"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Thoro"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thoro eo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:33:14.461061542Z",
+  "model": "glm-5.3"
+}

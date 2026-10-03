@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ke bolotse melao ya hao le bopaki ba hao, hobane tsela tsa ka kaofela di pel'a hao.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "Ke bolotse"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "melao ya hao"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "le bopaki ba hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "tsela tsa ka"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di pel'a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:47.037679965Z",
+  "model": "glm-5.3"
+}

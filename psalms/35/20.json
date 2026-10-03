@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Hobane ha ba buwe khotso; kgahlanong le ba phomolang ⟨את⟩ lefatshe ba hlahlamisa mantsoe a bohwehle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba buwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "ba phomolang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantsoe"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "a bohwehle"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "ba hlahlamisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:50.194536545Z",
+  "model": "glm-5.3"
+}

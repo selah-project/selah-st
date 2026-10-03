@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "Dithapelo tsa Dawide, mora wa Yishai, di felile.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "di felile"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "Dithapelo tsa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:58.764875675Z",
+  "model": "glm-5.3"
+}

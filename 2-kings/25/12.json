@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme molaodi wa bahlabani o ile a tlohela ba fokolang haholo ba lefatshe — bahlokomedi ba merara le balemi ba lefatshe.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "ba fokolang haholo ba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "o ile a tlohela"
+    },
+    {
+      "surface": "רב",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa bahlabani"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "bahlokomedi ba merara"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "le balemi ba lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:48.779199816Z",
+  "model": "glm-5.3"
+}

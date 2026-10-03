@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 101,
+  "translation": "Mahlo a ka a sheba ba tlotseholditseng naheng, hore ba dule le nna; ya tsamayang tseleng ya botlalo, yena o tla nkanela.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mahlo a ka"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "ba tlotseholditseng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "naheng"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hore ba dule"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ya tsamayang"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya botlalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "o tla nkanela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:54.083320141Z",
+  "model": "glm-5.3"
+}

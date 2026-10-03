@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "O khunama, o inehe; mme mahlape a oa ka matla a hae.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "o inehe"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "o khunama"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "a oa"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "ka matla a hae"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "mahlape"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:30.239471447Z",
+  "model": "glm-5.3"
+}

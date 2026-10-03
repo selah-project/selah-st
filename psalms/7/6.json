@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "A sera se latele moya wa ka, mme se fihle; a se pene bophelo ba ka lefatshe, mme a behe tlotla ea ka bofubeng. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "a latele"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "mme se fihle"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "a se pene"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bophelo ba ka"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "le tlotla ea ka"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "bofubeng"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "a behe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:27.929384098Z",
+  "model": "glm-5.3"
+}

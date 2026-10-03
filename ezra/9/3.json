@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ha ke utlwile ⟨את⟩ lentseu lena, ke ile ka hlakola ⟨את⟩ aparo ea ka le ⟨את⟩ mantle ea ka, mme ka hlahlola moriri oa hlooho ea ka le borena boa ka, mme ka dula ke tletse poifo.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "mme ha ke utlwile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentseu lena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentseu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "ke ile ka hlakola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aparo ea ka le mantle ea ka"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "aparo ea ka"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "le mantle ea ka"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "mme ka hlahlola"
+    },
+    {
+      "surface": "משער",
+      "gloss": "moriri"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "oa hlooho ea ka"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "le borena boa ka"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "mme ka dula"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "ke tletse poifo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:02:51.077591837Z",
+  "model": "glm-5.3"
+}

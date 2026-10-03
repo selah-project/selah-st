@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Hobane eena o ile a bolela, mme ho ba teng; eena o laela, mme ho ema.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o ile a bolela"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho ba teng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o laela"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "mme ho ema"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:03.486644536Z",
+  "model": "glm-5.3"
+}

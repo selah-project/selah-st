@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 41:48",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Mme <unk> a bokella ⟨את⟩ lijo tsohle tsa dilemo tse supileng tse neng di le lefatsheng la Mitsrayime, mme a beha lijo ditoropong; lijo tsa tshimo ya toropo e mong le e mong e e potileng, a di beha ka hare ho yona.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "a bokella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lijo tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lijo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tse supileng"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse neng"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di le"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lijo"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ditoropong"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lijo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tshimo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya toropo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "e e potileng"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a di beha"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ka hare ho yona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:38:22.936647834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Mme o ile a re ho 'na: Mohlanka oa ka O wena, Yisraele, eo ke tla ikhantsha ka oena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o ile a re"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Mohlanka oa ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "O wena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka oena"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ke tla ikhantsha"
+    }
+  ],
+  "timestamp": "2026-10-03T13:01:55.460372256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme hape metsotswana e mmalwa, mme mobe a se ke a ba teng; o tla hlohlelletsa sebakeng sa hae, mme a se ke a ba teng.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "mme hape"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "metsotswana e mmalwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme a se ke a ba"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mobe"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "o tla hlohlelletsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "sa hae"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "mme a se ke a ba teng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:38.081359953Z",
+  "model": "glm-5.3"
+}

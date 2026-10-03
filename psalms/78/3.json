@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Tseo re di utlwileng, re di tsebile, le bo-ntate rona ba re boleletse tsona.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Tseo"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "re di utlwileng"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "re di tsebile"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "le bo-ntate rona"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ba boleletse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:19.940581177Z",
+  "model": "glm-5.3"
+}

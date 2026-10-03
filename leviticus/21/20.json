@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "kapa yo mongotsoeng, kapa monyane, kapa soseletso mahlong a hae, kapa wa makuo, kapa wa dilhwa tse omileng, kapa ya betliloeng ka bonngwe.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "yo mongotsoeng"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "דק",
+      "gloss": "monyane"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "soseletso"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "mahlong a hae"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "wa makuo"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "wa dilhwa tse omileng"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "ya betliloeng"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "ka bonngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:45:58.732657231Z",
+  "model": "glm-5.3"
+}

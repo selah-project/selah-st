@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Mme a mo jeisa ⟨את⟩ lethabo la koro, mme ka livatsi tswang mmatleng o a o tlatla.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "a mo jeisa"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "koro"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "ka mmatleng"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "livatsi"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "o a o tlatla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:25.073610356Z",
+  "model": "glm-5.3"
+}

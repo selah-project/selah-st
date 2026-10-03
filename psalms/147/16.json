@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Ya fang sefako joaloka mohala, ya phatlalatsang boea bo tletseng lesoba joaloka lerole.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Ya fang"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sefako"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "joaloka mohala"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "boea bo tletseng lesoba"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "joaloka lerole"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "ya phatlalatsang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:27.110218505Z",
+  "model": "glm-5.3"
+}

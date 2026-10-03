@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 1:8",
+  "book": "micah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ka boba bona ke tla lla mme keelle, ke tla tsamaea ke sa apara se tebileng mme ke honohile; ke tla etsa lla joaloka ditshipi, le mokoloko joaloka bana ba yaana.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka boba"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bona"
+    },
+    {
+      "surface": "אספדה",
+      "gloss": "ke tla lla"
+    },
+    {
+      "surface": "ואילילה",
+      "gloss": "mme keelle"
+    },
+    {
+      "surface": "אילכה",
+      "gloss": "ke tla tsamaea"
+    },
+    {
+      "surface": "שילל",
+      "gloss": "ke sa apara se tebileng"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "mme ke honohile"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tla etsa"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "lla"
+    },
+    {
+      "surface": "כתנים",
+      "gloss": "joaloka ditshipi"
+    },
+    {
+      "surface": "ואבל",
+      "gloss": "le mokoloko"
+    },
+    {
+      "surface": "כבנות",
+      "gloss": "joaloka bana ba"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "yaana"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:49.059151547Z",
+  "model": "glm-5.3"
+}

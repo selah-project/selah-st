@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "A matsatsi a ka a se kae? A khaotse, a ntlohele hanyane, hore ke tle ke tsosolle hanyane.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a se kae"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hanyane"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a ka"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "a khaotse"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "a ntlohele"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "hanyane"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "hore ke tle ke tsosolle"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hanyane"
+    }
+  ],
+  "timestamp": "2026-10-03T11:23:11.539774274Z",
+  "model": "glm-5.3"
+}

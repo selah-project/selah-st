@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Ya o tlatsang ka dilo tse lokileng takatso ya hao; bonyana ba hao bo nchafatsoa jwaloka ntsu.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Ya o tlatsang"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ka dilo tse lokileng"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "takatso ya hao"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "bo nchafatsoa"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "jwaloka ntsu"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "bonyana ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:41.257370317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ka la bosenyane la kgwedi, tlala e ile ya matlafala toropong, mme ha ho nehwe borodi bakeng sa setjhaba sa lefatshe.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "ka la bosenyane"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "e ile ya matlafala"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ho nehwe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "borodi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bakeng sa setjhaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:32:06.130527916Z",
+  "model": "glm-5.3"
+}

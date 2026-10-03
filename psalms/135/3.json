@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Halaleng Yah, hobane Yahwe o molemo; imameleng lebitso la hae, hobane ke la thabisang.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "halaleng"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "imameleng"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "la thabisang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:02.809139295Z",
+  "model": "glm-5.3"
+}

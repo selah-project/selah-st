@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme bashanyana ba tla hlahlafala ba boele morao, mme banna bashesha ba tla wa ka ho fihlela ba wa.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "mme ba tla hlahlafala"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "bashanyana"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "ba boele morao"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "mme banna bashesha"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "ka ho fihlela ba wa"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ba tla wa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:50:21.425348613Z",
+  "model": "glm-5.3"
+}

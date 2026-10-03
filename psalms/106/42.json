@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme mabafo a bona a ba tlola, mme ba ile ba hlaphohetsoa ka tlase ho seatla sa bona.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "a ba tlola"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "mabafo a bona"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "ba ile ba hlaphohetsoa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "seatla sa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:57.045697775Z",
+  "model": "glm-5.3"
+}

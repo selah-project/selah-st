@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Kgethaalue sehloho sa hao ka leng la hao, ya matla, marori a hao le botle ba hao.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Kgethaalue"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sehloho sa hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "leng la hao"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ya matla"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "marori a hao"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "le botle ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:25.366399962Z",
+  "model": "glm-5.3"
+}

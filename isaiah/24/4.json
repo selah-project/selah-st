@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "E lla, e fadeha lefatshe; e fokola, e fadeha mamate; ba fokotsehile bohodimo ba setjhaba sa lefatshe.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "e lla"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "e fadeha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "e fokola"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "e fadeha"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mamate"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ba fokotsehile"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "bohodimo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:42:31.285014571Z",
+  "model": "glm-5.3"
+}

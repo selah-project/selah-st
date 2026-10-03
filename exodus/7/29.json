@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme litlhape li tla hlakanela ho wena, le ho setjhaba sa hao, le ho makarabo a hao ohle.'",
+  "tokens": [
+    {
+      "surface": "ובכה",
+      "gloss": "le ho wena"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "le ho setjhaba sa hao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ho ohle"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "makarabo a hao"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "li tla hlakanela"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "litlhape"
+    }
+  ],
+  "timestamp": "2026-10-03T05:46:13.525232803Z",
+  "model": "glm-5.3"
+}

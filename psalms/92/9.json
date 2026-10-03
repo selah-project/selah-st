@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "Mme wena, Yahwe, o phahametse hodima ka ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "o phahametse hodima"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ka ho sa feleng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:08.251595626Z",
+  "model": "glm-5.3"
+}

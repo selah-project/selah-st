@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ya tsholang madi a motho, ka motho madi a hae a tla tsholoha; hobane ka setshwantsho sa Elohim o etsile ⟨את⟩ motho.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ya tsholang"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "a motho"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ka motho"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a hae"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "a tla tsholoha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ka setshwantsho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o etsile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:47.283794536Z",
+  "model": "glm-5.3"
+}

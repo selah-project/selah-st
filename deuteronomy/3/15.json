@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ho Makire ke ne ke fane ka ⟨את⟩ Gileade.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Mme ho Makire"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke ne ke fana ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gileade"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileade"
+    }
+  ],
+  "timestamp": "2026-10-03T06:42:42.308761308Z",
+  "model": "glm-5.3"
+}

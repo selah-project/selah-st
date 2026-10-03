@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme a hlolelisa ⟨את⟩ Yisraele; mme Yehonathane, mora wa Shimea, mmana'nele wa Dawide, a mo otla.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "a hlolelisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "a mo otla"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mmana'nele wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T07:56:21.194036408Z",
+  "model": "glm-5.3"
+}

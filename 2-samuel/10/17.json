@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ho tsebiswa Dawide, mme a qoqela kaofela ⟨את⟩ Yisraele, mme a feta ⟨את⟩ Yaratane, mme a fihla Khelamah. Mme Arame a hlophisa metse e moholo ho tla ho Dawide, mme ba lwa le eena.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ho tsebiswa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "a qoqela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaratane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yaratane"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "Khelamah"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "a hlophisa metse"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ho tla ho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le eena"
+    }
+  ],
+  "timestamp": "2026-10-03T07:51:04.081474859Z",
+  "model": "glm-5.3"
+}

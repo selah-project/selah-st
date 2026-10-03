@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ka hona re: Bonang, ke mo fa ⟨את⟩ selekane sa ka sa khotso.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ka hona"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "re:"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Bonang, ke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa ka sa khotso"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sa khotso"
+    }
+  ],
+  "timestamp": "2026-10-03T06:34:36.147255028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "Tsedeke e tla sepela pel'a hae, mme e behe mehato ya hae tsela.",
+  "tokens": [
+    {
+      "surface": "צֶ֭דֶק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "לְפָנָ֣יו",
+      "gloss": "pel'a hae"
+    },
+    {
+      "surface": "יְהַלֵּ֑ךְ",
+      "gloss": "e tla sepela"
+    },
+    {
+      "surface": "וְיָשֵׂ֖ם",
+      "gloss": "mme e behe"
+    },
+    {
+      "surface": "לְדֶ֣רֶךְ",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "פְּעָמָֽיו",
+      "gloss": "mehato ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:42.216666553Z",
+  "model": "glm-5.3"
+}

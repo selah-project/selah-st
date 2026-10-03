@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ya sa beeng pelo ya hae ho lentswe la Yahwe, a siea ⟨את⟩ balebedi ba hae le ⟨את⟩ hoofu ya hae tshimong.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "mme ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "beeng"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "a siea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balebedi ba hae"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "balebedi ba hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hoofu ya hae"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "hoofu ya hae"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tshimong"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:53.249915888Z",
+  "model": "glm-5.3"
+}

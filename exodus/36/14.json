@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Mme a etsa diriata tsa moriri oa libodi bakeng sa tente holim'a Mishkane; diriata tse leshome le motso o mong o ⟨את⟩ di etsile.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "diriata"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "tsa libodi"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "bakeng sa tente"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "tse leshome le motso"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "o mong"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "diriata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o di etsile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ di",
+      "marks": "diriata tse leshome le motso o mong"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:53.691112486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Eena o tla mpa a agele ntlo, mme ke tla tiisa ⟨את⟩ setulo sa hae ho fihlela ho nakong e sa feleng.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Eena"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "o tla a aga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpa (ho 'na)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "mme ke tla tiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setulo sa hae"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "setulo sa hae"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela ho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nakong e sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T12:17:24.517795773Z",
+  "model": "glm-5.3"
+}

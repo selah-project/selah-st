@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Mme o ile a rata nyefolo, mme e ile ya mo fihlela; mme a sa rate tsieho, mme e ile ya tloha ho yena.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "mme o ile a rata"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "nyefolo"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "mme e ile ya mo fihlela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "rate"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "tsieho"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "mme e ile ya tloha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:56.480836836Z",
+  "model": "glm-5.3"
+}

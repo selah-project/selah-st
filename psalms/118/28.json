@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 118,
+  "translation": "Ke El oa ka ⟨weetee⟩, mme ke tla o rorisa; Elohim oa ka, ke tla o phahamisa.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El oa ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨weetee⟩"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "mme ke tla o rorisa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim oa ka"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ke tla o phahamisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:27.904974213Z",
+  "model": "glm-5.3"
+}

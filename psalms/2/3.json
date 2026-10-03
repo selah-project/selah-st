@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "A re robeng ⟨את⟩ dikgokahanyo tsa hae, mme re hlopholle diketane tsa hae ho tloha ho rona.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "A re robeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgokahanyo tsa hae"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "dikgokahanyo tsa hae"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "mme re hlopholle"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho tloha ho rona"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "diketane tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:01.303822555Z",
+  "model": "glm-5.3"
+}

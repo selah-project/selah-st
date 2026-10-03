@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme ho Aharone a belelwa ⟨את⟩ Nadaabe le ⟨את⟩ Abihuwe, ⟨את⟩ Elazare le ⟨את⟩ Itamare.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "a belelwa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ho Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadaabe"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadaabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abihuwe"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abihuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazare"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Itamare"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamare"
+    }
+  ],
+  "timestamp": "2026-10-03T06:36:25.557012298Z",
+  "model": "glm-5.3"
+}

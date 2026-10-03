@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Hopola, Yahwe, seo se hlalohetseng ho rona; sheba hantle, mme u bone ⟨את⟩ manyeno a rona.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Hopola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "seo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "se hlalohetseng"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "sheba hantle"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mme u bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manyeno a rona"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "manyeno a rona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:41:32.841340828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme Betsalele a etsa ⟨את⟩ araka ya mofuta wa sehlare sa shitime: bolelele ba yona e ne e le di-ama tse pedi le sekgahla, bophara bo le lekae bjoalo, le bophahamo bjoalo — ama e le nngwe le sekgahla.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "araka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mofuta wa sehlare"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitime"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "di-ama tse pedi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le sekgahla"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bolelele ba yona"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "le ama e le nngwe"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le sekgahla"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara ba yona"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "le ama e le nngwe"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le sekgahla"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bophahamo ba yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:59.519487318Z",
+  "model": "glm-5.3"
+}

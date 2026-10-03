@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Mme ke tla araba ⟨⟨את⟩⟩ ya mo rohakang ka lentswe, hobane ke tshepile lentswe la hao.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "mme ke tla araba"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "ya mo rohakang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka lentswe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "lentswe la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:49.057980361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme a hlahisa ⟨את⟩ dikgetho tse pedi tsa tshwele; dikhama tse robedi le leshome bophahamo ba kgetho e nngwe, mme thapo ea dikhama tse pedi le leshome e ne ea dikela ⟨את⟩ kgetho ea bobeli.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "a hlahisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgetho tse pedi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "dikgetho"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tshwele"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "robedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "le leshome"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikhama"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "bophahamo"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "ba kgetho"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "mme thapo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "le leshome"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikhama"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "e ne ea dikela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgetho ea bobeli"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "kgetho"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ea bobeli"
+    }
+  ],
+  "timestamp": "2026-10-03T08:04:51.930749076Z",
+  "model": "glm-5.3"
+}

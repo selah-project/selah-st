@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme a behe letsoho la hae hodima hloho ya pudi eo, mme a e hlabe sebakeng seo ba hlabela ⟨את⟩ hlabelo ya ho chesoa pela Yahwe; ketso ya dibe ke yona.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "mme a behe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ya pudi eo"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mme a e hlabe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "pudi eo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ba hlabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlabelo ya ho chesoa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hlabelo ya ho chesoa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ketso ya dibe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:00.216848716Z",
+  "model": "glm-5.3"
+}

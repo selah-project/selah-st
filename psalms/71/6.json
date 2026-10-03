@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Ho wena ke ikhantshitse ho tloha mmpeng, ho tloha maleng a mme wa ka; wena ea ntšolang, ka wena thoriso ya ka kamehla.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ke ikhantshitse"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ho tloha mmpeng"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ho tloha maleng"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "a mme wa ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "ea ntšolang"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "thoriso ya ka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kamehla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:38.483734542Z",
+  "model": "glm-5.3"
+}

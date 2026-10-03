@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Hobane ka lebaka la hao ke jeqe tlhoso; mahlonoko a apile sefahleho sa ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka lebaka la hao"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ke jeqe"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "tlhoso"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "a apile"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "mahlonoko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:09.828397166Z",
+  "model": "glm-5.3"
+}

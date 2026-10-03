@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme u tla boela, mme u tle u utlwe lentsoe la Yahwe, mme o etsa ⟨את⟩ meaela ya hae yohle eo ke e laelang kajeno.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mme u"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tla boela"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "mme u tle u utlwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentsoe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meaela ya hae yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "meaela ya hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "e laelang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    }
+  ],
+  "timestamp": "2026-10-03T07:00:42.191468598Z",
+  "model": "glm-5.3"
+}

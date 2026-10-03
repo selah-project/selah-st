@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme baholo ba toropo eo ba tla nka ⟨את⟩ monna eo, mme ba ⟨את⟩ mo kotza.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "mme ba tla nka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo ba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna eo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna eo"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "mme ba tla kotza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:56:53.917812824Z",
+  "model": "glm-5.3"
+}

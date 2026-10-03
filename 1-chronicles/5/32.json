@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Uzi o ile a begetsa ⟨את⟩ Zerakhia; mme Zerakhia o ile a begetsa ⟨את⟩ Merayote.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Mme Uzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ile a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerakhia"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerakhia"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "mme Zerakhia"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ile a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayote"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayote"
+    }
+  ],
+  "timestamp": "2026-10-03T12:11:19.255054628Z",
+  "model": "glm-5.3"
+}

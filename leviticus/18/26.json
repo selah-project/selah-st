@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme lona le tla boloka ⟨את⟩ melao ea ka le ⟨את⟩ dikahlolo tsa ka, e le hore le se ke la etsa ho tloha ho tsohle tse makatsang tsena — ea hlahetseng mona le moahi ya lula har'a lona.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "le tla boloka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ea ka"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melao ea ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikahlolo tsa ka"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo tsa ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e le hore le se ke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "la etsa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tloha ho tsohle"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "tse makatsang"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ea hlahetseng mona"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "le moahi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ya lula"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "har'a lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:40.069959502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme Dawide le sechaba se neng se le ⟨את⟩ ena le yena ba ile ba phahamisa ⟨את⟩ lentswe la bona mme ba lla, ho fihlela ho se be le matla ho bona a ho lla.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ba ile ba phahamisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "le sechaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se neng se le"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ena le yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la bona"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "lentswe la bona"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "mme ba lla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ho se be"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "כח",
+      "gloss": "matla"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "a ho lla"
+    }
+  ],
+  "timestamp": "2026-10-03T07:45:46.797692602Z",
+  "model": "glm-5.3"
+}

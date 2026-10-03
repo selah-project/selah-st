@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme e bile ka letsatsi la bo-robedi, Moshe a bitsa Aharone le bara ba hae, le baholo ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "bo-robedi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ו לבניו",
+      "gloss": "le bara ba hae"
+    },
+    {
+      "surface": "ו לזקני",
+      "gloss": "le baholo ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T06:08:11.997051414Z",
+  "model": "glm-5.3"
+}

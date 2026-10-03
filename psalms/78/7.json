@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "E le hore ba behe tshepo ya bona ho Elohim, mme ba se ke ba lebala diketso tsa El, mme ba lokele ditaelo tsa hae.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ba behe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "tshepo ya bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ke ba"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "diketso tsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "mme ditaelo tsa hae"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ba lokele"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:13.806239099Z",
+  "model": "glm-5.3"
+}

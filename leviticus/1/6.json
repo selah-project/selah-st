@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme a rola letlalo la ⟨את⟩ phaello, mme a e khaola ho dikepeng tsa ⟨את⟩ yona.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "mme a rola letlalo la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phaello"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "phaello"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "mme a khaole"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "dikepeng tsa yona"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ho dikepeng tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:45:09.012689977Z",
+  "model": "glm-5.3"
+}

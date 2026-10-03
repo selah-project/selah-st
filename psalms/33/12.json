@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Thabo ya setjhaba seo Yahwe e leng Elohim wa sona; batho bao a ba kgethile e le bofaladi ba hae.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Thabo ya"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wa sona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "a ba kgethile"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "e le bofaladi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:03.487144710Z",
+  "model": "glm-5.3"
+}

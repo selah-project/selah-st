@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Ba beile har'a bona mantsoe a matshwao a hae, le maholo-holo naheng ya Kame.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Ba beile"
+    },
+    {
+      "surface": "בם",
+      "gloss": "har'a bona"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantsoe a"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "matshwao a hae"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "le maholo-holo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kame"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:08.510423558Z",
+  "model": "glm-5.3"
+}

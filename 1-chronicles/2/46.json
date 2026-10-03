@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Eifa, sekadi sa Kalebe, o ile a tsoala ⟨את⟩ Harane le ⟨את⟩ Motsa le ⟨את⟩ Gazeze; mme Harane o ile a begetsa ⟨את⟩ Gazeze.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Mme Eifa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "sekadi sa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "o ile a tsoala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Harane"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Gazeze"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazeze"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "mme Harane"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "o ile a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazeze"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazeze"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:48.248725236Z",
+  "model": "glm-5.3"
+}

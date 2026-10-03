@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Balaoli ba hau baofhle ba ile ba tloha mmoho, ba ile ba tswalelwa ka kotula; bohle ba fumanwang ho wena ba ile ba tswalelwa mmoho, ba ile ba tloha ba le hole.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "baofhle"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "balaoli ba hau"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ba ile ba tloha"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmoho"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "ka kotula"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ba ile ba tswalelwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "ba fumanwang ho wena"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ba tswalelwa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmoho"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ba le hole"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "ba tloha"
+    }
+  ],
+  "timestamp": "2026-10-03T08:39:54.654442674Z",
+  "model": "glm-5.3"
+}

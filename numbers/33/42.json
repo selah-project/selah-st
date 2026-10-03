@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme ba tloha Tsalmona, ba lula molulong ho Funone.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ba tloha"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "Tsalmona"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba lula molulong"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "ho Funone"
+    }
+  ],
+  "timestamp": "2026-10-03T06:40:05.554127078Z",
+  "model": "glm-5.3"
+}

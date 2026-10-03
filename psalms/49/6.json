@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Hobaneng ke tla tsaba ka matsatsi a mabe, haaka e mene ea ka e ka nkokolosa ka mahetlana a ka?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ke tla tsaba"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ka matsatsi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a mabe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "haaka"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mahetlana a ka"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "e ka nkokolosa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:23.193044615Z",
+  "model": "glm-5.3"
+}

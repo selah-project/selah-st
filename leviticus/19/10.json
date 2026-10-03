@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme seaparo sa morara wa hau o se ke wa se hloekisa ka ho felletseng, mme jerese tse sieo tsa morara wa hau o di kokota; mo futseng le moeti, tlohelaa teng: nna ke Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "seaparo sa morara wa hau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "hloekisa ka ho felletseng"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "mme jerese tse sieo"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "tsa morara wa hau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa di"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kokota"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "mo futseng"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "le moeti"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tlohelaa teng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "mo futseng le moeti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:29.529488813Z",
+  "model": "glm-5.3"
+}

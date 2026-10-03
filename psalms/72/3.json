@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "Dithaba di tla isetsa khotso setjhabeng, le dithabana ka tsedeke.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "di tla isetsa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "setjhabeng"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "le dithabana"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ka tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:03.441705984Z",
+  "model": "glm-5.3"
+}

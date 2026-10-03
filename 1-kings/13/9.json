@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Hobane jwale o ile a ntaela ka lentswe la Yahwe, a re: O se ke wa ja ⟨את⟩ boroto, o se ke wa noa metsi, o se ke wa khutla tsela eo o neng o e tsamaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o ile a ntaela"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ka lentswe la Yahwe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wa ja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "boroto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "wa noa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wa khutla"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "o neng o e tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:34.195234330Z",
+  "model": "glm-5.3"
+}

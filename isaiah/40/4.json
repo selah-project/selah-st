@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Boholo ba dilehla tla phahamiswa, mme thaba le monyako o moholo tla fokotseha; mme se se khutsitseng se tla ba boreme bo boluletseng, mme matlakala a tla ba sekala.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Boholo ba"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "dilehla"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "tla phahamiswa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme boholo ba"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "le monyako o moholo"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "tla fokotseha"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme ⟨e tla ba⟩"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "se se khutsitseng"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "boreme bo boluletseng"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "mme matlakala"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "sekala"
+    }
+  ],
+  "timestamp": "2026-10-03T13:00:31.581776244Z",
+  "model": "glm-5.3"
+}

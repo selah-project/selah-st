@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Ya otlang motho a sa ba a shwele, o tla bolaoa ka ho tšoaretše.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Ya otlang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a sa ba a shwele"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bolaoa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ka ho tšoaretše"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:23.181297434Z",
+  "model": "glm-5.3"
+}

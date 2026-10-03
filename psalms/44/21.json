@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Ha re ka ra lebala lebitso la Elohim wa rona, kapa ra phallaletsa ⟨את⟩ matsoho a rona ho El ya seleho,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "ra lebala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "la Elohim wa rona"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "ra phallaletsa"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "matsoho a rona"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ho El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ya seleho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:27.874854612Z",
+  "model": "glm-5.3"
+}

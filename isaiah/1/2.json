@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mamelang, lichaba tsa mahodimo, le kholoeng ka tsebe, lefatshe, hobane Yahwe o boletse: Bara ke ba hodisitse le ba phahamisitse, empa bona ba tsuere khahlanong le nna.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mamelang"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "le kholoeng ka tsebe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o boletse"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Bara"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ke ba hodisitse"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "le ba phahamisitse"
+    },
+    {
+      "surface": "והם",
+      "gloss": "empa bona"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ba tsuere khahlanong"
+    },
+    {
+      "surface": "בי",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T08:32:12.106359273Z",
+  "model": "glm-5.3"
+}

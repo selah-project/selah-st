@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Rerang sebopeho, se tla senyeha; bolelang lentsoe, le ke ke la tsema, hobane El o na le rona.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "rerang"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "sebopeho"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "se tla senyeha"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bolelang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ke ke la"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tsema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "o na le rona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T08:33:28.848842786Z",
+  "model": "glm-5.3"
+}

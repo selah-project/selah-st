@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "O se ke wa araba paki ya leshano kgahlanong le moahisane wa hao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "O se ke wa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "araba"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "kgahlanong le moahisane wa hao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "paki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya leshano"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:19.125565641Z",
+  "model": "glm-5.3"
+}

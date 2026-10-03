@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mahlomola a bona a tla ngatafala, ba fodisang ka mora tse ding; linketso tsa bona tsa madi ke ke ke ea li tshela, mabitso a bona ke ke ke ea bolela ⟨את⟩ molomong wa ka.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "a tla ngatafala"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "Mahlomola a bona"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka mora tse ding"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "ba fodisang"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ke ke ke"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ea tshela"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "linketso tsa bona"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "tsa madi"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "le hape ke ke ke"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ea bolela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabitso a bona"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "mabitso a bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomong wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:26.880290583Z",
+  "model": "glm-5.3"
+}

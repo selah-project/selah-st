@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme ha le rekisa thekiso ho molekane oa lona, kapa ha o reka ho letsoho la molekane oa hao, le se ke la utsoisa motho ⟨את⟩ moena wa hae.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "le rekisa"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "thekiso"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "ho molekane oa lona"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "o reka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ho letsoho la"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "molekane oa hao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke la"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "utsoisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moena wa hae"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "moena wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:08.757346250Z",
+  "model": "glm-5.3"
+}

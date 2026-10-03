@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Le se ke la etsa tsiamiso e mpe kahalong, tekanyong, boima le boTekanyong ba metsi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "le se ke la etsa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": ""
+    },
+    {
+      "surface": "עול",
+      "gloss": "tsiamiso e mpe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kahalong"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "tekanyong"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "boima"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "le boTekanyong ba metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:17.300140575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Noae a etsa ka ho feletseng; jwalo ka tsohle tse neng di ⟨את⟩ mo laetsoe ke Elohim, jwalo ha a di etsa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme Noae a etsa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noae"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "jwalo ka tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "di mo laetsoe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ke Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo ha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a di etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:32.396932246Z",
+  "model": "glm-5.3"
+}

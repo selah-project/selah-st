@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Mohopolo wa botle ba hao ba menehane ⟨⟨they⟩⟩ a tla a phalla, mme tsedeké ya hao ⟨⟨they⟩⟩ a tla e opela.",
+  "tokens": [
+    {
+      "surface": "זֵ֣כֶר",
+      "gloss": "mohopolo"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "ba menehane"
+    },
+    {
+      "surface": "טוּבְךָ֣",
+      "gloss": "botle ba hao"
+    },
+    {
+      "surface": "יַבִּ֑יעוּ",
+      "gloss": "a tla a phalla"
+    },
+    {
+      "surface": "וְצִדְקָתְךָ֥",
+      "gloss": "mme tsedeké ya hao"
+    },
+    {
+      "surface": "יְרַנֵּֽנוּ",
+      "gloss": "a tla e opela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:20.491924078Z",
+  "model": "glm-5.3"
+}

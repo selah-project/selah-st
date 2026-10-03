@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 76,
+  "translation": "Ba nang le pelo ea matla ba tlositsoe; ba robetse boroko ba bona, mme banna ba matla ohle ha baa fumana matsoho a bona.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "ba tlositsoe"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ba matla"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo ea"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "ba robetse"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "boroko ba bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "baa fumana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "matla"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "matsoho a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:25.431638786Z",
+  "model": "glm-5.3"
+}

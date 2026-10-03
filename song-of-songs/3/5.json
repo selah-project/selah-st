@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ke ile ka laola ka kano ⟨את⟩ le lona, bana ba Yerushalayime, ka ditswalle kapa ka dihlafuna tsa tshimo: le se ke la susumetsa kapa ho tsosa ⟨את⟩ lerato, ho fihlela le tla thabela.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ke ile ka laola ka kano"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona",
+      "marks": "bana ba Yerushalayime"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ba Yerushalayime"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "ka ditswalle"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "ka dihlafuna"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tsa tshimo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hore"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "le susumetsa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapa hore"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "le tsosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerato"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "lerato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "le tla thabela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:35:48.768179786Z",
+  "model": "glm-5.3"
+}

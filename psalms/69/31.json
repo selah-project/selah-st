@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Ke tla dumedisa lebitso la Elohim ka sefoko, mme ke le kgolothe ka teboho.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Ke tla dumedisa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "ka sefoko"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "mme ke le kgolothe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ka teboho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:50.889838198Z",
+  "model": "glm-5.3"
+}

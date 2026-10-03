@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Motho — matsatsi a hae jwalo ka fofu; jwalo ka sehla sa sefala, jwalo o a sehla.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Motho"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jwalo ka fofu"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "matsatsi a hae"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "jwalo ka sehla"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa sefala"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "o a sehla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:06.826644377Z",
+  "model": "glm-5.3"
+}

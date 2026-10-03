@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Ka se Aharone o tla kena sebakeng se halalelang: ka namane ya kgomo ya polasi, e le sehlabelo sa diphoso, le ramo e le sehlabelo se cheswang.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "o tla kena"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "se halalelang"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "ka namane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kgomo ya polasi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "sehlabelo sa diphoso"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "le ramo"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "sehlabelo se cheswang"
+    }
+  ],
+  "timestamp": "2026-10-03T12:45:54.062747956Z",
+  "model": "glm-5.3"
+}

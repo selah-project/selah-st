@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Hobane hesede hao ⟨e⟩ teng pela mahlo a me, mme ke tsamile ka nneteng ya hao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede hao"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pela"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a me"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "mme ke tsamile"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ka nneteng ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:08.296300432Z",
+  "model": "glm-5.3"
+}

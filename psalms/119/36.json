@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Thule pelo ya ka ho bopaki ba hau, mme o se ke wa e thula ho katleho ya bosulu.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Thule"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bopaki ba hau"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "katleho ya bosulu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:55.651258586Z",
+  "model": "glm-5.3"
+}

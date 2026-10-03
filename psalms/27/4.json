@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Ho le 'ngoe ho kileng ke ea kōpa ho tswa ho ⟨את⟩ Yahwe — se ke se batla: ho phela ka tlung ya Yahwe matsatsi ohle a bophelo ba ka, ho sheba bokgabane ba Yahwe le ho batlisisa tempuleng ya hae.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Ho le 'ngoe"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ho kileng ke ea kōpa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho tswa ho ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ se",
+      "marks": "ho phela ka tlung ya Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ke se batla"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ho phela"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka tlung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "a bophelo ba ka"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "ho sheba"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "bokgabane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ba Yahwe"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "le ho batlisisa"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "tempuleng ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:33.175940629Z",
+  "model": "glm-5.3"
+}

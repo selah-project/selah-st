@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 112,
+  "translation": "Setje le mafura a teng kahare ntlong ya hae; tsedeko ya hae e eme ho fihlela kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Setje"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "le mafura a teng"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ntlong ya hae"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "tsedeko ya hae"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ho fihlela kahosafeleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:59.770804514Z",
+  "model": "glm-5.3"
+}

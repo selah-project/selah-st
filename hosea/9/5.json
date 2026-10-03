@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Le tla etsa eng ka letsatsi la nako e beilweng, le ka letsatsi la mokete wa Yahwe?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "le tla etsa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nako e beilweng"
+    },
+    {
+      "surface": "ו ליום",
+      "gloss": "le ka letsatsi la"
+    },
+    {
+      "surface": "חג",
+      "gloss": "mokete wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:03:51.314468637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Ke fokotsehile ka ho lla ha ka; mometso oa ka o omile; mahlo a ka a feditse, ho emela Elohim ea ka.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "ke fokotsehile"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ka ho lla ha ka"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "o omile"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "mometso oa ka"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "a feditse"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "ho emela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim ea ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:37.918096116Z",
+  "model": "glm-5.3"
+}

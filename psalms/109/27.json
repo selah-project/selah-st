@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Mme ba tle ba tsebe hore seatla sa hao ke sena; wena, Yahwe, o se entseng.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "mme ba tle ba tsebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa hao"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ke sena"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "o se entseng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:20.729331725Z",
+  "model": "glm-5.3"
+}

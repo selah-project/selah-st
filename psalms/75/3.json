@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 75,
+  "translation": "Hobane nna ke tla nka nako e beilweng, ke tla kahlola ka toka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ke tla nka"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nako e beilweng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ka toka"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ke tla kahlola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:41.189491750Z",
+  "model": "glm-5.3"
+}

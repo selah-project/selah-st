@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Yahwe a ne a le le ⟨את⟩ Yehuda, mme a ba le ⟨את⟩ thaba; hobane ha a ka a khona ho felisa ⟨את⟩ ba duleng lehlakeng, hobane ba ne ba na le dikoloi tsa tšepe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a ne a le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ le",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "a ba le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a ka a khona ho"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "felisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba duleng lehlakeng"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba duleng"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "lehlakeng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "dikoloi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "tsa tšepe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba nang le tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:17:00.627975109Z",
+  "model": "glm-5.3"
+}

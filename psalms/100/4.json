@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 100,
+  "translation": "Keng ka mebaraka ya hae ka teboho, le ka matlo a hae a ka hare ka tumeliso. Mo leboheng, le hlohonolofatse lebitso la hae.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Keng"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "ka mebaraka ya hae"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ka teboho"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "matlo a hae a ka hare"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "ka tumeliso"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "Mo leboheng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "le hlohonolofatse"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:42.776223088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme o nehe ⟨את⟩ mosadi ⟨את⟩ metsi a mellang a mellang; mme metsi a mellang a tsene ho eena a ba mellang.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "mme o mo nehe a noe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "a mellang"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "a mellang"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mme a tsene"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "a mellang"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "a ba mellang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:23:41.278946978Z",
+  "model": "glm-5.3"
+}

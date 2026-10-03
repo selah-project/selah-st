@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 60,
+  "translation": "Mme bana ba bafaladi ba tla aha masakana a hao, mme bomorena ba tsona ba tla u sebeletsa; hobane ka kgalefo ya ka o ile a o otla, mme ka thato ya ka nka mohau oa oena.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ba tla aha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bafaladi"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "masakana a hao"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "bomorena ba tsona"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "ba tla u sebeletsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "ka kgalefo ya ka"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "o ile a o otla"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "mme ka thato ya ka"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "nka mohau oa oena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:56:56.133838752Z",
+  "model": "glm-5.3"
+}

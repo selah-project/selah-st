@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme ka hosasa ya morgeseng, Mafilistea a tla ho hlotha ⟨את⟩ basweu, ba fumana ⟨את⟩ Shauole le ⟨את⟩ barwa ba hae ba bararo oile thoko thabeng ya Gilboea.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ka hosasa ya morgeseng"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Mafilistea"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "ho hlotha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basweu"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "basweu"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ba fumana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauole"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bararo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "bararo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba hae"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "oile thoko"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "ya Gilboea"
+    }
+  ],
+  "timestamp": "2026-10-03T07:46:55.885904931Z",
+  "model": "glm-5.3"
+}

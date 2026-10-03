@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 130,
+  "translation": "Ha o ka ela hloko dibeka, Yah, Adonai, ke mang ya ka emang?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "dibeka"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "o ka ela hloko"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ya ka emang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:26.958886701Z",
+  "model": "glm-5.3"
+}

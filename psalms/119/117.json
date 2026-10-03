@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Nkopele, mme ke tla pholoha, mme ke tla tsepamisa mahlo dipaelong tsa hau kamehla.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "nkopele"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "mme ke tla pholoha"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "mme ke tla tsepamisa mahlo"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "dipaelong tsa hau"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kamehla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:55.783934813Z",
+  "model": "glm-5.3"
+}

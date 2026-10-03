@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a nkisa ⟨את⟩ nna ho mongalelo wa lebala; mme ka bona, mme mona leoba le le leng ka lebota.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a nkisa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "Ezekieli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mongalelo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wa lebala"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mme ka bona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme mona"
+    },
+    {
+      "surface": "חר",
+      "gloss": "leoba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le le leng"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ka lebota"
+    }
+  ],
+  "timestamp": "2026-10-03T09:33:34.487704607Z",
+  "model": "glm-5.3"
+}

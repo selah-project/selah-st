@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 4:31",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "le Betmarkabote, le Khatsar-Susime, le Betbirime, le le Shearayime; meya ke <s>menya<\/s> ya tsona, ho fihlela ho busa ha Dawide.",
+  "tokens": [
+    {
+      "surface": "ובבית",
+      "gloss": "le Betmarkabote"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "Betmarkabote"
+    },
+    {
+      "surface": "ובחצר",
+      "gloss": "le Khatsar-Susime"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "Khatsar-Susime"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "le Betbirime"
+    },
+    {
+      "surface": "בראי",
+      "gloss": "Betbirime"
+    },
+    {
+      "surface": "ובשערים",
+      "gloss": "le le Shearayime"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "meya ke"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "<s>menya<\/s> ya tsona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ho busa ha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T13:18:42.220219216Z",
+  "model": "glm-5.3"
+}

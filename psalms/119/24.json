@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Hape bopaki ba hao ke boithabiso ba ka, banna ba tselo ya ka.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hape"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bopaki ba hao"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "boithabiso ba ka"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ba tselo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:30.561614137Z",
+  "model": "glm-5.3"
+}

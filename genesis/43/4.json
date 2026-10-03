@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Ha o romela ⟨את⟩ moraeno ⟨את⟩ le rona, re tla theohla, re be re rekele wena lijo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "o"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moraeno"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "moraeno"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rona"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "re tla theohla"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "re be re rekele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lijo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:38:59.502326595Z",
+  "model": "glm-5.3"
+}

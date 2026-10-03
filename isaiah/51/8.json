@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Hobane phoso e tla ba ja jwaloka aparjo, mme sesa e tla ba ja jwaloka boea; mme tsedeke ya ka e tla ba ho se felise, mme pholoho ya ka e tla ba ho popeho ho ya ho popeho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "jwaloka aparjo"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "e tla ba ja"
+    },
+    {
+      "surface": "עש",
+      "gloss": "phoso"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "mme jwaloka boea"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "e tla ba ja"
+    },
+    {
+      "surface": "סס",
+      "gloss": "sesa"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "mme tsedeke ya ka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho se felise"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "mme pholoho ya ka"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ho popeho"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ho ya ho popeho"
+    }
+  ],
+  "timestamp": "2026-10-03T08:54:31.132390551Z",
+  "model": "glm-5.3"
+}

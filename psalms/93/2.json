@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 93,
+  "translation": "Setulo sa hao se hlometse ho tloha mefelong; uena o tloha ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "se hlometse"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "setulo sa hao"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ho tloha mefelong"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:00.891977697Z",
+  "model": "glm-5.3"
+}

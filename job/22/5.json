@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ha e so be hore bobe ba hao bo mpehala haholo, mme ho se bofelo ho ditlolong tsa hao?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ha e so be hore"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "bobe ba hao"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "bo mpehala haholo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ho se"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "bofelo"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "ho ditlolong tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:26:00.938743990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 47,
+  "translation": "Bina ho Elohim, bina; bina ho morena wa rona, bina.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "bina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bina"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bina"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "ho morena wa rona"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bina"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:32.018572749Z",
+  "model": "glm-5.3"
+}

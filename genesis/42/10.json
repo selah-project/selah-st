@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Mme ba re ho yena: Haele hoo, monga ka; mme batlhanka ba hao ba tlile ho reka lijo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Haele hoo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "monga ka"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "mme batlhanka ba hao"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tlile"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ho reka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lijo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:38:15.165071336Z",
+  "model": "glm-5.3"
+}

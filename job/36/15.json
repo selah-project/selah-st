@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 36:15",
+  "book": "job",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "O lokollotsa ⟨את⟩ o hloileng bohloking ba hae, mme a hlakola tsebe ea bona khatellong.",
+  "tokens": [
+    {
+      "surface": "יחלץ",
+      "gloss": "o lokollotsa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨את⟩ o hloileng",
+      "marks": "o hloileng"
+    },
+    {
+      "surface": "בעניו",
+      "gloss": "bohloking ba hae"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "mme a hlakola"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "khatellong"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "tsebe ea bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:31:23.374846302Z",
+  "model": "glm-5.3"
+}

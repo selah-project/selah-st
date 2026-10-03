@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme moromuwa oa Yahwe a bua le Eliyahu, a re: Theohela ho yena; o se ke wa mo tshaba. Mme a tsoha, a theohela ho yena, ho morena.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua le"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "moromuwa oa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Theohela"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ho yena",
+      "marks": "ho yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wa mo tshaba"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sebakeng sa hae"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a tsoha"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a theohela"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ho yena",
+      "marks": "ho morena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:10.809499487Z",
+  "model": "glm-5.3"
+}

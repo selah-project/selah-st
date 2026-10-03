@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme ⟨את⟩ ho tloha ho phutheho ya bana ba Yisraele o tla nka mapodi a mabeli a mabela a sebe, e le mpho ya sebe, le ramu e le nngwe, e le mpho ya ho chesa.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "ho tloha ho ⟨את⟩",
+      "marks": "phutheho ya bana ba Yisraele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "phutheho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tla nka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabeli"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "a mabela"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "mapodi a sebe"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "e le mpho ya sebe"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "le ramu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "e le mpho ya ho chesa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:12.972885272Z",
+  "model": "glm-5.3"
+}

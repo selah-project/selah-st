@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme a re: O kōhile ntho e thata. Ha o ka mpona ⟨את⟩ ka nako eo eo ke tlosuoang ho wena, e tla ba jwalo ho wena; empaha ha e se jwalo, e ke ke ya ba jwalo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "o kōhile ntho e thata"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ho kōha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o ka mpona"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mpona"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ke tlosuoa"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ ho wena"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "empaha ha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "e se jwalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ba jwalo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:17:06.800680130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Hobane Yerushalayime e sila, mme Yehuda o wa; hobane molomo wa bona le ditiro tsa bona di kgahlanong le Yahwe, ho hloña mahlo a kgalalelo ya hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "e sila"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "mme Yehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "o wa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "molomo wa bona"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "le ditiro tsa bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "ho hloña"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "a kgalalelo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:32:17.508426456Z",
+  "model": "glm-5.3"
+}

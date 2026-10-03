@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Na o mo hlapoletse jwaloka ha a hlapola ba mo hlapolang? A o ba bolaila jwaloka bolauwa ba bona?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "jwaloka ho hlapola"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "ba mo hlapolang"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "o mo hlapoletse"
+    },
+    {
+      "surface": "אם",
+      "gloss": "A"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "jwaloka bolauwa"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ba bolaila"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:17.850426711Z",
+  "model": "glm-5.3"
+}

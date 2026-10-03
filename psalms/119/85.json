@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ba holofetseng ba ile ba epa makgoro ho fihlela ho ka, ao e seng ho ya ka Toraha ya hao.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ba ile ba epa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho fihlela ho ka"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ba holofetseng"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "makgoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "ho ya ka Toraha ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:57.049855623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme Dawide a re: Na ba nang le Keilaha ba tla mpatla ⟨את⟩ 'na le ⟨את⟩ banna ba ka ka letsoho la Shaul? Mme Yahwe a re: Ba tla o patala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Na ba tla mpatla"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ba nang le"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilaha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "'na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "banna ba ka"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba ka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Ba tla o patala"
+    }
+  ],
+  "timestamp": "2026-10-03T07:41:50.877368054Z",
+  "model": "glm-5.3"
+}

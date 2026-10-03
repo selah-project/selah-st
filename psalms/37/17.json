@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Hobane meqolo ya ba fosahetseng e tla roloha, mme Yahwe o tshehetsa ba lokileng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "meqolo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya ba fosahetseng"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "e tla roloha"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "mme o tshehetsa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:49.785870570Z",
+  "model": "glm-5.3"
+}

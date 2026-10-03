@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme ba tla hlahisa khahlanong le ⟨את⟩ wena phuthego, mme ba tla o hlabela ka majwe, mme ba tla o ripsa ka mesebe ya bona.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "mme ba tla hlahisa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "khahlanong le wena"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "mme ba tla o hlabela"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "ka majwe"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ka majwe"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "mme ba tla o ripsa"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "ka mesebe ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:39:55.296562408Z",
+  "model": "glm-5.3"
+}

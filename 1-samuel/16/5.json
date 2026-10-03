@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme a re: Khotso; ke tletse ho ja nkku ho Yahwe; le halaletse, mme le tle le ⟨את⟩ nna ho eja nkku. Mme a halaletsa ⟨את⟩ Yishai le ⟨את⟩ barwa ba hae, mme a ba bitlisa bakeng sa eja nkku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Khotso"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ho ja nkku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ke tletse"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "le halaletse"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "mme le tle"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ho eja nkku"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a halaletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "barwa ba hae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba hae"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a ba bitlisa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "bakeng sa eja nkku"
+    }
+  ],
+  "timestamp": "2026-10-03T07:37:51.302930210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme ba tlisa ⟨את⟩ Mishkane ho Moshe, ⟨את⟩tente le ⟨את⟩ ditho tsohle tsa yona, dikgarapa tsa yona, diphaphatha tsa yona, dithiba tsa yona, masimi a yona le meala ya yona.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ba tlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tente"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditho tsohle tsa yona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ditho tsa yona"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "dikgarapa tsa yona"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "diphaphatha tsa yona"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "dithiba tsa yona"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "masimi a yona"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "meala ya yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:01.668832518Z",
+  "model": "glm-5.3"
+}

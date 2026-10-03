@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme hona ke mabitso a bara ya Yisraele ba neng ba tsena Mitsrayime: ⟨את⟩ Yaakobo, motho le ntlo ya hae, ba tsene.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme hona ke"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mabitso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a bara ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ba neng ba tsena"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "le ntlo ya hae"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tsene"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:00.639163193Z",
+  "model": "glm-5.3"
+}

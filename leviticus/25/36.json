@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "O se ke wa nka ⟨את⟩ molekane wa khokahano le eketselo ho eena; mme o tšabe Elohim wa hao, e le hore moraoeno a phele le uena.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "nka"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ molekane ho eena",
+      "marks": "molekane wa khokahano le eketselo"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "molekane wa khokahano"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "eketselo"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "o tšabe"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a phele"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "moraoeno"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le uena"
+    }
+  ],
+  "timestamp": "2026-10-03T06:16:58.844279912Z",
+  "model": "glm-5.3"
+}

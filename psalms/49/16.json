@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "<Empa> <Elohim> o tla <lokolla> <moea> oa ka <letsohong> la <Sheole>, <hobane> o tla <nkela> <mna>. <Selaha>.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "<Empa>"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "<Elohim>"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "<o tla lokolla>"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "<moea> oa ka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "<letsohong> la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "<Sheole>"
+    },
+    {
+      "surface": "כי",
+      "gloss": "<hobane>"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "<o tla nkela> <mna>"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "<Selaha>"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:59.690149207Z",
+  "model": "glm-5.3"
+}

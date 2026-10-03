@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme Moshe a re ho setjhaba: Le se tshabe; hobane Elohim o tille hore a le teke ⟨את⟩ lona, mme hore tsabo ya hae e be pela lifahleho tsa lona, hore le se ke la etsa sebe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le se"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tshabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "hore"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "a le teke"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tille"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "mme hore"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e be"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "tsabo ya hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "pela"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "lifahleho tsa lona"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hore le se ke"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "la etsa sebe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:47.904729467Z",
+  "model": "glm-5.3"
+}

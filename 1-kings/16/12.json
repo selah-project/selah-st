@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme Zimri a timetsa ⟨את⟩ ntlo ya Baasha yohle, jwalo ka lentsoe la Yahwe, leo a le boleletseng Baasha, ka letsoho la Yehu moporofeta.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "a timetsa"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Baasha yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jwalo ka lentsoe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a le boleletseng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho la"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeta"
+    }
+  ],
+  "timestamp": "2026-10-03T08:11:32.464409366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 12:3",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Bonang, ke teng; arabang ka 'na pele ga Yahwe le pele ga Mashiakh wa hae: ⟨את⟩ kgomo ya mang ke e ntsere, kapa tonki ya mang ke e ntsere? ⟨את⟩ mang ke mo hlokometse ka boso, ⟨את⟩ mang ke mo nyeditswe? mme ho tloha matswong a mang ke tseretse sefetheho, mme ka lona ke tla se khutlisa.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Bonang, ke teng"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "arabang"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka 'na"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "le pele ga"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiakh wa hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgomo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ya mang"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ke e ntsere"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "kapa tonki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ya mang"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ke e ntsere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "עשקתי",
+      "gloss": "ke mo hlokometse ka boso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "רצותי",
+      "gloss": "ke mo nyeditswe"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "mme ho tloha matswong"
+    },
+    {
+      "surface": "מי",
+      "gloss": "a mang"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ke tseretse"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "sefetheho"
+    },
+    {
+      "surface": "ואעלים",
+      "gloss": "mme ke timetse"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "mme ke tla khutlisa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "se ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:36:44.513685313Z",
+  "model": "glm-5.3"
+}

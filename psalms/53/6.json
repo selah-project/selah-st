@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 53,
+  "translation": "Bohare ba tsekisitsoe ke tsabo, moo ho neng ho se na tsabo; hobane Elohim o phalalitse marapo a ba khannang kgahlanong le wena; o ba tlotse mahlonoko, hobane Elohim o ba latoheditse.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Bohare"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ba tsekisitsoe"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ke tsabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ho se"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ho na"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tsabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "o phalalitse"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "a ba khannang"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "o ba tlotse mahlonoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "o ba latoheditse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:55.269443707Z",
+  "model": "glm-5.3"
+}

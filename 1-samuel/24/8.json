@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme Dawide a hlama ⟨את⟩ banna ba hae ka mantswe, a sa ba lumelle hore ba phahame holimo ea Shaule; mme Shaule a tsoha moeulong, a tsamaea tseleng.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "a hlama"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna ba hae"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "banna ba hae"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ka mantswe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ba lumelle"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "hore ba phahame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "holimo ea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "mme Shaule"
+    },
+    {
+      "surface": "קם",
+      "gloss": "a tsoha"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "moeulong"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaea"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    }
+  ],
+  "timestamp": "2026-10-03T07:42:30.192126200Z",
+  "model": "glm-5.3"
+}

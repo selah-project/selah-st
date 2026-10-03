@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mobe o rera morero kgahlanong le ea lokileng, mme o lekanya meno ea hae holim'a eena.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "o rera morero"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mobe"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kgahlanong le ea lokileng"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "mme o lekanya meno"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "holim'a eena"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:38.081585838Z",
+  "model": "glm-5.3"
+}

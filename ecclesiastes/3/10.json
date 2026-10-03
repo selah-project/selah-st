@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ke ile ka bona ⟨את⟩ mosebetsi oo Elohim a neng a o file bana ba motho, hore ba itsebeletse ka oona.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ke ile ka bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebetsi"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a o file"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "hore ba itsebeletse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka oona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:07.642822689Z",
+  "model": "glm-5.3"
+}

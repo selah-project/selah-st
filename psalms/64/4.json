@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 64,
+  "translation": "Ba hlakotse lentsoe la bona joalo ka thipa, ba arole metsi ya bona — lentsoe le lokollwang.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "hlakotse"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "joalo ka thipa"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lentsoe la bona"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ba arole"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "metsi ya bona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "מר",
+      "gloss": "le lokollwang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:01.399467759Z",
+  "model": "glm-5.3"
+}

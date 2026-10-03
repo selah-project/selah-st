@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Yahwe o bolaea, mme o phelisa; o theotsa ho Sheole, mme o hodisa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "o bolaea"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "mme o phelisa"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "o theotsa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ho Sheole"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mme o hodisa"
+    }
+  ],
+  "timestamp": "2026-10-03T07:31:00.519084518Z",
+  "model": "glm-5.3"
+}

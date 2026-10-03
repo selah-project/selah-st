@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme a ba re: Eang hape matsatsi a mararo, mme boeleng ho ’na; mme setjhaba sa tsamaea.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "mme boeleng"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho ’na"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mme sa tsamaea"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:31.843477112Z",
+  "model": "glm-5.3"
+}

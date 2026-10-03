@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "Mme batho ba tla ithwarela phuti ho yena, dikgosi tsohle; ditjhaba tsohle di tla mo sebeletsa.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "ba tla ithwarela phuti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "di tla mo sebeletsa"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:42.332836137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Jwalo ka mollu o chesang thota, le jwalo ka lelabo le hlabang dithaba;",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "jwalo ka mollu"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "o chesang"
+    },
+    {
+      "surface": "יער",
+      "gloss": "thota"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "le jwalo ka lelabo"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "le hlabang"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:14.206623180Z",
+  "model": "glm-5.3"
+}

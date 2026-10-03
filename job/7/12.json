@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Na ke lewatle ke 'na, kapa mohlodi oa lewatle, hore o beke mohlokomeli holim'a ka?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke 'na"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "mohlodi oa lewatle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "o beke"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "holim'a ka"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "mohlokomeli"
+    }
+  ],
+  "timestamp": "2026-10-03T11:20:02.958106152Z",
+  "model": "glm-5.3"
+}

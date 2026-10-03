@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Hobane uena Elohim wa matla a ka — hobaneng o ntshitse? Hobaneng ke tsamaya ke aparile mesiamo, kgahlanong le pheko ya sera?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "o ntshitse"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ke aparile mesiamo"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ke tsamaya"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "kgahlanong le pheko"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ya sera"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:58.856423507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme sechaba sa lefatshe sa fokotsa matla a sechaba sa Yehuda, mme sa ba tshitetsa ⟨את⟩ bona ho aha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ile go nna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "sa fokotsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matla a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba sa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "mme sa ba tshitetsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ho aha"
+    }
+  ],
+  "timestamp": "2026-10-03T11:59:43.806015544Z",
+  "model": "glm-5.3"
+}

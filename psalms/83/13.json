@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Ba reng: A re hlakole ba bang, re be beng ba ⟨את⟩ malapa a Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ba reng"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "re be beng ba eona"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malapa a Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:14.206232731Z",
+  "model": "glm-5.3"
+}

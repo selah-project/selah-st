@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme lentsoe la Yahwe le tla ho eena, le re:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme ... le tla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "le re"
+    }
+  ],
+  "timestamp": "2026-10-03T08:12:53.997747352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme morena wa Mitsrayime a bua le bapeledi ba Basheberu, ya neng lebitso la eona ke Shifraha, mme la bobedi Pua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayime"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "le bapeledi"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ba Basheberu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya neng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "la eona"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifraha"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme la bobedi lebitso"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:08.427527797Z",
+  "model": "glm-5.3"
+}

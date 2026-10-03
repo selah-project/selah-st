@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ho tla ba joale ka letsatsi leo, mme ke tla thuba ⟨את⟩bou ya Yisraele sebakeng sa Yizreleele.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme ho tla ba joale"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "mme ke tla thuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bou"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreleele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:38.991729891Z",
+  "model": "glm-5.3"
+}

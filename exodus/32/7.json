@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme Yahwe a bua le Moshe: Tle, o theohela, hobane setjhaba sa hao, seo o se hloditseng lefatsheng la Mitsrayime, se senyehile.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tle"
+    },
+    {
+      "surface": "רד",
+      "gloss": "o theohela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "se senyehile"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setjhaba sa hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "o se hloditseng"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:36.339163315Z",
+  "model": "glm-5.3"
+}

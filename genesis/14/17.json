@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 14:17",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme morena wa Sedome a tswa ho mo amohela, kamora hore a kgutla ho hlasela ⟨את⟩ Kedarlaomore le ⟨את⟩ morena ba neng ba le ⟨את⟩ ena, ho molambo wa Shave, o leng molambo wa morena.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedome"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ho mo amohela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kamora hore"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "a kgutla"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ho hlasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomore"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng ba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le ⟨את⟩ ena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "molambo"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "wa Shave"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o leng"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "molambo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa morena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:14.429621436Z",
+  "model": "glm-5.3"
+}

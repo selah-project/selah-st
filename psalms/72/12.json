@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "Hobane o tla lokolla ⟨את⟩ mohlabani ya kholang, le ⟨את⟩ mofumaneng, mme ho se motho ya mo thusang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "o tla lokolla"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mohlabani"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "ya kholang"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "le mofumaneng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ho se"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ya thusang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:42.333061813Z",
+  "model": "glm-5.3"
+}

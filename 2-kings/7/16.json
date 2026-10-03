@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme setjhaba se tswa, sa tlhasela ⟨את⟩ mahaere a Arame; mme sefahleho sa sophutho e ntle se ne se le shekele, le difahleho tse pedi tsa boera di le shekele, jwalo ka lentsoe la Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "se tswa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "sa tlhasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahaere a Arame"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "mahaere"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "a Arame"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme se ne se le"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sa sophutho e ntle"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "se le shekele"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "le difahleho tse pedi"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "tsa boera"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "di le shekele"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jwalo ka lentsoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:21:12.788138995Z",
+  "model": "glm-5.3"
+}

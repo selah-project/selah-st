@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Ba hlokoloki ba tla bona, ba thabe; batlai ba Elohim — le pelo ya lona e tle e pheleng.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ba tla bona"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba hlokoloki"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ba thabe"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "batlai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "e tle e pheleng"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pelo ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:54.807905670Z",
+  "model": "glm-5.3"
+}

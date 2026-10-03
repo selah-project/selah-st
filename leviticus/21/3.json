@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Le kgaitsedi ya hae e sa nyalwang, e kgauswiholang ho yena, eo e neng e sa le ho monna — ka yena o ka itlhotlisa.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "kgaitsedi ya hae"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "e sa nyalwang"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "e kgauswiholang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e neng e le"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ho monna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ka yena"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "o ka itlhotlisa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:49.929404383Z",
+  "model": "glm-5.3"
+}

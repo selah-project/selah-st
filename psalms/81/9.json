@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Mamela, sechaba sa ka, mme ke tla kgahlano le wena: O Yisraele, ha o ka mamela ho 'na,",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sechaba sa ka"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "mme ke tla kgahlano"
+    },
+    {
+      "surface": "בך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o ka mamela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:39.097580986Z",
+  "model": "glm-5.3"
+}

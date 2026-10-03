@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Re fane ka letsoho ho Mitsrayime, le ho Ashure, hore re tle re khotsoe lebone.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "re fane"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "re khotsoe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lebone"
+    }
+  ],
+  "timestamp": "2026-10-03T13:15:37.449830639Z",
+  "model": "glm-5.3"
+}

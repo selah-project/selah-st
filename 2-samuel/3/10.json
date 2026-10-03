@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ho fetisa borena ho tloha ntlong ya Shauole, le ho tlhoma ⟨את⟩ setulo sa Dawide hodima Yisraele le hodima Yehuda, ho tloha Dane ho ya fihlela Beer-Sheba.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "ho fetisa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "borena"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ho tloha ntlong ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "le ho tlhoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setulo sa Dawide"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le hodima"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ho tloha Dane"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho ya fihlela"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-10-03T07:47:38.899570451Z",
+  "model": "glm-5.3"
+}

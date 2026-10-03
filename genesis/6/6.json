@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Yahwe a ituela hore o ente ⟨את⟩ motho lefatšeng, mme a tšoaroa ke bohloko pelo ya hae.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "a ituela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatšeng"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "a tšoaroa ke bohloko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pela ho"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:19.928856819Z",
+  "model": "glm-5.3"
+}

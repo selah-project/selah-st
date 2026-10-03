@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Nkang bakeng sa lona ho tloha setjhabeng batho ba leshome le bararo, monna a le mong, monna a le mong ho tloha sebakeng sa kereke;",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Nkang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bakeng sa lona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhabeng"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ba leshome"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le bararo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mong"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "ho tloha sebakeng sa kereke"
+    }
+  ],
+  "timestamp": "2026-10-03T07:04:02.042795247Z",
+  "model": "glm-5.3"
+}

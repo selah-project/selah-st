@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ba re: Ha o re hlokometse ka boso, o none re nyeditse, o none o tsera letho ho tloha matswong a motho.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mme ba re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "o re hlokometse ka boso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o none"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "re nyeditse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o none"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "o tsera"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ho tloha matswong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a motho"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "letho"
+    }
+  ],
+  "timestamp": "2026-10-03T07:36:44.515923559Z",
+  "model": "glm-5.3"
+}

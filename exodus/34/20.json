@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 34:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme sephetho sa tonki o tla se lokolla ka namana; ha o sa se lokolle, o tla a arafa molala wa sona. Bana ba hao ba ba tswetsweng pele kaofela o tla ba lokolla; mme ba se ke ba tla haufi le sefahleho sa ka ba se se nang letho.",
+  "tokens": [
+    {
+      "surface": "ופטר",
+      "gloss": "mme sephetho"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "sa tonki"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "o tla se lokolla"
+    },
+    {
+      "surface": "בשה",
+      "gloss": "ka namana"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "se lokolle"
+    },
+    {
+      "surface": "וערפתו",
+      "gloss": "o tla a arafa molala wa sona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ba tswetsweng pele"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba hao"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "o tla ba lokolla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ke"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "פני",
+      "gloss": "haufi le sefahleho sa ka"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ba se se nang letho"
+    }
+  ],
+  "timestamp": "2026-10-03T05:58:42.431147286Z",
+  "model": "glm-5.3"
+}

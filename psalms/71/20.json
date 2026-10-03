@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Eo o ntsebisitseng mehlahare e mengata le maswebo, o tla khutla — o ntsofatsa hape; mme ho diepeng tsa lefatshe o tla khutla — o nkgothatsa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Eo"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "o ntsebisitseng"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "mehlahare"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "e mengata"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "le maswebo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o tla khutla"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "o ntsofatsa hape"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "mme ho diepeng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tsa lefatshe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o tla khutla"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "o nkgothatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:19.958628896Z",
+  "model": "glm-5.3"
+}

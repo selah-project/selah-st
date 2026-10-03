@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 87,
+  "translation": "Ke tla ba keteka Rahahe le Babele ho ba tsebang me; bonang, Pelesethe le Tsore, hammoho le Kushe; yena o beletsweng moo.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Ke tla ba keteka"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahahe"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "le Babele"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "ho ba tsebang me"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesethe"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "le Tsore"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hammoho le"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "o beletsweng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:54.319811342Z",
+  "model": "glm-5.3"
+}

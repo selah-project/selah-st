@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "mme ba boloke ⟨את⟩ ts'ireletso ea ohela ya mokhatlo, le ⟨את⟩ ts'ireletso ea se halalelang, le ts'ireletso ea bana ba Aharone, bahlanka ba bona, bakeng sa tšebeletso ea ntlo ea Yahwe",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "mme ba boloke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ts'ireletso"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ts'ireletso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ea ohela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya mokhatlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ts'ireletso"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ts'ireletso"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ea se halalelang"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "le ts'ireletso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ea bana ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "bahlanka ba bona"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "bakeng sa tšebeletso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ea ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ea Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:20:22.967242147Z",
+  "model": "glm-5.3"
+}

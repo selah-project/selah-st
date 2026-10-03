@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme Yahwe a romela ⟨את⟩ Yerubale le ⟨את⟩ Bedane le ⟨את⟩ Yifitakhe le ⟨את⟩ Samuele, mme a ba lokolla ka letsoho ya mafofu a lona a mahare, mme lona ba dula ka polokeho.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mme a romela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubale"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bedane"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yifitakhe"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yifitakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Samuele"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "mme a ba lokolla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "lona"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ka letsoho ya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mafofu a lona"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "a mahare"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "mme ba dula"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ka polokeho"
+    }
+  ],
+  "timestamp": "2026-10-03T07:34:53.594758690Z",
+  "model": "glm-5.3"
+}

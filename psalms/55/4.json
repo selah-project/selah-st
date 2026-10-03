@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Ka moya wa seba, ka baka la khatello ya mosihu, hobane ba makatsa ⟨את⟩ boshata hodima ka, mme ka tlhaho ya bona ba mpshoha.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Ka moya wa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "seba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "khatello ya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mosihu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ba makatsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima ka"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨את⟩ boshata"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "mme ka tlhaho ya bona"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ba mpshoha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:01.732969681Z",
+  "model": "glm-5.3"
+}

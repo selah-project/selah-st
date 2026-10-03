@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "translation": "Hobane o ile a ntlosa ⟨את⟩ bophelo ba ka ho lefu; ha e sa ⟨⟨⟩⟩ maoto a ka ho tlatlapa, hore ke tsamaye pele ho Elohim ka leseli la bophelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "o ile a ntlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo ba ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo ba ka"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ho lefu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ha e sa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ho tlatlapa"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "hore ke tsamaye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ka leseli"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "la bophelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:07.716213897Z",
+  "model": "glm-5.3"
+}

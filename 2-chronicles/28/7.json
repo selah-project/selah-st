@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme Zikhri, motlhankana wa matla wa Efrayime, a bolaile ⟨את⟩ Maseyahu mora wa morena, le ⟨את⟩ Azrikame molaodi wa ntlo, le ⟨את⟩ Elkanase motlaetsi wa morena.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "a bolaile"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "motlhankana wa matla"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "wa Efrayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maseyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Azrikame"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikame"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa ntlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Elkanase"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanase"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "motlaetsi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa morena"
+    }
+  ],
+  "timestamp": "2026-10-03T12:36:03.103655417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Yahwe o ile a dula ⟨⟨holimo⟩⟩ ha mabolu, mme Yahwe a dula e le morena ho fihlela ho se neng peleng.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ha mabolu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o ile a dula"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme a dula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ho se neng peleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:23.327279332Z",
+  "model": "glm-5.3"
+}

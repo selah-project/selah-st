@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Na hase ⟨wena⟩ ya omisang lewatle, metsi a tehome e kgolo, ya etsang maqhekung a lewatle tsela ea ho feta ba lokolotsweng?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Na hase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨wena⟩",
+      "marks": "wena (pron. ya bobedi: oena)"
+    },
+    {
+      "surface": "היא",
+      "gloss": "wena"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "ya omisang"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "a tehome"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "maqhekung"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a lewatle"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ea ho feta"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "ba lokolotsweng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:54:04.972306844Z",
+  "model": "glm-5.3"
+}

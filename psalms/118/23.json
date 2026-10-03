@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 118,
+  "translation": "E tsoa ho ⟨את⟩ Yahwe; e entsoe ke Yahwe; e makatsa mahlo a rona.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "e tsoa ho ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e entsoe e bile"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "e makatsa"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "mahlo a rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:16.938535801Z",
+  "model": "glm-5.3"
+}

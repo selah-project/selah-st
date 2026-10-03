@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Yahwe ha mo tlohele letsohong la hae, mme ha mo lahloe molato ha a ahloa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "mo tlohele"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "letsohong la hae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "mo lahloe molato"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "ha a ahloa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:58.166598535Z",
+  "model": "glm-5.3"
+}

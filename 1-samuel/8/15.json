@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme poqo ya lona le merara ya lona o tla e lekanya sefahlelo sa khumusho, a e fa balaodi ba hae le balebeli ba hae.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "poqo ya lona"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "merara ya lona"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "o tla e lekanya sefahlelo sa khumusho"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a e fa"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "balaodi ba hae"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "balebeli ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:38.933737230Z",
+  "model": "glm-5.3"
+}

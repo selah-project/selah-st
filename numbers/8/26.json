@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 8:26",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme o tla a sebeletsa ban�a ba hae ⟨את⟩ ka tenthe ya kopano, a boloka bolokelo; mme mosebe ha o o ntse. Jwalo o tla etsa ho Balevi ka bolokelo ba bona.",
+  "tokens": [
+    {
+      "surface": "ושרת",
+      "gloss": "mme o tla a sebeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba hae"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ka tenthe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ho boloka"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "bolokelo"
+    },
+    {
+      "surface": "ועבדה",
+      "gloss": "mme mosebe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "o o ntse"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ho Balevi"
+    },
+    {
+      "surface": "במשמרתם",
+      "gloss": "ka bolokelo ba bona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:26:26.783785611Z",
+  "model": "glm-5.3"
+}

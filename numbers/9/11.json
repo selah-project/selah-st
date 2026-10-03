@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ka kgwedi ya bobedi, ka la bo14, pakeng tsa mantsiboya, ba tla e etsa ⟨את⟩; ka dikuku tse sa tswang le meroho e leng tshweu ba tla e ja.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Ka kgwedi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya bobedi"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ka la bo14"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bo14"
+    },
+    {
+      "surface": "יום",
+      "gloss": "la"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mantsiboya"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ba tla e etsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (Paseka)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "dikuku tse sa tswang"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "le meroho e leng tshweu"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ba tla e ja"
+    }
+  ],
+  "timestamp": "2026-10-03T06:27:25.436597675Z",
+  "model": "glm-5.3"
+}

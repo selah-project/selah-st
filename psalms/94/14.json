@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Hobane Yahwe ha a tlohelle setjhaba sa hae, mme bojalo ba hae ha a bo tlohele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "a tlohelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setjhaba sa hae"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "mme bojalo ba hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "a bo tlohele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:32.234656081Z",
+  "model": "glm-5.3"
+}

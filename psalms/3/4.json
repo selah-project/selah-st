@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Empa uena, Yahwe, ⟨u⟩ ⟨le⟩ sireletsi sa ka, kgalalelo ya ka, le ya hodisang hloho ya ka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Empa uena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sireletsi"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "sa ka"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kgalalelo ya ka"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "le ya hodisang"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hloho ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:38.961198494Z",
+  "model": "glm-5.3"
+}

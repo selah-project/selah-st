@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Joale nke ke sa tshwanele ge ke lebelela ⟨את⟩ melao ya hao kaofela.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "joale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "nke ke sa tshwanele"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "ge ke lebelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "melao ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:38.904049905Z",
+  "model": "glm-5.3"
+}

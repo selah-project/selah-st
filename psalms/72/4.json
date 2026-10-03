@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "O tla ahlola ba fokolang ba setjhaba, a pholosa bana ba tlhokehang, mme a qhaqatsa mo sitafatsang.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "o tla ahlola"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ba fokolang ba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "a pholosa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ba tlhokehang"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "mme a qhaqatsa"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "mo sitafatsang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:03.441844211Z",
+  "model": "glm-5.3"
+}

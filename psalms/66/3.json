@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Mmang ho Elohim: Mehla o makatsang ke mesebetsi ya hao! Ka ho feta matla a hao, ba hloyang ba tla o ikhohomosa ho wena.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "mmang"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mehla"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "o makatsang"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mesebetsi ya hao"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka ho feta"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "matla a hao"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ba tla o ikhohomosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ba hloyang ba tla o"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:24.253344368Z",
+  "model": "glm-5.3"
+}

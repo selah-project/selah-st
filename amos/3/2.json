@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Lona feela ke a le tseba, ho ditshepiso tsohle tsa lefatshe; kahoo ke tla le etela ka ⟨את⟩ diphoso tsa ⟨את⟩ lona tsohle.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "feela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke a le tseba"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ditshepiso tsohle (ho tloha)"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ditshepiso"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tsa lefatshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kahoo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kahoo"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ke tla le etela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphoso tsa lona tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "diphoso tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:05:36.265618489Z",
+  "model": "glm-5.3"
+}

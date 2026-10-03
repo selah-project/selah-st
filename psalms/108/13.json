@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 108,
+  "translation": "E re fe thuso ho tswa bothateng; hobane thuso ya motho ke ⟨se⟩ lefela.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "e fe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "thuso"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ho tswa bothateng"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "hobane ⟨se⟩ lefela ke"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "thuso"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya motho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:39.440463078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme matsatsi a supileng a a phetwa, ka mora hore Yahwe a thule ⟨את⟩ Noka.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "a a phetwa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora hore"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "a thule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noka"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Noka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:46:32.036607066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Di nkwe ka tshweu, di senyeha, methapo ya ka, ka baka la bohlole ba ka.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "Di nkwe ka tshweu"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "di senyeha"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "methapo ya ka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "bohlole ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:05.268258061Z",
+  "model": "glm-5.3"
+}

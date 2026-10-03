@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Mme Yahwe o ile a ba ⟨⟨באָטע⟩⟩ sebakeng sa ka sa phomolo, mme Elohim ea ka ea ba lejoe la tokelo ya ka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme ... o ile a ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ea ka"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "sebakeng sa phomolo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "mme Elohim ea ka"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "lejoe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "la tokelo ea ka"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:31.998110224Z",
+  "model": "glm-5.3"
+}

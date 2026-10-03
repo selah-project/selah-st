@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Ha ho ka hoa u eba le melimo e meng ⟨pele ho⟩ sehloni sa ka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha ho ka hoa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "u eba le"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e meng"
+    },
+    {
+      "surface": "על",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sehloni sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:23.819168017Z",
+  "model": "glm-5.3"
+}

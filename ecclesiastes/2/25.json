@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Hobane ke mang ya ka jang, le ke mang ya ka telang, kantle ho 'na?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ya ka jang"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "le ke mang"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ya ka telang"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "kantle"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T11:41:54.573919534Z",
+  "model": "glm-5.3"
+}

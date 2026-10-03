@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 108,
+  "translation": "Tsohong, lerole la dinoka, le katara; ke tla tsoha fubelu.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "tsohong"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "lerole la dinoka"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "le katara"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ke tla tsoha"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fubelu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:03.890881459Z",
+  "model": "glm-5.3"
+}

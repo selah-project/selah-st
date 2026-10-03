@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalone le ⟨את⟩ mabala a yona, ⟨את⟩ Gath-Rimone le ⟨את⟩ mabala a yona — ditsele tse nne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalone"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gath-Rimone"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a yona"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ditsele"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tse nne"
+    }
+  ],
+  "timestamp": "2026-10-03T07:13:58.215812307Z",
+  "model": "glm-5.3"
+}

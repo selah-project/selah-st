@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ee, ha o bitsela ⟨את⟩ kutlwisiso, me o phahamisa lentswe la hao ⟨את⟩ ho tsebo-phetoho;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "kutlwisiso"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "o bitsela"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ho tsebo-phetoho"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o phahamisa"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "lentswe la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:06:19.402084381Z",
+  "model": "glm-5.3"
+}

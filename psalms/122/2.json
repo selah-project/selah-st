@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 122,
+  "translation": "Maoto a rona a emile ⟨⟨ka⟩⟩ dikgorong tsa hao, Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "a emile"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨are⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Maoto a rona"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "dikgorong tsa hao"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:44.896121353Z",
+  "model": "glm-5.3"
+}

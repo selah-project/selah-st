@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Fana ka sefahleho sa hao sepheho sephelang holim'a lekhutu la hao: mpholose ka hesede ya hao.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "Fana ka sepheho sephelang"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "lekhutu la hao"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "mpholose"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "ka hesede ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:46.278825757Z",
+  "model": "glm-5.3"
+}

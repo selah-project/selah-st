@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 58,
+  "translation": "Elohim, a senye meno ya bona ka molomo wa bona; ditlhako tsa dibatana, a di tlotlomatse, Yahwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "a senye"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "meno ya bona"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "ka molomo wa bona"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "ditlhako"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "dibatana"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "a di tlotlomatse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:09.015813026Z",
+  "model": "glm-5.3"
+}

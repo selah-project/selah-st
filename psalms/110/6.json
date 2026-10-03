@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 110,
+  "translation": "O tla ahlola mahareng a ditjhaba, a tlatsa sebakeng ⟨ka⟩ mmele a bolailweng; o betsa ⟨etlhaku⟩ hloho ea motho holim'a lefatshe le seholo.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "O tla ahlola"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mahareng a ditjhaba"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a tlatsa"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "mmele a bolailweng"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "o betsa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "le seholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:30.948451157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme ba tlohela ⟨את⟩ Yahwe, mme ba hlankela Baele le Ashatarote.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ba tlohela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ba hlankela"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baele"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "le Ashatarote"
+    }
+  ],
+  "timestamp": "2026-10-03T07:16:10.226975077Z",
+  "model": "glm-5.3"
+}

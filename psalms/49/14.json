@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Seo ke tsela ya bona, bofole ho bona; mme ba latelang ba nabelwa ka molomo wa bona. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Seo"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "tsela ya bona"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "bofole"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "mme ba latelang"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ka molomo wa bona"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ba nabelwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:50.387854551Z",
+  "model": "glm-5.3"
+}

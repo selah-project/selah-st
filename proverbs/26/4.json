@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "O se ke wa araba sematla ka botelele ba hae, hore o se ke wa tshwana le eena le wena.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תען",
+      "gloss": "araba"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sematla"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "ka botelele ba hae"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hore o se ke wa"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "tshwana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:16:36.058491514Z",
+  "model": "glm-5.3"
+}

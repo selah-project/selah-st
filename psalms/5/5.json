@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Hobane hase El ya nang le thabo ho reshwa o wena; bobe bo ke ke ba dula le wena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ya nang le thabo ho"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "reshwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bo ke ke ba"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "dula le wena"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:18.733461443Z",
+  "model": "glm-5.3"
+}

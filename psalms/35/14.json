@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Joalo ka motswalle, joalo ka mora'abo nna, ke ile ka tsamaya le bona; joaloKA mosollo oa mmae, ka utloa bohloko, ke ikhohomosa.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "joalo ka motswalle"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "joalo ka mora'abo nna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oa nna"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ke ile ka tsamaya le bona"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "joalo ka mosollo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oa mmae"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ka utloa bohloko"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "ke ikhohomosa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:15.744744741Z",
+  "model": "glm-5.3"
+}

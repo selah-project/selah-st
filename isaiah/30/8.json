@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Jwale tswa, ngwala ⟨אתם⟩ se tlhahisong pele, mme u loke ⟨e⟩ bukeng, e be ⟨e⟩ bakeng la letsatsi la moraozorao, bopaki ho fihlela le ho isa motlha o mongata.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Jwale"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "tswa"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "ngwala"
+    },
+    {
+      "surface": "על",
+      "gloss": "se"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tlhahisong pele"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "pela bona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bukeng"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "u loke"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e be"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bakeng la letsatsi"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "la moraozorao"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "bopaki ho fihlela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "le ho isa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "motlha o mongata"
+    }
+  ],
+  "timestamp": "2026-10-03T08:45:14.833292244Z",
+  "model": "glm-5.3"
+}

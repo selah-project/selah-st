@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Dikano tsa ka ho Yahwe ke tla di phetha, hle, pele ho sechaba sa hae ohle.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "dikano tsa ka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ke tla di phetha"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hle"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sechaba sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:38.264536610Z",
+  "model": "glm-5.3"
+}

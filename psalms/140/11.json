@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 140,
+  "translation": "A dikelme tse chesang di theohela hodima bona; mollong a a latlha, matsitsing a tebileng — hoo ba sa tlaheng.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "a di theohela"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hodima bona"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "dikelme tse chesang"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mollong"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "a a latlha"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "matsitsing a tebileng"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hoo ba sa"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "tlaheng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:09.064829846Z",
+  "model": "glm-5.3"
+}

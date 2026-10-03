@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Mme Farao a re ho Yosefe: Lotoro ke lo torile, empa ha ho mohlalosi wa lona; mme nna ke utlile ka wena ho re: O utlwa loroto mme o ka lona hlalosa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "loroto"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ke lo torile"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "mohlalosi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wa lona",
+      "marks": "loroto"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke utlile"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o utlwa"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "loroto"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "o ka lona hlalosa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "loroto"
+    }
+  ],
+  "timestamp": "2026-10-03T05:37:52.332337561Z",
+  "model": "glm-5.3"
+}

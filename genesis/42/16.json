@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Romelang e mong oa lona, a tle a isa ⟨את⟩ mobo-hae; le lona, pallegang hore lentse la lona le hlahlojwe, hore na 'nete e ⟨le⟩ teng le lona ⟨את⟩; empa ha e se joalo, phela ha Farao, balaodi le tla ba lona.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Romelang"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "oa lona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e mong"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tle a isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mobo-hae"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mobo-hae"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "pallegang"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "le hlahlojwe"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "lentse la lona"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "'nete"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e se joalo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "phela"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le tla ba lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:38:40.190072454Z",
+  "model": "glm-5.3"
+}

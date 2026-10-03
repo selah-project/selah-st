@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme o atise ⟨את⟩ bara ba hae, mme o ba apese dikutonete.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme o atise ⟨את⟩",
+      "marks": "bara ba hae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bara ba hae"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "o atise"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "mme o ba apese"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "dikutonete"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:55.235368263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "Ha o na o boela mme o pholosa bophelo ba rona, hore setjhaba sa hao se tle se thabe ho wena?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ha o na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o boela"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "o pholosa bophelo ba rona"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "mme setjhaba sa hao"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se tle se thabe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:01.413600467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme a re: Nkea ke ke ke kgutlela le ⟨את⟩ uena, kapa ke tsamaisa le ⟨את⟩ uena; le ke ke ke ja borotho kapa ke noa le ⟨את⟩ uena metsi sebakeng sena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nkea"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ke ke ke kgona"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ho kgutlela"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le ⟨את⟩ uena"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "kapa ho tsamaisa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le ⟨את⟩ uena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ke ke ke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "borotho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ke noa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le ⟨את⟩ uena"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:46.002109432Z",
+  "model": "glm-5.3"
+}

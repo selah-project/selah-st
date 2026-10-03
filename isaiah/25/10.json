@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Hobane letsogo la Yahwe le tla phomola thabeng ena, mme Moaba o tla qhuoa ka tlase ha hae, jwalo ka bohlolo bo qhuoa ka har'a metsi a manyoele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "le tla phomola"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "mme o tla qhuoa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ka tlase ha hae"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "jwalo ka ho qhuoa"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "bohlolo"
+    },
+    {
+      "surface": "במי",
+      "gloss": "ka har'a metsi"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "a manyoele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:04.894100271Z",
+  "model": "glm-5.3"
+}

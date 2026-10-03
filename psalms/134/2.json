@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 134,
+  "translation": "Phahamisang matsoho a lona a halalelang, mme lootsa ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Phahamisang"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "matsoho a lona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a halalelang"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "mme lootsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:09.025855270Z",
+  "model": "glm-5.3"
+}

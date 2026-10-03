@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahwe Elohim ya hao o tla mo tsaba, mme ⟨את⟩ yena o tla mo sebeletsa, mme ka lebitso la hae o tla ikana.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "o tla mo tsaba"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "mme ⟨את⟩ yena"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o tla mo sebeletsa"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "mme ka lebitso la hae"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "o tla ikana"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:46.897763855Z",
+  "model": "glm-5.3"
+}

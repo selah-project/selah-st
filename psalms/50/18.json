@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Ha o bona leshodu, o matha le eena, mme karolo ea hao e le har'a ba-lonaka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "o bona"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "leshodu"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "o matha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "ba-lonaka"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "karolo ea hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:09.361544047Z",
+  "model": "glm-5.3"
+}

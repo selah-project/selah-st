@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Bua le bana ba Yisraele, mme o re ho bona: Mahare a Yahwe, ao le tlang ho bitla ⟨את⟩ ona e le makoko a kgalalelo — ke ona mahare a ka.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ו אמרת",
+      "gloss": "mme o re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mahare a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "le tlang ho bitla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ona (mahare)"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "makoko a"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ke ona"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mahare a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:41.386404573Z",
+  "model": "glm-5.3"
+}

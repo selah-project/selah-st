@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Hobane u re pholositse ho ba hanyetsang rona, mme ba hloyang rona u ba hlontshitse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "u re pholositse"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ho ba hanyetsang rona"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "mme ba hloyang rona"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "u ba hlontshitse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:14.616799206Z",
+  "model": "glm-5.3"
+}

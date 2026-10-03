@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Elohim, ha o ile o tsoa pele ho sechaba sa hao, ha o ne o tsamaya sekguting — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ha o ile o tsoa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pela"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sechaba sa hao"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "ha o ne o tsamaya"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "sekguting"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:51.174000262Z",
+  "model": "glm-5.3"
+}

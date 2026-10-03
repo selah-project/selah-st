@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ke tla beha ⟨את⟩ Yerushalayime e be diphaka, legae la dinthanyana, mme ⟨את⟩ dibaka tsa Yehuda ke tla di neha tshwarolahlo, ntle le setsi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Mme ke tla beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "e be diphaka"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "legae"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "la dinthanyana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "dibaka tsa Yehuda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dibaka tsa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla di neha"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tshwarolahlo"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "setsi"
+    }
+  ],
+  "timestamp": "2026-10-03T09:05:28.319104440Z",
+  "model": "glm-5.3"
+}

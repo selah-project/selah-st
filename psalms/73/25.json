@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Ke mang wa ka hodima mahodimo? Mme ho ea oena, ha ke khahle ⟨e mong⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wa ka"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hodima mahodimo"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "Mme ho ea oena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ke khahle"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:59.694072176Z",
+  "model": "glm-5.3"
+}

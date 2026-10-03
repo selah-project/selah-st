@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Harwe ba shoileng, ke lokolotse, joalo ka ba tlabolohileng ba robeleng mabitleng, bao ha o sa ba hopola; mme bona, ka letsoho la hao ba ile ba kgaolwa.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "harwe ba shoileng"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ke lokolotse"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "joalo ka"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ba tlabolohileng"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "ba robeleng"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mabitleng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "o sa ba hopola"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "והמה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ka letsoho la hao"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "ba ile ba kgaolwa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:20.346513530Z",
+  "model": "glm-5.3"
+}

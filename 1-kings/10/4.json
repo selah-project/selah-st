@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Moremohadi wa Sheba a bona ⟨את⟩ bohlale bohle ba Solomone, le ntlo a e ahileng.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "moremohadi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohlale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "le ntlo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a e"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ahileng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:07:29.134927752Z",
+  "model": "glm-5.3"
+}

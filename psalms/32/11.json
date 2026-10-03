@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Thabang ho Yahwe, mehlole, loka-hae; mme oelle ka thabo, lona bohle ba lolameng ka pelo.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Thabang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mehlole"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "loka-hae"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "mme oelle ka thabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ba lolameng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ka pelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:55.018839172Z",
+  "model": "glm-5.3"
+}

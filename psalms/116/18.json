@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Makane a ka ho Yahwe ke tla a lefola, esita hona jwale pelo ya setjhaba sa hae sohle.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "makane a ka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ke tla a lefola"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "pelo ya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "esita hona jwale"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa setjhaba sohle"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setjhaba sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:13.958811339Z",
+  "model": "glm-5.3"
+}

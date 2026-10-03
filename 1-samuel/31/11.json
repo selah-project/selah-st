@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme ba utlile ka yena baahi ba Yabeshe ya Gileade ⟨את⟩ seo Mafiliste a se entseng ho Shaule.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ba utlile"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka yena"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baahi ba"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabeshe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "a se entseng"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Mafiliste"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ho Shaule"
+    }
+  ],
+  "timestamp": "2026-10-03T12:55:49.743459709Z",
+  "model": "glm-5.3"
+}

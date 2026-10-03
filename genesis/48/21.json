@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Mme Yisraele a re ho Yosefa: Bonang, ke a shwela, mme Elohim o tla ba le lona, mme o tla buisa ⟨את⟩ lona ho ya ⟨⟨lefatsheng⟩⟩ la bo-ntata lona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a shwela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme o tla ba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "mme o tla buisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "la bo-ntata lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:03.312669441Z",
+  "model": "glm-5.3"
+}

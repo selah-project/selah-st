@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Ka sebele o tla le khalatya, haeba le nka sefahleho ka bosefo.",
+  "tokens": [
+    {
+      "surface": "הוכיח",
+      "gloss": "ka sebele"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "o tla le khalatya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka bosefo"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "le nka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:22:48.735351445Z",
+  "model": "glm-5.3"
+}

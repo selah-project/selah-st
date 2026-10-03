@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 130,
+  "translation": "Pina ya maemo. Ho tloha hodima maemo a tebileng ke ile ka bitsela ho wena, Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maemo"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "ho tloha hodima maemo a tebileng"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ke ile ka bitsela ho wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:26.958472996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme o ile a ntsha metloho ea metsi hopolang lejwe, mme a theohisa metsi joaloka dinoka.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Mme o ile a ntsha"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "metloho ea metsi"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "hopolang lejwe"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "mme a theohisa"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "joaloka dinoka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:57.767232033Z",
+  "model": "glm-5.3"
+}

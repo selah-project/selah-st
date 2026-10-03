@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme Moshe a bona ⟨את⟩ setjhaba, hobane se ne se sa laolehe, hobane Aharone o ile a se laolla hore e be tlhoho hara ba se qobelang.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "se sa laolehe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "a se laolla"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "hore e be tlhoho"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "hara ba se qobelang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:00:01.299791390Z",
+  "model": "glm-5.3"
+}

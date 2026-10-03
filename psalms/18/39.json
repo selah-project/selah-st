@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Ke ba otla hore ba qheke, ba ke ke ba tsoha; ba wa tlas'a maoto a ka.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "ke ba otla hore ba qheke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba ke ke ba"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgona"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ho tsoha"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ba wa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlas'a"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:10.869885991Z",
+  "model": "glm-5.3"
+}

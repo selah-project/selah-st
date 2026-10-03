@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "O se ke wa makala ho tloha sefahleho sa hae; o se ke wa ema ha taba e mpe; hobane tsohle tseo a di ratang o di etsa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "makala"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ho tloha sefahleho sa hae"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "⟨ho tsamaea⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ema"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ha taba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e mpe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "a di ratang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o di etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:10.943041103Z",
+  "model": "glm-5.3"
+}

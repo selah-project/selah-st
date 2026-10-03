@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 70,
+  "translation": "Empa nna ke mofutsana, ke ya tlhokang; Elohim, pharihela ho 'na; wena ke thuso ya ka le ya nkotlong; Yahwe, o se ke wa diega.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Empa nna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ke mofutsana"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ke ya tlhokang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pharihela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "thuso ya ka"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "le ya nkotlong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "diega"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:29.410201903Z",
+  "model": "glm-5.3"
+}

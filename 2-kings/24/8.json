@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 24:8",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mora wa dilemo tse leshome le robedi Yehoyakhine ho qala ho busa ha hae, mme o busile dikgwedi tse tharo ho Yerushalayime; mme lebitso la mmae e ne e le Nehushta, moraetsana wa Elnatane, wa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mora wa"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "robedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "leshome le"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakhine"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ho qala ho busa ha hae"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "mme tse tharo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "dikgwedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o busile"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ho Yerushalayime"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme lebitso"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "la mmae"
+    },
+    {
+      "surface": "נחשתא",
+      "gloss": "Nehushta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moraetsana wa"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatane"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "wa Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:56.636933814Z",
+  "model": "glm-5.3"
+}

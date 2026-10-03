@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Se ke wa tsaba, hobane ke ⟨את⟩ le wena; ho tloha bochaba ke tla tisa peo ya hao, mme ho tloha bodikela ke tla o phutha.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se ke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wa tsaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena",
+      "marks": "le wena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ho tloha bochaba"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ke tla tisa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya hao"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "mme ho tloha bodikela"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ke tla o phutha"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:20.137362753Z",
+  "model": "glm-5.3"
+}

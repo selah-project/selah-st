@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Le ⟨את⟩ bara ba hae ba babedi, eo lebitso la e nngwe e leng Gereshome, hobane o ile a re: Ke ile ka ba moraetsoe lefatsheng la bafaladi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bara ba hae ba babedi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bara ba hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "la e nngwe"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o ile a re"
+    },
+    {
+      "surface": "גר",
+      "gloss": "moraetsoe"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ile ka ba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "la bafaladi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:45.298004661Z",
+  "model": "glm-5.3"
+}

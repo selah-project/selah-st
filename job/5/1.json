@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Bitsa hle, na ho ea ba ho na le ya ka ho araba oena? Mme o tla kofoha ho mang wa ba halalelang?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Bitsa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hle"
+    },
+    {
+      "surface": "היש",
+      "gloss": "na ho ea ba ho na le"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ya ka ho araba oena"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "ba halalelang"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "o tla kofoha"
+    }
+  ],
+  "timestamp": "2026-10-03T11:21:43.275379016Z",
+  "model": "glm-5.3"
+}

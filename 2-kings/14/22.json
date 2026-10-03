@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Yena o ile a haha ⟨את⟩ Eilate, mme a e busetsa ho Yehuda, ka mora hore morena a robale le bontate ba hae.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Yena"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a haha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilate"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilate"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "a e busetsa"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ho Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora hore"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "a robale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bontate ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:23:02.861304399Z",
+  "model": "glm-5.3"
+}

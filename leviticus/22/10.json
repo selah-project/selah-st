@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme se seng le se seng sa sebakeng se ling ha se je se halalelang; mohlala ya lutang le moprista, le motho ya hiriloeng, ha a je se halalelang.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Mme se seng le se seng"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sa sebakeng se ling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "je"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "se halalelang"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "mohlala ya lutang"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "le motho ya hiriloeng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a je"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "se halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:34.439360242Z",
+  "model": "glm-5.3"
+}

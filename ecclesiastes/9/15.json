@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ho ile ha fumanwa motho wa hloka o hlalephang ka hara oona, mme o ile a lokolla ⟨את⟩ motse ka bohlale ba hae; empa motho ha a ka a hopola ⟨את⟩ motho eo wa hloka.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "mme ho ile ha fumanwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka hara oona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "wa hloka"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "o hlalephang"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "mme o ile a lokolla"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motse"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "ka bohlale ba hae"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "empa motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a ka a"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho eo wa hloka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho eo"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "wa hloka"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:07.638969083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme jwale, tsamaea, mme nna ke tla ba le molomo wa hao, mme ke tla ke keletsa seo o tlang ho se bua.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsamaea"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke tla ba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa hao"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "mme ke tla ke keletsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "o tlang ho se bua"
+    }
+  ],
+  "timestamp": "2026-10-03T05:45:10.702645528Z",
+  "model": "glm-5.3"
+}

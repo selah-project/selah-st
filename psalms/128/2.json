@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 128,
+  "translation": "Mesebetsi ea matsoho a hao o tla e ja; u thabile, me ho molemo ho uena.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Mesebetsi"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ea matsoho a hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "o tla e ja"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "u thabile"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "me ho molemo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho uena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:11.426364615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme a nka, a beha ⟨את⟩ bopaki ka hara arone, a beha ⟨את⟩ ditshepo hodima arone, mme a beha ⟨את⟩ sefalafohodimo hodima arone ka hodimo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bopaki"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka hara"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arone"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshepo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ditshepo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arone"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefalafohodimo"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sefalafohodimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arone"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ka hodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:31.504508583Z",
+  "model": "glm-5.3"
+}

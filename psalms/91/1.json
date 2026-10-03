@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Ya dutlang ka sephiring sa Elyone, ka moru wa Shadai o tla phomola,",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Ya dutlang"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka sephiring sa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ka moru wa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "o tla phomola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:53.502134713Z",
+  "model": "glm-5.3"
+}

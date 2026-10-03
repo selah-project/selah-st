@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme ⟨את⟩ mafura a sehlabelo sa phoso o tla a futhumatsa ho ya hodima alitara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sa sehlabelo sa phoso"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "o tla a futhumatsa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "hodima alitara"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:52.792041333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme a tswea, a nka ⟨את⟩ Gomere, moradi wa Diblayime; mme o imile, mme o mopele mora.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a tswea"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomere"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomere"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi wa"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayime"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "o imile"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o mopele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hae"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    }
+  ],
+  "timestamp": "2026-10-03T10:01:03.941679193Z",
+  "model": "glm-5.3"
+}

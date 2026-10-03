@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme balanka ba morena, ba neng ba lemong wa morena, ba re ho Mordekai: Hobaneng o tlola ⟨את⟩ taelo ya morena?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "balanka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ba morena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ba lemong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa morena"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ho Mordekai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "o tlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo ya morena"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya morena"
+    }
+  ],
+  "timestamp": "2026-10-03T13:17:14.430886167Z",
+  "model": "glm-5.3"
+}

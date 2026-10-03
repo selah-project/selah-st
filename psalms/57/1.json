@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 57,
+  "translation": "Ho moeta-pele wa khwaere: Se senye. Sephini sa Dawide, mokhathame, ha a baleha pel'a Shaule, moholeng.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho moeta-pele wa khwaere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "senye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dawide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mokhathame"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "ha a baleha"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pel'a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "moholeng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:44.313851258Z",
+  "model": "glm-5.3"
+}

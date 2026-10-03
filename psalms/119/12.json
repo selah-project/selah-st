@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "O hlohonolofatse wena, Yahwe; nthute melao ya hao.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "o hlohonolofatse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nthute"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:17.890521329Z",
+  "model": "glm-5.3"
+}

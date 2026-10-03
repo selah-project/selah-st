@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "translation": "Na ba tla baleha ka bobe? Ka tlhahlobo o ise batho fatshe, Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ba tla baleha"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    },
+    {
+      "surface": "באף",
+      "gloss": "ka tlhahlobo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "o ise fatshe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:08.311345841Z",
+  "model": "glm-5.3"
+}

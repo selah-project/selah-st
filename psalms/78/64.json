@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Baprista ba hae ba wa ka sefapano, mme basofe ba hae ha ba a lla.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "baprista ba hae"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka sefapano"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ba wa"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "mme basofe ba hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ba a"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "lla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:27.333704498Z",
+  "model": "glm-5.3"
+}

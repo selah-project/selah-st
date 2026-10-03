@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ditseleng tsa hao tsohle mo tsebe, mme ⟨heno⟩ o tla otlolla ditsela tsa hao.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ditseleng ... tsohle"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "tsa hao"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "mo tsebe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme heno"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "o tla otlolla"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ditsela tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:40.941950369Z",
+  "model": "glm-5.3"
+}

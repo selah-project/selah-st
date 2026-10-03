@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Mme wena, Yahwe, ntsware mohau, mme mphe o mong phahamong, mme ke tla ba lefella.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ntsware mohau"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "mphe o mong phahamong"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "mme ke tla ba lefella"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:07.918653074Z",
+  "model": "glm-5.3"
+}

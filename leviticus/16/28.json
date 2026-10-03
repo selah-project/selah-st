@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme ya li chesang o tla hlatswa diaparo tsa hae, mme a hlatswa ⟨את⟩ mmele wa hae ka metsing, mme ka mora moo a tla kena setsing.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "Mme ya li chesang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li- (obj. li chesang)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "o tla hlatswa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "diaparo tsa hae"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "mme a hlatswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmele wa hae"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mmele wa hae"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka metsing"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mme ka mora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "moo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "a tla kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "setsing"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:52.793773048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Moshe a bolela jwalo ho bana ba Yisraele, mme ba sa mamele ho Moshe, hobane ba na le ruakh e khutsitseng le mešomo e bokguthsitseng.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mamele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "hobane ba na le ... e khutsitseng"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "le mešomo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "e bokguthsitseng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:40.704273697Z",
+  "model": "glm-5.3"
+}

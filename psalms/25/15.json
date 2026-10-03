@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mahlo a ka kanna a lebisitse ho Yahwe, hobane ke eena ea tla ntsoha maoto a ka sekahareng sa thae.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mahlo a ka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke eena"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ea tla ntsoha"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "sekahareng sa thae"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:49.347573380Z",
+  "model": "glm-5.3"
+}

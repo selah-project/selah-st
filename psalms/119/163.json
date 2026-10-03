@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ntšo ke e hloile, mme ke e hlatsoitse; Torat ya hao ke e ratang.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ntšo"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke e hloile"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "mme ke e hlatsoitse"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torat ya hao"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ke e ratang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:31.167015459Z",
+  "model": "glm-5.3"
+}

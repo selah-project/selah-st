@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ha o bona tonki ya ya mo hloyang e robetse ka tlasa moroalo wa yona, mme o dule o siea ⟨⟨e⟩⟩ — o tla e siea ka ho ea le yena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o bona"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "tonki"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ya mo hloyang"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "e robetse"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlasa"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "moroalo wa yona"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "mme o dule"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "o siea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "o tla e siea"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "e siea"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ka ho ea le yena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:28.665073119Z",
+  "model": "glm-5.3"
+}

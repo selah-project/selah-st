@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Matla a ka a omile jwaloka serameng, mme leleme la ka le nametse milomo ya ka; o mpestile sefating sa lefu.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "a omile"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "jwaloka serameng"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "mme leleme la ka"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "le nametse"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "milomo ya ka"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "sefating sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "o mpestile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:59.628076880Z",
+  "model": "glm-5.3"
+}

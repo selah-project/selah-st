@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Ba robalang holimo lifofung tsa meno wa lifofu, ba phalafatsang ka mecheng ya bona, ba jang dinku tse tona tsa linku, le dinku tse nnyane tse tswang mmusong wa dinku!",
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "ba robalang"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "lifofu"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tsa meno"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "ba phalafatsang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "mecheng ya bona"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "ba jang"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "dinku tse tona"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "tsa linku"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "le dinku tse nnyane"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "tse tswang"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "mmusong wa dinku"
+    }
+  ],
+  "timestamp": "2026-10-03T10:07:40.602850682Z",
+  "model": "glm-5.3"
+}

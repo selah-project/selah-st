@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 10:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Ba fihla hoo a ba fihlela Gibea, mme bonang, sehole sa baporofeta se mo amohela; ruakh ya Elohim ea atleha ho yena, a ba a porofeta har'a bona.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hoo"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "sehole"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "baporofeta"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "se mo amohela"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "ea atleha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "a porofeta"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "har'a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:35:38.647622308Z",
+  "model": "glm-5.3"
+}

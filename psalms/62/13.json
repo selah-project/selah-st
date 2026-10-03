@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 62,
+  "translation": "Mme ho wena, Adonai, ho na le hesede; hobane u tla lefuela ⟨את⟩ motho e mong le e mong ka meketla wa hae.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Mme ho wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "u tla lefuela"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨את⟩ motho e mong le e mong"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "ka meketla wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:52.765288604Z",
+  "model": "glm-5.3"
+}

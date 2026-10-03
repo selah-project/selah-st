@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Hoseng ha ho ile hoa fofatsa, banna ba romoloa, bona le liponyi tsa bona.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ha ho ile hoa fofatsa"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ba romoloa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "le liponyi tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:40:01.321584080Z",
+  "model": "glm-5.3"
+}

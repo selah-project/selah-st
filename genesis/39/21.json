@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme Yahwe o ne a le ⟨את⟩ Yoseefe, mme a phatlalatsa hesede ho yena, mme a neha khahello ya hae mahlong a mookamedi wa ntlo ya tjhankane.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme ... o ne a le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoseefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseefe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "a phatlalatsa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a neha"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "khahello ya hae"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa ntlo ya"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "tjhankane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:12.521582282Z",
+  "model": "glm-5.3"
+}

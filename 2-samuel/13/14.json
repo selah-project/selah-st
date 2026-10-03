@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Empa ha a ka a dumela ho mamela lentswe la hae, mme a hola ho feta yena, a mo tlodisa, a robala ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "a ka a dumela"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ho mamela"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "lentswe la hae"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "a hola"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ho feta yena"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "a mo tlodisa"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-10-03T07:51:47.796310298Z",
+  "model": "glm-5.3"
+}

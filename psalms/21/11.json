@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Senoa sa bona o tla se senya ho tloha lefatsheng, le peo ya bona ho tloha ho bana ba motho.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "Senoa sa bona"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lefatsheng"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "o tla se senya"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "le peo ya bona"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ho tloha ho bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:15.698976729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme a nka ⟨את⟩ enampou eo ba neng ba e entse, a e chesa ka mollo, a e fothla ho fihlela e le monotjana, a e phatlalatsa hodima bokahodimo ba metsi, mme a fana hore ⟨את⟩ bara ba Yisraele ba noye.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mme a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enampou"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "enampou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba neng ba e entse"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "a e chesa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "a e fothla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e le"
+    },
+    {
+      "surface": "דק",
+      "gloss": "monotjana"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "a e phatlalatsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פני",
+      "gloss": "bokahodimo ba"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "mme a fana hore ba noye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bara ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:58.017960498Z",
+  "model": "glm-5.3"
+}

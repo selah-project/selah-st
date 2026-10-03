@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Ho ea ho mohlahisi. Seteramane sa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho ea ho mohlahisi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Seteramane"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:31.908904569Z",
+  "model": "glm-5.3"
+}

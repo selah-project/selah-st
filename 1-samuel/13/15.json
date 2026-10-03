@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme Shemuele a tsoha, a ea hodima ho tloha Gilgale ea ya Gibeate ya Benjamine; mme Saule a bala ⟨את⟩ batho ba neng ba fumaneha ho yena, e le ka makgolo a tsheletseng a banna.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tsoha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuele"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a ea hodima"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgale"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibeate"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ya Benjamine"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mme a bala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ba neng ba fumaneha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "e le ka"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a tsheletseng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a banna"
+    }
+  ],
+  "timestamp": "2026-10-03T07:36:00.184274099Z",
+  "model": "glm-5.3"
+}

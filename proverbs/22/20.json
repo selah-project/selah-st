@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Na ha ke a ngola ho wena ka makgetlo a mararo, ka mekhatlo le tsebo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "na ha"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "ke a ngola"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ka makgetlo a mararo"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "ka mekhatlo"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "le tsebo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:14:39.079511868Z",
+  "model": "glm-5.3"
+}

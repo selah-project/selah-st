@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 5:5",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Hobane setjhaba sohle se neng se tswa se ne se fileloa; mme setjhaba sohle se tsejaleng sekhutlong, tseleng, ha se tswa Mitsrayime, ha se a filela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "se ne se fileloa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "se tswang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ... sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "se tsejaleng"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sekhutlong"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ha se tswa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "se a filela"
+    }
+  ],
+  "timestamp": "2026-10-03T07:04:58.186468119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ha o hlakahala, o hlakala molemong oa hao; mme ha o tshehisa, o ikgethela o mong hore o jare ⟨se jeo⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "o hlakahala"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "o hlakala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "molemong oa hao"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "mme ha o tshehisa"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "o ikgethela o mong"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "hore o jare"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:06.543686473Z",
+  "model": "glm-5.3"
+}

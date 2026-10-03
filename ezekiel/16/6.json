@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 16:6",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme ka feta ho wena, ka u bona o timetse mading a hao, mme ka re ho wena, mading a hao: phele! Eee, ka re ho wena, mading a hao: phele!",
+  "tokens": [
+    {
+      "surface": "ואעבר",
+      "gloss": "mme ka feta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ואראך",
+      "gloss": "ka u bona"
+    },
+    {
+      "surface": "מתבוססת",
+      "gloss": "o timetse"
+    },
+    {
+      "surface": "בדמיך",
+      "gloss": "mading a hao"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mme ka re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "בדמיך",
+      "gloss": "mading a hao"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "phele!"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "eee, ka re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "בדמיך",
+      "gloss": "mading a hao"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "phele!"
+    }
+  ],
+  "timestamp": "2026-10-03T13:04:52.344864551Z",
+  "model": "glm-5.3"
+}

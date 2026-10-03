@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Lokolla Elohim ⟨את⟩ Yisraele ho tswa ditsietsing tsa hae tsohle.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Lokolla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tswa tsohle"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ditsietsing tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:15.242924088Z",
+  "model": "glm-5.3"
+}

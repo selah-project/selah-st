@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Elkanaha mora wa hae, le Ebiasafe mora wa hae, le Asire mora wa hae.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanaha"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "le Ebiasafe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "le Asire"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:18:42.037119679Z",
+  "model": "glm-5.3"
+}

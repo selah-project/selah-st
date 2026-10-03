@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "le Naamane, le Ahiya, le Geraye; yena eo ba mo hakotseng; mme o tswetsa ⟨את⟩ Uza le ⟨את⟩ Ahikhude.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "le Naamane"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "le Ahiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "le Geraye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "eo ba mo hakotseng"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "mme o tswetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ahikhude"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Ahikhude"
+    }
+  ],
+  "timestamp": "2026-10-03T12:12:26.419085693Z",
+  "model": "glm-5.3"
+}

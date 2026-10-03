@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "O fetola ⟨את⟩ lewatle ho ba naha e omileng; ba oa ka maoto ka hara molamu; koo re ile ra thaba ho yena.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "O fetola"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ho ba naha e omileng"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "ka hara molamu"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ba oa"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ka maoto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "ra thaba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:36.945832832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Hobaneng o pata sefahleho sa hau, o lekeha bothata ba rona le tlhokomelo e mpe ya rona?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hau"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "o pata"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "o lekeha"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "bothata ba rona"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "le tlhokomelo e mpe ya rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:21.673373079Z",
+  "model": "glm-5.3"
+}

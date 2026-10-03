@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Sefela se rutang sa Asafe. Khotsofatsang litsebe, sechaba sa ka, ho Torah ya ka; thamalang litsebe tsa lona ho mantswe a molomo wa ka.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Sefela se rutang"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "sa Asafe"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Khotsofatsang litsebe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sechaba sa ka"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ho Torah ya ka"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "thamalang"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "litsebe tsa lona"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ho mantswe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:19.940217199Z",
+  "model": "glm-5.3"
+}

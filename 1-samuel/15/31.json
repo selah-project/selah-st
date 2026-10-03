@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme Shemuele a khutlela morao ho Seole, mme Seole a inehele ho Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Mme ... a khutlela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morao ho"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seole"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "mme ... a inehele"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seole"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:38:04.397825191Z",
+  "model": "glm-5.3"
+}

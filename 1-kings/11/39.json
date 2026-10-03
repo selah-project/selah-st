@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme ke tla hlorisa ⟨את⟩ peo ea Dawide ka baka la se; empa eseng ka matsatsi ohle.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "Mme ke tla hlorisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peo ea Dawide"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ea Dawide"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "אך",
+      "gloss": "empa eseng"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:42.407211420Z",
+  "model": "glm-5.3"
+}

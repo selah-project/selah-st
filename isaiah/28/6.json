@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "le ruakh ya kahlolo bakeng sa ya duloang hodima kahlolo, le matla bakeng sa ba boelisang ntwa lehlakoreng la mongwao.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "le ruakh ya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "bakeng sa ya duloang"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "kahlolong"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "le matla bakeng sa"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "ba boelisang"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "mongwaong"
+    }
+  ],
+  "timestamp": "2026-10-03T08:42:23.529297228Z",
+  "model": "glm-5.3"
+}

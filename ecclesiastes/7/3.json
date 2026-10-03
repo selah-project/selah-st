@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Kgalefo e letle ho feta tshehi, hobane ka boso ba sefahleho pelo e ntlafala.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "e letle"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "Kgalefo"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ho feta tshehi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ka boso ba"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "e ntlafala"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:14.809114845Z",
+  "model": "glm-5.3"
+}

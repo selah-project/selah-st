@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme Dawide a re ho Abnere: A ha wena ⟨u⟩ monna, mme o mang ea tshwanang le wena ho Yisraele? Hobaneng ha o sa boloke monga hao, morena? Hobane o mong wa setjhaba o ile a tla ho timetsa ⟨את⟩ morena, monga hao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abnere"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mme o mang"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ea tshwanang le wena"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ho Yisraele"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha o sa"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "boloke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "monga hao"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "monga hao"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o ile a tla"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o mong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa setjhaba"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "ho timetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "monga hao"
+    }
+  ],
+  "timestamp": "2026-10-03T07:46:30.700006251Z",
+  "model": "glm-5.3"
+}

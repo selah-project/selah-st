@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "O ile a ikhohomosa thapelong ya ya hlokolohang, mme ha a hlobe ⟨את⟩ thapelo ya bona.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "o ile a ikhohomosa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "thapelo ya"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "ya hlokolohang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "a hlobe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thapelo ya bona"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "thapelo ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:55.686006306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme re llela Yahwe, Elohim ya bo-ntate rona; mme Yahwe a utlwa ⟨את⟩ lentswe la rona, mme a bona ⟨את⟩ bofokodi ba rona le ⟨את⟩ boima ba rona le ⟨את⟩ tlhaselo ya rona.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "re llela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ya bo-ntate rona"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la rona"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "lentswe la rona"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bofokodi ba rona"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "bofokodi ba rona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "boima ba rona"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "boima ba rona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tlhaselo ya rona"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "tlhaselo ya rona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:56.411814504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 12:10",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Ba tla hloekiswa, ba tla hesofatswa, ba tla aroloa ba bangata; mme ba fosahetseng ba tla etsa boshula, mme ba fosahetseng ohle ha ba qonde; empa ba hlalefang ba tla qonda.",
+  "tokens": [
+    {
+      "surface": "יתבררו",
+      "gloss": "Ba tla hloekiswa"
+    },
+    {
+      "surface": "ויתלבנו",
+      "gloss": "ba tla hesofatswa"
+    },
+    {
+      "surface": "ויצרפו",
+      "gloss": "ba tla aroloa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bangata"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ba tla etsa boshula"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba fosahetseng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ba qonde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba fosahetseng"
+    },
+    {
+      "surface": "והמשכלים",
+      "gloss": "empa ba hlalefang"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ba tla qonda"
+    }
+  ],
+  "timestamp": "2026-10-03T11:56:27.916382909Z",
+  "model": "glm-5.3"
+}

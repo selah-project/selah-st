@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ke ka bala mafupa a ka ohle; ⟨ bona ba sheba, ba lebelela ka nna.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "ke ka bala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mafupa a ka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨bona⟩"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ba sheba"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba lebelela"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:56.473456446Z",
+  "model": "glm-5.3"
+}

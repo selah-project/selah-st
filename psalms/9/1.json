@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ho moetapele wa bqini, ka Almute Labene. Sefela sa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moetapele wa bqini"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ka Almute"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labene"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Sefela"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:26.676540841Z",
+  "model": "glm-5.3"
+}

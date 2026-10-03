@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ba etse nna sebakeng se halalelang, mme ke tla dula har'a bona;",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ba etse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna \/ bakeng sa ka"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "sebakeng se halalelang (ḥolimo ea hae)"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "mme ke tla dula"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "har'a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:41.114316169Z",
+  "model": "glm-5.3"
+}

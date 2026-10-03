@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Hobane diphoso tsa ka di feta tlase ho hloho ya ka; jwaloka mohato o boima, di nkima haholo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "diphoso tsa ka"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "di feta"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "tlase ho hloho ya ka"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "jwaloka mohato"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "o boima"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "di nkima haholo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho feta ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:05.268049429Z",
+  "model": "glm-5.3"
+}

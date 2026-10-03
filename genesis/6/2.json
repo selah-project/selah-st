@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme bara ba Elohim ba bona ⟨את⟩ baradi ba batho, hore ba le botle, mme ba nya batho ba bohle bao ba ba khethileng.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baradi ba batho"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "baradi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ba batho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "ba le botle"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨bona⟩"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mme ba nya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "batho ba"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bahole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "ba ba khethileng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:54.922957804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Ho moetapele wa mmino. Sephooko sa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho moetapele wa mmino"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sephooko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:31.704969912Z",
+  "model": "glm-5.3"
+}

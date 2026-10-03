@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme moraana wa Para a re ho yena: Tsamaea. Mme ngwanetsana a tsamaea, mme a bitlsa ⟨את⟩ mme wa ngwana.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moraana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Para"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Tsamaea"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "mme a tsamaea"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "ngwanetsana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "mme a bitlsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mme wa ngwana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mme"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wa ngwana"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:32.309815787Z",
+  "model": "glm-5.3"
+}

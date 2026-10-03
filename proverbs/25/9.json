@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Lolla kgetho ya hao le ⟨את⟩ motswalle wa hao, mme sephiri sa motho o mong o se ke wa senola.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "kgetho ya hao"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "lolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motswalle wa hao"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "motswalle wa hao"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "mme sephiri"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa motho o mong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "senola"
+    }
+  ],
+  "timestamp": "2026-10-03T11:15:20.946660574Z",
+  "model": "glm-5.3"
+}

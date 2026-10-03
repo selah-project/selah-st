@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Sebakeng sa lewatle ⟨ke⟩ tsela ya hao, meela ya hao har'a metsi e mengata; mme ditlhaku tsa hao ha di a tsejwa.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "sebakeng sa lewatle"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ya hao"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "mme meela ya hao"
+    },
+    {
+      "surface": "במים",
+      "gloss": "har'a metsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "e mengata"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "mme ditlhaku tsa hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "di a tsejwa"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:56.493507784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 121,
+  "translation": "Thuso ya ke e tla ho tloha ho Yahwe, ea bopileng mahodimo le lefatshe.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "thuso ya ka"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ho tloha ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ea bopileng"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:27.432415993Z",
+  "model": "glm-5.3"
+}

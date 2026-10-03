@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 75,
+  "translation": "Le se ke la phahamisa hodimo lekoko la lona; le se ke la bua ka boika ka molala.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "phahamisa"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "lekoko la lona"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "le bua"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ka molala"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "boika"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:39.794428958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 141,
+  "translation": "Hobane mahlo a ka a le ho Yahwe, Adonai; ho wena ke tshepile; se ke wa hlatswa moya wa ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "תער",
+      "gloss": "hlatswa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:03.860091685Z",
+  "model": "glm-5.3"
+}

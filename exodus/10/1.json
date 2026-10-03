@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Yahwe a re ho Moshe: Tsena ho Farao, hobane nna ke entse hore ⟨את⟩ pelaelo ya hae e boime, le ⟨את⟩ pelaelo ya bokgobokoni ba hae, hore ke beke matshwao a ka tsena hara bona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "ke entse hore e boime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelaelo ya hae"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelaelo ya hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "pelaelo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelaelo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ya bokgobokoni ba hae"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ke beke"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "matshwao a ka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "hara bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:41.952925263Z",
+  "model": "glm-5.3"
+}

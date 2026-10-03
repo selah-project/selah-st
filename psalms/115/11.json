@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 115,
+  "translation": "Lō ba tšabang Yahwe, tshepang ho Yahwe; o thuso ya lona le sehlele ya lona.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Lō ba tšabang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "tshepang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "thuso ya lona"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "le sehlele ya lona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:05.861663910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Farao a re: Bonang, sechaba sa ⟨⟨the⟩⟩ lefatshe se ngata kajeno, mme le ba emisa ⟨את⟩ bona ho mesiro ea bona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ngata"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "le ba emisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "ho mesiro ea bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:58.606949451Z",
+  "model": "glm-5.3"
+}

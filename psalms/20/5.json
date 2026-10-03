@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "A ahe ho wena ho ya ka pelo ya hau, mme a phethe maano a hao kaofela.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "a ahe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "ho ya ka pelo ya hau"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ... kaofela"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "maano a hao"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "a phethe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:37.501223910Z",
+  "model": "glm-5.3"
+}

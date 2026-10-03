@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme ke tla busetsoa ⟨את⟩ botshabelo ba Yehuda le ⟨את⟩ botshabelo ba Yisraele, mme ke tla ba aha jwaloka pele.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Mme ke tla busetsoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshabelo ba Yehuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "botshabelo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "botshabelo ba Yisraele"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "botshabelo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "mme ke tla ba aha"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "jwaloka pele"
+    }
+  ],
+  "timestamp": "2026-10-03T09:20:03.606876423Z",
+  "model": "glm-5.3"
+}

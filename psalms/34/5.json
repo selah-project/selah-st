@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ke ne ke batla ⟨את⟩ Yahwe, mme a araba, mme a ntlohotsa ho tloha ho dikotsi tsohle tsa ka tse neng di ntshaba.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Ke ne ke batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "mme a araba"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ho tloha ho tsohle tsa"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "dikotsi tsa ka tse neng di ntshaba"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "a ntlohotsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:00.144364330Z",
+  "model": "glm-5.3"
+}

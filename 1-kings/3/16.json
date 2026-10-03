@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ka nako eo basadi babedi, balekane, ba fihla ho morena, ba ema pele ga hae.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "babedi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "balekane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "ba ema"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ga hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:01:48.498487621Z",
+  "model": "glm-5.3"
+}

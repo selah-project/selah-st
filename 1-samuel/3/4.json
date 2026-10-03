@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Yahwe a bitla Shemueele, mme a re: Ke teng, ke ea.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Mme ... a bitla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ke teng, ke ea"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:04.524715293Z",
+  "model": "glm-5.3"
+}

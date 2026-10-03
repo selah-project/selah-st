@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 95,
+  "translation": "Dilemo tse mashome a mane ka nako eo, Yahwe o ile a ikhohomosa le seholo seo, a re: Se ke la etsa jwalo—setjhaba se tselang ka lipelaelo tse khōlō: ba sa tsebeng mehla ea habe.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "tse mashome a mane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ka ikhohomosa"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "le seholo seo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "se tselang"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ka lipelaelo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tsebeng"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mehla ea habe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:53.085772237Z",
+  "model": "glm-5.3"
+}

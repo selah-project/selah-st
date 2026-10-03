@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ka moporofeta Yahwe o ile a hlahisa ⟨את⟩ Yisraele ho tloha Mitsrayime, mme ka moporofeta o ile a bolokwa.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "mme ka moporofeta"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "o ile a hlahisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho tloha Mitsrayime"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "mme ka moporofeta"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "o ile a bolokwa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:01:33.008617250Z",
+  "model": "glm-5.3"
+}

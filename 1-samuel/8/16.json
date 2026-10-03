@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme ⟨את⟩ balebeli ba lona ba banna, le ⟨את⟩ makgarebe a lona a sebeletsi, le ⟨את⟩ bashanyana ba lona ba ntle, le ⟨את⟩ dipitse tsa lona tsa nama, o tla li nka, a li etsela mosebetsi wa hae.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "balebeli ba lona ba banna"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "balebeli ba lona ba banna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "makgarebe a lona a sebeletsi"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "makgarebe a lona a sebeletsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bashanyana ba lona"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "bashanyana ba lona"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ba ntle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dipitse tsa lona tsa nama"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "dipitse tsa lona tsa nama"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tla li nka"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a li etsela"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "mosebetsi wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:38.934630154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme o tla rata ⟨את⟩ Yahwe Elohim ya hao, ka pelo ya hau kaofela, le ka bophelo ba hau kaofela, le ka matla a hau kaofela.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "o tla rata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka kaofela"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya hau"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka kaofela"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bophelo ba hau"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka kaofela"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "matla a hau"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:02.415996818Z",
+  "model": "glm-5.3"
+}

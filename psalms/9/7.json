@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Moeling o fedile; mafaratlhatse hohle-hohle; mme metse o e hlajeditse; sekhopo sa tsona se timetse — bona.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "moeling"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "o fedile"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mafaratlhatse"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hohle-hohle"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "mme metse"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "o e hlajeditse"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "se timetse"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "sekhopo sa tsona"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:38.196513781Z",
+  "model": "glm-5.3"
+}

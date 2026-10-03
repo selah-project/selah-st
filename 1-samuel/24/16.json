@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme Yahwe a be Moahlodi, mme a ahloka nna le wena, mme a bone, mme a lwe karolo ya ka ⟨את⟩, mme a ntsireletse ho tswa ho letsoho la hao.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme a be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "Moahlodi"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "mme a ahloka"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mme a bone"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "mme a lwe karolo ya ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karolo ya ka"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "karolo ya ka"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "mme a ntsireletse"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ho tswa ho letsoho la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T07:41:43.284818586Z",
+  "model": "glm-5.3"
+}

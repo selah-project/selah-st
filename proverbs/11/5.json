@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Tsedeke ya motho ya ho tletse bophara e tlodisa tsela ya hae; mme ka boikutloo hae ea molato, moea o mpe o tla wa.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "tsedeke ya"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "motho ya ho tletse bophara"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "e tlodisa"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tsela ya hae"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "mme ka boikutloo hae ea molato"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "o tla wa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moea o mpe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:08:43.242956138Z",
+  "model": "glm-5.3"
+}

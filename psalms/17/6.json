@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Nna ke bile ke bitsa oena, hobane o tla araba nna, El; o tketse tsebe ya hao ho nna, utlwe lentswe la ka.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ke bile ke bitsa oena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "o tla araba nna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "o tketse"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tsebe ya hao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "utlwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "lentswe la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:18.376367373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "O etsa dinoka hore e be naha e omileng, mme metsi a tlang junong e be sebakeng se omileng sa bosele.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "O etsa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "hore e be naha e omileng"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "mme a tlang junong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "e be sebakeng se omileng sa bosele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:43.757394534Z",
+  "model": "glm-5.3"
+}

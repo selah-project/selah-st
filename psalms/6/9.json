@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Fetohang ho tloha ho eena, lona kaofela ba etsang boheteha; hobane Yahwe o utlile ⟨lentswe⟩ la lla la ka.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "fetohang"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho tloha ho eena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "און",
+      "gloss": "boheteha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o utlile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "lla la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:21:53.160966290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ha mollu o tswa mme o fumana dinthunthunya, mme mekhahlelo kapa jala kapa ⟨the⟩ tšimo e jwa, ya bekang mollu o tla lefola ka botlalo ⟨את⟩ tšenyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "o tswa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollu"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "mme o fumana"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "dinthunthunya"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "mme e jwa"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "mekhahlelo"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "jala"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tšimo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "o tla lefola"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "ya bekang mollu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tšenyo"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "tšenyo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:09.408869366Z",
+  "model": "glm-5.3"
+}

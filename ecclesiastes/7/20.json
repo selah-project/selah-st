@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Hobane motho ha ho ya lokileng ⟨ho ya⟩ lefatshe, ya etsang molemo mme a sa etsa sebe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya lokileng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "etsang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "etsa sebe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:23.525651032Z",
+  "model": "glm-5.3"
+}

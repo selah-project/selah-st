@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 34:14",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Hobane kgetho ya bana ba Reubene, ka malapa a bo bona, le kgetho ya bana ba Gadi, ka malapa a bo bona, le halofo ya kgetho ya Manase, di ile tsa amohela bojwala ba tsona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "di ile tsa amohela"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kgetho ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka malapa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "a bo bona"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "le kgetho ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka malapa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "a bo bona"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le halofo ya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kgetho"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manase"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "di ile tsa amohela"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "bojwala ba tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:40:36.479134250Z",
+  "model": "glm-5.3"
+}

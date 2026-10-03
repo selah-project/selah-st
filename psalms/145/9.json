@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Yahwe o molemo ho ⟨⟩ ba leka lekaneng, mme merapo ya hae e le hodima mesebetsi ya hae yohle.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "o molemo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho ba leka lekaneng"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "mme merapo ya hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mesebetsi ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:18.766085734Z",
+  "model": "glm-5.3"
+}

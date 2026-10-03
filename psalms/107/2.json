@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "A re bolele ba lokolotsweng ba Yahwe, ao a ba lokolotseng letsatsing la sebata;",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "A re bolele"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "ba lokolotsweng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ba Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "a ba lokolotseng"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "letsatsing la"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sebata"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:38.173774340Z",
+  "model": "glm-5.3"
+}

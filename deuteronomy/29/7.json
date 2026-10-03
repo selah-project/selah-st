@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme ra nka ⟨את⟩ lefatshe la bona, mme ra le fa ho ba bofallwa, ho Raubene le ho Gade le ho seripa sa khotla ya Manase.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "mme ra nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la bona"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lefatshe la bona"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "mme ra le fa"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ho ba bofallwa"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ho Raubene"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "le ho Gade"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "le ho seripa sa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "khotla"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "ya Manase"
+    }
+  ],
+  "timestamp": "2026-10-03T07:00:07.622352375Z",
+  "model": "glm-5.3"
+}

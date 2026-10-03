@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Bonang, 'nete o e rata sebopehong, mme ho disa tsa ka o tla ntsebisa bohlale.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "'nete"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "o e rata"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "sebopehong"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "mme ho disa tsa ka"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "o tla ntsebisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:16.170835038Z",
+  "model": "glm-5.3"
+}

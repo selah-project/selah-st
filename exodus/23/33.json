@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ba se ke ba dula naheng ya hao, esele ba ka etsa hore o seke wa phoso ⟨אתך⟩ ho ya ho Yahwe, hobane o tla sebeletsa ⟨את⟩ melimo ya bona, hobane e tla ba eo ho wena e le mohele.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "naheng ya hao"
+    },
+    {
+      "surface": "פן",
+      "gloss": "esele"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "ba ka etsa hore o phoso"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ho ya ho Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ya ho Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o tla sebeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melimo ya bona"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "melimo ya bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "mohele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:15.542576929Z",
+  "model": "glm-5.3"
+}

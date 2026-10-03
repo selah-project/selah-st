@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 76,
+  "translation": "Uena, u a ts'oha-nya; uena — ke mang ea ka emang pele ho uena, hanghang ha u tlaleha?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Uena"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "u a ts'oha-nya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ea ka emang"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ho uena"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "hanghang"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ha u tlaleha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:25.431879409Z",
+  "model": "glm-5.3"
+}

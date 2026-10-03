@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme Moshe a bua matsatsing ake a tsehle a kopano ya Yisraele yohle ⟨את⟩ mafoko a sebineli sena, ho fihlela ho qetela.",
+  "tokens": [
+    {
+      "surface": "ולדבר",
+      "gloss": "mme a bua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ditablelong tsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kopano ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mafoko a"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "sebineli"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ho qetela"
+    }
+  ],
+  "timestamp": "2026-10-03T07:01:23.914294153Z",
+  "model": "glm-5.3"
+}

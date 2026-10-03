@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Dinku le dikgomo, tsohle tsona, le diphoofolo tsa masimo.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Dinku"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "le dikgomo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tsohle tsona"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "diphoofolo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tsa masimo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:31.311377250Z",
+  "model": "glm-5.3"
+}

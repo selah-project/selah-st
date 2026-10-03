@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "le ⟨את⟩ diaparo tsa tshebeletso, le ⟨את⟩ diaparo tse halalelang tsa Aharone moprista, le ⟨את⟩ diaparo tsa baruta bx'a hae, hore ba tle ba tlotse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diaparo tsa tshebeletso"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "tshebeletso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diaparo tse halalelang tsa Aharone moprista"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tse halalelang tsa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tse halalelang"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "tsa Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diaparo tsa baruta bx'a hae"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "baruta bx'a hae"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "hore ba tle ba tlotse"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:48.794793082Z",
+  "model": "glm-5.3"
+}

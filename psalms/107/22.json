@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Mme a fanye lipolelo tsa teboho, mme a phete mesebetsi ya hae ka thabalalo.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "mme a fanye"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "lipolelo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tsa teboho"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "mme a phete"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mesebetsi ya hae"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ka thabalalo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:59.569873348Z",
+  "model": "glm-5.3"
+}

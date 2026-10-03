@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 149,
+  "translation": "Dithoriso tse phahameng tsa El di ka mometeng oa bona, le tlhaku ea maoto ka matsong a bona.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "dithoriso tse phahameng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "di ka mometeng oa bona"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "le tlhaku ea maoto"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "e nang le matheko a mabeli"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ka matsong a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:57.007283786Z",
+  "model": "glm-5.3"
+}

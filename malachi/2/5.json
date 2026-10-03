@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Selekane sa ka se ne se le le eena ⟨את⟩ — sa bophelo le sa kagiso; mme ka neela ⟨tshabo⟩ ho eena, mme o ile a ntshaba, mme a hlokahala pele ho lebitso la ka, eena.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "Selekane sa ka"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "se ne se le"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le eena ⟨את⟩",
+      "marks": "Levia"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "le kagiso"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "mme ka neela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "tshabo"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "mme o ile a ntshaba"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "mme pele ho"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "lebitso la ka"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "a hlokahala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:21:06.538962635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Mahodimo le lefatshe a mo tlotse; mabopo le tsohle di tsamayang ho tsona.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "a mo tlotse"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le lefatshe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mabopo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsohle"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "di tsamayang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ho tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:54.808415413Z",
+  "model": "glm-5.3"
+}

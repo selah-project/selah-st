@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 120,
+  "translation": "Nako e telele haholo ⟨e ile ya⟩ feta, moya wa ka o duleng le ya hloyang khotso.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "nako e telele haholo"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "o duleng"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨e ile ya⟩ feta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ya hloyang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:23.571081307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Momohong oa mo lokileng o bolela bohlale, mme leleme la hae le bua toka.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "momohong"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "oa mo lokileng"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "o bolela"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "mme leleme la hae"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "le bua"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:43.371598500Z",
+  "model": "glm-5.3"
+}

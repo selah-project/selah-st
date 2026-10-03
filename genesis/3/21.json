@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Yahwe Elohim o ile a etsa bakeng sa Adame le mosadi wa hae diaparo tsa letlalo, mme a ba apesa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "bakeng sa Adame"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "le mosadi wa hae"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "mme a ba apesa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:12.086130677Z",
+  "model": "glm-5.3"
+}

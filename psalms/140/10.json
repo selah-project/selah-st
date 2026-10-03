@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 140,
+  "translation": "Hlogo ya ba ntsidikanyang, bothata ba melomo ea bona bo ba phufalle.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "ya ba ntsidikanyang"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bothata"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "melomo ea bona"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "bo ba phufalle"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:09.064713551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "translation": "Ho tsepamisa ha ka o se ke wa ua ho o ntsekele; u behe lilemo tsa ka kahare ho setsha sa hao; na ha di scriverwe kahare ho buka ya hao?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "ho tsepamisa ha ka"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "o se ke wa ua ho o ntsekele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "u behe"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "lilemo tsa ka"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "kahare ho setsha sa hao"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "kahare ho buka ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:14.790646196Z",
+  "model": "glm-5.3"
+}

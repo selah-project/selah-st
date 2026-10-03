@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Ke tla lebisa teboho ho Yahwe — ke ka hohle u mphotseng; lipelo tsa mesebetsi ya hao, mme moea oa ka oa e tseba haholo.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ke tla lebisa teboho ho U"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hohle"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "u mphotseng"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "lipelo tsa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mesebetsi ya hao"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "moea oa ka"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "oa tseba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:36.081359081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Metse yohle ya pelong, le Gilkeade yohle, le Bashane yohle, ho fihlela Salekhake le Ederei, metse ya bogosi bja Oge, ho Bashane.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse ya"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "pelong"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le yohle"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilkeade"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le yohle"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salekhake"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "le Ederei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse ya"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "bogosi bja"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oge"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ho Bashane"
+    }
+  ],
+  "timestamp": "2026-10-03T06:42:34.424915322Z",
+  "model": "glm-5.3"
+}

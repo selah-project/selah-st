@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme ba beha ⟨את⟩ dibetsa tsa hae ntlong ea Ashatarote, mme ⟨את⟩ mmele wa hae ba mo kwentse hodima sebete sa Beti-Sheane.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ba beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibetsa tsa hae"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dibetsa tsa hae"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ea"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashatarote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "mmele wa hae"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "mmele wa hae"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ba kwentse"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "hodima sebete sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Sheane"
+    }
+  ],
+  "timestamp": "2026-10-03T12:54:42.711430942Z",
+  "model": "glm-5.3"
+}

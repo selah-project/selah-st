@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Hape marena a dula, ba bolela kgahlanong le nna; mokolua wa hao o nahanela ka melao ya hao.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hape"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "marena"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mokolua wa hao"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "o nahanela"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ka melao ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:30.561407320Z",
+  "model": "glm-5.3"
+}

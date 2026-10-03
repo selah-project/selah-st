@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Hobane ho bolela Yahwe: le batho ba tsekweng ba matla ho tla tsekoa, le se tsekweng sa terane ho tla lokolloa; mme ⟨את⟩ molweli wa hao ke nna ya tla lwela, mme ⟨את⟩ bana ba hao ke nna ya tla pholosa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "batho ba tsekweng"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ba matla"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ho tla tsekoa"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "mme se tsekweng"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "sa terane"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ho tla lokolloa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "molweli wa hao"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "molweli wa hao"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ya tla lwela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba hao"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba hao"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ya tla pholosa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:53:19.414909468Z",
+  "model": "glm-5.3"
+}

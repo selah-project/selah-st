@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Na ha o tsejwe ⟨את⟩ Abenere mora wa Nere, hore o ile a tla ho o hlokisa, le ho tseba ⟨את⟩ ho tswa ho hao le ⟨את⟩ ho kena ho hao, le ho tseba ⟨את⟩ tsohle tseo o di etsang?",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Na ha o tsejwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abenere"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abenere"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "נר",
+      "gloss": "wa Nere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "ho o hlokisa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "le ho tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ho tswa ho hao"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ho tswa ho hao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ho kena ho hao"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ho kena ho hao"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "le ho tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "di etsang"
+    }
+  ],
+  "timestamp": "2026-10-03T07:48:20.337847269Z",
+  "model": "glm-5.3"
+}

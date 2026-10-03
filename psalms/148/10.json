@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "Diphofolo tsa lehwere le diphoofolo tsohle tsa lelapa; diphofolo tse kolobilweng le dinonyane tse mahlapa:",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "diphofolo tsa lehwere"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsohle"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "diphoofolo tsa lelapa"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "diphofolo tse kolobilweng"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "le dinonyane"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "tse mahlapa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:18.471123016Z",
+  "model": "glm-5.3"
+}

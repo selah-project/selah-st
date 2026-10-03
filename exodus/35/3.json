@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Le se ke la tsohisa mollo malapeng a lona ohle ka letsatsi la Shabata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Le se ke"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "la tsohisa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "malapeng a lona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    }
+  ],
+  "timestamp": "2026-10-03T06:00:16.540225272Z",
+  "model": "glm-5.3"
+}

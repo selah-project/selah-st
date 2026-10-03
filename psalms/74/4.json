@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Masera a hao a ile a hua ka hare ho phutheho ea hao; a behile matšoao a bona e le matšoao.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "a hua"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "masera a hao"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "phutheho ea hao"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a behile"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "matšoao a bona"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "e le matšoao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:22.326984480Z",
+  "model": "glm-5.3"
+}

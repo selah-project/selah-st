@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Hobane o tla ka ho se phole, mme o tlaeba lefifing, mme lebitso la hae le ka patoa lefifing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ka ho se phole"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "lefifing"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "o tlaeba"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "lefifing"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "le ka patoa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:45:15.584933942Z",
+  "model": "glm-5.3"
+}

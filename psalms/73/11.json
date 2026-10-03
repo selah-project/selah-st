@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Mme ba re: Na El o tseba? kapa na ho na le tsebo ho Elyone?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "kapa na ho na le"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "ho Elyone"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:49.785862311Z",
+  "model": "glm-5.3"
+}

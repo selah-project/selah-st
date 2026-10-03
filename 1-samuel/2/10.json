@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 2:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Yahwe — ba lwanang le hae ba tla phatloha; hodimodimo ⟨mo⟩ o tla ba lelika; Yahwe o tla ahlola mekhelo ya lefatshe, a fe morena wa hae matla, a phahamise lera la Mashiakh wa hae.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "ba tla phatloha"
+    },
+    {
+      "surface": "מריבו",
+      "gloss": "ba lwanang le hae"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "hodimodimo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨mo⟩ mahodimong"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "o tla ba lelika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "o tla ahlola"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mekhelo ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a fe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "morena wa hae"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "a phahamise"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "lera"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiakh wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:30:31.908551818Z",
+  "model": "glm-5.3"
+}

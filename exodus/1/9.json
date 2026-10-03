@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme a re ho sechaba sa hae: Bonang, sechaba sa bana ba Yisraele se mengata mme se matla ho feta rona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sechaba sa hae"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "רב",
+      "gloss": "se mengata"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "mme se matla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho feta rona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:36.673291143Z",
+  "model": "glm-5.3"
+}

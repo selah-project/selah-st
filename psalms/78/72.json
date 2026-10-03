@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme a ba fufolosa ka botlalo ba pelo ea hae, mme a ba tataisa ka botshepehi ba matsoho a hae.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "Mme a ba fufolosa"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ba pelo ea hae"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "mme ka botshepehi"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ba matsoho a hae"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "a ba tataisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:09.085360289Z",
+  "model": "glm-5.3"
+}

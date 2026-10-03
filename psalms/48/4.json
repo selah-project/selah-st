@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Elohim o tsebahala ditorong tsa yona e le phodiso e phahameng.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "ditorong tsa yona"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "o tsebahala"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "e le phodiso e phahameng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:32.509476654Z",
+  "model": "glm-5.3"
+}

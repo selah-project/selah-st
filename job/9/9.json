@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ya etsang ⟨את⟩ Ashi, ⟨את⟩ Kesile, le ⟨את⟩ Khima, le dikamore tsa borwa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "עש",
+      "gloss": "Ashi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Kesile"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "le Khima"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "le dikamore tsa"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "borwa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:20:13.495251886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Empa lehlanka le le leng le le rekwileng ka selekane, o lokisetsa ⟨את⟩ lona, joale o ka ja ⟨את⟩ ona.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "empa le le leng le le"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "lehlanka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "la motho"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "le rekwileng"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ka selekane"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "o lokisetsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "אז",
+      "gloss": "joale"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "o ka ja"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:19.765149372Z",
+  "model": "glm-5.3"
+}

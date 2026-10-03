@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 121,
+  "translation": "Yahwe o tla o lula a ulule mme o sireletse ho bobe boohle; o tla lulula ⟨את⟩ moya wa bophelo ba hao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "o tla o lulula"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho bobe boohle"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "o tla lulula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moya wa bophelo ba hao"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya wa bophelo ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:10.558527567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Elohim o aba ba inotseng malapeng, o ntša batshwarwa ka tlhaho e ntle; empa ba hanyetsang ba dula lefatshe le omileng.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "o aba"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "ba inotseng"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "malapeng"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "o ntša"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "batshwarwa"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "ka tlhaho e ntle"
+    },
+    {
+      "surface": "אך",
+      "gloss": "empa"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "ba hanyetsang"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "lefatshe le omileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:51.173849812Z",
+  "model": "glm-5.3"
+}

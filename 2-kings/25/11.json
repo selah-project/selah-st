@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme Nevuzaradane, molaodi wa bahlabani, o ile a hamusa ⟨את⟩ sethoatho sa batho se neng se setse torong, le ⟨את⟩ ba neng ba falalletse ho morena wa Babele, le ⟨את⟩ sethoatho sa pherekgile.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sethoatho sa batho"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sethoatho sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "se neng se setse"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "torong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba falalletseng"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ba neng ba falalletse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ba falalletse"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Babele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sethoatho sa pherekgile"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sethoatho sa"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "pherekgile"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "o ile a hamusa"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradane"
+    },
+    {
+      "surface": "רב",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa bahlabani"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:48.779060890Z",
+  "model": "glm-5.3"
+}

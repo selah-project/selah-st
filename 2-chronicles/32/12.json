@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "A se ke eena, Yekhizqiahu, a tlositse ⟨את⟩ meaho e phahameng ya hae le ⟨את⟩ meablara ya hae, mme a re ho Yehuda le Yerushalayime: Pele ya aablara a le ngoe le tla khumama, le ho eona le tla fofatsa mitsi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yekhizqiahu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "a tlositse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meaho e phahameng ya hae"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "meaho e phahameng ya hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "meablara ya hae"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ho Yehuda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "le Yerushalayime"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aablara"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le ngoe"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "le tla khumama"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "le ho eona"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "le tla fofatsa mitsi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:37:45.796807264Z",
+  "model": "glm-5.3"
+}

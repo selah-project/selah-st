@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Ho pholletsa lefatshe ho ya mokgatla wa tsona, le ho fihlellong ya tebele mantswe a tsona; bakeng sa letsatsi o ile a beha ohlelele holim'a tsona.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ho pholletsa le"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ho ya mokgatla"
+    },
+    {
+      "surface": "קום",
+      "gloss": "mokgatla wa tsona"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "le ho fihlellong ya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebele"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "mantswe a tsona"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "bakeng sa letsatsi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o ile a beha"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohlelele"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "holim'a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:28.420705028Z",
+  "model": "glm-5.3"
+}

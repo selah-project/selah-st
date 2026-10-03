@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Kagolohong ke tla robala hammoho, mme ke mamele, hobane u, Yahwe, o a leka, o mphemela ka polokeho.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "Kagolohong"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hammoho"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ke tla robala"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "mme ke mamele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "o a leka"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka polokeho"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "o mphemela"
+    }
+  ],
+  "timestamp": "2026-10-03T13:09:08.439475189Z",
+  "model": "glm-5.3"
+}

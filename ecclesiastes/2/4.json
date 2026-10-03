@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ke ile ka nka mesebetsi ya ka e kgolo; ka aha ⟨πρρο⟩ ntlo ho 'na; ka jala merara ho 'na.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "ka nka e kgolo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mesebetsi ya ka"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ka aha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ka jala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "merara"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:52.285789304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Mme a ntša ⟨את⟩ batho ba hae ka thabo, ba kgethilweng ba hae ka koeto.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mme a ntša"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "batho ba hae"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ka thabo"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ka koeto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba kgethilweng ba hae"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ba kgethilweng ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:10.844365744Z",
+  "model": "glm-5.3"
+}

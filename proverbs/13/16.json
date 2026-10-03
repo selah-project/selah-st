@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Moesaledi ya hlakileng o etsa tsohle ka tsebo; empa sefofu-hlano se phatlalatsa bohlale-bo-bonyane.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "moesaledi ya hlakileng"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o etsa"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "ka tsebo"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "empa sefofu-hlano"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "se phatlalatsa"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "bohlale-bo-bonyane"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:48.227669944Z",
+  "model": "glm-5.3"
+}

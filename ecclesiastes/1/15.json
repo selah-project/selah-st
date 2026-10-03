@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Se se tlamehang ha se ka lokisoa, mme se se sitisang ha se ka bala.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "se se tlamehang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "lokisoa"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "mme se se sitisang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "se ka"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "bala"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:17.824755431Z",
+  "model": "glm-5.3"
+}

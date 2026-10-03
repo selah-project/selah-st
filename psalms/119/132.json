@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Shebella ho 'na, o mohau 'nile, joaloka tlwaelo ea hao ho ba ratang lebitso la hao.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "shebella"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "o mohau 'nile"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "joaloka tlwaelo"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ho ba ratang"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:53.302442664Z",
+  "model": "glm-5.3"
+}

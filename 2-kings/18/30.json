@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme a se ke a etsa hore le be le tshepo ⟨את⟩ le ho Yahwe Hizkiyahu, a re: Yahwe o tla re lokolla ka ho tiile, mme toropo ena e ke ke ya nehoa ⟨את⟩ letsohong la morena wa Ashure.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mme a se ke"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "a etsa tshepo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le",
+      "marks": "le"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "o tla lokolla"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "re lokolla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme e se ke"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ya nehoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo ena"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "letsohong la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    }
+  ],
+  "timestamp": "2026-10-03T08:27:48.503633862Z",
+  "model": "glm-5.3"
+}

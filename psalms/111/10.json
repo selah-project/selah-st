@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 111,
+  "translation": "Qaleho ya bohlale ke ho tshaba Yahwe; bohlale bo botle ho ba di etsang kaofela; teuriso ya hae e eme ⟨hore⟩ kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "qaleho"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ya bohlale"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ke ho tshaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bo botle"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho ba di etsang kaofela"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ba di etsang"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "teuriso ya hae"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kahosafeleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:56.212176528Z",
+  "model": "glm-5.3"
+}

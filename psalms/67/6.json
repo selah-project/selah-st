@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 67,
+  "translation": "Dikgotla a di tle di ode wena, Elohim; dikgotla tsohle a di tle di ode wena.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "a di tle di ode wena"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dikgotla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "a di tle di ode wena"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dikgotla"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tsohle"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:35.725614828Z",
+  "model": "glm-5.3"
+}

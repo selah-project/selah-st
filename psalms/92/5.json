@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "Hobane u ntsetsitse takatso, Yahwe, ka msebetsi wa hao; ka ditiro tsa matsoho a hao ke tla bina ka thabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "u ntsetsitse takatso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "ka msebetsi wa hao"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ka ditiro tsa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "matsoho a hao"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ke tla bina ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:36.634851914Z",
+  "model": "glm-5.3"
+}

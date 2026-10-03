@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Ba tsekisa, mme ba bolela bosholu ka tlhoka toka; ho tswa hodimo ba bolela ka boholo-holo.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "ba tsekisa"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "mme ba bolela"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "bosholu"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ka tlhoka toka"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ho tswa hodimo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba bolela ka boholo-holo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:45.379860423Z",
+  "model": "glm-5.3"
+}

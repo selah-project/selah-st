@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Lehoja ⟨⟨hlobo⟩⟩ ke sehloho se se nang thuso, mme ka bongata ba matla a lona ha ho a lokela ho falola.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "sehloho"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "lehoja"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "se se nang thuso"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "mme ka bongata"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ba matla a lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "a lokela ho falola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:24.327286713Z",
+  "model": "glm-5.3"
+}

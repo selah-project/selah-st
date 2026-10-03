@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "Mahlapo ke setjhaba se nang sejwalo; mahlapo ke setjhaba seo Yahwe e leng Elohim wa sona.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mahlapo ke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "se nang sejwalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa sona"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mahlapo ke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wa sona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:09.918673051Z",
+  "model": "glm-5.3"
+}

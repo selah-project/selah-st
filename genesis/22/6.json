@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme Abrahame a nka ⟨את⟩ lifate tsa sehlabelo se chesang, a li beka hodima Yitshake mora oa hae; mme a nka ka letsohong la hae ⟨את⟩ mollo le ⟨את⟩ thipa; mme ba babeli ba ea 'moho.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lifate tsa sehlabelo se chesang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lifate"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "tsa sehlabelo se chesang"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a li beka"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora oa hae"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ka letsohong la hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mollo"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "thipa"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "thipa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba ea"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ba babeli"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "'moho"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:35.425592620Z",
+  "model": "glm-5.3"
+}

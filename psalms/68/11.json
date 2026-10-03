@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Cheata ya hao ya dula ho yona; o ile a lokisa ka botle ba hao bakeng sa moholofohi, wena Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "cheata ya hao"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ya dula"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "o ile a lokisa"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "ka botle ba hao"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "bakeng sa moholofohi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:33.966235486Z",
+  "model": "glm-5.3"
+}

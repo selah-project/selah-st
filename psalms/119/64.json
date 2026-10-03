@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Hesede ya hao, Yahwe, e tlatsitse lefatshe; melao ya hao e nthute.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Hesede ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tlatsitse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao ya hao"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "e nthute"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:18.847230373Z",
+  "model": "glm-5.3"
+}

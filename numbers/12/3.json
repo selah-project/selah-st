@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme motho Moshe e ne e le ⁠moholo haholo, ho feta batho bohle ba ⟨ba⟩ hlolang holimo lefatshe.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "mme motho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "moholo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho feta bohle"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hlolang"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:28:45.416599555Z",
+  "model": "glm-5.3"
+}

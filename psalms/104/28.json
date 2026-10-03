@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Ha o ba fa, di bokella; ha o bula letsoho la hao, di a khathatswa ka dilo tse lokileng.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Ha o fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "di bokella"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ha o bula"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hao"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "di a khathatswa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka dilo tse lokileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:32.313217794Z",
+  "model": "glm-5.3"
+}

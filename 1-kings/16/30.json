@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme Ahabe mora wa Omri o ile a etsa bobe mahlong a Yahwe, ho feta bohle ba neng ba le pele ho ena.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme o ile a etsa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho feta bohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ba neng ba le pele ho ena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:12:30.590114109Z",
+  "model": "glm-5.3"
+}

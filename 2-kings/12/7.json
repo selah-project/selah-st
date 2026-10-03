@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme e ile ya ba selemong sa mashome a mabedi le metso e meraro sa morena Yehoashe, baprista ba sa tiise ⟨את⟩ diphoso tsa ntlo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e ile ya ba"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "selemong sa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mashome a mabedi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "le metso e meraro"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa morena"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoashe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ba sa tiise"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphoso"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "diphoso"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tsa ntlo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:58:28.444214720Z",
+  "model": "glm-5.3"
+}

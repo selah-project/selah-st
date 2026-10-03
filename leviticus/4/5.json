@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme moprista eo ea tlotsitsoeng a tlameha ho nka tse ding tsa madi a tholo, a li tlisa ⟨את⟩ ho tente ea kopano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "a tlameha ho nka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "eo ea tlotsitsoeng"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "tse ding tsa madi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a tholo"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "a li tlisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "madi (a tholo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ea kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:09.704752622Z",
+  "model": "glm-5.3"
+}

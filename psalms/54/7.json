@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 54,
+  "translation": "Bobe bo tla khutlela ho dira tsa ka; ka nnete ya hao, o di felise.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "bo tla khutlela"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "Bobe"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "ho dira tsa ka"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ka nnete ya hao"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "o di felise"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:34.013348798Z",
+  "model": "glm-5.3"
+}

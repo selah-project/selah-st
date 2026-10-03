@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 67,
+  "translation": "Ho moeta-pele, ka merumo ea dinotso. Moko, pina.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho moeta-pele"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ka merumo ea dinotso"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:16.290970883Z",
+  "model": "glm-5.3"
+}

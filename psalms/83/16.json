@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Jwalo ka moo, o ba latele ka phefokgwedi ya hau, mme o ba tshohise ka sefako sa hau.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "jwalo ka moo"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "o ba latele"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "ka phefokgwedi ya hau"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "ka sefako sa hau"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "o ba tshohise"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:14.206767415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Hobane taelo ho taelo, taelo ho taelo, mola ho mola, mola ho mola, hanyane mona, hanyane moo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "צו",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ho taelo"
+    },
+    {
+      "surface": "צו",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ho taelo"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mola"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ho mola"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mola"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ho mola"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "hanyane"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mona"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "hanyane"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:22.459827481Z",
+  "model": "glm-5.3"
+}

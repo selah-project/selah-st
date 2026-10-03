@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 97,
+  "translation": "Mahodimo a phatlalatsa tsedeke ya hae, mme ditjhaba tsohle di bona kgalalelo ya hae.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "a phatlalatsa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tsedeke ya hae"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "mme di bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kgalalelo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:42.371625049Z",
+  "model": "glm-5.3"
+}

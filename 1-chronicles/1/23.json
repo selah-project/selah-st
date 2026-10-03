@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ Ofire, le ⟨את⟩ Khavilahe, le ⟨את⟩ Yobabe; bohle bana ke bana ba Yoktane.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ofire"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Khavilahe"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Khavilahe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yobabe"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yobabe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktane"
+    }
+  ],
+  "timestamp": "2026-10-03T12:08:57.986599978Z",
+  "model": "glm-5.3"
+}

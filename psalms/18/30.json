@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Hobane ka wena ke bula sehlopha sa sesole, mme ka Elohime ya ka ke tlola lerako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ke bula"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "sehlopha sa sesole"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "mme ka Elohime"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "ke tlola"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lerako"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:32.612839179Z",
+  "model": "glm-5.3"
+}

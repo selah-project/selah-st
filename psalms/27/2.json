@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Ha ba beng ba mpe ba atamela ho 'na ho ja ⟨את⟩ nama ya ka — bahlankana ba ka le bafapani ba ka — ba ikhohomosa mme ba oa.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Ha… ba atamela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ba beng ba mpe"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ho ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama ya ka"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nama ya ka"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "bahlankana ba ka"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "le bafapani ba ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ba ikhohomosa"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "mme ba oa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:33.175543620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mokopeo, sefela sa hlahleliso ya ⟨את⟩ ntlo, la Dawide.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mokopeo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sefela"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "sa hlahleliso ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "la Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:09.754284535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme ke tla romella ⟨את⟩ tsenye pele ho hao, mme e tla lelekea ⟨את⟩ Ha-Hivi, ⟨את⟩ Ha-Kenaane le ⟨את⟩ Ha-Hete pele ho hao.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "mme ke tla romella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsenye"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tsenye"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ho hao"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "mme e tla lelekea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ha-Hivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Ha-Hivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ha-Kenaane"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Ha-Kenaane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ha-Hete"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Ha-Hete"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "pele ho hao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:10.325391199Z",
+  "model": "glm-5.3"
+}

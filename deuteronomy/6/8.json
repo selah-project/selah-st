@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme o di tlamme e le sesupo sebakeng sa letsoho la hau, mme di tle e le ditotafote mahareng a mahlo a hau.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "o di tlamme"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "e le sesupo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hau"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme di tle"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "e le ditotafote"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mahareng a"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a hau"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:02.416594080Z",
+  "model": "glm-5.3"
+}

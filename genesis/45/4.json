@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Mme Yosefe a re ho bareng ba hae: Tlang ho nna, ke kopa. Mme ba atamela. Mme a re: Nna ke Yosefe, mohlolwane wa lona, eo le mo rekileng ⟨את⟩ yena ho isa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bareng ba hae"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "tlang ho atamela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "mme ba atamela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna ke"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mohlolwane wa lona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "le mo rekileng"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ho isa Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:41:20.180376631Z",
+  "model": "glm-5.3"
+}

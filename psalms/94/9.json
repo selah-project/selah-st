@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Na ya bedileng tlhako a ka se utlwe? Kapa ya bopileng leihlo, na a ka se bone?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "ya bedileng"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tlhako"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na... a ka se"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "utlwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ya bopileng"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na... a ka se"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:10.559277342Z",
+  "model": "glm-5.3"
+}

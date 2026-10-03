@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Benjamine o ile a begetsa ⟨את⟩ Bela, moea wa pele, Ashbele ya bobedi, le Aḥaraḥ ya boraro.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Mme Benjamine"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ile a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "moea wa pele"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbele"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya bobedi"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "le Aḥaraḥ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ya boraro"
+    }
+  ],
+  "timestamp": "2026-10-03T12:12:50.126686387Z",
+  "model": "glm-5.3"
+}

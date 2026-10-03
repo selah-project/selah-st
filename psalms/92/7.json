@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "Monna ya tšoanang le phoofolo ha a tsebe; mme sefoolhale ha a utlwisise ⟨את⟩ se sena.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ya tšoanang le phoofolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a tsebe"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "mme sefoolhale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "a utlwisise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se sena"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se sena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:36.635272955Z",
+  "model": "glm-5.3"
+}

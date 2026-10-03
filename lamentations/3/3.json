@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ruri khahlano le nna o kgutla, o fetola letsoho la hae letsatsi lohle.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "בי",
+      "gloss": "khahlano le nna"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o kgutla"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "o fetola"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:40:12.532352031Z",
+  "model": "glm-5.3"
+}

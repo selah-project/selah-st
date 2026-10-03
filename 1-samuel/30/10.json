@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme Dawide a phedisolla, yena le banna ba makgolo a ne; mme banna ba makgolo a mabedi ba eme, ba_ileng ba khutlafatsoa, ba se ke ba kgona ho feta ⟨את⟩ nokana ya Habeshore.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "a phedisolla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le makgolo a ne"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ba eme"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ba makgolo a mabedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba_ileng"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "ba khutlafatsoa"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nokana ya Habeshore"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "nokana"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "ya Habeshore"
+    }
+  ],
+  "timestamp": "2026-10-03T07:44:36.086047474Z",
+  "model": "glm-5.3"
+}

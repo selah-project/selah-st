@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Atolla hesede ya hao ho ba tsebang hao, mme tsedeke ya hao ho ba hlakileng pelo.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "Atolla"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "ho ba tsebang hao"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "mme tsedeke ya hao"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ho ba hlakileng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:55.874847371Z",
+  "model": "glm-5.3"
+}

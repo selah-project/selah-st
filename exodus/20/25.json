@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme ha o ka etsa mabitla a majwe bakeng sa ka, o se ke wa a aha ⟨את⟩ majwe a bolotsweng; hobane ha o ka thaletla sefoka sa hao holima wona, o a tlontlolla.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme ha o ka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mabitla"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "a majwe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o ka etsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bakeng sa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "wa a aha"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "majwe a bolotsweng"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "a bolotsweng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sefoka sa hao"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "ha o ka thaletla"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "holima wona"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "o a tlontlolla"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:26.859254616Z",
+  "model": "glm-5.3"
+}

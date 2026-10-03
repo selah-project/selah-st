@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 70,
+  "translation": "Elohim, ho ntlohela; Yahwe, ho thusa nna, hangata!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ho ntlohela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ho thusa nna"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "hangata!"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:34.735362002Z",
+  "model": "glm-5.3"
+}

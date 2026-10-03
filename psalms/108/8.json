@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 108,
+  "translation": "Elohim o buile ka ⟨ho halalela⟩ ha hae; ke tla thabaka, ke tla arohana ⟨את⟩ Shekeme, mme sebakeng sa Skeema ke tla ka mokong wa Sukothe, ke tla e ka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ka ho halalela ha hae"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ke tla thabaka"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ke tla arohana"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "mme sebakeng sa Skeema"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukothe"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ke tla e ka"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:22.940541140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Hobane o le lehaha la matla la ka le phapo ya ka ya ditšepe ⟨wena⟩; mme ka lebaka la lebitso la hao, ntataise mme o nkele tsela le nna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "o le lehaha la matla la ka"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "le phapo ya ka ya ditšepe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨wena⟩"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "mme ka lebaka la"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ntataise"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "mme o nkele tsela le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:19.791561781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Hobane ho bolela Yahwe: Ka mahlakoreng a le leng le ka hlolohantsoe, mme hamorao le tla lokolloa hampe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ho bolela Yahwe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "Ka mahlakoreng a le leng"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "le hlolohantsoe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme hamorao"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ka mahlakoreng a le leng le ka hlolohantsoe, mme hamorao"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "le tla lokolloa hampe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:54:03.198383414Z",
+  "model": "glm-5.3"
+}

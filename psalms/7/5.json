@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ha ke molotse ka mpe ya neng a phetse khotso le 'na, mme ke lokollotse sera sa ka ntle lebaka;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "ke molotse"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "ya neng a phetse khotso le 'na"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ka mpe"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "mme ke lokollotse"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "séra sa ka"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ntle lebaka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:27.929092557Z",
+  "model": "glm-5.3"
+}

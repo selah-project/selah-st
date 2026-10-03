@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Na Adonai o tla hlahlama ka ho sa feleng? Mme a ke ke a hlakoloa ho thabela ho feta moo?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "na ... ka ho sa feleng"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "o tla hlahlama"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a ke ke a"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ho feta moo"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "ho thabela"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:00.000381323Z",
+  "model": "glm-5.3"
+}

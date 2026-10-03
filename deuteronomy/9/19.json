@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 9:19",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Hobane ke ne ke tshohile bohale le tlhahlobo eo Yahwe a neng a halefile lona ka eona hore a tlose lona; mme Yahwe a nkutlwa le ka nako eo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ke ne ke tshohile"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka boba le"
+    },
+    {
+      "surface": "האף",
+      "gloss": "bohale"
+    },
+    {
+      "surface": "והחמה",
+      "gloss": "le tlhahlobo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "a halefile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "hore a tlose"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a nkutlwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "n"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:48:42.494307754Z",
+  "model": "glm-5.3"
+}

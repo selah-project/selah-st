@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ka letsatsi leo e tla jeloa; le se ke la tlosetsa se seng ho fihlela hoseng; ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "e tla jeloa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haufi- haufi eseng"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "la tlosetsa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho eona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:58.707549776Z",
+  "model": "glm-5.3"
+}

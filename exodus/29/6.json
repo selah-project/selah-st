@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme o behe mitsnefete hodima hloho ya hae, mme o behe ⟨את⟩ nezer wa hoholo hodima mitsnefete.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Mme o behe"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitsnefete"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hloho ya hae"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o behe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezer wa hoholo"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezer"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wa hoholo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitsnefete"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:55.234113602Z",
+  "model": "glm-5.3"
+}

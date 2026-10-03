@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 84,
+  "translation": "A di ratoahala jwang dikgotla tsa hao, Yahwe Tsebaote!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "A ... jwang"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "di ratoahala"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "dikgotla tsa hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:18.475175605Z",
+  "model": "glm-5.3"
+}

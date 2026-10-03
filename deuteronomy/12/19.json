@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Ipehe hloko hore o se ke wa tlohela ⟨את⟩ Molevi matsatsi a hao ohle holim'a lefatshe la hao.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Ipehe hloko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hore o se ke wa"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tlohela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Molevi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Molevi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "matsatsi a hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "lefatshe la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:53:15.621438427Z",
+  "model": "glm-5.3"
+}

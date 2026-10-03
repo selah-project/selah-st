@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme bana ba baholo ba ea ho fepa ⟨את⟩ ditshiu tsa ntata bona ba Shekeme.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ba ea"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bana ba baholo"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ho fepa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshiu tsa ntata bona"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ditshiu"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ntata bona"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "ba Shekeme"
+    }
+  ],
+  "timestamp": "2026-10-03T05:35:03.859884212Z",
+  "model": "glm-5.3"
+}

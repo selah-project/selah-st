@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme o tleise ⟨את⟩ minkha eo e tla etsoang ka tse ling ho Yahwe; o e atise ho moprista, mme o e atise hodima aletare.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Mme o tleise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "e tla etsoang"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ka tse ling"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "o e atise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "mme o e atise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:06.318366398Z",
+  "model": "glm-5.3"
+}

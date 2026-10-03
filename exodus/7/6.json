@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Moshe le Aharone ba etsa jwalo ka ha Yahwe a laetse ⟨את⟩ bona; jwalo ba ile ba etsa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba ile ba etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:05.774991597Z",
+  "model": "glm-5.3"
+}

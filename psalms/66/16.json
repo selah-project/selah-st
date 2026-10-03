@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Tlang, reng mameleng, lona baohle ba tshabang Elohim, ke tla le bolelela seo a se entseng moea wa ka.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "tlang"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mameleng"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "ke tla le bolelela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lona baohle"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ba tshabang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se entseng"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "moea wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:33.465054778Z",
+  "model": "glm-5.3"
+}

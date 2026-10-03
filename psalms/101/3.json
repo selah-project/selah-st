@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 101,
+  "translation": "Ntho e se nang thuso ke ke ke ya e bea pele ho mahlo a ka; mosebetsi wa ba liehang ka thoko ke o hloyile; o ke ke wa mamele ho 'na.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ke ke ke"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ya e bea"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ntho"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "e se nang thuso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mosebetsi wa"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "ba liehang ka thoko"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke o hloyile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ke ke wa"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "mamele"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:29.187894518Z",
+  "model": "glm-5.3"
+}

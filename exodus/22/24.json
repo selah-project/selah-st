@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ha e le hore o adima selepe ho setjhaba sa ka, ⟨את⟩ sefumaneng sebakeng sa hao, o se ke wa ba motho ya adimisang ka tswalo, le se ke la beha ⟨את⟩ tswalo hodima hae.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha e le hore"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selepe"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "o adima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba sa ka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setjhaba sa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefumaneng"
+    },
+    {
+      "surface": "העני",
+      "gloss": "sefumaneng"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sebakeng sa hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa ba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hae"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "ya adimisang ka tswalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "beha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hodima hae"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "tswalo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:45.559477470Z",
+  "model": "glm-5.3"
+}

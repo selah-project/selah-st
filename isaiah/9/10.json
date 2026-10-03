@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Yahwe o ile a hodisa dira tsa Retsine khahlanong le eena, mme ⟨את⟩ dira tsa hae a di hokela mmoho.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "mme o ile a hodisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dira tsa Retsine"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dira tsa"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsine"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "khahlanong le eena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "dira tsa hae"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dira tsa hae"
+    },
+    {
+      "surface": "יסככך",
+      "gloss": "a di hokela mmoho"
+    }
+  ],
+  "timestamp": "2026-10-03T08:35:32.346426396Z",
+  "model": "glm-5.3"
+}

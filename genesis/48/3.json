@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Yaakobo a re ho Yoseife: El Shadai o ile a iponahatsa ho ka Lute, naheng ya Kenae, mme o ile a ntlotla ⟨את⟩ nna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseife"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "o ile a iponahatsa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho ka"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "ka Lute"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenae"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "o ile a ntlotla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna"
+    }
+  ],
+  "timestamp": "2026-10-03T05:41:00.415935173Z",
+  "model": "glm-5.3"
+}

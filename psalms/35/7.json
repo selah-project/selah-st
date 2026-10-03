@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Hobane ka mpele ba pata ⟨את⟩ sefuba le lesela la bona bakeng la ka, ka mpele ba hema sefuba bakeng sa moya wa ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka mpele"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ba pata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bakeng la ka"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "sefuba"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "lesela la bona"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka mpele"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ba hema"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "bakeng sa moya wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:55.068963Z",
+  "model": "glm-5.3"
+}

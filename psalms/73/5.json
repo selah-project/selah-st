@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Ho sehlola ha batho ba fokolang ha ba papale, mme le batho ba tlwaelehileng ha ba ke ke ba hlohlwa.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "ho sehlola ha"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "batho ba fokolang"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ha ba papale"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le batho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba tlwaelehileng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ba ke ke"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ba hlohlwa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:45.379442383Z",
+  "model": "glm-5.3"
+}

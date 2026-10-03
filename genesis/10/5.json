@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Ho tloha ho tsena, ditjha tsa ditjhaba di ile tsa arohana matsatsing a ⟨את⟩ dibaka tsa tsona, motho ka mong ho ya ka pulo ya hae, ho ya ka malapa a tsona, hara ditjhaba tsa tsona.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Ho tloha ho tsena"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "di ile tsa arohana"
+    },
+    {
+      "surface": "איי",
+      "gloss": "ditjha tsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "dibaka tsa tsona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho ka mong"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "ho ya ka pulo ya hae"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ho ya ka malapa a tsona"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "hara ditjhaba tsa tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:39.951339198Z",
+  "model": "glm-5.3"
+}

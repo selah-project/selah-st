@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 125,
+  "translation": "Pina ya ho Nyoloha. Ba tshephehang ho Yahwe ke jwalo ka thaba ya Tsione: e ke ke ya tsamaisoa, e dula kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya ho Nyoloha"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Ba tshephehang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "jwalo ka thaba ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "tsamaisoa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kahosafeleng"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "e dula"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:02.808788453Z",
+  "model": "glm-5.3"
+}

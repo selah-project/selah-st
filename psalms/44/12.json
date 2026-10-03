@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "U re fana e tshwanang le diphoofolo tse jaloang, mme u re hasanya har'a ditjhaba.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "U re fana"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "e tshwanang le diphoofolo"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "tse jaloang"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "mme har'a ditjhaba"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "u re hasanya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:23.718129125Z",
+  "model": "glm-5.3"
+}

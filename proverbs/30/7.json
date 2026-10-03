@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Dintho tse pedi ke kopa ho ⟨את⟩ wena; o se ke wa di hanela pele ke shwa.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "dintho tse pedi"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ho ⟨את⟩ wena",
+      "marks": "dintho tse pedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "hanela"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ke shwa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:17:47.332941485Z",
+  "model": "glm-5.3"
+}

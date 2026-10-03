@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme Yiftakhe o ile a ahola ⟨את⟩ Yisraele dilemo tse tsheletseng; mme Yiftakhe wa Giladi a sho, a baloa ho toropong e nngwe ya di toropo tsa Giladi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "o ile a ahola"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tse tsheletseng"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a sho"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakhe"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "wa Giladi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a baloa"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ho toropong e nngwe ya di toropo"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "tsa Giladi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:51:37.849448121Z",
+  "model": "glm-5.3"
+}

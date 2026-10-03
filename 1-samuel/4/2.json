@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 4:2",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Bapalestina ba hulanya mela pele ho Yisraele, mme ntoa ea qala, mme Yisraele a otloa pele ho Bapalestina, mme ba hlaba ba hara mela ya ntoa, le masimong, e ka banna ba dikete tse nne.",
+  "tokens": [
+    {
+      "surface": "ויערכו",
+      "gloss": "mme ba hulanya mela"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapalestina"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ותטש",
+      "gloss": "mme ntoa ea qala"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "mme a otloa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapalestina"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mme ba hlaba"
+    },
+    {
+      "surface": "במערכה",
+      "gloss": "hara mela ya ntoa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "le masimong"
+    },
+    {
+      "surface": "כארבעת",
+      "gloss": "e ka"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete tse nne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:39.298615302Z",
+  "model": "glm-5.3"
+}

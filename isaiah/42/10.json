@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Opelang ho Yahwe sefoko se secha, tlelo ya hae ho tloha magehle a lefatshe; ba theohelang lewatle le tlaso ea sona, mabitso le ba dulang ho tsona.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Opelang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sefoko"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "se secha"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tlelo ya hae"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ho tloha magehle a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ba theohelang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "le tlaso ea sona"
+    },
+    {
+      "surface": "איים",
+      "gloss": "mabitso"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "le ba dulang ho tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:02.277539470Z",
+  "model": "glm-5.3"
+}

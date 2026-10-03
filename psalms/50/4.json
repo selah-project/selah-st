@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "O tla bitela mahodimo ho tloha hodimo, le lefatshe, hore a ahlole sechaba sa hae.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "O tla bitela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ho tloha hodimo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "hore a ahlole"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sechaba sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:33.398016783Z",
+  "model": "glm-5.3"
+}

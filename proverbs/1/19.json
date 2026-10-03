@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Jwale ke ditsela tsa bohle ba hlapanyang ho hlapanya: ⟨את⟩ bophelo ba meng wa tsona bo tla nkuwa.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Jwale ke"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsa bohle"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ba hlapanyang"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ho hlapanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo ba meng wa tsona"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ba meng wa tsona"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bo tla nkuwa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:13.120296952Z",
+  "model": "glm-5.3"
+}

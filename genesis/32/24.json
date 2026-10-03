@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme a ba nka, a ba hlahamisa fatshe ⟨את⟩ nokaneng, mme a hlahamisa fatshe ⟨את⟩ tsohle tseo a nang le tsona.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "mme a ba nka"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "a ba hlahamisa fatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nokaneng"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "nokaneng"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "mme a hlahamisa fatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle tseo a nang le tsona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a nang le tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:33:07.184477025Z",
+  "model": "glm-5.3"
+}

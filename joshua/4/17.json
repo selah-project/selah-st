@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Yehoshua a laela ⟨את⟩ baprista, a re: Tlohang le tloha ho Yardene.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baprista"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "tlohang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha ho"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardene"
+    }
+  ],
+  "timestamp": "2026-10-03T07:03:38.932770956Z",
+  "model": "glm-5.3"
+}

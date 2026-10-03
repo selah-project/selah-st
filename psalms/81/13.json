@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Mme ka ba tlosa ka boithati ba pelo ea bona, ba tsamaya ka merero ea bona.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "ka ba tlosa"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "ka boithati"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ba pelo ea bona"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "ka merero ea bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:57.880591947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Hlokomela hore u se ke ua lebala ⟨את⟩ Yahwe eo a u ntšitseng nakong ea lefats'e la Mitsrayime, nakong ea ntlo ea makgoba.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Hlokomela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hore u"
+    },
+    {
+      "surface": "פן",
+      "gloss": "u se ke ua"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "a u ntšitseng"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nakong ea lefats'e la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nakong ea ntlo ea"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "makgoba"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:11.472686318Z",
+  "model": "glm-5.3"
+}

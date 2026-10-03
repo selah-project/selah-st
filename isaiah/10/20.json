@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 10:20",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ho tla etsahala ka letsatsi leo hore sehloho sa Yisraele le ba falotseng ba ntlo ea Yaakobo ba ke ke ba itšehetla hape ho ea ba otlang, ba tla itšehetla ho Yahwe, Ea halalelang ea Yisraele, ka 'nete.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme ho tla etsahala"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ba ke ke ba... hape"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "haape"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "sehloho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisraele"
+    },
+    {
+      "surface": "ופליטת",
+      "gloss": "le ba falotseng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ba ntlo ea"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "להשען",
+      "gloss": "ho itšehetla"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "ea ba otlang"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "ba tla itšehetla"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ea halalelang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ea Yisraele"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ka 'nete"
+    }
+  ],
+  "timestamp": "2026-10-03T08:36:58.797533200Z",
+  "model": "glm-5.3"
+}

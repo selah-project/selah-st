@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ka mora dintho tseo, Iyobe a bula ⟨את⟩ molomo wa hae, mme a hlolela ⟨את⟩ letsatsi la hae.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Ka mora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dintho tseo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a bula"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo wa hae"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "molomo wa hae"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "mme a hlolela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsatsi la hae"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "letsatsi la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:19:01.308197268Z",
+  "model": "glm-5.3"
+}

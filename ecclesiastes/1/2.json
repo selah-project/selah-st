@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Habele, habele ya dihabele, ho bolela Kohelete; habele ya dihabele, ⟨sehle Sethle⟩—⟨the⟩ habel.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "habele"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "dihabele"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelete"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habele"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "dihabele"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "the habel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habel"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:19.680122989Z",
+  "model": "glm-5.3"
+}

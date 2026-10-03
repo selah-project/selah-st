@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme o bolaile ⟨את⟩ sehlabelo se chesang; mme barwa ba Aharone ba neha ho yena ⟨את⟩ madi, mme o a chesella ‹hooo› hodima altare ho potoloha.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "o bolaile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo se chesang"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sehlabelo se chesang"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ba neha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "o a chesella"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    }
+  ],
+  "timestamp": "2026-10-03T06:07:27.467963009Z",
+  "model": "glm-5.3"
+}

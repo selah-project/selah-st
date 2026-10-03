@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "Dithaba di kopilwe ke sefalala sa yona, mme makala a yona a tshwana le disedara tsa El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "di kopilwe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "sefalala sa yona"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "mme makala a yona"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "disedara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:00.487150424Z",
+  "model": "glm-5.3"
+}

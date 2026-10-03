@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme bana ba Yisraele ba tla boloka ⟨את⟩ Shabata, ho etsa ⟨את⟩ Shabata ho ditlohollo tsa bona, ⟨e le⟩ selekane sa kahosafatshe.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "mme ba tla boloka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ho ditlohollo tsa bona"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kahosafatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:26.726173840Z",
+  "model": "glm-5.3"
+}

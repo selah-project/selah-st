@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Ba mo halefisa kahare ho metsing ya Meriba, mme ho ile ho le mpe ho Moshe ka boba bona.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "ba mo halefisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kahare ho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsing"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ya Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "mme ho ile ho le mpe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ho Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "ka boba bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:23.089048979Z",
+  "model": "glm-5.3"
+}

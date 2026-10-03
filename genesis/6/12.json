@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Elohim a bona ⟨את⟩ lefatshe, mme bonang, le senyehile; hobane nama eohle e ile ea senya ⟨את⟩ tsela ya yona hodima lefatshe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mme ... a bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "le senyehile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "e ile ea senya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela ya yona"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tsela ya yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:47.606982387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 19:22",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Le baprista ba atamelang ho Yahwe, ba ihalalelise, hore Yahwe a se ke a qhaqhaha ho bona.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "le"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "ba atamelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "ba ihalalelise"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hore … a se ke a"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "qhaqhaha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:52.991025091Z",
+  "model": "glm-5.3"
+}

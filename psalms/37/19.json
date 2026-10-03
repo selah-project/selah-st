@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Ba ke ke ba tshwanela mesola nakong ea mabe, mme ka matsatsi a tlala ba tla khotsofala.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ba ke ke ba"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "tshwanela mesola"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nakong ea"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "mme ka matsatsi a"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ba tla khotsofala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:49.786333655Z",
+  "model": "glm-5.3"
+}

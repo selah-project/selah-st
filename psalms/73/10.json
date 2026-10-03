@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Kahoo sechaba sa hae se khutlela hakolo, mme metsi a tlala a thukuliswa ho bona.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kahoo"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "se khutlela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sechaba sa hae"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "hakolo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mme metsi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a tlala"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "a thukuliswa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:49.785700057Z",
+  "model": "glm-5.3"
+}

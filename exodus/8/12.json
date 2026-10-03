@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Yahwe a re ho Moshe: U re ho Aharone: O tlose ⟨את⟩ thupa ya hao, o e otla ⟨את⟩ letswe le mobu; le tla fetoha menontsonyana lefatsheng lohle la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "U re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "O tlose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thupa ya hao"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "thupa ya hao"
+    },
+    {
+      "surface": "והך",
+      "gloss": "o e otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letswe le mobu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "letswe le mobu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ha lefatshe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "le tla fetoha"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "menontsonyana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "lefatsheng lohle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:46:32.780047001Z",
+  "model": "glm-5.3"
+}

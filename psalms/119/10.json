@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ka pelo ya ka eohle ke o batlile; o se ke wa mpshohaara ho tswa melao ya hao.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelong ya ka"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "ke o batlile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "mpshohaara"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "ho tswa melao ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:17.890237959Z",
+  "model": "glm-5.3"
+}

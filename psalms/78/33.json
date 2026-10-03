@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "A fenya ka ho hloeka metsamao ya lihora tsa bona matsatsi a bona, le lilemo tsa bona ka tsabo e hakang.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "A fenya"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ka ho hloeka metsamao"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "matsatsi a bona"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "le lilemo tsa bona"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "ka tsabo e hakang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:15.276596350Z",
+  "model": "glm-5.3"
+}

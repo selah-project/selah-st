@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ba ineetseng ba yona ba neng ba hloekile ho feta lehloa, ba borele ho feta lebese; mmele wa bona o motšoahala ho feta maje a bohalewa, sebopeho sa bona se tšoana le safire.",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "ba hloekile"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "ba ineetseng ba yona"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "ho feta lehloa"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "ba borele"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ho feta lebese"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "o motšoahala"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "mmele"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "maje a bohalewa"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "safire"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "sebopeho sa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:40:45.547976157Z",
+  "model": "glm-5.3"
+}

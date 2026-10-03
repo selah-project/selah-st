@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Na setulo sa mefufutso se ka kopana le Wena, se bopang bobe ka molao?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "se ka kopana le Wena"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "sa mefufutso"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "se bopang"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חק",
+      "gloss": "molao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:10.363394297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Matlotlo a bobe a thusa hase letho, mme tsedeke e lokolla ho lefung.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "a thusa"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "matlotlo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a bobe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mme tsedeke"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "e lokolla"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ho lefung"
+    }
+  ],
+  "timestamp": "2026-10-03T11:08:34.724433350Z",
+  "model": "glm-5.3"
+}

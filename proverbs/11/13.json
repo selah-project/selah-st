@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Motsamaisi wa dikgang o phatlalitsa ⟨את⟩ sephiri; mme ya tsepahalang ruakh o pata taba.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "motsamaisi"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "wa dikgang"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "o phatlalitsa"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sephiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "",
+      "note": "v13 has no separate את token; see below"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "mme ya tsepahalang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "o pata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    }
+  ],
+  "timestamp": "2026-10-03T11:09:59.040219474Z",
+  "model": "glm-5.3"
+}

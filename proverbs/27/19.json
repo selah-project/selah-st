@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Joalo ka metsi sefahleho ho sefahleho, joalo hape pelo ea motho ho motho.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "joalo ka metsi"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ho sefahleho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "joalo hape"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo ea"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ho motho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:16:50.401998881Z",
+  "model": "glm-5.3"
+}

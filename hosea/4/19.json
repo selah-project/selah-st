@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ruakh e mo tsweditse ka mapheho a yona, mme ba tla tseba hlohono ka baka la dithabelo tsa bona.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "e mo tsweditse"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "e mo (motho\/morafe)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "ka mapheho a yona"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ba tla tseba hlohono"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ka baka la dithabelo tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:59:16.433916760Z",
+  "model": "glm-5.3"
+}

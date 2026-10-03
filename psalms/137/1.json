@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 137,
+  "translation": "Ho dinoka tsa Babeli, koo re neng re lutse, le ho lla ha re ne re hopola ⟨את⟩ Tsiyone.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dinoka tsa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "re lutse"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "ho lla"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "ha re ne re hopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyone"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:11.750972704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme moprista a lebelele ⟨את⟩ leso, a tswalele ⟨את⟩ leso matsatsi a supileng.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "a lebelele"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leso"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "leso"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "a tswalele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leso"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "leso"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T06:10:50.290110038Z",
+  "model": "glm-5.3"
+}

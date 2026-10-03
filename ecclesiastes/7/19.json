@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Bokhoni bo fa mohlodi matla a maholo, ho feta babusi ba leshome ba neng ba le motseng.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "bokhoni"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "bo fa matla a maholo"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ho mohlodi"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ho feta ba leshome"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "babusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba neng ba le"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:23.525528799Z",
+  "model": "glm-5.3"
+}

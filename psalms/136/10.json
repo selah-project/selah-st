@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "Ho Ya ileng a otla ⟨את⟩ Mitsrayime ka bana ba bona ba pele, hobane hesede ya hae ya ho isa kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Ho Ya ileng a otla"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "ka bana ba bona ba pele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho isa kahosafeleng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:46.183858176Z",
+  "model": "glm-5.3"
+}

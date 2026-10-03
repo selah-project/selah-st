@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mehato ya ba lokileng ke kahlolo, mme mareo a ba babeleng ho fanela.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "mehato"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "mareo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba babeleng"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ho fanela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:09:10.172507801Z",
+  "model": "glm-5.3"
+}

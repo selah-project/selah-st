@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 130,
+  "translation": "Yisraele, a tshepele Yahwe, hobane ho Yahwe ho na le hesede, mme ho ena ho na le tokoloho e ngata haholo.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "a tshepele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "ho na le hesede"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "mme e ngata haholo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ho ena"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "tokoloho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:27.168529842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Shelomo a bopa ⟨את⟩ Gezere, le ⟨את⟩ Beti-Horone ya tlase,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a bopa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezere"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Beti-Horone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horone"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ya tlase"
+    }
+  ],
+  "timestamp": "2026-10-03T12:56:19.115141290Z",
+  "model": "glm-5.3"
+}

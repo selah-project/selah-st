@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Dinpoho tsa mahodimo, le ditlhapi tsa leoatla, tseo di sepelang mehlaeng ya mawatle.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "dinpoho"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "tsa mahodimo"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "le ditlhapi tsa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "leoatla"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tseo di sepelang"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "mehlaeng ya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mawatle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:14.470002427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Matsatsi ohle a ho fufaoha le tla phomola ⟨את⟩ tseo e neng e sa di phomole ka di-Shabata tsa lona, ha le ntse le duleng holima lona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Matsatsi"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "a ho fufaoha"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "le tla phomola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tseo e neng e sa di phomole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "e sa di phomole"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "ka di-Shabata tsa lona"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "ha le ntse le duleng"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "holima lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:18:44.718053324Z",
+  "model": "glm-5.3"
+}

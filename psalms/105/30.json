@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Naha ya bona e ile ya tletsa difroge, diphaphathing tsa dikgosi tsa bona.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "e ile ya tletsa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "naha ya bona"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "difroge"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "diphaphathing tsa"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "dikgosi tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:24.083984416Z",
+  "model": "glm-5.3"
+}

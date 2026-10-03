@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Moea oaka o mphetola; o ntsamaisa mekamokwaneng ya tsedeke, bakeng sa lebitso la hae.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Moea oaka"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "o mphetola"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "o ntsamaisa"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "mekamokwaneng"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:35.494284502Z",
+  "model": "glm-5.3"
+}

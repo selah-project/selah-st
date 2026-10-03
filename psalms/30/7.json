@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme nna, ka khotso ya ka ke ile ka re: Ke ke ka tsamaisoa, ho fihlela ka sa feleng.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "ka khotso ya ka"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ke ke ka"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "tsamaisoa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ka sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:24.229299233Z",
+  "model": "glm-5.3"
+}

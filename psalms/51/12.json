@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Bopa pelong ea hloekileng ho 'na, Elohim, mme ruakh e tlhomeng e ntjhafse ka hare ho 'na.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "pelong"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ea hloekileng"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "bopa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mme ruakh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e tlhomeng"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e ntjhafse"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ka hare ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:10.746643503Z",
+  "model": "glm-5.3"
+}

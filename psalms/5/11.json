@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ba hlahise molato, Elohim; a ba hoele dimaelong tsa bona; ba hlakole ka bongata ba ditlolo tsa bona, hobane ba hlotse kgahlanong le wena.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "ba hlahise molato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "a ba hoele"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "dimaelong tsa bona"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka bongata ba"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "ditlolo tsa bona"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "ba hlakole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ba hlotse"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kgahlanong le wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:23.070524700Z",
+  "model": "glm-5.3"
+}

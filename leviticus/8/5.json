@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Moshe a re ho phutheho: Seno ke lentswe leo Yahwe a laetseng hore le etwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "phutheho"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Seno"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hore le etwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:08:21.093249242Z",
+  "model": "glm-5.3"
+}

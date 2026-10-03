@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Ke le kaneletse ⟨את⟩ linyane tsa basali ba Yerushalayime: le se ke la vusa kapa la susumetsa ⟨את⟩ lerato, ho fihlela le sona se batla.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ke le kaneletse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "linyane tsa basali ba Yerushalayime"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "linyane tsa basali"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ba Yerushalayime"
+    },
+    {
+      "surface": "מה",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "vusa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "la susumetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerato"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "lerato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "se batla"
+    }
+  ],
+  "timestamp": "2026-10-03T11:37:40.152164720Z",
+  "model": "glm-5.3"
+}

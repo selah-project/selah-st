@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "A ba tshwarwe ke mahlonoko, a ba tsekerehe ho fihlela kahosafeleng, mme a ba tshekehe, a ba hlahelwe;",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "A ba tshwarwe ke mahlonoko"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "a ba tsekerehe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kahosafeleng"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "mme a ba tshekehe"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "a ba hlahelwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:52.692750240Z",
+  "model": "glm-5.3"
+}

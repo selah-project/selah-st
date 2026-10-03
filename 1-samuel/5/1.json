@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Bafilisita ba nkile ⟨את⟩ arone ya Elohim, mme ba e tlisitse ho tloha Eben-ha-Ezere, ho ya Ashdode.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Mme Bafilisita"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ba nkile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arone"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arone"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "mme ba e tlisitse"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "ho tloha Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezere"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ho ya Ashdode"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:45.050986377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme a ba isa moleleng oa hae o halalelang, torong ena eo letsoho la hae le ka ho le letona le e rekileng.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "mme a ba isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molelong oa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hae o halalelang"
+    },
+    {
+      "surface": "הר",
+      "gloss": "torong"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "le e rekileng"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "letsoho la hae le ka ho le letona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:23.535951263Z",
+  "model": "glm-5.3"
+}

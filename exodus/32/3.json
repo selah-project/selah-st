@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme setjhaba sohle sa qhama ⟨את⟩ dinzimo tsa gauta tse dikaneng tsa tsona, mme sa di tlisa ho Aharone.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "sa qhama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinzimo tsa gauta"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "dinzimo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "dikaneng tsa tsona"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mme sa di tlisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:35.599465279Z",
+  "model": "glm-5.3"
+}

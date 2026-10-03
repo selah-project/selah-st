@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme Yahwe o go rometse tseleng, mme a re: Tlasa, o be o jele ⟨את⟩ badihodi, ⟨את⟩ Amaleke, mme o lwe le bona ho fihlela o ba qetile ⟨את⟩ bona.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "o go rometse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tlasa"
+    },
+    {
+      "surface": "ווהחרמתה",
+      "gloss": "o be o jele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badihodi"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "badihodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleke"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "o lwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "o ba qetile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:39:15.125351078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 47,
+  "translation": "Mme Yaakobo a hloekisa ⟨את⟩ Farao, mme a tswa pele ga Farao.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "a hloekisa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:40:33.334040332Z",
+  "model": "glm-5.3"
+}

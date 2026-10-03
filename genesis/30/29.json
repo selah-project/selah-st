@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme a re ho yena: Wena o tseba ⟨את⟩ seo ke neng ke lelekela ka lona, le ⟨את⟩ seo linku tsa hao di neng di le ⟨את⟩ ho nna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo ke neng ke lelekela ka lona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ke neng ke lelekela ka lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "seo linku tsa hao di neng di le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di neng di le"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "linku tsa hao"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ho nna"
+    }
+  ],
+  "timestamp": "2026-10-03T05:32:52.684887374Z",
+  "model": "glm-5.3"
+}

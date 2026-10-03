@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme morena wa Yisraele a tswa, a otla ⟨את⟩ dipere le ⟨את⟩ diraese, mme a otla Arame ka tlhoko e kgolo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipere"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "dipere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diraese"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "diraese"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "mme a otla"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ka tlhoko"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e kgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:14:15.756644812Z",
+  "model": "glm-5.3"
+}

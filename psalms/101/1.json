@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 101,
+  "translation": "Ya Dawide, mokoere. Hesede le kahlolo ke tla di opela; ho wena, Yahwe, ke tla opela ka lira.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoere"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla di opela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla opela ka lira"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:29.187429264Z",
+  "model": "glm-5.3"
+}

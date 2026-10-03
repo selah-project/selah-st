@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme ene kapa nama-ea-fuba, eona ⟨את⟩ le mora-eona ⟨את⟩, le se ke la e bola ka letsatsi le le leng.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "mme ene"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "nama-ea-fuba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mora-eona"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora-eona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "e bola"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le le leng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:18.957405484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme hape ka tlase ho letsatsi ke bone sebakeng sa kahlolo moo ho neng ho le bobe, le sebakeng sa tsedeke moo ho neng ho le bobe.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "mme hape"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "sa kahlolo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "moo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "le sebakeng"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "sa tsedeke"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "moo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bobe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:42.321106458Z",
+  "model": "glm-5.3"
+}

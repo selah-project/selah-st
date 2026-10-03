@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 137,
+  "translation": "Haeba ke lebohalala hle, Yerushalayime, a lebhole letsogo la ka la ho ja.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ke lebohalala hle"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "a lebhole"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "letsogo la ka la ho ja"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:13.745615552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Difofu di tle ho bona; a ba theohelle Sheole ba sa shwe; hobane bobe bo leng malapeng a bona, hara bona ka bobona.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "difofu"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "a ba theohelle"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ba sa shwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "malapeng a bona"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "hara bona ka bobona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:43.837019518Z",
+  "model": "glm-5.3"
+}

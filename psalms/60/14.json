@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 60,
+  "translation": "Ka Elohim re tla etsa boleng, mme oena o tla khahla bohlahlamong ba hlahlamong ba rona.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Ka Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re tla etsa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "boleng"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme oena"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "o tla khahla"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "hlahlamong ba rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:47.102615678Z",
+  "model": "glm-5.3"
+}

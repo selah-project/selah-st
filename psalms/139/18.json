@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Ha ke ka li bala, li feta lehlabathe; ha ke tsoha, ke ntse ke le ho uena.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "ha ke ka li bala"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "lehlabathe"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "li feta"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ha ke tsoha"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "ke ntse"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ke le ho uena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:39.969091430Z",
+  "model": "glm-5.3"
+}

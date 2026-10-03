@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme ha a nyefola ⟨את⟩ Yisraele, Yehonatane, mora wa Shimea, mora'abo Dawide, o ile a mo bolaia.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "mme ha a nyefola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "o ile a mo bolaia"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mora'abo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T12:17:59.224007169Z",
+  "model": "glm-5.3"
+}

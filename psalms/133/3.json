@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 133,
+  "translation": "Joalo ka kotula ya Kh ermone, e theoholang hodima dithaba tsa Tsiyone; hobane moo Yahwe o laetse ⟨את⟩ thokoletso — bophelo ho fihlela ho le ka hosafelweng.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Joalo ka kotula"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ya Khermone"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "e theoholang"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "tsa Tsiyone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thokoletso"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "thokoletso"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela ho"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "le ka hosafelweng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:11.819786585Z",
+  "model": "glm-5.3"
+}

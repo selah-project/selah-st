@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Tshabo ya Yahwe e hloeke, e eme ⟨ho sa feleng⟩; dikahlolo tsa Yahwe ke ⟨nnete⟩, di lokile kaofela.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Tshabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "e hloeke"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nnete"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "di lokile"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kaofela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:37.666461761Z",
+  "model": "glm-5.3"
+}

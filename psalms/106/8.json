@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Empa o ile a ba pholosa ka baka la lebitso la hae, hore a tsebise ⟨את⟩ matla a hae.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "empa o ile a ba pholosa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "hore a tsebise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matla a hae"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "matla a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:46.717991894Z",
+  "model": "glm-5.3"
+}

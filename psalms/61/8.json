@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 61,
+  "translation": "O tla lula ka mehla pele ga Elohim; hesede le 'nete — a lokise, a mo sireletse.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "O tla lula"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "le 'nete"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a lokise"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "a mo sireletse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:08.106027983Z",
+  "model": "glm-5.3"
+}

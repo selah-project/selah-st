@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme a re: Se ke wa tšaba, hobane ba bangata bao ba ⟨את⟩ le rona ho feta bao ba ⟨את⟩ bona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tšaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bangata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ba ⟨את⟩ le rona"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ho feta bao"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:19:14.525620486Z",
+  "model": "glm-5.3"
+}

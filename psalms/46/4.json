@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Metsi a yona a lla, a babaleha, dithaba di tshikinya ka boholo ba yona. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "a lla"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "a babaleha"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "Metsi a yona"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "di tshikinya"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "ka boholo ba yona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:05.431862289Z",
+  "model": "glm-5.3"
+}

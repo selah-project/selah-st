@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Ya bopang lipelo tsa bona hammoho, ya utlwisisang ⟨את⟩ mesebetsi ya bona eohle.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "ya bopang"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hammoho"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "lipelo tsa bona"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "ya utlwisisang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "mesebetsi ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:24.673419919Z",
+  "model": "glm-5.3"
+}

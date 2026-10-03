@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme e bile hobane bapeletsi ba tshabela ⟨את⟩ Elohim, o ile a etsela bona malapa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba tshabela"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "bapeletsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "o ile a etsela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bakeng sa bona"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "malapa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:05.515298207Z",
+  "model": "glm-5.3"
+}

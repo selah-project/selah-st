@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Ba ile ba fetola, ba tsamaea, mme ba bea ⟨את⟩ bana banyane le ⟨את⟩ dikgomo le ⟨את⟩ dithoto pele ho bona.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ba ile ba fetola"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba tsamaea"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ba bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana banyane"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "bana banyane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithoto"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "dithoto"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pele ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:26:53.746970570Z",
+  "model": "glm-5.3"
+}

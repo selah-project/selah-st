@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "E tsebe ⟨את⟩ letsatsi la Shabata, ho e halaletsa.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "e tsebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsatsi la Shabata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ho e halaletsa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:27.260322730Z",
+  "model": "glm-5.3"
+}

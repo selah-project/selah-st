@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme Dawide a utlwa, mme a roma ⟨את⟩ Yoabe le ⟨את⟩ sesole seohle sa banna ba matla.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a roma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoabe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sesole seohle sa banna ba matla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seohle sa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "banna ba matla"
+    }
+  ],
+  "timestamp": "2026-10-03T12:18:35.714685104Z",
+  "model": "glm-5.3"
+}

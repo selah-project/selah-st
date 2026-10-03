@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme e bile, ha ba ntse ba fihla, a bona ⟨את⟩ Eliabe, mme a re: Ruri, pele ga Yahwe ⟨⟨mo tlotsitsweng⟩⟩ wa hae.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ha ba fihla"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliabe"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliabe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "mo tlotsitsweng wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:37:51.304311644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ba llela ho Yahwe, mme ba re: Re ile ra fetola, hobane ra tloha Yahwe, ra sebeletsa ⟨את⟩ Baale le ⟨את⟩ Ashitarote; jwale re lokolletse ka letsoho ya mafofu a rona, re tla be re u sebeletsa.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ba llela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "re fetola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "ra tloha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "ra sebeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baale"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ashitarote"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashitarote"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "re lokolletse"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ka letsoho ya"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "mafofu a rona"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "re tla be re u sebeletsa"
+    }
+  ],
+  "timestamp": "2026-10-03T07:34:53.591938269Z",
+  "model": "glm-5.3"
+}

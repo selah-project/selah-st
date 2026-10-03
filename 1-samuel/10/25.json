@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Samuele a bua sechabeng ⟨את⟩ kahlolo ya borena, mme a e ngola bukeng, mme a e bea peling ya Yahwe; mme Samuele a romella sechaba ⟨את⟩ sohle, motho mong le mong ho ntlo ya hae.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "mme a bua"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sechabeng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahlolo ya borena"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ya borena"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "mme a ngola"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "bukeng"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "mme a bea"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "peling ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mme a romella"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sechaba sohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho mong le mong"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ho ntlo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:34:57.471053606Z",
+  "model": "glm-5.3"
+}

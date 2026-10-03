@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme nna ke tseba hore morena wa Mitsrayime o ke ke wa le nehehla hore le tsamaee, haese ka letsoho le matla.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ke ke wa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "le nehehla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le",
+      "marks": "le (lona)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "hore le tsamaee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "haese"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "le matla"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:47.888091296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Ya hodimetsang. Mokoere oa Dawide. E Elohim wa lithoriso tsa ka, o se ke wa ostula.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ya hodimetsang"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oa Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoere"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lithoriso tsa ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ostula"
+    }
+  ],
+  "timestamp": "2026-10-03T10:56:46.142355555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ba fumana ⟨את⟩ Adoni-Bezekahele Bezekahele, mme ba lwa ho eena, mme ba ba ha Adoni-Bezekahele: Ba fumanwa Bezekahele, ba lwa ho eena, mme ba hlaola ⟨את⟩ Mokanaane le ⟨את⟩ Moperizite.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "Mme ba fumana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "-Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekahele"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba hlaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mokanaane"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanaane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Moperizite"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Moperizite"
+    }
+  ],
+  "timestamp": "2026-10-03T07:16:24.402300825Z",
+  "model": "glm-5.3"
+}

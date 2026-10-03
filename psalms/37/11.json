@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme ba nyerekang ba tla ruella ⟨את⟩ lefatshe, mme ba tla thabela ka menyetla e mengata ea khotso.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "mme ba nyerekang"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ba tla ruella"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "mme ba tla thabela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e mengata"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:38.081479182Z",
+  "model": "glm-5.3"
+}

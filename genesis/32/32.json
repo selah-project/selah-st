@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme letsatsi la mo hlaba ha a ntse a feta ⟨את⟩ Peniele, mme a tsamaea a khotla ka lerameng la hae.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "la mo hlaba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ha a ntse"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peniele"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Peniele"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme a"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "tsamaea a khotla"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "lerameng la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:33:50.649479515Z",
+  "model": "glm-5.3"
+}

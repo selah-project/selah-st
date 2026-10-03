@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Ba ile ba qhekella ⟨את⟩ bashedi, eseng Eloha — melimo ya bona ba e tsebe hle; e ncha, tswang haufi, di tletse; bao bo-ntate ba lona ba sa di tshabeng.",
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "ba ile ba qhekella"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "bashedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hle... eseng"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ba e tsebe"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "e ncha"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "tswang haufi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "di tletse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "ba di tshabeng"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bo-ntate ba lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:02:17.450926651Z",
+  "model": "glm-5.3"
+}

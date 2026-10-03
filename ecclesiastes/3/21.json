@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ke mang ya tsebang hore na ruakh ya bana ba motho e nyollang ka hodima, kapa ruakh ya phoofolo e theohang ka tlase ho lefatshe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ya tsebang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "e nyollang"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ka hodima"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "kapa ruakh"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ya phoofolo"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "e theohang"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ka tlase"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ho lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:41:50.477846747Z",
+  "model": "glm-5.3"
+}

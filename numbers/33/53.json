@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 33:53",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme le tla e fuma ⟨את⟩ lefatshe, mme le lula ho lona; hobane le lona ke fuminetseng ⟨את⟩ lefatshe, ho le e fuma ⟨את⟩ eona.",
+  "tokens": [
+    {
+      "surface": "והורשתם",
+      "gloss": "le tla e fuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "mme le lula"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke fuminetseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ho le e fuma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "eona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:41:21.935640125Z",
+  "model": "glm-5.3"
+}

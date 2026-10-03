@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "mora wa Amaraya, mora wa Azaraya, mora wa Merayote.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaraya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaraya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayote"
+    }
+  ],
+  "timestamp": "2026-10-03T11:59:50.272639032Z",
+  "model": "glm-5.3"
+}

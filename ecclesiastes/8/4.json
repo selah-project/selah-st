@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Moo lentsoe la morena le leng teng, ho na le matla a pusong; mme ke mang ya ka reng ho eena: O etsa eng?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "moo... teng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "la morena"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "matla a pusong"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mme ke mang"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ya ka reng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:10.943155373Z",
+  "model": "glm-5.3"
+}

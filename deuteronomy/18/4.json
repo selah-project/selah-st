@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Ditheolelo tsa poone ya hao, veine e ncha ya hao, mafura a hao, le ditheolelo tsa lesela la dinku tsa hao, o mo fe tsona.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ditheolelo"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "ta poone ya hao"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "veine e ncha ya hao"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "le mafura a hao"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "le ditheolelo"
+    },
+    {
+      "surface": "גז",
+      "gloss": "tsa lesela"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "la dinku tsa hao"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o fe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:56:25.519174634Z",
+  "model": "glm-5.3"
+}

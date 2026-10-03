@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "O se ke wa nka mmoko ho mohahlalesi wa hau — mmoko wa selepe, mmoko wa lijo, mmoko wa seng le seng se ka ontjwang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa nka"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "mmoko"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ho mohahlalesi wa hau"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "mmoko"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wa selepe"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "mmoko"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "wa lijo"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "mmoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa seng le se seng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "seng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "se ka ontjwang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:57.559249279Z",
+  "model": "glm-5.3"
+}

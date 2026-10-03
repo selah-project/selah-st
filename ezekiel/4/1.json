@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme wena, mora wa motho, nka ho wena leramika, mme o be o laetse pele ho wena, mme o sekeletse hodima ho lona tora ⟨את⟩ Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "קח",
+      "gloss": "nka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "leramika"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "mme o be o laetse"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "leramika"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ho wena"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "mme o sekeletse"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hodima ho lona"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T09:34:03.448178859Z",
+  "model": "glm-5.3"
+}

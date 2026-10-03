@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ea, o re ho bona: Khutlelang ho lona, ho matente a lona.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Khutlelang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "ho matente a lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:50.016439311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 110,
+  "translation": "Ya Dawide, mokoere. Ho bolela Yahwe homonga wa ka: Dula ka ho ja hoja ha ka, fitela ha ke bea dira tsa hao sefanyetso sa maoto a hao.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoere"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "hoomonga wa ka"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Dula"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "ka ho ja hoja ha ka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fitela"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ha ke bea"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dira tsa hao"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sefanyetso"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "sa maoto a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:45.370056766Z",
+  "model": "glm-5.3"
+}

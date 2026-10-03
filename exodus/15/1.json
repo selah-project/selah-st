@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 15:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Ka nako eo Moshe le bana ba Yisraele ba ile ba bina ⟨את⟩ pina ena ho Yahwe, mme ba bolela, ba re: Ke tla bina ho Yahwe, hobane o phahemetse ka ho phahama; pitse le monga yona o ile a lahla lewatleng.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ka nako eo"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "ba ile ba bina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pina ena"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "pina"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba bolela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla bina"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "o phahemetse"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "ka ho phahama"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "pitse"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "le monga yona"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "o ile a lahla"
+    },
+    {
+      "surface": "בים",
+      "gloss": "lewatleng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:50.990338572Z",
+  "model": "glm-5.3"
+}

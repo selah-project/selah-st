@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Molemo ofe ya sebetsang o o fumana ho seo a se jekang?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ofe"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ya sebetsang"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ho seo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "a se jekang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:07.642602391Z",
+  "model": "glm-5.3"
+}

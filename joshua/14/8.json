@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Empa bana ba ka ba ileng ba nyolla le nna, bona ba tlotse ⟨את⟩ pelo ya setjhaba; empa nna ke tlatsitse morao ho Yahwe Elohim ya ka.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "empa bana ba ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba ileng"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ba nyolla"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "ba tlotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya setjhaba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "empa nna"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ke tlatsitse"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morao ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T07:12:08.004457559Z",
+  "model": "glm-5.3"
+}

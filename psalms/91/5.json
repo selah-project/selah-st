@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Ha o tla ts'oha ⟨⟨⟩⟩ sefosahetseng sa bosiu, kapa sehlare se fofang mots'eare.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "o tla ts'oha"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "sefosahetseng"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sa bosiu"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "se fofang"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mots'eare"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:28.908225284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Barake a bitella ⟨את⟩ Zebulune le ⟨את⟩ Naftale Kedeshe, a ea ka maoto a hae, dikete tse leshome la banna; mme Debora a ea le eena.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "a bitella"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebulune"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulune"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Naftale"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftale"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kedeshe"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a ea"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ka maoto a hae"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tse leshome"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "la banna"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "a ea"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debora"
+    }
+  ],
+  "timestamp": "2026-10-03T07:19:17.135190569Z",
+  "model": "glm-5.3"
+}

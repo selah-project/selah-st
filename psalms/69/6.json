@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Elohim, wena o tseba lefofu la ka; me libe tsa ka ho wena ha li patoa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "lefofu la ka"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "me libe tsa ka"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "li patoa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:09.828110165Z",
+  "model": "glm-5.3"
+}

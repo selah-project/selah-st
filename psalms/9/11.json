@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ba tsebang lebitso la hao ba tla tshepa ho wena; hobane ha o a tlohela ba o batlang, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "ba tla tshepa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ba tsebang"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "o a tlohela"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ba o batlang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:31.169553877Z",
+  "model": "glm-5.3"
+}

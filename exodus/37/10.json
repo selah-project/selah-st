@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme a etsa ⟨את⟩ tafole ka mohlare wa shitime; bophara ba yona e ne e le difofome tse pedi, mme e le fofome e le nngwe bophara, mme fofome le halofo bophahamo ba yona.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ka mohlare"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitime"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "difofome tse pedi"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bophara ba yona"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "fofome e le nngwe"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "fofome"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le halofo"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bophahamo ba yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:01.301083529Z",
+  "model": "glm-5.3"
+}

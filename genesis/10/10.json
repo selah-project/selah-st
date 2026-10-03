@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme qalong ya bommuso wa hae e bile Babele, le Ereke, le Akade, le Kalnehe, lefatsheng la Shineare.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "qalong"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ya bommuso wa hae"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "le Ereke"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "le Akade"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "le Kalnehe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "la Shineare"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:15.564397562Z",
+  "model": "glm-5.3"
+}

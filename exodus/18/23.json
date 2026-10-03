@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Ha u etsa ⟨את⟩ taba ena, mme Elohim a u laela jwalo, o tla kgona ho ema, mme sona sechaba sona se felile se tla ya sebakeng sa sona ka khotso.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba ena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "u etsa"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "mme a u laele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "o tla kgona"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ho ema"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se felile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "sebakeng sa sona"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "se tla ya"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ka khotso"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:51.626725131Z",
+  "model": "glm-5.3"
+}

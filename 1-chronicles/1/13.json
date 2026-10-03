@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Kenaane a beleta ⟨את⟩ Tsidone ya pele-horelela hae, le ⟨את⟩ Kethe;",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Mme Kenaane"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a beleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidone"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidone"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ya pele-horelela hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kethe"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Kethe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:30.091010195Z",
+  "model": "glm-5.3"
+}

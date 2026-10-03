@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme ha e atisa ho phatloha ho ya letlalong, moprista o tla mo hlahisa hore ha a hloekile: ke bolwetši.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "e atisa"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "ho phatloha"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ho ya letlalong"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "o tla mo hlahisa hore ha a hloekile"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (motho ya ngotsoeng)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "bolwetši"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    }
+  ],
+  "timestamp": "2026-10-03T06:10:34.862793599Z",
+  "model": "glm-5.3"
+}

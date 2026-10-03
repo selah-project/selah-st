@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Hobane ka letsatsi le ka bosiu seatla sa hau se ne se boima holim'a ka; matla a ka a ile a fetoha ⟨e le⟩ omelelo ya selemo. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ו לילה",
+      "gloss": "le ka bosiu"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "se boima"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "holim'a ka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa hau"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "a fetoha"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "omelelo"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ya selemo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:56.441732167Z",
+  "model": "glm-5.3"
+}

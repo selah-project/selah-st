@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 141,
+  "translation": "Behela, Yahwe, tlhokomelo molomong wa ka; boloka letlaka la molomo wa ka.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Behela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "tlhokomelo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "molomong wa ka"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "על",
+      "gloss": "letlakeng la"
+    },
+    {
+      "surface": "דל",
+      "gloss": "letlaka"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomo wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:46.589566715Z",
+  "model": "glm-5.3"
+}

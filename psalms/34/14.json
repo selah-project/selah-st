@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Loka leleme la hao ho boshula, le melomo ea hao ho bua boikhohomosi.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Loka"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "leleme la hao"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ho boshula"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "le melomo ea hao"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ho bua"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "boikhohomosi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:16.703069092Z",
+  "model": "glm-5.3"
+}

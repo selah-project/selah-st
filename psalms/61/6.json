@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 61,
+  "translation": "Hobane wena, Elohim, o mamelletse lifoloha tsa ka; o feditse hona jwale kabelo ya ba tshabang lebitso la hao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "o mamelletse"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "lifoloha tsa ka"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "o feditse"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "kabelo"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ya ba tshabang"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:08.105777512Z",
+  "model": "glm-5.3"
+}

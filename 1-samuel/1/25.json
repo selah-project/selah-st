@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ba ile ba rbala ⟨את⟩ namane, mme ba ile ba hlahisa ⟨את⟩ mosanyana ho Eli.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "ba ile ba rbala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namane"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "namane"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ba ile ba hlahisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosanyana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosanyana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:02.352334781Z",
+  "model": "glm-5.3"
+}

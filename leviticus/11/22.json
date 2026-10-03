@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "⟨את⟩ Tse le ka ja ho tsona: ⟨את⟩arbe ho mofuta wa sona, le ⟨את⟩ solame ho mofuta wa sona, le ⟨את⟩ khargole ho mofuta wa sona, le ⟨את⟩ khagabe ho mofuta wa sona.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tse"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Tse"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le ka ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbe"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbe"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ho mofuta wa sona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "solame"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solame"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ho mofuta wa sona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "khargole"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "khargole"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ho mofuta wa sona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "khagabe"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "khagabe"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ho mofuta wa sona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:07:31.194333532Z",
+  "model": "glm-5.3"
+}

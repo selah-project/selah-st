@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "O tla ba lokolosa ho tloha bohatelle le bosenyi — mea ya bona; mme madi a bona a tla lebella mahlong a hae.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "le bosenyi"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "o tla lokolosa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mea ya bona"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "mme a tla lebella"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "madi a bona"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mahlong a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:05.144644618Z",
+  "model": "glm-5.3"
+}

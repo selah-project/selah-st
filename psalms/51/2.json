@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Ha Natane moporofeta a fihla ho yena, kamora hore a kene ho Bat-Sheba.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ha a fihla"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natane"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamora hore"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a kene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:20.304089508Z",
+  "model": "glm-5.3"
+}

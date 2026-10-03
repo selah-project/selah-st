@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Nafelo ea ka e fedile ka tlisa ea hau; ke tsehetse lentsoeng la hau.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "e fedile"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "ka tlisa ea hau"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafelo ea ka"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "lentsoeng la hau"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ke tsehetse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:04.110833107Z",
+  "model": "glm-5.3"
+}

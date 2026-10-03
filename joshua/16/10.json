@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme ba sa tlose ⟨את⟩ Kenaana ya neng a dula Gezere; mme Kenaana o ile a dula bohareng ba Efrayime ho fihlela letsatsi lena, mme o ile a ba mohlanka wa lekhetho, mošomi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "tlose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaana"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ya neng a dula"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "Gezere"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme o ile a dula"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "bohareng ba"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme o ile a ba"
+    },
+    {
+      "surface": "למס",
+      "gloss": "wa lekhetho"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mošomi"
+    }
+  ],
+  "timestamp": "2026-10-03T07:12:22.510959165Z",
+  "model": "glm-5.3"
+}

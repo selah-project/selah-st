@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 124,
+  "translation": "Moo, metsi a phahameng a ke ke a fetela holimo bophelong ba rona.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "moo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a fetela"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "bophelong ba rona"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "a phahameng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:47.557884056Z",
+  "model": "glm-5.3"
+}

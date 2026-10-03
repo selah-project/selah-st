@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Mahana-hae a je sebakeng sa dijong tse monate, ba atametse nna ka menoana a tsamaya ka mpshafatsa ho bohlaswa; ba kgamla meno ho nna.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "mahana-hae"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "ba tsamaya ka mpshafatsa ho bohlaswa"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "ba je sebakeng sa dijong tse monate"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "ba kgamla meno"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "menoana"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:15.745043407Z",
+  "model": "glm-5.3"
+}

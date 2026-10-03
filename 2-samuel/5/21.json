@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme ba tlohaella moo ⟨את⟩ ditshwantsho tsa tsona, mme Dawide le banna ba hae li ile tsa li nkela.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Mme ba tlohaella"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshwantsho tsa tsona"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ditshwantsho tsa tsona"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "mme li ile tsa li nkela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:48:54.026129473Z",
+  "model": "glm-5.3"
+}

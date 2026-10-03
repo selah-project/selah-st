@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 159,
+  "ref": "psalms 119:159",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Sheba, hore na myaelo ya hao ke e ratileng; Yahwe, ka hesede ya hao mphe bophelo.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore na"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "myaelo ya hao"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ke e ratileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ka hesede ya hao"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "mphe bophelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:22.222209705Z",
+  "model": "glm-5.3"
+}

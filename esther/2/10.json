@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Estere ha a a phatlalatsa ⟨את⟩ setjhaba sa hae le ⟨את⟩ bophelo ba hae; hobane Mordekai o ile a mo laela hore a se ke a phatlalatsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "a phatlalatsa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba sa hae"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "setjhaba sa hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo ba hae"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "bophelo ba hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o ile a mo laela"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "a phatlalatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:46:46.301489259Z",
+  "model": "glm-5.3"
+}

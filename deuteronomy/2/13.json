@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Jwale tsogang, mme fetang molemong wa lona ⟨את⟩ molapo wa Zarede; mme ra fetela ⟨את⟩ molapo wa Zarede.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Jwale"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "tsogang"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "mme fetang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "molemong wa lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molapo wa Zarede"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molapo"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "wa Zarede"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "mme ra fetela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molapo wa Zarede"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molapo"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "wa Zarede"
+    }
+  ],
+  "timestamp": "2026-10-03T12:50:02.490391555Z",
+  "model": "glm-5.3"
+}

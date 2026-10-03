@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Ba ile ba llapatsa ho Yahwe nakong ea bothataba ba bona, mme o ile a ba lokolla mathwasong a bona.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ba ile ba llapatsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nakong ea bothataba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "mathwasong a bona"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "o ile a ba lokolla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:16.355309499Z",
+  "model": "glm-5.3"
+}

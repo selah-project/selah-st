@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Dawide a ile a lekanya ⟨את⟩ setjhaba se nang le yena, mme a beha hodima tsona balaodi ba dikete le balaodi ba makgolo.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "a ile a lekanya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "nang le ⟨את⟩ yena"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hodima tsona"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi ba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le balaodi ba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T07:55:53.593659088Z",
+  "model": "glm-5.3"
+}

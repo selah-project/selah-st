@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 57,
+  "translation": "Ntimele, Elohim, ntimele, hobane ho wena bophelo ba ka bo ikhohomosa; mokotleng wa mapheho a hao ke tla ikhohomosa, ho fihlela maswao a feta.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ntimele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ntimele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "bo ikhohomosa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo ba ka"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "mokotleng wa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "mapheho a hao"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ke tla ikhohomosa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "maswao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:44.314124220Z",
+  "model": "glm-5.3"
+}

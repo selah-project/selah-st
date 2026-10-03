@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme lona, le ntlafale le be le ntle, le atolle; le tlale le tlase lefatshe, mme le atolle ho lona.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "le ntlafale le be le ntle"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "le atolle"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "le tlale le tlase"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "le atolle"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:47.284056951Z",
+  "model": "glm-5.3"
+}

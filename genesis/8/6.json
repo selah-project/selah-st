@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme e ile ya ba qetellong ya matsatsi a mashome a mane, Noe a bula ⟨את⟩ dira tsa sekeke seo a neng a se entse.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e ile ya ba"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "qetellong ya"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mashome a mane"
+    },
+    {
+      "surface": "יום",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "a bula"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dira tsa sekeke"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "dira"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tsa sekeke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a neng a se entse"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:20.381121066Z",
+  "model": "glm-5.3"
+}

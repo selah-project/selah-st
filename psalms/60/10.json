@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 60,
+  "translation": "Moabe ke setshodi sa ho hlapa sa ka; hodima Edome ke tla lahla seeta sa ka; hodima ka, Pelashete, hlahlama ka ntlha ya ka.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "setshodi"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "sa ho hlapa sa ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ke tla lahla"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "seeta sa ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima ka"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelashete"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "hlahlama"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:13.355595403Z",
+  "model": "glm-5.3"
+}

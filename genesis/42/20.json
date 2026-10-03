@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Le tle le tlise ⟨את⟩ mora'eno ea monyane ho 'na; mme mantsoe a lona a netefatsoe, le se ke la swa. Mme ba etsa jwalo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mora'eno ea monyane"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mora'eno"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ea monyane"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "le tlise"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "a netefatsoe"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "mantsoe a lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "swa"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:11.586607569Z",
+  "model": "glm-5.3"
+}

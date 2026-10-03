@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 114,
+  "translation": "Ka ho tswa ha Yisraele ho Mitsrayime, ntlo ya Yaakobo ho sechaba sa puo e sa tsejweng,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "ka ho tswa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho Mitsrayime"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ho sechaba"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "sa puo e sa tsejweng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:43.695618864Z",
+  "model": "glm-5.3"
+}

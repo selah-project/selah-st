@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Gape ⟨את⟩ mora wa lekhobo la ntlo ke tla mo etsa setjhaba, hobane ke poelo ya hao ⟨yena⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mora wa lekhobo la ntlo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa lekhobo la ntlo"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ke tla mo etsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "poelo ya hao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-10-03T12:42:33.273769904Z",
+  "model": "glm-5.3"
+}

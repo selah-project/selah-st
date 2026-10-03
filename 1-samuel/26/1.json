@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 26:1",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme Ba-Zife ba ya ho Shaule ho Gibea, ba re: Na Dawide ha a pata hakae thabeng ya Hakila, pela bohle ba Yeshimone?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "הזפים",
+      "gloss": "Ba-Zife"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "ho Gibea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "a pata"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "Hakila"
+    },
+    {
+      "surface": "על",
+      "gloss": "pela"
+    },
+    {
+      "surface": "פני",
+      "gloss": "bohle ba"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "Yeshimone"
+    }
+  ],
+  "timestamp": "2026-10-03T07:45:07.827453744Z",
+  "model": "glm-5.3"
+}

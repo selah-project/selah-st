@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "A re: Ruri ke tla ba le wena, mme se ke sona sesupo ho wena hore ke ile ka o romela: ha o ntse o tlosa ⟨את⟩ sechaba ho tloha Mitsrayime, le tla sebeletsa ⟨את⟩ Elohim hodima thaba ena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke tla ba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "mme se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "האות",
+      "gloss": "sesupo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "ka o romela"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "ha o ntse o tlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sechaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho tloha Mitsrayime"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "le tla sebeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:50.417022339Z",
+  "model": "glm-5.3"
+}

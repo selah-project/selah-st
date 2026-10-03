@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "O ba patileng ka sephiring sebusong sa sefahleho sa hao, o ba sielehile dikano tsa motho; o ba patileng ka sephiring ka tenteng, ho tloha khangeng ya maleme.",
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "O ba patileng ka sephiring"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka sephiring"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sebusong sa sefahleho sa hao"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "ho tloha dikano tsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "o ba patileng ka sephiring"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "ka tenteng"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ho tloha khangeng"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "ya maleme"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:02.249512198Z",
+  "model": "glm-5.3"
+}

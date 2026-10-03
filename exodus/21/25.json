@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Sechaba se se tjeeletsoeng sebakeng sa sechaba se se tjeeletsoeng, bothata boholo sebakeng sa bothata boholo, kgopotso sebakeng sa kgopotso.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "sechaba se se tjeeletsoeng"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "sechaba se se tjeeletsoeng"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "bothata boholo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "bothata boholo"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "kgopotso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "kgopotso"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:43.747165133Z",
+  "model": "glm-5.3"
+}

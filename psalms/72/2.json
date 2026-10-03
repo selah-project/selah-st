@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "O tla ahlola setjhaba sa hau ka tsedeke, le ba fokolang ba hau ka kahlolo.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "o tla ahlola"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setjhaba sa hau"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "le ba fokolang ba hau"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:03.441572576Z",
+  "model": "glm-5.3"
+}

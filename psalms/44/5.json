@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "O wena ⟨ke wena⟩ morena wa ka, Elohim; aela ditokoloho tsa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "O wena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ke wena⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aela"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ditokoloho"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:14.616304480Z",
+  "model": "glm-5.3"
+}

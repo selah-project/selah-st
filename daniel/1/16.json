@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme mookameli a nka ⟨את⟩ dinate tsa bona le veine e neng e le noso ya bona, a ba fa merogo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e bile"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "mookameli"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinate tsa bona"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "dinate tsa bona"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "le veine"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "noso ya bona"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "merogo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:48:31.101226608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme Dawide a fa Shelomoho mora wa hae ⟨את⟩ popeho ea ⟨the⟩ koloi-ea-kenyelo, le ⟨את⟩ malapeng a eona, le lipolokelo tsa eona, le diphahamisong tsa eona, le diphapang tsa eona tsa kahare, le ntlo ea frothero.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mme ... a fa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomoho"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popeho ea koloi-ea-kenyelo"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "popeho"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "ea koloi-ea-kenyelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malapeng a eona"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "malapeng a eona"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "lipolokelo tsa eona"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "diphahamisong tsa eona"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "diphapang tsa eona"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "tsa kahare"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "le ntlo"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ea frothero"
+    }
+  ],
+  "timestamp": "2026-10-03T12:21:17.502696209Z",
+  "model": "glm-5.3"
+}

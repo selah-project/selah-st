@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Bo-ntate ba se ke ba bolawa ka bana, mme bana ba se ke ba bolawa ka bo-ntate; motho ka Monghadi o tla bolawa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ba bolawa"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bo-ntate"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "mme bana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ba bolawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bo-ntate"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "ka Monghadi oa hae"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "o tla bolawa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:34.417836128Z",
+  "model": "glm-5.3"
+}

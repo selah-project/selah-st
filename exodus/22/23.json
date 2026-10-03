@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "mme tlhahlo ya ka e tla tukela, mme ke tla bolaea ⟨את⟩ lona ka sabole, mme basadi ba lona ba tla ba bahlolohadi, le bana ba lona ba tla ba lehlehwana.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "e tla tukela"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "tlhahlo ya ka"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ke tla bolaea"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka sabole"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ba tla ba"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "basadi ba lona"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "bahlolohadi"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "le bana ba lona"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "lehlehwana"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:45.559119155Z",
+  "model": "glm-5.3"
+}

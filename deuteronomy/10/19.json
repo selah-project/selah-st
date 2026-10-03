@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Le rate ⟨את⟩ moahi ya tswang potjhang, hobane le ne le le bahoahi ba tswang potjhang naheng ya Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "le rate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moahi ya tswang potjhang"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "moahi ya tswang potjhang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bahoahi ba tswang potjhang"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "le ne le le"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T06:48:32.010100775Z",
+  "model": "glm-5.3"
+}

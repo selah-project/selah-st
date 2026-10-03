@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme manamane a tla tloha ho wena, le malapeng a hao, le balekaneng ba hao, le sechabeng sa hao; feela nokeng e tla sala.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "a tla tloha"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "manamane"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "le malapeng a hao"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "le balekaneng ba hao"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "le sechabeng sa hao"
+    },
+    {
+      "surface": "רק",
+      "gloss": "feela"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "nokeng"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "e tla sala"
+    }
+  ],
+  "timestamp": "2026-10-03T05:46:35.402202976Z",
+  "model": "glm-5.3"
+}

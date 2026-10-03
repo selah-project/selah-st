@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ba araba ⟨את⟩ Yehoshua, ba re: Tsohle tseo o li laetseng rona re tla li etsa, mme ho ya moo o ka re romelang teng, re tla tsamaea.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Mme ba araba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "o li laetseng rona"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re tla li etsa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ho ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "o ka re romelang"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "re tla tsamaea"
+    }
+  ],
+  "timestamp": "2026-10-03T07:04:04.768612608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme moprista a laela, mme ba tlosa ⟨את⟩ majoe ao ho ona sefofoko se leng, mme ba li lahla ntle ho toropo, sebakeng se sa halalelang.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Mme moprista a laela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "mme ba tlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majoe"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "majoe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ho ona"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "sefofoko"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "mme ba li lahla"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨אתהן⟩",
+      "marks": "majoe (li)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ntle"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "se sa halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:10:02.605048353Z",
+  "model": "glm-5.3"
+}

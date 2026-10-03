@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Hobane ha ba tsamaisana jwaloka litenyele, mme ba bacha ka joa bona, ba tla jeoa jwaloka bohare bo omileng, ka botlalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ha"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "litenyele"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "ba tsamaisana"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "ka joa bona"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "ba bacha"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ba tla jeoa"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "jwaloka bohare"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "bo omileng"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ka botlalo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:11:58.753127648Z",
+  "model": "glm-5.3"
+}

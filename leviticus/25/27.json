@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "a bala ⟨את⟩ lilemo tsa thekiso ya hae, mme a busetsa ⟨את⟩ se setseng ho monna ya mo reketseng, mme a boela ho tšoasong ya hae.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "a bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lilemo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lilemo"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "tsa thekiso ya hae"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "mme a busetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se setseng"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "se setseng"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ho monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "mo reketseng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "mme a boela"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "ho tšoasong ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:18:06.708821177Z",
+  "model": "glm-5.3"
+}

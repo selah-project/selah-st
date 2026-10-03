@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mela ea kabelo e ile ea wa ho ya ka libakeng tse monate; ho feta moo, kabelo ea ka e letle haholo ho ya ka.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "mela ea kabelo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "e ile ea wa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ya ka"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "libakeng tse monate"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ho feta moo"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "kabelo"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "e letle haholo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:34.295387733Z",
+  "model": "glm-5.3"
+}

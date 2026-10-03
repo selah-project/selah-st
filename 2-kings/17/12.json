@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme ba direla melimo, eo Yahwe a boleletseng ho bona re: Le se ke la etsa ⟨את⟩ dilo tsena.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ba direla"
+    },
+    {
+      "surface": "הגלולים",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a boleletseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tsena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dilo tsena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:26:30.647167625Z",
+  "model": "glm-5.3"
+}

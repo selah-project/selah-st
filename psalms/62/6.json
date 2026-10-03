@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 62,
+  "translation": "Ee, ho Elohim feela moya wa ka o nne bo-tôlô; hobane tsholofelo ya ka e tswa ho yena.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ee, feela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "o nne bo-tôlô"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e tswa ho yena"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "tsholofelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:49.311484645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Yahwe Elohim o ile a laela motho, a re: O tla ja ⟨⟩ ho tloha sefating se seng le se seng sa setharing — o tla ja ho noa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Mme ... o ile a laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tloha ... se seng le se seng"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sefating"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "sa setharing"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "o tla ja"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "o tla ja"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:24.619934330Z",
+  "model": "glm-5.3"
+}

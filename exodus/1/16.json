@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "a re: Ha le thusa basadi ba Basheberu ho belega, mme le ba bona hodima majwe a peleho; ha e le moshanyana, mo bolae; mme ha e le ngoana ya lefa, a pheleng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "ha le thusa ho belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basheberu"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "Basheberu"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "mme le ba bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "majwe a peleho"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha e le"
+    },
+    {
+      "surface": "בן",
+      "gloss": "moshanyana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e le⟩"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "mo bolae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ oona",
+      "marks": "moshanyana"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme ha e le"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ngoana ya lefa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨e le⟩"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "a pheleng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:08.427694871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Moya oa ka o khoptshitsoe ke takatso ea dikahlolo tsa hao ka nako eohle.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "o khoptshitsoe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "ke takatso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "euletse"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikahlolo tsa hao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka eohle"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:50.890513069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Ke mang ya lekanyetseng ⟨את⟩ ruakh ya Yahwe, ke mang ya ileng a mo tsebisa mokgatla wa hae?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ya lekanyetseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme ke mang"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "mokgatla wa hae"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "a mo tsebisa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:21.486302123Z",
+  "model": "glm-5.3"
+}

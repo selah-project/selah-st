@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Jwale ke tsebile hore Yahwe o pholosa ⟨את⟩ Mashiakh wa hage; o tla mo araba ho tloha mahodimong a halalelang a hage, ka matla a pholohong a letsoho la hage le letona.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke tsebile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "o pholosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiakh wa hage"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "o tla mo araba"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "ho tloha mahodimong a"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "a halalelang a hage"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "ka matla a"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "a pholohong"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "letsoho la hage le letona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:37.501684410Z",
+  "model": "glm-5.3"
+}

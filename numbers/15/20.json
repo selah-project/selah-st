@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "tlhaku ya pele ya armsoso a lona, lekuku, le tla phahamisa e le mpho e phahamisitsweng; jwalo ka mpho e phahamisitsweng ya sefala, jwalo le le phahamisa ⟨את⟩ yona.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "tlhaku ya pele"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "ya armsoso a lona"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "lekuku"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "le phahamise"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "mpho e phahamisitsweng"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "jwalo ka mpho"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ya sefala"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "le phahamisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:30:57.423249357Z",
+  "model": "glm-5.3"
+}

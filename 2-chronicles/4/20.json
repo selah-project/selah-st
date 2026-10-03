@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Le ⟨את⟩ dinola le majwe a tsona bakeng sa ho chesa, ka tlwaelo, ka pele ho ntlo ya sephiri; gauta e hlwekileng haholo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dinola"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "dinola"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "le majwe a tsona"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "bakeng sa ho chesa"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ka tlwaelo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka pele ho"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "ntlo ya sephiri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "e hlwekileng haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:23:27.090280769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme mantsiboya a tlaha, a nka ⟨את⟩ Lea moradi wa hae, mme a mo isa ho yena, mme yena a kena ho eena.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme mantsiboya a tlaha"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mantsiboya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea moradi wa hae"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "moradi wa hae"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a mo isa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ho yena"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ho eena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:30:42.263021010Z",
+  "model": "glm-5.3"
+}

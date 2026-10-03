@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 150,
+  "translation": "Sephohong ka mofutho o tletseng se tlotlise Yah, halalelang Yah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka mofutho o tletseng"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "sephohong"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "se tlotlise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "halalelang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:57.048213573Z",
+  "model": "glm-5.3"
+}

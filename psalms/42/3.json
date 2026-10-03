@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Moya oa ka o khohlela Elohim, bakeng sa El ea phelang: neng ke tla tla, mme ke bone sefahleho sa Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "o khohlela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bakeng sa Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "bakeng sa El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ea phelang"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "neng"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ke tla tla"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mme ke bone"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:15.733593730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Ya kopo mokgekolo, mme a sa lefule; mme ya lokileng o bontsha tsedeke mme o fana.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "ya kopa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mokgekolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "a lefule"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "mme ya lokileng"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "o bontsha tsedeke"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "mme o fana"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:48.430574915Z",
+  "model": "glm-5.3"
+}

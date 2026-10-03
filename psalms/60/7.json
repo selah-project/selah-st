@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 60,
+  "translation": "Hore ba ratang ba hlapoloe; boloka ka letsohong la hao la ho ja ncha, mme o arabe re.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "ba hlapoloe"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "ba ratang ba hao"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsohong la hao la ho ja ncha"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "mme o arabe re"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:40.111942416Z",
+  "model": "glm-5.3"
+}

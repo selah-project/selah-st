@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 4:43",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "⟨את⟩ Betsera sebakeng sa ho se nang metsi, naheng ea ⟨the⟩ mocheso, bakeng sa Barueni; le ⟨את⟩ Raamota Giléeḱa bakeng sa Bagadi; le ⟨את⟩ Gola­na Basana bakeng sa Bamanase.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsera"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betsera"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sebakeng sa ho se nang metsi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ea"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "⟨the⟩ mocheso"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "bakeng sa Barueni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Raamota"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Raamota"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Giléeḱa"
+    },
+    {
+      "surface": "לגדי",
+      "gloss": "bakeng sa Bagadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Golana"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golana"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Basana"
+    },
+    {
+      "surface": "למנשי",
+      "gloss": "bakeng sa Bamanase"
+    }
+  ],
+  "timestamp": "2026-10-03T12:49:50.226769811Z",
+  "model": "glm-5.3"
+}

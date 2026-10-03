@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Ntsekise ka ezobe, mme ke tla hloekiswa; ntlosa, mme ke tla besa ho feta sejana.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "ntsekise"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "ka ezobe"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "mme ke tla hloekiswa"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "ntlosa"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "mme ho feta sejana"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "ke tla besa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:10.746058186Z",
+  "model": "glm-5.3"
+}

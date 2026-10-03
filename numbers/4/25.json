@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ba tla bapala ⟨את⟩ di-aparo tsa Mishkane, le ⟨את⟩ tenta ya kopano, phutho ya yona, le phutho ya letlalo la thakhisi eo e holim'a eona ka hodimo, le ⟨את⟩ sephuthi sa monyako wa tenta ya kopano,",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "ba tla bapala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di-aparo tsa Mishkane"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "di-aparo tsa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tenta ya kopano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "phutho ya yona"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "le phutho ya"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "letlalo la thakhisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e holim'a eona"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ka hodimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sephuthi sa monyako"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "sephuthi sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "monyako wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenta ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T12:47:08.962828353Z",
+  "model": "glm-5.3"
+}

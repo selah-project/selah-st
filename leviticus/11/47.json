@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ho hlahisa pharollo pakeng tsa se sa hlokahalang le se hlokahalang, le pakeng tsa phoofolo e ka jeoang le pakeng tsa phoofolo e sa jeoeng.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "ho hlahisa pharollo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "se sa hlokahalang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "se hlokahalang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "phoofolo"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "e ka jeoang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "phoofolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jeoeng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:07:26.948316578Z",
+  "model": "glm-5.3"
+}

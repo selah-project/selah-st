@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Mamela, sechaba sa ka, mme ke tla bua; Yisraele, mme ke tla akgola pel'a hao: Elohim, Elohim wa hao, ke nna.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sechaba sa ka"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "mme ke tla bua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואעידך",
+      "gloss": "mme ke tla akgola"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pel'a hao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:03.206106689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Ke boemong ba ka ba phomolo ho fihlela kahosafelhe: mo ke tla dula, hobane ke e ratile.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ke"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "boemong ba ka ba phomolo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kahosafelhe"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ke tla dula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "ke e ratile"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:33.652334546Z",
+  "model": "glm-5.3"
+}

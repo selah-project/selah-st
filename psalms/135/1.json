@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Halaleng Yah, halaleng ⟨את⟩ lebitso la Yahwe; halaleng, ditlelere tsa Yahwe,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "halaleng"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "halaleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "halaleng"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ditlelere tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:02.808779094Z",
+  "model": "glm-5.3"
+}

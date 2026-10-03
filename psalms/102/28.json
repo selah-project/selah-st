@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Empa wena ⟨ke⟩ yena ya ntseng yena, mme lilemo tsa hao di ke ke ya phetha.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Empa wena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena ya ntseng yena"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "mme lilemo tsa hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "di ke ke ya"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "phetha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:33.516386656Z",
+  "model": "glm-5.3"
+}

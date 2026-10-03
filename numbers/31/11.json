@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme ba nka ⟨את⟩ Shelala yohle le ⟨את⟩ Malqoahe ka boyena, botho le diphulo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Mme ba nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelala yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "Shelala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Malqoahe yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "Malqoahe"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "botho"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "le diphulo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:39:12.786911938Z",
+  "model": "glm-5.3"
+}

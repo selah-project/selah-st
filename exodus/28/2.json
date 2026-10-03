@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme o tla etsa diaparo tse halalelang bakeng sa Aharone ngoan'eno, bakeng sa tlotla le bakeng sa bokgabane.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tla etsa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tse halalelang"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "bakeng sa Aharone"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "ngoan'eno"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "bakeng sa tlotla"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "le bakeng sa bokgabane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:26.093266783Z",
+  "model": "glm-5.3"
+}

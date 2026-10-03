@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Samuele a bolela ⟨את⟩ mantswe ohle a Yahwe ho setjhaba se kopang ho yena morena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a bolela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "se kopang"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ho yena ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:27.181251471Z",
+  "model": "glm-5.3"
+}

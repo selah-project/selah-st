@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Molomo o na le ⟨e⟩, empa ha bolele; mahlo a na le ⟨e⟩, empa ha a bone.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Molomo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "o na le"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bolele"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a na le"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa ha a"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:02.026548921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme a bea ⟨את⟩ sethala sa metsi pakeng sa tende ya kopano le aletare, mme a neha hole metsi bakeng sa ho hlapa.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mme a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sethala sa metsi"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "sethala sa metsi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a neha"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hole"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "bakeng sa ho hlapa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:42.615066115Z",
+  "model": "glm-5.3"
+}

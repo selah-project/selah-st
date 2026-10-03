@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Mme ba lokileng ba tla bona, mme ba tla tšaba, mme ba tla mo seka ho eena.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ba tla bona"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ba tla tšaba"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ba tla mo seka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:03.203179964Z",
+  "model": "glm-5.3"
+}

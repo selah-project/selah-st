@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ba dula teng hore ba leke ka tsona ⟨את⟩ Yisraele, hore ho tsejwe hore na ba tla mamela ⟨את⟩ melao ya Yahwe, eo a laetseng ⟨את⟩ bo-ntata-bona ka letsoho la Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Mme ba dula teng"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "hore ba leke"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tsona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hore ho tsejwe"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "hore na ba tla mamela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya Yahwe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "melao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bo-ntata-bona"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bo-ntata-bona"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:17:27.504269076Z",
+  "model": "glm-5.3"
+}

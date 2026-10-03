@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Ba dutseng sefifing le morung wa lefu, ba tswaletsweng ka tshwenyo le laitshe.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "ba dutseng"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sefifing"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "le morung wa lefu"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "ba tswaletsweng"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ka tshwenyo"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "le laitshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:38.387080767Z",
+  "model": "glm-5.3"
+}

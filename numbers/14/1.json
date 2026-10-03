@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme khotso eohle ya ileng ya neha ⟨את⟩ lentswe la yona, mme setjhaba sa lla bosiu boo.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ya ileng ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ya neha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la yona"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "lentswe la yona"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "sa lla"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "boo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:28:38.696564947Z",
+  "model": "glm-5.3"
+}

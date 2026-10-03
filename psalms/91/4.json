@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Ka mapara a hae o tla o apesa, mme ka tlase ho mahapha a hae o tla ikhulela; thari le sehlaho ke nnete ya hae.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Ka mapara a hae"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "o tla o apesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "mme ka tlase ho"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "mahapha a hae"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "o tla ikhulela"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "thari"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "le sehlaho"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "nnete ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:53.502621899Z",
+  "model": "glm-5.3"
+}

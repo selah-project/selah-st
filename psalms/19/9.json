@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Ditaediso tsa Yahwe di loka, di ntlafatsa pelo; taelo ya Yahwe e hloeke, e phadima mahlo.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Ditaediso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "di loka"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "di ntlafatsa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "e hloeke"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "e phadima"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mahlo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:37.666157578Z",
+  "model": "glm-5.3"
+}

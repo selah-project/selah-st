@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 60,
+  "translation": "O thofatsitse lefatshe, o le phulule; folisa meeko ea lona, hobane e khotohela.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "O thofatsitse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "o le phulule"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "folisa"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "meeko ea lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "e khotohela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:35.067400165Z",
+  "model": "glm-5.3"
+}

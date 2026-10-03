@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme e tla ba hore yo a tsekwang ka harem, o tla cheswa ka mollo, ⟨את⟩ yena le ⟨את⟩ tsohle tsa hae, hobane o fetile ⟨את⟩ selekane sa Yahwe, le hobane o etsile se se nyahalisang ho Yisraele.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mme e tla ba hore"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "yo a tsekwang"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "ka harem"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "o tla cheswa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tsohle tsa hae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "o fetile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "le hobane"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o etsile"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "se se nyahalisang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ho Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T07:07:23.047491159Z",
+  "model": "glm-5.3"
+}

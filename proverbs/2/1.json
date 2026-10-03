@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Moroa wa ka, ha o amohela mantswe a ka, me o baballa melao ya ka ⟨את⟩ le wena;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Moroa wa ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "o amohela"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mantswe a ka"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "me o baballa melao ya ka"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "o baballa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena",
+      "marks": "le wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:06:19.401721944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme a bokella batho ho yena, mme a ba mookameli wa sehlopha sa banna, nakong ya Dawide a bolaya ⟨את⟩ bona; mme ba ya Damaseke, ba dulaoa ho yona, mme ba busa ho Damaseke.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "a bokella"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme a ba"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookameli wa"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "sehlopha sa banna"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "nakong ya ho bolaya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "batho ba bolailweng"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseke"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba dulaoa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ba busa"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "ho Damaseke"
+    }
+  ],
+  "timestamp": "2026-10-03T12:56:28.203239094Z",
+  "model": "glm-5.3"
+}

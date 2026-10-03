@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme Labane a sepela ho tlala ⟨את⟩ dipoo tsa hae, mme Rakhela a utswa ⟨את⟩ diterafime tsa ntatae.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "Mme Labane"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a sepela"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "ho tlala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipoo tsa hae"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "dipoo tsa hae"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "mme a utswa"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diterafime"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "diterafime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tsa"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ntatae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:33:09.281218736Z",
+  "model": "glm-5.3"
+}

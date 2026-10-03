@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 84,
+  "translation": "Ee, nonyana e fumanne ntlo, le seotsanyana sepheo bakeng sa eona, moo e behang litsholwana tsa eona; ⟨את⟩ maaltarete a hao, Yahwe Tsebaote, Morena wa ka, le Elohim ya ka.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "nonyana"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "e fumanne"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "le seotsanyana"
+    },
+    {
+      "surface": "קן",
+      "gloss": "sepheo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "bakeng sa eona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "e behang"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "litsholwana tsa eona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maaltarete a hao"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "maaltarete a hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Morena wa ka"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "le Elohim ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:18.475527777Z",
+  "model": "glm-5.3"
+}

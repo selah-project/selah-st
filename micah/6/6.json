@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 6:6",
+  "book": "micah",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Ka eng nka tla pele ho Yahwe, nka itheka ho Elohim wa hodimo? Nka mo qalisa ka mekhopo, ka namane tsa selemo se seng?",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Ka eng"
+    },
+    {
+      "surface": "אקדם",
+      "gloss": "nka tla pele ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "nka itheka"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wa hodimo"
+    },
+    {
+      "surface": "האקדמנו",
+      "gloss": "nka mo qalisa ka"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "mekhopo"
+    },
+    {
+      "surface": "בעגלים",
+      "gloss": "ka namane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "tsa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo se seng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:13:34.737598749Z",
+  "model": "glm-5.3"
+}

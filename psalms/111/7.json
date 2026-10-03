@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 111,
+  "translation": "Mesebetsi ya matsoho a hae ⟨is⟩ nnete le kahlolo; tse ntseng di tshepahala ke dikaelo tsa hae kaofela.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "mesebetsi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya matsoho a hae"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nnete"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "tse ntseng di tshepahala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "dikaelo tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:34.354138267Z",
+  "model": "glm-5.3"
+}

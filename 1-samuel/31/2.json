@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme BaFalishetim ba ba hapang haholo Shaule le ⟨את⟩ bana ba hae; mme BaFalishetim ba bola ⟨את⟩ Yehonathane le ⟨את⟩ Avinadave le ⟨את⟩ Malkishua, bana ba Shaule.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ba ba hapang haholo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "BaFalishetim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaule"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba hae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mme ba bola"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "BaFalishetim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonathane"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Avinadave"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadave"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    }
+  ],
+  "timestamp": "2026-10-03T07:47:10.300241442Z",
+  "model": "glm-5.3"
+}

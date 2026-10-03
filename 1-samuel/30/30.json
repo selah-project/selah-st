@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "le ba ba leng ba Khoremaha, le ba ba leng ba Kore Ashane, le ba ba leng ba Athake;",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "le ba ba leng"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "ba Khoremaha"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "le ba ba leng"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ba Kore"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashane"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "le ba ba leng"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "ba Athake"
+    }
+  ],
+  "timestamp": "2026-10-03T07:44:14.845072986Z",
+  "model": "glm-5.3"
+}

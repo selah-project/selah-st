@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Yahwe, ho rona ⟨e⟩ mahloni a sefahleho, ho bo-musi ba rona, ho balaodi ba rona le ho bo-ntate ba rona, hobane ra leshowa ho wena.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "mahloni"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "a sefahleho"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "ho bo-musi ba rona"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "ho balaodi ba rona"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "le ho bo-ntate ba rona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "ra leshowa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:54:49.656902524Z",
+  "model": "glm-5.3"
+}

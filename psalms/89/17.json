@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Ka lebitso la hao ba tla thaba letsatsi lohle, mme ka tsedeke ya hao ba tla phahama.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "ka lebitso la hao"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "ba tla thaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "mme ka tsedeke ya hao"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ba tla phahama"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:14.004037599Z",
+  "model": "glm-5.3"
+}

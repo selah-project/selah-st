@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ka thoko ho mosele ho tla ba le dikarolo, ⟨e le⟩ matlo a dipalangwa, ho jwara ⟨את⟩ tafole.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ka thoko ho"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "mosele"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ho tla ba le"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "matlo a"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "dipalangwa"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ho jwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:48.378290571Z",
+  "model": "glm-5.3"
+}

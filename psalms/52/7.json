@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Hape El o tla o thehola ka ho sa feleng, o tla o tlosa, a o hula ka ntle ho khoho ya hao, mme a bitsa metso ya hao lefatsheng la baphelang. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hape"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "o tla o thehola"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka ho sa feleng"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "o tla o tlosa"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "a o hula"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ka ntle ho khoho ya hao"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "a bitsa metso ya hao"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "la baphelang"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:03.203024974Z",
+  "model": "glm-5.3"
+}

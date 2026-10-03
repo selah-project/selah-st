@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Ba apese ba ntshepisang ⟨את⟩ manyebo, mme ba ikutlle ka boshwa ba bona jwalo ka seapari.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "Ba apese"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "ba ntshepisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manyebo"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "manyebo"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "mme ba ikutlle"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "jwalo ka seapari"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "boshwa ba bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:47.236922632Z",
+  "model": "glm-5.3"
+}

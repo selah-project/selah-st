@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Yehoshua o ile a tsoha kapele hoseng, mme a lekanya ⟨את⟩ sechaba, mme a nyolla, yena le baholo ba Yisraele, pele ho sechaba, ho Ay.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "o ile a tsoha kapele"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mme a lekanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sechaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mme a nyolla"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "le baholo ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ho Ay"
+    }
+  ],
+  "timestamp": "2026-10-03T07:06:07.487282057Z",
+  "model": "glm-5.3"
+}

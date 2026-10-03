@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 23:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme Abrahame a mamela Efrone, mme Abrahame a kanella Efrone ⟨את⟩ sefof seo a neng a se boletse litsebeng tsa bana ba Khete: shekele tse makgolo a mane tsa sefof, se tsejwang le morudi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mme a mamela"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Efrone"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efrone"
+    },
+    {
+      "surface": "וישקל",
+      "gloss": "mme a kanella"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "לעפרן",
+      "gloss": "Efrone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefof"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sefof"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a neng a se boletse"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "litsebeng tsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khete"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekele"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tsa sefof"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "se tsejwang"
+    },
+    {
+      "surface": "לסחר",
+      "gloss": "le morudi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:42.727145965Z",
+  "model": "glm-5.3"
+}

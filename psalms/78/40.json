@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Makae kamehla ba mo hanyetsa hole lokollong, ba mo utlwisa bohloko sebakeng se omileng!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "makae kamehla"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "ba mo hanyetsa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "hole lokollong"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "ba mo utlwisa bohloko"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "sebakeng se omileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:17.165057441Z",
+  "model": "glm-5.3"
+}

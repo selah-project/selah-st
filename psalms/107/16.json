@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Hobane o robile matsibo a tšepe, mme paleisi ya tšepe a di kgaola.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "o robile"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "matsibo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "a tšepe"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "mme paleisi ya"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "tšepe"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "a di kgaola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:17.134182134Z",
+  "model": "glm-5.3"
+}

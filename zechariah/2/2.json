@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ke ile ka re ho mangeloi yo a buang ka ho nna: Tse ding ke eng? A araba a re ho nna: Tse ke dinaka tse phalalitseng ⟨את⟩ Yehuda, ⟨את⟩ Yisraele, le Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mangeloi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a buang"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka ho nna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tse ding"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a araba a re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tse"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "dinaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "phalalitseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T10:17:37.953827480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Tlosa mocheso wa hao o mpontshang; ho tloha ho matla a seatla sa hao ke timetse.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "tlosa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ho mpontshang"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "mocheso wa hao"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "ho tloha ho matla a"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa hao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "timetse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:11.450949975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "le ⟨את⟩ dinateisi le ⟨את⟩ mafura, bakeng sa kganya, le bakeng sa mafura a tlhotso, le bakeng sa pheko ya dinateisi",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dinateisi"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "dinateisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "bakeng sa kganya"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "le bakeng sa mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a tlhotso"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "le bakeng sa pheko"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya dinateisi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:25.491890501Z",
+  "model": "glm-5.3"
+}

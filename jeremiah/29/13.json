@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme le tla batla ⟨את⟩ ‘na, mme le tla fumana, hobane le batla ‘na ka pelo ea lona kaofela.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "mme le tla batla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ‘na",
+      "marks": "‘na"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "mme le tla fumana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "le batla ‘na"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... kaofela"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pelo ea lona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:19:12.760280642Z",
+  "model": "glm-5.3"
+}

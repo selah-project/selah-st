@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Pelo ya ka e dutlwa ka hare ho 'na, mme dihloho tsa lefu di ile tsa wa holim'a ka.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "e dutlwa"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ka hare ho 'na"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "mme dihloho"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tsa lefu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "di ile tsa wa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "holim'a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:17.767228812Z",
+  "model": "glm-5.3"
+}

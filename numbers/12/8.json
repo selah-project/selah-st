@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 12:8",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Molomo ho ya ho molomo ke bua le yena, ka ho iponahatsa, eseng ka diko; sebopeho sa Yahwe se a se shebella. Mme hobaneng ha le a boife ho bua ka mosebedisi wa ka, ka Moshe?",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Molomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "פה",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke bua"
+    },
+    {
+      "surface": "בו",
+      "gloss": "le yena"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ka ho iponahatsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "בחידת",
+      "gloss": "ka diko"
+    },
+    {
+      "surface": "ותמנת",
+      "gloss": "sebopeho sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "se a se shebella"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "Mme hobaneng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "le a boife"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho bua"
+    },
+    {
+      "surface": "בעבדי",
+      "gloss": "ka mosebedisi wa ka"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "ka Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:29:08.505411331Z",
+  "model": "glm-5.3"
+}

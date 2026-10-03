@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Yahwe ⟨ke⟩ karolo ya kabelo ya ka, le kopo ya ka; uena o tshehetssa gora la ka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ya kabelo ya ka"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "le kopo ya ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "o tshehetssa"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "gora la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:34.295127134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme bara ba Chetsrone ba tswetsweng ho yena: ⟨את⟩ Yerakhmele, le ⟨את⟩ Rame, le ⟨את⟩ Kelubai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mme bara"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ba Chetsrone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "tswetsweng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerakhmele"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerakhmele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Rame"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Rame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kelubai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubai"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:48.390926274Z",
+  "model": "glm-5.3"
+}

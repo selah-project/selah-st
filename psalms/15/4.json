@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Ya boima o a hloeuwa mahlong a hae, o a nyefoloa; mme ⟨את⟩ ba tshabang Yahwe o a tlotlisa; ya ikannyang ho etsa bosula, a sa fetole.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "o a hloeuwa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mahlong a hae"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "o a nyefoloa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ba tshabang Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ba tshabang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "o a tlotlisa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ya ikannyang"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ho etsa bosula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "fetole"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:28.930679645Z",
+  "model": "glm-5.3"
+}

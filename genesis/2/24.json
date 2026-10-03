@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ka lebaka lena monna o tla tlohana ⟨את⟩ ntatae le ⟨את⟩ mmae, a nkele ho mosadi wa hae; mme ba tla ba nama e 'ngoe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka lena"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "o tla tlohana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntatae"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntatae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mmae"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmae"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "a nkele ho"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "mosadi wa hae"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ba tla ba"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e 'ngoe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:26.079072543Z",
+  "model": "glm-5.3"
+}

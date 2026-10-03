@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme sechaba se ile sa re ho Yehoshua: Che; hobane ⟨את⟩ Yahwe ke eo re tlang ho mo direla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme se ile sa re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Che"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ke eo re tlang ho mo direla"
+    }
+  ],
+  "timestamp": "2026-10-03T07:15:45.252326627Z",
+  "model": "glm-5.3"
+}

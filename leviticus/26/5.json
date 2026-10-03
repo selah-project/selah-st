@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme ho jala hare jwale le fihle ⟨את⟩ nako ya kgetho ya merara, mme kgetho ya merara e fihle ⟨את⟩ nako ya ho jala; mme le ja ⟨את⟩ bohobe ba lona ho fihlela ho khotsofatsoa, mme le dula ka polokeho lefatsheng la lona.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "ho jala hare le fihle"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "nako ya ho jala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nako ya kgetho ya merara"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "kgetho ya merara"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "mme kgetho ya merara"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "e fihle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nako ya ho jala"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nako ya ho jala"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "mme le ja"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "bohobe ba lona"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ho fihlela ho khotsofatsoa"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "mme le dula"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka polokeho"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "lefatsheng la lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:59.933541600Z",
+  "model": "glm-5.3"
+}

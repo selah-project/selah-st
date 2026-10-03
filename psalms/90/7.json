@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "Hobane re fedile ka tshepeng ya hao, mme ka boganu ba hao re tsubuhile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "re fedile"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ka tshepeng ya hao"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "mme ka boganu ba hao"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "re tsubuhile"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:46.210826010Z",
+  "model": "glm-5.3"
+}

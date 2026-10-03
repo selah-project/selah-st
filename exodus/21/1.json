@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme mehla ena ke dikahlolo tseo o di beileng pele ho bona.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme mehla ena"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "o di beileng"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pele ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:59.698182086Z",
+  "model": "glm-5.3"
+}

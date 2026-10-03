@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Le se ke la hloaela Moedome, hobane o ngwaoa oa lona ⟨ke⟩; le se ke la hloaela Momitsri, hobane le ne le le moahi oa naha ea hae.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "hloaela"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Moedome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "o ngwaoa oa lona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "hloaela"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Momitsri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גר",
+      "gloss": "moahi"
+    },
+    {
+      "surface": "היית",
+      "gloss": "le ne le le"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "naha ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:25.463106413Z",
+  "model": "glm-5.3"
+}

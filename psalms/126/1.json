@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 126,
+  "translation": "Pina ya maeto a hodimo. Ka ho kgutla ha Yahwe ⟨את⟩ boelo ba Tsione, re bile jwalo ka ba lorang.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maeto a hodimo"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "ka ho kgutla ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boelo"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "boelo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ba Tsione"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "re bile"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "jwalo ka ba lorang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:56.426750995Z",
+  "model": "glm-5.3"
+}

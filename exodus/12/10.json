@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme le se tlohele ho eona se seng ho fihla hoseng; mme se setseng ho eona ho fihla hoseng le se tshise ka mollo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme le se"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "tlohele"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho eona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihla"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "mme se setseng"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho eona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihla"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "le se tshise"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:02.517285097Z",
+  "model": "glm-5.3"
+}

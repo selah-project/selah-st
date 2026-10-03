@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme moprista eo a tla mo tlotsa ⟨אתו⟩, le eo a tlatlang ⟨את⟩ letsoho la hae hore a be moprista boemong ba ntate oa hae, o tla etsa kapollo, mme o tla apara ⟨את⟩ diaparo tsa linne — diaparo tsa halalelo.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "o tla etsa kapollo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "a tla mo tlotsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "oona (moprista)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mme eo"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "a tlatlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la hae"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "hore a be moprista"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "boemong ba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntate oa hae"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "mme o tla apara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa linne"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "linne"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "halalelo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:13:59.759629605Z",
+  "model": "glm-5.3"
+}

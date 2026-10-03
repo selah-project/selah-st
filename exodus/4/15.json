@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme o tla bua ho yena, o bea ⟨את⟩ mantswe ka molomo wa hae; mme nna ke tla ba le molomo wa hao, le le molomo wa hae, mme ke tla le ruta ⟨את lena⟩ ⟨את⟩ seo le tlang ho se etsa.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "o bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ka molomo wa hae"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke tla ba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa hao"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "molomo wa hae"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "ke tla le ruta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lena",
+      "marks": "lena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo le tlang ho se etsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "le tlang ho se etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:36.747003574Z",
+  "model": "glm-5.3"
+}

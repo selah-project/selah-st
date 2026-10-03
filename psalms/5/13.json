@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Hobane uena, Yahwe, o tla hlohlelletsa ⟨את⟩ ya tsedeke; joalo ka khao, ka ratohelo o tla mo dikela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "o tla hlohlelletsa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya tsedeke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "joalo ka khao"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ka ratohelo"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "o tla mo dikela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:21:43.589059327Z",
+  "model": "glm-5.3"
+}

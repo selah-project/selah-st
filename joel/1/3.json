@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ka eona e tlaleheng bana ba lona, mme bana ba lona ba e tlalehe bana bona, mme bana bona ba e bolele sechabeng se seng.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Ka eona"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "bana ba lona"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "e tlaleheng"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "mme bana ba lona"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bana bona"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "mme bana bona"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sechabeng"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "se seng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:03:37.191913762Z",
+  "model": "glm-5.3"
+}

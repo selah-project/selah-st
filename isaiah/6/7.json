@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme o ile a e ama molomo wa ka, a re: Bonahle! Se se amile molomo wa hao; mme bobe ba hao bo tlosoe, mme sebe sa hao se ke phokotsoe.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "a e ama"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa ka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonahle"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "se amile"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "molomo wa hao"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "bo tlosoe"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "bobe ba hao"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "sebe sa hao"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "se ke phokotsoe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:36:27.736915047Z",
+  "model": "glm-5.3"
+}

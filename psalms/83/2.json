@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Elohim, o se ke wa ntsifala ho wena; o se ke wa hlocoma, o se ke wa ikhutla, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ntsifala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "hlocoma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ikhutla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:19.163513377Z",
+  "model": "glm-5.3"
+}

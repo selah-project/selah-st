@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Ke tla bina ho Yahwe matsatsing a bophelo ba ka; ke tla sefela ho Elohim ea ka ha ke sa ntse ke le teng.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla bina"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "matsatsing a bophelo ba ka"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla sefela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ho Elohim ea ka"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ha ke sa ntse ke le teng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:24.709736636Z",
+  "model": "glm-5.3"
+}

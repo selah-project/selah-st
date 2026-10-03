@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Pakiti ho lla, le pakiti ho sekginya; pakiti ho lla tjhelete, le pakiti ho bina.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pakiti"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ho lla"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le pakiti"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "ho sekginya"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pakiti"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "ho lla tjhelete"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le pakiti"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ho bina"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:22.464688681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "mme Yahwe o ile a susumetsa khahlanong le Yehorame ⟨את⟩ ruakh ya Bafiliseta le ya Maarabia, ba neng ba le ka ho Bakushita.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "mme o ile a susumetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "khahlanong le"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya Bafiliseta le ya Maarabia"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Bafiliseta"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "le ya Maarabia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng ba le"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ho"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Bakushita"
+    }
+  ],
+  "timestamp": "2026-10-03T12:33:29.886838515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Metsotso eohle ya letsatsi e ntse e le pele ho 'na; e kile ya ba tlhaho ea ka ho pheha kaofela ho bitlile.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Metsotso eohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya letsatsi"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "e ntse e le"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "pele ho 'na"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "e kile ya ba tlhaho ea ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ho pheha kaofela"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "ho bitlile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:29.011628407Z",
+  "model": "glm-5.3"
+}

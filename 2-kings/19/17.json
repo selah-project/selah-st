@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Ruri, Yahwe, dikgosi tsa Ashure di ile tsa sotlimetsa ⟨את⟩ mafatshe le ⟨את⟩ mafatshe a tsona.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "di ile tsa sotlimetsa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgosi tsa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafatshe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mafatshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafatshe a tsona"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "mafatshe a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:28:26.746988902Z",
+  "model": "glm-5.3"
+}

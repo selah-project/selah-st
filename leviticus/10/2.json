@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme mollo o tsoile ho tloha pele ga Yahwe, o ile oa ja ⟨את⟩ bona, mme ba ile ba shwela pela Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "o tsoile"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ho tloha pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "o ile oa ja"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "bona"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ba ile ba shwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:09:26.375307034Z",
+  "model": "glm-5.3"
+}

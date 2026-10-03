@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme eena ke ne ke ruta Efrayime ho tsamaea, ke ba tswere ka mahetla; mme ba sa tsebe hore ke ne ke ba phekola.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mme eena"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "ke ne ke ruta... ho tsamaea"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ke ba tswere"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "mahetla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme... sa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba tsebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ke ne ke ba phekola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:02:00.992870839Z",
+  "model": "glm-5.3"
+}

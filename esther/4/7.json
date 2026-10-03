@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mordekai a mo bolella ⟨את⟩ tsohle tse mo netefalitseng, le ⟨את⟩ palo ya mabenkele Hamane a bolelang hore o tla a li kala morao ho matlotlo a morena, ka Majahuda, hore a ba timetse.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a mo bolella"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle tse mo netefalitseng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "mo netefalitseng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "palo ya mabenkele"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "palo ya"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "mabenkele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bolelang"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "hore o tla a li kala"
+    },
+    {
+      "surface": "על",
+      "gloss": "morao ho"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "matlotlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a morena"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "ka Majahuda"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "hore a ba timetse"
+    }
+  ],
+  "timestamp": "2026-10-03T11:47:02.680028996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Hobane molomo wa moetsalibe le molomo wa bohologo ba mo butse khahlanong le nna; ba boletse le nna ⟨את⟩ ka lentsoe le Mashano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moetsalibe"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "le molomo wa"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bohologo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "khahlanong le nna"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ba mo butse"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ba boletse"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lentsoe le"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "Mashano"
+    }
+  ],
+  "timestamp": "2026-10-03T10:56:46.142657924Z",
+  "model": "glm-5.3"
+}

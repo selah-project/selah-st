@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Hokae hesede ya hao ya mehla ya pele, Adonai, eo o ile wa _hlamela Dawide ka boikokobetso bo ikemetseng? — o ile wa hlama ho Dawide ka tumelo ya hao.",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Hokae"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ya mehla ya pele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "o ile wa hlama"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho Dawide"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "ka tumelo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:48.687731605Z",
+  "model": "glm-5.3"
+}

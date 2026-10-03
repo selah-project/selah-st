@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Baprista ba hau a ba apese tsedeke, mme ba hau ba hlomphang ba rate ho opela ka thabo.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "baprista ba hau"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "a ba apese"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "mme ba hau ba hlomphang"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ba rate ho opela ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:22.516297633Z",
+  "model": "glm-5.3"
+}

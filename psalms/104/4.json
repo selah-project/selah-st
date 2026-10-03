@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "O etsa barumuoa ba hae e le mafe, balebeledi ba hae e le mollo o tjhesang.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "O etsa"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "barumuoa ba hae"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "mafe"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "balebeledi ba hae"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "להט",
+      "gloss": "o tjhesang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:56.650301922Z",
+  "model": "glm-5.3"
+}

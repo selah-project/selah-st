@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme a futuhana a tloha ho yena ho ea ho motho e mong, mme a boela a re ka mantwe a tsena; mme setjhaba sa mo araba ka lentsoe, jwaloka lentsoe la pele.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "a futuhana"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "a tloha ho yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ea ho"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pela"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "motho e mong"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a boela a re"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ka mantwe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "sa mo araba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka lentsoe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jwaloka lentsoe"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "la pele"
+    }
+  ],
+  "timestamp": "2026-10-03T12:53:07.013999746Z",
+  "model": "glm-5.3"
+}

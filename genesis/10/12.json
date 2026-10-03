@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "le ⟨את⟩ Resene, pakeng tsa Nineve le Kelakhe; yona ke toropo e kgolo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Resene"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resene"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelakhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "e kgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:15.564902905Z",
+  "model": "glm-5.3"
+}

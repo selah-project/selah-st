@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 76,
+  "translation": "Ho ya ntle moo o ile a tlatsa mahlasela a bou, sehlolo, le sefofane, le ntwa. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "moo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "o ile a tlatsa"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "mahlasela a"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bou"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sehlolo"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "le sefofane"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "le ntwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:07.001870138Z",
+  "model": "glm-5.3"
+}

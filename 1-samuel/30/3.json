@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme Dawide le banna ba hae ba fihla ⟨ho⟩ toropo, mme bonang! e chesitswe ka mollo; mme basadi ba bona, le bara ba bona, le barali ba bona, ba ne ba tserwe batho.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang!"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "e chesitswe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "mme basadi ba bona"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "le bara ba bona"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "le barali ba bona"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "ba tserwe batho"
+    }
+  ],
+  "timestamp": "2026-10-03T07:45:46.797536704Z",
+  "model": "glm-5.3"
+}

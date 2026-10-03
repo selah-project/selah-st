@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 63,
+  "translation": "Jwale, halikeng ho o bone, ho bona matla a hao le hlakahlaka ea hao.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Jwale"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "halikeng"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "ho o bone"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "matla a hao"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "le hlakahlaka ea hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:09.489505320Z",
+  "model": "glm-5.3"
+}

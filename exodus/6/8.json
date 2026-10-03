@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "mme ke tla lo isa ⟨⟨hore⟩⟩ lefatshe leo ke phahamisitseng letsoho la ka ka lona ho se nea Abrahame, ho Yitshake le ho Yaakobo; mme ke tla se nea lona e le boholo bo tletseng. Nna ke Yahwe.'",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "mme ke tla lo isa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ke phahamisitseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la ka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "letsoho la ka"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ho nea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mme ke tla nea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "boholo bo tletseng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:45:11.079853601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "E, ha ke tsamaea sephatlaleng sa moru wa lefu, nke ke tshaba kotsi, hobane u se le nna; thipa ya hau le sethala sa hau — tsona di mthokometsa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "E"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tsamaea"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "sephatlaleng"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "moru wa lefu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ke tshaba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kotsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "thipa ya hau"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "le sethala sa hau"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tsona"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "di mthokometsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:35.494450877Z",
+  "model": "glm-5.3"
+}

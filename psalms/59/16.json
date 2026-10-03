@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Bona ba tsamaea ka ho fapafapana batla lijo; ha ba satolle, ba lula bosiu.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "ba tsamaea ka ho fapafapana"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "batla lijo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "satolle"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ba lula bosiu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:13.011644526Z",
+  "model": "glm-5.3"
+}

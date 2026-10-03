@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme ba ile ba qenehela Moshe setsamong, le Aharone, ea halalelang, ea Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "mme ba ile ba qenehela"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "setsamong"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ea halalelang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:02.360476382Z",
+  "model": "glm-5.3"
+}

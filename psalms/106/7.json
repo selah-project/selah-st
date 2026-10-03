@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Bongodi ba rona ba Mitsrayime ba haeba utlwisise mahlatse a hau, ba haeba hopola ⟨את⟩ bongata bohle ba hesede ha hau, mme ba tsuene lewatleng, lewatle la Sufe.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "bongodi ba rona"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba haeba"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "utlwisise"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "mahlatse a hau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba haeba"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "hopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bongata bohle ba hesede ha hau"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bongata bohle"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesede ha hau"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ba tsuene"
+    },
+    {
+      "surface": "על",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "בים",
+      "gloss": "lewatle la"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:46.717818463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Hobane moya wa rona o khunametse sefihlello, mme poro ya rona e tsamaisane le lefatshe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "o khunametse"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "sefihlello"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moya wa rona"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "e tsamaisane"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "le lefatshe"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "poro ya rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:21.673610768Z",
+  "model": "glm-5.3"
+}

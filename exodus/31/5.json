@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "le ho seha majwe hore a tsamaisoe, le ho seha puku hore ho etswe mosebetsi ohle wa diatla,",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "le ho seha"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "majwe"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "hore a tsamaisoe"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "le ho seha"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puku"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hore ho etswe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mosebetsi wa diatla"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:42.292913415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Hobane ho ea lwalahaleng ha ho ⟨⟨ho⟩⟩ keteko ea hau; Sheoleng, ke mang ya tla ho leboha?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ho ea lwalahaleng"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "keteko ea hau"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Sheoleng"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ya tla ho leboha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "?"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:41.979436953Z",
+  "model": "glm-5.3"
+}

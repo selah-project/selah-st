@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ba fa ⟨lona⟩ bona ⟨את⟩ Kiriate-Arba, ntate-Anake; eena ke Heverone, thabeng ea Yehuda, le ⟨את⟩ bo-terone ba eona ho potoloha eona.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ba fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨lina⟩ bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiriate-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriate"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntate-"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anake"
+    },
+    {
+      "surface": "היא",
+      "gloss": "eena ke"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Heverone"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ea"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bo-terone ba eona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bo-terone ba eona"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "ho potoloha eona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:01.795107994Z",
+  "model": "glm-5.3"
+}

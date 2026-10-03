@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 124,
+  "translation": "Bophelo ba rona bo ile ba potoloha tjhle ka nonyana e balehileng ho tswa letamong la bao a bakang; leiamo le robetse, mme rona re balehile.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "bophelo ba rona"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ka nonyana"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "e balehileng"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ho tswa letamong"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "la bao a bakang"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "leiamo"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "le robetse"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mme rona"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "re balehile"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:47.558369982Z",
+  "model": "glm-5.3"
+}

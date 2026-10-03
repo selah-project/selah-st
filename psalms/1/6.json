@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Hobane Yahwe o tseba tselao ya ba lokileng; empa tsela ya ba ipotsang hloba e tla timela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tselao ya"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "empa tsela ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ipotsang hloba"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "e tla timela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:21:53.103247892Z",
+  "model": "glm-5.3"
+}

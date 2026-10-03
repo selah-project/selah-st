@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 100,
+  "translation": "Hobane Yahwe ⟨⟨e⟩⟩ molemo; hesede hae ho ya ho nakong eohle, le ho fihlela mololohong le mololohong, tumelo hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho ya ho nakong eohle"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede hae"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho fihlela"
+    },
+    {
+      "surface": "דר",
+      "gloss": "mololohong"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le mololohong"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "tumelo hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:19.503217578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme ba etsa ⟨את⟩ efode: gauta, thekelete, aragamane, tolao ya shani le sheshe ea motjhotjho — mosebetsi wa moqapi.",
+  "tokens": [
+    {
+      "surface": "ו עשו",
+      "gloss": "mme ba etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efode"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "thekelete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "aragamane"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolao"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le sheshe"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ea motjhotjho"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi wa"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "moqapi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:28.062152381Z",
+  "model": "glm-5.3"
+}

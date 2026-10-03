@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme setjhaba sa nyefola ho Moshe, se re: Re tla noa eng?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "sa nyefola"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "Re tla noa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:37.680541382Z",
+  "model": "glm-5.3"
+}

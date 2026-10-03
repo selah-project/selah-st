@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ha bohadi bo fumanwa ka bonnete bo le matsohong a hae bo phela — ho tloha kgomong ho fihlela esele, ho fihlela nku — o tla lefella habeli.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "ho fumanwa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ka bonnete bo fumanwa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "matsohong a hae"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "bohadi"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "esele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "שה",
+      "gloss": "nku"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bo phela"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "habeli"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla lefella"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:52.477631612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "A be le bolepe ba boa lefatsheng, hodima dithaba; potho ya yona e tshikinye jwale Lebanone; mme ba tshehe ho tloha toropong, jwale morogo wa lefatshe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "a be le"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "bolepe"
+    },
+    {
+      "surface": "בר",
+      "gloss": "boa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "e tshikinye"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "jwale Lebanone"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "potho ya yona"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "mme ba tshehe"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ho tloha toropong"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "jwale morogo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:05.144981559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "U, Yahwe, o tla ba boloka; o tla re hlokomela ho puo ena ya molokoloko, ho fihlela ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "o tla ba boloka"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "o tla re hlokomela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "puo ena ya molokoloko"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ena"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:07.847937080Z",
+  "model": "glm-5.3"
+}

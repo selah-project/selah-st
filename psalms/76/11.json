@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 76,
+  "translation": "Ka hore khalo ya motho e tla o rorisetsa; e setseng ya dikhalo o e hlamela ka motha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka hore"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "khalo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya motho"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "e tla o rorisetsa"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "e setseng"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ya dikhalo"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "o e hlamela ka motha"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:28.084504835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 126,
+  "translation": "O tsamayang a tsamaya a lela, a jwala peo ya ho jelimedisa, o tla boa ka ho bina, a jwala diphuthelwa tsa hae.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "o tsamayang"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "a lela"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a jwala"
+    },
+    {
+      "surface": "משך",
+      "gloss": "peo ya ho jelimedisa"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "sejalo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tla boa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o tla kena"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ka ho bina"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a jwala"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "diphuthelwa tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:31.252858446Z",
+  "model": "glm-5.3"
+}

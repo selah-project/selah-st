@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 2:23",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Yahwe a siea ⟨את⟩ ditjhaba tsena, a sa li tlose ka lefela-haufi; mme a sa li nehe letsohong la Yehoshua.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "mme ... a siea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditjhaba tsena"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "הורישם",
+      "gloss": "li tlose"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ka lefela-haufi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "li nehe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "letsohong"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "la Yehoshua"
+    }
+  ],
+  "timestamp": "2026-10-03T07:15:36.974081294Z",
+  "model": "glm-5.3"
+}

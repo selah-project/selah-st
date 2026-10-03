@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "O se ke wa koala molomo wa kgomo e lkamang dijwang tsa yona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "O se ke"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "wa koala molomo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wa kgomo"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "e lkamang dijwang tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:16.726163469Z",
+  "model": "glm-5.3"
+}

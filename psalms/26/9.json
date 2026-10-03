@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Se kgetse ⟨את⟩ moya wa ka le balekwa-ba-ditlolo, le bophelo ba ka le banna ba madi:",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "kgetse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "balekwa-ba-ditlolo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bophelo ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:22.348658862Z",
+  "model": "glm-5.3"
+}

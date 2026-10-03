@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Se ke ua ba jwalo ka perta kapa la thlaro, ya nang le ho utloisisa, ka thapo le khomo ea hlooho e nang le khalefo ea lona, e ka thibela, hore e se ke ea atamela ho lona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se ke"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ua ba"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "jwalo ka perta"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "kapa la thlaro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ya nang le hae"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ho utloisisa"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "ka thapo"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "le khomo ea hlooho"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "khalefo ea lona"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "e ka thibela"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hore e se ke"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ea atamela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:55.018358695Z",
+  "model": "glm-5.3"
+}

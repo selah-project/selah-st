@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme baprista le balevi ba ihlaheletsa hore ba ka phahamisa ⟨את⟩ areka ya Yahwe, Elohim wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "ba ihlaheletsa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "le balevi"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "hore ba ka phahamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "areka ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "areka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T13:19:11.906993554Z",
+  "model": "glm-5.3"
+}

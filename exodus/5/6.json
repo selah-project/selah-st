@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Farao a laela ka letsatsi leo ⟨את⟩ ba-phehisong ba sechaba, le ⟨את⟩ batsebehi ba yona, a re:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba-phehisong ba sechaba"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "ba-phehisong"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ba sechaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "batsebehi ba yona"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "batsebehi ba yona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:58.607259502Z",
+  "model": "glm-5.3"
+}

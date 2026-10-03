@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Selekane seo a se ilemetseng le ⟨את⟩ Abrahame, le kano ya hae ho Yitshake.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a se ilemetseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "le kano ya hae"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ho Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T12:16:26.514583395Z",
+  "model": "glm-5.3"
+}

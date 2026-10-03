@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Metsotso e mene e ka etswa mosebenti, empa letsatsi la bošupane ke Shabata, phomolo ya halalelo ho Yahwe; ya etsang mosebenti ka letsatsi la Shabata o tla bolawa ka lefu.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "e tseletseng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o ka etswa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mosebenti"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "empa letsatsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "la bošupane"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "phomolo e feletseng"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "halalelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mosebenti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o tla bolawa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:26.724481378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme di tla ba selabe ho lona; nama ya tsona le ke ke la e ja, mme ⟨את⟩ mehla ea tsona le e tla e hloile.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Mme selabe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "nama ya tsona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le ke ke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "la e ja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "mehla ea tsona"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "mehla ea tsona"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "le tla e hloile"
+    }
+  ],
+  "timestamp": "2026-10-03T06:07:28.694636409Z",
+  "model": "glm-5.3"
+}

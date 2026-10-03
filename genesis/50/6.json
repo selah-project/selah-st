@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Mme Farao a re: Ea kahodimo, o pshetle ⟨את⟩ ntate wa hao, jwaloka ha a o peditse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme Farao a re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Ea kahodimo"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "o pshetle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntate wa hao"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ntate wa hao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka ha"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "a o peditse"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:21.316279407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Mme Yahwe o ile a bulela ⟨את⟩ bohlele ba Jobe, ha a thapela bakeng sa ditshebi tsa hae; mme Yahwe o eketsa ⟨את⟩ tsohle tsa Jobe habelo.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "o ile a bulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohlele ba Jobe"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "bohlele"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobe"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "ha a thapela"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ditshebi tsa hae"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "mme o eketsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle tsa Jobe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tsa"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Jobe"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "habelo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:15:13.538640180Z",
+  "model": "glm-5.3"
+}

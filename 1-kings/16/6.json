@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme Bashae a robala le bo-ntate ⟨ba hae⟩, a ile a bolokwa Tirtzhae; mme Elae mora hae o ile a busa sebakeng sa hae.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bashae"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate ba hae"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a ile a bolokwa"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirtzhae"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "o ile a busa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elae"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora hae"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sebakeng sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:12:40.746261482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Mantsoe a molomo wa hae ke bobe le bokhohole; o khaotse ho hlalefa, ho etsa hantle.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mantsoe a"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molomo wa hae"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "le bokhohole"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "o khaotse"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "ho hlalefa"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ho etsa hantle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:40.879611581Z",
+  "model": "glm-5.3"
+}

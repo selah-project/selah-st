@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Empa motho a se ke a lwana kgetho, mme a se ke a hakanya motho; hobane batho ba hao ke jwaloka ba nnya le moprista.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Empa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "a lwana kgetho"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme a se ke"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "a hakanya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "batho ba hao"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "jwaloka ba nnya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "le moprista"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:37.128181119Z",
+  "model": "glm-5.3"
+}

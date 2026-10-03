@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ho tloha dikahlolong tsa hao ha kea fapana, hobane uena ⟨u⟩ nthutile.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "ho tloha dikahlolong tsa hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "kea fapana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "u nthutile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:18.094878621Z",
+  "model": "glm-5.3"
+}

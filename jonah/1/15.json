@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ba nkela Yona ⟨את⟩, mme ba mo lahlela lwatleng, mme lewatle la emisa ho tloha ho sekhohlong sa lona.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ba nkela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "ba mo lahlela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lwatleng"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "la emisa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "ho tloha ho sekhohlong sa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:20.345340701Z",
+  "model": "glm-5.3"
+}

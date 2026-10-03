@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Nako ya ho hlahlama majwe, le nako ya ho kgoboka majwe; nako ya ho ana le nako ya ho holeha ho ana.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ho hlahlama"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "majwe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le nako"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "ho kgoboka"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "majwe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "ho ana"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le nako"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "ho holeha"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "ho ana"
+    }
+  ],
+  "timestamp": "2026-10-03T11:41:48.886513843Z",
+  "model": "glm-5.3"
+}

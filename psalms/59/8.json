@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Bonang, ba dula ba phatlalatsa ka molomo wa tsona; dihlare di molomong wa tsona; hobane — ke mang ya utloang?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "ba phatlalatsa"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ka molomo wa tsona"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "dihlare"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "molomong wa tsona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ya utloang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:26.679091493Z",
+  "model": "glm-5.3"
+}

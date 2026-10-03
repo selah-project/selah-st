@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme a etsa kerube tse pedi tsa gauta; mosebenzi o obtang o ileng wa etsa ⟨את⟩ tsona, ho dikarolo tse pedi tsa sephetheho sa kopo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerube"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mosebenzi o obtang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wa etsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tsona"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ho dikarolo tse pedi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sa sephetheho sa kopo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:06.315790738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Na melimo ya ditjhaba eo bo-ntata ba ka e senyitseng e lokolotse ⟨את⟩ tsona — Gozane, le ⟨את⟩ Kharane, le Retsefe, le bara ba Edene, bao ba duleng Telashare?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Na…e lokolotse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tsona"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "melimo ya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "bo-ntata ba ka e senyitseng"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "bo-ntata ba ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozane"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kharane"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Kharane"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "le Retsefe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bara ba"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "ba duleng Telashare"
+    }
+  ],
+  "timestamp": "2026-10-03T08:26:02.164276213Z",
+  "model": "glm-5.3"
+}

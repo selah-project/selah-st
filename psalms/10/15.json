@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Hlakola letsogo la ya bobe le ya bobe; batla bobe ba hae — o ke ke wa fumana letho.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Hlakola"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "letsogo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "la ya bobe"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "le ya bobe"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "batla"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "bobe ba hae"
+    },
+    {
+      "surface": "בל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "o ke ke wa fumana letho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:58.059149652Z",
+  "model": "glm-5.3"
+}

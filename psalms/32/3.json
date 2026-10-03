@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Hobane ha ke ne ke thula, ⟨את⟩ masapo a ka a ile a bola, ka ho hua ha ka letsatsi lohle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ha ke ne ke thula"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "a bola"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "masapo a ka"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "ka ho hua ha ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:56.441466818Z",
+  "model": "glm-5.3"
+}

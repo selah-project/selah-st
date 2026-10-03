@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 15:22",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme Samuele a re: Na Yahwe o a thabela ditabelo tse chesang le diphapoano e le ka ho mamela lentswe la Yahwe? Bonang, ho mamela ho molemo ho feta sehlabelo, mme ho ke-ketlisa tlhoko ho feta mafura a dinama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "Na o a thabela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "ditabelo tse chesang"
+    },
+    {
+      "surface": "וזבחים",
+      "gloss": "le diphapoano"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "e le ka ho mamela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ho mamela"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ho feta sehlabelo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ho molemo"
+    },
+    {
+      "surface": "להקשיב",
+      "gloss": "ho ke-ketlisa tlhoko"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ho feta mafura a"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "dinama"
+    }
+  ],
+  "timestamp": "2026-10-03T07:38:03.286272447Z",
+  "model": "glm-5.3"
+}

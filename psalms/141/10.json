@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 141,
+  "translation": "A oele mehloling ya bona bakena ba boloi, nna ka boncle moo ke feta.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "A oele"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "mehlolang ya bona"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bakena ba boloi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ka boncle"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ke feta"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:44.731461249Z",
+  "model": "glm-5.3"
+}

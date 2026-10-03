@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Ho hlahisa lintlha ka lentsoe le se nang thuso, le mantswe a se nang molemo ho tsona?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "ho hlahisa lintlha"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka lentsoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se nang"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "thuso"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "le mantswe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se nang"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ho tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:25:00.144111361Z",
+  "model": "glm-5.3"
+}

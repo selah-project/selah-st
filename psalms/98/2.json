@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 98,
+  "translation": "Yahwe o tsebisitse ⟨את⟩ phenyo ea hae; pele ho mahlo a ditjhaba o senotse ⟨את⟩ tsedeke ea hae.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "o tsebisitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "phenyo ea hae"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pele ho mahlo a"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "o senotse"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedeke ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:14.480930203Z",
+  "model": "glm-5.3"
+}

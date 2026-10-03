@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a emela hape matsatsi a supileng a mang, mme a eketsa ho romolla ⟨את⟩ lephono ho tloha ho araka.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "mme a emela"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "a mang"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "mme a eketsa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ho romolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lephono"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "lephono"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha ho"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "araka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:57.709544521Z",
+  "model": "glm-5.3"
+}

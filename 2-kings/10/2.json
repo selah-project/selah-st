@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme jwale, ha pampiri ena e fihla ho lona, le lona ⟨את⟩ barwa ba mong'a lona, le lona ⟨את⟩ dikoloi le lipere, le tora e tiileng le dibetsa,",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jwale"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ha e fihla"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "pampiri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "ו אתכם",
+      "gloss": "le lona ⟨את⟩",
+      "marks": "barwa ba mong'a lona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ba mong'a lona"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "le lona ⟨את⟩",
+      "marks": "dikoloi le lipere"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "dikoloi"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "le lipere"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "le tora"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "e tiileng"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "le dibetsa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:21:22.895693040Z",
+  "model": "glm-5.3"
+}

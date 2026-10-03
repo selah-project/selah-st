@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Fokotsa ho boshula, mme etsa tlhaho; batla khotso, mme e laneele.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Fokotsa"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ho boshula"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme etsa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tlhaho"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "batla"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "mme e laneele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:16.703256422Z",
+  "model": "glm-5.3"
+}

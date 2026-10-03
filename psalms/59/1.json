@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Ho moetapele. Se senye. Wa Dawide, mokgatami. Ka ho romella ha Sheoule, mme ba ile ba lebelela ⟨את⟩ ntlo ho e bolaya.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moetapele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "senye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Wa Dawide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mokgatami"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ka ho romella ha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoule"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "mme ba ile ba lebelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ho e bolaya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:15.485137800Z",
+  "model": "glm-5.3"
+}

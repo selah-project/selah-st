@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Ba-Mitsrayime bohle ba ile ba epa hakana le ‹molapo› moo, batla metsi a ho noa, hobane ba ne ba sa kgone ho noa metsi a ‹molapo› oo.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "ba ile ba epa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ba-Mitsrayime"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "hakana le"
+    },
+    {
+      "surface": "היאאר",
+      "gloss": "molapo moo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "a ho noa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgone"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "ho noa"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "metsi a"
+    },
+    {
+      "surface": "היאאר",
+      "gloss": "molapo oo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:42:52.456696667Z",
+  "model": "glm-5.3"
+}

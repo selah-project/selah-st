@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme motho eo a kena ntlong, mme a loantša ⟨את⟩ dikamela, a fana ka bocha le phepo bakeng sa dikamela, le metsi bakeng sa ho hlatswa maoto a hae le maoto a banna ba nang ⟨את⟩ ene.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mme o ile a kena"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho eo"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "mme a loantša"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "dikamela"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a fana ka"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "bocha"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "le phepo"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "bakeng sa dikamela"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "le metsi"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "bakeng sa ho hlatswa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maoto a hae"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "le maoto a"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "nang ⟨את⟩ ene"
+    }
+  ],
+  "timestamp": "2026-10-03T05:30:12.434118774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme a re ho Yehoshafate: A ka tla le nna ⟨את⟩ ho ya ntweng ho Ramoto ya Gileade? Mme Yehoshafate a re ho morena wa Yisraele: Nka uena jwalo ka lona, batho ba ka jwalo ka batho ba hao, dipere tsa ka jwalo ka dipere tsa hao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafate"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "A ka tla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "le nna ⟨את⟩",
+      "marks": "Yehoshafate"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ho ya ntweng"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoto ya"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileade"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "Nka uena jwalo ka lona"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jwalo ka lona"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "batho ba ka"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "jwalo ka batho ba hao"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "dipere tsa ka"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "jwalo ka dipere tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T08:17:00.398468863Z",
+  "model": "glm-5.3"
+}

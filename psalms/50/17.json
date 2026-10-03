@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Empa wena o hloya muso wa kahlolo, o lahlile mantswe a ka morao hao.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Empa wena"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "o hloya"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "muso wa kahlolo"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "o lahlile"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe a ka"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "morao hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:09.361303843Z",
+  "model": "glm-5.3"
+}

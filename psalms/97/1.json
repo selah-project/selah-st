@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 97,
+  "translation": "Yahwe o busa, ⟨⟨a⟩⟩ lefatshe le thabe, mabitlaphatsi a mabedi a makae a thaba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o busa"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "le thabe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "a thaba"
+    },
+    {
+      "surface": "איים",
+      "gloss": "mabitlaphatsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mabedi a makae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:28.697604110Z",
+  "model": "glm-5.3"
+}

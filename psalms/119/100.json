@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ho feta baholo ke utloisisa, hobane ditaello tsa hao ke tsona tse tshepile.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "ho feta baholo"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ke utloisisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ditaello tsa hao"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ke tsona tse tshepile"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:12.543675260Z",
+  "model": "glm-5.3"
+}

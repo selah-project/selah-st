@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 115,
+  "translation": "Empa Elohim ea rona ⟨u⟩ lehodimong; ntho e 'ngoe le e 'ngoe eo a e ratang o e entse.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Empa Elohim ea rona"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "lehodimong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ntho e 'ngoe le e 'ngoe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a e ratang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o e entse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:55:01.832576379Z",
+  "model": "glm-5.3"
+}

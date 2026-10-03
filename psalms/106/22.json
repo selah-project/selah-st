@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "dilo tse makatsang naheng ya Kham, le dilo tse tsosang tshabo hodima lewatle la Suf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "dilo tse makatsang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "dilo tse tsosang tshabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle la"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:18.520176527Z",
+  "model": "glm-5.3"
+}

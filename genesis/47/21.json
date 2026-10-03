@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 47,
+  "translation": "Mme ⟨את⟩ setjhaba o ile a fudusetsa ⟨את⟩ sona ditoropong, ho tloha molelwaneng wa Mitsrayime ho fihlela qetello ya wona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "o ile a fudusetsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sona",
+      "marks": "ditoropong"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "ditoropong"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ho tloha qetellong"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayime"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "qetello ya wona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:41:49.079803764Z",
+  "model": "glm-5.3"
+}

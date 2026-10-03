@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Ho moetapele. Pesaleme ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moetapele"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Pesaleme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:23.608337957Z",
+  "model": "glm-5.3"
+}

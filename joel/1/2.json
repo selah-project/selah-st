@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mamellang se, baholo, le theoheng ditsebe, ba dulong bohle ba lefatshe. Na ⟨he⟩ se sena se etsahetile matsatsing a lona, kapa ho matsatsing a bo-ntate lona?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mamellang"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "le theoheng ditsebe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba dulong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "Na se etsahetile"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se sena"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "matsatsing a lona"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "matsatsing a"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bo-ntate lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:03:37.191290447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme morena a oloditse ho Ester ⟨את⟩ sefane sa gauta; mme Ester a emisa, mme a ema pele ho morena.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "mme a oloditse"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ho Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefane sa gauta"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "sefane"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sa gauta"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "mme a emisa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "mme a ema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:48:48.112131679Z",
+  "model": "glm-5.3"
+}

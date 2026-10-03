@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme o tla kgetha ⟨את⟩ bana ba hae, o ba apara ka dikutane.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba hae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "o tla kgetha"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "o ba apara"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ka dikutane"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:14.379664072Z",
+  "model": "glm-5.3"
+}

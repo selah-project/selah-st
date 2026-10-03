@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Lerato la motho ea fumanang bohlale, le la motho ea tlisang tsebo!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Lerato la"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ea fumanang"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "le la motho"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ea tlisang"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "tsebo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:06:01.481020573Z",
+  "model": "glm-5.3"
+}

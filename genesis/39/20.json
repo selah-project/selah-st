@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme monga wa Yosefe a mo tseela, a mo isa ⟨את⟩ yena tjhankaneng, sebakeng seo dibetwa tsa morena di bolokwang teng; mme a dula teng, tjhankaneng.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a mo tseela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "monga wa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a mo isa"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "a mo isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tjhankaneng"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "tjhankane"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "dibetwa tsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "di bolokwang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme a dula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "tjhankane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:39.445339565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 52:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Bonang motho enwa: ya sa etseng Elohim e-bong tshehetso ya hae, mme a ikemele ka bongata ba leruo la hae, a mathefathe ka boitwaro bo betle ya hae.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "motho enwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "etseng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזו",
+      "gloss": "tshehetso ya hae"
+    },
+    {
+      "surface": "ויבטח",
+      "gloss": "mme a ikemele"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka bongata"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "leruo la hae"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "a mathefathe"
+    },
+    {
+      "surface": "בהותו",
+      "gloss": "ka boitwaro bo betle ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:33.088891880Z",
+  "model": "glm-5.3"
+}

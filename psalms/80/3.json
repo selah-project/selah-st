@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "Pele ha Efrayime le Benjamine le Manase, tsoha ⟨את⟩ matla a hau, mme tla ho polokeho ya rona.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "pele ha"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "le Benjamine"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "le Manase"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "tsoha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matla a hau"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "matla a hau"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "mme tla"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "ho polokeho"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ya rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:25.996630866Z",
+  "model": "glm-5.3"
+}

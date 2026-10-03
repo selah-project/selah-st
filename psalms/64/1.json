@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 64,
+  "translation": "Ho moeta-pele wa sebinelo. Mokoedi wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moeta-pele wa sebinelo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoedi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:01.398921906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Ha le tsamaya ka melao ea ka, le ⟨את⟩ litaelo tsa ka le li hlokomela, mme le li etsa;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "ka melao ea ka"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "le tsamaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "litaelo tsa ka"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "litaelo tsa ka"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "le li hlokomela"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme le li etsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:59.981471841Z",
+  "model": "glm-5.3"
+}

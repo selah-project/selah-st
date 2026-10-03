@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Ba mo hlaselitse ka dikgwaru maoto a hae; tsebe e tsene molemong wa hae.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "ba mo hlaselitse"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "ka dikgwaru"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maoto a hae"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "באה",
+      "gloss": "e tsene"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "molemong wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:34.020633362Z",
+  "model": "glm-5.3"
+}

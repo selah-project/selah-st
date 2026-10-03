@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Hlokomela moea oa ka, mme o ntlohelle; se ke ua ntlhoka tshwarelo, hobane ke oa ikhohomosa ho wena.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "hlokomela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moea oa ka"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "o ntlohelle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke ua"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ntlhoka tshwarelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke oa ikhohomosa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:25.217056857Z",
+  "model": "glm-5.3"
+}

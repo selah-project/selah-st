@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 98,
+  "translation": "Bapaleng ho Yahwe ka kinora; ka kinora le ka modumo wa mmino.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Bapaleng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kinora"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kinora"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "le ka modumo wa"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "mmino"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:47.338045519Z",
+  "model": "glm-5.3"
+}

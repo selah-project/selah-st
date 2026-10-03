@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Ya behileng moea wa rona bophelong, mme a sa nehe maoto a rona ho tsekamela.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Ya behileng"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moea wa rona"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "bophelong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a nehe"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ho tsekamela"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "maoto a rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:19.026288488Z",
+  "model": "glm-5.3"
+}

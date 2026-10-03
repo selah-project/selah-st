@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Mme tumelo ya ka le hesede ya ka di tla dula le eena; mme ka lebitso la ka luba la hae le tla phahama.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "mme tumelo ya ka"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "le hesede ya ka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "mme ka lebitso la ka"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "le tla phahama"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "luba la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:06.914659229Z",
+  "model": "glm-5.3"
+}

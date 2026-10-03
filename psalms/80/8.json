@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "Elohim Tsebaote, busetsa re, mme o bontshe sefahleho sa hao, mme re tla pholoha.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "busetsa re"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "mme o bontshe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "mme re tla pholoha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:26.405790201Z",
+  "model": "glm-5.3"
+}

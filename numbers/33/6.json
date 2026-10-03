@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme ba tloha Sukote, mme ba lometse Etame, eo ⟨e leng⟩ moleleng wa naha e omileng.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ba tloha"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukote"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba lometse"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Etame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "moleleng wa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "naha e omileng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:40:35.251768393Z",
+  "model": "glm-5.3"
+}

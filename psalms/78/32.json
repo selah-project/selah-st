@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Ka tsohle tseo ba ile ba tshwara liphoso hape, mme ba se ke ba lumela dibakeng tse makatsang tsa hae.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Ka tsohle"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ba tshwara liphoso"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ke"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ba lumela"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "dibakeng tse makatsang tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:18.982370254Z",
+  "model": "glm-5.3"
+}

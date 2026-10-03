@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mo lokileng a hlokomoloha kotsing; mme moea o mpe o kena boemong ba hae.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "mo lokileng"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "kotsing"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "a hlokomoloha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme... o kena"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moea o mpe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "boemong ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:08:43.243514985Z",
+  "model": "glm-5.3"
+}

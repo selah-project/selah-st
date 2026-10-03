@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Ba ntlhahisa, ba nthusa hole ho nna, mme ba sa ikhemele ho thula letsatsi mahlong a ka.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "ba ntlhahisa"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ba nthusa hole"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "mme mahlong a ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ba ikhemele"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ho thula letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:28:59.194114642Z",
+  "model": "glm-5.3"
+}

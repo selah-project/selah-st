@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme Moshe a nea ⟨את⟩ Gileade ho Makhire, mora wa Menasse, mme a dula ho yona.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mme a nea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gileade"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileade"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "ho Makhire"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasse"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme a dula"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:38:55.095790605Z",
+  "model": "glm-5.3"
+}

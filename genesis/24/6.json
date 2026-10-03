@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme Abrahame a re ho yena: Itlhokomele oena, hore o se ke wa kgutlisa ⟨את⟩ mora ka moo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "itlhokomele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oena"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hore o se ke"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "wa kgutlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mora ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mora ka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:28:16.654822313Z",
+  "model": "glm-5.3"
+}

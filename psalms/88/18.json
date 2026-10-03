@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Di ntseleditse joalo ka metsi letsatsi lohle; di ile tsa ntahela hodima ha ka hammoho.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "di ntseleditse"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "joalo ka metsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "le"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi lohle"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "di ile tsa ntahela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima ha ka"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hammoho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:10.046397116Z",
+  "model": "glm-5.3"
+}

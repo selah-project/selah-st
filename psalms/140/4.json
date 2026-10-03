@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 140,
+  "translation": "Ba hlakile maleme a bona joalo ka noka; bophepo boa seoa bo ka tlase ho disebe tsa bona. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "ba hlakile"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "maleme a bona"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "joalo ka"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "noka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bophepo"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "boa seoa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bo ka tlase ho"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "disebe tsa bona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:38.052506925Z",
+  "model": "glm-5.3"
+}

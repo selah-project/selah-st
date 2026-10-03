@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Re tla fa ⟨את⟩ baradi ba rona ho lona, mme ⟨את⟩ baradi ba lona re tla li nkela rona, mme re tla dula le lona, mme re tla ba sechaba se le seng.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "re tla fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baradi ba rona"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "baradi ba rona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "baradi ba lona"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "baradi ba lona"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "re tla li nkela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "re tla dula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "le ⟨את⟩ lona"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "re tla ba"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le seng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:35:25.227402330Z",
+  "model": "glm-5.3"
+}

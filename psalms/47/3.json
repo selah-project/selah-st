@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 47,
+  "translation": "Hobane Yahwe, ya Hodimo, ke ya ts'oabang, morena o moholo holim'a lefatshe lohle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ya Hodimo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ke ya ts'oabang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "o moholo"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:37.642128873Z",
+  "model": "glm-5.3"
+}

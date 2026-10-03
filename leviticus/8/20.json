@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme ⟨את⟩ puno eo a e sekaseka likarolong tsa yona; mme Moshe a e chesa ka mollong — ⟨את⟩ hloho, le ⟨את⟩ dikarolo, le ⟨את⟩ mafura.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "puno eo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "puno eo"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "a e sekaseka"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "likarolong tsa yona"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "a e chesa ka mollong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikarolo"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafura"
+    }
+  ],
+  "timestamp": "2026-10-03T06:08:31.230624420Z",
+  "model": "glm-5.3"
+}

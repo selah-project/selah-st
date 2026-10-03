@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 120,
+  "translation": "Mise e metle ea moemeli, e ntse e le leng le lonta la makala.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "mise"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ea moemeli"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "e metle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e ntse e le leng"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "lonta"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "la makala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:42.288332575Z",
+  "model": "glm-5.3"
+}

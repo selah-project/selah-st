@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Shebella mme mpolele, Yahwe Elohim ea ka; phedise mahlo a ka, hore ke se ke ka robala lefufu la lefu.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Shebella"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mpolele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ea ka"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "phedise mahlo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hore... se"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ke se ke ka robala"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lefufu la lefu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:31.909430796Z",
+  "model": "glm-5.3"
+}

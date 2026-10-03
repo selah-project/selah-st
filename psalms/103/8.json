@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Ya hlorisoang ke mmeso, mohau, Yahwe, ya se nang makunye a pota, mme o moholo ka hesede.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "ya hlorisoang ke mmeso"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ya se nang makunye a pota ⟨ha⟩"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "makunye"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mme o moholo ka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:11.523894403Z",
+  "model": "glm-5.3"
+}

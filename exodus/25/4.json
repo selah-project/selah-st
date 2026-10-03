@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "le botala-bosesane, le phereta, le khobo ya bohobela, le lintho tse fine tsa linoka, le moriri wa dipudi.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "botala-bosesane"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "phereta"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "khobo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "bohobela"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lintho tse fine tsa linoka"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "moriri wa dipudi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:22.897894627Z",
+  "model": "glm-5.3"
+}

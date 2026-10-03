@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ka kwa ⟨את⟩ modumo wa mantswe a hae; mme ha ke kwa ⟨את⟩ modumo wa mantswe a hae, mme nna ke ne ke robetse ka boo ka sefahleho sa ka, mme sefahleho sa ka se ne se le fatshe.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "mme ka kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "wa mantswe a hae"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "mme ha ke kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "wa mantswe a hae"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "robetse ka boo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa ka"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "mme sefahleho sa ka"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:54:45.592491682Z",
+  "model": "glm-5.3"
+}

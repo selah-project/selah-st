@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme a re ho ena: Tloha, o tle le ⟨את⟩ nna haese, o je borotho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho ena"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tloha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "le ⟨את⟩ nna"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "haese"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "o je"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "borotho"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:46.001794772Z",
+  "model": "glm-5.3"
+}

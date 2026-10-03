@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Hobane ha ba oela, ea mong o mo emisa ⟨את⟩ moena wa hae; empa ea mong ha a oela, ha ho ea bobedi ho mo emisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ba oela"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ea mong"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "o mo emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moena wa hae"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "moena wa hae"
+    },
+    {
+      "surface": "ו אילו",
+      "gloss": "empa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ea mong"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ha a oela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ea bobedi"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ho mo emisa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:11.151600216Z",
+  "model": "glm-5.3"
+}

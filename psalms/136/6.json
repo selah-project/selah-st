@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "Ho ya ho Atolang lefatshe hodima metsi, hobane hesede ha hesa fela ho fihlela ho sa tlo fela.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Ho ya ho Atolang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ho sa tlo fela"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ha hesa fela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:52.623971756Z",
+  "model": "glm-5.3"
+}

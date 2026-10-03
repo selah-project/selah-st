@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "mme ntate a hae le mme a hae ba mo tlaase ka seatla, ba mohlakatsa ⟨את⟩ hae ho baholo ba toropo ea hae, le ho sehleng sa sebaka sa hae;",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "ba mo tlaase ka seatla"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntate a hae"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "le mme a hae"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ba mohlakatsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo ba"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "toropo ea hae"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sehleng sa"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "sebaka sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:55:45.964698058Z",
+  "model": "glm-5.3"
+}

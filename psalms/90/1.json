@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "Thapelo ya Moshe, monna wa Elohim. Adonai, o ile a ba maemo a bolokelo ho rona, hohleng le hohla.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Thapelo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "maemo a bolokelo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ile a ba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "hohheng"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le hohla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:24.352380877Z",
+  "model": "glm-5.3"
+}

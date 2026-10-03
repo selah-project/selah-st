@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme letsoho la Yahwe le ile la bo le boima ho batho ba Ashdode, mme ba senyeha; mme Ya bo ba hlaba ka dintlha tse maholo, Ashdode le meeli ya yona.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "mme... la bo le boima"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "batho ba Ashdode"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "mme ba senyeha"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "Ya bo ba hlaba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "batho ba Ashdode"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ka dintlha tse maholo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdode"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "meeli ya yona"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "meeli ya yona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:54.643926686Z",
+  "model": "glm-5.3"
+}

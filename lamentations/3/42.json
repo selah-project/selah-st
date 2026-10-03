@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Re feteletse molao, re hanyetsa; uena ha o tshwarele.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "re feteletse molao"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "re hanyetsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "o tshwarele"
+    }
+  ],
+  "timestamp": "2026-10-03T11:39:42.236519171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Yehu a fihla Yizreele, mme Izebele a utlwa, mme a bekea mesi ⟨ה⟩ mahlong a hae, a hloekisa ⟨את⟩ hloho ya hae, mme a lebelela ka ⟨ה⟩ fensetere.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Mme Yehu a fihla"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreele"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "mme Izebele"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "a bekea"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "mesi"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "mahlong a hae"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "a hloekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho ya hae"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "hloho ya hae"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "a lebelela"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fensetere"
+    }
+  ],
+  "timestamp": "2026-10-03T08:20:59.090390273Z",
+  "model": "glm-5.3"
+}

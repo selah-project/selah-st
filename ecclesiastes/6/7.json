@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Bohle bohle ba motho bo lekanela molomo wa hae, mme obolelo ha bo tlatsoe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mosebeti"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ba motho"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "molomo wa hae"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "obolelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "bo tlatsoe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:36.760704109Z",
+  "model": "glm-5.3"
+}

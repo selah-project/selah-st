@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Tsohle di ea sebakeng se le seng; tsohle di tloha moumane, mme tsohle di kgutlela ho moumane.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "di ea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le seng"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di tloha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "moumane"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "mme tsohle"
+    },
+    {
+      "surface": "שב",
+      "gloss": "di kgutlela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "moumane"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:00.486930327Z",
+  "model": "glm-5.3"
+}

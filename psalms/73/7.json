@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Meso ea bona e tswa ka boholo; dikakgeloso tsa pelo li feta meeli.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "e tswa"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ka boholo"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "meso ea bona"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "li feta meeli"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "dikakgeloso"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "tsa pelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:45.379751250Z",
+  "model": "glm-5.3"
+}

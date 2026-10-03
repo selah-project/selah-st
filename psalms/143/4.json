@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 143,
+  "translation": "Mme ruakh ya ka e kwetse ho ntse ke le ka hare, pelo ya ka e tahile ho ka hare.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "e kwetse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya ka"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "ka hare"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "e tahile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:58.576099148Z",
+  "model": "glm-5.3"
+}

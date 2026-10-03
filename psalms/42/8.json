@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Tehome e bitletsa Tehome ka modumo wa didiba tsa Hae; mafolofolo ohle a Hae le maqhubu a Hae a feditse hodima ’na.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehome"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e bitletsa"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Tehome"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "e bitletsa"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ka modumo wa"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "didiba tsa Hae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mafolofolo a Hae"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "le maqhubu a Hae"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima ’na"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "a feditse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:15.831519561Z",
+  "model": "glm-5.3"
+}

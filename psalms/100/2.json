@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 100,
+  "translation": "Tsamaisang mesebetsi ea ⟨את⟩ Yahwe ka thabo; keng pele ho eena ka ho bina.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Tsamaisang mesebetsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ka thabo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "keng"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ho eena"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "ka ho bina"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:42.775889637Z",
+  "model": "glm-5.3"
+}

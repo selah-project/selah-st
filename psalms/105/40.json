@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Ba kopa, mme a ba tlisella lichebeng, mme ka borotho ba mahodimo a ba khotsofatsa.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "ba kopa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme a ba tlisella"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "lichebeng"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "mme ka borotho"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ba mahodimo"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "a ba khotsofatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:11.538051791Z",
+  "model": "glm-5.3"
+}

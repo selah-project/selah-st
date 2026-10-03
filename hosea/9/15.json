@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 9:15",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Bobe ba bona boohle bo Gilgale, hobane moo ke ba hloileng, ka bobe ba ditiro tsa bona; ke tla ba hlakola ntlong ya ka; ha ke sa tla ba rata; balaodi ba bona boohle ba porojanang.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "boohle"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "bobe ba bona"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "bo Gilgale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ke ba hloile"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ditiro tsa bona"
+    },
+    {
+      "surface": "מביתי",
+      "gloss": "ho ntlo ya ka"
+    },
+    {
+      "surface": "אגרשם",
+      "gloss": "ke tla ba hlakola"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אוסף",
+      "gloss": "ke sa tla eketsa"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "rata bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "boohle"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "balaodi ba bona"
+    },
+    {
+      "surface": "סררים",
+      "gloss": "ba porojanang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:02:44.162370231Z",
+  "model": "glm-5.3"
+}

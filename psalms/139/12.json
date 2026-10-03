@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Empa lefifi ha le opaque ho uena; mme bosiu bo tla khanya jwaloka letsatsi; lefifi le tla ba jwaloka leseli.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Empa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha le"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "opaque"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mme bosiu"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jwaloka letsatsi"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "bo tla khanya"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "jwaloka leseli"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:06.534847375Z",
+  "model": "glm-5.3"
+}

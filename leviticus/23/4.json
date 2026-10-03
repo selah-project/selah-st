@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ke ona mahare a Yahwe, makoko a kgalalelo, ao le tlang ho bitla ⟨את⟩ ona nakong ea tsona.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ke ona"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mahare a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "makoko a"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "le tlang ho bitla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ona (mahare)"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "nakong ea tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:41.388458004Z",
+  "model": "glm-5.3"
+}

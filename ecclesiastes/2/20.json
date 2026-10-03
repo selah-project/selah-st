@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme nna ka kgutlela ho etsa hore ⟨את⟩ pelo ya ka e tlohela tshepo, ka boima ba mosebetsi bohle boo ke bo sebetsitseng tlasa letsatsi.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ka kgutlela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ho etsa hore e tlohela tshepo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya ka"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "boima ba mosebetsi"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "boo ke bo sebetsitseng"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlasa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:59.291959750Z",
+  "model": "glm-5.3"
+}

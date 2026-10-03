@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Yahwe a tsamaea, ha a qetela ho bua le Abrahame; mme Abrahame a khutlela ho ea sebakeng sa hae.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "a qetela"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "mme Abrahame"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a khutlela"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ho ea sebakeng sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:27.229365846Z",
+  "model": "glm-5.3"
+}

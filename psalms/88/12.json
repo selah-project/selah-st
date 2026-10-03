@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "A hesede hao ho ka bolelwa lebitleng? A tšepahalo hao ho ka bolelwa Abadoneng?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "a ho ka bolelwa"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "lebitleng"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede hao"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tšepahalo hao"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "Abadoneng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:21.781576849Z",
+  "model": "glm-5.3"
+}

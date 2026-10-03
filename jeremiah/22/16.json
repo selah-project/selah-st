@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "O hlahlama kahlolo ea mofutsana le ea tlhokehang; ka nako eo ho ne ho molemo. Na ho tseba nna ha se ho ⟨את⟩ bona? — ho bolela Yahwe.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "O hlahlama"
+    },
+    {
+      "surface": "דין",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ea mofutsana"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le ea tlhokehang"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ho molemo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "na ha se"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ho tseba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "ho tseba Yahwe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T09:13:01.518961657Z",
+  "model": "glm-5.3"
+}

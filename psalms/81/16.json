@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Ba hloyang Yahwe ba ne ba tla ikhohomosa ho Eena, mme nako ea bona e ne e tla isoa ho fihlela ho pakile.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Ba hloyang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ba ne ba tla ikhohomosa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho Eena"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme e be"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "nako ea bona"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ho pakile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:57.881074734Z",
+  "model": "glm-5.3"
+}

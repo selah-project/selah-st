@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Yahwe o tla mo tshehetsa bolulong jwa bokulo; mme bohaleng bohle ba hae o bo fetotse bolwet­seng ba hae.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "o tla mo tshehetsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "bolulong"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "jwa"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "bokulo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "bohaleng ba hae"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "o bo fetotse"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "bolwet­seng ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:31.705540981Z",
+  "model": "glm-5.3"
+}

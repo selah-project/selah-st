@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Mme Yosefe a tseba ⟨את⟩ baboroki ba hae, empa bona ba sa mo tsebe.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "a tseba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baboroki ba hae"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "baboroki ba hae"
+    },
+    {
+      "surface": "והם",
+      "gloss": "empa bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "mo tsebe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:38:35.321983875Z",
+  "model": "glm-5.3"
+}

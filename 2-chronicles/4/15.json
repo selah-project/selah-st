@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "⟨את⟩ lewatle le leng, le ⟨את⟩ dikgomo tse leshome le pedi tlasa ho lona.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le leng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le leshome"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "tlasa ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:24:18.528435802Z",
+  "model": "glm-5.3"
+}

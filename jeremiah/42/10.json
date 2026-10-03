@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Ha le dula ka ho khutla lefatshe lena, ke tla le aha, ke se ke ka le senya; ke tla le jala, ke se ke ka le hlakola; hobane ke talletse sebotswana seo ke se entseng ho lona.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ka ho khutla"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "le dula"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lena"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ke tla le aha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ke se ke ka"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "le senya"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ke tla le jala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ke se ke ka"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "le hlakola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ke talletse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "sebotswana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke se entseng"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:25:37.010959727Z",
+  "model": "glm-5.3"
+}

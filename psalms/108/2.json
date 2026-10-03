@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 108,
+  "translation": "O a loka pelo ya ka, Elohim; ke tla bina, ee, ke tla etela mokoelo, le kgalalelo ya ka.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "o a loka"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla bina"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ke tla etela mokoelo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee, le"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kgalalelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:03.890729122Z",
+  "model": "glm-5.3"
+}

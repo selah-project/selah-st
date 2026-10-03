@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 53,
+  "translation": "Ho tloha boimaneng ba moya wa hae o tla bona, o tla khotsofala; ka tsebo ya hae o tla lokisa e lokileng, mohlanka wa ka, ho ba bangata; mme liphoso tsa bona yena o tla li jara.",
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "ho tloha boimaneng"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa hae"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o tla bona"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "o tla khotsofala"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "ka tsebo ya hae"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "o tla lokisa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "e lokileng"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mohlanka wa ka"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "ho ba bangata"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "mme liphoso tsa bona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "o tla li jara"
+    }
+  ],
+  "timestamp": "2026-10-03T08:54:20.542807720Z",
+  "model": "glm-5.3"
+}

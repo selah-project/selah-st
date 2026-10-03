@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "habakkuk 1:16",
+  "book": "habakkuk",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ka lebaka lena o ephela linku ho sefuba sa hae sa tlhapi, a hlabela ho sefuba sa hae se segolo; hobane karolo ya hae e mafura, mme lijo tsa hae li nonofile.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka lena"
+    },
+    {
+      "surface": "יזבח",
+      "gloss": "o ephela linku"
+    },
+    {
+      "surface": "לחרמו",
+      "gloss": "ho sefuba sa hae sa tlhapi"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "a hlabela"
+    },
+    {
+      "surface": "למכמרתו",
+      "gloss": "ho sefuba sa hae se segolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mafun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "e mafura"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "karolo ya hae"
+    },
+    {
+      "surface": "ומאכלו",
+      "gloss": "mme lijo tsa hae"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "li nonofile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:12:41.122479517Z",
+  "model": "glm-5.3"
+}

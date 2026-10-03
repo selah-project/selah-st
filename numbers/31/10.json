@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme ⟨את⟩ metse ya bona yohle moo ba neng ba dulua ho yona, le ⟨את〉 matlo a bona ohle, ba a chesa ka mollo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "metse ya bona yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "metse ya bona"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "moo ba neng ba dulua ho yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "matlo a bona ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "matlo a bona"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ba a chesa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:39:12.786772873Z",
+  "model": "glm-5.3"
+}

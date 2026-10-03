@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ba tla tseba hore ke 'na Yahwe, ha ke phalalatsa ⟨אתם⟩ har'a ditjhaba, mme ke ba arohanya ⟨אתם⟩ mafatsheng.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Mme ba tla tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke 'na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "ha ke phalalatsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ba (Yisraele)"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "har'a ditjhaba"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "mme ke ba arohanya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ba (Yisraele)"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "mafatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T09:36:29.969124653Z",
+  "model": "glm-5.3"
+}

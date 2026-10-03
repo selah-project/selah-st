@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Na Ya odisang ditjhaba a ka se hlakise? Ya rutang motho tsebo, na a sa e tsebe?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Ya odisang"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na... a ka se"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "hlakise"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Ya rutang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:10.559523625Z",
+  "model": "glm-5.3"
+}

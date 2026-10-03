@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme ba dula le ena ⟨את⟩ fatshe hohle, matsatsi a supileng le mabotho a supileng, mme ho se na ya buang le ena ⟨את⟩ lentsoe, hobane ba bone hore bohlobo bo boima haholo.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ena",
+      "marks": "le ena — ba dula le ena fatshe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "le a supileng"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "mabotho"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ho se na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya buang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "le ena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨את⟩ lentsoe",
+      "marks": "lentsoe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ba bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "bo boima"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "bohlobo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:18:15.985915871Z",
+  "model": "glm-5.3"
+}

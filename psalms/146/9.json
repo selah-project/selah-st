@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 146,
+  "translation": "Yahwe o boloka ⟨את⟩ bafaladi, mohla le sehole o a ba tiisa, mme tsela ya babolokeheng o a e fetola.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "o boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bafaladi"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bafaladi"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "mohla"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "le sehole"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "o a ba tiisa"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mme tsela ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babolokeheng"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "o a e fetola"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:51.650885258Z",
+  "model": "glm-5.3"
+}

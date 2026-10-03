@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "O se ke wa fana ka boroko mahlonong a hao, kapa bofokojwana ho mahlotlana a hao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wa fana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka boroko"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "mahlonong a hao"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "kapa bofokojwana"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "ho mahlotlana a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:06:39.500362798Z",
+  "model": "glm-5.3"
+}

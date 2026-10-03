@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme lebitso la mngoe wa hae ⟨e ne e le⟩ Yubale; yena o bile ntate wa bohle ba tshwarang kinora le ugaba.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Mme lebitso"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "la mngoe wa hae"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yubale"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o bile"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntate wa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ba tshwarang"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinora"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "le ugaba"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:03.895312284Z",
+  "model": "glm-5.3"
+}

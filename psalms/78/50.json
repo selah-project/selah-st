@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "O ile a lekanya tsela bakeng sa bohale ba hae; ha a ka a ipeha molemong wa mehla ya bona ho lefu, mme mehla ya bona o ile a e neha bolwetse bo bolaeang.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "o ile a lekanya tsela"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "bakeng sa bohale ba hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a ka a"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ipeha molemong"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ho lefu"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mehla ya bona"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "mme mehla ya bona"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho bolwetse bo bolaeang"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "o ile a e neha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:26.259876352Z",
+  "model": "glm-5.3"
+}

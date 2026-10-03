@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Yahwe Elohim o ile a bopa ⟨את⟩ motho ka mobu wa mobu, mme a phedisa moea wa bophelo miciping ya hae, mme motho o ile a ba moya o phelang.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "o ile a bopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mobu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mobu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "wa mobu"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "a phedisa"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "miciping ya hae"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "moea"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wa bophelo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o ile a ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "o phelang"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:10.265758697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 58,
+  "translation": "Bakeng sa moetapele; Se senye; ea Dawide; mikhthame.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Bakeng sa moetapele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "senye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ea Dawide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhthame"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:25.094985762Z",
+  "model": "glm-5.3"
+}

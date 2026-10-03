@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme a romella ⟨את⟩ bashanyana ba barwa ba Yisraele, mme ba hlahisa mehlahiso e mengotso, ba hlahisa dihlahiso tse khotsofatsang ho Yahwe, dipoo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bashanyana ba barwa ba Yisraele"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "bashanyana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba hlahisa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "mehlahiso e mengotso"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ba hlahisa dihlahiso"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "dihlahiso"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "tse khotsofatsang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "dipoo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:07.025075563Z",
+  "model": "glm-5.3"
+}

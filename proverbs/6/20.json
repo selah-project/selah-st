@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mora wa ka, boloka melao ya ntatao, o se ke wa tloaela Torat ya mmao.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mora wa ka"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "melao"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya ntatao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "tloaela"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torat"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ya mmao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:07:02.363493352Z",
+  "model": "glm-5.3"
+}

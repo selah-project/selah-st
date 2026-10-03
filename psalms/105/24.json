@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Mme a bala ⟨את⟩ batho ba hae haholo, mme a ba matlafatsa ho feta ba mo hloyang.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "Mme a bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batho ba hae"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "batho ba hae"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "mme a ba matlafatsa"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "ho feta ba mo hloyang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:22.268750559Z",
+  "model": "glm-5.3"
+}

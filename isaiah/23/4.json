@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Tlwanong ke mahlonahong, Tsidone, hobane lewatle le boletse, matla a lewatle, le re: Nkeke ke be le matswalo, mme ha ke tsoale, mme ha ke hodise bashanyana, ha ke hodise baketsana.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Tlwanong ke mahlonahong"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "le boletse"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a lewatle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "le re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nkeke"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ke be le matswalo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ke tsoale"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ke hodise"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "bashanyana"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "ha ke hodise"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "baketsana"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:48.204493586Z",
+  "model": "glm-5.3"
+}

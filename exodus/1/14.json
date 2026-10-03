@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ba etsa hore botshelo ba bona bo be bo thata ka mosebetsi o mobe, bo lejwe la metsi le bo matlong, le mosebetsi oohle wa lebaleng; mosebetsi wa bona oohle woo ba ba romeletseng ka oona ⟨⟨ka bokhopho⟩⟩ — ⟨את⟩ mosebetsi wa bona oohle woo ba ba sebeletsang ka oona, ka bokhopho.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "ba etsa hore bo be bo thata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshelo ba bona"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "botshelo ba bona"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "ka mosebetsi"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "o mobe"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "bo lejwe la metsi"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "le bo matlong"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le oohle wa"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lebaleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebetsi wa bona oohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oohle"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "mosebetsi wa bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ba ba sebeletsang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka oona"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "ka bokhopho"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:08.427372807Z",
+  "model": "glm-5.3"
+}

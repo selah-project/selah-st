@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ke ile ka re ho mangolo ea ntsaposang le nna: Hohle kea ba isa ⟨את⟩ efa?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ka re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mangolo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ea ntsaposang"
+    },
+    {
+      "surface": "בי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hohle"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "ke e isang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:17:07.741933529Z",
+  "model": "glm-5.3"
+}

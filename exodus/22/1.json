@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ha moqolotsi a fumanwa a qhaqahela ka hare, mme a otloa a shwa, ha ho madi a hae.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "a qhaqahela ka hare"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "a fumanwa"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "moqolotsi"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "mme a otloa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a shwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a hae"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:52.477107341Z",
+  "model": "glm-5.3"
+}

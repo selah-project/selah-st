@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme moprista o tla kenya ⟨את⟩ sehlabelo sa cheso le ⟨את⟩ minkha hodima aletare; mme moprista o tla etsa kappele molemong wa hae, mme o tla hlweka.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "o tla kenya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa cheso"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sehlabelo sa cheso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "hodima aletare"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "o tla etsa kappele"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "molemong wa hae"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "o tla hlweka"
+    }
+  ],
+  "timestamp": "2026-10-03T06:10:01.074019752Z",
+  "model": "glm-5.3"
+}

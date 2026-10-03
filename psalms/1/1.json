@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Thabo e legolo ho motho ya sa tsamang ka mokhoa wa baka bona bababeli, mme tseleng ya batswadi ha a ka a ema, mmocheng wa ba tsehehang ha a ka a dula.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Thabo e legolo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tsamang"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "ka mokhoa wa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "baka bona bababeli"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "mme tseleng"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ya batswadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a ka"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "mmocheng wa"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "ba tsehehang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a ka"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dula"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:37.924341657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 97,
+  "translation": "Lithaba li qhibiliha jwalo ka donake pele ga Yahwe, pele ga Adonai wa lefatshe lohle.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "lithaba"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "jwalo ka donake"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "li qhibiliha"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:42.371388265Z",
+  "model": "glm-5.3"
+}

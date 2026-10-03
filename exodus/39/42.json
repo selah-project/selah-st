@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Ho ya ka tsohle tseo Yahwe a laetseng ⟨את⟩ Moshe, jwalo ha jwalo bana ba Yisraele ba etsile ⟨את⟩ mosebenti ohle.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ho ya ka tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo ha jwalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba etsile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebenti ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "mosebenti"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:57.465836790Z",
+  "model": "glm-5.3"
+}

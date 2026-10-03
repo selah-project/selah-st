@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Bara ba dikgosi a le har'a basadi ba tlotlegang ba hao; mofumahali o eme ka ho ja letswele la hao, a apere kauta ya Ofire.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "Bara"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ba dikgosi"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "a le har'a basadi ba tlotlegang ba hao"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "o eme"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "mofumahali"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "ka ho ja letswele la hao"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "a apere kauta ya"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofire"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:52.856073154Z",
+  "model": "glm-5.3"
+}

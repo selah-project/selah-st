@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme ka mora moo pelo ya Dawide ya mo otla, hobane o khetile ⟨את⟩ lehlakoreng leo le neng le le Shaole.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ya mo otla"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "על",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "o khetile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lehlakoreng"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "lehlakoreng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "le neng le le Shaole"
+    }
+  ],
+  "timestamp": "2026-10-03T07:42:30.187844650Z",
+  "model": "glm-5.3"
+}

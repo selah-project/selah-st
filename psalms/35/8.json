@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Tlhokohohelo e mo tsamaise a sa e tsebe, mme lesela la hae a neng a le pata le mo tshwara; ka tlhokohohelo eo a tle a wa ka eona.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "e mo tsamaise"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "tlhokohohelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e tsebe"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "mme lesela la hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a neng a"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "a le pata"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "le mo tshwara"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "ka tlhokohohelo"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "a tle a wa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka eona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:55.069091449Z",
+  "model": "glm-5.3"
+}

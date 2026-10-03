@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mizmore wa Dawide. Yahwe, ke mang ya tla ba moeti ka tenteng ya hao? Ke mang ya tla dula ⟨fatshe⟩ la thaba e halalelang ya hao?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmore"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ya tla ba moeti"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ka tenteng ya hao"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ya tla dula"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabong"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "e halalelang ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:22.002130962Z",
+  "model": "glm-5.3"
+}

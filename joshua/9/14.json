@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme banna ba nkile sejo sa bona, ⟨את⟩ mouloane oa Yahwe ha ba ea o botsa.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ba nkile"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "sejo sa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mouloane oa Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mouloane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ba ea botsa"
+    }
+  ],
+  "timestamp": "2026-10-03T07:06:07.748958285Z",
+  "model": "glm-5.3"
+}

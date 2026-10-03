@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme setjhaba se ile sa hlohonolofatsa banna bohle ba ikgethellang hore ba dule Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "se ile sa hlohonolofatsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "ba ikgethellang"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hore ba dule"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T12:08:42.169273535Z",
+  "model": "glm-5.3"
+}

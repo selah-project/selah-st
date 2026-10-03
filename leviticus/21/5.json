@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Ba se ke ba etsa bo-tšepele hlogo ya bona, mme lehlakori la lekhetho la bona ba se ke ba laola, mme mmeseng wa bona ba se ke ba etsa ⟨את⟩ dikgejwa — kggejwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "ba etsa bo-tšepele"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "bo-tšepele"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "hlogo ya bona"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "mme lehlakori la"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "lekhetho la bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "ba laola"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "mme mmeseng wa bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "kggejwa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:31.350414539Z",
+  "model": "glm-5.3"
+}

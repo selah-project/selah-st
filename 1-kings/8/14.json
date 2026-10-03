@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme morena a fetola ⟨את⟩ sefahleho sa hae, a hloekisa ⟨את⟩ phuthelelo yohle ya Yisraele; mme phuthelelo yohle ya Yisraele e eme.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "mme ... a fetola"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa hae"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa hae"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a hloekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phuthelelo yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "phuthelelo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ... yohle"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "phuthelelo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "e eme"
+    }
+  ],
+  "timestamp": "2026-10-03T08:07:34.424520464Z",
+  "model": "glm-5.3"
+}

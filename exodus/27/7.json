@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme dibatana tsa yona di tla kenngwa ka ho ⟨את⟩ ditshiki; mme dibatana di tla ba ho mahlakore a mabedi a alatara, ha ba e jara.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "Mme di tla kenngwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibatana tsa yona"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dibatana tsa yona"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ka ditshiki"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme di tla ba"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dibatana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mabedi"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mahlakore a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alatara"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "ha ba e jara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:06.056036480Z",
+  "model": "glm-5.3"
+}

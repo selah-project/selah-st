@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Se ikhohome meliming, kapa melimo ya ontwa e se ke ya e etsa ho lona; ke nna Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "ikhohome"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "meliming"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "kapa melimo ya"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ontwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e se ke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ya e etsa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:58.529907149Z",
+  "model": "glm-5.3"
+}

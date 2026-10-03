@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ba ntsha ⟨את⟩ meqolo ya ntlo ya Baale, mme ba e chesa.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meqolo"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "meqolo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baale"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "ba e chesa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:20:30.296226851Z",
+  "model": "glm-5.3"
+}

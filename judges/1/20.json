@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ba fana ka ⟨את⟩ Khebrone ho Kalebe, jwalokaha Moshe a buile; mme o ile a felisa ho tloha moo ⟨את⟩ bararo bana ba Anaka.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ba fana ka"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ho Kalebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khebrone"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebrone"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalokaha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "o ile a felisa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ho tloha moo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bararo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "bararo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anaka"
+    }
+  ],
+  "timestamp": "2026-10-03T07:17:00.638017149Z",
+  "model": "glm-5.3"
+}

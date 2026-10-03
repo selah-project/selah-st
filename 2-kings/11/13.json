@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Athalja a utla ⟨molumo⟩ wa ⟨את⟩ ba mathang le wa setjhaba, mme a kena ho setjhaba ka tlung ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "a utla"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Athalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molumo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "molumo"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "ba mathang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ka tlung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:24:03.507972666Z",
+  "model": "glm-5.3"
+}

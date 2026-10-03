@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "A ile a chesa ⟨את⟩ ntlo ya Yahwe le ⟨את⟩ ntlo ya morena, le ⟨את⟩ matlo ohle a Yerushalayime; mme ntlo e kgolo e le ngwe le e le ngwe o ile a e chesa ka mollu.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "a ile a chesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya morena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "matlo ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "matlo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo e kgolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e le ngwe le e le ngwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "o ile a e chesa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollu"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:48.778633776Z",
+  "model": "glm-5.3"
+}

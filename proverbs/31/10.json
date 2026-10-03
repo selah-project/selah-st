@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mosali wa matla, ke mang ya ka mo fumana? Mme theko ya yona e hole, e feta dipeninime.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "mosali wa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "matla"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ya ka mo fumana"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "mme ... e hole"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "e feta dipeninime"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "theko ya yona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:18:12.567133585Z",
+  "model": "glm-5.3"
+}

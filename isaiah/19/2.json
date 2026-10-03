@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme ke tla beha Mitsrayime khahlanong le Mitsrayime, mme ba tla lwa, motho le moahelane wa hae, mme motho le motswalle wa hae, toropo le toropo, mmuso le mmuso.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Mme ke tla beha ... khahlanong le"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "le Mitsrayime"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "mme ba tla lwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "le moahelane wa hae"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme motho"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "le motswalle wa hae"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "le toropo"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "mmuso"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "le mmuso"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:40.762281690Z",
+  "model": "glm-5.3"
+}

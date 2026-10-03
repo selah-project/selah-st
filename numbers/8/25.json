@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a se ka ya mengwaha e mashome a mene le lesome o tla a boela morao ho tseba ya mosebe, mme a se ke a ntsha mosebe o mong.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "mme ho tloha ho mora"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "e mashome a mene le lesome"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mengwaha"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "o tla a boela morao"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "ho tseba"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ya mosebe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme hase"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "a tla a ntsha mosebe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "o mong"
+    }
+  ],
+  "timestamp": "2026-10-03T06:26:26.781254636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Mahlo a bona a fifale hore a se ke a bona, mme serapa sa bona se sesoele ka ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "a fifale"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "mahlo a bona"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "hore a se ke a bona"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "mme serapa sa bona"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka ho sa feleng"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "se sesoele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:30.943323661Z",
+  "model": "glm-5.3"
+}

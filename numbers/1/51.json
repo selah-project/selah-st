@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ge Mishkane e tsamaya, Balevi ba e theola ⟨את⟩; mme ge Mishkane e khanna, Balevi ba e emisa ⟨את⟩; mme motho wa kantle ya atamelang o tla bolawa.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "mme ge e tsamaya"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "ba e theola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "mme ge e khanna"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "ba e emisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "mme motho wa kantle"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ya atamelang"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o tla bolawa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:52.521358728Z",
+  "model": "glm-5.3"
+}

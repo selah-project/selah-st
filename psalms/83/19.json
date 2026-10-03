@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Mme ba tsebe hore wena — lebitso la hau ke Yahwe — o le mong feela, Ya Hodimo, hodimo lefatshe lohle.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Mme ba tsebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "o le mong feela"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ya Hodimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lefatshe lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:52.692939039Z",
+  "model": "glm-5.3"
+}

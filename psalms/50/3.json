@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Elohim oa rona o tla tla, a se ke a omasa molomo: mollo o tla ja pele ho hae, le ho hlabahoari ha hae ho tla phefola haholo.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "o tla tla"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim oa rona"
+    },
+    {
+      "surface": "ו א ל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "a omasa molomo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ho hae"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "o tla ja"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "le ho hlabahoari ha hae"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "ho tla phefola"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:33.397892734Z",
+  "model": "glm-5.3"
+}

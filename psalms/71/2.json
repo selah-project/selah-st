@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Ka tsedeke ya hao o ntlheketse mme o ntlokolle; o thuke ⟨the⟩ tsebe ya hao ho ⟨'na⟩, o mpholose.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedeke ya hao"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "o ntlheketse"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "mme o ntlokolle"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "o thuke"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tsebe ya hao"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "o mpholose"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:36.517339381Z",
+  "model": "glm-5.3"
+}

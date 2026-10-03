@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Bophelo bo telele bo letsohong la eona la ho ja ho le tona; le ho le letonong, moruo le tumelo.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Bophelo bo telele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "letsohong la eona la ho ja ho le tona"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "le ho le letonong"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "moruo"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "le tumelo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:06:01.481632155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme Baasha, morena wa Yisraele, a ya hodima Yehuda, mme a haha ⟨את⟩ Rama, hore motho a se ke a fume ho tswa kapa ho kena ho Asa, morena wa Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a ya hodima"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mme a haha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hore a se ke"
+    },
+    {
+      "surface": "תת",
+      "gloss": "a fume"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ho tswa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "le ho kena"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ho Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T08:13:11.912011188Z",
+  "model": "glm-5.3"
+}

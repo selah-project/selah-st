@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Ba re ho ene: Re lorile toro, mme ha ho ⟨את⟩ motho ya e phetolang. Mme Yosefe a re ho bona: Na diphetolelo ha di ho Elohim? Bolella nna, ke kopa lona.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho ene"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "toro"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "re lorile"
+    },
+    {
+      "surface": "ופותר",
+      "gloss": "motho ya phetolang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "motho ya phetolang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "na ... ha"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "פתרונים",
+      "gloss": "diphetolelo"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "bolellang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:52.273134747Z",
+  "model": "glm-5.3"
+}

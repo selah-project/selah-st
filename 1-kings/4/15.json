@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Achimaatse, Nafatalime; hape yena o ile a nka ⟨את⟩ Basemate, morali wa Shelomo, e le mosali.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaatse"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "Nafatalime"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hape"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o ile a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basemate"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemate"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morali wa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "e le mosali"
+    }
+  ],
+  "timestamp": "2026-10-03T08:01:54.965734711Z",
+  "model": "glm-5.3"
+}

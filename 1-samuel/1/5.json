@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ho Khanne o ne a fana ka karo e le 'ngoe ya mahlong, hobane ⟨את⟩ Khanne o ile a mo rata, mme Yahwe o ile a tswalela mpa wa hae.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "mme ho Khanne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o ne a fana ka"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "karo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le 'ngoe"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ya mahlong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khanne"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Khanne"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o ile a mo rata"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "o ile a tswalela"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "mpa wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:31:22.254433175Z",
+  "model": "glm-5.3"
+}

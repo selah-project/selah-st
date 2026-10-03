@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Na o tla ba ahlolela ⟨את⟩ bona? Na o tla ahlolela, mora oa motho? ⟨את⟩ lintho tse hlonifalang tsa bo-ntate bona u ba tsebise.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "na o tla ahlolela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "na o tla ahlolela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "oa motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lintho tse hlonifalang"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "lintho tse hlonifalang"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "tsa bo-ntate bona"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "u ba tsebise"
+    }
+  ],
+  "timestamp": "2026-10-03T09:44:11.795635328Z",
+  "model": "glm-5.3"
+}

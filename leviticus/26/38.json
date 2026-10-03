@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme le tla nyamela har'a ditjhaba, mme lefatshe la dibera tsa lona le tla le ja ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "Mme le tla nyamela"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "har'a ditjhaba"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "le tla le ja"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "la dibera tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:46:29.314424383Z",
+  "model": "glm-5.3"
+}

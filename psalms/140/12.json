@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 140,
+  "translation": "Motho ea nang le leleme le mpe o ke ke oa tiisa lefatsheng; motho ea phahametsang thoko le molato-o-bebe ba tla mo tsoma, ba mo fetola hodima dikgohwa.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ea nang le leleme le mpe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "o ke ke"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "oa tiisa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ea phahametsang thoko"
+    },
+    {
+      "surface": "רע",
+      "gloss": "le molato-o-bebe"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "ba tla mo tsoma"
+    },
+    {
+      "surface": "למדחפות",
+      "gloss": "hodima dikgohwa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:09.064963534Z",
+  "model": "glm-5.3"
+}

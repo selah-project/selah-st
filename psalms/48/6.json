@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Ba ⟨e⟩ bona, ba tletsehala; ba tsitsiballa, ba sebaka ba baleha.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "ba tletsehala"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ba tsitsiballa"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "ba sebaka ba baleha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:17.466594330Z",
+  "model": "glm-5.3"
+}

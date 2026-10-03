@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Tshimo eo Abrahame a e rekileng ho tloha ⟨את⟩ ho bana ba Hete; moo Abrahame a hlapilweng teng, le Sarae mosadi wa hae.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "tshimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "a reke"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho tloha ⟨את⟩",
+      "marks": "ho bana ba Hete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hete"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "moo"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "a hlapilweng"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "le Sarae"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:29:53.824137141Z",
+  "model": "glm-5.3"
+}

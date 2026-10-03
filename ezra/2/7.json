@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Bara ya Eilame, lekholo le makgolo a mabedi le masome a hlano le ⟨e⟩ meraro e mengwe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bara ya"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Eilame"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "lekholo"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "makgolo a mabedi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masome a hlano"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "le meraro e mengwe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:17:05.849521608Z",
+  "model": "glm-5.3"
+}

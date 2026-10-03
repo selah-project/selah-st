@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Hobane ha a ka a hopola ho etsa hesede, mme a phedisetsa motho ya hlokang le ya tlhokehang, le ya nkuang pelo — ho mo bolaea.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "a ka a hopola"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "mme a phedisetsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ya hlokang"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le ya tlhokehang"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "le ya nkuang"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "ho mo bolaea"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:48.435276059Z",
+  "model": "glm-5.3"
+}

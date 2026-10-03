@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 33:7",
+  "book": "job",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Bonang, ts'abo ya ka e ke ke ya ho tshosa uena; mme boima ba ka boholo-bolo ha bo na ho e ba boima ho uena.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "ts'abo ya ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבעתך",
+      "gloss": "e tshose uena"
+    },
+    {
+      "surface": "ואכפי",
+      "gloss": "boima ba ka boholo-bolo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "bo e ba boima"
+    }
+  ],
+  "timestamp": "2026-10-03T11:30:10.998336360Z",
+  "model": "glm-5.3"
+}

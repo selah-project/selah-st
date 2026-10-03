@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme Sara a bona ⟨את⟩ mora Hagara wa Mitsrayime, ya tswetsweng ho Abrahame, a tshehisa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mora Hagara wa Mitsrayime"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagara"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "wa Mitsrayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tswetsweng"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ho Abrahame"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "a tshehisa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:16.100946569Z",
+  "model": "glm-5.3"
+}

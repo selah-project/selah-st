@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme a beha ⟨את⟩ altare ya gauta ohlabelong wa kopano, pele ga seretle.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare ya gauta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya gauta"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ohlabelong"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wa kopano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "seretle"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:00.836903278Z",
+  "model": "glm-5.3"
+}

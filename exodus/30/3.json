@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme o tla e khupetsa ⟨את⟩ ka gauta e hloekileng — ⟨את⟩ marulelo a yona le ⟨את⟩ mabota a yona ho potoloha le ⟨את⟩ dinaka tsa yona; mme o tla etsela yona serethe sa gauta ho potoloha.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "o tla e khupetsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (altaara)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marulelo a yona"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "marulelo a yona"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabota a yona"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "mabota a yona"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dinaka tsa yona"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "dinaka tsa yona"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tla etsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "etsela yona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "serethe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sa gauta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:46.018919807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 131,
+  "translation": "Yisraele, letlele ho Yahwe, ho tloha jwale ho ya ho le ka ho sa le.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "letlele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ho tloha jwale"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "le ka ho sa le"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:14.339475370Z",
+  "model": "glm-5.3"
+}

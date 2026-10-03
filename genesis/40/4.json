@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme molaodi wa baapei a bea Yosefe hore a dule ⟨את⟩ le bona, mme a ba direla; mme ba dula matsatsi bolokong.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "שר",
+      "gloss": "molaodi wa"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "baapei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ le bona"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "a ba direla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba direlwang"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "bolokong"
+    }
+  ],
+  "timestamp": "2026-10-03T05:37:40.069503786Z",
+  "model": "glm-5.3"
+}

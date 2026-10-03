@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme le ⟨את⟩ selekane sa ka se ile sa ke ke sa phahama kaofela ⟨את⟩ le bona, hore ke fune ⟨את⟩ lefatshe la Kenane, ⟨את⟩ lefatshe la bofaladi ba bona, moo ba neng ba faladitswe ho lona.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "sa phahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa ka"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ le bona"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hore ke fune"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Kenane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la bofaladi ba bona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "la bofaladi ba bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "ba faladitswe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:54.944127507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Yahwe o tseba matsatsi a ba feletseng, mme boikhethelo ba bona bo tla dula ho sa fele.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ba feletseng"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "mme boikhethelo ba bona"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho sa fele"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo tla dula"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:49.786086886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "le ⟨את⟩ seteišo sa marotledi sa khanya le ⟨את⟩ didiriswa tsa sona le ⟨את⟩ diele tsa sona, le ⟨את⟩ mafura a khanya;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "seteišo sa marotledi"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "seteišo sa marotledi"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "sa khanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa sona"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "didiriswa tsa sona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diele tsa sona"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "diele tsa sona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "a khanya"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:43.587717245Z",
+  "model": "glm-5.3"
+}

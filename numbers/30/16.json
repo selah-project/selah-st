@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme ha e le hore a di hlakoditse ho li hlakola kamora hore a di utlwe, o tla jara ⟨את⟩ bofose ba hae.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme ha e le hore"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a di hlakoditse"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ho li hlakola"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dikano le dithibelo tsa hae"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kamora"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hore a di utlwe"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "o tla jara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bofose ba hae"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "bofose ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:39:50.271718228Z",
+  "model": "glm-5.3"
+}

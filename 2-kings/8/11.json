@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a itlama ⟨את⟩ sefahleho sa hae ⟨הוא⟩ ho fihlela a tlotla, mme monna wa Elohim a lla.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a itlama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa hae"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa hae"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "בש",
+      "gloss": "a tlotla"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "a lla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T08:21:12.122414385Z",
+  "model": "glm-5.3"
+}

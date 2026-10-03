@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Hobane o mo amohela ka ditshepiso tse molemo, o beha ka hloho ya hae korona ya gauta e hlwekileng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "o mo amohela pele"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ka ditshepiso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tse molemo"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "o beha"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "ka hloho ya hae"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korona"
+    },
+    {
+      "surface": "פז",
+      "gloss": "ya gauta e hlwekileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:23.608959245Z",
+  "model": "glm-5.3"
+}

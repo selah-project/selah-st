@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Ditsietsi tse ngata tlahela molato-hae, empa yo a tshephehang ho Yahwe, hesede ea mo potoloha.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "tse ngata"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "Ditsietsi"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "tlahela molato-hae"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "empa yo a tshephehang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ea mo potoloha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:55.018673774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Hobane ha ho lentsoe holong ea ka — bonang, Yahwe, o se o le tseba kaofela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "holong ea ka"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o se o le tseba"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kaofela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:00.921952791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme banna bao ba kaletsa ⟨את⟩ letsoho la bona, mme ba tlisa ⟨את⟩ Lote ho bona, ka hare ho ntlo, mme ⟨את⟩ letlhaku ba ba lokela.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ba kaletsa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna bao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la bona"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "letsoho la bona"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ba tlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lote"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ka hare ho ntlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "letlhaku"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "letlhaku"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ba lokela"
+    }
+  ],
+  "timestamp": "2026-10-03T05:24:31.024543956Z",
+  "model": "glm-5.3"
+}

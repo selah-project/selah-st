@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Monna le mosadi o ile a ba bopa, mme a ba hlohonolofatsa ⟨אתם⟩, mme a bitsea lebitso la bona Adame, ka letsatsi leo ba bopwang ka lona.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Monna"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "le mosadi"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "o ile a ba bopa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mme a ba hlohonolofatsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mme a bitsea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la bona"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "lebitso la bona"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adame"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "ba bopwang ka lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:13.106272632Z",
+  "model": "glm-5.3"
+}

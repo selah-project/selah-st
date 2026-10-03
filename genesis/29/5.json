@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme a ba re: Na le tseba ⟨את⟩ Labane, mora wa Nakhore? Mme ba re: Re a mo tseba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Na le tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Labane"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhore"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Re a mo tseba"
+    }
+  ],
+  "timestamp": "2026-10-03T12:43:02.550576587Z",
+  "model": "glm-5.3"
+}

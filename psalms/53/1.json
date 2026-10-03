@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 53,
+  "translation": "Ho moeta-pele, ho Mahalathe, pina e rutisang, ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moeta-pele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalathe"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pina e rutisang"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:37.373695946Z",
+  "model": "glm-5.3"
+}

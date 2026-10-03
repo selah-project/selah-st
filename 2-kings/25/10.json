@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme masole ohle a Bakalde a neng a le le molaodi wa bahlabani a ile a phamula ⟨את⟩ mebota ya Yerushalayime ho potoloha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mebota"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mebota"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalayime"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "a ile a phamula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "masole"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "a Bakalde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a neng a le le"
+    },
+    {
+      "surface": "רב",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa bahlabani"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:48.778883270Z",
+  "model": "glm-5.3"
+}

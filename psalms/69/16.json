@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Se ke oa ntjhafatsa ka mohlodi oa metsi, se ke oa ngopisa ka tebileng, mme se ke oa koala molomo wa sediba ka hodima nna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "oa ntjhafatsa"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "mohlodi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "oa metsi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "oa ngopisa"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ka tebileng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "oa koala"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka hodima nna"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sediba"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "molomo wa sona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:17.028677039Z",
+  "model": "glm-5.3"
+}

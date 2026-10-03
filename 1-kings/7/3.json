@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme e paterilwe ka areza hodima, hodima matlhakore ao a hodima dikholomong, e masome a mane le hlano, lesome le metso e hlano ho ya tulong e nngwe le e nngwe.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "Mme e paterilwe"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ka areza"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "matlhakore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "dikholomong"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "masome a mane"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "le hlano"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lesome le metso e hlano"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "e hlano"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "ho ya tulong e nngwe le e nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:05:38.500266322Z",
+  "model": "glm-5.3"
+}

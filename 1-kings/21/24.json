@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Yo a shweleng wa Ahabe motseng, mantši a tla mo ja; mme yo a shweleng lehlakoreng, dinonyana tsa mahodimo di tla mo ja.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "yo a shweleng"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "wa Ahabe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "a tla mo ja"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "mantši"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "mme yo a shweleng"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lehlakoreng"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "a tla mo ja"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dinonyana"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa mahodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:14:00.771160227Z",
+  "model": "glm-5.3"
+}

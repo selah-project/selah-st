@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme O tla hlahisa tsedeko ya hao joaloka moshoeleba, le kahlolo ya hao joaloka sefubyu.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "mme O tla hlahisa"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "joaloka moshoeleba"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedeko ya hao"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "le kahlolo ya hao"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "joaloka sefubyu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:02.891722981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Tseha ⟨את⟩ Balavi ho tsebahalang tsa bana ba Yisraele, mme o hlatse ⟨את⟩ bona.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tseha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balavi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balavi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ho tsebahalang tsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "mme o hlatse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "Balavi"
+    }
+  ],
+  "timestamp": "2026-10-03T06:26:53.281772701Z",
+  "model": "glm-5.3"
+}

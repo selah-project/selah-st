@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 60,
+  "translation": "Ha a bapalla ⟨את⟩ Arame ea Dinoka tse peli le ⟨את⟩ Arame ea Tsoba, mme Joabe a khutla, a bula ⟨את⟩ Edomoe lewatleng la molora — dikete tse leshome le metso ea mmedi.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Ha a bapalla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arame ea Dinoka tse peli"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "ea Dinoka tse peli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Arame ea Tsoba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ea Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme a khutla"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a bula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edome"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "lewatleng la"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "molora"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tse peli"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "leshome le"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:35.067101151Z",
+  "model": "glm-5.3"
+}

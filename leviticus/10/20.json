@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Moshe a mamela, mme ho ne ho molemo mahlong a hae.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Mme Moshe a mamela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "mme ho ne ho molemo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mahlong a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:09:07.068247688Z",
+  "model": "glm-5.3"
+}

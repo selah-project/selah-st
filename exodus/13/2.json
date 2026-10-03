@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Halaletsa ho nna ⟨את⟩ mongwe le mongwe ya tswalwang pele, ya bulang popelo ya mongwe le mongwe, hara bana ba Yisraele, mothong le phoofolong; ⟨ke⟩ ea ka.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "halaletsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ya tswalwang pele"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "ya bulang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya mongwe le mongwe"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "popelo"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "hara bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mothong"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "le phoofolong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ea ka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ke⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:32.049105514Z",
+  "model": "glm-5.3"
+}

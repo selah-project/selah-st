@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Le lona le tla boloka ⟨את⟩ boiklobo ba dilo tse halalelang le ⟨את⟩ boiklobo ba altare, hore khalefo e se ke ya tla hape holim'a bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "le tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boiklobo ba dilo tse halalelang"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "boiklobo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ba dilo tse halalelang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "boiklobo ba altare"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "boiklobo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ba altare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hore ... e se"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "khalefo"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T06:32:21.571705045Z",
+  "model": "glm-5.3"
+}

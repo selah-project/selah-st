@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Se ntshinyetse nakong ya bokgolo ba dilemo; ha matla a ka a fedile, se ntlaoke.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "ntshinyetse"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "nakong ya"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "bokgolo ba dilemo"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ha... a fedile"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ntlake"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:33.095569367Z",
+  "model": "glm-5.3"
+}

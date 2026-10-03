@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme Moshe a laela ⟨את⟩ sechaba letsatsing leno, a re:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sechaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letsatsing"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leno"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:07.175098574Z",
+  "model": "glm-5.3"
+}

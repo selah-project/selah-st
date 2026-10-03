@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme masole a hae le ba balwang ba bona, mane hlano le mashome a supileng dilekane le tse tsheletseng di leshome le metso e mehlano.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Mme masole a hae"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "le ba balwang ba bona"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "mane"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "le mashome a supileng"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dilekane"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le tse tsheletseng"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dilekane tse leshome le tsheletseng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:50.539401847Z",
+  "model": "glm-5.3"
+}

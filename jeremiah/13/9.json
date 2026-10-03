@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Jwale, ho bolela Yahwe: ka mokgwa ona ke tla senya ⟨את⟩ boikhantsho ba Yuda le ⟨את⟩ boikhantsho bo bogolo ba Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Jwale"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ka mokgwa ona"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ke tla senya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boikhantsho ba Yuda"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boikhantsho"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "boikhantsho bo bogolo ba Yerushalayime"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boikhantsho"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ba Yerushalayime"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "bo bogolo"
+    }
+  ],
+  "timestamp": "2026-10-03T09:09:06.268662128Z",
+  "model": "glm-5.3"
+}

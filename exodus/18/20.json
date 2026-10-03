@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme o hlokometse ⟨את⟩ bona — ⟨את⟩ melaoana le ⟨את⟩ ditorah; mme o tsebise ho bona ⟨את⟩ tsela eo ba tsamayang ka yona, le ⟨את⟩ mosebisi oo ba o etsang.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "o hlokometse"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melaoana"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melaoana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditorah"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "ditorah"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "o tsebise"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tsamayang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mosebisi"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "mosebisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ba o etsang"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:43.964600627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Tshehetshang ⟨את⟩ Yahwe ka tsabo; mme itumiseng ka ho thothomela.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Tshehetshang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ka tsabo"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mme itumiseng"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "ka ho thothomela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:31.841216558Z",
+  "model": "glm-5.3"
+}

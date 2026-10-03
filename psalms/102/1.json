@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Thapelo ya ⟨את⟩ ya o imetsweng, ha a ikutolla, mme a hlahisa ⟨את⟩ dithapelo tsa hae pemafaling ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Thapelo"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ya o imetsweng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "a ikutolla"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "pemafaling ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "a hlahisa"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "dithapelo tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:20.537146162Z",
+  "model": "glm-5.3"
+}

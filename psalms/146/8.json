@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 146,
+  "translation": "Yahwe ya bulang mahlo a bofofu; Yahwe ea tsoasang ba khubametseng; Yahwe ea ratang ba lokileng.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ya bulang mahlo"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "a bofofu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "ea tsoasang"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "ba khubametseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ea ratang"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:53.572432671Z",
+  "model": "glm-5.3"
+}

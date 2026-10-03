@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 125,
+  "translation": "Hobane mosifa wa bobe o ke ke wa phomola holimo ga kabelo ya ba lokileng, hore ba lokileng ba se ke ba atamatsa matsoho a bona ho bobe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ke ke wa"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "phomola"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mosifa"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "wa bobe"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo ga"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "kabelo ya"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke ba"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "atamatsa"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "ho bobe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "matsoho a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:02.809160389Z",
+  "model": "glm-5.3"
+}

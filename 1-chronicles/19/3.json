@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 19:3",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme ditlhogo tsa bana ba Amone tsa re ho Khanune: Na Dawide o tlotlisa ⟨את⟩ ntata-hao mahlonong a hao, ka hona a o romella batlhotsi? Na makgobedi a hae eseng a tletse ho hao ho batlisisa, ho fetola, le ho nehelana ka lefatshe?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "tsa re"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ditlhogo tsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amone"
+    },
+    {
+      "surface": "לחנון",
+      "gloss": "ho Khanune"
+    },
+    {
+      "surface": "המכבד",
+      "gloss": "o tlotlisa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntata-hao"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ntata-hao"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mahlonong a hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka hona"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a o romella"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho hao"
+    },
+    {
+      "surface": "מנחמים",
+      "gloss": "batlhotsi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na... eseng"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "ho batlisisa"
+    },
+    {
+      "surface": "ולהפך",
+      "gloss": "ho fetola"
+    },
+    {
+      "surface": "ולרגל",
+      "gloss": "ho nehelana ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "a tletse"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "makgobedi a hae"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho hao"
+    }
+  ],
+  "timestamp": "2026-10-03T12:17:57.322782195Z",
+  "model": "glm-5.3"
+}

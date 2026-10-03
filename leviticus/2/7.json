@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme ha korbane ya hau e le minkha ya marakheshete, solete ka mafura e tla etsoa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha ya"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "marakheshete"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "korbane ya hau"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "solete"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "e tla etsoa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:06.316881521Z",
+  "model": "glm-5.3"
+}

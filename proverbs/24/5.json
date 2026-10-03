@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Monna ya hlalephang o na le matla, mme monna ya tsebo o eketsa matla.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ya hlalephang"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "o na le matla"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme monna"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ya tsebo"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "o eketsa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "matla"
+    }
+  ],
+  "timestamp": "2026-10-03T11:15:12.890984297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme ka dilemo tse tsheletsu o jala ⟨את⟩ lefatshe la hao, mme o bokella ⟨את⟩ dijalo tsa lona.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Mme ka tse tsheletsu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "o jala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la hao"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "lefatshe la hao"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "mme o bokella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijalo tsa lona"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "dijalo tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:12.945177478Z",
+  "model": "glm-5.3"
+}

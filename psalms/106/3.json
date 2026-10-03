@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mahloriso a balwang ba tlhokomelongang kahlolo, ba etsang tsedeke nakong e nngwe le e nngwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahloriso"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ba tlhokomelong"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nakong e nngwe le e nngwe — kaofela"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:10.150160995Z",
+  "model": "glm-5.3"
+}

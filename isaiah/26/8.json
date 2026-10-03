@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Ee, tselaneng ya dikahlolo tsa hao, Yahwe, re ile ra leta ⟨wena⟩; ho lebitso la hao le ho keteko ya hao ke takatso ya moyo.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tselaneng"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikahlolo tsa hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "ra leta"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ho lebitso la hao"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "le ho keteko ya hao"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "takatso"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moyo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:40:44.302702235Z",
+  "model": "glm-5.3"
+}

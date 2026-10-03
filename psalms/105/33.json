@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "O ile a otla ⟨את⟩ merebi ya bona le ⟨את⟩ mafinya a bona, mme a thunya ⟨את⟩ mehlare ya mollane wa bona.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "O ile a otla"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "merebi ya bona"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "le mafinya a bona"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "mme a thunya"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mehlare"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ya mollane wa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:24.664622978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Bonang, ke beile kajeno pela hau ⟨את⟩ bophelo le ⟨את⟩ se ntle, le ⟨את⟩ lefu le ⟨את⟩ bobe.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke beile"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pela hau"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "se ntle"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "se ntle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lefu"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bobe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bobe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:00:33.838723129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ho tloha setjhabeng sa Benjamine, ⟨את⟩ Gibeone le ⟨את⟩ mahaeng a yona, ⟨את⟩ Gebae le ⟨את⟩ mahaeng a yona.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Mme ho tloha setjhabeng sa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeone"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mahaeng a yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaeng a yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gebae"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gebae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mahaeng a yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mahaeng a yona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:50:22.253263393Z",
+  "model": "glm-5.3"
+}

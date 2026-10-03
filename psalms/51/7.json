@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Bonang, ka tlhoka-lokahalo ke tsoetswe, mme ka sebe mma a impsha.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "ka tlhoka-lokahalo"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ke tsoetswe"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "mme ka sebe"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "a impsha"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mma"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:16.170707777Z",
+  "model": "glm-5.3"
+}

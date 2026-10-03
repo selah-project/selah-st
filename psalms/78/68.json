@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme o ile a kgetha ⟨את⟩ khotla ya Yuda, ⟨את⟩ thaba ya Tsiyone ya a ratang.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "a kgetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khotla ya Yuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "khotla"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba ya Tsiyone"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "a ratang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:08.128181533Z",
+  "model": "glm-5.3"
+}

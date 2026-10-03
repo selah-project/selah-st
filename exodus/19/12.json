@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme o tla beha mollong bakeng sa ⟨את⟩ setjhaba ho potoloha, o re: Ipehe hloko hore le se ke la ea hodima thabeng, kapa ho ama mollong wa yona; mang kapa mang ea amang thaba o tla bolailoa ka tolo.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "o tla beha mollong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Ipehe hloko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ea hodima"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "kapa ho ama"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "mollong wa yona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mang kapa mang"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ea amang"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bolailoa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o tla bolailoa ka tolo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:14.427136499Z",
+  "model": "glm-5.3"
+}

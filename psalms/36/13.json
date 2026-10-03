@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Moo ba hlokolotseng, ba etsang boitlhoko ba ile ba wa; ba ile ba sotloa ka tlase, mme ba ne ba se ke ba kgona ho tsoha.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Moo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ba ile ba wa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "און",
+      "gloss": "boitlhoko"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "ba ile ba sotloa ka tlase"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ne ba se ke"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ba kgona"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ho tsoha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:43.378384706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ba lakaletsa masimu, ba a utswa ka dikgoka; le matlo, ba a ntša; ba qhekella monna le ntlo ya hae, motho le ⟨את⟩ lefa la hae.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "Ba lakaletsa"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "masimu"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "ba a utswa ka dikgoka"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "le matlo"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "ba a ntša"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "ba qhekella"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "le ntlo ya hae"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "le lefa la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:10:55.791245622Z",
+  "model": "glm-5.3"
+}

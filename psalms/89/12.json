@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Mahodimo ke a hao, ha ho jele, lefatshe le ke la hao; lefatshe le tlalo ya lona, wena o li thehile.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ke a hao"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ha ho jele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ke la hao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "le tlalo ya lona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "o li thehile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:55.041773251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "E le hore lefatshe le se ke la la hlatsa ⟨את⟩ lona ka ho hloeka ha lona ⟨את⟩ ⟨e⟩, jwalo ka ha le ile la hlatsa ⟨את⟩ sechaba se neng pele ho lona.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e le hore le se ke"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "la hlatsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "ka ho hloeka ha lona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨e⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "le ile la hlatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sechaba"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se neng"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:40.074072020Z",
+  "model": "glm-5.3"
+}

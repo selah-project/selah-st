@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Empa mashi a ka ntle ho mophelo oa eona, le a khaotsa ho ja nama e nang le moya oa bophelo bo eona.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Empa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "e nang le ruakh ya eona"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "mashi a eona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a khaotsa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ho ja"
+    }
+  ],
+  "timestamp": "2026-10-03T12:42:12.917620591Z",
+  "model": "glm-5.3"
+}

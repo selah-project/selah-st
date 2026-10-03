@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ka mora hae, Ibtsane wa Betleheme o ile a ahola ⟨את⟩ Yisraele.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "o ile a ahola"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka mora hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsane"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leheme"
+    }
+  ],
+  "timestamp": "2026-10-03T12:51:37.850406353Z",
+  "model": "glm-5.3"
+}

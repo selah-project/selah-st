@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "U tseba nyefolo ea ka, le tlhomoholo ea ka, le manyefolo a ka; pele ho wena bahlanka ba ka bohle.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tseba"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "nyefolo ea ka"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "le tlhomoholo ea ka"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "le manyefolo a ka"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pele ho wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "bahlanka ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:55.530043711Z",
+  "model": "glm-5.3"
+}

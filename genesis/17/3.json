@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Abrahame a wa sefateng sa hae, mme Elohim a bua ⟨את⟩ le eena, a re:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "a wa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "על",
+      "gloss": "sefateng"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa hae"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le eena",
+      "marks": "le eena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T05:25:36.885514983Z",
+  "model": "glm-5.3"
+}

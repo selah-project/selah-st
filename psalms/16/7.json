@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Ke tla hlohonolofatsa ⟨את⟩ Yahwe, ya nkgothotseng; le masele diphapo tsa ka di nk ruta.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Ke tla hlohonolofatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "nkgothotseng"
+    },
+    {
+      "surface": "אף",
+      "gloss": "le"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "masele"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "di nk ruta"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "diphapo tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:34.295530709Z",
+  "model": "glm-5.3"
+}

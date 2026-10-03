@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Sesafeleng sa bohodimo ba bochaba ho tloha bodikeling bong, Yahwe o lkile a hlakola ⟨את⟩ ditlolo tsa rona ho tloha ho rona.",
+  "tokens": [
+    {
+      "surface": "כִּרְחֹ֣ק",
+      "gloss": "Sesafeleng sa bohodimo"
+    },
+    {
+      "surface": "מִ֭זְרָח",
+      "gloss": "bochaba"
+    },
+    {
+      "surface": "מִֽמַּֽעֲרָ֑ב",
+      "gloss": "ho tloha bodikeling bong"
+    },
+    {
+      "surface": "הִֽרְחִ֥יק",
+      "gloss": "o lkile a hlakola"
+    },
+    {
+      "surface": "מִ֝מֶּ֗נּוּ",
+      "gloss": "ho tloha ho rona"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ditlolo tsa rona"
+    },
+    {
+      "surface": "פְּשָׁעֵֽנוּ",
+      "gloss": "ditlolo tsa rona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:24.781857078Z",
+  "model": "glm-5.3"
+}

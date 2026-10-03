@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Ho moeta-pele wa mmino, ho sebinwa sa Gitiythe, wa Asafe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho moeta-pele wa mmino"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "sebinwa sa Gitiythe"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa Asafe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:11.129329448Z",
+  "model": "glm-5.3"
+}

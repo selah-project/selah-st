@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme setjhaba sona sohle se bone ⟨את⟩ pilara ya leru e emang mongongong wa setente, mme setjhaba sohle se hodile, mme ba ikhohomosa, mong le mong mongongong wa setente sa hae.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mme se bone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilara ya leru"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "pilara"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ya leru"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "e emang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mongongong"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wa setente"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "mme se hodile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "mme ba ikhohomosa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mongongong"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "wa setente sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:00:30.469366580Z",
+  "model": "glm-5.3"
+}

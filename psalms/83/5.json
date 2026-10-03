@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Ba re: Tlogo, re je phetho ya ho ba hlakola hore ba seke ba nna setjhaba; mme lebitso la Yisraele le se ke la hopolelwa ha e le haphele.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ba re"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Tlogo"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "re je phetho ya ho ba hlakola"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "hopolelwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ha e le haphele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:00.859310698Z",
+  "model": "glm-5.3"
+}

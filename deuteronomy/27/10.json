@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme o tla utlwa lentswe la Yahwe Elohim wa hao, mme o tla etsa ⟨את⟩ melao ea hae le ⟨את⟩ ditaelo tsa hae, tseo nka li laolang letsatsi lena.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "o tla utlwa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ea hae"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "melao ea hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditaelo tsa hae"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ditaelo tsa hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nka"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "li laolang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi lena"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:07.174975503Z",
+  "model": "glm-5.3"
+}

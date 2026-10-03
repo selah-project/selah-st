@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ha merabe e mengata, ba e jang ba ata; mme molemo ofe ho monga eona, ntle le ho e bona ka mahlo a hae?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Ha merabe e mengata"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "merabe"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ba ata"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "ba e jang"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mme molemo ofe"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "ho monga eona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ntle le hape"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:00.283474467Z",
+  "model": "glm-5.3"
+}

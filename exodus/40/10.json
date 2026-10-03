@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme o tla lotla ⟨את⟩ alatare ya sehlabelo se sehesang le ⟨את⟩ didiriswa tsa yona tsohle, mme o tla e halaletsa ⟨את⟩ alatare; mme alatare e tla ba kgalalelo ya ditheohelo.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "mme o tla lotla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alatare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alatare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya sehlabelo se sehesang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didiriswa tsa yona"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "mme o tla e halaletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alatare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alatare"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla ba"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alatare"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya ditheohelo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:05.094471912Z",
+  "model": "glm-5.3"
+}

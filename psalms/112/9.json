@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 112,
+  "translation": "O phalalitse, o file ⟨את⟩ batho ba hlokang; tsedeke ya hae e eme hosafeleng; lenaka la hae le tla hodiswa ka kgalalelo.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "o phalalitse"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o file"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "batho ba hlokang"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedeke ya hae"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hosafeleng"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "lenaka la hae"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "le tla hodiswa"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "ka kgalalelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:46.489811284Z",
+  "model": "glm-5.3"
+}

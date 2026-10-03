@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "Tlotlisang ⟨את⟩ Yahwe lefatsheng, linaoa tsa leoatle le metheo ohle ya metsi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Tlotlisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "linaoa tsa leoatle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le … ohle"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "metheo ya metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:43.070660450Z",
+  "model": "glm-5.3"
+}

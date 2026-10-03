@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "⟨את⟩ kgwedi le dinaledi ho busa bosiu, hobane hesede ya hae ya ho isa kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgwedi"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "le dinaledi"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "ho busa"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho isa kahosafeleng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:46.183634665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 127,
+  "translation": "Thaba ⟨⟨ke⟩⟩ monna ya tlatsang ⟨את⟩ sethunya sa hae ka bona; a ke ke a tshwarwa ke tlhotlho, hobane o tla bua ⟨את⟩ le ⟨את⟩ dira kahare ⟨⟨ka⟩⟩ seterateng.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Thaba"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "ya tlatsang"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "sethunya sa hae"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "sethunya sa hae"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "ka bona"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "a ke ke a"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "tshwarwa ke tlhotlho"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יְדַבְּרוּ",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩ le",
+      "marks": "dira"
+    },
+    {
+      "surface": "אוֹיְבִים",
+      "gloss": "dira"
+    },
+    {
+      "surface": "בַּשָּׁעַר",
+      "gloss": "seterateng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:07.090721784Z",
+  "model": "glm-5.3"
+}

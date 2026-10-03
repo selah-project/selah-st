@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mekgatha ya lefu e mphetse, mme dinoka tsa Beliale di ntlabilwe.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "di mphetse"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "mekgatha"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ya lefu"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "mme dinoka"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "tsa Beliale"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "di ntlabilwe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:24.494500802Z",
+  "model": "glm-5.3"
+}

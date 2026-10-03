@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme Izebele, mosadi wa hae, a kena ho yena, mme a bua le ena: Ke eng se? Ruakh ya hao e sokolohetse, mme o sa je lebone.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "a kena ho yena"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebele"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa hae"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "mme a bua"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "le ena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ke eng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruakh ya hao"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "e sokolohetse"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "mme o sa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "je"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lebone"
+    }
+  ],
+  "timestamp": "2026-10-03T08:15:33.053503131Z",
+  "model": "glm-5.3"
+}

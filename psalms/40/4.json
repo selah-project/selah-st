@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme a beha moqomong oa ka pina e ncha, thoriso bakeng sa Elohim oa rona; ba bangata ba tla bona, mme ba tla ts'aba, mme ba tla ts'epahala ho Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mme a beha"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "moqomong oa ka"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e ncha"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "thoriso"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "bakeng sa Elohim oa rona"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba tla bona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bangata"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mme ba tla ts'aba"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "mme ba tla ts'epahala"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:39.718019316Z",
+  "model": "glm-5.3"
+}

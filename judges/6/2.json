@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme letsoho la Midiyane le ile la ba hlama ba Yisraele; ka baka la Midiyane, bara ba Yisraele ba etsela bona ⟨את⟩ ditlhare tse ka dithabeng, le ⟨את⟩ dimilile, le ⟨את⟩ metse e matla.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "la ba hlama"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyane"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba etsela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhare tse ka dithabeng"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "ditlhare tse ka dithabeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse ka"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "dithabeng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dimilile"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "dimilile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "metse e matla"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "metse e matla"
+    }
+  ],
+  "timestamp": "2026-10-03T07:20:18.393619013Z",
+  "model": "glm-5.3"
+}

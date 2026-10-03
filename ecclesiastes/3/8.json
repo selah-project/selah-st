@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Nako ya ho rata, le nako ya ho hloya; nako ya ntoa, le nako ya khotso.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "ho rata"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le nako"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ho hloya"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le nako"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    }
+  ],
+  "timestamp": "2026-10-03T11:41:48.886964077Z",
+  "model": "glm-5.3"
+}

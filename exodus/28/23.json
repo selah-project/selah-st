@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme o tla etsa holim'a hoshene disele tse pedi tsa khauta, mme o tla beha ⟨את⟩ disele tse pedi holim'a mafelo a mabeli a hoshene.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tla etsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshene"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "disele"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sa khauta"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o tla beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disele tse pedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "disele"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mabeli"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mafelo a"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshene"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:24.546028800Z",
+  "model": "glm-5.3"
+}

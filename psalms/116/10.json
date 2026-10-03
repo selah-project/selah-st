@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Ke kholise, hobane ke bolela; nna ke ile ka amuhuoa bohloko haholo.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ke kholise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke bolela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ke ile ka amuhuoa bohloko"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:17.167958777Z",
+  "model": "glm-5.3"
+}

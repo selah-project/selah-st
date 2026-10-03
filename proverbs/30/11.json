@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Seo se tletseng sehlooho se qhekellelela ntata sona, mme ⟨את⟩ mmae ha a hloekise.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "sehlōōho sa batho"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntata sona"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "se qhekellelela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mmae"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "a hloekise"
+    }
+  ],
+  "timestamp": "2026-10-03T11:17:20.786781834Z",
+  "model": "glm-5.3"
+}

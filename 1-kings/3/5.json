@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "BaGibhone Yahwe o ile a bonahala ho Shlomohe torong ya bosiu, mme Elohim a re: Kopa ⟨את⟩ seo o se batlang, ke tla se fa wena.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "BaGibhone"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "o ile a bonahala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "torong"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya bosiu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme ... a re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Kopa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨את⟩ seo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla ... fa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:01:57.074769264Z",
+  "model": "glm-5.3"
+}

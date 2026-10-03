@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Ka talente ya gauta e hloekileng o ile a etsa ⟨את⟩ yona, le ⟨את⟩ didiriswa tsa yona tsohle.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ka talente"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "setshebo (yona)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa yona tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "didiriswa tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:11.888626823Z",
+  "model": "glm-5.3"
+}

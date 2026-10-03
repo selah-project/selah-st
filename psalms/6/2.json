@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Yahwe, o se ke wa mpontša phoso ka tlhoko ya hao, mme o se ke wa ntlala ka khalefo ya hao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ka tlhoko ya hao"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "wa mpontša phoso"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ke"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "ka khalefo ya hao"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "wa ntlala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:07.604656847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ho latela tsohle tseo ke di bonisetsang ⟨את⟩ ho wena — ⟨את⟩ sebopeho sa Mishkane le ⟨את⟩ sebopeho sa ditho tsohle tsa yona — jwalo ka jwalo o tla di etsa.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ho latela tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "di bonisetsang"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ho wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebopeho sa Mishkane"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "sebopeho"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa Mishkane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sebopeho sa ditho tsohle"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "sebopeho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ditho tsa yona"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "jwalo ka jwalo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "o tla di etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:45.958070280Z",
+  "model": "glm-5.3"
+}

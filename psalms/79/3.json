@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 79,
+  "translation": "Ba chiliitse madi a bona jwaloka metsi mabapi le Yerushalayime, mme ha ho ya bolokang.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Ba chiliitse"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "madi a bona"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jwaloka metsi"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "mabapi le"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "ya bolokang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:40.220613560Z",
+  "model": "glm-5.3"
+}

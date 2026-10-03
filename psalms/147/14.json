@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Ya behang kagiso moleleng wa hau, ya khotsatsa ka mafura a koro.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Ya behang"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "moleleng wa hau"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "a koro"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "ya khotsatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:27.109883727Z",
+  "model": "glm-5.3"
+}

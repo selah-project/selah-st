@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme mouwane o ile wa hlaha lefatsheng, mme o ile wa hedisetsa ⟨את⟩ sehlare se seng le se seng sa mobu.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "Mme mouwane"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "o ile wa hlaha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "o ile wa hedisetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlare se seng le se seng sa mobu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se seng le se seng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa mobu"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:10.265427343Z",
+  "model": "glm-5.3"
+}

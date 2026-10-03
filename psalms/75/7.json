@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 75,
+  "translation": "Hobane ha ho tsoe bochabela, kapa bophirima, kapa le ho tloha naha e omileng tse phahameng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "tsoe bochabela"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "kapa bophirima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapa le ha"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "tloha naha e omileng"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tse phahameng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:39.794559642Z",
+  "model": "glm-5.3"
+}

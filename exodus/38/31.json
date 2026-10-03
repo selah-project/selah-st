@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Le ⟨את⟩ mealo ya lefapha ho potileng, le ⟨את⟩ mealo ya sebakeng sa lefapha, le ⟨את⟩ dithusi tsohle tsa Mishkane, le ⟨את⟩ dithusi tsohle tsa lefapha ho potileng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mealo ya lefapha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mealo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya lefapha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potileng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mealo ya sebakeng sa lefapha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mealo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ya sebakeng sa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lefapha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithusi tsohle tsa Mishkane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "יתדות",
+      "gloss": "dithusi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tsa Mishkane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithusi tsohle tsa lefapha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "יתדות",
+      "gloss": "dithusi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tsa lefapha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potileng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:24.163788646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 11:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Banna ba Yabeishe ba re: Hosane re tla tla ho lona, le etseng ho rona sohle se molemo mahlong a lona.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabeishe"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Hosane"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "re tla tla"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "le etseng"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "se molemo"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "mahlong a lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:34:57.614396225Z",
+  "model": "glm-5.3"
+}

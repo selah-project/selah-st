@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme Kalebe a nyamisa ⟨את⟩ setjhaba ho Moshe, mme a re: A re phahame, re tla phahama, mme ra e rua ⟨אתה⟩, hobane re ka e fihlela.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "mme a nyamisa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a re phahame"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "re tla phahama"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "mme ra e rua"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "lefatshe (e)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "re ka"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "e fihlela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-10-03T12:48:10.724932686Z",
+  "model": "glm-5.3"
+}

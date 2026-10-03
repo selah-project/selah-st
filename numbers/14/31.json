@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 14:31",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme bana ba lona ba nyane, bao le ileng la re tla ba sehlahla, ke tla ba kena, mme ba tla tseba ⟨את⟩ lefatshe leo le ileng la le hana eona.",
+  "tokens": [
+    {
+      "surface": "וטפכם",
+      "gloss": "Mme bana ba lona ba nyane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "le ileng la re"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "sehlahla"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tla ba"
+    },
+    {
+      "surface": "והביאתי",
+      "gloss": "ke tla ba kena"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba (bana ba lona ba nyane)"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ba tla tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "le ileng la le hana"
+    },
+    {
+      "surface": "בה",
+      "gloss": "eona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:48:37.531866700Z",
+  "model": "glm-5.3"
+}

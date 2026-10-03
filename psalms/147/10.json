@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Ha a thabe ⟨the⟩ matleng a habenne, ha a rate ⟨the⟩ maotwana a motho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "matleng a"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "habenne"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "a thabe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a rate"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "maotwana a"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:08.525769916Z",
+  "model": "glm-5.3"
+}

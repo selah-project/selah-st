@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Ha ho puo, mme ha ho mantswe; ntle le ho utloahala molumo wa tsona.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ha ho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "puo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ho utloahala"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "molumo wa tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:00.427745165Z",
+  "model": "glm-5.3"
+}

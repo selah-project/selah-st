@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme Elohim a holoisa ⟨את⟩ setjhaba ka ho potoloha, ka tsela ya bohaleng ho ya lewatleng la Sufe; mme bara ba Yisraele ba hlahla ka meputso ho tloha naheng ya Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "a holoisa ka ho potoloha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ya bohaleng"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "la Sufe"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ba hlahla ka meputso"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ba hlahla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha naheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:42.622458976Z",
+  "model": "glm-5.3"
+}

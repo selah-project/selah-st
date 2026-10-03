@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Empa nna, ke behile morena wa ka hodima Tsiyone, thaba e halalelang ya ka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "empa nna"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ke behile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "e halalelang ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:05.093047550Z",
+  "model": "glm-5.3"
+}

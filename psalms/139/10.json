@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "le ho fihlela moo letsoho la hau le tla ntata, mme letona la hau le tla n tshwara.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le ho fihlela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hau"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "le tla ntata"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "le tla n tshwara"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letona la hau"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:06.534571549Z",
+  "model": "glm-5.3"
+}

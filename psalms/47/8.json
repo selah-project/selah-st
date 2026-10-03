@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 47,
+  "translation": "Hobane morena wa lefatshe lohle ke Elohim; bina ka bohlale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bina"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ka bohlale"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:32.018678008Z",
+  "model": "glm-5.3"
+}

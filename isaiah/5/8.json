@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Masoabi ho ba kopanyang ntlo ho ⟨את⟩ ntlo, tshimo ho ⟨את⟩ tshimo, ho fihlela ho se be sebaka; mme le tla dula le inotshe kahare ho lefatshe!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "masoabi"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "ho ba kopanyang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ho ⟨את⟩ ntlo",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tshimo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ho ⟨את⟩ tshimo",
+      "marks": "tshimo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ba kopanyang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ho se be"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebaka"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "mme le tla dula"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "le inotshe"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kahare ho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:34:28.521129809Z",
+  "model": "glm-5.3"
+}

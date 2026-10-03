@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme moeti o se ke wa mo hlapanyetsa; hobane le tseba ⟨את⟩ bophelo ba moeti, hobane le ne le le baeti naheng ya Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Mme moeti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "wa mo hlapanyetsa"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "le tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo ba moeti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ba moeti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "baeti"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "le ne le le"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:12.944872107Z",
+  "model": "glm-5.3"
+}

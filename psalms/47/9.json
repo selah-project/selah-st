@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 47,
+  "translation": "Elohim o busa ⟨את⟩ ditjhaba; Elohim o duletse holim'a setulo sa hae se halalelang.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "o busa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨את⟩ holim'a"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o duletse"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa hae se halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:23.981663066Z",
+  "model": "glm-5.3"
+}

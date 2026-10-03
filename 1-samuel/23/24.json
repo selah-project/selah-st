@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme ba tsoha, ba ya ho Zife pele ga Shaule; mme Dawide le banna ba hae ba ne ba le sekhoating sa Maeone, ho Arebe, ka boroa ho Yeshimone.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ba tsoha"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "ho Zife"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba hae"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sekhoating sa"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maeone"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "ho Arebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka boroa ho"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "boroa"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Yeshimone"
+    }
+  ],
+  "timestamp": "2026-10-03T07:42:57.879143884Z",
+  "model": "glm-5.3"
+}

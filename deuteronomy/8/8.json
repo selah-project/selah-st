@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Lefatshe la koro le barli, la direde le matlhodi le dimaname; lefatshe la morara wa mafura le monate.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Lefatshe"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "la koro"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "le barli"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "la direde"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "le matlhodi"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "le dimaname"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "זית",
+      "gloss": "la morara"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wa mafura"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le monate"
+    }
+  ],
+  "timestamp": "2026-10-03T06:48:43.920263252Z",
+  "model": "glm-5.3"
+}

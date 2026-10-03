@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme o imela hape, mme a belega mora; mme o bitssa ⟨את⟩ lebitso la hage Onane.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "o imela"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "o bitssa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la hage"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hage"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:26.014899699Z",
+  "model": "glm-5.3"
+}

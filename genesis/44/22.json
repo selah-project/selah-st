@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Mme ra re ho monga ka: Lekwala le ke ke la tlohela ⟨את⟩ ntatahe; ha le ka tlohela ⟨את⟩ ntatahe, le a shwela.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ra re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "monga ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "le ke ke la khona"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "lekwala"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "tlohela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntatahe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntatahe"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ha le ka tlohela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntatahe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntatahe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "le a shwela"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:13.578747081Z",
+  "model": "glm-5.3"
+}

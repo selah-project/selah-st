@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme morena a re: Kgaolang ⟨את⟩ ngwana yo maphofu ho ya dikarolong tse pedi, mme le nehe karolo ya halofo ho e nngwe, le ⟨את⟩ karolo ya halofo ho e nngwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "Kgaolang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwana yo maphofu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "החי",
+      "gloss": "yo maphofu"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ho ya dikarolong tse pedi"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "mme le nehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karolo ya halofo"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "karolo ya halofo"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ho e nngwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "karolo ya halofo"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "karolo ya halofo"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ho e nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:02:19.418668668Z",
+  "model": "glm-5.3"
+}

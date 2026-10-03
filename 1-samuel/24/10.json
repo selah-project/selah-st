@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme Dawide a re ho Shaule: Hobaneng o mamela ⟨את⟩ mantswe a motho, a re: Bonang, Dawide o batla mobe wa hau?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ho Shaule"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o mamela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe a motho"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a motho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "o batla"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "mobe wa hau"
+    }
+  ],
+  "timestamp": "2026-10-03T12:53:24.409490025Z",
+  "model": "glm-5.3"
+}

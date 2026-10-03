@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "O se ke wa otla kahlolo ya mohaofi wa hau ka katlholo ya hae.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "O se ke wa"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "wa otla"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "mohaofi wa hau"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ka katlholo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:28.665360329Z",
+  "model": "glm-5.3"
+}

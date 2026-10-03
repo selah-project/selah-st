@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Ka baka la Dawide mohlanka wa hao, se ke wa sotla sefahleho sa Mashiakh wa hao.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa hao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "sotla"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiakh wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:22.516532668Z",
+  "model": "glm-5.3"
+}

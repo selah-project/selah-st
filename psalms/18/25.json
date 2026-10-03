@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Yahwe o mpheella ho ea ka tsedeke ya ka, ho ea ka hloekiso ya matsoho a ka pela mahlo a hae.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "o mpheella"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ho ea ka tsedeke ya ka"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ho ea ka hloekiso"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya matsoho a ka"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pela"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:49.198198478Z",
+  "model": "glm-5.3"
+}

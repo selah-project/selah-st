@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Bapelistime ba tlama morao ga Shaeule le morao ga bana ba hae, mme Bapelistime ba bola ⟨את⟩ Yonathane le ⟨את⟩ Abinadabe le ⟨את⟩ Malkishuae, bana ba Shaeule.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ba tlama morao ga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelistime"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morao ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaeule"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "le morao ga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mme ba bola"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelistime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonathane"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abinadabe"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Malkishuae"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-shuae"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaeule"
+    }
+  ],
+  "timestamp": "2026-10-03T12:14:33.799027970Z",
+  "model": "glm-5.3"
+}

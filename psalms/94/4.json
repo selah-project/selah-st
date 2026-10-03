@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Ba phalla molomo, ba bolela masholu a maatla, ba ikhantsha — baohle ba etsang bofito.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Ba phalla molomo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "masholu a maatla"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "ba ikhantsha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "baohle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "און",
+      "gloss": "bofito"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:01.670919992Z",
+  "model": "glm-5.3"
+}

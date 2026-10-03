@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 111,
+  "translation": "Di tsitsitse ho fihlela bosafeleng, di etswang ka nnete le toka.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "di tsitsitse"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "bosafeleng"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "di etswang"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ka nnete"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "le toka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:34.354274819Z",
+  "model": "glm-5.3"
+}

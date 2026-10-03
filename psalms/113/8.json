@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 113,
+  "translation": "Hore a mo bake setilong sa barena, hara barena ba sechaba sa hae.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "Hore a mo bake setilong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hara"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "barena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hara"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "barena ba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sechaba sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:03.488830485Z",
+  "model": "glm-5.3"
+}

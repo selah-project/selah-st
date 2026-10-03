@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Hobane ho thabo e nngwe le e nngwe ho na le nako le kahlolo; hobane bobe ba motho bo mmebohali ho feta enoa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho ... e nngwe le e nngwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "thabo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ho na le"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ba motho"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "bo mmebohali"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho feta enoa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:41.252902914Z",
+  "model": "glm-5.3"
+}

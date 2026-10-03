@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Ntsebise tsela ea hao, Yahwe; ke tla tsamoa ka `'nete ea hao; kopanya pelong ea ka e le ngoe` hore e tla be e tšaba lebitso la hao.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "ntsebise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ea hao"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ke tla tsamoa"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ka `'nete ea hao"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kopanya e le ngoe"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "pelong ea ka"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "e tla be e tšaba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:05.100997089Z",
+  "model": "glm-5.3"
+}

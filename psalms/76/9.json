@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 76,
+  "translation": "O mahodimo o ile wa utwisisa ⟨את⟩ kahlolo; lefatshe la tshoha, mme la phomola.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "O mahodimo"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "o ile wa utwisisa"
+    },
+    {
+      "surface": "דין",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "la tshoha"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "mme la phomola"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:29.570156380Z",
+  "model": "glm-5.3"
+}

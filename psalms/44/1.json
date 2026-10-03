@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Ho mokaedi; ea bana ba Korakhe; mokgelwa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho mokaedi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ea bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mokgelwa"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:45.486721944Z",
+  "model": "glm-5.3"
+}

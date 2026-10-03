@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ho Shushane ya mahoae, Yahudim ba ile ba bolaya le ho timetsa barui ba makholo hlano.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "ho Shushane"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ya mahoae"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ba ile ba bolaya"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudim"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "le ho timetsa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "hlano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makholo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "barui"
+    }
+  ],
+  "timestamp": "2026-10-03T11:48:09.586464610Z",
+  "model": "glm-5.3"
+}

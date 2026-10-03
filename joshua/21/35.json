@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimnahe le ⟨את⟩ migraša wa yona, ⟨את⟩ Nahalale le ⟨את⟩ migraša wa yona — metse ye mennye.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimnahe"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimnahe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "migraša wa yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraša wa yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalale"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "migraša wa yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migraša wa yona"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ye mennye"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:13.676955928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme balodi ba bana ba Yisraele ba kena, ba llela ho Faro, ba re: Hobaneng wa etsa jwalo ho makgoba a hao?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba kena"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "balodi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "ba llela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wa etsa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ho makgoba a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:27.381793091Z",
+  "model": "glm-5.3"
+}

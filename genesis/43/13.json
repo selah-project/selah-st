@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Mme hare ⟨את⟩ barwarre ba lona, phahamisang, boelang ho ⟨the⟩ monna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barwarre ba lona"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "barwarre ba lona"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "hare"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "phahamisang"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "boelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    }
+  ],
+  "timestamp": "2026-10-03T05:40:02.425685294Z",
+  "model": "glm-5.3"
+}

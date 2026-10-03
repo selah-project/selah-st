@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme lentsoe le ne le lokile mahlonong a Abshalome, le mahlonong a baholo bohle ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "le ne le lokile"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlonong a"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abshalome"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "le mahlonong a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T07:53:51.887858528Z",
+  "model": "glm-5.3"
+}

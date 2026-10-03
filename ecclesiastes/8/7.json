@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Hobane ha a tsebe se tlang ho ba teng; hobane ha e se ho le teng, ke mang ya ka mo boleleleng?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ha a tsebe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "tlang ho ba teng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ha e se ho le teng"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ya ka bolella"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:41.253055530Z",
+  "model": "glm-5.3"
+}

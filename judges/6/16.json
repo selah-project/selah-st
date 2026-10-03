@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Yahwe a re ho eena: Hobane ke tla ba le wena, mme o tla otla ⟨את⟩ Midyiane e le motho a le mong.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke tla ba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "o tla otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyiane"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyiane"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "e le motho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mong"
+    }
+  ],
+  "timestamp": "2026-10-03T07:20:14.793554685Z",
+  "model": "glm-5.3"
+}

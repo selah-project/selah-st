@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Hobane bohlale bo tla kena pelong ya hao, mme tsebo e tla thabisa moya oa hao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bo tla kena"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "pelong ya hao"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "mme tsebo"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "moya oa hao"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "e tla thabisa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:11.060067788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme ba etsa ⟨את⟩ majwe a shohame, a dikololeditsweng ka diphuthedi tsa gauta, a kgobilweng ka ho kgoboka ha sefane, ka mabitso a bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majwe a shohame"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "majwe"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "a shohame"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "a dikololeditsweng"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "ka diphuthedi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "a kgobilweng"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ka ho kgoboka"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ha sefane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mabitso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:23.718492681Z",
+  "model": "glm-5.3"
+}

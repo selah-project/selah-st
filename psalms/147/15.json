@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Ya romelang lentsoe la hae lefatshe, lentsoe la hae le potlakela haholo.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Ya romelang"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "lentsoe la hae"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "le potlakela"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentsoe la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:27.110028311Z",
+  "model": "glm-5.3"
+}

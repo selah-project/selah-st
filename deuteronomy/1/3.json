@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme e bile selemong sa bo mashome a mane, ka kgwedi ea boleshome le 'ngoe, ka letsatsi la pele la kgwedi, Moshe a bua ho bara Yisraele, ho latela tsohle tseo Yahwe a neng a mo laetse ⟨אתו⟩ mabapi le bona.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "selemong sa bo mashome a mane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "ka kgwedi ea boleshome le"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "'ngoe"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ka letsatsi la pele"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ho latela tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a neng a mo laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "mabapi le bona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:43:19.213139657Z",
+  "model": "glm-5.3"
+}

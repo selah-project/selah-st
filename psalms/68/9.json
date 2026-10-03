@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Lefatshe le ile la tsekereha, mme mahodimo le ile la thula maneo ka pela Elohim; le Sinaie lena le ile la tsekereha ka pela Elohim, Elohim wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Lefatshe"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "le ile la tsekereha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mme"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "le ile la thula maneo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka pela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le ... lena"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaie"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka pela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:23.493886105Z",
+  "model": "glm-5.3"
+}

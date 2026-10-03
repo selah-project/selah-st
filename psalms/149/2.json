@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 149,
+  "translation": "Yisraele a thabe mme ea mo bopileng; bana ba Tsione ba ratane ho morena wa bona.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "a thabe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "mme ea mo bopileng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ba Tsione"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ba ratane"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ho morena wa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:56.455672399Z",
+  "model": "glm-5.3"
+}

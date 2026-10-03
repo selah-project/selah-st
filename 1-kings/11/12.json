@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Empa ka matsatsi a hao ha ke e etse, bakeng sa Dawide ntataeo; ka letsoho la mora wa hao ke tla e hlaha.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Empa"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "ka matsatsi a hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ke e etse"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ntataeo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ka letsoho la"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mora wa hao"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ke tla e hlaha"
+    }
+  ],
+  "timestamp": "2026-10-03T12:56:58.400422580Z",
+  "model": "glm-5.3"
+}

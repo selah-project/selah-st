@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Miktame ya Dawide. Ntjhise, El, hobane ke ile ka tshabela ho Wena.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktame"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Ntjhise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke ile ka tshabela"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho Wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:26.879711553Z",
+  "model": "glm-5.3"
+}

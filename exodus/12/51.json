@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme e bile ka letsatsi lena la 'nete, Yahwe a ntsha ⟨את⟩ bara ba Yisraele ho tloha lefatsheng la Mitsrayime, ka dikarolo tsa bona tsa sesole.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ka ... la 'nete"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bara ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "dikarolo tsa bona tsa sesole"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:58.090526044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme morena a putla ⟨את⟩ sefahleho sa hae, mme morena a hlehlela ka lentsoe le leholo: Morwa ka, Absalome! Absalome, morwa ka, morwa ka!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "mme morena"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "a putla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa hae"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa hae"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "a hlehlela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ka lentsoe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le leholo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa ka"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalome"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalome"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T07:59:02.756092651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 29:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme ho tla ba jwalo: bongata ba ba fokolang hara baphaphametsi ba hao bo tla ba jwaloka moho o monyane, mme bongata ba bapele ba tla ba jwaloka bo-fofu bo fettang; mme ho tla etsahala ka potlako, ka tlabano.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme ho tla ba jwalo"
+    },
+    {
+      "surface": "כאבק",
+      "gloss": "jwaloka moho"
+    },
+    {
+      "surface": "דק",
+      "gloss": "o monyane"
+    },
+    {
+      "surface": "המון",
+      "gloss": "bongata"
+    },
+    {
+      "surface": "זריך",
+      "gloss": "ba baphaphametsi ba hao"
+    },
+    {
+      "surface": "וכמץ",
+      "gloss": "mme jwaloka bo-fofu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "bo fettang"
+    },
+    {
+      "surface": "המון",
+      "gloss": "bongata"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ba bapele"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme ho tla etsahala"
+    },
+    {
+      "surface": "לפתע",
+      "gloss": "ka potlako"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ka tlabano"
+    }
+  ],
+  "timestamp": "2026-10-03T08:44:48.849727271Z",
+  "model": "glm-5.3"
+}

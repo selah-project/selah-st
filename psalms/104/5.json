@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "O thehile ⟨את⟩ lefatshe holimo ditehello tsa lona; e ke ke ya tsamaika ho fihlela kahosafeleng le ho feta.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "o thehile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "ditehello tsa lona"
+    },
+    {
+      "surface": "בל",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tsamaika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho fihlela kahosafeleng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho feta"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:26.314300425Z",
+  "model": "glm-5.3"
+}

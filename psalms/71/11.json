@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Ba re: Elohim o mo tloketse; lemele le mo tshware, hobane ha ho ya lokolosang.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Ba re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "o mo tloketse"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "lemele"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "le mo tshware"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ya lokolosang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:33.095995084Z",
+  "model": "glm-5.3"
+}

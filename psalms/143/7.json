@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 143,
+  "translation": "Phalla, araba ka, Yahwe; ruakh ya ka e fedile; se ke wa patala sefahleho sa hao ho tloha ho 'na, esita le ho ba jwalo le ba theohelang mobung.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Phalla"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "araba ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "e fedile"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "patala"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho tloha ho 'na"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "esita le ho ba jwalo le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ba theohelang"
+    },
+    {
+      "surface": "בור",
+      "gloss": "mobung"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:14.474503076Z",
+  "model": "glm-5.3"
+}

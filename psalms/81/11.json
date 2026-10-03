@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Ke 'na Yahwe, Elohim wa hao, Ya go hodisitseng ho tloha lehatong la Mitsrayime: Atolosa molomo wa hao, mme ke tla o tlatsa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ke 'na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "Ya go hodisitseng"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lehatong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "Atolosa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa hao"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "mme ke tla o tlatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:39.097921215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme Khasaele, morena wa Arame, a nyeletsa ⟨את⟩ Yisraele matsatsi ohle a Yehoakhaze.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Mme Khasaele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "a nyeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoakhaze"
+    }
+  ],
+  "timestamp": "2026-10-03T08:22:59.310318188Z",
+  "model": "glm-5.3"
+}

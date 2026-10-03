@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme e bile, ha morena a utloa ⟨את⟩ mantswe a mosali, a halala ⟨את⟩ diaparo tsa hae — eena a ne a feta hodima mokotla — mme setjhaba sa bona, mme bona, moro hodima nama ya hae kahare.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e bile"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ha a utloa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe a mosali"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "a mosali"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a halala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa hae"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "diaparo tsa hae"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "mokotla"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "sa bona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "השק",
+      "gloss": "moro"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nama ya hae"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kahare"
+    }
+  ],
+  "timestamp": "2026-10-03T08:20:37.375626346Z",
+  "model": "glm-5.3"
+}

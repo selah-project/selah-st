@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Joale o tla bua le bona ka bogale ba hae, mme ka hlaso ya hae e chesang o tla ba tsosetsa tsoku.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "joale"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ka bogale ba hae"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "mme ka hlaso ya hae e chesang"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "o tla ba tsosetsa tsoku"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:05.092824180Z",
+  "model": "glm-5.3"
+}

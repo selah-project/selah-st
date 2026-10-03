@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme Yitshake a rata ⟨את⟩ Esau, hobane tlhaselo e ne e le ka molomo wa hae; mme Rivka a rata ⟨את⟩ Yaakobo.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Mme a rata"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "tlhaselo"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ka molomo wa hae"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "mme Rivka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "a rata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:29:50.610890178Z",
+  "model": "glm-5.3"
+}

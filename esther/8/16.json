@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Ho Bajuda ho bile le khanya, le thabo, le tlatsetso, le tlotlo.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "Ho Bajuda"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ho bile le"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "khanya"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "le thabo"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "le tlatsetso"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "le tlotlo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:48:36.854752230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Ho tloga modumo wa goikgolosa ya ka, masapo a ka a khomaretse ho nama ya ka.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ho tloga modumo wa"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "goikgolosa ya ka"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "a khomaretse"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "masapo a ka"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "ho nama ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:02.325975595Z",
+  "model": "glm-5.3"
+}

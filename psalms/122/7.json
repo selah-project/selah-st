@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 122,
+  "translation": "A ho be kagiso mbotong ya hao, le phomolo dipalasing tsa hao.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "a ho be"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "mbotong ya hao"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "phomolo"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "dipalasing tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:52.775032083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme jwale, kopo e le 'ngoe ke e kopa ho ⟨את⟩ wena; se ntsoele sefahleho ⟨את⟩ sa ka. Mme o re ho yena: Bua.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "kopo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le 'ngoe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "e kopa"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ho ⟨את⟩ wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "ntsoele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa ka"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mme o re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    }
+  ],
+  "timestamp": "2026-10-03T08:01:45.323645269Z",
+  "model": "glm-5.3"
+}

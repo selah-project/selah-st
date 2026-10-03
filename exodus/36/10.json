@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Mme a kopanya ⟨את⟩ dikarolo tse hlano, e nngwe le e nngwe, mme dikarolo tse hlano tse dingwe a di kopanya, e nngwe le e nngwe.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Mme a kopanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikarolo tse hlano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "mme tse hlano"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "a di kopanya"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:07.838690553Z",
+  "model": "glm-5.3"
+}

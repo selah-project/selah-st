@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "⟨את⟩tente ya kopano, le ⟨את⟩areka ya bopaki, le ⟨את⟩khupu ya boikokoetso eo e holimong ea yona, le ⟨את⟩dithuluso tsohle tsatente;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tente ya kopano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "areka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "areka"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "ya bopaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "khupu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "khupu ya boikokoetso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e holimong ea yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithuluso tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dithuluso"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tsa tente"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:42.296263835Z",
+  "model": "glm-5.3"
+}

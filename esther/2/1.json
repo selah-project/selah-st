@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ka mora dintho tsena, ha khutlo ya tswelopele ya morena Axashveroshe e futhumala, a hlabela ⟨את⟩ Vashitie le ⟨את⟩ tseo a di entseng le ⟨את⟩ tseo di ahlolotseng ho eena.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dintho"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "ha… e futhumala"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "tswelopele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashveroshe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "a hlabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashitie"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashitie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tseo a di entseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "a di entseng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tseo di ahlolotseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "di ahlolotseng"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ho eena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:46:53.806793045Z",
+  "model": "glm-5.3"
+}

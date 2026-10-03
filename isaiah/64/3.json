@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 64:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 64,
+  "translation": "Mme ho tloha khale-hale ha ba utlwe, tlhe-e, ha ba arabe ka tsebe; leihlo le se la bona Elohim ntle le wena, ya etsang bakeng sa ya mo emelang.",
+  "tokens": [
+    {
+      "surface": "ומעולם",
+      "gloss": "mme ho tloha khale-hale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ba utlwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ba arabe ka tsebe"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "le se la bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "ntle le wena"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "למחכה",
+      "gloss": "bakeng sa ya mo emelang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bakeng sa yena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:56:47.999063364Z",
+  "model": "glm-5.3"
+}

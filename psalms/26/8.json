@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Yahwe, ke ratile bolulo ba ntlo ya hao, le sebaka sa Mishkane sa khanya ya hao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ke ratile"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "bolulo ba"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya hao"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "le sebaka sa"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "khanya ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:47.025217833Z",
+  "model": "glm-5.3"
+}

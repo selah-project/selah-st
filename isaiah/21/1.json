@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Bojema ba sekaka sa lewatle: jwalo ka maheo ka borwa a feta ⟨ha a feta⟩; ⟨o tla⟩ ho tloha sekakeng, ho tloha lefatsheng la ts'abo.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "bojema"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sekaka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "jwalo ka maheo"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ka borwa"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "ha a feta"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ho tloha sekakeng"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lefatsheng"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "la ts'abo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:39:12.901838636Z",
+  "model": "glm-5.3"
+}

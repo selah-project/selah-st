@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Matsatsi a hae a be maneane, mme boikarabello ba hae ba tsewe ke motho e mong.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "a be"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "Matsatsi a hae"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "maneane"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "boikarabello ba hae"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ba tsewe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ke motho e mong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:26.195934583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Nakhshone a beletse ⟨את⟩ Shelma; mme Shelma a beletse ⟨את⟩ Boaze.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Mme Nakhshone"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a beletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Shelma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "mme Shelma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a beletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaze"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaze"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:48.391370152Z",
+  "model": "glm-5.3"
+}

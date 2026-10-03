@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Debire pele ho sona, bolelele d ama hlebo, bophara d ama hlebo, le bolele bo le d ama hlebo; mme a e apesa ka gauta e hloekileng, mme a apesa altarе ya sedare.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "Mme pele ho sona"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debire"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "d ama hlebo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": ""
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bolelele"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "bophara d ama hlebo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": ""
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "bolele bo le d ama hlebo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": ""
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "bolele"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "mme a e apesa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "e hloekileng"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "mme a apesa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarе"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ya sedare"
+    }
+  ],
+  "timestamp": "2026-10-03T08:03:52.737745712Z",
+  "model": "glm-5.3"
+}

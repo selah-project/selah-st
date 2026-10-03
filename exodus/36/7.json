@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Mme ntho e neng e le teng e ne e lekanetse molebetsi ohle, wa ⟨את⟩ o etsa, mme ho ile ha sala ho feta.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "molebetsi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "דים",
+      "gloss": "e lekanetse"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "molebetsi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "wa o etsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ o"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ho sala ho feta"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:56.733816953Z",
+  "model": "glm-5.3"
+}

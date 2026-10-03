@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Ba dumelehang ka matla a bona, mme ba ikhohumosa ka bongata ba leruo la bona —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "ba dumelehang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "matla a bona"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "mme ka bongata"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ba leruo la bona"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "ba ikhohumosa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:23.193177813Z",
+  "model": "glm-5.3"
+}

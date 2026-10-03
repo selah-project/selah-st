@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme a thula motswedi-hloho ka moka ho Mitsrayime, pele-hlahiso ya matla a bona malapeng a Kham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mme a thula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "motswedi-hloho"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ho Mitsrayime"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "pele-hlahiso"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "ya matla a bona"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "malapeng a"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:26.260018841Z",
+  "model": "glm-5.3"
+}

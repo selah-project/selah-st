@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Yahwe, Elohim ya tokoloho ya ka, mohla ke llapalla, bosiu, pele ya hao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "tokoloho ya ka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mohla"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ke llapalla"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pele ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:41.745648238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme ho tsoa ho sephethong sa bara ba Yisraele, seo Moshe a ileng a se arabela ho tswa ho banna ba neng ba lwa.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "Mme ho tsoa ho sephethong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "a ileng a se arabela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tswa ho"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "ba neng ba lwa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:38:23.362060246Z",
+  "model": "glm-5.3"
+}

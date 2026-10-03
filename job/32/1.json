@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme banna ba bararo ba emisa ho araba ⟨את⟩ Iyobe, hobane yena ⟨e ne e le⟩ tsadik mahlonong a hae.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ba emisa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "bararo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "ho araba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadik"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mahlonong a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:30:23.696550960Z",
+  "model": "glm-5.3"
+}

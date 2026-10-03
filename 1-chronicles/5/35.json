@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Akhimatse a tsoala ⟨את⟩ Azarja, mme Azarja a tsoala ⟨את⟩ Jokhanane.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "mme Akhimatse"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a tsoala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "mme Azarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a tsoala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jokhanane"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jokhanane"
+    }
+  ],
+  "timestamp": "2026-10-03T12:11:00.468643177Z",
+  "model": "glm-5.3"
+}

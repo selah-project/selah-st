@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Khanoke a qeta a tsamaya le ⟨את⟩ Elohim, kamora hore a bele ⟨את⟩ Metuselage, dilemo tse makgolo a mararo; mme a beleta bara le baradi.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "a qeta a tsamaya le"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanoke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kamora"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hore a bele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metuselage"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuselage"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "mararo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a beleta"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "le baradi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:38.102519843Z",
+  "model": "glm-5.3"
+}

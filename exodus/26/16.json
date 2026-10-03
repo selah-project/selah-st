@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Dikarolo tse leshome ke bolelele ba tafole e le nngwe, mme sekhutlo le halofo ke bophara ba tafole e le nngwe.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "tse leshome"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "bolelele"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ba tafole"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mme sekhutlo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le halofo"
+    },
+    {
+      "surface": "האמה",
+      "gloss": ""
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ba tafole"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e le nngwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:21.945301904Z",
+  "model": "glm-5.3"
+}

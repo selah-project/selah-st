@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Ke phatlalitse tsedeke phuthehong e kgolo; bona, molomo wa ka ga o koalloa, Yahwe; wena o tseba.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ke phatlalitse"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "phuthehong"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomo wa ka (sephini)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga… (negative)"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "o koalloa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o tseba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:22.231980536Z",
+  "model": "glm-5.3"
+}

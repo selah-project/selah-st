@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme e bile, ha Yahwe a ne a tla ho nka ⟨את⟩ Eliyahu ka sefofane sa mahodimo, Eliyahu a ea, yena le Elisha, ho tloha Gilgala.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "ha … a tla ho nka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "ka sefofane"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mahodimo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ea"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "yena le Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgala"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:10.519858526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Empa le ka 'na ke na le pelo, jwalo ka lona; ha ke theohile ho tloha ho lona; mme ⟨את⟩ mang ha a tshwane le tsena?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Empa le"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka 'na"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "jwalo ka lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ke theohile"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ho tloha ho lona"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha a tshwane"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "le"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tsena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:23:05.228133972Z",
+  "model": "glm-5.3"
+}

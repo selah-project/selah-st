@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ha maru a tletse, a tla nkula pula sebakeng sa lefatshe; mme ha sefate se wa ka boroa, kapa ka leboya, sebakeng moo sefate se oang teng, teng o tla dula.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "a tletse"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "pula"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "a tla nkula"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "se wa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "ka boroa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapa ha"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "ka leboya"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "moo se oang teng"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "o tla dula"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:34.061288766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Boima ba botebo ba pono. Ke eng ho wena jwale, hore o ile wa nyamela ka ho feletseng — o ya hodima diloa?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "boima"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "botebo"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "pono"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "o ile wa nyamela"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "ka ho feletseng"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "hodima diloa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:39:54.653980078Z",
+  "model": "glm-5.3"
+}

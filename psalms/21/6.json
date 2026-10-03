@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Kgalalelo ya hae e kgolo ka pholiso ya hao; hodimo le tlotlo o tsehetse holim'a hae.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kgalalelo ya hae"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ka pholiso ya hao"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "le tlotlo"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "o tsehetse"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "holim'a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:09.672285423Z",
+  "model": "glm-5.3"
+}

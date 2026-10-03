@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Yahwe, thaba ho mpoloka; Yahwe, ikhohomosa ho mphe thuso.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ho mpoloka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ho mphe thuso"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ikhohomosa"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:54.946734193Z",
+  "model": "glm-5.3"
+}

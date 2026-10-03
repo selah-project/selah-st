@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "⟨את⟩ diaparo tsa mosebetsi ho phuma sehalalelong, ⟨את⟩ diaparo tsa sehalalelo bakeng sa Aharone moprista, le ⟨את⟩ diaparo tsa bara ba hae ho ba moporofeta-priest.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa mosebetsi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ho phuma"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sehalalelong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa sehalalelo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sehalalelo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "bakeng sa Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diaparo tsa bara ba hae"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bara ba hae"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ho sebeletsa e le baprista"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:06.193022846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme e ile ya ba ka ho tjabela ha selemo, Ben-Hadade a bala ⟨את⟩ Arame, mme a ya holimo Apheka, ho loana le Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e ile ya ba"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "ka ho tjabela"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ha selemo"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "a bala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arame"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mme a ya holimo"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Apheka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ho loana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:15:55.791516162Z",
+  "model": "glm-5.3"
+}

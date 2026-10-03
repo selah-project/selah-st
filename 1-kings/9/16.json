@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ferao, morena wa Mitsrayime, o ile a ea hodima, a nka ⟨את⟩ Gezere, a e chesa ka mollo, a bolaya ⟨את⟩ Mokanana ya dulang toropong, mme a e neha moradi wa hae, mosadi wa Shelomoe, e le mpho ya manyalo.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Ferao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayime"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "o ile a ea hodima"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezere"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezere"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "a e chesa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a bolaya ⟨את⟩",
+      "marks": "Mokanana"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanana"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "ya dulang"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a bolaya"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "a e neha"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "e le mpho ya manyalo"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "moradi wa hae"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "wa Shelomoe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:08:33.533526307Z",
+  "model": "glm-5.3"
+}

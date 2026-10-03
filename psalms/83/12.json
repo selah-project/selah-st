@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Beha ba nang le bohalaleli ba bona joaloka Orebe le joaloka Seebe; ee, baeta-pele ba bona bohle joaloka Zebakhe le joaloka Tsalmona.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Beha"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "ba nang le bohalaleli ba bona"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "joaloka Orebe"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "le joaloka Seebe"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "le joaloka Zebakhe"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "le joaloka Tsalmona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "baeta-pele ba bona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:55.551366794Z",
+  "model": "glm-5.3"
+}

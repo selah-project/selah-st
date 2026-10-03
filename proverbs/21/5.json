@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Maiketlo a ya sisinyetseng a felela feela ho molemo, mme a ya tjotjwang a felela feela ho tlhokeho.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "maiketlo"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "ya sisinyetseng"
+    },
+    {
+      "surface": "אך",
+      "gloss": "feela"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "ho molemo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme a ya tjotjwang a ohle"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "ya tjotjwang"
+    },
+    {
+      "surface": "אך",
+      "gloss": "feela"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ho tlhokeho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:14:07.548285298Z",
+  "model": "glm-5.3"
+}

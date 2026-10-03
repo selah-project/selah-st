@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Na gabere a hlahisa molemo ho El, kapa na ya hlakanang a hlahisa molemo ho yena?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Na ho El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "a hlahisa molemo"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gabere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kapa na"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "a hlahisa molemo"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ya hlakanang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:26:54.529650047Z",
+  "model": "glm-5.3"
+}

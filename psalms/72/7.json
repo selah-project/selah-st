@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "E hlaje ya lokileng ka malapeng a hae, mme ho be le khotso e ngata ho fihlela kgwedi e se e le seyo.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "e hlaje"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "ka malapeng a hae"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya lokileng"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mme ho be le ... e ngata"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "e se e le seyo"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "kgwedi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:09.470654105Z",
+  "model": "glm-5.3"
+}

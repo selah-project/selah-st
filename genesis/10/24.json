@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Arpakashade a begeta ⟨את⟩ Shelahe; mme Shelahe a begeta ⟨את⟩ Ebere.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Mme Arpakashade"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelahe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelahe"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "mme Shelahe"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebere"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ebere"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:08.886204717Z",
+  "model": "glm-5.3"
+}

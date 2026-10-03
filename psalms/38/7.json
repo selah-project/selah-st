@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Ke khumame, ke fokotse kgolo, hoo e babang haholo; letsatsi lohle ke tsamaya ke apere bosetla.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "Ke khumame"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "ke fokotse kgolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hoo e babang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ke apere bosetla"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ke tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:05.268369327Z",
+  "model": "glm-5.3"
+}

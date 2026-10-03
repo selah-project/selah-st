@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme setjhaba sa phalla holima lefatshe lohle la Mitsrayime ho bokella leralla bakeng sa khalo.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Mme setjhaba sa phalla"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "ho bokella"
+    },
+    {
+      "surface": "קש",
+      "gloss": "leralla"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "bakeng sa khalo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:45.981525035Z",
+  "model": "glm-5.3"
+}

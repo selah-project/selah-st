@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Na matsatsi a hao a tshwana le a ⟨האת⟩ motho e swang, kapa dilemo tsa hao tse tshwana le tsa monna?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "na a tshwana le"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho e swang"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "matsatsi a hao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "dilemo tsa hao"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "tse tshwana le tsa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "monna"
+    }
+  ],
+  "timestamp": "2026-10-03T13:14:28.798325380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 140,
+  "translation": "Ruri, ba lolameng ba tla dumedisa lebitso la hau; ba lolameng ba dula ⟨את⟩ sefahleho sa hau.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lolameng"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "ba tla dumedisa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "lebitso la hau"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba lolameng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa hau"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hau"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:48.165831447Z",
+  "model": "glm-5.3"
+}

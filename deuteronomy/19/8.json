@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme ha Yahwe Elohim wa hao a atisa ⟨את⟩ molelele wa hao, jwaloka a ile a nkelwa letsatsi ⟨כאשר⟩ ho bolela ho boetshi ba hao, mme a neha hao ⟨את⟩ lefatshe lohle leo a neng a bolela hore o tla le neha ho boetshi ba hao,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "a atisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molelele wa hao"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "molelele wa hao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a nkelwa letsatsi"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ho boetshi ba hao"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mme a neha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe lohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hore o tla le neha"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ho boetshi ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T12:50:13.017497552Z",
+  "model": "glm-5.3"
+}

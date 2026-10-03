@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 12:4",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Empa wena, Daniele, timetsa mantswe a, mme o tlose leshao pukung, ho fihlela nako ya qetello; ba bangata ba tla taboha le ho khutla, mme tsebo e tla ata.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "empa wena"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniele"
+    },
+    {
+      "surface": "סתם",
+      "gloss": "timetsa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe a"
+    },
+    {
+      "surface": "וחתם",
+      "gloss": "mme o tlose leshao"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "pukung"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ya qetello"
+    },
+    {
+      "surface": "ישטטו",
+      "gloss": "ba tla taboha le ho khutla"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bangata"
+    },
+    {
+      "surface": "ותרבה",
+      "gloss": "mme e tla ata"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "tsebo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:58:25.350162912Z",
+  "model": "glm-5.3"
+}

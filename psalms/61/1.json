@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 61,
+  "translation": "Ho moeta-pele, ka dithunya tsa dileRole. ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moeta-pele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "dithunya tsa dileRole"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:43.446795140Z",
+  "model": "glm-5.3"
+}

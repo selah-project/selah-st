@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "mme ntate wa ngoana ea basadi le 'm'e wa hae ba tla nka, ba ntsha ⟨את⟩ bopombi ba ngoana eo ho baholo ba motse, sebakeng sa sekoro,",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ba tla nka"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntate wa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ngoana ea basadi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "'m'e wa hae"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ba ntsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bopombi ba ngoana eo"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "bopombi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ba ngoana eo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ba motse"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "sebakeng sa sekoro"
+    }
+  ],
+  "timestamp": "2026-10-03T06:56:48.635797456Z",
+  "model": "glm-5.3"
+}

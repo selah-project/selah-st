@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Tshepa ho Yahwe ka pelo ya hao eohle, mme o se ke wa ithekga ho kutlo ya hao.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Tshepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... eohle"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ya hao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ... ho"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "kutlo ya hao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ithekga"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:40.941715892Z",
+  "model": "glm-5.3"
+}

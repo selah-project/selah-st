@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme ka reka ⟨את⟩ sehlabelo ho ya ka lentsoe la Yahwe, mme ka se beha hodima seleke sa ka.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "mme ka reka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "⟨the⟩ sehlabelo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ho ya ka lentsoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "mme ka se beha"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "seleke sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T09:08:18.772000191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme o ile a laela maru hodimo, a bula ⟨את⟩ diekete tsa mahodimo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "a bula ⟨את⟩ diekete"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "tsa mahodimo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a bula"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:55.320045823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme o ile a fana ka letsatsi lena ka sešupo, a re: Se ke se sešupo seo Yahwe a se boletseng: Taona, altare a bolelwang a senyeha, mme motsoako o phallwa o mollong ona.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "mme o ile a fana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lena"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "sešupo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "se sešupo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a se boletseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "a bolelwang a senyeha"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "mme o phallwa"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "motsoako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mollong ona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:10:59.239785484Z",
+  "model": "glm-5.3"
+}

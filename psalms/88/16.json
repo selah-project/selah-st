@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Ke a hloname, ke a hema-hema mafu ho tloha bonyaneng; ke ile ka jwala mahari a hao — ke a tsieha.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "ke a hloname"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eena"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "ke a hema-hema mafu"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ho tloha bonyaneng"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ke ile ka jwala"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "mahari a hao"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ke a tsieha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:38.544362844Z",
+  "model": "glm-5.3"
+}

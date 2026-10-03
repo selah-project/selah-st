@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mosadi wa matla ke serwedi sa monna wa hae; mme ya hlahlisang ke serole se maserwaneng a hae.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "mosadi wa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "matla"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "serwedi"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "monna wa hae"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "mme ... serole"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "se maserwaneng a hae"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "ya hlahlisang"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:41.387963169Z",
+  "model": "glm-5.3"
+}

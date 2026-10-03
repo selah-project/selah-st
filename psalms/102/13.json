@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Mme wena, Yahwe, o dula kahosafeleng, mme segorohetso sa hau ho tloha sehlophong ho ya ho sehlophong.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mme wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kahosafeleng"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "o dula"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "mme segorohetso sa hau"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ho tloha sehlophong"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ho ya ho sehlophong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:56.055969022Z",
+  "model": "glm-5.3"
+}

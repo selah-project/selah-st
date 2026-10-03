@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme a bokella ⟨את⟩ balebeli bohle ba Yisraele, le baprista le Balevi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Mme a bokella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balebeli bohle ba Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balebeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "le baprista"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "le Balevi"
+    }
+  ],
+  "timestamp": "2026-10-03T13:19:06.648579890Z",
+  "model": "glm-5.3"
+}

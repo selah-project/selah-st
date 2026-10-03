@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ba se ke ba kena ho bona, le ka metsotswana e mengata, ⟨את⟩ sehalalelo, eseng ba swe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ba se ke"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba kena"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "le ka metsotswana e mengata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehalalelo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sehalalelo"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "eseng ba swe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:21:07.421148639Z",
+  "model": "glm-5.3"
+}

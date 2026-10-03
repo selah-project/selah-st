@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Ba bone mahaholo a hao, Elohim, mahaholo a El ya ka, morena wa ka, sehalalelong.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Ba bone"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "mahaholo a hao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "mahaholo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ya ka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sehalalelong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:45.875733328Z",
+  "model": "glm-5.3"
+}

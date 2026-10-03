@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme ba ba le sebakeng sa bojalo ba bona: Bere-Shebe, le Shebe, le Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ba ba le"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "sebakeng sa bojalo ba bona"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Bere-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shebe"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "le Shebe"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "le Molada"
+    }
+  ],
+  "timestamp": "2026-10-03T07:13:12.978511432Z",
+  "model": "glm-5.3"
+}

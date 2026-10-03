@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "O ile wa hlahisa hore hase bohlokwa bohle ba phaphathekang hore ba tlohe dipaelong tsa hau, hobane leshano ke tshehetsa ya bona.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "o ile wa hlahisa hore hase bohlokwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "ba phaphathekang"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "hore ba tlohe dipaelong tsa hau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leshano"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "tshehetsa ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:55.784174598Z",
+  "model": "glm-5.3"
+}

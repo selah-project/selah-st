@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 82,
+  "translation": "Nna ke ile ka re: lona ke Elohim, ke bara wa Elyone lona kaofela.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona ke"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ke bara wa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "lona kaofela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:53.455296776Z",
+  "model": "glm-5.3"
+}

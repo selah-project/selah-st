@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme ⟨את⟩ o e phuthelle ka gauta e hlolohetseng, mme o etse sekhahla sa gauta se dikologileng ho yona.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "o phuthelle"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ o e",
+      "marks": "tafole"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hlolohetseng"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "o etse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sekhahla"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "se dikologileng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:26.152675803Z",
+  "model": "glm-5.3"
+}

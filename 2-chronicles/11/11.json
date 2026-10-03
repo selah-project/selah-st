@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "A ile a matlafatsa ⟨את⟩ ditlhare tsa matla, mme a beha ka tsona balaodi le dipolokelo tsa lijo, le mafura le veine.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a matlafatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhare tsa matla"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ditlhare tsa matla"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka tsona"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "dipolokelo"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "tsa lijo"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "veine"
+    }
+  ],
+  "timestamp": "2026-10-03T12:25:41.430691910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme Yosefe a fumana mohau mahlong a hae, mme a mo hlankela; mme a mo beela taolo hodima ntlo ya hae, le ho seng ka mokgwa a nang le sona a ne a se beile letsohong la hae.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "Mme ... a fumana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "חן",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mahlong a hae"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "mme a mo hlankela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (Yosefe)"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "mme a mo beella taolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya hae"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... ka mokgwa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "a nang le sona"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a ne a beile"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "letsohong la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:37:01.744641581Z",
+  "model": "glm-5.3"
+}

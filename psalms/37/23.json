@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Ho tloha ho Yahwe ho tlotswa dikgato tsa geber; mme o thabela tsela ya hae.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "ho tloha ho Yahwe"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "dikgato tsa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "geber"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "ho tlotswa"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "mme tsela ya hae"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "o e thabela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:48.430975627Z",
+  "model": "glm-5.3"
+}

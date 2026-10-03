@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Abishua o ile a begetsa ⟨את⟩ Buki; mme Buki o ile a begetsa ⟨את⟩ Uzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Mme Abishua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ile a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Buki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Buki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "mme Buki"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "o ile a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:11:19.254918007Z",
+  "model": "glm-5.3"
+}

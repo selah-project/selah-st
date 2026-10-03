@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme o ile a tloha moo a ya thabeng ya Karmele, mme a khutla moo a ya Shomerona.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mme o ile a ya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ya Karmele"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "mme moo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a khutla"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomerona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:15:59.670795274Z",
+  "model": "glm-5.3"
+}

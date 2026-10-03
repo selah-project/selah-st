@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 1:27",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Menashe ha a *hloholohatsa* ⟨את⟩ Bethe-Sheane le metse ya yona, le ⟨את⟩ Taanake le metse ya yona, le ⟨את⟩ ba dulang Dore le metse ya yona, le ⟨את⟩ ba dulang Yibleame le metse ya yona, le ⟨את⟩ ba dulang Megido le metse ya yona; mme Mokenaane o ile a ikgetholla ho lula sebakeng sena.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha a"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "hloholohatsa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bethe-Sheane"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethe-"
+    },
+    {
+      "surface": "שאן",
+      "gloss": "Sheane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "metse ya yona"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "metse ya yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Taanake"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "metse ya yona"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "metse ya yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba dulang Dore le metse ya yona"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "metse ya yona"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "metse ya yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba dulang Yibleame le metse ya yona"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "Yibleame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "metse ya yona"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "metse ya yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba dulang Megido le metse ya yona"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megido"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "metse ya yona"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "metse ya yona"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "o ile a ikgetholla"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokenaane"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ho lula"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sena"
+    }
+  ],
+  "timestamp": "2026-10-03T07:17:16.623807671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Ye a halalelang Yahwe ho ya ho lekahodimo. Amen, le Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ye a halalelang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho ya ho lekahodimo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "le Amen"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:31.718354848Z",
+  "model": "glm-5.3"
+}

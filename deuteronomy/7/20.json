@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Hape Yahwe Elohim ea hao o tla romella ⟨את⟩ deetse holimo ho tsona, ho fihlela ba sa tloang, ba patiloeng ho tloha pele ho hao, ba timetse.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Hape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deetse"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "deetse"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "o tla romella"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ea hao"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ba timetse"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ba sa tloang"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "ba patiloeng"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ho tloha pele ho hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:48:25.283013741Z",
+  "model": "glm-5.3"
+}

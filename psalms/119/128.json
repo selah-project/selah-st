@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ka lebaka la moo ke tswelitse pele ka mehlaela dikaelo tsa hao kaofela; mohlala o mong le o mong wa leshano ke o hloyile.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka la moo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "dikaelo tsa hao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ke tswelitse pele ka mehlaela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "mohlala"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "wa leshano"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke o hloyile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:38.820099292Z",
+  "model": "glm-5.3"
+}

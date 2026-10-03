@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Yahwe a re: Yehuda o tla nyoloha; bonang, ke filetse ⟨את⟩ lefatshe ka letsohong la hae.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "o tla nyoloha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke filetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ka letsohong la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T12:52:51.023741199Z",
+  "model": "glm-5.3"
+}

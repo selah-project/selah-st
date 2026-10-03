@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Yahwe o tla ahlo ⟨את⟩ ditjhaba: nka ahlolela, Yahwe, ka tsedeke ya ka, le ka botlalo bo holim'a ka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "o tla ahlo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "⟨את⟩ ditjhaba"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "nka ahlolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ka tsedeke ya ka"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "le ka botlalo ba ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bo holim'a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:14.919376941Z",
+  "model": "glm-5.3"
+}

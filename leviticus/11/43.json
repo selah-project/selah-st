@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Le se ke la etsa hore e be sehlaha ⟨את⟩ meea ya lona ka seretsi sohle sea hlaha, mme le se ke wa imamala ka tsona, hore le se imamale ka tsona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "etsa hore e be sehlaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meea ya lona"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "meea ya lona"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka … sohle"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "seretsi"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sea hlaha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme le se ke"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "wa imamala"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka tsona"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "hore le imamale"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:08:22.961661410Z",
+  "model": "glm-5.3"
+}

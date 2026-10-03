@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Baoheli ba tsela ba mo tlodile; o ile a ba sekodi ho baahelane ba hae.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "ba mo tlodile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "baoheli"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ba sepelang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o ile a ba"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sekodi"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "ho baahelane ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:51.396507268Z",
+  "model": "glm-5.3"
+}

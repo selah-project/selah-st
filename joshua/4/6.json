@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 4:6",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "E tla be e le sesupo har'a lona, hobane bana ba lona ba tla botsa ka moso, ba re: Mabitso ana ke eng bakeng sa lona?",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "hobane e tla be e le"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla be e le"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "אות",
+      "gloss": "sesupo"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "har'a lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "ba tla botsa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana ba lona"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ka moso"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabitso ana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bakeng sa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:04:33.946643063Z",
+  "model": "glm-5.3"
+}

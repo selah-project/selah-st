@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Bara ya Yoele: Shemayaha mora wa hae, Goge mora wa hae, Shime mora wa hae.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bara"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoele"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemayaha"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Goge"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shime"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:18:15.099596743Z",
+  "model": "glm-5.3"
+}

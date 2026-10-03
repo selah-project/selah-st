@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme Sarai, mosadi wa Abrame, ha a a belela ⟨את⟩; mme e ne e le lekalwa la hae, la Mo-Mitsrayime, mme lebitso la lona e ne e le Hagare.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "Mme Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi wa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrame"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a belela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "mme e ne e le lekalwa la hae"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "lekalwa"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "Mo-Mitsrayime"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "mme lebitso la lona"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagare"
+    }
+  ],
+  "timestamp": "2026-10-03T05:25:10.093946538Z",
+  "model": "glm-5.3"
+}

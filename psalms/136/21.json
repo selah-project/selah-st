@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "Mme o ile a fa lefatshe la bona boswa, hobane ho fihlela ho naila hesede ya hae e dula",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Mme o ile a fa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lefatshe la bona"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "boswa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ho naila"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae e dula"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:03.805420546Z",
+  "model": "glm-5.3"
+}

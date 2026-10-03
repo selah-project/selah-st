@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Ba re pelong ya tsona: A re di fenye kaofela kopanyeng; ba chesitse diphutheho tsohle tsa El lefatsheng.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "pelong ya tsona"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "a re di fenye"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kopanyeng"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ba chesitse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "diphutheho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:21.186208936Z",
+  "model": "glm-5.3"
+}

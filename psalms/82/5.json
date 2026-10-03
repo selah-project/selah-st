@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 82,
+  "translation": "Ha ba tsebe, mme ha ba utlwisise; ba tsamaya motsotfwane; meaho yohle ya lefatshe e tanyetsa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba tsebe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ba utlwisise"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "motsotfwane"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "e tanyetsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "meaho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:53.455042949Z",
+  "model": "glm-5.3"
+}

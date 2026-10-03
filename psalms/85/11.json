@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "Hesede le ⟨nete⟩ di kopane; tsedeke le khotso di retane.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Hesede"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "le nete"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "di kopane"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "le khotso"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "di retane"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:28.179492229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "methati ea majarolo a mararo, le methati ea mohlolo o mocha; mohlaho oa tšehetso o tla fanoa ho tloha ntlong ea morena.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "methati"
+    },
+    {
+      "surface": "די",
+      "gloss": "ea"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "majarolo"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "a magolo"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "le methati"
+    },
+    {
+      "surface": "די",
+      "gloss": "ea"
+    },
+    {
+      "surface": "אע",
+      "gloss": "mohlolo"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "o mocha"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "mohlaho oa tšehetso"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ea morena"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "o tla fanoa"
+    }
+  ],
+  "timestamp": "2026-10-03T12:00:38.304220977Z",
+  "model": "glm-5.3"
+}

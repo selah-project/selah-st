@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 41:12",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Ba ile ba nka ⟨את⟩ banna bohle, ba ya ho lwa le Yishmaele mora wa Netania; ba ile ba mo fumana ⟨את⟩ haufi le metsi a mangata a Gibeone.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ba ile ba nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna bohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba ya"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ho lwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaele"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netania"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ba ile ba mo fumana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "ba mo fumana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haufi le"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mangata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Gibeone"
+    }
+  ],
+  "timestamp": "2026-10-03T09:22:48.327539074Z",
+  "model": "glm-5.3"
+}

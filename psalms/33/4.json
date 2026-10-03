@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Hobane lentse la Yahwe le tshwere toka; mme mosebetsi wa hae oohle o ka tumelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "le tshwere toka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme … oohle"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "mosebetsi wa hae"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ka tumelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:57.416691029Z",
+  "model": "glm-5.3"
+}

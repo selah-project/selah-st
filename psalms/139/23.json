@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Ntlhahlobe, El, mme u tsebe pelo ya ka; ntekase, mme u tsebe mehopolo ya ka.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Ntlhahlobe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "mme u tsebe"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ntekase"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "mme u tsebe"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "mehopolo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:24.773431364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "O ba hlahlamile ka metsi a mabelo; ba became boroko; hoseng ba tla jwalo ka joang bo hlabang.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "O ba hlahlamile"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "boroko"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba became"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jwalo ka joang"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "bo hlabang bo a fala"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:12.956490575Z",
+  "model": "glm-5.3"
+}

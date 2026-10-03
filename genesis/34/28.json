@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "⟨את⟩ Dipoo tsa bona, le ⟨את⟩ dikgomo tsa bona, le ⟨את⟩ dipela tsa bona, le ⟨את⟩ tseo di leng toropong, le ⟨את⟩ tseo di leng masimong, ba di nkile.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dipoo tsa bona"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "Dipoo tsa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikgomo tsa bona"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "dikgomo tsa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dipela tsa bona"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "dipela tsa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tseo di leng toropong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di leng toropong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tseo di leng masimong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di leng masimong"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ba di nkile"
+    }
+  ],
+  "timestamp": "2026-10-03T05:35:30.701645110Z",
+  "model": "glm-5.3"
+}

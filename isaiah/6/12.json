@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Yahwe a tlosa ⟨את⟩ mothoua kgakala, mme ho ba le tlohelo e kgolo bohareng ba lefatshe.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "a tlosa kgakala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mothoua"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mothoua"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "mme ho ba le e kgolo"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "tlohelo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "bohareng ba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:34:43.244350807Z",
+  "model": "glm-5.3"
+}

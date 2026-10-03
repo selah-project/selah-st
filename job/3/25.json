@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Hobane sekoesho seo ke se koeshetseng se tlile ho 'na, mme seo ke neng ke se tshaba se tla ho 'na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "sekoesho"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "ke se koeshetseng"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "mme se tlile ho 'na"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mme seo"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ke neng ke se tshaba"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "se tla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T11:18:36.945977078Z",
+  "model": "glm-5.3"
+}

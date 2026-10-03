@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme Akishe a re: A lo se ke la hlasela kajeno? Mme Dawide a re: Ho bochabela-boholela ba Yehuda, le ho bochabela-boholela ba Yerahamele, le ho bochabela-boholela ba ba Keni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme Akishe a re"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke la"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "hlasela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme Dawide a re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "bochabela-boholela"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "bochabela-boholela"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "ba Yerahamele"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "bochabela-boholela"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "ba ba Keni"
+    }
+  ],
+  "timestamp": "2026-10-03T12:55:01.860864171Z",
+  "model": "glm-5.3"
+}

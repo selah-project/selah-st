@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Mme o ile a etsa ⟨את⟩ dikarolo tsa Mishkane: dikarolo tse mashome a mabedi lehlakoreng la borwa, ka boroa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme o ile a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikarolo"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "tsa Mishkane"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tse mashome a mabedi"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "lehlakoreng"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "la borwa"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ka boroa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:46.535502839Z",
+  "model": "glm-5.3"
+}

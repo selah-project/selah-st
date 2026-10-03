@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme a tswara ⟨את⟩ Agage, morena wa Amaleke, a phela; mme ⟨את⟩ setjhaba sohle a se senya ka bolokolohi ka molomo wa thipa.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "a tswara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agage"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agage"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a phela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba sohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "a se senya ka bolokolohi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo wa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "thipa"
+    }
+  ],
+  "timestamp": "2026-10-03T07:37:37.660333588Z",
+  "model": "glm-5.3"
+}

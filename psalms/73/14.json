@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Mme ke ile ka ba ya hlokileng letsatsi lohle, mme teko ya ka e tla hoseng le hoseng.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "mme ke ile ka ba"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "ya hlokileng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "mme teko ya ka"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "e tla hoseng le hoseng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:51.475325823Z",
+  "model": "glm-5.3"
+}

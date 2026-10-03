@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Elohim ⟨ke⟩ shelala le matla ho rona, thuso ditsitsing e fumanwa haholo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "shelala"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "le matla"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "thuso"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ditsitsing"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "e fumanwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:05.431552867Z",
+  "model": "glm-5.3"
+}

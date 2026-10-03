@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme mahodimo le lefatshe a phethwa, le sesole sa tsona kaofela.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "a phethwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "le lefatshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le … kaofela"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "sesole sa tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:19.048447838Z",
+  "model": "glm-5.3"
+}

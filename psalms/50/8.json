@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Ha ke a hloleha ho o kgutsufatsa ka merapelo ya hao, mme diphehello tsa hao di ntse di le pel'a nna ka ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "merapelo ya hao"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ke a hloleha ho o kgutsufatsa"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "mme diphehello tsa hao"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "pel'a nna"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:03.206239398Z",
+  "model": "glm-5.3"
+}

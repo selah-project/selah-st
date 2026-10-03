@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "O fetola lefatshe la maemise e be lefatshe la munitši, ka baka la bobe ba ba dulang ho lona.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "la maemise"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "e be lefatshe la munitši"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "ka baka la bobe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba ba dulang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:43.757645495Z",
+  "model": "glm-5.3"
+}

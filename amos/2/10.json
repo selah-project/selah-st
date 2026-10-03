@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme jwale ke ne ke le lona ho tloha lefatsheng la Mitsrayime, mme ke ile ka le tataisa naheng ea naha e mengata lilemo tse mashome a 'ne, hore le tle le nke ⟨את⟩ lefatshe la Mohaemore.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mme jwale ke ne ke le lona"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ho tloha lefatsheng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "ו אולך",
+      "gloss": "mme ke ile ka le tataisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "naheng ea naha e mengata"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "tse mashome a 'ne"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lilemo"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "hore le tle le nke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Mohaemore"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "la Mohaemore"
+    }
+  ],
+  "timestamp": "2026-10-03T10:04:55.328330914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Nthuse, Yahwe Elohim ya ka; mpolle ka hesede ya hao.",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "nthuse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "mpolle"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ka hesede ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:20.729172474Z",
+  "model": "glm-5.3"
+}

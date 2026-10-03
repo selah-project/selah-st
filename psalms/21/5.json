@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Bophelo o ile a bo kopa ho wena, mme o mo filetse; boleele ba matsatsi, ho ya bosafeleng le kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "o ile a kopa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "o mo filetse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "boleele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ba matsatsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho ya bosafeleng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le kahosafeleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:09.672018818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Yahwe ha a kgutle ho ba mo bitsetsang bohle, ho bohle ba mo bitsetsang ka 'nete.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ha a kgutle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho ba"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "mo bitsetsang bohle"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho bohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "mo bitsetsang"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ka 'nete"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:39.239056268Z",
+  "model": "glm-5.3"
+}

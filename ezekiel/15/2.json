@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mor'a motho, ke eng sephiri sa setlhare sa leribedi ho feta setlhare se seng le se seng, moretho wa leribedi o neng o le hara ditlhare tsa tlhaho?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mor'a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sephiri sa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "setlhare"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "sa leribedi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho feta se seng le se seng"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "setlhare"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "moretho wa leribedi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o neng"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o le"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "hara ditlhare tsa"
+    },
+    {
+      "surface": "היער",
+      "gloss": "tlhaho"
+    }
+  ],
+  "timestamp": "2026-10-03T09:38:44.406286941Z",
+  "model": "glm-5.3"
+}

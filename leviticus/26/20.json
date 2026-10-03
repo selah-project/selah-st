@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme matla a lona a tla fela ka ho se nyehele, mme lefatshe la lona le ke ke la fana ka ⟨את⟩ poelo ya lona, mme sehlare sa lefatshe se ke ke sa fana ka sejalwa sa sona.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "a tla fela"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ka ho se nyehele"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "matla a lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ke ke la"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fana ka"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "lefatshe la lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poelo ya lona"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "poelo ya lona"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mme sehlare sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke ke sa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fana ka"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "sejalwa sa sona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:00.708526996Z",
+  "model": "glm-5.3"
+}

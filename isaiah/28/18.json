@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme selekane sa lona le ⟨את⟩ lefu le tla phutholoha, mme ponahalo ya lona le ⟨את⟩ Sheole e ke ke ya ema; thlaka e phallang ha e feta, le tla ba sesufi sa eona.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "mme ... le tla phutholoha"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "selekane sa lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "mme ponahalo ya lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheole"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ema"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "thlaka"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "e phallang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "e feta"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "le tla ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa eona"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "sesufi"
+    }
+  ],
+  "timestamp": "2026-10-03T08:42:50.221279334Z",
+  "model": "glm-5.3"
+}

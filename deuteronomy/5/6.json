@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ke nna Yahwe, Elohim wa lona, eo a neng a le ntsehitseng naheng ya Mitsrayime, hae ea makgobalo:",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa lona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "a neng a le ntsehitseng"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "hae ea"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "makgobalo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:49:02.314056551Z",
+  "model": "glm-5.3"
+}

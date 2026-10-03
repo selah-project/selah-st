@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Tlhokomelisa, Yerushalayime, Yahwe; bina ⟨את⟩ Elohim hao, Tsiyone.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Tlhokomelisa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "bina"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim hao"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:08.526100363Z",
+  "model": "glm-5.3"
+}

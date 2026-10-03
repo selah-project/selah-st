@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "E se nang sebobolu, ka mapolanka, o tla e etsa ⟨את⟩ yona; jwalo ka ha go ile go bontshwa ⟨את⟩ ho wena thabeng, jwalo ha ba tla e etsa.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "E se nang sebobolu"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ka mapolanka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla e etsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "go bontshwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ho wena"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ba tla e etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:06.056356170Z",
+  "model": "glm-5.3"
+}

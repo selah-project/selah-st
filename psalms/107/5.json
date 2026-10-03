@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Balapang, e bile ba nyekereng, moya oa bona o ile oa fokola har'a bona.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "balapang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "ba nyekereng"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moya oa bona"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "har'a bona"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "o ile oa fokola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:16.355004336Z",
+  "model": "glm-5.3"
+}

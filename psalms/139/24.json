@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Mme u bone hore na ho na le tsela ea bohloko bo bong le e nngwe ho ya ka e ke kapa che, mme u ntataise tseleng ea phelo e sa feleng.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Mme u bone"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hore na"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ea bohloko bo bong"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ho ka"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "mme u ntataise"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ea phelo e sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:24.773565470Z",
+  "model": "glm-5.3"
+}

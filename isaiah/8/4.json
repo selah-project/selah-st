@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Hobane pele ngwana a tla tseba ho bitsa 'ntatae' le 'mae', ⟨את⟩ tlasa ya Dameseke le ⟨את⟩ sehahla sa Shomarona di tla jewa pele ho morena wa Ashure.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a tla tseba"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ho bitsa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntatae"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "mae"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "di tla jewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlasa ya Dameseke"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tlasa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ya Dameseke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sehahla sa Shomarona"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "sehahla"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomarona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Ashure"
+    }
+  ],
+  "timestamp": "2026-10-03T08:34:01.469876607Z",
+  "model": "glm-5.3"
+}

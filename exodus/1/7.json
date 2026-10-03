@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme barwa ba Yisraele ba ile ba hlahlama, ba phalla ka bongata, ba ata, ba hola ka matla — ka ho phahametsa haholo — mme lefatshe le a tjala ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mme barwa ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ba hlahlama"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "ba phalla ka bongata"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ba ata"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "ba hola ka matla"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "ka ho phahametsa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "mme ... le a tjala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "barwa ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:22.036645496Z",
+  "model": "glm-5.3"
+}

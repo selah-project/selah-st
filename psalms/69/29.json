@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "A phutholoe ho bukeng ya ba phelang, mme le ba lokileng ba se ke ba ngoloa.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "A phutholoe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ho bukeng"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya ba phelang"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ba ngoloa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:50.889481210Z",
+  "model": "glm-5.3"
+}

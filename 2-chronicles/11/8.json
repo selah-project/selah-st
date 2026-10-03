@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "le ⟨את⟩ Gate, le ⟨את⟩ Maresha, le ⟨את⟩ Zife.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Gate"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Maresha"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Zife"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zife"
+    }
+  ],
+  "timestamp": "2026-10-03T12:25:33.953785134Z",
+  "model": "glm-5.3"
+}

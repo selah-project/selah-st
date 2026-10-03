@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Hobane haeba u utlwa ka botlalo lentswe la hae, mme o etsa tsohle tseo ke di bolelang, ke tla ba sera ba hao, mme ke tla hlola ⟨את⟩ ba hlahlampying hao, mme ke tla folatsa ⟨את⟩ ba o folatsang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "utlwa ka botlalo"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "u utlwa"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "lentswe la hae"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o etsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke di bolelang"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "ke tla ba sera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba hlahlampying hao"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ba hlahlampying hao"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ke tla folatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba o folatsang"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ba o folatsang"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:02.358685493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Tsohle tse ⟨di⟩ re tlile holim'a tsona, mme re sa o lebala, mme re sa ikhohomosa selekaneng sa hao.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tse"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "re tlile holim'a tsona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme re sa"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "o lebala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme re sa"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "ikhohomosa"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "selekaneng sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:36.793972497Z",
+  "model": "glm-5.3"
+}

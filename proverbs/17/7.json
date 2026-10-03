@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Molomo wa phahamiso ha o lokele lephojane; ho feta foo, molomo wa lefoforo ho morena.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "o lokele"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "lephojane"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "wa phahamiso"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ho feta foo"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ho morena"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "wa lefoforo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:12:53.898590683Z",
+  "model": "glm-5.3"
+}

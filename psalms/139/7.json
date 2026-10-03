@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Ke tla ea kae ho ruakh ea Hau, mme ke balehela kae ho sefahleho sa Hau?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tla ea"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "ho ruakh ea Hau"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "mme kae"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ho sefahleho sa Hau"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ke balehela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:21.734241964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Wena o ile wa bula mohlodi le molapo, wena o ile wa omisa linoka tse sa foleng.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "wa bula"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mohlodi"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "le molapo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "wa omisa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "linoka"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "tse sa foleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:22.758039789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme Moshe a ngola ⟨את⟩ metswalle ya bona ho ea ka metsamao ya bona, ka molomo wa Yahwe; mme ena ke metsamao ya bona ho ea ka metswalle ya bona.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Mme ... a ngola"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metswalle ya bona"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "metswalle ya bona"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "ho ea ka metsamao ya bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ea ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mme ena ke"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "metsamao ya bona"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "ho ea ka metswalle ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:40:54.729048937Z",
+  "model": "glm-5.3"
+}

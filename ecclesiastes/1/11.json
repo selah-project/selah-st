@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ha ho segopolo sa ba pele; le sa ba tlang morao ha ho tla ba le segopolo sa bona le ba tlang qetellong.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ha ho"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "segopolo"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "sa ba pele"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le sa"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "ba tlang morao"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "tlang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho tla ba le"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa bona"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "segopolo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ba tlang"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "qetellong"
+    }
+  ],
+  "timestamp": "2026-10-03T13:15:43.420235238Z",
+  "model": "glm-5.3"
+}

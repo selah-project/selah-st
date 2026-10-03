@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme ha a sa lokolle ⟨את⟩ shala, kapa ha a rekisitse ⟨את⟩ shala ho motho e mong, e ke ke ea lokolloa hape.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "a lokolle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shala"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "shala"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapa ha"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "a rekisitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shala"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "shala"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ho motho"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "e mong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ea"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "lokolloa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:13.162983056Z",
+  "model": "glm-5.3"
+}

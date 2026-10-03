@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Mme ba nka ⟨את⟩ linku tsa bona le ⟨את⟩ thepa ya bona eo ba eentseng yona naheng ya Kenane, mme ba kena Mitsrayime — Yaakobo le peo ya hae eohle le eena ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ba nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "linku tsa bona"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "linku tsa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "thepa ya bona"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "thepa ya bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ba eentseng yona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenane"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba kena"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le eohle"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "peo ya hae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le eena ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T05:40:40.074476941Z",
+  "model": "glm-5.3"
+}

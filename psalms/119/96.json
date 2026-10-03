@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ho ya holimo ho bophelo bo phethileng — ho na le qetello; empa meela ya melao ya hao ke ea atlehileng haholo.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ho ya holimo ho bophelo bo phethileng"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "bo phethileng"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ho na le qetello (ke bone)"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "qetello"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ea atlehileng"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "melao ya hao"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:17.543963986Z",
+  "model": "glm-5.3"
+}

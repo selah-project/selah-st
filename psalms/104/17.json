@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Moo dinonyane di etsang meha ea tsona; hasida, diberushe ke ntlo ea yona.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "moo…teng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "dinonyane"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "di etsa meha"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "hasida"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "diberushe"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ntlo ea yona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:55.327369222Z",
+  "model": "glm-5.3"
+}

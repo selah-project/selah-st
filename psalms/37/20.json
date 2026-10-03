@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Hobane ba fosahetseng ba tla timela, mme dira tsa Yahwe, jwaloka chebahalo ya dipoo, di tla fela; ba tla fela jwaloka mosi, ba tla fela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba fosahetseng"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ba tla timela"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "mme dira tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "jwaloka chebahalo ya"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "dipoo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "di tla fela"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "jwaloka mosi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ba tla fela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:49.786520356Z",
+  "model": "glm-5.3"
+}

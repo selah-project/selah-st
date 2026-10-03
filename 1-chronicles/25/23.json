@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ya bolesomenne ba tsheletseng — Khananjahu, bana ba hae le boenekae ba hae, ba leshome le pedi.",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "ya bolesomenne <leshome le tsheletseng>"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "leshome le tsheletseng"
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "Khananjahu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "le boenekae ba hae"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ba leshome le pedi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "leshome le pedi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:18:49.422143935Z",
+  "model": "glm-5.3"
+}

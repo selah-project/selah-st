@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Pelo ya ka e ile ya fufuleloa ka hara ka; ha ke ne ke nahana, mollo o ile wa tuka, mme ka bolela ka leleme la ka:",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "e ile ya fufuleloa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ka hara ka"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "ha ke ne ke nahana"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "o ile wa tuka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ka bolela"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ka leleme la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:36.020734204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme monna ya robang ⟨את⟩ mosadi wa ntatae, a senotse bonyadi ba ntatae: ba babelane ba bolawe ka lefu, mali a bona a dule ho bona.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "mme monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "robang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa ntatae"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa ntatae"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "bonyadi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ba ntatae"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "a senotse"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ba bolawe"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ba babelane"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "mali a bona"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:50.973443337Z",
+  "model": "glm-5.3"
+}

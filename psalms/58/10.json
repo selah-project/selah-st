@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 58,
+  "translation": "Pele dijana tsa lona di ka utlwa sefate sa ditepe, o tla di futhumatsa ka sefufute — e phelang le e chesang tse peli.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "di ka utlwa"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "dijana tsa lona"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "sefate sa ditepe"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "e phelang"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "e chesang"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "o tla di futhumatsa ka sefufute"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:44.729789049Z",
+  "model": "glm-5.3"
+}

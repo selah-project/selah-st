@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ka ya tsheho ka re: ⟨Ke⟩ sefomo; mme ya thabong — se se se etsang ⟨seleho se ngotse mona⟩?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ka ya tsheho"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ka re"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "sefomo"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "mme ya thabong"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se se"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "se etsang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:52.285381258Z",
+  "model": "glm-5.3"
+}

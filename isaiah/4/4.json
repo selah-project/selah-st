@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ha Adonai a hlatswitse ⟨את⟩ leswe la barali ba Tsiyone, mme a hlwekise ⟨את⟩ madi a Yerushalayime a tlohare jwalo ka hare, ka ruakh ya kahlolo le ka ruakh ya ho chesa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "a hlatswitse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leswe la barali ba Tsiyone"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "leswe"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "la barali"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ba Tsiyone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "madi a Yerushalayime"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayime"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "a hlwekise"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "a tlohare jwalo ka hare"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ka ruakh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ya kahlolo"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "le ka ruakh"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ya ho chesa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:33:33.803020958Z",
+  "model": "glm-5.3"
+}

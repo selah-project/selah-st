@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mollo o ile wa ja bashanyana ba hae, mme basadibanyane ba hae ha ba a hlalwa ka thoko.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "bashanyana ba hae"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "o ile wa ja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "mme basadibanyane ba hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ba a"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "hlalwa ka thoko"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:27.333536863Z",
+  "model": "glm-5.3"
+}

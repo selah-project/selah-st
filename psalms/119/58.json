@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ke ile ka kopa sefahleho sa hao ka pelohelohe eohle; nnea mohau ka moo o se boleleng ka oena.",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "ke ile ka kopa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... eohle"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelohelohe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "nnea mohau"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "ka moo o se boleleng ka oena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:55.979706748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme mosadi a re ho noha: Ka sefate sa moraohlela re ja │ re ja diclam tsa mehlare ya moraohlela.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Mme mosadi a re"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "noha"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "diclam tsa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mehlare ya"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "moraohlela"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "re ja"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:53.892374921Z",
+  "model": "glm-5.3"
+}

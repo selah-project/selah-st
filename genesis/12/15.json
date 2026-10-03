@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme balaodi ba Faro ba bona ⟨את⟩ yena, ba dumedisa ⟨את⟩ yena ho Faro, mme mosadi a nkoa ntlong ea Faro.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "ba dumedisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "mme a nkoa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ea"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:40.886740007Z",
+  "model": "glm-5.3"
+}

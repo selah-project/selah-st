@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme a re ho Abrahame: Tlosa sefahlanong se sefapano se se mong le ⟨את⟩ mora sona, hobane mora sefahlanong se sefapano se se mong o ke ke waabela le mora ka, le Yitshake.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ho Abrahame"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Tlosa sefahlanong"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sefahlanong se sefapano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "se se mong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mora sona"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mora sona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ke ke wa"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "abela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sefahlanong se sefapano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "se se mong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mora ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:16.101264792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Hobane uena o ntsoletse ho tloha mpa, o ne o nthusa tshepo hodima mathe a mmae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "o ntsoletse"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ho tloha mpa"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "o ne o nthusa tshepo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mathe"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mmae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:14.070710071Z",
+  "model": "glm-5.3"
+}

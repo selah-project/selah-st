@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 123,
+  "translation": "Pina ya maemo. Ho wena ke thutlile ⟨את⟩ mahlo a ka, wena ya dula mahodimong.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maemo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Ho wena"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ke thutlile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahlo a ka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "ya dula"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mahodimong"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:29.006668890Z",
+  "model": "glm-5.3"
+}

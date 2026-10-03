@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme metsi a khahlea hodima dithhasi tsa tsona; eseng o le mong wa tsona a sale.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "a khahlea hodima"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "dithhasi tsa tsona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o le mong"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wa tsona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "a sale"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:43.027413651Z",
+  "model": "glm-5.3"
+}

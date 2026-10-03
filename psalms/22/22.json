@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "O ntlohelle ho tloha molomong oa tau; le ho tloha malekeng a dipoo tsa tlhaho o ile oa araba ka.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "O ntlohelle"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ho tloha molomong oa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "le ho tloha malekeng a"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "dipoo tsa tlhaho"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "o ile oa araba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:31.573638203Z",
+  "model": "glm-5.3"
+}

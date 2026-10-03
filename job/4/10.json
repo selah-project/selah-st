@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Sehu sa tau, le modumo wa tau ya matla, le meno ya dipholo tsa ditau di a thunngwa.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "Sehu"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sa tau"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "le modumo"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "wa tau ya matla"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "le meno"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "ya dipholo tsa ditau"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "di a thunngwa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:18:33.256922690Z",
+  "model": "glm-5.3"
+}

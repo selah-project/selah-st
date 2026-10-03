@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ka letsatsi la pele e tla ba phutheho e halalelang ho lona; mosebetsi ohle wa bokgoba le ke ke la o etsa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi la"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pele"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "phutheho"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e halalelang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "wa bokgoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le ke ke la"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "o etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:16:00.414484536Z",
+  "model": "glm-5.3"
+}

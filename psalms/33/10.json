@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Yahwe o hlakola merero ya ditjhaba; o fotha mekgwa ya batho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "o hlakola"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "merero ya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "o fotha"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mekgwa ya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:03.486886905Z",
+  "model": "glm-5.3"
+}

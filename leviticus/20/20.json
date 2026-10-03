@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme monna ya tlang a robala le ⟨את⟩ rakgadi wa hae, o sitolositse tlhoholeso ya malome wa hae; ba tla jara ⟨את⟩ sebe sa bona; ba tla swa ba sena bana.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mme monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "a robala le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakgadi wa hae"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "rakgadi wa hae"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "tlhoholeso ya"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "malome wa hae"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "o sitolositse"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "sebe sa bona"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ba tla jara"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "ba sena bana"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ba tla swa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:50.445256355Z",
+  "model": "glm-5.3"
+}

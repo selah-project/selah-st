@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "O se ke wa siea ntle ho feta; hobane lembu e atile, hobane ha ho thusi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ke wa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "sia ntle ho feta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ntle ho nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "e atile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "thusi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:14.070949087Z",
+  "model": "glm-5.3"
+}

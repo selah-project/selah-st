@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ka nna, Ke tla ke ke phahamisa ⟨את⟩ lona ho tloha bokgobokong ba Mitsrayime, ho ya lefatsheng la Mokanana, le Mokheti, le Moamori, le Moperizi, le Mokhovi, le Mojebusi, ho ya lefatsheng le phallang ka lebese le linotši.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mme ka nna"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Ke tla ke ke phahamisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "ho tloha bokgobokong ba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng la"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanana"
+    },
+    {
+      "surface": "ווהחתי",
+      "gloss": "le Mokheti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "le Moamori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "le Moperizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "le Mokhovi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le Mojebusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng la"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "le phallang ka"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lebese"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le linotši"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:47.887594824Z",
+  "model": "glm-5.3"
+}

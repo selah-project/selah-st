@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 149,
+  "translation": "Ho kgothaletsa barena ba bona ka diketane, le ba tšoaneng le bona ka dikhukhu tsa tšepe.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "ho kgothaletsa"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "barena ba bona"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "ka diketane"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "le ba tšoaneng le bona"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "ka dikhukhu"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "tsa tšepe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:57.007533769Z",
+  "model": "glm-5.3"
+}

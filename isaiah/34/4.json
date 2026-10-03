@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 34:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme mabotho ohle a mahodimo a tla qhaoha, mme mahodimo a tla kgutlwa joaloka buka; mme mabotho a tsona ohle a tla wara, joaloka lehlaka le warang ho sefini, le joaloka mafinya a warang ho sefate sa mafinya.",
+  "tokens": [
+    {
+      "surface": "ונמקו",
+      "gloss": "Mme a tla qhaoha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mabotho"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "a mahodimo"
+    },
+    {
+      "surface": "ונגלו",
+      "gloss": "mme a tla kgutlwa joaloka buka"
+    },
+    {
+      "surface": "כספר",
+      "gloss": "joaloka buka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ohle"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "mabotho a tsona"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "a tla wara"
+    },
+    {
+      "surface": "כנבל",
+      "gloss": "joaloka le warang"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lehlaka"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "ho sefini"
+    },
+    {
+      "surface": "וכנבלת",
+      "gloss": "le joaloka a warang"
+    },
+    {
+      "surface": "מתאנה",
+      "gloss": "ho sefate sa mafinya"
+    }
+  ],
+  "timestamp": "2026-10-03T08:46:47.341022419Z",
+  "model": "glm-5.3"
+}

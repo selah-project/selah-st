@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 79,
+  "translation": "Pina ya Asafe. Elohim, ditjhaba di tsene ho ⟨את⟩ boholo-holo ba hau, di hlajeditse ⟨את⟩ tempole ya hau e halalelang, di beile ⟨את⟩ Yerushalayime e be ditora.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "di tsene"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "ho boholo-holo ba hau"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "di hlajeditse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempole ya hau e halalelang"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempole"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya hau e halalelang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "di beile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "e be ditora"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:40.220103951Z",
+  "model": "glm-5.3"
+}

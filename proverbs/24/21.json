@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mora wa ka, tshaba ⟨את⟩ Yahwe le morena; o se ke wa ikopanya le ba fetohang.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "tshaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mora wa ka"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le morena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "ba fetohang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "ikopanya"
+    }
+  ],
+  "timestamp": "2026-10-03T11:15:52.443921289Z",
+  "model": "glm-5.3"
+}

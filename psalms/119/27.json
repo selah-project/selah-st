@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Tsebisa ⟨את⟩ tsela ea melao ea hau, mme ke tla nahana ka mahla a makatsang a hau.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "melao ea hau"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "tsebisa ⟨את⟩ nna"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "mme ke tla nahana"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "ka mahla a makatsang a hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:57.308575214Z",
+  "model": "glm-5.3"
+}

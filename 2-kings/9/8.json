@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ntlo ya Akhabe eohle e tla timela; mme ke tla rula ho Akhabe mong a noka hodima lebota, o tswaletsweng le o sieilweng, ho Yisraele.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "e tla timela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Akhabe"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "mme ke tla rula"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ho Akhabe"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "mong a noka"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "hodima lebota"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "o tswaletsweng"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "o sieilweng"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ho Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:20:22.317486255Z",
+  "model": "glm-5.3"
+}

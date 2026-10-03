@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Letsoho la hao le tla fumana ⟨את⟩ bafofumedi ba hao kaofela; lejahe la hao le tla fumana ⟨את⟩ ba mo hloyang.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "le tla fumana"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hao"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "bafofumedi ba hao"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "lejahe la hao"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "le tla fumana"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ba mo hloyang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:15.698643769Z",
+  "model": "glm-5.3"
+}

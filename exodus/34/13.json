@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Hobane ⟨את⟩ ma-altare a bona le tla a theola, mme ⟨את⟩ dipilaro tsa bona le tla di thunya, mme ⟨את⟩ di-Ashera tsa hae le tla di khaola.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma-altare a bona"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "ma-altare a bona"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "le tla a theola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "dipilaro tsa bona"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "dipilaro tsa bona"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "le tla di thunya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "di-Ashera tsa hae"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "di-Ashera tsa hae"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "le tla di khaola"
+    }
+  ],
+  "timestamp": "2026-10-03T06:00:35.148718410Z",
+  "model": "glm-5.3"
+}

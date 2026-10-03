@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Hobane ha a a hloile, mme ha a a nyefola, kahlolo ya ya tlotsehang, mme ha a ahlotse sefahleho sa hae ho yena; mme ha a lluha ho yena, o ile a mamela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "a a hloile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "a a nyefola"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ya tlotsehang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "a ahlotse"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa hae"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "mme ha a lluha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o ile a mamela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:13.800804076Z",
+  "model": "glm-5.3"
+}

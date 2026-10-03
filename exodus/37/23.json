@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme a etsa ⟨את⟩ dilampu tsa yona, tse supileng, le ditanki tsa yona, le dipotlwana tsa yona — gauta e hloekileng.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilampu tsa yona"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dilampu tsa yona"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tse supileng"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "le ditanki tsa yona"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "le dipotlwana tsa yona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:11.886853128Z",
+  "model": "glm-5.3"
+}

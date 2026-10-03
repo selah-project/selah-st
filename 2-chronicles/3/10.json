@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ka ntlong ⟨the⟩ e halalelang ka ho feta tse ling o ile a etsa makerube a mabeli, mosebetsi wa ho khaotsa ditshwantsho, mme ba apesa ⟨את⟩ makerube ka gauta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme o ile a etsa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlong"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e halalelang"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ka ho feta tse ling"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "makerube a mabeli"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a mabeli"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "wa ho khaotsa ditshwantsho"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "mme ba apesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "makerube"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    }
+  ],
+  "timestamp": "2026-10-03T12:23:42.316477350Z",
+  "model": "glm-5.3"
+}

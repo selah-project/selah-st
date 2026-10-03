@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ditsela tsohle tsa Yahwe ke hesede le `'nnete, bakeng sa ba bolokang selekane sa hae le bopaki ba hae.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "le 'nnete"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "bakeng sa ba bolokang"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "selekane sa hae"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "le bopaki ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:24.450570555Z",
+  "model": "glm-5.3"
+}

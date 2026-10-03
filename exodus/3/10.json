@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme jwale, tla, ke o tla romela ho Paraoh, o tlose ⟨את⟩ sechaba sa ka, bana ba Yisraele, ho tloha Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "tla"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ke o tla romela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "o tlose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sechaba sa ka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sechaba sa ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho tloha Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:50.416619392Z",
+  "model": "glm-5.3"
+}

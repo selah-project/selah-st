@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 64,
+  "translation": "Ba mo theohisa; hodima bona leleme la bona; baohle ba ba bonang ba furalla.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "Ba mo theohisa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "hodima bona"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "leleme la bona"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "ba furalla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "baohle"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ba bonang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:02.896058062Z",
+  "model": "glm-5.3"
+}

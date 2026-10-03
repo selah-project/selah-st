@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme Yahwe a re ho Moshe: Eya ho setjhaba, mme u ba halehetse kajeno le hosasa, mme ba tlhatswe diaparo tsa bona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Eya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "u ba halehetse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "hosasa"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ba tlhatswe"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "diaparo tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:14.426657209Z",
+  "model": "glm-5.3"
+}

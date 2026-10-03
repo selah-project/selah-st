@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "A ke ke ke ea feta, ke hatsetse, mme ke bone ⟨את⟩ lefatshe le letle leo ho moka oa Yoretso, thaba ena e letle, le Lebanone.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "A ke ke ke ea feta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke hatsetse"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mme ke bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe le letle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "le letle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ho moka oa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoretso"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "e letle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "le Lebanone"
+    }
+  ],
+  "timestamp": "2026-10-03T06:43:40.397974573Z",
+  "model": "glm-5.3"
+}

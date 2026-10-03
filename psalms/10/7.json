@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Molomo wa hae o tlatsitse dihlabelo le boqhetheli le tsheko; ka tlase ho leleme la hae go na le boima le bokoloi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dihlabelo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "molomo wa hae"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o tlatsitse"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "le boqhetheli"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "le tsheko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "leleme la hae"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "boima"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "le bokoloi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:35.413942994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ha ho bokellwa ⟨את⟩ phutheho, le tla letsa, empa le se ke la tshwara terua.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "ha ho bokellwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phutheho"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "phutheho"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "le tla letsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa le se ke la"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "tshwara terua"
+    }
+  ],
+  "timestamp": "2026-10-03T06:27:23.802181630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme ⟨את⟩ barali ba lona o tla ba nka e le ba rlakahehang, le baapei, le ba bopehang borote.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barali ba lona"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "barali ba lona"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tla nka"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "e le ba rlakahehang"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "le baapei"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "le ba bopehang borote"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:38.931624149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "A ketekeng ⟨את⟩ lebitso la Yahwe, hobane lebitso la hae feela le phahamisitswe; tlotla ya hae e hodima lefatshe le mahodimo.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "A ketekeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "le phahamisitswe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "feela"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "tlotla ya hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "le mahodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:04.277216850Z",
+  "model": "glm-5.3"
+}

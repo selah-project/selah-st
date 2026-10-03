@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Ya halalelang, ke tla mo bitla Yahwe, mme ke tla lokoloha ho dira tsa ka.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Ya halalelang"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke tla bitla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mme ho tswa ho"
+    },
+    {
+      "surface": "אויבי איבי",
+      "gloss": "dira tsa ka"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ke tla lokoloha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:08.498313425Z",
+  "model": "glm-5.3"
+}

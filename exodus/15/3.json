@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Yahwe ⟨is⟩ motho wa ntoa; Yahwe ke lebitso la hae.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho wa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:50.993865215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Yahwe ⟨⟨ke⟩⟩ moholo, a tlotliswa haholo, mme hodima bodolo ba hae ha ho na ho hlahloba.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "moholo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "a tlotliswa haholo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "hodima bodolo ba hae"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho na"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ho hlahloba"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:34.097552594Z",
+  "model": "glm-5.3"
+}

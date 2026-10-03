@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ya bara Yosefe: ya Efrayime — Elishamae, mora wa Amihude; ya Manase — Gamliyele, mora wa Pedatsure.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Ya bara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ya Efrayime"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishamae"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihude"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ya Manase"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliyele"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedatsure"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:16.919826332Z",
+  "model": "glm-5.3"
+}

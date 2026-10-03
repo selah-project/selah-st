@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Yahwe ⟨o ka⟩ templeleng ea hae e halalelang; Yahwe, terone ea hae ⟨e⟩ mahodimong; mahlo a hae a sheba, maripana a hae a hlahloba bana ba Adame.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ka templeleng"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ea hae e halalelang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "terone ea hae"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a hae"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "a sheba"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "maripana a hae"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "a hlahloba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adame"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:50.913680740Z",
+  "model": "glm-5.3"
+}

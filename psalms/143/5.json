@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 143,
+  "translation": "Ke ketekile matsatsi a khale; ke dula ke nahana ka mesebetsi ya hae kaofela; ka mosebetsi wa matsoho a hae ke dula ke bina.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Ke ketekile"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "a khale"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "ke dula ke nahana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... kaofela"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "mesebetsi ya hae"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "ka mosebetsi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "wa matsoho a hae"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "ke dula ke bina"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:14.474106973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme Yaakobo a nosa Rakhelo, a tlola ho phahamisa ⟨את⟩ lentswe la hae, mme a lla.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "a nosa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rakhelo"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "a tlola ho phahamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la hae"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "lentswe la hae"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "a lla"
+    }
+  ],
+  "timestamp": "2026-10-03T05:30:49.260636226Z",
+  "model": "glm-5.3"
+}

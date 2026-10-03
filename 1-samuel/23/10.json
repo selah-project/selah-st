@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme Dawide a re: Yahwe, Elohim wa Yisraele, sebakeng sa mokatledi oa hao o ile a utloa ka hlantja hore Shaul o batla ho tla ho Keilaha, ho timetsa toropo bakeng sa ka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a utloa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ka hlantja"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka oa hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "o batla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ho tla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilaha"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ho timetsa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "bakeng sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T07:41:50.865726728Z",
+  "model": "glm-5.3"
+}

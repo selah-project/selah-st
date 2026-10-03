@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Noake a beala bara ba bararo: ⟨את⟩ Sheme, ⟨את⟩ Khame, le ⟨את⟩ Yefete.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Mme ... a beala"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noake"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "bararo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khame"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yefete"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefete"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:47.606581046Z",
+  "model": "glm-5.3"
+}

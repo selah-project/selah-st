@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 96,
+  "translation": "Masimong a thaba, le tsohle tse ho tsona; joale lifate tsohle tse sekgotha li tla ooela ka boitumuso.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "a thaba"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Masimong"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "אז",
+      "gloss": "joale"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "li tla ooela ka boitumuso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lifate"
+    },
+    {
+      "surface": "יער",
+      "gloss": "tse sekgotha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:00.958781281Z",
+  "model": "glm-5.3"
+}

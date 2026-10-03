@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ba etsa ⟨את⟩ mohlahlobi oa ditentjana bjalo ka ha ho ngotwe, le dikgoroso tse thuntshwang tsa letsatsi ka letsatsi ka palo, bjalo ka molao oa taba ea letsatsi ka letsatse la esona.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mme ba etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mohlahlobi oa ditentjana"
+    },
+    {
+      "surface": "חג",
+      "gloss": "mohlahlobi"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "oa ditentjana"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "bjalo ka ha ho ngotwe"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "le dikgoroso tse thuntshwang tsa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ka palo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "bjalo ka molao oa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba ea"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ka letsatse la esona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:59:12.002399716Z",
+  "model": "glm-5.3"
+}

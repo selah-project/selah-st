@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "le ⟨את⟩ altare ya diphollo le ⟨את⟩ didiriswa tsa yona kaofela, le ⟨את⟩ sediba le ⟨את⟩ maoto a sona,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "altare ya diphollo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya diphollo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa yona kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didiriswa tsa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sediba"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "sediba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "maoto a sona"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "maoto a sona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:48.793436235Z",
+  "model": "glm-5.3"
+}

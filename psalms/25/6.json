@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Hlakela mehau ya hao, Yahwe, le hesede ya hao, hobane ya sale kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Hlakela"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "mohau ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "le hesede ya hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kahosafeleng"
+    },
+    {
+      "surface": "המה",
+      "gloss": "di"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:35.986662867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Ho tloha qetellong ya mahodimo ho tswa ha yona, mme potoloho ya yona ho ya hodimo qetellong ya tsona; mme ha ho na se patiloeng ho tloha mochesong wa yona.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "qetellong ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ho tswa ha yona"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "mme potoloho ya yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ya hodimo"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "qetellong ya tsona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho na"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "se patiloeng"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "ho tloha mochesong wa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:27.956384494Z",
+  "model": "glm-5.3"
+}

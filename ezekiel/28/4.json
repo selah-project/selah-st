@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Ka bohlale ba hao le ka kutloisiso ya hao o ile a ikhethela khalemo; mme o ile a etsa gauta le selefera ditshokellong tsa hao.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "Ka bohlale ba hao"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "le ka kutloisiso ya hao"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "khalemo"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "mme o ile a etsa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "le selefera"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "ditshokellong tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T09:49:09.359970885Z",
+  "model": "glm-5.3"
+}

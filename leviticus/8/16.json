@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a nka ⟨את⟩ mafura ohle a neng a hodima maqheku, le ⟨את⟩ serethe sa sebete, le ⟨את⟩ diphio tse pedi le ⟨את⟩ mafura a tsona; Moshe a di foka hodima altare.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a neng a"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "maqheku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "serethe sa sebete"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "serethe"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sebete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diphio tse pedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "diphio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a tsona"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "mafura a tsona"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "a di foka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "hodima altare"
+    }
+  ],
+  "timestamp": "2026-10-03T06:08:50.986349314Z",
+  "model": "glm-5.3"
+}

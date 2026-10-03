@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 58,
+  "translation": "Jwaloka sefate sa seholo se nyamalang, a tsamaye; jwaloka lesea le tlotsweng la mosadi, ba se ke ba bona letsatsi.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "sefate sa seholo"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "ho nyamala"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "a tsamaye"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "lesea le tlotsweng"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la mosadi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ba se ke ba"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "bona"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:44.729556250Z",
+  "model": "glm-5.3"
+}

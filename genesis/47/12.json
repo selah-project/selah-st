@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 47,
+  "translation": "Mme Yosefe a phehisa ⟨את⟩ ntate le ⟨את⟩ bana ba hae le ⟨את⟩ ntlo eohle ya ntate, ka borotho, ho ea ka molomo wa bana ba batjha.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "a phehisa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntate"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba hae"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo eohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya ntate"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ka borotho"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ho ea ka"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "molomo wa bana ba batjha"
+    }
+  ],
+  "timestamp": "2026-10-03T05:40:33.334536454Z",
+  "model": "glm-5.3"
+}

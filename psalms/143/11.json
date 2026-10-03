@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 143,
+  "translation": "Ka baka la lebitso la hao, Yahwe, mphufutse; ka tsedeko ya hao ntjise mokhatlong o mong moea wa ka.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ka baka la"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "mphufutse"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedeko ya hao"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ntjise"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "mokhatlong o mong"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moea wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:30.779694860Z",
+  "model": "glm-5.3"
+}

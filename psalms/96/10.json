@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 96,
+  "translation": "Boleleng mahareng a ditjhaba: Yahwe o busa! Ee, lefatshe le theohile, le ke ke la ikhutla; o tla ahlola batho ka toka.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Boleleng"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mahareng a ditjhaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o busa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "le theohile"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "le ke ke la"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ikhutla"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "o tla ahlola"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ka toka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:00.958496932Z",
+  "model": "glm-5.3"
+}

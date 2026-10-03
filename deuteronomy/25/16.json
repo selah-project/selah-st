@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Hobane selalloa sa Yahwe Elohim ea hao ke mong le mong ea etsang dintho tsena, mong le mong ea etsang tolokollo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "selalloa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ea hao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ea etsang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dintho tsena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ea etsang"
+    },
+    {
+      "surface": "עול",
+      "gloss": "tolokollo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:56:53.080338491Z",
+  "model": "glm-5.3"
+}

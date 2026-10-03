@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme joale, ke emetse eng, Adonai? Tshepo ya me — ho wena yona e leng.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme joale"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ke emetse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Tshepo ya me"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:11.139720640Z",
+  "model": "glm-5.3"
+}

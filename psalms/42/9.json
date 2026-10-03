@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Motsheare Yahwe o tla laela hesede hae, mme bosiu sefoko se tla ba le nna, thapelo ho El ya bophelo ba ka.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "motsheare"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "o tla laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede hae"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "mme bosiu"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "sefoko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "thapelo"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ho El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ya bophelo ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:41.007884208Z",
+  "model": "glm-5.3"
+}

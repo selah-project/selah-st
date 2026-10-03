@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme le luma ⟨את⟩ dira tsa lona, mme di wa pele ga lona ka seleo.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "mme le luma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dira tsa lona"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dira tsa lona"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "mme di wa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ka seleo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:59.935530212Z",
+  "model": "glm-5.3"
+}

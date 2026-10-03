@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Mme basali bohle ba nang le bohlale ba pelong ba ile ba bofa ka matsogo a tsona, mme ba hlahisa ⟨את⟩ khoeu e talapana, ⟨את⟩ e kwena-potlana, ⟨את⟩ ya khalefo e kwibitsweng, le ⟨את⟩ lineng tse putsoa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Mme bohle ba"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "basali"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ba nang le bohlale"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ba pelong"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "ka matsogo a tsona"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "ba ile ba bofa"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mme ba hlahisa"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "khoeu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khoeu e talapana"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "e talapana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "e kwena-potlana"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "e kwena-potlana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya khalefo e kwibitsweng"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ya khalefo e kwibitsweng"
+    },
+    {
+      "surface": "השני",
+      "gloss": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lineng tse putsoa"
+    },
+    {
+      "surface": "השש",
+      "gloss": "lineng tse putsoa"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:25.644578759Z",
+  "model": "glm-5.3"
+}

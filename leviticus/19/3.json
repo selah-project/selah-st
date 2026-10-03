@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Motho a tshabe ⟨את⟩ mmae le ntatae, mme le boloke ⟨את⟩ di-Shabata tsa ka; ke nna Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Motho"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmae"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "le ntatae"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "a tshabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "di-Shabata tsa ka"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "le boloke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:58.529524528Z",
+  "model": "glm-5.3"
+}

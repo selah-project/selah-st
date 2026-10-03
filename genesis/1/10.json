@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Elohim a bitsetsa lefatshe le omileng lebitso la Eratshe, mme bokello ba metsi a bo bitsetsa Mawatle; mme Elohim a bona hore e ntse e le botle.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsetsa lebitso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "lefatshe le omileng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Eratshe"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "mme bokello ba"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a bo bitsetsa lebitso"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Mawatle"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e ntse e le botle"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:05.242102792Z",
+  "model": "glm-5.3"
+}

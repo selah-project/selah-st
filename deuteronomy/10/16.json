@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme le lokolle ⟨את⟩ letlalo la ho la pelo ya lona, mme le se ke la thatafatsa melela ya lona hape.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Mme le lokolle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letlako la ho la pelo ya lona"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "letlalo la ho la"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pelo ya lona"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "melela ya lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "thatafatsa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    }
+  ],
+  "timestamp": "2026-10-03T06:48:18.071581124Z",
+  "model": "glm-5.3"
+}

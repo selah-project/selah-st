@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Ke ba hloya ba bolokolotseng dintho tse se nang moelele tsa leshano; mme nna ke tshepile Yahwe.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ke ba hloya"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ba bolokolotseng"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "dintho tse se nang moelele"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tsa leshano"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshepile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:23.729012316Z",
+  "model": "glm-5.3"
+}

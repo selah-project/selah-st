@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Sefahleho hodima sefahleho Yahwe o ile a bua le lena thabeng, a tswa mahareng a mollo.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Sefahleho"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "hodima sefahleho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "a tswa mahareng"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a mollo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:32.913927475Z",
+  "model": "glm-5.3"
+}

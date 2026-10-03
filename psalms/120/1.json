@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 120,
+  "translation": "Pina ya ho nyoloha. Ho Yahwe bokgopong ba ka ke ile ka mitsa, mme o ile a mponta.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya ho nyoloha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "bokgopong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba ka"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ke ile ka mitsa"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "mme o ile a mponta"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:42.287854750Z",
+  "model": "glm-5.3"
+}

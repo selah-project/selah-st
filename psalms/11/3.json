@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Hobane motheo o aholotsweng; molula-setsing o ile a etsa eng?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "o aholotsweng"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "molula-setsing"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "o ile a etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:50.913556134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Ke re: El ya ka, se ke wa nkela ka bohareng ba matsatsi a ka; lilemo tsa hao ⟨ke⟩ tse sa felloang ka dikokoholo le dikokoholwana.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ke re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ya ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "nkela"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ka bohareng ba"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a ka"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ka kokoholo"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "dikokoholwana"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "lilemo tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:33.515851066Z",
+  "model": "glm-5.3"
+}

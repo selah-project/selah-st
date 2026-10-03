@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 138,
+  "translation": "Ka letsatsi leo ke biletsang ka lona, o ile wa mpontsha; o ile wa ntlhotlletsa moyeng wa ka ka matla.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ke biletsang"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "o ile wa mpontsha"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "o ile wa ntlhotlletsa"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "moyeng wa ka"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ka matla"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:43.351701726Z",
+  "model": "glm-5.3"
+}

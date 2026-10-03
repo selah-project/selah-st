@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "Elohim, re busetse, mme o nehe sefahleho sa hao sehlahlebe, mme re tla bolokwa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "re busetse"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "mme o nehe ... sehlahlebe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "re tla bolokwa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:25.996738991Z",
+  "model": "glm-5.3"
+}

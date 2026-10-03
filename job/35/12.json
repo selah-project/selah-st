@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Moo ba tla kgutla, mme ⟨ha⟩ a arabe, ka baka la bonahano ba ba babela.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "ba tla kgutla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "a arabe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "bonahano"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ba ba babela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:30:35.629784567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 65,
+  "translation": "Ashere ya o kgethang, oo o mo atamisang; o tla dula ditorong tsa hao; re tla khutlala ka botle bja ntlo ya hao, ⟨le⟩ sehalalelo sa tempela ya hao.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ashere (mahlapa)"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "ya o kgethang"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "oo o mo atamisang"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "o tla dula"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "ditorong tsa hao"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "re tla khutlala"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ka botle"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya hao"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sehalalelo"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "tempela ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:13.174059670Z",
+  "model": "glm-5.3"
+}

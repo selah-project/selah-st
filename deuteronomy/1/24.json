@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ba futuhela mme ba hodima thabeng, ba fihla fihlelong ho sefala sa Eshkole, mme ba e hlahloba ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ba futuhela"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba hodima"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fihlelong ho"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sefala"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkole"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "ba hlahloba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (lefatshe)"
+    }
+  ],
+  "timestamp": "2026-10-03T06:42:03.899931999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Mantswe a modumo wa gago a ne a le ⟨har'a⟩ se se potolang; mehlathi e khanyisitse ⟨את⟩ lefatshe; lefatshe le tshohile mme le tetemisetse.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "a modumo wa gago"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "har'a se se potolang"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "e khanyisitse"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "mehlathi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "le tshohile"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "mme le tetemisetse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:56.493226160Z",
+  "model": "glm-5.3"
+}

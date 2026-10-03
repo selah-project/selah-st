@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme yena ha a ka a etsa ⟨את⟩ tsohle tsena, hobane le yena o ile a ja ho thabeng, mme o ile a hlotla ⟨את⟩ mosadi wa moahi wa hae.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "mme yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle tsena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "o ile a ja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "mosadi wa moahi wa hae"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wa moahi wa hae"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "a hlotla"
+    }
+  ],
+  "timestamp": "2026-10-03T13:05:02.993837577Z",
+  "model": "glm-5.3"
+}

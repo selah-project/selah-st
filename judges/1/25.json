@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme o ile a bontsha bona ⟨את⟩ mongodelo wa toropo; mme ba ile ba otla ⟨את⟩ toropo ka molomo wa thipa; mme ⟨את⟩ monna le ⟨את⟩ lelapa la hae kaofela ba mo romile.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "o ile a bontsha bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongodelo wa toropo"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "mongodelo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba ile ba otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo wa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "thipa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "monna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lelapa la hae kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "lelapa la hae"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ba mo romile"
+    }
+  ],
+  "timestamp": "2026-10-03T07:17:16.616138892Z",
+  "model": "glm-5.3"
+}

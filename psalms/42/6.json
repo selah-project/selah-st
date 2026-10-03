@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Ke hobaneeng ha o itlhahlela fatshe, pelo ya ka, mme ke hobaneeng ha o tloloha ka hodima ’na? Tshema Elohim; hobane ke tla sa tlo mo dumedisa: eena ke di pholoso tsa sefahleho sa Hae.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ke hobaneeng"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ha o itlhahlela fatshe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "mme o tloloha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka hodima ’na"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Tshema"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ke tla sa tlo"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "mo dumedisa"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "di pholoso"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tsa sefahleho sa Hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:15.831257216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme a ba pholosa letsohong la mo hloyang, mme a ba lokolla letsohong la sera.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "a ba pholosa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "letsohong"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "la mo hloyang"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "a ba lokolla"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "letsohong"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "la sera"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:43.027290580Z",
+  "model": "glm-5.3"
+}

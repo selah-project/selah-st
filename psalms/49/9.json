@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Mme mpopo ya moea oa bona e maemong a maholo, mme e fedile — ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Mme e maemong a maholo"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "mpopo"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moea oa bona"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "mme e fedile"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:03.857139415Z",
+  "model": "glm-5.3"
+}

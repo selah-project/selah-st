@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Diphetho tsa molomo wa ka, o thabe, thapisa, Yahwe; mme dikahlolo tsa hau mpontshe.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "diphetho tsa",
+      "lemma": "נְדָבָה"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa ka"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "o thabe",
+      "lemma": "רָצָה"
+    },
+    {
+      "surface": "נא",
+      "gloss": "thapisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "mme dikahlolo tsa hau"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mpontshe",
+      "lemma": "לָמַד"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:14.708930366Z",
+  "model": "glm-5.3"
+}

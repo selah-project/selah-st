@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Le moshepellu ya nang le khotso le nna, ya neng ke tshepile ho yena, o ja boroko jwa ka, o ile a hodisa leseatla khahlanong le nna.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moshepellu"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "ya nang le khotso le nna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya neng"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "o ja"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "boroko jwa ka"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "o ile a hodisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "khahlanong le nna"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "leseatla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:07.918510307Z",
+  "model": "glm-5.3"
+}

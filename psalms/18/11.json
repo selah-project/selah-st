@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme o ile a koura holim'a Kerube, mme a fofa; mme o ile a fofa mahofeng a ruakh.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Mme o ile a koura"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "Kerube"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "mme a fofa"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "mme o ile a fofa ka potlako"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahofeng a"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mahofe a"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:48.821041662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Reayaha mora wa Shobale o ile a tswalisa ⟨את⟩ Yakhate; mme Yakhatha o ile a tswalisa ⟨את⟩ Akhumai le ⟨את⟩ Lahade. Ba ke bana ba malapa a Tsearatte.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Mme Reayaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shobale"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ile a tswalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakhate"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yakhate"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "mme Yakhatha"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "o ile a tswalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Akhumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Lahade"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahade"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ba ke"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "bana ba malapa a"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Tsearatte"
+    }
+  ],
+  "timestamp": "2026-10-03T12:11:31.844777990Z",
+  "model": "glm-5.3"
+}

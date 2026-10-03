@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme a bophya ⟨את⟩ dikerube ka gauta.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "a bophya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikerube"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "dikerube"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    }
+  ],
+  "timestamp": "2026-10-03T08:04:55.936941501Z",
+  "model": "glm-5.3"
+}

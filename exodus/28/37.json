@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme o tla be o beile ⟨את⟩ e hodima thapo ya tekelete, mme e tla ba hodima dikepe tsa moprista; lehlakoreng la pele la dikhoebo tsa moprista wa hlooho e tla ba teng.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "o tla be o beile"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "e (thaluso ya mopa ho hodima moprista)"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "thapo"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelete"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "dikepe tsa moprista"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lehlakoreng la"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pela"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dikhoebo"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "moprista wa hlooho"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba teng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:30.044056130Z",
+  "model": "glm-5.3"
+}

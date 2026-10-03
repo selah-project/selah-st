@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "O mo busisa holimo ho mesebetsi ya matsoho a hao; o shute tsohle ka tlase ho maoto a hae.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "o mo busisa"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "holimo ho mesebetsi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ya matsoho a hao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "o shute"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maoto a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:31.311213948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Ya se nang bohlale ha ⟨a⟩ sa tlo bitsoa ya bongatla, mme ya lematsa ha a re ⟨a⟩ ruileng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a sa tlo bitsoa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ya se nang bohlale"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ya bongatla"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "mme ya lematsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ya ruileng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:44:29.053604544Z",
+  "model": "glm-5.3"
+}

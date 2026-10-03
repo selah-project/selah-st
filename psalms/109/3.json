@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Mme mantswe a ho hloya a mphetile ka moholo, mme ba lwa le nna ntle le lebaka.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Mme mantswe a"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ho hloya"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "a mphetile ka moholo"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "ba lwa le nna"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ntle le lebaka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:56:46.142810889Z",
+  "model": "glm-5.3"
+}

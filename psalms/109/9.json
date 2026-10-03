@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "A bana ba hae ba be baphetwa, mme mosadi wa hae a be mohlahlama.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ba be"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "baphetwa"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "mme mosadi wa hae"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "mohlahlama"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:20.562627350Z",
+  "model": "glm-5.3"
+}

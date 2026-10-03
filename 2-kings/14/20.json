@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme ba mo ise ⟨אתו⟩ holima lipere, mme o ile a bolokwa ho Yerushalayime le bo ntatae, toropong ya Dawide.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ba mo ise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "o (Amatsia)"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "lipere"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "o ile a bolokwa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ho Yerushalayime"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo ntatae"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T08:23:32.761980188Z",
+  "model": "glm-5.3"
+}

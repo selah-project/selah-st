@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Na hesede hae o fedile kahosafeleng? Na lentšue la hae le feditse hohle hodima ditokollo tsohle?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "Na o fedile"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kahosafeleng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede hae"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "o qetile"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lentšue la hae"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "hodima ditokollo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tsohle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:14.659241623Z",
+  "model": "glm-5.3"
+}

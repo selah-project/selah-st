@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Lenkgetheng, masiu a maholo, hodima hloho ea lona; hape lenkgetheng, dikgoro tsa ho sa feleng; mme morena wa kgalalelo a tle.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "lenkgetheng"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "masiu a maholo"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "hodima hloho ea lona"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "hape lenkgetheng"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tsa ho sa feleng"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme ... a tle"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wa kgalalelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:17.642659119Z",
+  "model": "glm-5.3"
+}

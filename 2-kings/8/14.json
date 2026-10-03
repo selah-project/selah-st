@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "A tsamaea a tloha ho Elisha, a tla ho monga hae; a re ho eena: O ile a re eng ho uena, Elisha? A araba: O ile a re ho 'na: U tla phela hoo e ka bang ka bonnete.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "A tsamaea"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "a tloha ho ⟨את⟩"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "monga hae"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "O ile a re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A araba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "O ile a re"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "U tla phela"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "hoo e ka bang ka bonnete o tla phela"
+    }
+  ],
+  "timestamp": "2026-10-03T08:20:41.980647397Z",
+  "model": "glm-5.3"
+}

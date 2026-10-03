@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 97,
+  "translation": "Mollo o tsamaya pele ga hae, o futhumatsa ba mo hanang ho dikologa.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Mollo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ga hae"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "o tsamaya"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "o futhumatsa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho dikologa"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ba mo hanang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:28.698103869Z",
+  "model": "glm-5.3"
+}

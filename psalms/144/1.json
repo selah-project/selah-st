@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "Ya Dawide. Hlakahala haholo Yahwe, lejwe la ka, eo a rutang matswalo a ka ntoa, menwana ya ka loheng.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Hlakahala haholo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "lejwe la ka"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "eo a rutang"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matswalo a ka"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "menwana ya ka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "loheng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:06.946571551Z",
+  "model": "glm-5.3"
+}

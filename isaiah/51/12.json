@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Ke nna, ke nna, ⟨eena⟩ ya le fufunitsotsang. Ke mang ⟨wena⟩ hore le tshabang motho ya tlang ho shwa, le mora Adame ea tlang ho etsoa joaloka joang?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ke nna"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨eena⟩"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "ya le fufunitsotsang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨wena⟩",
+      "marks": "wena — hore le tshabang"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "hore le tshabang"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ya tlang ho shwa"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "le mora"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adame"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "joaloka joang"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ea tlang ho etsoa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:54:04.972703645Z",
+  "model": "glm-5.3"
+}

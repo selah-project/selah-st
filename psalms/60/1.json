@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 60,
+  "translation": "Ho moetapele, ka Shushane Edute, mikhatame oa Dawide, ea ho ruta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moetapele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushane"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edute"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhatame"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oa Dawide"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "ea ho ruta"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:35.066854102Z",
+  "model": "glm-5.3"
+}

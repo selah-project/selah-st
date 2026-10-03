@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 13:13",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme Yeroboame a setela ⟨את⟩ sefile ho tla ka mora bona; mme ba ba pele ho Yehuda, mme sefile se ka mora bona.",
+  "tokens": [
+    {
+      "surface": "וירבעם",
+      "gloss": "Mme Yeroboame a setela"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "a setela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefile"
+    },
+    {
+      "surface": "המארב",
+      "gloss": "sefile"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ho tla"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "ka mora bona"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme ba ba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "והמארב",
+      "gloss": "mme sefile"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "ka mora bona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:30:32.471055114Z",
+  "model": "glm-5.3"
+}

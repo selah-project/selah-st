@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Sefutho sa Shabata, ka Shabata ya yona, hodima sefutho sa tshweletso, le kanoko ya sona.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "sefutho"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "ka Shabata ya yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sefutho"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "sa tshweletso"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "le kanoko ya sona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:37:02.775289010Z",
+  "model": "glm-5.3"
+}

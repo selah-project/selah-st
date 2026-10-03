@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme le tla sebeletsa ⟨את⟩ Yahwe Elohim ya lona, mme o tla hlohlelletsa ⟨את⟩ borotho ba hao le ⟨את⟩ metsi a hao, mme ke tla tlosa bokulo hara ho lona.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "mme le tla sebeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "mme o tla hlohlelletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borotho ba hao"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "borotho ba hao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "metsi a hao"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "metsi a hao"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "mme ke tla tlosa"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "bokulo"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "hara ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:10.324594385Z",
+  "model": "glm-5.3"
+}

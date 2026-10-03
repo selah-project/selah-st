@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "E feela, ⟨את⟩ motse wa Levi o se ke wa balwa, le ⟨את⟩ hloho ya bona e se ke wa nkuwa, hara bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "e feela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motse wa Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "motse"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "wa balwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "hloho ya bona"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "hloho ya bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e se ke"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wa nkuwa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:52.519394492Z",
+  "model": "glm-5.3"
+}

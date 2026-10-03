@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Yahwe Elohim o ile a nka ⟨את⟩ motho, mme a mo beha sebakeng sa setharing sa Edene, hore a e sebele le ho e hlokomela.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Mme ... o ile a nka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "mme a mo beha"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sebakeng sa setharing"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "sa Edene"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "hore a e sebele"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "le ho e hlokomela"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:24.619719062Z",
+  "model": "glm-5.3"
+}

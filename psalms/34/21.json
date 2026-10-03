@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ya bolokang mafupa a hae kaofela; a le mong wa tsona ha o a phatloha.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ya bolokang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "mafupa a hae"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "a le mong"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "wa tsona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "o a phatloha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:47.392943994Z",
+  "model": "glm-5.3"
+}

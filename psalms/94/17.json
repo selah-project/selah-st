@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Haeba thuso ya Yahwe e ne e se ⟨thuso⟩ ho 'na, ka hanyenyane moya wa ka o ne o tla lula dumah.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "haeba e se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "thuso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ka hanyenyane"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "o ne o tla lula"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "dumah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:10.362751141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Empa ka sefate se ka hareng ho moraohlela, Elohim o ile a re: Le se ke la ja ho sona, le se ke la e khomarela, e le hore le se swerwe ke lefu. │ Empa diclam tsa sefate se ka hareng ho moraohlela, Elohim o ile a re: Le se ke la ja tsona, le se ke la se khomarela, e le hore le se shoe.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Empa diclam tsa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hareng ho"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "moraohlela"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o ile a re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho sona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "e khomarela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "eona"
+    },
+    {
+      "surface": "פן",
+      "gloss": "e le hore le se"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "shoe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:53.892589212Z",
+  "model": "glm-5.3"
+}

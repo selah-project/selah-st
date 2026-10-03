@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme Dawide a bala haholo mme a tlala letsatsi, mme a etsa hore mora wa hae ⟨את⟩ Shelomoh a be morena holimo Yisraele.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Mme Dawide"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a bala haholo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "mme a tlala"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a etsa hore a be morena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T13:19:06.648385646Z",
+  "model": "glm-5.3"
+}

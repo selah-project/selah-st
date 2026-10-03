@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Farao o ile a bitsetsa bahlalefi le baloi; mme bahlahlami ba Mitsrayime, le bona, ba etsa jwalo ka mesebetsi ya bona ya bongaka.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "o ile a bitsetsa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "bahlalefi"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "le baloi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "bahlahlami"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ba Mitsrayime"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "ka mesebetsi ya bona ya bongaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:19.383497492Z",
+  "model": "glm-5.3"
+}

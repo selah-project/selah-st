@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "O se ke wa ba bolaea, hore sechaba sa ka se se ke sa lebala; o ba tsamaisetse ka matla a hao, mme o ba theohelise, Adonai, khoheli ya rona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ba bolaea"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hore... se se ke sa"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sechaba sa ka"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "o ba tsamaisetse"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ka matla a hao"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "mme o ba theohelise"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "khoheli ya rona"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:02.246672897Z",
+  "model": "glm-5.3"
+}

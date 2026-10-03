@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 37:22",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Dikhoptoro tsa tsona le makala a tsona a tswang ho yona; e ne e le yona yohle mosebetsi o le mong wa ho betsa, wa gauta e hloekileng.",
+  "tokens": [
+    {
+      "surface": "כפתריהם",
+      "gloss": "dikhoptoro tsa tsona"
+    },
+    {
+      "surface": "וקנתם",
+      "gloss": "le makala a tsona"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "a tswang ho yona"
+    },
+    {
+      "surface": "היו",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "yona yohle"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mosebetsi wa ho betsa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "o le mong"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:11.879496006Z",
+  "model": "glm-5.3"
+}

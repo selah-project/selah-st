@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "Pele dithaba di be tsa tswalwa, le pele o ile a bopa ⟨את⟩ lefatshe le ⟨את⟩ lefatshe kaofela, ya hodimo ho ya hodimo, o ⟨⟨El⟩⟩.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Pele"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "di be tsa tswalwa"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "le pele o ile a bopa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "lefatshe kaofela"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "ya hodimo ho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:24.352583574Z",
+  "model": "glm-5.3"
+}

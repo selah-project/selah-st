@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mamoheng ⟨את⟩ lentswe leo Yahwe a le bolelago ho lona, ntlo ya Yisraele.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mamoheng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a le bolelago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T09:05:59.957770883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Tsedeke ya hao ga ke e patile ka hara pelo ya ka; tumelo ya hao le pholoho ya hao ke di boletse; ga ke pate hesede ya hao le 'nete ya hao phuthehong e kgolo.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeke ya hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga… (negative)"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "ke e patile"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hara"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tumelo ya hao"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "le pholoho ya hao"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke di boletse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga… (negative)"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "ke pate"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "le 'nete ya hao"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "phuthehong"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e kgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:22.232119881Z",
+  "model": "glm-5.3"
+}

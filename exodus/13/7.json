@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Bo-boseche bo tla ja matsatsi ⟨את⟩ a supileng, mme bo-bolepe bo ke ke boa bonahala ho oena, le mmofo o ke ke oa bonahala ho oena, moleleng oohle wa hao.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Bo-boseche"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bo tla ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsatsi a supileng"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supileng"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ... ha"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bo tla bona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho oena"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "bo-bolepe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o tla bona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho oena"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mmofo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "moleleng oohle"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:06.618288806Z",
+  "model": "glm-5.3"
+}

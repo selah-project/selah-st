@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 121,
+  "translation": "Pina ya maeto. Ke phahamisa mahlo a ka hodima dintho tse phahameng; thuso ya ka e tla tloha kae?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "ya maeto"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ke phahamisa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dintho tse phahameng"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "e tla tloha kae"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "e tla"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "thuso ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:27.432139258Z",
+  "model": "glm-5.3"
+}

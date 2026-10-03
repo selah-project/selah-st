@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ke ile ka re pelong ya ka: ⟨את⟩ ya tsedeke le ⟨את⟩ ya molato Elohim o tla li kahlola, hobane ho na le nako bakeng sa se seng le se seng se ratwang, le holim'a mosebetsi o mong le o mong moo.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "pelong ya ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya tsedeke"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ya tsedeke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ya molato"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ya molato"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o tla kahlola"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa tsohle"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "se ratwang"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le holim'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:00.486336418Z",
+  "model": "glm-5.3"
+}

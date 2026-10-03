@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 60,
+  "translation": "Gilade ke ya ka, Menashhe ke ya ka; mme Efrayime ke matla a hloho ya ka; Yehuda ke molamuli wa ka.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ke ya ka"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilade"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "mme ... ke ya ka"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "mme Efrayime"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "a hloho ya ka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "molamuli wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:13.355348285Z",
+  "model": "glm-5.3"
+}

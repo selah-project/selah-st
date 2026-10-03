@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Hobane matswe a hao a nkile, mme letsoho la hao le na hodima ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "matswe a hao"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "a nkile"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mme"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "le ile la"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima ka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:13.717762357Z",
+  "model": "glm-5.3"
+}

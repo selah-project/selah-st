@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Laka ho ba le mahlo a molemo, laka ho ba le mahlo a molemo batho ba hao, le malanka ana a hao, ba emeng pela hau kamehla, ba utlwang ⟨את⟩ hlalanwe ya hao.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "laka ho ba le mahlo a molemo"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "batho ba hao"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "laka ho ba le mahlo a molemo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "malanka a hao"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ba emeng"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pela hau"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kamehla"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ba utlwang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlalanwe ya hao"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hlalanwe ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T12:56:37.815172179Z",
+  "model": "glm-5.3"
+}

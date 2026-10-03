@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Puo ea hau e rala tsamaiso ea tshenyo, e tshwana le thipa e hlaphohetsoeng, e etsang boikhohomosi.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ea tshenyo"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "e rala tsamaiso"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "Puo ea hau"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "e tshwana le thipa"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "e hlaphohetsoeng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e etsang"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "boikhohomosi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:04.735008068Z",
+  "model": "glm-5.3"
+}

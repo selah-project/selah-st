@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Ya Dawide. Ntshe kahlolo, Yahwe, hobane ke tsamile katumelohali ya ka, mme ho Yahwe ke tshephe, ke ke ke wa tetema.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Ntshe kahlolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "katumelohali ya ka"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ke tsamile"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "mme ho Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshephe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "ke ke ke wa tetema"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:08.295865285Z",
+  "model": "glm-5.3"
+}

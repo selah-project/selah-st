@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Diphonono tsa rona re ha li a bone; ha ho sa le moporofeta; mme ha ho ⟨את⟩ rona ya tsebang ho fihlela neng.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "diphonono tsa rona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "re li a bone"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa le"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "moporofeta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "rona"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ya tsebang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "מה",
+      "gloss": "neng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:07.005156644Z",
+  "model": "glm-5.3"
+}

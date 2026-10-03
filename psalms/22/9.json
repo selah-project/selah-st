@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Rolletsa ho Yahwe — o tla mo lokolla, o tla mo pholosa, hobane o mo rate.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Rolletsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "o tla mo lokolla"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "o tla mo pholosa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o mo rate"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:14.070499134Z",
+  "model": "glm-5.3"
+}

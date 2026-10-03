@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 141,
+  "translation": "Baatloli ba bona ba tlosoa ka thoko ya lejoe, ba tla utloa mantswe a ka, hobane a monate.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "ba tlosoa"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ka thoko ya"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "lejoe"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "baatloli ba bona"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ba tla utloa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mantswe a ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "a monate"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:03.859787780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme ba mo leka, ba hana ⟨את⟩ Elohim wa Hodimo, mme bopaki ba hae ba sa boloke.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "mme ba mo leka"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ba hana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim wa Hodimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "wa Hodimo"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "mme bopaki ba hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "boloke"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:23.536308186Z",
+  "model": "glm-5.3"
+}

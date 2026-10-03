@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Ka ruakh ea bochabela U a thuthafatsa dikepe tsa Tarshishe.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "Ka ruakh"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ea bochabela"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "U a thuthafatsa"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "dikepe"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "tsa Tarshishe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:17.466866873Z",
+  "model": "glm-5.3"
+}

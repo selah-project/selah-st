@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Ezra o ile a tsoha, a hlapanya barupeli ba baporofita ba baholo, balevi, le Yisraele yohle ⟨את⟩ hore ba ete jwalokaha lentsoe le, mme ba hlapanya.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tsoha"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "a hlapanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barupeli ba baporofita ba baholo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "barupeli ba baporofita ba baholo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baporofita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le yohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hore ba ete"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "jwalokaha lentsoe le"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ba hlapanya"
+    }
+  ],
+  "timestamp": "2026-10-03T12:01:00.621212329Z",
+  "model": "glm-5.3"
+}

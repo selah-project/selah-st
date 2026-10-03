@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Paroh a re: Ke tla le romella, le tlhotse ho Yahwe, Elohim ya lona, mokgobong; feela le se ke la tswahala haholo ha le tsamaea; khopolelang bakeng sa ka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "tla le romella"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le",
+      "marks": "le"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "le tlhotse"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mokgobong"
+    },
+    {
+      "surface": "רק",
+      "gloss": "feela"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "le se ke la tswahala haholo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "la tswahala haholo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ha le tsamaea"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "khopolelang"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "bakeng sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:46:59.566342992Z",
+  "model": "glm-5.3"
+}

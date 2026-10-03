@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Ohoo! Ya reng ho ntata ona: O begetsa eng? Le ho mosadi: O begetseng?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ohoo!"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Ya reng ho"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ntata ona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "O begetsa"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "Le ho mosadi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "O begetseng"
+    }
+  ],
+  "timestamp": "2026-10-03T12:59:57.535507579Z",
+  "model": "glm-5.3"
+}

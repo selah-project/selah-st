@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Yahwe Elohim a bitela ⟨את⟩ motho, a mo re: O kae?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a mo"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "O kae?"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:05.097052098Z",
+  "model": "glm-5.3"
+}

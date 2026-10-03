@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Ke tla kena ka matla a Adonai Yahwe; ke tla gopola tsedeko ya hao — ya uena feela.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ke tla kena"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "ka matla a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ke tla gopola"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeko ya hao"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ya uena feela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:11.689334853Z",
+  "model": "glm-5.3"
+}

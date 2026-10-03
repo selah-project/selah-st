@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "O hlohonolofatswa motseng, mme o hlohonolofatswa shapong.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "o hlohonolofatswa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "mme o hlohonolofatswa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "shapong"
+    }
+  ],
+  "timestamp": "2026-10-03T06:59:48.865412438Z",
+  "model": "glm-5.3"
+}

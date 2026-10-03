@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Ho phomotsa khohle, baahi ba lefatshe la Tema ba ile ba hlahisa metsi; ka borobo bona ba ile ba tla pele ho mo sosolang.",
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "ho phomotsa"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "khohle"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "ba hlahisitse"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baahi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "ka borobo bona"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "ba tla pele ho"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "mo sosolang"
+    }
+  ],
+  "timestamp": "2026-10-03T08:38:15.873449834Z",
+  "model": "glm-5.3"
+}

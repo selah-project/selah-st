@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Hobane ha e sa le hanyenyane, hanyenyane haholo, mme tlheko e tla felisoa, le hloro ya ka holim'a ho fofa ha bona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ha e sa le"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hanyenyane"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "hanyenyane haholo"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "mme ... e tla felisoa"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "tlheko"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "le hloro ya ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "ho fofa ha bona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:35:59.128930317Z",
+  "model": "glm-5.3"
+}

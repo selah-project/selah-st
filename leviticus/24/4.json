@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Holima setjhaba sa khauta se hlakileng o tla bea ⟨את⟩ malaseri pele ho Yahwe ka ho tswelapele.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Holima"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "se hlakileng"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "o tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaseri"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "malaseri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka ho tswelapele"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:56.973435451Z",
+  "model": "glm-5.3"
+}

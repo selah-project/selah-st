@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 101,
+  "translation": "Ya qhaqang motsamaisi wa yena ka bocha, o tla ke ke a tsoala; ya matlafatseng mahlo le ya atolohileng pelo, motho eo nka ke ke ka kgona ho mo amohela.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "ya qhaqang"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka bocha"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "motsamaisi wa yena"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "o tla ke ke a tsoala"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "o tla ke ke a tsoala"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ya matlafatseng"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "le ya atolohileng"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "motho eo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nka ke ke ka kgona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:54.083067223Z",
+  "model": "glm-5.3"
+}

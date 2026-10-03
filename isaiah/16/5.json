@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme setulo sa borena se tla miswa ka hesede, mme ya dulong ho sona ka 'nete, oheleng ya Dawide, a ahola kahlolo, mme a batla toka, mme a potlakele tsedeke.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "se tla miswa"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "ka hesede"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulo sa borena"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ya dulong"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho sona"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ka 'nete"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "oheleng"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "a ahola"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "mme a batla"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo kapa toka"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "a potlakele"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-03T13:00:04.299894080Z",
+  "model": "glm-5.3"
+}

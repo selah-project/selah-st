@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Ya lokileng o hloya lentswe la leshano, mme yo mohlong o tla nyontshwa mme a hlaja.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "la leshano"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "o hloya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya lokileng"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "mme yo mohlong"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "o tla nyontshwa"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "mme a hlaja"
+    }
+  ],
+  "timestamp": "2026-10-03T11:09:29.264614025Z",
+  "model": "glm-5.3"
+}

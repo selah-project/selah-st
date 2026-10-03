@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 67,
+  "translation": "Elohim a re rate ka mohau, mme a re hlohonolofatse, a phadimise sefahleho sa hae ⟨את⟩ rona. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "a re rate ka mohau"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "mme a re hlohonolofatse"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "a phadimise"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa hae"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:16.291293925Z",
+  "model": "glm-5.3"
+}

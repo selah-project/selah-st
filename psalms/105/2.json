@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Mmang opelang, mminang ka liletsoi ho yena, nahannang ka makhoabong a hae ohle.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Mmang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mminang ka liletsoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "nahannang"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ohle"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "makhoabo a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:42.520650143Z",
+  "model": "glm-5.3"
+}

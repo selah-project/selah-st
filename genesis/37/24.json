@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme ba mo nka, ba mo lahla ⟨את⟩ yena moupong; mme moupo o ne o le sieo, ho ne ho se na metsi ho wona.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ba mo nka"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "ba mo lahla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (ho moupong)"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "moupong"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "mme moupo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "o ne o le sieo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ho ne ho se na"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho wona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:40.740671050Z",
+  "model": "glm-5.3"
+}

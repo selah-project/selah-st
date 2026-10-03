@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Haeba ke ne ke re: Ke tla bolela jwalo — bonang, ke ne ke tla kgobalosa tumelano le molokoloko wa bana ba Hao.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haeba"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ne ke re"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ke tla bolela"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "דור",
+      "gloss": "molokoloko"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba Hao"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "ke ne ke tla kgobalosa tumelano"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:51.475449312Z",
+  "model": "glm-5.3"
+}

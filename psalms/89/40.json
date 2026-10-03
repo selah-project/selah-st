@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "U tlositse selekane sa mohlanka wa hao, u e hlotse lefatshe letswele la hae.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "u tlositse"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sa mohlanka wa hao"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "u e hlotse"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "letswele la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:43.222512884Z",
+  "model": "glm-5.3"
+}

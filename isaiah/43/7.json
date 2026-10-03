@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Mong le mong ea bitsoang ka lebitso la ka, eo ke mo bopileng bakeng sa kgalalelo ea ka, eo ke mo hlahiseng, mme ke mo entseng.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Mong le mong"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "ea bitsoang"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ka lebitso la ka"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "bakeng sa kgalalelo ea ka"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ke mo bopileng"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "ke mo hlahiseng"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mme"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "ke mo entseng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:20.137757668Z",
+  "model": "glm-5.3"
+}

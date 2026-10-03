@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Hobane ho yena pelo ya rona e thabela, hobane ka lebitso la hae le halalelang re tshepile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "e thabela"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "pelo ya rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka lebitso la hae"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "le halalelang"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "re tshepile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:44.647888253Z",
+  "model": "glm-5.3"
+}

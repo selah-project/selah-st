@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Ka letsatsi la bokhathaling ba ka ke tla bitla oa, hobane o mphehella.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "la bokhathaling ba ka"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ke tla bitla oa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "o mphehella"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:52.882063095Z",
+  "model": "glm-5.3"
+}

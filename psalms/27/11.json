@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Ntsebise, Yahwe, tsela ya hao, mme ntlhometse tseleng ea toka, ka baka la ba ntsutsang.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ntsebise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ya hao"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "mme ntlhometse"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ea toka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ba ntsutsang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:42.132164454Z",
+  "model": "glm-5.3"
+}

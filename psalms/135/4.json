@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Hobane Yah o kgethile ⟨את⟩ Yaakobo bakeng sa hae, Yisraele e le sejhatoho sa hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "o kgethile"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bakeng sa hae"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "e le sejhatoho sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:02.809281574Z",
+  "model": "glm-5.3"
+}

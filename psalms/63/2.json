@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 63,
+  "translation": "Elohim, wena ⟨u⟩ Eloha wa ka, ke tla o khaba ka meso; moya oa ka o a o loma thloko, nama ea ka e a o laka, lefatsheng le omileng le le phodileng, ntle ha metsi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eloha wa ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "ke tla o khaba ka meso"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "o a o loma thloko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "e a o laka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nama ea ka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "le omileng"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "le le phodileng"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ntle ha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:09.489322112Z",
+  "model": "glm-5.3"
+}

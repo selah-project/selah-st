@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme bara ba Yisraele ba neela Dilevite ho tloha bofaladi ba bona, ho latela molomo wa Yahwe, ⟨את⟩ dibaka tsena le ⟨את⟩ mephatla ea tsona.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ba neela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Dilevite"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "ho tloha bofaladi ba bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho latela"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibaka tsena"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mephatla ea tsona"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "mephatla ea tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:28.462360191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme a mo botsa ka Yahwe, mme a mo neha lijo tsa moketi, le ⟨את⟩ tlampu ea Goliathe wa Mofilistea a neha eena.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "a botsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "lijo tsa moketi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tlampu ea Goliathe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tlampu ea"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliathe"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "wa Mofilistea"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "eena"
+    }
+  ],
+  "timestamp": "2026-10-03T07:41:39.561172136Z",
+  "model": "glm-5.3"
+}

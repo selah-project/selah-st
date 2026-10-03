@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme Lea a re: Masele! mme a bitlea ⟨את⟩ lebitso la hae Gade.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Masele!"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "a bitla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la hae"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gade"
+    }
+  ],
+  "timestamp": "2026-10-03T05:30:38.771052787Z",
+  "model": "glm-5.3"
+}

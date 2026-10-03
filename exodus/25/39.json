@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ka talente ya gauta e hloekileng o tla e etsa ⟨את⟩ yona, le ⟨את⟩ dithulusi tsohle tse.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talente"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tla e etsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithulusi tsohle tse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "dithulusi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tse"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:52.032264037Z",
+  "model": "glm-5.3"
+}

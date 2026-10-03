@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme o hlahlamise ⟨את⟩ Mishkane ho ya ka tlwaelo ya lona eo o e bonitsitseng hodima thaba.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "Mme o hlahlamise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "ho ya ka tlwaelo ya lona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "o e bonitsitseng"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "hodima thaba"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:07.234240939Z",
+  "model": "glm-5.3"
+}

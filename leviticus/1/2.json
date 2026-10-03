@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Bua le bana ba Yisraele, o re ho bona: Haeba motho ea mong oa lona a atamatsa mpefelo ho Yahwe, e tla ba ho liphofolo — ho tsoa likhomong kapa ho tsoa lipolising — le tla atamatsa ⟨את⟩ mpefelo ea lona.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "o re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "a atamatsa"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "oa lona"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "mpefelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tsoa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "liphofolong"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tsoa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "likhomong"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kapa ho tsoa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "lipolising"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "le tla atamatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpefelo ea lona"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "mpefelo ea lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:59.040640561Z",
+  "model": "glm-5.3"
+}

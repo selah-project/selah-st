@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Sihone morena wa Baemore, le Oge morena wa Bashane, le bomengodi bohle ba Kenaane.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemore"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "le Oge"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashane"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le bohle ba"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bomengodi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaane"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:51.444669829Z",
+  "model": "glm-5.3"
+}

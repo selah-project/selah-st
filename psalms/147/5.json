@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Mogolo ⟨ke⟩ Adonai wa rona, mme wa matla haholo; ho tlhaloganyo ya hae ha ho na palo.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mogolo"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai wa rona"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mme wa matla haholo"
+    },
+    {
+      "surface": "כח",
+      "gloss": "matla"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ho tlhaloganyo ya hae"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho na"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:51.732626458Z",
+  "model": "glm-5.3"
+}

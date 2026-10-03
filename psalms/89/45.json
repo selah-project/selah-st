@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "O ile wa emisa bohahlauli ba hae, wa tlola setulo sa hae fatshe.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "wa emisa"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "bohahlauli ba hae"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "setulo sa hae"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "wa tlola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:16.417750057Z",
+  "model": "glm-5.3"
+}

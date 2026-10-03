@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Yahwe o ile a etsa jwale; mme arove a boile a boima har'a malapa a Faro, malapa a makgoba a hae, le lefatshe la Mitsrayime kaofela; lefatshe la iphusa ka baka la arove.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme ... a boile"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "arove"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "a boima"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "har'a malapa a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "malapa a"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "makgoba a hae"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ... kaofela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "la iphusa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "arove"
+    }
+  ],
+  "timestamp": "2026-10-03T05:46:44.605846232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Bonang, ke ile ka u bea setlotli se matla, se secha, se nang le meno; o tla tlotla lithaba, mme wa li pepetla, mme dithabana o tla li bea jwalo ka bochaba.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "ke ile ka u bea"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "setlotli"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "se matla"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "se secha"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "se nang le"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "meno"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "o tla tlotla"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "lithaba"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "mme wa li pepetla"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "dithabana"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "jwalo ka bochaba"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "o tla li bea"
+    }
+  ],
+  "timestamp": "2026-10-03T08:50:08.303700897Z",
+  "model": "glm-5.3"
+}

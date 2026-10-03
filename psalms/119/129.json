@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Dintlha tsa bopaki ba hao ke diphofo tsa makatsang; ka lebaka lena moya oa ka o di boloka.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "diphofo tsa makatsang"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bopaki ba hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka lena"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "o di boloka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:53.301910498Z",
+  "model": "glm-5.3"
+}

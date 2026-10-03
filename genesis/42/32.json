@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Re bachumeni ba leshome le metso e mmedi, bana ba ntate rona; a mong ha a ho, mme yo mose oa qetela kajeno o ntse le ⟨את⟩ ntate rona lefatsheng la Kenaane.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ba leshome le metso e mmedi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "leshome"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bachumeni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ntate rona"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "a mong"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ha a ho"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "mme yo mose oa qetela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "את",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntate rona"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ntate rona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng la"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:37.497041716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme a mo pea, a mo isa ho mmae; mme a dula,mapheko a mmae a ntse a mo tšere, ho fihlela sehatsetsing, mme a hlokahala.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "a mo pea"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "a mo isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmae"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "על",
+      "gloss": "maphekong a"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "mapheko a mmae"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "sehatsetsing"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a hlokahala"
+    }
+  ],
+  "timestamp": "2026-10-03T08:19:13.839428196Z",
+  "model": "glm-5.3"
+}

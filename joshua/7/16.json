@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Yehoshua a tsosa hosane, a atamisa ⟨את⟩ Yisraele ka mehla ya yona; mme mohla wa Yehuda o tsekoa.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a tsosa hosane"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hosane"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "a atamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "ka mehla ya yona"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "o tsekoa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mohla"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T07:07:23.047668501Z",
+  "model": "glm-5.3"
+}

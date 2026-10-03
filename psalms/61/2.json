@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 61,
+  "translation": "Mamela, Elohim, sehlokwa sa ka; theosa lelitsoeng thapelong ya ka.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "sehlokwa sa ka"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "theosa lelitsoeng"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelong ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:43.447063701Z",
+  "model": "glm-5.3"
+}

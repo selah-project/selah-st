@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme ntoa e ile ya bo e boima ho Shaule, mme ba-basebeletsi ba tsamaisa methapo ba mo fumanang; mme o ile a lwala haholo ka baka la ba-basebeletsi ba methapo.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "ya bo e boima"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "ba mo fumanang"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "ba-basebeletsi ba tsamaisa methapo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ka marumo a motsehare"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "a lwala"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "ka baka la ba-basebeletsi ba methapo"
+    }
+  ],
+  "timestamp": "2026-10-03T07:47:10.300496244Z",
+  "model": "glm-5.3"
+}

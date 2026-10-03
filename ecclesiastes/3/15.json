@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Seo se neng se le teng, ho fihlela joale ke sona; mme seo se tlang ho ba teng, ho fihlela joale se bile teng; mme Elohim o batla ⟨את⟩ se se tolotsweng.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "seo"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "se neng se le teng"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ho fihlela joale"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke sona"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mme seo"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "se tlang ho ba teng"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ho fihlela joale"
+    },
+    {
+      "surface": "היה",
+      "gloss": "se bile teng"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "mme Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "o batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se tolotsweng"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "se se tolotsweng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:42.320956637Z",
+  "model": "glm-5.3"
+}

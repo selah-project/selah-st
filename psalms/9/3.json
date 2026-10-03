@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ke tla thaba, ke tla nyakalla ho wena, ke tla bina lebitso la hao, Elyone.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Ke tla thaba"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "ke tla nyakalla"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla bina"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:26.676948118Z",
+  "model": "glm-5.3"
+}

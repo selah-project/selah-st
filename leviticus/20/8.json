@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme le boloke ⟨את⟩ melao ya ka, mme le e etse ⟨את⟩; nna ke Yahwe, ea le halalelisang.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "le boloke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya ka"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melao ya ka"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme le etse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya ka (e)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ea le halalelisang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:00.950595873Z",
+  "model": "glm-5.3"
+}

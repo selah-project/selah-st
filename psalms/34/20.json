@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ditsietsi tsa mo lokileng di ngata, empapa Yahwe o mo lokolla ho tsona kaofela.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "di ngata"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ditsietsi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mo lokileng"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "ho tsona kaofela"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "o mo lokolla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:10.142623571Z",
+  "model": "glm-5.3"
+}

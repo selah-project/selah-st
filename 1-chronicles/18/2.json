@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme a otla ⟨את⟩ Moabe; mme Ba-Moabe ba ba balekane ba tswa bahiri ba Dawide, ba phahamisang minkha.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "a otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ba ba balekane ba tswa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Ba-Moabe"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bahiri"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ba Dawide"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ba phahamisang"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    }
+  ],
+  "timestamp": "2026-10-03T12:17:12.614127120Z",
+  "model": "glm-5.3"
+}

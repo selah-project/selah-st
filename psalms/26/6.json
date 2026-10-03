@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Ke tla hlatsoa ka diatla tsa me tse hlwekileng, Yahwe, mme ke tla dikela ka hara ⟨את⟩ altara ya hao.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Ke tla hlatsoa"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ka ... tse hlwekileng"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "diatla tsa me"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "mme ke tla dikela ka hara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altara ya hao"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "altara ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:47.024902963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Likhoeli tse le 'ngoe le leshome le ngoe ea maeto, ho tloha Khorebe, ka tsela ea thaba ea Seire, ho fihlela Kadeshe-Barneae.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "e le 'ngoe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "leshome le"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ea maeto"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ho tloha Khorebe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela ea"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba ea"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seire"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshe-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barneae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:43:19.212775964Z",
+  "model": "glm-5.3"
+}

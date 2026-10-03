@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Opellang ho tlotla Yahwe, lona bahloeki ba hae, mme le dumele ⟨⟨ka⟩⟩ sehopotsong sa kgalalelo ya hae.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Opellang ho tlotla"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bahloeki ba hae"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "mme le dumele"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "sehopotsong"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kgalalelo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:24.228720272Z",
+  "model": "glm-5.3"
+}

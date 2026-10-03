@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Eena le nna, ke tla mo neha e le motheho pele-pele, phahameng ho morena ba lefatshe.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "le"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "motheho pele-pele"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ke tla mo neha"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "phahameng"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "morena ba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:06.915225973Z",
+  "model": "glm-5.3"
+}

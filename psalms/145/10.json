@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Ba tla o tlotlisa, Yahwe, mesebetsi ya hae yohle, mme bahloeki ba hao ba tla o hlohonolofatsa.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Ba tla o tlotlisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mesebetsi ya hae"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "mme bahloeki ba hao"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "ba tla o hlohonolofatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:18.766297161Z",
+  "model": "glm-5.3"
+}

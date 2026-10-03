@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ho fihlela mosebetsi o phanya le letsatsi, mme maru a tloha a sieve, ke tla tsamaya ⟨eleng⟩ ho ea thabeng ya morara, le phodong ya lifrankincense.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ho fihlela"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "mosebetsi o phanya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "a tloha a sieve"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tla tsamaya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨eleng⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ea"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "המור",
+      "gloss": "ya morara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho ea"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "phodong"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "ya lifrankincense"
+    }
+  ],
+  "timestamp": "2026-10-03T11:35:25.086301159Z",
+  "model": "glm-5.3"
+}

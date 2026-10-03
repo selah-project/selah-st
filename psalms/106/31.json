@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme e ile ya mo tsebetswa e le tsedeke, ho dikoloto le dikoloto, ho fihlela nako e sa feleng.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "mme e ile ya tsebetswa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "e le tsedeke"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ho dikoloto"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le dikoloto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nako e sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:23.088866258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 27:10",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Ya supileng, bakeng sa kgwedi ya supileng, e ne e le Khelets ya Peloni, wa barena ba Efrayime; mme sethaleng sa hae ho ne ho na le masome a mabedi le nne a dikete.",
+  "tokens": [
+    {
+      "surface": "השביעי",
+      "gloss": "ya supileng"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bakeng sa kgwedi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya supileng"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Khelets"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "ya Peloni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barena ba"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme sethaleng sa"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "sahae"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome a mabedi"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "le nne"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a dikete"
+    }
+  ],
+  "timestamp": "2026-10-03T12:20:44.686427777Z",
+  "model": "glm-5.3"
+}

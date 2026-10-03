@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Eaba Pinekhase a ema a rapela, mme sefuba se ile sa emisoa.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "eaba ... a ema"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinekhase"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "a rapela"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "mme ... se ile sa emisoa"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "sefuba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:23.088694922Z",
+  "model": "glm-5.3"
+}

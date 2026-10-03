@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Leswe, ha ke ka le sheba pelong ya ka, Adonai a ke ke a mamela.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "leswe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke ka le sheba"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "pelong ya ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ke ke"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "a mamela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:14.161547713Z",
+  "model": "glm-5.3"
+}

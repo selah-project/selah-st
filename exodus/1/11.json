@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ba beha hodima bona barutehi ba mekgetho, hore ba tlo ba qefsa ka boima ba bona; mme ba aha metse ea disitore bakeng sa Farao: ⟨את⟩ Pitome le ⟨את⟩ Raamsese.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Ba beha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hodima bona"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "barutehi"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "ba mekgetho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore ba tlo"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "ba qefsa"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "ka boima ba bona"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ba aha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "ea disitore"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "bakeng sa Farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitome"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitome"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Raamsese"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamsese"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:36.673827358Z",
+  "model": "glm-5.3"
+}

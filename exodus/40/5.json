@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme o behe ⟨את⟩ altara ya gauta ya mokokoane pherong ya arone ya bopaki, mme o behe ⟨את⟩ seromola sa mongwapeng sa Mishkane.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Mme o behe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altara ya gauta ya mokokoane"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altara"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya gauta"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "ya mokokoane"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pherong ya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arone"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya bopaki"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "mme o behe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seromola sa mongwapeng"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "seromola"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "sa mongwapeng"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "sa Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:02.641074509Z",
+  "model": "glm-5.3"
+}

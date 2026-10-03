@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Bayahuda ba amohetse ⟨את⟩ seo ba neng ba se qadile ho se etsa, le ⟨את⟩ seo Mordekai a neng a ngotse ho bona.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "Mme ba amohetse"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Bayahuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo ba neng ba se qadile ho se etsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ba neng ba se qadile"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho se etsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "seo Mordekai a neng a ngotse ho bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "a neng a ngotse"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:49:16.688141493Z",
+  "model": "glm-5.3"
+}

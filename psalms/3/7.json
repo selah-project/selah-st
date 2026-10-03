@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ke ke ke tšaba dihalifeli tsa batho, bao ba ileng ba ikhoma ho Nna ka mahlakore ohle.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ke ke ke"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tšaba"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "dihalifeli tsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka mahlakore ohle"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ba ileng ba ikhoma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho Nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:38.668460771Z",
+  "model": "glm-5.3"
+}

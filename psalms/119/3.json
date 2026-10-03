@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ee, ha ba etsa tokoloho; ditseleng tsa hae ba ile ba tsamaya.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tokoloho"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ditseleng tsa hae"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba ile ba tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:51.813381325Z",
+  "model": "glm-5.3"
+}

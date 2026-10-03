@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Ho tloha lefatsheng leo Ashure a ile a tswa, mme a haha ⟨את⟩ Nineve, le ⟨את⟩ Rekhobot-Ire, le ⟨את⟩ Kelakhe;",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Ho tloha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a ile a tswa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mme a haha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineve"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Rekhobot-Ire"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rekhobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kelakhe"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelakhe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:15.564670245Z",
+  "model": "glm-5.3"
+}

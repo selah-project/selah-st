@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme polelo eo e ne e molemo mahlong a Adonai, hobane Shelomoh o kōptse ⟨את⟩ polelo eo.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "e ne e molemo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "polelo eo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "o kōptse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polelo eo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "polelo eo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:01:44.207229491Z",
+  "model": "glm-5.3"
+}

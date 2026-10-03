@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Setho sa hagazame se jeile ha'arabe, mme se setseng sa ha'arabe se jeile hayeleke, mme se setseng sa hayeleke se jeile hekhasile.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Setho"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "sa hagazame"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "se jeile"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ha'arabe"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "mme se setseng"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "sa ha'arabe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "se jeile"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "hayeleke"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "mme se setseng"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "sa hayeleke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "se jeile"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "hekhasile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:03:37.192471001Z",
+  "model": "glm-5.3"
+}

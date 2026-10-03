@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 1:17",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ithute ho etsa hantle, batlang toka, thusang ya bolailweng, ahlahlobeng lehloele, lweleng sehloho.",
+  "tokens": [
+    {
+      "surface": "למדו",
+      "gloss": "ithute"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ho etsa hantle"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "batlang"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "toka"
+    },
+    {
+      "surface": "אשרו",
+      "gloss": "thusang"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "ya bolailweng"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ahlahlobeng"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "lehloele"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "lweleng"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "sehloho"
+    }
+  ],
+  "timestamp": "2026-10-03T08:32:06.799693404Z",
+  "model": "glm-5.3"
+}

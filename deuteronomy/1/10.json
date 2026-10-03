@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Yahwe Elohim ya ⟨את⟩ lona o ile a le atisa, mme bona, le kajeno joalo ka dinaledi tsa mahodimo ka bongata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "o ile a le atisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "mme bona, le"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "joalo ka dinaledi tsa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ka bongata"
+    }
+  ],
+  "timestamp": "2026-10-03T06:41:44.958238553Z",
+  "model": "glm-5.3"
+}

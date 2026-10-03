@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Lekang Yahwe, lona masole a Hae kaofela; batshebeletsi ba Hae, ba etsang thato ya Hae.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Lekang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "masole a Hae"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "batshebeletsi ba Hae"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "thato ya Hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:35.319544070Z",
+  "model": "glm-5.3"
+}

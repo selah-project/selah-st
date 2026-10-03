@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "U tla bea ⟨את⟩ kaporete hodima ⟨את⟩ areka, ka hodimo; mme ka hare ho ⟨את⟩ areka u tla bea ⟨את⟩ bopaki boo ke tla bo fana ka lona ho wena.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "u tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporete"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporete"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "areka"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ka hodimo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ka hare ho"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "areka"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "u tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bopaki"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "boo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla fana ka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:26.151733497Z",
+  "model": "glm-5.3"
+}

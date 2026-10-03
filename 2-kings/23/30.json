@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme batjhaba ba hae ba mo khabisetsa koloi a shofile, ho tloha Megidong, mme ba mo isisa Yerushalayime, mme ba mo pata mabitleng a hae; mme setjhaba sa lefatše se ile sa nka ⟨את⟩ Yehoakhaze mora wa Yehoshiyahu, mme ba mo tlotsa mme ba mo etsa morena sebaka sa ntatae.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "ba mo khabisetsa koloi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "batjhaba ba hae"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a shofile"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "ho tloha Megidong"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ba mo isisa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ba mo pata"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "mabitleng a hae"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "se ile sa nka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setjhaba sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoakhaze"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoakhaze"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yehoshiyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "ba mo tlotsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoakhaze"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ba mo etsa morena"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoakhaze"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebaka sa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntatae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:29:24.073769630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 122,
+  "translation": "Batlisisa kagiso ya Yerushalayime; a ba pheloe ka khotso ba o ratang.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "batlisisa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "a ba pheloe ka khotso"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ba o ratang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:52.774886312Z",
+  "model": "glm-5.3"
+}

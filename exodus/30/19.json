@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme Aharone le bana ba hae ba tla hlaphoha ho sona, ⟨את⟩ matsoho a bona le ⟨את⟩ maoto a bona.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ba tla hlaphoha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba hae"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho sona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsoho a bona"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "matsoho a bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maoto a bona"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "maoto a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:23.620269013Z",
+  "model": "glm-5.3"
+}

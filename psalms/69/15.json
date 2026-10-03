@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Ntoloke morarong, ke se ke ya qhuoa; ntlokolla ho ba mo hloyang, le majareng a tebileng a metsi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ntoloke"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "morarong"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ke se ke"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "ya qhuoa"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "ntlokolla"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ho ba mo hloyang"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "le majareng a tebileng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:17.028550616Z",
+  "model": "glm-5.3"
+}

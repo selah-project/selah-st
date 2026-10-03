@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Fela ⟨את⟩ puso yohle ha ke na ho e khaola; sefate se seng ke tla se fa mora wa hau, bakeng sa Dawide mohlanka wa ka, le bakeng sa Yerushalayime eo ke e kgethileng.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puso yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "puso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha... ke"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "khaola"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se seng"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla se fa"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "mora wa hau"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mohlanka wa ka"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "le bakeng sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ke e kgethileng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:09.381956815Z",
+  "model": "glm-5.3"
+}

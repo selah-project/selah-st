@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme a re ho eena: Nkea ke sa tsamaye; empa ho lefatshe la ka le ho beng ba me ke tsamaya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nkea ke sa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tsamaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "empa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "lefatshe la ka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "beng ba me"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-03T06:27:44.437139422Z",
+  "model": "glm-5.3"
+}

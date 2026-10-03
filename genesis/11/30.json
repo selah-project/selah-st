@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Sarai a ba ⟨e⟩ se nang peo, a se na ngwana.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "e se nang peo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "a se na"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "ngwana"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:19.584170102Z",
+  "model": "glm-5.3"
+}

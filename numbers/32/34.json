@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme bana ba Gade ba aha ⟨את⟩ Dibone, le ⟨את⟩ Atarote, le ⟨את⟩ Aroere.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "ba aha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibone"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Atarote"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Aroere"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroere"
+    }
+  ],
+  "timestamp": "2026-10-03T06:39:13.918342470Z",
+  "model": "glm-5.3"
+}

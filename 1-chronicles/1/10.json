@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Kushe a begetsa ⟨את⟩ Nimrode; yena o ile a qala ho ba yena wa matla hodima lefatshe.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Mme Kushe"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrode"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrode"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "החל",
+      "gloss": "o ile a qala"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ho ba"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "yena wa matla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hodima lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:24.510537522Z",
+  "model": "glm-5.3"
+}

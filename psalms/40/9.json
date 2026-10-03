@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Ho etsa thato ya hau, Elohim ya ka, ke e ratile; mme Torah ya hau e ka hare ho mmele wa ka.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "thato ya hau"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ke e ratile"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "mme Torah ya hau"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "e ka hare ho"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mmele wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:22.231737749Z",
+  "model": "glm-5.3"
+}

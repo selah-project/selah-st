@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Ho na le ya ikhantshang ⟨e le⟩ morui, mme a se na letho; ho na le ya ikhantshang ⟨e le⟩ masea, mme o na le khauta e ngata.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ho na le"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "ya ikhantshang morui"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme a se na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "letho"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "ya ikhantshang masea"
+    },
+    {
+      "surface": "והון",
+      "gloss": "mme khauta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e ngata"
+    }
+  ],
+  "timestamp": "2026-10-03T11:09:29.264996019Z",
+  "model": "glm-5.3"
+}

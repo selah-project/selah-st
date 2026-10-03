@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Empa le ne le sa batle ho ea hodimo, mme le hanyetsa ⟨את⟩ molomo wa Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "le ne le sa batle"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ho ea hodimo"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "mme le hanyetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:43:53.593353180Z",
+  "model": "glm-5.3"
+}

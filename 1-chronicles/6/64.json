@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Le ⟨את⟩ Kedemote le bohlehi ba yona, le ⟨את⟩ Mefaate le bohlehi ba yona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kedemote"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bohlehi ba yona"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "bohlehi ba yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mefaate"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bohlehi ba yona"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "bohlehi ba yona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:12:58.418071009Z",
+  "model": "glm-5.3"
+}

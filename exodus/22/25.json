@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ha o ka tswara sa morekisi wa hao e le ntja, o tla e busetsa ho yena pele letsatsi le chweha.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tswara e le ntja"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "o ka tswara"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "morekisi wa hao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pele"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ho chweha"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "o tla e busetsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:40.907599488Z",
+  "model": "glm-5.3"
+}

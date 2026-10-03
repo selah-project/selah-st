@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Ke mang ya tshwanang le setsebi, mme ke mang ya tsebang tlhaloso ya taba? Bohlale ba motho bo phedisa sefahleho sa hae hlebo, mme matla a sefahleho sa hae a tla fetoha.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "ya tshwanang le setsebi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mme ke mang"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ya tsebang"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "tlhaloso"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya taba"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba motho"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "bo phedisa hlebo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa hae"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "mme matla"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "a sefahleho sa hae"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "a tla fetoha"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:10.942596178Z",
+  "model": "glm-5.3"
+}

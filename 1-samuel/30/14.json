@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Re ile ra hlasela borwa ba Kereite, le sebakeng sa Yehuda, le borwa ba Kalebe; mme re ile ra jesetsa ⟨את⟩ Tsekelage mollo.",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "ra hlasela"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "ba Kereite"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sebakeng se se belongs — sa"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sa Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ba Kalebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "Tsekelage"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsekelage"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "ra jesetsa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mollo"
+    }
+  ],
+  "timestamp": "2026-10-03T07:45:29.589948016Z",
+  "model": "glm-5.3"
+}

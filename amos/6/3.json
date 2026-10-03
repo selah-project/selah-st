@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Ba hlakorelang letsatsi le mpe, mme ba atametsang setulo sa tlolo ya toka!",
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "ba hlakorelang"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "le mpe"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "mme ba atametsang"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "setulo sa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tlolo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:07:40.598457655Z",
+  "model": "glm-5.3"
+}

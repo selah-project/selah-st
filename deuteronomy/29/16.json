@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme le ile la bona ⟨את⟩ diphodiso tsa tsona le ⟨את⟩ ditshwantsho tsa tsona — sehlare le lejoe, selefa le gauta — tse nang le tsona.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "mme le ile la bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphodiso tsa tsona"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "diphodiso tsa tsona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditshwantsho tsa tsona"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "ditshwantsho tsa tsona"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "le lejoe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "tse nang le tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:00:06.090402180Z",
+  "model": "glm-5.3"
+}

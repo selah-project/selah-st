@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Ha a ka a etsa ho rona jwalo ka libe tsa rona, mme ha a ka a re lekolla jwalo ka ditloloho tsa rona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "jwalo ka libe tsa rona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "jwalo ka ditloloho tsa rona"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "a re lekolla"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "rona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:42.694708483Z",
+  "model": "glm-5.3"
+}

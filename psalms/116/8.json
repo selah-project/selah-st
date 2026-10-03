@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Hobane o ntlokotse moya oa ka ho lefu, ⟨את⟩ mahlo a ka ho lilemo, ⟨את⟩ maoto a ka ho ho tšoasoa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "o ntlokotse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ho lefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahlo a ka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "lilemo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maoto a ka"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ho ho tšoasoa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:34.685317735Z",
+  "model": "glm-5.3"
+}

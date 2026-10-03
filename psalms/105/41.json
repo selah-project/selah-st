@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "O ile a bula ⟨את⟩ lejoe, mme metsi a chesa; a tsamaya libakeng tse omileng e le noka.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "o ile a bula"
+    },
+    {
+      "surface": "צור",
+      "gloss": "lejoe"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "mme metsi a chesa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "libakeng tse omileng"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "e le noka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:10.843983260Z",
+  "model": "glm-5.3"
+}

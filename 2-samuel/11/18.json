@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Yoabe a romela, a phatlalatsa ho Dawide ⟨את⟩ ditaba tsohle tsa nto.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a phatlalatsa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaba tsohle tsa nto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ditaba tsa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "nto"
+    }
+  ],
+  "timestamp": "2026-10-03T12:54:46.244042060Z",
+  "model": "glm-5.3"
+}

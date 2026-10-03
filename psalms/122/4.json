@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 122,
+  "translation": "Hobane moo mera e ea hodimo, mera ya Yah, bopaki ho Yisraele, ho tla dumelelana lebitso la Yahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "e ea hodimo"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "mera"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mera ya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho Yisraele"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ho tla dumelelana"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "lebitso la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:44.896438598Z",
+  "model": "glm-5.3"
+}

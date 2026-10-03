@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 146,
+  "translation": "Ya etsang mahodimo le lefatshe, ⟨את⟩ lewatle le ⟨את⟩ tsohle tse ho lona; ya bolokang nnete ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ya etsang"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tsohle tse ho lona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ya bolokang"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nnete"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:53.572064158Z",
+  "model": "glm-5.3"
+}

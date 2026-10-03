@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Se ke la ea hodimo, hobane Yahwe ha a ho hare ho lona, e le hore le se ke la otloa pele ho dira tsa lona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se ke la"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ea hodimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ho hare ho lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e le hore le se ke la"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "otloa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dira tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:31:14.469373953Z",
+  "model": "glm-5.3"
+}

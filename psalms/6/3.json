@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Nkholise, Yahwe, hobane ke bolla; nkalphola, Yahwe, hobane marapo a ka a tsositswe.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Nkholise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ke bolla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "nkalphola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "a tsositswe"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "marapo a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:07.604802128Z",
+  "model": "glm-5.3"
+}

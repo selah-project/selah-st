@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Sebopeho sa bona se mosesane ho feta mokopu; ba sa tsejwe mehlaleng; letlalo la bona le nametse mafokong a bona, le omile, le fetohile jwaloka sethlabathaba.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "se mosesane"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "ho feta mokopu"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "Sebopeho sa bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ba"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "tsejwe"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "mehlaleng"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "le nametse"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "letlalo la bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "mafokong a bona"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "le omile"
+    },
+    {
+      "surface": "היה",
+      "gloss": "le fetohile"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "jwaloka sethlabathaba"
+    }
+  ],
+  "timestamp": "2026-10-03T11:40:45.548117737Z",
+  "model": "glm-5.3"
+}

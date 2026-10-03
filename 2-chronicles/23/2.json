@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ba sepela ka hara Yehuda, ba kgoboka ⟨את⟩ Balevi ho tloha ditoropong tsohle tsa Yehuda, le dihlooho tsa malapa a Yisraele, ba fihla Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "Ba sepela"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ka hara Yehuda"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "ba kgoboka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tloha tsohle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ditoropong tsa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "le dihlooho tsa"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "a Yisraele"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T12:33:06.913982492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Tehila ya Dawide. Ke tla ho lokisa phahamiso ho wena, Eloha ya ka, morena, mme ke tla hlolelisa lebitso la hao ho fihlela kahosafeleng le ho ya hosafeleng.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Tehila"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ke tla ho lokisa phahamiso ho wena"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloha ya ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "mme ke tla hlolelisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela kahosafeleng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho ya hosafeleng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:34.096965878Z",
+  "model": "glm-5.3"
+}

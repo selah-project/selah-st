@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme ditela tsa metsi di ile tsa bonahala, mme motheo wa lefatshe wa senkoa, ka kgalefo ya hao, Yahwe, ka phetumoloho ya ruakh ya nko ya hao.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "mme di ile tsa bonahala"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ditela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tsa metsi"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "mme wa senkoa"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "wa lefatshe"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "ka kgalefo ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "ka phetumoloho"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ya ruakh"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ya nko ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:06.232108280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ke a kgutla, ke bona ⟨את⟩ ⟨⟩hebelele tlase ho letsatsi.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Mme ke a kgutla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebele"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlase ho"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:02.776652038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme mahlo a baholang a ke ke a fifala, mme ditsebe tsa bamelang di tla mamela hantle.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ... a ke ke a"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "a fifala"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "a baholang"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "mme ditsebe"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "tsa bamelang"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "di tla mamela hantle"
+    }
+  ],
+  "timestamp": "2026-10-03T08:43:22.738230931Z",
+  "model": "glm-5.3"
+}

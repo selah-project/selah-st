@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Tshelesele e tla rua ⟨את⟩ ditlhare tsa hao kaofela le ⟨את⟩ sejalo sa mobu wa hao.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ditlhare tsa hao"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "le sejalo"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "sa mobu wa hao"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "e tla rua"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "tshelesele"
+    }
+  ],
+  "timestamp": "2026-10-03T06:59:26.147374191Z",
+  "model": "glm-5.3"
+}

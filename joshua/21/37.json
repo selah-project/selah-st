@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kedemote le ⟨את⟩ maphata a yona, le ⟨את⟩ Mefaate le ⟨את⟩ maphata a yona; metse e meraro e nne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemote"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "maphata a yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "maphata a yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mefaate"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "maphata a yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "maphata a yona"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "e nne"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:12.064405889Z",
+  "model": "glm-5.3"
+}

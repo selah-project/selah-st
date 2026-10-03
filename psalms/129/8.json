@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 129,
+  "translation": "mme ba sepelang ba sa re: Tsebeo ya Yahwe e be le lona; re le loka ⟨אתכם⟩ ka lebitso la Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "re"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ba sepelang"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "Tsebeo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "e be le lona"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "re le loka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka lebitso la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:43.040515698Z",
+  "model": "glm-5.3"
+}

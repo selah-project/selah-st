@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 143,
+  "translation": "Hobane mohanyetsi o phedisitse moya wa ka, o phatlalalitse lefatshe bophelo ba ka, o mpontshitse ho phela lefifing, jwalo ba shoeileng ba khale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "o phedisitse"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mohanyetsi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "o phatlalalitse"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "bophelo ba ka"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "o mpontshitse ho phela"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "lefifing"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "jwalo ba shoeileng"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ba khale"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:58.575968045Z",
+  "model": "glm-5.3"
+}

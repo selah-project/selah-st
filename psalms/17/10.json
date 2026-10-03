@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mafura a bona ⟨a hlaketse menoelo ea bona⟩; molomo wa bona o bolela ka kgodumo.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "mafura a bona"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ba a hlaketse"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "molomo wa bona"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "o bolela"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ka kgodumo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:48.574511470Z",
+  "model": "glm-5.3"
+}

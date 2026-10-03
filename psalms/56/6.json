@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "translation": "Letsatsi lohle ba feto-fetosa mantswe a ka; maikutlo a bona ohle a kgahlanong le 'na bakeng sa bobe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ohl-"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi lohle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe a ka"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "ba feto-fetosa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a kgahlanong le 'na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "maikutlo a bona"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "bakeng sa bobe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:08.311002963Z",
+  "model": "glm-5.3"
+}

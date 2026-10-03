@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme a hlabe ⟨את⟩ mongwe wa dikgomo pel'a Yahwe; mme barwa ba Aharone, baprista, ba tle ba hlahise ⟨את⟩ madi, mme ba phatsime ⟨את⟩ madi hodima alatara ho potolosela, e le pela monyako wa Ohle wa Kopano.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "mme a hlabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongwe wa dikgomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mongwe wa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pel'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "mme ba tle ba hlahise"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "mme ba phatsime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alatara"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potolosela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e le"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pela monyako wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohle"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T12:45:09.012418691Z",
+  "model": "glm-5.3"
+}

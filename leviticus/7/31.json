@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme moprista a chesetse ⟨את⟩ mafura a altareng; mme sehuba se tla ba sa Aharone le bara ba hae.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "a chesetse"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altareng"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "se tla ba sa"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "sehuba"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "le bara ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:08.233528450Z",
+  "model": "glm-5.3"
+}

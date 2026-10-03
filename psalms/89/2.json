@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Hesede ya Yahwe ke ho ea ho se feleng ke tla e bina; ho lokiloeng ho lo ho lokile ho lo ho sa feleng, ho potlana le ho potlana ke tla tsebisa tumelo ya hao ka molomo wa ka.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho ea ho se feleng"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla e bina"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ho potlana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le ho potlana"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ke tla tsebisa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tumelo ya hao"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ka molomo wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:11.600540835Z",
+  "model": "glm-5.3"
+}

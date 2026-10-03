@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 115,
+  "translation": "O tla babedisa ba tshabang Yahwe, banyane hammoho le bagolo.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "o tla babedisa"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ba tshabang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "banyane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hammoho le"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "bagolo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:15.204080788Z",
+  "model": "glm-5.3"
+}

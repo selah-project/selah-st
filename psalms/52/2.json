@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Ha Doege Mmuadomi a fihla, a phatlalatsa ho Shaule, mme a mo re: Dawide o fihlile ntlong ea Akhimeleke.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Ha a fihla"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doege"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Mmuadomi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a phatlalatsa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ho Shaule"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o fihlile"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntlong ea"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimeleke"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:04.734709472Z",
+  "model": "glm-5.3"
+}

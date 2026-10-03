@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Hobane mohlolohadi oa bona o matla, yena o tla lwa ⟨את⟩ kgetho ea bona ⟨את⟩ le wena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "mohlolohadi oa bona"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "o matla"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "o tla lwa kgetho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgetho ea bona"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "kgetho ea bona"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:15:32.204878974Z",
+  "model": "glm-5.3"
+}

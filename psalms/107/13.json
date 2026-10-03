@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Mme ba llela Yahwe bongateng ba bona; ho tswa dikgathalong tsa bona o ba pholosa.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ba llela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "bongateng"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ho tswa dikgathalong tsa bona"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "o ba pholosa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:17.133659117Z",
+  "model": "glm-5.3"
+}

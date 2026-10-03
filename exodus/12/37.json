@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 12:37",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme barwa ba Yisraele ba tswa Ramesese ba ya Sukote, e ka ba dikete tse tsheletseng tsa banna ba maoto, feela ntle le bana banyane.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ba tswa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "Ramesese"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "ba ya Sukote"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "e ka ba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dikete tse tsheletseng tsa (mekhahlelo e tsheletseng)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "banna ba maoto"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "feela"
+    },
+    {
+      "surface": "מטף",
+      "gloss": "ntle le bana banyane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:45.132627696Z",
+  "model": "glm-5.3"
+}

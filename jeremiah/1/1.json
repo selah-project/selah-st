@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mantswe a Yiremeyahu, mora wa Khilkiyahu, a bakeng sa baprista ba neng ba le Anatote, sebakeng sa Binyamine.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mantswe a"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yiremeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khilkiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a bakeng sa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng ba le"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "Anatote"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamine"
+    }
+  ],
+  "timestamp": "2026-10-03T13:02:10.981788399Z",
+  "model": "glm-5.3"
+}

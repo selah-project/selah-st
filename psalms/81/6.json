@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Paki O ile a e beha hodima Yosefe, ka tsoalo ya hae hodima lefatshe la Mitsrayime; moro oo neng ke sa mo tseba, ha ke utlwa.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Paki"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "hodima Yosefe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "O ile a e beha"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "ka tsoalo ya hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "moro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha... ke sa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "neng ke sa mo tsebe"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ha ke utlwa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:42.586735893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Bonang, ke beile pele ga lona ⟨את⟩ lefatshe; keng, le laole ⟨את⟩ lefatshe leo Yahwe a hlotseng ho bo-ntate ba lona, ho Abrahame, ho Yitshake le ho Yaakobo, ho le fa lona le ho lefa peo ya lona kamora ho lona.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke beile"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "keng"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "le laole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe leo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a hlotseng ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ho bo-ntate ba lona"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ho Abrahame"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ho Yitshake"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "le ho Yaakobo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ho le fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "le ho lefa peo ya lona"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "kamora ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:42:55.661248594Z",
+  "model": "glm-5.3"
+}

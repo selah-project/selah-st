@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme ka fana ka Yitshake ⟨את⟩ Yaakobo le ⟨את⟩ Esawe; mme ka neha Esawe ⟨את⟩ thaba ea Seire ho e nka e le tsa hae; mme Yaakobo le bana ba hae ba theohela Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Mme ka neha"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ho Yitshake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Esawe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mme ka neha"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba ea Seire"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ea Seire"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ho e nka e le tsa hae"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "mme Yaakobo"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba hae"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ba theohela"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T07:16:26.013856953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "mme a mo re: Jwalo o ile a bolela Yiftakhe: Yisraele ha a a nka ⟨את⟩ lefatshe la Moaba, le ⟨את⟩ lefatshe la bana ba Amona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Jwalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o ile a bolela"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a a"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Moaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe la"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lefatshe la bana ba Amona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:24:08.297615212Z",
+  "model": "glm-5.3"
+}

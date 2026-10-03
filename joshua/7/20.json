@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Akhane a araba ⟨את⟩ Yehoshua, a re: Ruri, nna ke ile ka loka hore ke se loke ho Yahwe, Elohim wa Yisraele, mme se jwalo le se jwalo ke ile ka se etsa.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akhane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ke ile ka loka hore ke se loke"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "se jwalo"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "le se jwalo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke ile ka se etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T07:07:38.197689166Z",
+  "model": "glm-5.3"
+}

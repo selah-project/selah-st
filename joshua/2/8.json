@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme ba sa ntse ba sa robale, eena o ile a ea hodima ho bona, hodima ⟨the⟩ thoko.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ba sa ntse"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "ba sa robale"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mme eena"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "o ile a ea hodima"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "thoko"
+    }
+  ],
+  "timestamp": "2026-10-03T07:03:38.124094696Z",
+  "model": "glm-5.3"
+}

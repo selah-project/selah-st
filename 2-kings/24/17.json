@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme morena wa Babeli a etsa hore ⟨את⟩ Matanyá, malome wa hae, e be morena sebakeng sa hae, mme a fetola ⟨את⟩ lebitso la hae ho ba Tsidkiáhu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "a etsa hore ... e be morena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanyá"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanyá"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "malome wa hae"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sebakeng sa hae"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "mme a fetola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la hae"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiáhu"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:43.514851448Z",
+  "model": "glm-5.3"
+}

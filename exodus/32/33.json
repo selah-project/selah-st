@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme Yahwe a re ho Moshe: Ya o pelaelo a ka khahlang ho Mna, o tla mo phimola ho tlung ya ka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ya o pelaelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a ka khahlang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho Mna"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "o tla mo phimola"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "ho tlung ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:58:46.724512255Z",
+  "model": "glm-5.3"
+}

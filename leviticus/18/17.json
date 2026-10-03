@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Bohlano ba mosali le moradi wa hae, o se ke wa bo senola; ⟨את⟩ moradi wa mora wa hae le ⟨את⟩ moradi wa moradi wa hae, o se ke wa mo nka ho senola bohlano ba hae; haholo-holo ke balekane ba madi ba hae; ke bosulu.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "bohlano"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "le moradi wa hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "wa bo senola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moradi wa mora wa hae"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wa mora wa hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "moradi wa moradi wa hae"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "wa moradi wa hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wa mo nka"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ho senola"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "bohlano ba hae"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "balekane ba madi ba hae"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "haholo-holo ke"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "bosulu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    }
+  ],
+  "timestamp": "2026-10-03T06:13:31.068646463Z",
+  "model": "glm-5.3"
+}

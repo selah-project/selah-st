@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "O se ke wa nyalla le tsona: moradi wa hao o se ke wa mo neha mora wa bona, mme moradi wa bona o se ke wa mo nka bakeng sa mora wa hao.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "O se ke"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "wa nyalla"
+    },
+    {
+      "surface": "בם",
+      "gloss": "le tsona"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "moradi wa hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wa mo neha"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "mora wa bona"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "mme moradi wa bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wa mo nka"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "bakeng sa mora wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:46:41.548348970Z",
+  "model": "glm-5.3"
+}

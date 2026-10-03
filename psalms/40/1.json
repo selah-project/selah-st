@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Ho ea ka moetapele wa koano. Sephla sa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho ea ka moetapele wa koano"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Sephla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:39.717458725Z",
+  "model": "glm-5.3"
+}

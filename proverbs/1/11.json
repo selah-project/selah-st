@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ha ba re: Tla o tle ⟨את⟩ rona, re tlo phetha mefufutso ya madi, re tlo lebella ba hlokahalang ntle le lebaka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Tla"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "rona"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "re tlo phetha mefufutso"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ya madi"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "re tlo lebella"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "ba hlokahalang"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ntle le lebaka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:59.832373799Z",
+  "model": "glm-5.3"
+}

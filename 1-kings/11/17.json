@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Hadade a baleka, yena le banna ba Edome, ba bang ba baleki ba ntatae, le ⟨את⟩ yena, ba ea Mitsrayime; mme Hadade e ne e le mosanyane wa bonyane.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "a baleka"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "le banna"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "ba Edome"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ba baleki ba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntatae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le ⟨את⟩ yena"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ba ea"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "mme Hadade"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mosanyane"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "wa bonyane"
+    }
+  ],
+  "timestamp": "2026-10-03T08:10:15.903459113Z",
+  "model": "glm-5.3"
+}

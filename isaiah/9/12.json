@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme sechaba ha se a khutlela ho ya mo otlang, mme ⟨את⟩ Yahwe Tsebaote ba be ba sa mo batle.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "mme sechaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a khutlela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "mo otlang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "Yahwe Tsebaote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ba be ba sa batle"
+    }
+  ],
+  "timestamp": "2026-10-03T08:35:32.346823406Z",
+  "model": "glm-5.3"
+}

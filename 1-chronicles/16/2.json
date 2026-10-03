@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme Dawide a qeta ho hlahisa ⟨את⟩ di-olae le diphophotho, mme a hloekisa ⟨את⟩ setjhaba ka lebitso la Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "a qeta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "ho hlahisa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "di-olae"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "diphophotho"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a hloekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka lebitso la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:16:24.235427659Z",
+  "model": "glm-5.3"
+}

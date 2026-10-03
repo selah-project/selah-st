@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Moshe a tlolosa ⟨את⟩ seatla sa hae hodima mahodimo; mme go ba le lefifi le letjhabo hodima lefatshe lohle la Mitsrayime, matsatsi a mararo.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "a tlolosa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa hae"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme go ba"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "letjhabo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hodima ... lohle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:43:00.289394388Z",
+  "model": "glm-5.3"
+}

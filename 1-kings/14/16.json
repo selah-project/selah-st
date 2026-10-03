@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme o tla neha ⟨את⟩ Yisraele kaholang, ka baka la libe tsa Yaroveame tseo a li etsitseng, le tseo a bakaletseng Yisraele ka tsona.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o tla neha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "libe"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "tsa Yaroveame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a li etsitseng"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le tseo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "a bakaletseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:11:46.371081016Z",
+  "model": "glm-5.3"
+}

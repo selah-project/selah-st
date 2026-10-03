@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Na wena ha o a ka wa mo dikela, le ya ntlo ya hae, le ya tsohle ya hae, mahlakoreng ohle? O bileletse mesebetsi ya matsogo a hae, mehlape ya hae e pharalletse lefatsheng.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Na"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "ha o a ka wa mo dikela"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "le ya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya hae"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "le ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a nang le yona"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "mahlakoreng ohle"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mesebetsi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya matsogo a hae"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "o bileletse"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "mehlape ya hae"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "e pharalletse"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:19:16.273898943Z",
+  "model": "glm-5.3"
+}

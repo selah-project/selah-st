@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Empa u ⟨⟨e halalelang⟩⟩, u dulang hodima dithoriso tsa Yisraele.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Empa u"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "e halalelang"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "u dulang"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "hodima dithoriso"
+    },
+    {
+      "surface": "יושב תהלות",
+      "gloss": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "tsa Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:23.259489982Z",
+  "model": "glm-5.3"
+}

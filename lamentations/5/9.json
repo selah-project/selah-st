@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ka mebelelo ya rona re isa borotho ba rona, ka baka la sefofane sa naha e omileng.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ka mebelelo ya rona"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "re isa"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "borotho ba rona"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sefofane"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sa naha e omileng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:22.252059051Z",
+  "model": "glm-5.3"
+}

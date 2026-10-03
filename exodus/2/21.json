@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Moshe a dula a ikgethile ⟨את⟩ ho ba le monna eo, mme a mo neha ⟨את⟩ Tsefora mora wa hae Moshe.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "a dula a ikgethile"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ho ba le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna eo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna eo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a mo neha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsefora"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:08.419784848Z",
+  "model": "glm-5.3"
+}

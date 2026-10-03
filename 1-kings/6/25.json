@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme kerube ya bobeli e ne e le di-ama tse leshome: tekanyo e le nngwe le sebopeho se le seng bakeng sa kerube tse pedi.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "e ne e le di-ama tse leshome"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka ama"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerube"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya bobeli"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "tekanyo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "le sebopeho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le seng"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "bakeng sa tse pedi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerube"
+    }
+  ],
+  "timestamp": "2026-10-03T08:04:55.935965529Z",
+  "model": "glm-5.3"
+}

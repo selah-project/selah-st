@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Molamu wa boikhantsibo o ka molomong wa sefoole; mme molomo wa bahlalefi o ba sireletsa.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "o ka molomong"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "wa sefoole"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "molamu"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "wa boikhantsibo"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "mme molomo"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wa bahlalefi"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "o ba sireletsa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:10:28.875606837Z",
+  "model": "glm-5.3"
+}

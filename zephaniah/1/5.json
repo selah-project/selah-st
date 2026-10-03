@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ ba khumamang holima ditorong ho tšaba ya mahodimo, le ⟨את⟩ ba khumamang ba hlamileng kapaletsa Yahwe, le ba hlamileng ka Malkame.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba khumamang"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ba khumamang"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "ditorong"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ho tšaba ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba khumamang"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ba khumamang"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "ba hlamileng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kapaletsa Yahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "le ba hlamileng"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ka Malkame"
+    }
+  ],
+  "timestamp": "2026-10-03T10:15:37.145490298Z",
+  "model": "glm-5.3"
+}

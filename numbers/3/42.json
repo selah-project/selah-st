@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Moshe a bala, jwaloka Yahwe a ⟨את⟩ mo laetse, ⟨את⟩ bongata ba ba-beletsoeng pele hara bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "a bala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bongata ba ba-beletsoeng pele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bongata ba"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "ba-beletsoeng pele"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "hara bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T06:20:43.346218883Z",
+  "model": "glm-5.3"
+}

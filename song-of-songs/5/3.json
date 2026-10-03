@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ke apotse kotse ya ka ⟨את⟩; ke ka e apara jwang hape? Ke tlhotse ⟨את⟩ maoto a ka; ke ka a hlahlamisa jwang?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "Ke apotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kotse ya ka"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "kotse ya ka"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "jang"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "ke ka e apara hape"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "Ke tlhotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maoto a ka"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "jang"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "ke ka a hlahlamisa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:36:04.723876223Z",
+  "model": "glm-5.3"
+}

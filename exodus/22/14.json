@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Haeba monga eona a le haufi le eona, a se ke a lefola; haeba e hirilwe, e tlile ka moputso wa eona.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haeba"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "monga eona"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a le haufi le eona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke a"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "lefola"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "e hirilwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e tlile"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "ka moputso wa eona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:07.532438575Z",
+  "model": "glm-5.3"
+}

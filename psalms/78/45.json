@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "O ile a romella ho bona mohlala oa dintshi, o ile oa ba ja; le leqhobo, o ile oa ba senya.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "o ile a romella"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mohlala oa dintshi"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "o ile oa ba ja"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "le leqhobo"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "o ile oa ba senya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:46.481898476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 67,
+  "translation": "Elohim o tla re hlohonolofatsa, mme makgetlo ohle a lefatshe a tla mo tshaba ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "o tla re hlohonolofatsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mme ... a tla mo tshaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "yena (Elohim)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "makgetlo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:19.255730871Z",
+  "model": "glm-5.3"
+}

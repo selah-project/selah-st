@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Bakeng sa moeta-pele; wa Dawide; mokoari, koetela.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "bakeng sa moeta-pele"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoari"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "koetela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:37.394484764Z",
+  "model": "glm-5.3"
+}

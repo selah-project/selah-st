@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "mme re ile ra re: A re etseng rona ho bōpa ⟨את⟩ altare; eseng bakeng sa sehlabelo se sotlang haholo le eseng bakeng sa ho hlabela.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "mme re ile ra re"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "A re etseng"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hlokomela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ho bōpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "sehlabelo se sotlang haholo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le eseng"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ho hlabela"
+    }
+  ],
+  "timestamp": "2026-10-03T07:15:01.478034036Z",
+  "model": "glm-5.3"
+}

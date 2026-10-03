@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme jwale, ke tla tsebisa ⟨את⟩ lona ⟨את⟩ seo ke se etsang serapeng sa ka sa Dinose: tlosang mokotla wa sona, mme se tla ba se jeoang; phulang leboto la sona, mme se tla ba setlamorao.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ke tla tsebisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kholo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo ke se etsang serapeng sa ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "se etsang"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "serapeng sa ka sa Dinose"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "tlosang"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "mokotla wa sona"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme se tla ba"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "se jeoang"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "phulang"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "leboto la sona"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme se tla ba"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "setlamorao"
+    }
+  ],
+  "timestamp": "2026-10-03T08:34:28.520529893Z",
+  "model": "glm-5.3"
+}

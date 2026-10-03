@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Dumang, ba dulang sebakeng sa lewatle; morekisi wa Tsidone, o fapafapaneng lewatle, o tlatsitsoe.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Dumang"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "אי",
+      "gloss": "sebakeng sa lewatle"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "morekisi"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "wa Tsidone"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "o fapafapaneng"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "o tlatsitsoe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:48.204169706Z",
+  "model": "glm-5.3"
+}

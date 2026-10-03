@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Ha mophato o ka phalla khahlanong le 'na, pelo ya ka e ke ke ea tšoha; ha ntoa e ka tsuola khahlanong le 'na, ke tla tsitla ho 'na.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "o ka phalla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "khahlanong le 'na"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "mophato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ea"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "tšoha"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "e ka tsuola"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "khahlanong le 'na"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ho se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "tla tsitla ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:33.175707341Z",
+  "model": "glm-5.3"
+}

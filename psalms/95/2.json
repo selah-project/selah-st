@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 95,
+  "translation": "Re tle pele ho sefahleho sa hae ka teboho, ka dikoeka re hlolle ho yena.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Re tle pele"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ho sefahleho sa hae"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ka teboho"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "ka dikoeka"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "re hlolle"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:28.150962468Z",
+  "model": "glm-5.3"
+}

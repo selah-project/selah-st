@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Bonang, ke entse ⟨את⟩ sefahleho sa hau se matla pakisano le lifahleho tsa bona, le ⟨את⟩ phogla ea hau e matla pakisano le liphogla tsa bona.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke entse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa hau"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hau"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "se matla"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "pakisano le"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "lifahleho tsa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "phogla ea hau"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "phogla ea hau"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "e matla"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "pakisano le"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "liphogla tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:34:00.202056224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 131,
+  "translation": "Pina ya maeto, ya Dawide. Yahwe, pelu ya ka e sa phahame, mahlo a ka a sa hodime, mme ha ke tsamae dinthong tse kgolo le dipelletong tse kgahlanong le nna.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maeto"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "phahame"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelu ya ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "hodime"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ke tsamae"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "dinthong tse kgolo"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "le dipelltong"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kgahlanong le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:14.339065297Z",
+  "model": "glm-5.3"
+}

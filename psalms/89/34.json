@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Empa hesede ya ka nke ke e robole ho tloha ho yena, mme nke ke qhekisa tumelo ya ka.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "empa hesede ya ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nke ke"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "e robole"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ho tloha ho yena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme nke ke"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "qhekisa"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "tumelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:49.477101692Z",
+  "model": "glm-5.3"
+}

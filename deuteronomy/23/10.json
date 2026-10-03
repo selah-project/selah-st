@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ha kampu e tswa kgahlanong le dira tsa lona, o tla iphetla hore o se ke wa etsa sebbe se mpe le se le seng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "e tswa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dira tsa lona"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "o tla iphetla"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho sebbe se seng le se seng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e mpe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:23.618480390Z",
+  "model": "glm-5.3"
+}

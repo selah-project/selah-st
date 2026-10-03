@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme jwalo o ne a etsa selemo ka selemo, ho tloha moo a еlang ka ntlong ya Yahwe, jwale o ne a mo tsosa kgalefo; mme o ile a lla, a sa je.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "mme jwalo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o ne a etsa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ka selemo"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ho tloha moo"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "a еlang"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "o ne a mo tsosa kgalefo"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "mme o ile a lla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "a je"
+    }
+  ],
+  "timestamp": "2026-10-03T07:31:22.258510003Z",
+  "model": "glm-5.3"
+}

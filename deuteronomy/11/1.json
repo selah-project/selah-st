@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme o rate ⟨את⟩ Yahwe Elohim ya hao, mme o hlokomelise taelo ya hae, le dikgetho tsa hae, le dikahlolo tsa hae, le ditaelo tsa hae, metsotsoana yohle.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Mme o rate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "mme o hlokomelise"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "taelo ya hae"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "le dikgetho tsa hae"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "le dikahlolo tsa hae"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "le ditaelo tsa hae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "metsotsoana"
+    }
+  ],
+  "timestamp": "2026-10-03T06:49:41.519320456Z",
+  "model": "glm-5.3"
+}

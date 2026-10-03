@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Hanune a tseere ⟨את⟩ baromuwa ba Dawide, a rala ⟨את⟩ seripa sa dimpho tsa bona, a rile ⟨את⟩ dikobo tsa bona ka bohaleng ho fihlela dintho tsa bona, a ba romela.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tseere"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baromuwa ba Dawide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "baromuwa ba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "a rala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seripa sa dimpho tsa bona"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "seripa sa"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "dimpho tsa bona"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "a rile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikobo tsa bona"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "dikobo tsa bona"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ka bohaleng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "dintho tsa bona"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "a ba romela"
+    }
+  ],
+  "timestamp": "2026-10-03T07:50:28.564745905Z",
+  "model": "glm-5.3"
+}

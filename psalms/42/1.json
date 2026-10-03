@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Ho moetapele; pina ea rutang, ea bana ba Korake.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moetapele"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pina ea rutang"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ea bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korake"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:15.733042987Z",
+  "model": "glm-5.3"
+}

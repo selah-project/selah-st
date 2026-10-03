@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Dawide a nka ⟨את⟩ diaere tsa gauta tse neng di le ho balebi ba Hadadezere, mme a di isa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaere tsa gauta"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "diaere"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di neng di le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "balebi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezere"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "a di isa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T07:49:15.267767026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme o ile a na ka mane ho ba hore ba je, mme a ba fa ⟨את⟩ poone ya mahodimo.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "a na ka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ho ba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mane"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "hore ba je"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "poone"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ya mahodimo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:55.320173643Z",
+  "model": "glm-5.3"
+}

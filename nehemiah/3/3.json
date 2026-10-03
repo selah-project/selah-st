@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ⟨את⟩ sekepe sa tlhapi ba se ahile bana ba Hasenaa; ba ile ba se beha, mme ba emisa matsibo a sona, notlolle tsa sona le dipale tsa sona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "sekepe sa tlhapi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sekepe"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "sa tlhapi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ba ahile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenaa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "ba se beha"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "ba emisa"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "matsibo a sona"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "notlolle tsa sona"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "le dipale tsa sona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:04:21.240032983Z",
+  "model": "glm-5.3"
+}

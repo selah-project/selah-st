@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Diphoso tsa hae di tla mo tshwara ⟨את⟩ yo mokafo, mme o tla tshwarwa ka dikagareng tsa sebe sa hae.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "diphoso tsa hae"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "di tla mo tshwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo mokafo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "yo mokafo"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "mme ka dikagareng tsa"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sebe sa hae"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "o tla tshwarwa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:53.534049544Z",
+  "model": "glm-5.3"
+}

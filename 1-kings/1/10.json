@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Empa ⟨את⟩ Natane moporofeta, le Benajahu, le ⟨את⟩ batla ba matla, le ⟨את⟩ Shelomoe moena oa hae, ha aa ba bitla.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "empa ⟨את⟩",
+      "marks": "Natane moporofeta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natane"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeta"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "le Benajahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "batla ba matla"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "batla ba matla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Shelomoe moena oa hae"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "moena oa hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "aa bitla"
+    }
+  ],
+  "timestamp": "2026-10-03T08:00:32.608747152Z",
+  "model": "glm-5.3"
+}

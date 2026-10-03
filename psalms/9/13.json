@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Hobane Ea-batlang madi o ile a khumbula ⟨את⟩ bona; a sa lebala kōho ea ba hlokang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Ea-batlang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "o ile a khumbula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "kōho"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ea ba hlokang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:00.565829003Z",
+  "model": "glm-5.3"
+}

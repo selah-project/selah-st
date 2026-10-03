@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Ho mohlahisi, ho ya ka Shoshanim, ho bana ba Korache, moeletsi, pina ya lerato.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho mohlahisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ya ka"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshanim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korache"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "moeletsi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "ya lerato"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:25.365841326Z",
+  "model": "glm-5.3"
+}

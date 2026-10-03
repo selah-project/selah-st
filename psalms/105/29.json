@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "O fetola ⟨את⟩ metsi a bona e be madi, mme a bolaisa ⟨את⟩ tlhapi tsa bona.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "O fetola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsi a bona"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "metsi a bona"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "e be madi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mme a bolaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhapi tsa bona"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "tlhapi tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:24.083746027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Thabo ya ba mo ts'abang o e etsa, mme ⟨את⟩ lle la bona o a utlwa, mme o ba boloka.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Thabo"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ya ba mo ts'abang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o e etsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lle la bona"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "lle la bona"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "o a utlwa"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "mme o ba boloka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:39.239235565Z",
+  "model": "glm-5.3"
+}

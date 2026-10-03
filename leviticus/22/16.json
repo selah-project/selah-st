@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme ba ba hlola bohlale ba bobe ba ho etsa phoso, ka ho ja ⟨את⟩ diltho tsa bona tse halalelang; hobane ke nna Yahwe, ea li halaletsang.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "Mme ba ba hlola"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bohlale ba bobe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bohlale ba bobe"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "ba ho etsa phoso"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "ka ho ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diltho tsa bona tse halalelang"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "diltho tsa bona tse halalelang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ea li halaletsang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:20.634787706Z",
+  "model": "glm-5.3"
+}

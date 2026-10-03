@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Eena u robetse, u robale, u tsosoa; hobane Yahwe o a Ntšehetsa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Eena"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "u robetse"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "u robale"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "u tsosoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "o a Ntšehetsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:38.668278611Z",
+  "model": "glm-5.3"
+}

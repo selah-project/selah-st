@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Pelo ya hlakela e ho ya hoja, mme pelo ya sekhohole e ho monahong.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "pelo ya"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hlakela"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "e ho ya hoja"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "mme pelo ya"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sekhohole"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "e ho monahong"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:37.668723344Z",
+  "model": "glm-5.3"
+}

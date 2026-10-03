@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 82,
+  "translation": "Sesoha, Elohim, kgetha lefatshe, hobane uena o tla ba boswa ba dikhabohadi tsohle.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sesoha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "kgetha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "o tla ba boswa ba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dikhabohadi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:53.455554165Z",
+  "model": "glm-5.3"
+}

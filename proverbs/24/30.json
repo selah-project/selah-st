@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Ka sefeng sa motho ya ikhutsitseng ke feta, le ka serapeng sa motho ya tlala ke pelo, mme ke bona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sefeng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa motho"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ya ikhutsitseng"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ke feta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "serapeng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa motho"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ya tlala ke"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:15:57.924073400Z",
+  "model": "glm-5.3"
+}

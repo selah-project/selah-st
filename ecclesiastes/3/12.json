@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ke tseba hore ha ho molemo ho bona, kantle le ho thaba le ho etsa molemo bophelong ba bona.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ke tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "kantle le"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "ho thaba"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "le ho etsa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "bophelong ba bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:07.643160329Z",
+  "model": "glm-5.3"
+}

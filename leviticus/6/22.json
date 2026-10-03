@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Banna bohle hara baprista ba ka e ja ⟨את⟩ yona; kgalalelo ya dikgalalelo ke yona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "banna"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "hara baprista"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ba ka e ja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya dikgalalelo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:45.896481566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "O bohalaleli ⟨ha ho shwane: bobe⟩ — a re re: O teng ya lokileng ha motho ya beileng Yahwe e le tshepo ya hae, mme a sa machabe ho ya ho ba tenseng, le ba tsamaisang machabe ho leshano.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "O bohalaleli ⟨ya lokileng⟩"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ha motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "beileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "tshepo ya hae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "machabe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "ba tenseng"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "le ba tsamaisang machabe"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "leshano"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:03.277636997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Hobane ruakh e feta hodima ona, mme ⟨o se ke wa⟩ ba teng; mme sebakeng sa hae se ke ke sa mo tseba hape.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "e feta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hodima ona"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "mme ⟨o se ke wa⟩ ba teng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme se ke"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "sa mo tseba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "sebakeng sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:06.826807540Z",
+  "model": "glm-5.3"
+}

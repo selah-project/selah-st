@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Molomo oaka o tla thabela ho opella ho wena, le moea oaka, oo o o lokollotseng.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "o tla thabela"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "Molomo oaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke opella"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "le moea oaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "o o lokollotseng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:40.691750381Z",
+  "model": "glm-5.3"
+}

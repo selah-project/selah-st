@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "⟨את⟩ Dihatagata tsa ka tsa Shabata le tlose, le ⟨את⟩ sehalalelo sa ka le tšabe; nna ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dihatagata tsa ka tsa Shabata"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Dihatagata tsa ka tsa Shabata"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "le tlose"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "sehalalelo sa ka"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "le tšabe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:16.506584404Z",
+  "model": "glm-5.3"
+}

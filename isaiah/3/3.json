@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Molaoli wa masome a hlano, le ya amohelwang ⟨difahlehong⟩, le moeletsi, le ya hlakileng balekanelong, le ya utlwisisang ho ts'oara.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "molaoli"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masome a hlano"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "le ya amohelwang"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "difahleho"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "le moeletsi"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "le ya hlakileng"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "balekanelong"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "le ya utlwisisang"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ho ts'oara"
+    }
+  ],
+  "timestamp": "2026-10-03T13:00:18.556759573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Lentswe la Yahwe le neng le tlile ho Yoele, mora wa Pethuele.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le neng le"
+    },
+    {
+      "surface": "היה",
+      "gloss": "le tlile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoele"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "wa Pethuele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:03:37.189971876Z",
+  "model": "glm-5.3"
+}

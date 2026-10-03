@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "O rata tsedeke le kahlolo; lefatshe le a tshelela hesede ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "O rata"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "le a tshelela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:04.253525492Z",
+  "model": "glm-5.3"
+}

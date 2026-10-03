@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme o iketse Yahwe, o tla o fa dikopo tsa pelo ya hau.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Mme o iketse"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o tla o fa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "dikopo tsa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ya hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:14.862461316Z",
+  "model": "glm-5.3"
+}

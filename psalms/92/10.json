@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "Hobane bonang, dira tsa hao, Yahwe; hobane bonang, dira tsa hao di tla nyamela; ba etsang bohle bo bositso ba tla hohlakana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dira tsa hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dira tsa hao"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "di tla nyamela"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "ba tla hohlakana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "baohle"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "און",
+      "gloss": "bohle bo bositso"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:08.251813759Z",
+  "model": "glm-5.3"
+}

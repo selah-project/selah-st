@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "A bopa ⟨את⟩ Beit-Lecheme, le ⟨את⟩ Etame, le ⟨את⟩ Tekoa;",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "A bopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Lecheme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lecheme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Etame"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tekoa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    }
+  ],
+  "timestamp": "2026-10-03T12:25:33.953417389Z",
+  "model": "glm-5.3"
+}

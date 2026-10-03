@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ba tla tla, mme ba tla phatlalatsa tsedeke ea hae, ho sechaba se tlang ho tswalwa, hobane o ile a e etsa.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "ba tla tla"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "mme ba tla phatlalatsa"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedeke ea hae"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ho sechaba"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "se tlang ho tswalwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ile a e etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:23.734916881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Lentswe la Yahwe le hlohlelletsa naha e se nang letho; Yahwe o hlohlelletsa naha e se nang letho ya Kadeshe.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "le hlohlelletsa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "naha e se nang letho"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "o hlohlelletsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "naha e se nang letho ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:43.048335906Z",
+  "model": "glm-5.3"
+}

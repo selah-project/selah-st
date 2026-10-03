@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Tla, re mphe mmetla ntat'a rona, mme re robale le yena, hore re boloke peo e tswang ho ntat'a rona.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Tla"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "re mphe mmetla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntat'a rona"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ntat'a rona"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mmetla"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "re robale"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le yena"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "re boloke"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "e tswang ho ntat'a rona"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:25:36.035491846Z",
+  "model": "glm-5.3"
+}

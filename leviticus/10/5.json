@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ba atamela, mme ba ba phahamisa ka diketane tsa tsona, ho ya kantle ho molekane, jwalo ka ha Moshe a bile a bolela.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ba atamela"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ba ba phahamisa"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "ka diketane tsa tsona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kantle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ho molekane"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bile a bolela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:07:50.550509073Z",
+  "model": "glm-5.3"
+}

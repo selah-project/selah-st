@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 12:5",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ba-Gileade ba nka ⟨את⟩ dipha tsa Yoridane ho tla ho Efraime; mme e bile ha baphalalitsoeng ba Efraime ba re: A ke fete, ba-Gileade ba re ho yena: Na u Efrate? mme a re: Che.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ba nka"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ba-Gileade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipha tsa Yoridane"
+    },
+    {
+      "surface": "מעברות",
+      "gloss": "dipha"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "tsa Yoridane"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ho tla ho Efraime"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e bile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "פליטי",
+      "gloss": "baphalalitsoeng"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ba Efraime"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "A ke fete"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ba-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileade"
+    },
+    {
+      "surface": "האפרתי",
+      "gloss": "Efrate"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Che"
+    }
+  ],
+  "timestamp": "2026-10-03T12:52:46.070109120Z",
+  "model": "glm-5.3"
+}

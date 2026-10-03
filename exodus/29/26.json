@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 29:26",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme o tla nka ⟨את⟩ sefuba sa thoromo ea melao ea mafube, eo e leng ea Aharone, mme ⟨את⟩ o e shuthisetsa e le ho tsehla pel'a Yahwe; mme e tla ba ea hao e le karolo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tla nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefuba"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "sefuba"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "thoromo"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ea melao ea mafube"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e leng"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ea Aharone"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "mme o e shuthisetsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "o e shuthisetsa ⟨את⟩",
+      "marks": "ho tsehla"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "e le ho tsehla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pel'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ea hao"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "e le karolo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:58:07.326043703Z",
+  "model": "glm-5.3"
+}

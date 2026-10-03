@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "A re: Ho wena ke tla fa ⟨את⟩ lefatshe la Kenae, karolo ya bojwalo ba lona.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "A re:"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ho wena"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Kenae"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenae"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ya bojwalo ba lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:13.153562430Z",
+  "model": "glm-5.3"
+}

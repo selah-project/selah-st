@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "Ya fang tokoloho ho bomorena, Ya lokollang ⟨את⟩ Dawide mohlanka wa hae ho sefoka se mpe.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Ya fang"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "tokoloho"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ho bomorena"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "Ya lokollang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mohlanka wa hae"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ho sefoka"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "se mpe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:26.520865616Z",
+  "model": "glm-5.3"
+}

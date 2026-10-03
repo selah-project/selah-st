@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Mme e bile jwalo ha a e hlalositse ho rona, jwalo e bile: mna o ile a mpusetela boemong ba ka, mme yena ⟨אתו⟩ o ile a mo tseha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e bile"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ha"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "a e hlalositse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mna",
+      "marks": "mna (a mpusetela)"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "a mpusetela"
+    },
+    {
+      "surface": "על",
+      "gloss": "boemong"
+    },
+    {
+      "surface": "כני",
+      "gloss": "boemong ba ka"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨אתו⟩ yena",
+      "marks": "yena (a mo tseha)"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "a mo tseha"
+    }
+  ],
+  "timestamp": "2026-10-03T05:37:52.331549898Z",
+  "model": "glm-5.3"
+}

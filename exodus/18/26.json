@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme ba ne ba ahlola ⟨את⟩ setjhaba nako eohle; ⟨את⟩ taba e thata ba ne ba e isa ho Moshe, mme ⟨את⟩ taba e nyane kaofela ba ne ba e ahlola bona.",
+  "tokens": [
+    {
+      "surface": "וושפטו",
+      "gloss": "Mme ba ne ba ahlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako eohle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba e thata"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "e thata"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "ba ne ba e isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme kaofela"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "e nyane"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "ba ne ba e ahlola"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:41.869024870Z",
+  "model": "glm-5.3"
+}

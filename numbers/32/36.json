@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Le ⟨את⟩ Beth-Nimrahe, le ⟨את⟩ Beth-Harane; metse e matla, le masaka a ditshiu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Beth-Nimrahe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimrahe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Beth-Harane"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harane"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "e matla"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "le masaka a"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ditshiu"
+    }
+  ],
+  "timestamp": "2026-10-03T06:39:13.918709796Z",
+  "model": "glm-5.3"
+}

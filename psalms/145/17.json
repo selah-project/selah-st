@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Yahwe o lokile dibakeng tsa hae tsohle, mme o tsedekang mesebetsing ya hae yohle.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "o lokile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dibakeng tsohle"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "tsa hae"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "mme o tsedekang"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mesebetsing"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ya hae yohle"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:39.238869077Z",
+  "model": "glm-5.3"
+}

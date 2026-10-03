@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 67,
+  "translation": "Lefatshe le fana ka sejalo sa lona; Elohim, Elohim wa rona, o tla re hlohonolofatsa.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "le fana ka"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sejalo sa lona"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "o tla re hlohonolofatsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:19.255473484Z",
+  "model": "glm-5.3"
+}

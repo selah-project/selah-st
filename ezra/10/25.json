@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ho tswa ho Yisraele: ho bana ba Paroshe, Ramja, le Yizja, le Malkja, le Miamine, le Eleazare, le Malkja, le Benaja.",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "Mme ho tswa ho Yisraele"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Paroshe"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "Ramja"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "le Yizja"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "le Malkja"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "le Miamine"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "le Eleazare"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "le Malkja"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "le Benaja"
+    }
+  ],
+  "timestamp": "2026-10-03T12:00:44.563211973Z",
+  "model": "glm-5.3"
+}

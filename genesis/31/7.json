@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme ntata lona a ntsekisa, mme a fetola ⟨את⟩ moputso wa ka makgetlo a leshome; mme Elohim ha a a mo lumella ho ntshwenya.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "Mme ntata lona"
+    },
+    {
+      "surface": "התל",
+      "gloss": "a ntsekisa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "mme a fetola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moputso wa ka"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "moputso wa ka"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "a leshome"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "makgetlo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "a a lumella"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ho ntshwenya"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T05:33:32.166273439Z",
+  "model": "glm-5.3"
+}

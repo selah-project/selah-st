@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Ya maoto a hlwekileng le ea pelo e hloekileng, ya sa e phahamiseng meea ea hae ho lefeela, ea sa ikannang ka bohele.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "hlwekile"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "maoto a hlwekile"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "e hlokileng"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "e phahamiseng"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ho lefeela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "meea ea hae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ea sa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ikannang"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "ka bohele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:04.986361839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Godisang Yahwe le nna ⟨את⟩, mme re phahamise lebitso la hae mmoho.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Godisang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "le nna ⟨את⟩"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "mme re phahamise"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmoho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:38.411104221Z",
+  "model": "glm-5.3"
+}

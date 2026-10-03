@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme a re ho monna wa hae: Bonang kajeno, ke tsebile hore motho wa Elohim ya halalelang ke yena, ya feta hodima rona kamehla.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "monna wa hae"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke tsebile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho wa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ya halalelang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yena"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ya feta"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hodima rona"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kamehla"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:23.294309987Z",
+  "model": "glm-5.3"
+}

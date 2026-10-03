@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Obadhia a ya ho ea kopana le Ahaba, a mmolelela; mme Ahaba a ya ho ea kopana le Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mme ... a ya"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadhia"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ho ea kopana le"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a mmolelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mme ... a ya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ho ea kopana le"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-10-03T08:13:41.455768256Z",
+  "model": "glm-5.3"
+}

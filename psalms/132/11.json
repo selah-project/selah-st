@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Yahwe o ile a ikana ka 'nete ho Dawide, a ke ke a e khutlisa: Ho tloha mungo wa letsopa la hao Ke tla beha motho setulong sa hao.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "o ile a ikana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho Dawide"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ka 'nete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ke ke a"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "e khutlisa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "e"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ho tloha mungo wa"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "letsopa la hao"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "Ke tla befa"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "setulong"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:22.516693457Z",
+  "model": "glm-5.3"
+}

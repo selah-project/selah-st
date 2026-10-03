@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 112,
+  "translation": "Hantle-ke ⟨e le⟩ mona ya mohauhang mme ya adimisang; o tshwarela merero ya hae ka kahlolo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hantle-ke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mona"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ya mohauhang"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "mme ya adimisang"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "o tshwarela"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "merero ya hae"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:23.959436373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Elohim a bona ⟨את⟩ mesebetsi ya tsona, hore ba boetse ho tsela ya tsona e mpe; mme Elohim a tlwaelela ka ⟨toko⟩ e mpe eo a neng a buile hore o tla e etsa ho tsona, mme ha a a ka a e etsa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mme ... a bona"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesebetsi ya tsona"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "mesebetsi ya tsona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ba boetse"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "ho tsela ya tsona"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "e mpe"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "mme ... a tlwaelela"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "toko e mpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hore o tla e etsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha a a ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a e etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:08:45.497087716Z",
+  "model": "glm-5.3"
+}

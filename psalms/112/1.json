@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 112,
+  "translation": "Halaluka Yah! Tokoloho ya motho ya sesofang ⟨את⟩ Yahwe, ya nang le thabo e kgolo ditaelong tsa hae.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halaluka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Tokoloho ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ya sesofang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "ditaelong tsa hae"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ya nang le thabo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "e kgolo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:59.770355046Z",
+  "model": "glm-5.3"
+}

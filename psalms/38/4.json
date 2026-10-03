@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Ha ho phethoho nama ea ka, ka baka la tshepo ya hao; ha ho khotso masunyana a ka, ka baka la libe tsa ka.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "phethoho"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "nama ea ka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "tshepo ya hao"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "masunyana a ka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "libe tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:13.717907848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Yahwe Elohim wa rona a mo neha pele ho rona; mme ra mo otla, le ⟨את⟩ bana ba hae, le ⟨את⟩ setjhaba sa hae sohle.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "a mo neha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "pele ho rona"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "ra mo otla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba hae"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setjhaba sa hae sohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setjhaba sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:43:31.047593081Z",
+  "model": "glm-5.3"
+}

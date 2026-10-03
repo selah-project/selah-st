@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 97,
+  "translation": "Mesusu ke ba hlanketseng ditshwantsho tse kgopotsweng, ba ikhantsang ka melimo; inameleni yena, lialohime ohle.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mosusu ke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ba hlanketseng"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ditshwantsho tse kgopotsweng"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "ba ikhantsang"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "ka melimo"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "inameleni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lialohime"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:42.371779970Z",
+  "model": "glm-5.3"
+}

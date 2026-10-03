@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 127,
+  "translation": "Cwalo ka molekane ka letsoho la matla, jwalo bana ba botjha.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "cwalo ka molekane"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "la matla"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ba botjha"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:35.017364413Z",
+  "model": "glm-5.3"
+}

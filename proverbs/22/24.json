@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "O se ke wa ikopanya le ⟨את⟩ mong wa halefo, mme le ⟨את⟩ monna wa tletlebo o se ke wa ea.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "ikopanya le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mong wa halefo"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mong wa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "halefo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme le ⟨את⟩",
+      "marks": "monna wa tletlebo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna wa"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "tletlebo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ea"
+    }
+  ],
+  "timestamp": "2026-10-03T11:15:18.459729230Z",
+  "model": "glm-5.3"
+}

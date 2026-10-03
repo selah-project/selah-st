@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ngwana a hola, a nkoa lesemu; mme Abrahame a etsa mokete o moholo ka letsatsi leo la ho nkoa lesemu ⟨את⟩ Yitshake.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "a hola"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "a nkoa lesemu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mokete"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "o moholo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi leo"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "la ho nkoa lesemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshake"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:07.857041743Z",
+  "model": "glm-5.3"
+}

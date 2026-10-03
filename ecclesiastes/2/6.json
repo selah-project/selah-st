@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ke entse ka bo-ka dibaka tsa metsi, ho neha metsi ho tsona thaha e holasang mehlare.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ke entse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka bo-ka"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "dibaka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tsa metsi"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ho neha metsi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "יער",
+      "gloss": "thaha"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "e holasang"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "mehlare"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:06.896665450Z",
+  "model": "glm-5.3"
+}

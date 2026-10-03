@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Ke tla kena ntlong ya hao ka diphofolo tse cheswang, ke tla lefuela litshepiso tsa me ho wena.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ke tla kena"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlong ya hao"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "ka diphofolo tse cheswang"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ke tla lefuela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "litshepiso tsa me"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:33.464362107Z",
+  "model": "glm-5.3"
+}

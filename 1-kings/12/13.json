@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme morena a araba ⟨את⟩ setjhaba ka bokgabele, a tloha a siea ⟨את⟩ selekane sa batabedi bao ba mo eletsetseng.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ka bokgabele"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "a tloha a siea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa batabedi"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "sa batabedi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ba mo eletsetseng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:10:00.167389152Z",
+  "model": "glm-5.3"
+}

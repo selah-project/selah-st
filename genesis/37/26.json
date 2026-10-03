@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme Yehuda a re ho bana ba kgaitsedi ea hae: Ke molemo ofe ha re bolaea ⟨את⟩ mna oa rona, mme ra pata ⟨את⟩ madi oa hae?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bana ba kgaitsedi ea hae"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke ofe"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "re bolaea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mna oa rona"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "mna oa rona"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "mme ra pata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi oa hae"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi oa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:04.677006385Z",
+  "model": "glm-5.3"
+}

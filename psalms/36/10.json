@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Hobane ho uena ho ya motšethe wa bophelo; ka leseli la hao re tla bona leseli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "motšethe"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "ka leseli la hao"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "re tla bona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "leseli"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:55.874596131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme mme wa ngwana a re: Joalo ka ha Yahwe a phela, le joalo ka ha moya oa hau o phela, ha ke tla o tloha. Mme a tsoga, a ea morao ho eena.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mme wa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a phela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "le joalo ka ha ... o phela"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya oa hau"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ke tla o tloha"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a tsoga"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ea"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "morao ho eena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:48.484419522Z",
+  "model": "glm-5.3"
+}

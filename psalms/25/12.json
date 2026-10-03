@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ke mang yena motho ya hlomphang Yahwe? O tla mo ruta tsela ea a e kgethang.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ya hlomphang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "o tla mo ruta"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ea a e kgethang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:24.450878230Z",
+  "model": "glm-5.3"
+}

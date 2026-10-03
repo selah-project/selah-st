@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Mme Elohim ke Morena wa ka ho tloha qalong, mme o etsa ditlolamoholo ka hare ho ⟨ה⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Mme Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Morena wa ka"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ho tloha qalong"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "o etsa"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ditlolamoholo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ה⟩ lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:07.005770389Z",
+  "model": "glm-5.3"
+}

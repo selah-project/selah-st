@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Ka lebaka la hoo ke ihloe ⟨mantswe a ka⟩ mme ke inakane, ka lerole le lerole la mollo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka la hoo"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ke ihloe"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "mme ke inakane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "lerole la mollo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:36:29.555111325Z",
+  "model": "glm-5.3"
+}

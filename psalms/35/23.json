@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "O tsosose, o wake, ho kahlolo ya ka, Elohim wa ka le Adonai wa ka, ho kgetheng kahlolo ya ka.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "O tsosose"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "o wake"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "ho kahlolo ya ka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "le Adonai wa ka"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "ho kgetheng kahlolo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:54.630753776Z",
+  "model": "glm-5.3"
+}

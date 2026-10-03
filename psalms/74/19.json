@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Se nehe bophelo ba lekwala la hao ho phoofolo; se ke wa lebala bophelo ba ba hlokileng ba hao ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nehe"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "ho phoofolo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "ba lekwala la hao"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "ba ba hlokileng ba hao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wa lebala"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:44.956401564Z",
+  "model": "glm-5.3"
+}

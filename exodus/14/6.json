@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme Faro a lokisa ⟨את⟩ dikoloi tsa hae tsa ntoa, mme ⟨את⟩ setjhaba sa hae a sa nka le yena.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "a lokisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikoloi tsa hae tsa ntoa"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "dikoloi tsa hae tsa ntoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "setjhaba sa hae"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setjhaba sa hae"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le yena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:56.309583402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ho mokaedi, ka dinyewe, moko wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho mokaedi"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ka dinyewe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:58.858736755Z",
+  "model": "glm-5.3"
+}

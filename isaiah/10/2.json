@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Hore ba fereketse ka kahlolo ba fokolang, mme ba utse toka ya dipelaelo tsa batho ba ka; hore basofe e be sehapang sa tsona, mme ⟨את⟩ makhoba ba hape.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "hore ba fereketse"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ka kahlolo"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ba fokolang"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "mme ba utse"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "toka"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ya dipelaelo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "batho ba ka"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "hore ... e be"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "basofe"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "sehapang sa tsona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "makhoba"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "makhoba"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "ba hape"
+    }
+  ],
+  "timestamp": "2026-10-03T08:37:30.504079355Z",
+  "model": "glm-5.3"
+}

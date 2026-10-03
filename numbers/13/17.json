@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Moshe a ile a ba romella ⟨אתם⟩ ho etela ⟨את⟩ naha ya Kenane, mme a re ho bona: Tlohang ka tsela ena ka Borwa, mme le tlohe lele ⟨את⟩ thabeng.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a ile a ba romella"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ba (banna ba rometsweng)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "ho etela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naha ya Kenane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "naha"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenane"
+    },
+    {
+      "surface": "ויאאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Tlohang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tsela ena"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ka Borwa"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "le tlohe lele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thabeng"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thabeng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:29:47.587628568Z",
+  "model": "glm-5.3"
+}

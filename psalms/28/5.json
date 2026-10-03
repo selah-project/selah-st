@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Hobane ha ba utlwisise merero ya Yahwe, le mesebetsi ya matsoho a hae; o tla ba senya, a sa ba aha hape.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ba utlwisise"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "merero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mesebetsi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya matsoho a hae"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "o tla ba senya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ba aha hape"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:16.477120046Z",
+  "model": "glm-5.3"
+}

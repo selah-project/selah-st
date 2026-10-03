@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ba tla nka ho tswa mading, mme ba be fatše ka kokong tse pedi le ka molapo wa mocheng, fatshe ho matlo ao ba tla e jang ⟨את⟩ ka ho ona.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "mme ba tla nka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tswa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "mading"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mme ba be"
+    },
+    {
+      "surface": "על",
+      "gloss": "fatše ka"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "kokong"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le fatše ka"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "molapo wa mocheng"
+    },
+    {
+      "surface": "על",
+      "gloss": "fatshe ho"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "matlo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba tla e jang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(sona sehloape)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka ho ona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:55.123986608Z",
+  "model": "glm-5.3"
+}

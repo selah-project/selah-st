@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme tlosa khalefo mpeng ya hao, mme fodisa mpe ho nama ya hao; hobane bonyana le bocha bo mosesane ke phofu.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Mme tlosa"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "khalefo"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "mpeng ya hao"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "mme fodisa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "ho nama ya hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "bonyana"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "le bocha bo mosesane"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "phofu"
+    }
+  ],
+  "timestamp": "2026-10-03T11:45:46.086179063Z",
+  "model": "glm-5.3"
+}

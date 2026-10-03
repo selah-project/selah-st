@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Le lo se ikannye ka lebitso la ka ka bokqhekelli, mme o tla hloeka lebitso la Elohim ya hao: nna ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "le lo se"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "ikannye"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ka lebitso la ka"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ka bokqhekelli"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "o tla hloeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "la Elohim ya hao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:29.533934501Z",
+  "model": "glm-5.3"
+}

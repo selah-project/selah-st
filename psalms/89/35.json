@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Nke ke hlekefelle selekane sa ka, se tswang molomong wa ka nke ke se fetole.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nke ke"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "hlekefelle"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "se tswang"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomong wa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nke ke"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "se fetole"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:49.477282039Z",
+  "model": "glm-5.3"
+}

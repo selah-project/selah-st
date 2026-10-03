@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme Yahwe a araba ⟨את⟩ Iyobe a tsoa sebakeng sa phefo e matla, mme a re:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Mme … a araba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobe"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "a tsoa sebakeng sa"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "phefo e matla"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    }
+  ],
+  "timestamp": "2026-10-03T11:32:14.590054542Z",
+  "model": "glm-5.3"
+}

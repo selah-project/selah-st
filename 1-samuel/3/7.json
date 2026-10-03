@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Shemuele a sa tseba hajoale ⟨את⟩ Yahwe, mme lentsoe la Yahwe le sa tsejwe hajoale ho fihlellela ho eena.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Mme Shemuele"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "a sa tseba hajoale"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a sa tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "mme ... hajoale"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "le sa tsejwe hajoale"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:47.491662551Z",
+  "model": "glm-5.3"
+}

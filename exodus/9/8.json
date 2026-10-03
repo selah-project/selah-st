@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Yahwe a re ho Moshe le ho Aharone: Nkang ho lona ho tletseng matsoho a lona letsodi la ontong, mme Moshe a se ke a e hlahisa mahodimong mahloholong a Faro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Nkang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ho tletseng"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "matsoho a lona"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "letsodi"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "la ontong"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "mme ... a se ke a e hlahisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "mahloholong a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:30.445711559Z",
+  "model": "glm-5.3"
+}

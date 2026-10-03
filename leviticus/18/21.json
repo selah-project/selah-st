@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme wa peo ya hao o se ke wa fana ka eona ho feta ho Molokhe, o se ke wa hlephisa ⟨את⟩ lebitso la Elohim ya hao; ke nna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "mme wa peo ya hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "fana ka"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho Molokhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "hlephisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la Elohim ya hao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:45:53.596640838Z",
+  "model": "glm-5.3"
+}

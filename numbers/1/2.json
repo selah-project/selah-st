@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Sehalleng ⟨את⟩ hloho ea phutheho eohle ya bana ba Yisraele, ho ya ka malapa a bona, ho ya ka malapa a bo-ntate bona, ka palo ya mabitso aona, banna bohle, moo mona le moo mona:",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Sehalleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle ya"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "phutheho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ho ya ka malapa a bona"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ho ya ka ntlo ya"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bo-ntate bona"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ka palo ya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mabitso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "banna"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "moo mona le moo mona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:55.796095633Z",
+  "model": "glm-5.3"
+}

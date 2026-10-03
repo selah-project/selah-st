@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 130,
+  "translation": "Moea oa ka ho Adonai, ho feta bahlokomeli ba bosiu ba letang bokhutšoanyane, ba letang bokhutšoanyane.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Moea oa ka"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ho Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "bahlokomeli ba bosiu"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ba letang bokhutšoanyane"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ba letang"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "bokhutšoanyane"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:27.168360043Z",
+  "model": "glm-5.3"
+}

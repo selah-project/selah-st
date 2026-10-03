@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Ho tloha boahelwa ba phahamiso ya hae o shebile balemi bohle ba lefatshe.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "ho tloha boahelwa"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "sa phahamiso ya hae"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "o shebile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "balemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ba lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:24.673299713Z",
+  "model": "glm-5.3"
+}

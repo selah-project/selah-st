@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Hodima tau le noka ya boshula o tla e tsamaya; o tla e pata taung e nyane le tannine.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "le noka ya boshula"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "o tla e tsamaya"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "o tla e pata"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "taung e nyane"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "le tannine"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:32.176724194Z",
+  "model": "glm-5.3"
+}

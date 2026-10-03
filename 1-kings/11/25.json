@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme o ile a ba mohanyetsi wa Yisraele matsatsi ohle a Shelomoh, ho tlatsa ⟨את⟩ kotsi eo Hadade a e entseng; mme o ile a ikhohomosa ka Yisraele, mme a busa hodima Arame.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme o ile a ba"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "mohanyetsi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kotsi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kotsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "a e entseng; mme o ile a ikhohomosa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ka Yisraele"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mme a busa"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    }
+  ],
+  "timestamp": "2026-10-03T08:10:01.692778655Z",
+  "model": "glm-5.3"
+}

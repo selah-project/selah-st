@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme e bile ha Dawide a le ⟨את⟩ Edome, mme Joabe, molaodi wa mabotho, a nyoloha ho fitlhetsa ⟨את⟩ ba bolailweng, mme a hlaba ⟨את⟩ banna bohle Edome.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e bile"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "ha... a le"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edome"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "a nyoloha"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wa mabotho"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ho fitlhetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba bolailweng"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ba bolailweng"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a hlaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "banna"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:09.382687065Z",
+  "model": "glm-5.3"
+}

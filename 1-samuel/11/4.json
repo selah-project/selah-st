@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme baromuwa ba fihla Gibeaha ya Shaule, mme ba bolela ⟨את⟩ mantswe ka litsebeng tsa setjhaba; mme setjhaba sohle se ikhahlaresa ka lentswe la sona, mme sa lla.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "baromuwa"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibeaha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ya Shaule"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ka litsebeng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tsa setjhaba"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "se ikhahlaresa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ka lentswe la sona"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "sa lla"
+    }
+  ],
+  "timestamp": "2026-10-03T12:53:00.237945545Z",
+  "model": "glm-5.3"
+}

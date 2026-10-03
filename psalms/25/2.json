@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Elohim ya ka, ho wena ke tshepile; se ke wa ntlohela hore ke tshabe;ahlolo—se ke wa loya ea ntsihang—se ke baraba ba ka ba tahlohong ho ka 'na.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ke tshabe\/ke be tlotlollo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ba tahlohong"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "baraba ba ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ka 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:00.880567609Z",
+  "model": "glm-5.3"
+}

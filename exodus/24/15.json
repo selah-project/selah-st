@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme Moshe a ea hodima thaba; mme leru le khakola ⟨את⟩ thaba.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a ea hodima"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "le khakola"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "leru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:22.278975608Z",
+  "model": "glm-5.3"
+}

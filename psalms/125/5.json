@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 125,
+  "translation": "Mme ba ikutlwisang mekgoro ya bona ea di khutlisetsoa, Yahwe o tla ba isa ⟨את⟩ ba etsang boloi: khotso e be ho Yisraele.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Mme ba ikutlwisang"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "mekgoro ya bona"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "o tla ba isa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba etsang boloi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "האון",
+      "gloss": "boloi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:59.617866668Z",
+  "model": "glm-5.3"
+}

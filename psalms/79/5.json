@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 79,
+  "translation": "Ho fihlela nako e fe, Yahwe? U tla halefa ho sa fela? Kanane ya hau e tla chesa joaloka mollo?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ho fihlela"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nako e fe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "U tla halefa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ho sa fela"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "e tla chesa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "joaloka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "Kanane ya hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:42.586495058Z",
+  "model": "glm-5.3"
+}

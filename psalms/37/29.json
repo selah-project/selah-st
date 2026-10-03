@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Ba lokileng ba tla ruha ⟨את⟩ lefatshe, mme ba tla dula hodima lona ho fihlela nakong e telele.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ba tla ruha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "mme ba tla dula"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ho fihlela nakong e telele"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hodima lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:43.371381974Z",
+  "model": "glm-5.3"
+}

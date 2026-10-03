@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 126,
+  "translation": "KGutla, Yahwe, ⟨את⟩ boelo ba rona, jwalo ka dinoka ka borwa!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "KGutla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boelo ba rona"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "boelo ba rona"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "jwalo ka dinoka"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ka borwa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:56.427354125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Hangata ke mang meholelo ya hao, Yahwe! Ka bohlale o entse tsohle; lefatshe le tlala dihlahiswa tsa hao.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hangata ke mang"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "di mangata"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "meholelo ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ka bohlale"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o entse"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "le tlala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "dihlahiswa tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:58.389745079Z",
+  "model": "glm-5.3"
+}

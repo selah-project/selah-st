@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme hobaneng ha o sa boloke ⟨את⟩ lekano la Yahwe, le ⟨את⟩ taelo eo ke e laetseng ho oena?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "mme hobaneng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha…sa"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "o boloke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lekano la Yahwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "lekano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "taelo eo ke e laetseng ho oena"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ke e laetseng"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ho oena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:02:51.499367904Z",
+  "model": "glm-5.3"
+}

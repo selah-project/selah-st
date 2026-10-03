@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Yahwe a beha nako e beilweng, a re: Hosasa Yahwe o tla etsa lentsoe lena lefatsheng.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nako e beilweng"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "hosasa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:30.441540719Z",
+  "model": "glm-5.3"
+}

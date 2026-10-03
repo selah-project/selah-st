@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "O se ke wa bona ⟨את⟩ tonki ya mmaeno wa kapa ⟨את⟩ nku ya hae e timetse, mme oa itokolla ho tsona; o tlameha ho di busetsa ho mmaeno wa hao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tonki ya mmaeno wa hao"
+    },
+    {
+      "surface": "שור",
+      "gloss": "tonki"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ya mmaeno wa hao"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nku ya hae"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "nku ya hae"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "e timetse"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "mme oa itokolla"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "השב",
+      "gloss": "o tlameha ho busetsa"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "di busetsa"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ho mmaeno wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:56:10.309382405Z",
+  "model": "glm-5.3"
+}

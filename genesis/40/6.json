@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme Yosefe a kena ho bona hoseng, a bona ⟨את⟩ bona, mme bonang, ba mafi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "ba mafi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:52.272575134Z",
+  "model": "glm-5.3"
+}

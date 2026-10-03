@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 29:2",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Ka mora ho tswa ha Yekonia morena, le mosadi ea moholo, le bahlotsoeng, dikgosi tsa Yehuda le Yerushalayime, le setsebi sa mesebetsi le moeletsi wa tšepe, ho tloha Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Ka mora"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ho tswa ha"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "והגבירה",
+      "gloss": "le mosadi ea moholo"
+    },
+    {
+      "surface": "והסריסים",
+      "gloss": "le bahlotsoeng"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "tsa Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le Yerushalayime"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "le setsebi sa mesebetsi"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "le moeletsi wa tšepe"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ho tloha Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T09:18:34.106943506Z",
+  "model": "glm-5.3"
+}

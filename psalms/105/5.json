@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Lekang dilo tsa hae tse makatsang tseo a di entseng, matswao a hae le dikahlolo tsa molomo wa hae.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Lekang"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "dilo tsa hae tse makatsang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a di entseng"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "matswao a hae"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "le dikahlolo"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "tsa molomo wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:13.858084516Z",
+  "model": "glm-5.3"
+}

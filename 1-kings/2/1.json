@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme matsatsi a Dawide a atamela hore a shoe, mme a laela ⟨את⟩ Shelomoh mora hae, a re:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "a atamela"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "a Dawide"
+    },
+    {
+      "surface": "למות",
+      "gloss": "hore a shoe"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "mme a laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora hae"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T08:02:57.738752315Z",
+  "model": "glm-5.3"
+}

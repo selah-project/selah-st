@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "O se ke wa patisa sefahleho sa hao ho mosebeletsi wa hao, hobane ke kotsing; haufinyane, araba ka.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "O se ke wa"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "patisa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "ho mosebeletsi wa hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ke kotsing"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haufinyane"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "araba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:55.529732613Z",
+  "model": "glm-5.3"
+}

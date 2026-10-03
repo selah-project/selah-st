@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme o ile a re isa ⟨את⟩ lefelong lena, mme a fana ka ⟨את⟩ lefatshe lena, lefatshe le phallang lefele le monate.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "o ile a re isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a fana ka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe lena"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lena"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "le phallang"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lefele"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le monate"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:34.935723542Z",
+  "model": "glm-5.3"
+}

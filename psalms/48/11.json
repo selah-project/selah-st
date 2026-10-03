@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Jwaloka lebitso la hau, Elohim, jwalo ke toro ya hau ho fihlela mekhahleng ya lefatshe; tsedeke e tlatsitse letsoho la hau ya molemo.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "jwaloka lebitso la hau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "toro ya hau"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "mekhahleng ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tlatsitse"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsoho la hau ya molemo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:43.694060785Z",
+  "model": "glm-5.3"
+}

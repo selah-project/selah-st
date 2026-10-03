@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme e bile ha ba fihla Shomeron, Elishaya a re: Yahwe, phebotsa mahlo a banna bana hore ba tle ba bone. Mme Yahwe a phebotsa mahlo a bona, mme ba bona, mme bonang, ⟨ba ne ba⟩ hare hare ja Shomeron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e bile"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "ha ba fihla"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "phebotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahlo a banna bana"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "banna bana"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "hore ba tle ba bone"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "a phebotsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahlo a bona"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "mahlo a bona"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hare hare ja"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-03T08:20:03.566633090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "O hladitseng ⟨⟨dithaba⟩⟩ tse phahameng tsa hae; lefatshe le a khotsofala ka selemo sa mesebetsi ya hao.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "o hladitseng"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "tse phahameng tsa hae"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ka selemo sa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mesebetsi ya hao"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "le a khotsofala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:19.929155207Z",
+  "model": "glm-5.3"
+}

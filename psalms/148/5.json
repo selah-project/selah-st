@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "A ha le tlotlise ⟨את⟩ lebitso la Yahwe, hobane eena o ile a laela, mme di bopilwe.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "A ha le tlotlise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o ile a laela"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "mme di bopilwe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:43.070256874Z",
+  "model": "glm-5.3"
+}

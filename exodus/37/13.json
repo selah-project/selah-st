@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme o ile a thunya lintja tse nne tsa gauta bakeng sa tsona, mme a bea ⟨את⟩ lintja ka meqwa e mene eo e nang le maoto a mene a tsona.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "o ile a thunya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bakeng sa tsona"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "e nne"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "lintja"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lintja"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "lintja"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "e mene"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "meqwa e mene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e nang le"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "a mene"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maoto a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:33.377246058Z",
+  "model": "glm-5.3"
+}

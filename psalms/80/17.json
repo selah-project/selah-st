@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "E kgotlwa ke mollo, e jeoa; ho tlotla ea sefahleho sa hao ba lahlehelwa.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "e kgotlwa ke mollo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ke mollo"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "e jeoa"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "ho tlotla ea"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ba lahlehelwa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:18.531908658Z",
+  "model": "glm-5.3"
+}

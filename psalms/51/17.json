@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Adonai, o bule ⟨את⟩ molomo wa ka; mme molomo wa ka o tla phatlalatsa tumello ya hao.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomo wa ka"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "o bule"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mme molomo wa ka"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "o tla phatlalatsa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tumello ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:04.989977739Z",
+  "model": "glm-5.3"
+}

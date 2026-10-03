@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Aha o ile a tsamaea tseleng e nngwe, mme a se ke a khutla tseleng eo a neng a e tsamaila ho fihlela Beit-Ele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "aha o ile a tsamaea"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a se ke"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a khutla"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a neng a e tsamaila"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:34.195566243Z",
+  "model": "glm-5.3"
+}

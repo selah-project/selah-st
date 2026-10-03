@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Ka nako eo sesufi se tla tlola jwalo ka phuti, mme leleme la se-sa-buelang le tla opela; hobane metsi a tla phahama naheng e se nang batho, le dinoka sekakeng.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "se tla tlola"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "jwalo ka phuti"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "sesufi"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "mme ... le tla opela"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "leleme la"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "se-sa-buelang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "a tla phahama"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "naheng e se nang batho"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "le dinoka"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "sekakeng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:47:36.153035647Z",
+  "model": "glm-5.3"
+}

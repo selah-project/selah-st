@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Ho bolela phoso ho molato, bongateng ba pelo ya ka: ha ho ts'abo ya Elohim pele le mahlo a hae.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Ho bolela"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "phoso"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ho molato"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "bongateng ba"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ts'abo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pele le"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:40.879210730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Hokae morena wa Khamate, morena wa Arpade, le morena wa toropo ya Sefarvayime, Hena le Iva?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Hokae"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Khamate"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le morena wa"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpade"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le morena wa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "toropo ya"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvayime"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "le Iva"
+    }
+  ],
+  "timestamp": "2026-10-03T08:47:23.213757937Z",
+  "model": "glm-5.3"
+}

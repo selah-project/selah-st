@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Mamela, ke kopa, mme nna ke tla bua; ke tla botsa ka wena, mme o ntsebise.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "mamela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke tla bua"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ke tla botsa ka wena"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "mme o ntsebise"
+    }
+  ],
+  "timestamp": "2026-10-03T11:34:05.370354501Z",
+  "model": "glm-5.3"
+}

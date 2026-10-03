@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Tsamaya, sechaba sa ka, kena diphaphathing tsa hao, o tvalele disele tsa hao ka morao hao; itlale ho ea fokolang, motsotsoana, ho fihlela bokhopho bo feta.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tsamaya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sechaba sa ka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kena"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "diphaphathing tsa hao"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "o tvalele"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "disele tsa hao"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "ka morao hao"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "itlale"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ho ea fokolang"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "motsotsoana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "bo feta"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "bokhopho"
+    }
+  ],
+  "timestamp": "2026-10-03T13:01:14.339579312Z",
+  "model": "glm-5.3"
+}

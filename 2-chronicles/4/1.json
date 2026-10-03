@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme a etsa ⟨את⟩ altaara ya tšhea, dikoto tse mashome a mabedi bolelele ba yona, le dikoto tse mashome a mabedi bophara ba yona, le dikoto tse leshome bokahodimo ba yona.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme a etsa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaara"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya tšhea"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mashome a mabedi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikoto"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bolelele ba yona"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "le mashome a mabedi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikoto"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara ba yona"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "le leshome"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikoto"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "bokahodimo ba yona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:24:41.310510629Z",
+  "model": "glm-5.3"
+}

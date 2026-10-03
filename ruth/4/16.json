@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Naome a nka ⟨את⟩ ngwana, a mo beha sehubeng sa hae, mme a ba mma-hlokommeli wa hae.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "a mo beha"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "sehubeng sa hae"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa hae"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "mma-hlokommeli"
+    }
+  ],
+  "timestamp": "2026-10-03T11:37:21.837350011Z",
+  "model": "glm-5.3"
+}

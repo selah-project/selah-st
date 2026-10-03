@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ba utloa ⟨את⟩ lentswe la Yahwe Elohim e tsamayang kaharong ea motse oa meru, ka ruakh ea letsatsi; mme motho le mosali ea hae ba ipatla sefahleho sa Yahwe Elohim, hara likhomo ea motse oa meru.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "mme ba utloa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la Yahwe Elohim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "e tsamayang"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "kaharong ea motse oa meru"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ka ruakh ea"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "mme ba ipatla"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "le mosali ea hae"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hara"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "likhomo ea"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "motse oa meru"
+    }
+  ],
+  "timestamp": "2026-10-03T12:41:42.111573144Z",
+  "model": "glm-5.3"
+}

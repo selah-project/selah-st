@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Le bolelle bana ba lona ba bang: Sechaba sa ka; le bolelle bomorwetsana ba lona ba bang: Ya hlomphuwang.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "le bolelle"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "bana ba lona ba bang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Sechaba sa ka"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "le bolelle bomorwetsana ba lona ba bang"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ya hlomphuwang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:58.796415385Z",
+  "model": "glm-5.3"
+}

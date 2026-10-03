@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "E ne e sa tloswa sehalahala sa maru mosebetsing wa letsatsi, kapa sehalahala sa molelo bosiu, pele ga ⟨the⟩ setjhaba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "e sa tloswe"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "sehalahala sa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "maru"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mosebetsing wa letsatsi"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "kapa sehalahala sa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "molelo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:56.117765351Z",
+  "model": "glm-5.3"
+}

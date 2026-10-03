@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Tlhahisa sechaba sa mafeela, se nang le ⟨mahlo⟩, le ba sa utlweng, ba nang le ditsebe ho bona.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Tlhahisa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sa mafeela"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ho na le"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "le ba sa utlweng"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ditsebe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:20.137897292Z",
+  "model": "glm-5.3"
+}

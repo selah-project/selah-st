@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme bara ba Yisraele ba tlosa ⟨את⟩ Ba-Beale le ⟨את⟩ Ashtarote, mme ba sebeletsa ⟨את⟩ Yahwe Yena feela.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Mme ba tlosa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba-Beale"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Ba-Beale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ashtarote"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtarote"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mme ba sebeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "Yena feela"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:48.896503850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "⟨את⟩ menora e hloekileng, ⟨את⟩ meedi ya yona, meedi ya mokgatlo, le ⟨את⟩ didiriswa tsa yona tsohle, le ⟨את⟩ mafura a khanyo;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "e hloekileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meedi ya yona"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "meedi ya yona"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "meedi"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "ya mokgatlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa yona tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "didiriswa tsa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "a khanyo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:58.794902942Z",
+  "model": "glm-5.3"
+}

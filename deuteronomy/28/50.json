@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Setjhaba se matla sefahlehung, seo se sa hlomphang sefahleho sa moholo, mme se sa khomelang monyane.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "עז",
+      "gloss": "se matla"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefahlehung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "hlomphang"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "sa moholo"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "mme monyane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "khomelang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:59:53.019503718Z",
+  "model": "glm-5.3"
+}

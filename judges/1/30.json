@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Zebulune ha a tlosa ⟨את⟩ ba dulang Kitrone le ⟨את⟩ ba dulang Nahalole; mme Mokenane o ile a dula ka hare ho eena, mme ba ile ba ba etsa balekgethi.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulune"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "a tlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba dulang Kitrone"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitrone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba dulang Nahalole"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalole"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme o ile a dula"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokenane"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ka hare ho eena"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme ba ile ba ba"
+    },
+    {
+      "surface": "למס",
+      "gloss": "etsa balekgethi"
+    }
+  ],
+  "timestamp": "2026-10-03T07:16:26.360986289Z",
+  "model": "glm-5.3"
+}

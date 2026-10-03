@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 129,
+  "translation": "Hodima molala wa ka balimi ba ile ba lema, ba atisa meala ya tsona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Hodima"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "molala wa ka"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "ba lema"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "balimi"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "ba atisa"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "meala ya tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:24.601465032Z",
+  "model": "glm-5.3"
+}

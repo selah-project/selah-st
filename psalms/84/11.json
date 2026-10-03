@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 84,
+  "translation": "Hobane letsatsi le le leng dikhutlong tsa hao le molemo ho feta dikete; ke kgethile ho ema kgorong ya ntlo ya Elohim ya ka, ho feta ho dula matenteng a bolotsana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le molemo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi le le leng"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "dikhutlong tsa hao"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "ho feta dikete"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ke kgethile"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "ho ema kgorong"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "ho feta ho dula"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "matenteng a"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bolotsana"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:30.554459217Z",
+  "model": "glm-5.3"
+}

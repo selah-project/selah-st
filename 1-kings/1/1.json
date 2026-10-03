@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme morena Dawide a bolaela, a fihla mafatong, mme ba mo kholla ka diaparo, empa mocheso o sa mo fihlele.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Mme morena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a bolaela"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mafatong"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "mme ba mo kholla"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "ka diaparo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "a fihlela mocheso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:00:42.156524939Z",
+  "model": "glm-5.3"
+}

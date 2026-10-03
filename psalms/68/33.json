@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Mmamuso wa ⟨⟨the⟩⟩ lefatshe, binoang ho Elohim, binoang dipina ho Adonai, Sela.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "mmamuso wa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "binoang"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "binoang dipina"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:59.704214980Z",
+  "model": "glm-5.3"
+}

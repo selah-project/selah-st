@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme o ile a iphala, empa ⟨את⟩ senetso a sa se phala; mme moprista o ile a tswalela ⟨את⟩ senetso diketsa tse supileng, se seng hape.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "a iphala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "senetso"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "senetso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "a se phala"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "a tswalela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senetso"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "senetso"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "diketsa tse supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "diketsa"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "se seng hape"
+    }
+  ],
+  "timestamp": "2026-10-03T06:09:48.352922301Z",
+  "model": "glm-5.3"
+}

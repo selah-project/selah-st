@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ha ba tsebe ho etsa toka, ho bolela Yahwe, ba bolokang tshotlo le phutsa ditsekong tsa bona.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba tsebe"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "toka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "ba bolokang"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tshotlo"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "le phutsa"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "ditsekong tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:05:41.051952457Z",
+  "model": "glm-5.3"
+}

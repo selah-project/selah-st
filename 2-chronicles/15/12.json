@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme ba kena selekaneng hore ba batle ⟨את⟩ Yahwe, Elohim ya bo-ntate ba bona, ka pelo ya bobona yohle le ka moya oa bobona oohle.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba kena"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "selekaneng"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "hore ba batle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "bo-ntate ba bona"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka yohle"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "pelo ya bobona"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka oohle"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moya oa bobona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:30:17.595113885Z",
+  "model": "glm-5.3"
+}

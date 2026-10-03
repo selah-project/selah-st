@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "O re pelong ya hae: Ke ke ke tsamaya; ho moloko le moloko ke ke ke ba kotsing.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "pelong ya hae"
+    },
+    {
+      "surface": "בל",
+      "gloss": "che"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ke tsamaya"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ho moloko"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le moloko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "che"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ba kotsing"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:35.413794360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme a re: O se ke wa o latela holimo, o tloelle fatshe. A e tloella fatshe, ya ba noka, mme Moshe a baleha pel'a eona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "o e tloelle"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "a e tloella"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "noka"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "a baleha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pel'a eona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:43:18.958285385Z",
+  "model": "glm-5.3"
+}

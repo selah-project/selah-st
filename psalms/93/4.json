@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 93,
+  "translation": "Yahwe hodimodimo o matla ho feta litswalo tsa metsi a mangata, ho feta maqhubu a matla a lewatle.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "litswalo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mangata"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "a matla"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "maqhubu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "o matla"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "hodimodimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:00.892277413Z",
+  "model": "glm-5.3"
+}

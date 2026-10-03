@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Ba li etsang ba tla ba tshwana le tsona; le ba sehlekang ho tsona bohle.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ba tshwana le tsona"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba tla ba"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ba li etsang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "sehlekang ho"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:13.911366723Z",
+  "model": "glm-5.3"
+}

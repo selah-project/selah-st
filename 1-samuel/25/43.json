@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme Dawide o ile a nka ⟨את⟩ Ahinoame ho Yizreeli; mme ba babeli ba e-ba basadi ba hae.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ahinoame"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoame"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "ho Yizreeli"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "mme ba e-ba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ba babeli"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "basadi"
+    }
+  ],
+  "timestamp": "2026-10-03T07:44:13.282179348Z",
+  "model": "glm-5.3"
+}

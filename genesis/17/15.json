@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Elohim a re ho Abrahame: Saraye, mosadi wa hao — o se ke wa mbita ⟨את⟩ lebitso la hae Saraye; hobane Saraha ke lebitso la hae.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraye"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mosadi wa hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "mbita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la hae"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraha"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lebitso la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:26:49.528069260Z",
+  "model": "glm-5.3"
+}

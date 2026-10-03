@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Moahi, ka boholo ba sefahleho sa hae, ha a batle ⟨sebekeng se seng⟩: ha ho Elohim — meqoqo ya hae yohle.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Moahi"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ka boholo ba"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sefahleho sa hae"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha a batle"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "⟨sebekeng se seng⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "meqoqo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:26.034235368Z",
+  "model": "glm-5.3"
+}

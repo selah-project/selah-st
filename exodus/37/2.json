@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "A e kenya ka khauta e hloekileng ka hare le ka ntle, mme a etsela yona serethe sa khauta ho potoloha.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "a e kenya ka khauta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "khauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ka hare"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "le ka ntle"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mme a etsela yona"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "serethe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sa khauta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:59.521051890Z",
+  "model": "glm-5.3"
+}

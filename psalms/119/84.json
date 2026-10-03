@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Matsatsi a mme kae a mohlanka oa hau? Neng o tla etsa kahlolo holim'a ba ntsamaisang?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "mme kae"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a mohlanka oa hau"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "neng"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "holim'a ba ntsamaisang"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:04.111475003Z",
+  "model": "glm-5.3"
+}

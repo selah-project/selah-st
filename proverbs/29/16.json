@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Ha babelaha ba eketseha, tlolo ya molao ya eketseha; mme ba lokileng ba tla bona ho wa ha bona.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Ha ba eketseha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babelaha"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ya eketseha"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "tlolo ya molao"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "mme ba lokileng"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "ho wa ha bona"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba tla bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:17:01.165972351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme o tla etsa ⟨את⟩ ditafole tsa Mishkane, tsa lehlahlama la shitime, emeng.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditafole"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ditafole"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "tsa Mishkane"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lehlahlama"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitime"
+    },
+    {
+      "surface": "עומדים",
+      "gloss": "emeng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:21.945074761Z",
+  "model": "glm-5.3"
+}

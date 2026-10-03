@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Mitsrayime a etsa ⟨את⟩ bara ba Yisraele ba sebele ka bokhopho.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "a etsa hore ba sebele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bara ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "ka bokhopho"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:08.427132254Z",
+  "model": "glm-5.3"
+}

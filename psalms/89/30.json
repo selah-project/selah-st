@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Mme ke tla beha peo ya hae ⟨⟨e tla⟩⟩ hodimo ho ya mane, le setulo sa hae sa borena jwalo ka matsatsi a mahodimo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "mme ke tla beha"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hodimo ho ya mane"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "peo ya hae"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "le setulo sa hae sa borena"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "jwalo ka matsatsi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "a mahodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:53.941520195Z",
+  "model": "glm-5.3"
+}

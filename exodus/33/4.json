@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme sechaba se utlile ⟨את⟩ lentsoe le mpe le, mme sa hlajoa; mme motho a ka be a apara diaparo tsa kantle hore tsa lona.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "se utlile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentsoe le mpe le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "le mpe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "sa hlajoa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ... a ka be a"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "apara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "diaparo tsa kantle hore"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:00:00.389726084Z",
+  "model": "glm-5.3"
+}

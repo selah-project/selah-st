@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Itebogang ka lebitso la hae la halalelang; a thaba pelo ya batladiri ba Yahwe.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Itebogang"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka lebitso"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la hae la halalelang"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "a thaba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ya batladiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ba Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:42.520760712Z",
+  "model": "glm-5.3"
+}

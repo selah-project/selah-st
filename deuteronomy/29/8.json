@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme le boloke ⟨את⟩ mantswe a selekane sena, mme le etse ⟨את⟩ tsona, hore le atlehe ⟨את⟩ tsohle tseo le di etsang.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mme le boloke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "a selekane"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme le etse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tsona",
+      "marks": "mantswe a selekane"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "le atlehe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "le di etsang"
+    }
+  ],
+  "timestamp": "2026-10-03T07:00:07.622542638Z",
+  "model": "glm-5.3"
+}

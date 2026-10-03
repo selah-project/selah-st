@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme Yahwe o ile a lokolotsha ⟨את⟩ Yisraele ka letsatsi leo, ka letsoho la Mitsrayime; mme Yisraele a bona ⟨את⟩ Mitsrayime e shwele molemong wa lewatle.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Mme o ile a lokolotsha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ka letsoho la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מת",
+      "gloss": "e shwele"
+    },
+    {
+      "surface": "על",
+      "gloss": "molemong wa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "sefubya sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:57.209649956Z",
+  "model": "glm-5.3"
+}

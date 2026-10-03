@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme e bile ka mora lefu la Shauole, Dawide a boela ho tloga ho beta ⟨את⟩ Amaleke, mme Dawide a dula ho Tsiklage matsatsi a mabedi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mme Dawide"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ho tloga ho beta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleke"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme a dula"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "ho Tsiklage"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a mabedi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:55:23.836116677Z",
+  "model": "glm-5.3"
+}

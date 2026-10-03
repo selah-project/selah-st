@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Hobane e sa tloare dihleke tsa mpa ya ka, mme e sa pata letšolo mahlong a ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "tloare"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "dihleke tsa"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mpa ya ka"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "mme e sa pata"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "letšolo"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mahlong a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:18:35.634653576Z",
+  "model": "glm-5.3"
+}

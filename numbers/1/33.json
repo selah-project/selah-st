@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ba hlahlolweng ba bona, bakeng sa kabelo ya Efrayime, ⟨ba ne ba le⟩ dikete tse mashome a mane le makgolo a mhlano.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ba hlahlolweng ba bona"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bakeng sa kabelo ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "mashome a mane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a mhlano"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:33.433016277Z",
+  "model": "glm-5.3"
+}

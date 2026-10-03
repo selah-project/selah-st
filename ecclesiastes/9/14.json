@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Motse o monyane, mme banna ba fokolang ka ho hlaka ka hara oona; mme morena wa mongolo o tletse matla a tsamaisang o ile a tla ho oona, a dikela ⟨את⟩ oona, a hahaha metswedi e meholo e megolo holim'a oona.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "o monyane"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "mme banna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka hara oona"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ba fokolang ka ho hlaka"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mme o ile a tla"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ho oona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "wa bogolo"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "mme o ile a dikela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "oona (motse)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "mme o ile a hahaha"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "holim'a oona"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "metswedi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "e meholo e megolo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:07.638809133Z",
+  "model": "glm-5.3"
+}

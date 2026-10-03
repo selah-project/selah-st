@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme Yaakobo a sebeletsa bakeng sa Rahela lilemo tse supileng; mme di ile tsa ba mahlong a hae e le kang matsatsi a seng makae, ka hobane a ne a rata ⟨את⟩ eena.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "mme ... a sebeletsa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "bakeng sa Rahela"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tse supileng"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lilemo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme di ile tsa ba"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mahlong a hae"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "kang matsatsi"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "a seng makae"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ka hobane a ne a rata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "eena (Rahela)"
+    }
+  ],
+  "timestamp": "2026-10-03T05:31:36.060036497Z",
+  "model": "glm-5.3"
+}

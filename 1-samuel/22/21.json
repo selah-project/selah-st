@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme Abiathare a bolella Dawide hore Shaul o bolaile ⟨את⟩ baprista ba Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a bolella"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiathare"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "o bolaile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baprista ba Yahwe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:53:48.557335497Z",
+  "model": "glm-5.3"
+}

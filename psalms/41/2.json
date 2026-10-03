@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Tokelo ya mohlophehi e ho ya sibollang tlhokomelo ho mofutsana; ka letsatsi la kotsi Yahwe o tla mo lokolla.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "tokelo ya mohlophehi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "e ho ya sibollang tlhokomelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mofutsana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "la kotsi"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "o tla mo lokolla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:31.705228276Z",
+  "model": "glm-5.3"
+}

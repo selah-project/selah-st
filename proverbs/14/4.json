@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Hoo e se nang dikgomo, sebakeng sa ljo se hloekile; mme khotso e ntseng e fihla ka matla a kgomo.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "hoo e se nang"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "sebakeng sa ljo"
+    },
+    {
+      "surface": "בר",
+      "gloss": "se hloekile"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mme e ntseng"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ka matla"
+    },
+    {
+      "surface": "שור",
+      "gloss": "a kgomo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:10:28.875749395Z",
+  "model": "glm-5.3"
+}

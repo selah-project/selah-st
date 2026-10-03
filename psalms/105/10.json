@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Mme a e emisa ho Yaakobo e le molao, ho Yisraele e le selekane sa kahosohle:",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "Mme a e emisa"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ho Yaakobo"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "e le molao"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho Yisraele"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kahosohle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:13.153404506Z",
+  "model": "glm-5.3"
+}

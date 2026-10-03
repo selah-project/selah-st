@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 87,
+  "translation": "Yahwe o rata mebete ya Tsione, ho feta ditulo tsohle tsa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "o rata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "mebete ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho feta tsohle"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "ditulo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:54.904094202Z",
+  "model": "glm-5.3"
+}

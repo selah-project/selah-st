@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Ya reng ho ntatae le ho mmae: ha ke a mo bona; mme ⟨את⟩ barabae ha a a ba tseba, mme ⟨את⟩ bana ba hae ha a a ba tseba; hobane ba boloke lentsoe la hao, mme selekane sa hao ba le boloka.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ya reng"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ho ntatae"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "le ho mmae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ke a mo bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barabae"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "barabae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "a a ba tseba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba hae"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a a ba tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ba boloke"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lentsoe la hao"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "mme selekane sa hao"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ba le boloka"
+    }
+  ],
+  "timestamp": "2026-10-03T07:01:05.141284291Z",
+  "model": "glm-5.3"
+}

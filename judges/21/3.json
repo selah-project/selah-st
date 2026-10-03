@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 21:3",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ba re: Hobaneng, Yahwe, Elohim wa Yisraele, hore se ile sa etsahala ka Yisraele — hore kajeno ho tlohele sebetso se le seng sa Yisraele?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mme ba re"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "sa etsahala"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ka Yisraele"
+    },
+    {
+      "surface": "להפקד",
+      "gloss": "hore ho tlohele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "sa Yisraele"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sebetso"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le seng"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:16.504732163Z",
+  "model": "glm-5.3"
+}

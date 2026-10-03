@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ka beha ⟨את⟩ sefahleho sa ka ho Adonai, ⟨ha⟩ Elohim, ho batla thapelo le dikapelo, ka tsekelo le saku le majara.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ka beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ho batla"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "thapelo"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "le dikapelo"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "ka tsekelo"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "le saku"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "le majara"
+    }
+  ],
+  "timestamp": "2026-10-03T13:16:50.429254587Z",
+  "model": "glm-5.3"
+}

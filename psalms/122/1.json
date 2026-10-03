@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 122,
+  "translation": "Pina ya ho Ea Hodimo, ya Dawide. Ke ile ka thaba ha ba mpolella, re re: Ho ya ntlong ya Yahwe, re ya.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya ho Ea Hodimo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Ke ile ka thaba"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "ha ba mpolella"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpolella"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "re ya"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:44.895895956Z",
+  "model": "glm-5.3"
+}

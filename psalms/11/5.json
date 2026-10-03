@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Yahwe o hlahloba ya tsedeke; empa yo mohloki le ya ratang tsietsi — mopheo wa hae o mo hloya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya tsedeke"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "o hlahloba"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "empa yo mohloki"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "le ya ratang"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tsietsi"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "o mo hloya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mopheo wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:44.362578053Z",
+  "model": "glm-5.3"
+}

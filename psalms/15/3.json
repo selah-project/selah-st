@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Ha a nyefola ka lentsoe la hae, ha a etsa bosula ho motswalle wa hae, mme sefoko ha a se jara hodima ya haufi le eena.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "a nyefola"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "lentsoe la hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ho motswalle wa hae"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bosula"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "mme sefoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a jara"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ya haufi le eena"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:28.930421281Z",
+  "model": "glm-5.3"
+}

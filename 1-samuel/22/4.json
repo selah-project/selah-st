@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "A ba beha ⟨peling⟩ ya morena wa Moabe, mme ba dula ho yena matsatsi ohle a Dawide a neng a le bomatšope.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "a ba beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peling ya morena wa Moabe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "peling ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "היות",
+      "gloss": "a neng a le"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "bomatšope"
+    }
+  ],
+  "timestamp": "2026-10-03T07:43:32.582446104Z",
+  "model": "glm-5.3"
+}

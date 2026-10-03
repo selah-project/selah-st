@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Ka letsatsi le leng le le leng ke tla hlolelisa wena, mme ke tla tlotlisa lebitso la hao ho fihlela kahosafeleng le ho ya hosafeleng.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ka … le leng le le leng"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ke tla hlolelisa wena"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "mme ke tla tlotlisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela kahosafeleng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho ya hosafeleng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:34.097348710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme lefatshe le ile la senyeha pela Elohim; mme lefatshe le ile la tlatsoa tshekamelo.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "Mme ... la senyeha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pela"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "mme ... la tlatsoa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tshekamelo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:47.606771449Z",
+  "model": "glm-5.3"
+}

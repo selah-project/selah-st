@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ka letsatsi leo ke tla phahamisa ho Eli ⟨את⟩ tsohle tseo ke neng ke buile ntlong ea hae; qala, mme qeta.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ke tla phahamisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle tseo ke buileng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke buile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ka)"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlong ea hae"
+    },
+    {
+      "surface": "החל",
+      "gloss": "qala"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "mme qeta"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:50.870998463Z",
+  "model": "glm-5.3"
+}

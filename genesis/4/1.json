@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme motho o ile a tseba ⟨את⟩ Khava mosadi wa hae; mme o ile a imela, mme a be a tswala ⟨את⟩ Kaine; mme a re: Ntseletseng monna ka thuso ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Mme motho"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o ile a tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khava"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Khava"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa hae"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "mme o ile a imela"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mme a be a tswala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaine"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kaine"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Ntseletseng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:14.805626286Z",
+  "model": "glm-5.3"
+}

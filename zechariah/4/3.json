@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ditlhare tse pedi tsa mafura holim'a yona, e nngwe ka ho ja letshehadi la sejana, mme e nngwe ka ho ja letona la yona.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "Mme tse pedi"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ditlhare tsa mafura"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "holim'a yona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ka ho ja letshehadi"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "la sejana"
+    },
+    {
+      "surface": "ו אחד",
+      "gloss": "mme e nngwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ho ja"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "letona la yona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:09:05.334295715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Ha a kena a le esi, o tla tloha a le esi; ha a na mosadi, mosadi wa hae o tla tloha ena le ena.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "a le esi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "a le esi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tla tloha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "o tla tloha"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa hae"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ena le ena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:59.698695741Z",
+  "model": "glm-5.3"
+}

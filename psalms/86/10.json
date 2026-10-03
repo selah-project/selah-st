@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Hobane u moholo, u etsa diphoso-makatsong; u Elohim oa ho ba a le mong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "u moholo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "u etsa"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "diphoso-makatsong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "oa ho ba a le mong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:05.100831201Z",
+  "model": "glm-5.3"
+}

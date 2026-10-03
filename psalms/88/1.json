@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Pina, pesaleme, ya bana ba Korache; ho mohlahisi, ka Makhilate, ho araba; se rutang, ya Heman Moezrahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pesaleme"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korache"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "ho mohlahisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Makhilate"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ho araba"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "se rutang"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "ya Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Moezrahi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:41.745368149Z",
+  "model": "glm-5.3"
+}

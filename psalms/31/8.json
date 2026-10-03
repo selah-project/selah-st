@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Ke tla thaba mme ke ikgantsha ka hesede la hao, eo u boneng ⟨את⟩ lefu la ka; u tsebile dikgatelelo tsa moya wa ka.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Ke tla thaba"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "mme ke ikgantsha"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "ka hesede la hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "u boneng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "lefu la ka"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "u tsebile"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "dikgatelelo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "tsa moya wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:23.729214942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Mamelang se, ditjhaba tsohle; kenang tsebe, lulaahisi ba lefatshe.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mamelang"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "kenang tsebe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lulaahisi tsohle"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:12.901809526Z",
+  "model": "glm-5.3"
+}

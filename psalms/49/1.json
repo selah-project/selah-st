@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Ho motsamaisi wa koeto; ho bana ba Korakhe, mokoetliso.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho motsamaisi wa koeto"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoetliso"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:12.901554096Z",
+  "model": "glm-5.3"
+}

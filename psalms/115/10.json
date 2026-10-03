@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 115,
+  "translation": "Ntlo ya Aharone, tshepang ho Yahwe; o thuso ya lona le sehlele ya lona.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Ntlo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharone"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "tshepang"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "thuso ya lona"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "le sehlele ya lona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:05.861522051Z",
+  "model": "glm-5.3"
+}

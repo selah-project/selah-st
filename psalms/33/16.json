@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Ha ho morena ya pholohang ka bongata ba sesole, sebetsi ha a pholohwe ka ho feta hoja ka matla.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "ya pholohang"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka bongata"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sa sesole"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sebetsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "a pholohwe"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka ho feta"
+    },
+    {
+      "surface": "כח",
+      "gloss": "matla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:24.673547599Z",
+  "model": "glm-5.3"
+}

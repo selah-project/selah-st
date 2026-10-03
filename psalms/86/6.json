@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Thekisa tsebe hle, Yahwe, thapelo ya ka, mme utlwe ka hlakorelo molodi oa dikopo tsa ka.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Thekisa tsebe hle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "mme utlwe ka hlakorelo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "molodi"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "oa dikopo tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:52.881944842Z",
+  "model": "glm-5.3"
+}

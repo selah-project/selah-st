@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme moprista a fa baholo ba dikete tse lekgolo ⟨את⟩ tlhaka le ⟨את⟩ dikoko tsa morena Dawide, tse neng di le ka ntlong ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "baholo ba"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "dikete tse lekgolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhaka"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "tlhaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikoko"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "dikoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa morena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse neng"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:23:24.747263312Z",
+  "model": "glm-5.3"
+}

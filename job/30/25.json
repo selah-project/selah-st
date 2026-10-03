@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Na ha kea lla bakeng sa eo letsatsi la hae le leng thata? Moya wa ka o ile a hlohlora bakeng sa mohlaseli.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "kea lla"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "eo letsatsi la hae le leng thata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "a hlohlora"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "mohlaseli"
+    }
+  ],
+  "timestamp": "2026-10-03T11:29:39.702581911Z",
+  "model": "glm-5.3"
+}

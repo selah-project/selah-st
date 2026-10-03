@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Hobane o mo beile dipuso-tse-molemo ho sa feleng; o mo ntsoretse ka thabo ⟨את⟩ ea sefahleho sa hao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "o mo beile"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "dipuso-tse-molemo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "o mo ntsoretse"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ka thabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ea"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:09.672512146Z",
+  "model": "glm-5.3"
+}

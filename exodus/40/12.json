@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme o tla atisa ⟨את⟩ Aharone le ⟨את⟩ baruta ba hae ho fihlela mongopele wa toldi ya kopano, mme o tla ba hlatsoa ka metsi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "mme o tla atisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "baruta ba hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mongopele"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ya toldi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "mme o tla ba hlatsoa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "Aharone le baruta ba hae"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:05.098000023Z",
+  "model": "glm-5.3"
+}

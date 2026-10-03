@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Ba ile ba timetsoa ka En-Dore; ba ile ba fetoha dignong bakeng sa lefatshe.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Ba ile ba timetsoa"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "En-Dore"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ile ba fetoha"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "dignong"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "bakeng sa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:55.550996605Z",
+  "model": "glm-5.3"
+}

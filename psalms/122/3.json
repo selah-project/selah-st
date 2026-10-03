@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 122,
+  "translation": "Yerushalayime, e hahilweng joalo ka toropo e kopantsweng le eena ka bomong.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "e hahilweng"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "joalo ka toropo"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "e kopantsweng"
+    },
+    {
+      "surface": "לה",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ka bomong"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:44.896301628Z",
+  "model": "glm-5.3"
+}

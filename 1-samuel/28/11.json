@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme mosali a re: ⟨את⟩ Ke mang ke lokolisetsang ho wena? Mme ⟨he⟩ a re: ⟨את⟩ Shemuele — o lokolise ho 'na.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ke mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ke lokolisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuele"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuele"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "o lokolise"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T07:44:29.123444531Z",
+  "model": "glm-5.3"
+}

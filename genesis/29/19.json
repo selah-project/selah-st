@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme Labane a re: Ho lokile hore ke mo nehe ⟨את⟩ wena ho feta hore ke mo nehe ⟨את⟩ monna yo mong; dula le nna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a re"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Ho lokile"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "hore ke mo nehe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wena (eena)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ho feta hore ke mo nehe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "monna yo mong"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yo mong"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "dula"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T05:31:36.059817876Z",
+  "model": "glm-5.3"
+}

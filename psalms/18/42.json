@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Ba llela thuso, empa ha ho ya ba pholotsang; ho Yahwe, empa ha a ba arabe.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Ba llela thuso"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "empa ha ho"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ya ba pholotsang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "a ba arabe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:01.708146370Z",
+  "model": "glm-5.3"
+}

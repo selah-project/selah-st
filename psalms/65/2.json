@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 65,
+  "translation": "Ho wena khutšo e tla ba teboho, Elohim, ba Tsiyone; mme ho wena selemma se tla phethwa.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ho wena"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "khutšo"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "teboho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ba Tsiyone"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "mme ho wena"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "se tla phethwa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "selemma"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:03.193292305Z",
+  "model": "glm-5.3"
+}

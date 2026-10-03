@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme boahlaong ba bona bo ne bo le ho tloha Mesha, ha o ea ho ya ho Sephara, thabeng ya bochabela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme bo ne bo le"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "boahlaong ba bona"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "ho tloha Mesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "ha o ea ho ya"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Sephara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "ya bochabela"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:18.464244580Z",
+  "model": "glm-5.3"
+}

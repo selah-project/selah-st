@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme etsa ⟨את⟩ taba ena: tlosa dikgosi, e nngwe le e nngwe sebakeng sa yona, mme beha balaodi boemong ba tsona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme etsa ⟨את⟩",
+      "marks": "taba ena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "tlosa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "e nngwe le e nngwe"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "sebakeng sa yona"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "mme beha"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "boemong ba tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:14:15.757914071Z",
+  "model": "glm-5.3"
+}

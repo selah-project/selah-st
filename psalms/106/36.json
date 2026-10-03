@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme ba hlankela ⟨את⟩ melimo ya tsona, mme eaba e ba fella ka seku.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Mme ba hlankela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melimo ya tsona"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "melimo ya tsona"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme eaba e ba fella"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "ka seku"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:05.132811048Z",
+  "model": "glm-5.3"
+}

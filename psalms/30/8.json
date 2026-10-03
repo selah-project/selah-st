@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Yahwe, ka tumelo ya hao o ile o emisa matla bakeng sa thaba ya ka; o ile wa pata sefahleho sa hao, mme ke ile ka tsholoha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ka tumelo ya hao"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "o ile o emisa"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "bakeng sa thaba ya ka"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "o ile wa pata"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ile ka"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "tsholoha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:24.229438508Z",
+  "model": "glm-5.3"
+}

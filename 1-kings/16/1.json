@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme lentse la Yahwe le ile la tla ho Yehue, mora wa Khanane, kgahlanong le Baasha, ho re:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme ... le ile la tla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehue"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Khanane"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    }
+  ],
+  "timestamp": "2026-10-03T08:12:44.421580098Z",
+  "model": "glm-5.3"
+}

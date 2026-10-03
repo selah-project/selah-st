@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme ha o a ntshwara ka letsoho ho ea pele, o ile a emisa maoto a ka sebakala se seholo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ha o a"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "ntshwara"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ea pele"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "o ile a emisa"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "sebakala se seholo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:46.177459643Z",
+  "model": "glm-5.3"
+}

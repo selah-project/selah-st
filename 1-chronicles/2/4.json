@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Tamara, mohadika wa hae, a mo alatsa ⟨את⟩ Phareze le ⟨את⟩ Zarake; bana bohle ba Yehudha e mehlano.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Mme Tamara"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "mohadika wa hae"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a mo alatsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Phareze"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Phareze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Zarake"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zarake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "e mehlano"
+    }
+  ],
+  "timestamp": "2026-10-03T12:10:06.735433584Z",
+  "model": "glm-5.3"
+}

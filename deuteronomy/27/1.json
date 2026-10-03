@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme Moshe le baledi ba Yisraele ba laela ⟨את⟩ setjhaba, ba re: Hlokomela ⟨את⟩ taelo eohle eo ke e laelang le kajeno.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ba laela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "le baledi ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Hlokomela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo eohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "e laelang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    }
+  ],
+  "timestamp": "2026-10-03T06:58:23.575431745Z",
+  "model": "glm-5.3"
+}

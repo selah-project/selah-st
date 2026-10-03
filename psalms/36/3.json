@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Hobane o e borella mahlong a hae, ho fumana boeena ba hae bo hloaeuoa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "o e borella"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "mahlong a hae"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ho fumana"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "boeena ba hae"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "bo hloaeuoa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:40.879463645Z",
+  "model": "glm-5.3"
+}

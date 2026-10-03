@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 149,
+  "translation": "Halalu Yah! Binkalong ho Yahwe sefoko se secha, le tlhompho ya hae ka phuthehong ya bahalefu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halalu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Binkalong"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sefoko"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "se secha"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tlhompho ya hae"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ka phuthehong"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ya bahalefu"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:56.455394128Z",
+  "model": "glm-5.3"
+}

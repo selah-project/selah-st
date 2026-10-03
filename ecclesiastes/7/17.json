@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Se ke wa etsa boso haholo, mme se ke wa ba sephetha; hobaneng o ka shala kantle ho nako ya hao?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "wa etsa boso"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme se ke"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "wa ba"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "sephetha"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "o ka shala"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "kantle ho"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "nako ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:23.525057751Z",
+  "model": "glm-5.3"
+}

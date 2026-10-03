@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme morena Shelomo o ile a rata basali ba mafatshe a mang, ba bangata, le ⟨את⟩ morali wa Farao, ba Mowabe, ba Amoni, ba Edome, ba Tsidone, le ba Heti.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "mme morena"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o ile a rata"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basali"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "ba mafatshe a mang"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ba bangata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "morali wa Farao"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morali"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Farao"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "ba Mowabe"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ba Amoni"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "ba Edome"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "ba Tsidone"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "ba Heti"
+    }
+  ],
+  "timestamp": "2026-10-03T08:10:49.848252401Z",
+  "model": "glm-5.3"
+}

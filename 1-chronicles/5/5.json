@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mikha mora wa hae, Reaya mora wa hae, Bela mora wa hae.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "Mikha"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Reaya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T12:10:39.718996529Z",
+  "model": "glm-5.3"
+}

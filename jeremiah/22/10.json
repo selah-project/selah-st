@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Le se ke la llla lefung, le se ke la llla motho eo; lllang hafihlela bakeng sa ya tsamayang, hobane o ke ke wa kgutla hape, le ho bona ⟨את⟩ lefatshe la tlhaho ya hae.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "la llla"
+    },
+    {
+      "surface": "למת",
+      "gloss": "lefung"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "la llla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "motho eo"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "lllang"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "hafihlela"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "bakeng sa ya tsamayang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "o kgutla"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "le ho bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "la tlhaho ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T09:12:37.257077853Z",
+  "model": "glm-5.3"
+}

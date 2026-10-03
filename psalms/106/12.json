@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme ba lumela mantsweng a hae, ba opela leina la hae ka转矩 praise.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "ba lumela"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "mantsweng a hae"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ba opela"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tionalo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:43.027512904Z",
+  "model": "glm-5.3"
+}

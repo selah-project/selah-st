@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme a thunya ⟨את⟩ melaetsa, a khaola ⟨את⟩ disu tsa Ashera, mme a tlatsa ⟨את⟩ libaka tsa tsona ka masapo a batho.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "a thunya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melaetsa"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "melaetsa"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "a khaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disu tsa Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "disu tsa Ashera"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "a tlatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libaka tsa tsona"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "libaka tsa tsona"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "masapo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a batho"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:11.603430134Z",
+  "model": "glm-5.3"
+}

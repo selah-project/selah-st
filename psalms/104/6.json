@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Tebo e ka seaparo o e khupile; metsi a eme hodima dithaba.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tebo"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "ka seaparo"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "o e khupile"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "a eme"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:26.314544821Z",
+  "model": "glm-5.3"
+}

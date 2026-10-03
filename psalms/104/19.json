@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "O ile a etsa ngwedi bakeng sa dinako tse behilweng; letsatsi le a tseba ho fihla ha lona.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ngwedi"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "bakeng sa dinako tse behilweng"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "le a tseba"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ho fihla ha lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:55.327696667Z",
+  "model": "glm-5.3"
+}

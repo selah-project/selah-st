@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mo beng o lebeleletse ⟨את⟩ ea lokileng, mme o batla ho mo bolaea.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "o lebeleletse"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mo beng"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ea lokileng"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "mme o batla"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ho mo bolaea"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:43.371880471Z",
+  "model": "glm-5.3"
+}

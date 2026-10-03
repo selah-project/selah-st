@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 87,
+  "translation": "Dintho tse nang le kgalalelo di bolelowa ka wena, toropo ya Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "dintho tse nang le kgalalelo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "di bolelowa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:54.319539567Z",
+  "model": "glm-5.3"
+}

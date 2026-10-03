@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ra a hlotla ⟨את⟩ Tofete, eo e leng boteanelong ba bana ba Hinome, hore motho a se ke a fetaetsa ⟨את⟩ mora wa hae le ⟨את⟩ moradi wa hae ka mollo ho Molekhe.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "ra a hlotla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofete"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e leng"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "boteanelong ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinome"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hore a se ke"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "a fetaetsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mora wa hae"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "moradi wa hae"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "moradi wa hae"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho Molekhe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:29:57.506318018Z",
+  "model": "glm-5.3"
+}

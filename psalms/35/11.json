@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Bopaki ba tshepetso bo tla ema; seo ke sa se tsebang ba mpotla sona.",
+  "tokens": [
+    {
+      "surface": "יקומומון",
+      "gloss": "ba tla ema"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ba tshepetso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke se tsebang"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ba mpotla sona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:09.835600852Z",
+  "model": "glm-5.3"
+}

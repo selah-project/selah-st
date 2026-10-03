@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme lerumo le tla hlasela ditoropo tsa hae, le tla qeta dikoere tsa hae, le tla li ja, ka baka la merero ea tsona.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "le tla hlasela"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lerumo"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "ditoropo tsa hae"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "le tla qeta"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dikoere tsa hae"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "le tla ja"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "ka baka la merero ea tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:02:59.636655357Z",
+  "model": "glm-5.3"
+}

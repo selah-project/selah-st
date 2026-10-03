@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Empa nna, joalo ka sefofu, ha ke utlwe; mme joalo ka se sa bueng, ha se bule molomo wa sona.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Empa nna"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "joalo ka sefofu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ke utlwe"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "mme joalo ka se sa bueng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "se bule"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molomo wa sona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:11.832608250Z",
+  "model": "glm-5.3"
+}

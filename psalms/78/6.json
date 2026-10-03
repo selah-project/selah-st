@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Hore sehlopha sa morao sona se tsebe, bana ba tla belegwang, ba tsohe mme ba phetelle ho bana ba bona.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "se tsebe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sehlopha"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sa morao sona"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ba tla belegwang"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ba tsohe"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "mme ba phetelle"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ho bana ba bona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:33.480908271Z",
+  "model": "glm-5.3"
+}

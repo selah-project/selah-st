@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Sefora sa Dawide, a sa sievelela a tshabile sefateng sa Abeshalome mora wa hae.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Sefora"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dawide"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "a sa sievelela a tshabile"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sefateng sa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abeshalome"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:09:20.651075088Z",
+  "model": "glm-5.3"
+}

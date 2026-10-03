@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "o tla seka ⟨את⟩ letsoho la hae; mahlo a hao a se ke a mohloba.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "o tla seka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la hae"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "a mohloba"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "mahlo a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T12:50:31.155874115Z",
+  "model": "glm-5.3"
+}

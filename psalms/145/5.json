@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Segodiso sa kgalalelo ya hodima ya hao, mme mantswe a makatsang a hao ke tla a nahana ka seo.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "segodiso"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "hodima ya hao"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "mme mantswe a"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "makatsang a hao"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ke tla a nahana ka seo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:20.491566391Z",
+  "model": "glm-5.3"
+}

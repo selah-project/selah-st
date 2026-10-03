@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme jwale khutla, mme tsamaea ka khotso, mme o se ke wa etsa bobe mahlonong a barena ba Balefistea.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "khutla"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "mme tsamaea"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ka khotso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlonong a"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "barena ba"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Balefistea"
+    }
+  ],
+  "timestamp": "2026-10-03T07:46:21.420602569Z",
+  "model": "glm-5.3"
+}

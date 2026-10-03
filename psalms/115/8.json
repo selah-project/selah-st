@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 115,
+  "translation": "Ba li etsang ba tla ba tshwana le tsona, karolo eohle ya tshabelang ho tsona.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ba tla ba tshwana le tsona"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ba li etsang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "karolo eohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tshabelang ho"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:48.997576365Z",
+  "model": "glm-5.3"
+}

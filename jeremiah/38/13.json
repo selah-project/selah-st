@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme ba mo nkušile Yirmeyahu ka meala, mme ba mo hlahisa ⟨אתו⟩ ka sedibeng; mme Yirmeyahu o ile a dula ka tsamaisong ya tshireletso.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "ba mo ntšile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "ka meala"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba mo hlahisitse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "sedibeng"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ka tsamaisong"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "ya tshireletso"
+    }
+  ],
+  "timestamp": "2026-10-03T09:23:30.901746134Z",
+  "model": "glm-5.3"
+}

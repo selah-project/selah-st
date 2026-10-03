@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "E be feela sechaba sa ka se ne se mamela ka 'na, mme Yisraele a tsamaea mecheng ea ka!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "E be feela"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sechaba sa ka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "se ne se mamela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka 'na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "mecheng ea ka"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "a tsamaea"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:57.880808125Z",
+  "model": "glm-5.3"
+}

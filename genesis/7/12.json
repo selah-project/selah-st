@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme pula e ile ya na holim'a lefatshe matsatsi a mashome a mane le bosiu bo mashome a mane.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho ile ha ba le"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "pula"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "a mashome a mane"
+    },
+    {
+      "surface": "יום",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "le bosiu bo mashome a mane"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosiu"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:41.753610362Z",
+  "model": "glm-5.3"
+}

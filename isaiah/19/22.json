@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Yahwe o tla otla ⟨את⟩ Mitsrayime, a otle a fodise; mme ba tla kgutlela ho Yahwe, mme o tla araba ba lumellana le bona, mme a ba fodise.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "o tla otla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "a otle"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "a fodise"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "mme ba tla kgutlela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "mme o tla araba ba lumellana le"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "mme a ba fodise"
+    }
+  ],
+  "timestamp": "2026-10-03T08:38:24.468506882Z",
+  "model": "glm-5.3"
+}

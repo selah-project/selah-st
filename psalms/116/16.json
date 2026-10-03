@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Ao, Yahwe, hobane ke mohlanka wa hao — ke mohlanka wa hao, mora wa lehlanka la hao; o ile wa ntlohela dikgoko tsa ka.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa hao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa hao"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wa lehlanka la hao"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "o ile wa ntlohela"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "dikgoko tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:38.264825777Z",
+  "model": "glm-5.3"
+}

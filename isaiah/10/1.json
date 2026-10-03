@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mahloni ho ba hlomamisang melao ya phoo, le ba ngolang, ba ngola bofokodi!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mahloni"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "ho ba hlomamisang"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "melao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ya phoo"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "le ba ngolang"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bofokodi"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ba ngola"
+    }
+  ],
+  "timestamp": "2026-10-03T08:37:30.503767418Z",
+  "model": "glm-5.3"
+}

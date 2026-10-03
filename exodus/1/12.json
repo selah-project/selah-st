@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ha ba ne ba e qefsa ⟨את⟩ sona, jwalo e mengata, mme jwalo e atisa; ba ba khopisa ka baka la bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ba ne ba e qefsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sona (sechaba sa Yisraele)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "e mengata"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "mme jwalo"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "e atisa"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "ba ba khopisa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:36.674008890Z",
+  "model": "glm-5.3"
+}

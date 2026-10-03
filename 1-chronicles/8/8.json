@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Shaharayime o tswetse sebakeng sa Moabe, kamora ho ba romela ⟨אתם⟩ hae; Khushime le ⟨את⟩ Bearaye — basali ba hae.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Mme Shaharayime"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o tswetse"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kamora"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ho ba romela hae"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Khushime le Bearaye"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Khushime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bearaye"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Bearaye"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basali ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T12:12:26.419315490Z",
+  "model": "glm-5.3"
+}

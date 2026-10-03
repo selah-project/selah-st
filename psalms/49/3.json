@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Le bana ba motho, le bana ba monna, mmoho; moki le motswahala.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmoho"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "moki"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le motswahala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:12.901961373Z",
+  "model": "glm-5.3"
+}

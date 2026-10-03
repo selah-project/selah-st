@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Na ha o tsebe sena ho tloha khale, ho tloha ha motho a beilwe hodima lefatshe?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Na ha o tsebe"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "khale"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ho tloha ha"
+    },
+    {
+      "surface": "שים",
+      "gloss": "a beilwe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:26:38.620235172Z",
+  "model": "glm-5.3"
+}

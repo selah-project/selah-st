@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Ke tla kutlolla tsebe ya ka ho mohlala; ke tla bula sephirimathi sa ka ka kinore.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "ke tla kutlolla"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ho mohlala"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "tsebe ya ka"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ke tla bula"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kinore"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "sephirimathi sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:23.192800151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme Abrahame o ile a fa Yitshake ⟨את⟩ tsohle tse neng di le teng ho yena.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o ile a fa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle tse neng di le teng ho yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse neng di le teng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T05:29:31.943888561Z",
+  "model": "glm-5.3"
+}

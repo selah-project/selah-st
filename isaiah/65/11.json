@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 65,
+  "translation": "Empa lona, ba siileng Yahwe, ba lebaleleng ⟨את⟩ thaba e halalelang ya ka, ba lokisang tafole bakeng sa Gade, le ba tlatsang mokorotso o tsoakaneng bakeng sa Meni;",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "empa lona"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "ba siileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "ba lebaleleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba e halalelang ya ka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "e halalelang ya ka"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "ba lokisang"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "bakeng sa Gade"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "le ba tlatsang"
+    },
+    {
+      "surface": "למני",
+      "gloss": "bakeng sa Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "mokorotso o tsoakaneng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:59:23.687023538Z",
+  "model": "glm-5.3"
+}

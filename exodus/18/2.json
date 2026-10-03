@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Yitro, sesi wa Moshe, o ile a nka ⟨את⟩ Tsiporha, mosadi wa Moshe, kamora ho mo romela hae.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o ile a nka"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "sesi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiporha"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsiporha"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "wa Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kamora"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "ho mo romela hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:45.297788206Z",
+  "model": "glm-5.3"
+}

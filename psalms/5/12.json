@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme ba kholofalang ho wena ba thabe; ka ho sa feleng ba opelle thabo; mme o ba apese hodima bona; mme ba ratang lebitso la hao ba thabele ho wena.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "mme ba thabe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "ba kholofalang"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka ho sa feleng"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ba opelle thabo"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "mme o ba apese"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "hodima bona"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "mme ba thabele"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ba ratang"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:23.070677735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme sena ke sona seo o tla se etsa ka sona: bophara ba sekele diema tse makgolo a mararo; bophara ba bophara diema tse mashome a mahlano; bophara ba boholo diema tse mashome a mararo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "mme sena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla se etsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sona"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tse mararo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "diema"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bophara ba letelele"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sa sekele"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "tse mashome a mahlano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "diema"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bophara ba bophara"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "le tse mashome a mararo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "diema"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "bophara ba boholo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:19.270254956Z",
+  "model": "glm-5.3"
+}

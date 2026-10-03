@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ho ya ka dikahlolo tsa hao di eme ⟨letsatsi lena⟩; hobane tsohle di ⟨ke⟩ bareki ba hao.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "ho ya ka dikahlolo tsa hao"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "di eme"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi lena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bareki ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:41.075911734Z",
+  "model": "glm-5.3"
+}

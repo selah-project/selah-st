@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme morena a re ho Amasha: Bitlela ka eng karolo ya me ⟨את⟩ banna ba Yehuda matsatsi a mararo; mme wena, ema mona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme ... a re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasha"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "bitlela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka eng karolo ya me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna ba Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ema"
+    }
+  ],
+  "timestamp": "2026-10-03T07:58:02.403844838Z",
+  "model": "glm-5.3"
+}

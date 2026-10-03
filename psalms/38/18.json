@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Hobane ke ⟨⟨ke⟩⟩ ya hobohlela, mme bohloko ba ka bo ⟨bo⟩ teng pela ka kamehla.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "ya hobohlela"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e sieo"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "mme bohloko ba ka"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "pela ka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kamehla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:10.743176509Z",
+  "model": "glm-5.3"
+}

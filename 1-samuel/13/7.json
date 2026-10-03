@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme Maheberu a bapala ⟨את⟩ Jordaene, ea leateng la Gade le Gileade; mme Shaeule a ntse a le Giligale, mme sechaba sona sohle se ne se tshohile ho latela hae.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Mme Maheberu"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "a bapala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordaene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordaene"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leateng la"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "le Gileade"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "mme Shaeule"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "a ntse a le"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Giligale"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme sohle sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "se ne se tshohile"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ho latela hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:35:00.293777780Z",
+  "model": "glm-5.3"
+}

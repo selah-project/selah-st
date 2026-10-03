@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme ho tloha mokhatlong oa Yisaskare ⟨את⟩ Qedese le ⟨את⟩ mahlaseli a yona, ⟨את⟩ Daberate le ⟨את⟩ mahlaseli a yona.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mme ho tloha mokhatlong oa"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisaskare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedese"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mahlaseli a yona"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mahlaseli a yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberate"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mahlaseli a yona"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mahlaseli a yona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:12:32.196876183Z",
+  "model": "glm-5.3"
+}

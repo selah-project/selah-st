@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Hobaneng, Yahwe, o ema kgakala? O itokya metsotsoana ya kahlolo?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "o ema"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "kgakala"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "O itokya"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "metsotsoana"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ya kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:16.011797715Z",
+  "model": "glm-5.3"
+}

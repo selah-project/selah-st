@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Hore ba phatlalatse ⟨את⟩ lebitso la Yahwe ho Tsiyone, le tumo ya hae ho Yerushalayime;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "hore ba phatlalatse"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ho Tsiyone"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "le tumo ya hae"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ho Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:34.037254334Z",
+  "model": "glm-5.3"
+}

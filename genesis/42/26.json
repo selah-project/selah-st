@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Ba beha ⟨את⟩ poone ea bona hodima ditonki tsa bona, mme ba tloha moo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ba beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poone ea bona"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "poone ea bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ditonki tsa bona"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba tloha"
+    },
+    {
+      "surface": "משם",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:29.858314292Z",
+  "model": "glm-5.3"
+}

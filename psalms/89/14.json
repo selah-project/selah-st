@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Ho wena ⟨⟨ho na le⟩⟩ letsoho la matla le bokgabane; letsoho la hao le thata, mokgoe wa hao o phahame.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ho wena"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "letsoho la matla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "bokgabane"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "le thata"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hao"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "o phahame"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mokgoe wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:52.144237278Z",
+  "model": "glm-5.3"
+}

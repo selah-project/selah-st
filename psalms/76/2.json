@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 76,
+  "translation": "⟨E tsejwa⟩ ka Yehuda Elohim; ka Yisraele lebitso la hae le le kgolo.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "o tsejwa"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ka Yehuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ka Yisraele"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kgolo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:07.001632658Z",
+  "model": "glm-5.3"
+}

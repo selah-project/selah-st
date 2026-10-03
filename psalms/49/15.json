@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Joalo ka dikonyana, ba beilwe bakeng sa Sheole; lefu le tla ba tlisa; mme ba lokuang ba tla busa ho bona hoseng; mme sebopeho sa bona se jele, Sheole e le bophelo bo hlahlamang bakeng sa sona.",
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "Joalo ka dikonyana"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "bakeng sa Sheole"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ba beilwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "le tla ba tlisa"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "mme ba tla busa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba lokuang"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "mme sebopeho sa bona"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "se jele"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "מזבל",
+      "gloss": "bophelo bo hlahlamang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bakeng sa sona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:50.388106489Z",
+  "model": "glm-5.3"
+}

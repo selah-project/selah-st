@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme moprista a tla futhatsa ⟨את⟩ sehopotso sa yona, karolo ya dijumboro tsa yona le karolo ya mafura a yona, le libone la yona kaofela; sehlabelo sa mollo ho Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "mme a tla futhatsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehopotso sa yona"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "sehopotso sa yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "karolo ya dijumboro tsa yona"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "le karolo ya mafura a yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "libone la yona"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sehlabelo sa mollo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:46:12.523949063Z",
+  "model": "glm-5.3"
+}

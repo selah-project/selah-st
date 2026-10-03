@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Mure le alose le kasia — kaofela ⟨⟨⟩⟩ diaparo tsa hao — ho tloha dipaleiseng tsa lemino, dinotsi di ile tsa u thabisa.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mure"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "le alose"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "le kasia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "diaparo tsa hao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "dipaleisi tsa"
+    },
+    {
+      "surface": "שן",
+      "gloss": "lemino"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dinotsi"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "di ile tsa u thabisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:52.855828760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Mme bana ba hae ba ferefalle ho sa feleng, ba kope, mme ba batle borotho bona bo tswang dithotong tsa bona.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "mme ba ferefalle"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ba kope"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ba batle borotho bona"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "bo tswang dithotong tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:20.562844575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme setjhaba sohle se lebone ⟨את⟩ medumo le ⟨את⟩ melatsi le ⟨את⟩ modumo wa shofara le ⟨את⟩ thaba e hungoang motsi; mme setjhaba ha se bona, sa thotheka mme sa ema hole.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "se lebone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medumo"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "medumo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "melatsi"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "melatsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "modumo wa shofara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "wa shofara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "thaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "e hungoang motsi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ha se bona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "sa thotheka"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "sa ema"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "hole"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:47.904225521Z",
+  "model": "glm-5.3"
+}

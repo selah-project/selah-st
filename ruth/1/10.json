@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ba re ho yena: Ruri, le ⟨את⟩ uena re tla kgutlela ho sechaba sa hao.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le ⟨את⟩ uena"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "re tla kgutlela"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ho sechaba sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:37:15.309537907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Molokong le molokong tumelo ya hao ⟨e teng⟩; o thehile ⟨את⟩ lefatshe, mme le eme.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "Molokong"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le molokong"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tumelo ya hao"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "o thehile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "mme le eme"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:41.075781958Z",
+  "model": "glm-5.3"
+}

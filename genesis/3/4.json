@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme noha e re ho mosadi: Le tla tsoha le sa ⟨shoe⟩ ka ho sa feleng. │ Mme noha a re ho mosadi: Ha le tla tloha le shoela ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme noha a re"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "noha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha le tla"
+    },
+    {
+      "surface": "מות",
+      "gloss": "shoela"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:53.892800848Z",
+  "model": "glm-5.3"
+}

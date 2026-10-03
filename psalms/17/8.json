@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Ntjephe jwalo ka ishone, ngwana wa leihlo; ka moru wa manaheng a hao o mpate.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ntjephe"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "jwalo ka ishone"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ngwana wa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ka moru wa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "manaheng a hao"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "o mpate"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:18.376734698Z",
+  "model": "glm-5.3"
+}

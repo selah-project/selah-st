@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ya matla le motho wa ntwa, moahlodi le moporofeta, sebaloi le moqhelekane.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Ya matla"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le motho"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wa ntwa"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "moahlodi"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "le moporofeta"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "sebaloi"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "le moqhelekane"
+    }
+  ],
+  "timestamp": "2026-10-03T13:00:49.545072521Z",
+  "model": "glm-5.3"
+}

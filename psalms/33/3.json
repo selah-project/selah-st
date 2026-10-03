@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Binang ho yena pina e ncha; bapalang hantle ka terua.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Binang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e ncha"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "etsang hantle"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ho bapala"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ka terua"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:57.416553989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Re hopola ⟨את⟩ tlhapi eo re neng re e ja Mitsrayime mahala, ⟨את⟩ makukurametsi, le ⟨את⟩ dinamune, le ⟨את⟩ dikhatsela, le ⟨את⟩ likhoinyape, le ⟨את⟩ likorokorwa.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Re hopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhapi"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "tlhapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "re neng re e ja"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makukurametsi"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "makukurametsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dinamune"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "dinamune"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikhatsela"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "dikhatsela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "likhoinyape"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "likhoinyape"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "likorokorwa"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "likorokorwa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:27:52.722315778Z",
+  "model": "glm-5.3"
+}

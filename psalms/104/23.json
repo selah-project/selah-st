@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Motho o tswa ho mosebenti wa hae, le ho sebeletsa ha hae, ho fihlela mantsiboya.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "o tswa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "ho mosebenti wa hae"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "le ho sebeletsa ha hae"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mantsiboya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:58.389581147Z",
+  "model": "glm-5.3"
+}

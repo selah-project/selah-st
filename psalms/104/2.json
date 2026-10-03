@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "O apere khanya e le seaparo, o phalla mahodimo e le tenda.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "O apere"
+    },
+    {
+      "surface": "אור",
+      "gloss": "khanya"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "e le seaparo"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "o phalla"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "e le tenda"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:56.649912802Z",
+  "model": "glm-5.3"
+}

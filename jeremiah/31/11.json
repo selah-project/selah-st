@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Hobane Yahwe o lokollotseng ⟨את⟩ Yaakobo, mme o mo pholotseng matlhohon a ya nang le matla ho feta eena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "o lokollotseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "mme o mo pholotseng"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "matlhohon a"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ya nang le matla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho feta eena"
+    }
+  ],
+  "timestamp": "2026-10-03T09:17:34.150726787Z",
+  "model": "glm-5.3"
+}

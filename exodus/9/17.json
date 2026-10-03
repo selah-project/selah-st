@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "O sa ntse o ikhumamisa ho sechaba sa ka, hore o se ke wa ba romolla.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "o sa ntse"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "o ikhumamisa"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "ho sechaba sa ka"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hore o se ke wa"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "ba romolla"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:00.381728031Z",
+  "model": "glm-5.3"
+}

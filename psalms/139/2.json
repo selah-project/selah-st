@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "U tseba ⟨ha⟩ nnofo ea ka le ho ntsoha ha ka; o hlalositse ⟨mekhaleng ea⟩ ea ka haholo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tseba"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "nnofo ea ka"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "le ho ntsoha ha ka"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "o hlalositse"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "⟨mekhaleng ea⟩ ea ka"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:00.921714962Z",
+  "model": "glm-5.3"
+}

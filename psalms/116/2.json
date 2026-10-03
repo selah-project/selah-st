@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Hobane o ile a thiba sehlekelele sa hae ho ya ho 'na, mme nakong ea matsatsi a ka ke tla bitsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "o ile a thiba"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sehlekelele sa hae"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ya ho 'na"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "nakong ea matsatsi a ka"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke tla bitsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:36.601296003Z",
+  "model": "glm-5.3"
+}

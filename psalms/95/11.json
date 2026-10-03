@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 95,
+  "translation": "Ka baka leo, ka tšereho ya ka, ka ikana hore: ba ke ke ba kenela phomolo ya ka.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ka baka leo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ka ikana"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ka tšereho ya ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "ba ke ke ba kenela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "phomolo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:53.085902572Z",
+  "model": "glm-5.3"
+}

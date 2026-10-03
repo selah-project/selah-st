@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Noahe a qala ho ba monna wa mobu, mme a jala serameng sa dinape.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "a qala"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "wa mobu"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "a jala"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "serameng sa dinape"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:00.340418626Z",
+  "model": "glm-5.3"
+}

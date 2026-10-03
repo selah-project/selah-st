@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme o ile a etsa ⟨את⟩ ditshebetso tsotlhe tsa aletare: ⟨את⟩ dipitsa, le ⟨את⟩ di-shovara, le ⟨את⟩ dibasinie, ⟨את⟩ dinotshi tsa nama, le ⟨את⟩ dipitsa tsa mollo; ditshebetso tsa yona tsotlhe o ile a di etsa ka tompe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme o ile a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditshebetso tsotlhe tsa aletare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ditshebetso"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "tsa aletare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipitsa"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "dipitsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "di-shovara"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "di-shovara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dibasinie"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "dibasinie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinotshi tsa nama"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "dinotshi tsa nama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipitsa tsa mollo"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "dipitsa tsa mollo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsotlhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ditshebetso tsa yona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ile a di etsa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ka tompe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:27.501846486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme baholo ba malapa a Yehuda le Benjamine, baprista le Balevi, ba emela — le bohle ba ⟨את⟩ ruakh ya bona Elohim a e tsositse — hore ba pele ho ea haho ⟨את⟩ ntlo ya Yahwe eo e leng Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ba emela"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ba malapa"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "a Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "le Benjamine"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "le bohle"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a tsositse"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya bona"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh ya bona"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "hore ba pele ho ea"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "haho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e leng"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T13:17:24.668054778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "E tlang molomo wa bona o bua ntho e se nang thuso, mme letsoho la bona la ho ja ⟨⟨ke⟩⟩ letsoho la leshano.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "e tlang"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "molomo wa bona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o bua"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ntho e se nang thuso"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "mme letsoho la bona la ho ja"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "letsoho"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "la leshano"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:34.880894668Z",
+  "model": "glm-5.3"
+}

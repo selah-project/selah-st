@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme a neha lehlakore le le mong le le le mong, mme a bona hore ha ho motho, mme a otlolla ⟨את⟩ Moegyptara, mme a mo pata lehoatata.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "a neha"
+    },
+    {
+      "surface": "כה",
+      "gloss": "lehlakore le le mong"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "le le le mong"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a otlolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moegyptara"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Moegyptara"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "a mo pata"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "lehoatata"
+    }
+  ],
+  "timestamp": "2026-10-03T12:43:53.559378754Z",
+  "model": "glm-5.3"
+}

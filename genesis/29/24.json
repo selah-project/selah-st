@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme Lebane a mo neha ⟨את⟩ Zilpa, mothlapa wa hae, ho Lea moradi wa hae, e le mothlapa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a neha"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lebane"
+    },
+    {
+      "surface": "לה",
+      "gloss": "a mo neha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa mothlapa wa hae"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "mothlapa wa hae"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "ho Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "moradi wa hae"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "e le mothlapa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:30:42.264253600Z",
+  "model": "glm-5.3"
+}

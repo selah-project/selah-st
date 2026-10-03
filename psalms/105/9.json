@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Eo a e kotulang le ⟨את⟩ Abrahame, mme lekane la hae le Yitshake:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a e kotulang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "mme lekane la hae"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "le Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:13.153144394Z",
+  "model": "glm-5.3"
+}

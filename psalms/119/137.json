@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "O lokileng, wena Yahwe, mme kahlolo ya hao ke ya <fihlile> tsedeke.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ya <fihlile>"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "kahlolo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:10.937395715Z",
+  "model": "glm-5.3"
+}

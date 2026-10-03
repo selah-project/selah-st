@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Yahwe, e, ba ntsenyang khotsiso ba ile ba ata! Ba bangata ba namela kgahlanong le nna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "e"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ba ile ba ata"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ba ntsenyang khotsiso"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bangata"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ba namela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T13:09:20.651302161Z",
+  "model": "glm-5.3"
+}

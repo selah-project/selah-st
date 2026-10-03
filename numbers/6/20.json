@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 6:20",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme moprista o li tsamaise e le sehlabelo sa ho tsamaisoa ⟨pelas⟩ Yahwe; ⟨e⟩ halalela bakeng sa moprista, le sehuba sa ho tsamaisoa le setho sa pelehlano ea ho nehoa; mme kamora moo Mnazare a ka noa veine.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "o li tsamaise"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ li-",
+      "marks": "lihlabelo tsa Mnazare"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "sehlabelo sa ho tsamaisoa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pelas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨e⟩ halalela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bakeng sa moprista"
+    },
+    {
+      "surface": "על",
+      "gloss": "le"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "sehuba"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "sa ho tsamaisoa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "setho"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "sa pelehlano ea ho nehoa"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mme kamora moo"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "a ka noa"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "Mnazare"
+    },
+    {
+      "surface": "יין",
+      "gloss": "veine"
+    }
+  ],
+  "timestamp": "2026-10-03T06:23:58.110092103Z",
+  "model": "glm-5.3"
+}

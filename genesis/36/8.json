@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Esau a dula thabeng ya Seire; Esau ke yena Edome.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seire"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yena"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T05:34:42.324691739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme Dawide a utlwa sekgoping hore Nabale a belesa ⟨את⟩ dinku tsa hae.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sekgoping"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "a belesa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinku tsa hae"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "dinku tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:43:12.589498301Z",
+  "model": "glm-5.3"
+}

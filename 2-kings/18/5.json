@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "O ikemetse ho Yahwe, Elohim wa Yisraele; mme ka mora hae ha ho aba ya tshwanang le yena hara dikumosi kaofela tsa Yehuda, kapa hara bao ba neng ba le pele ho hae.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "o ikemetse"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "mme ka mora hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ya tshwanang le yena"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hara kaofela"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikumosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "tsa Yehuda"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kapa hara bao"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba neng ba le"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ho hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:25:54.790075411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 75,
+  "translation": "Ho moeta-pele: Se senye. Mokoere wa Aasafe, pina.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moeta-pele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "senye"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mokoere"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa Aasafe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:41.189060516Z",
+  "model": "glm-5.3"
+}

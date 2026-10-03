@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ka lebaka lena, sechaba se matla se tla o hlompha, toropo ya machaba a maholo e tla o ts'aba.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebao lena"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "se tla o hlompha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "עז",
+      "gloss": "se matla"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "toropo ya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "machaba"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "a maholo"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "e tla o ts'aba"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:49.922850887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Hlohlella moya wa ka ho tloha ho sebethe; ea ka ea ikhethang ho tloha ho seatla sa ntja.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Hlohlella"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ho tloha ho sebethe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ho tloha ho seatla sa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ntja"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ea ka ea ikhethang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:31.573419583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Batho ba sa hlolang, ka tsela ya bohanyo ba bona le ka ditlolo tsa bona, ba iponahatsa kotsi.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "ba sa hlolang"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ka tsela ya"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "bohanyo ba bona"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "le ka ditlolo tsa bona"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "ba iponahatsa kotsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:24.303913036Z",
+  "model": "glm-5.3"
+}

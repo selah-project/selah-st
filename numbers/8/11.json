@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 8:11",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Aharone o tla fenya-fenya ⟨את⟩ Balevi ho fenyafenywa pele ya Yahwe, ho tswa ⟨mokgwa wa⟩ ⟨את⟩ bana ba Yisraele, mme ba tla ba ho etsa ⟨את⟩ mosebetsi wa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "o tla fenya-fenya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ho fenyafenywa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho tswa ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ba tla ba"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ho etsa mosebetsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebetsi"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:26:53.990509481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme e bile ka letsatsi leo Moshe a qetileng ho hlahisa ⟨את⟩ Mishkane, a e tlotsa, a e halaletsa, le ⟨את⟩ didiriswa tsa eona tsohle, le ⟨את⟩ aletare le ⟨את⟩ didiriswa tsa eona tsohle; a di tlotsa, a di halaletsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi leo"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "a qetileng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ho hlahisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "a e tlotsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a e halaletsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didiriswa tsa eona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "aletare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didiriswa tsa eona"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "a di tlotsa"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a di halaletsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tsona",
+      "marks": "didiriswa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:22:50.326292057Z",
+  "model": "glm-5.3"
+}

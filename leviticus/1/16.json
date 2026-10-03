@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme a tlose ⟨את⟩ seupe sa yona le mafoforo a yona, a e lahle hohle alatare, ka bochabela, sebakeng sa molora.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "a tlose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seupe sa yona"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "seupe sa yona"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "le mafoforo a yona"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "a e lahle"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hohle alatare"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "hohle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alatare"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ka bochabela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "molora"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:35.721748351Z",
+  "model": "glm-5.3"
+}

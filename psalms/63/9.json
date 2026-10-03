@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 63,
+  "translation": "Moya waka o khomaretse ho wena; letsoho la hao la ja le shekisa ka 'na.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "o khomaretse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya waka"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka 'na"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "le shekisa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsoho la hao la ja"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:13.921079424Z",
+  "model": "glm-5.3"
+}

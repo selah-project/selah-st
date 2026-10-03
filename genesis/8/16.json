@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Tsoa ho arake, wena le mosadi wa hao, le barwa ba hao, le basadi ba barwa ba hao ⟨אתך⟩.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Tsoa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "le mosadi wa hao"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "le barwa ba hao"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "le basadi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ba barwa ba hao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:57.886513278Z",
+  "model": "glm-5.3"
+}

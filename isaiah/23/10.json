@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Feta ka naha ya hao jwaloka ⟨Nila⟩, moradi wa Tarshishe; ha ho sa ⟨na⟩ mokoboro.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "feta"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ka naha ya hao"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "jwaloka Nila"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "wa Tarshishe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho sa"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "na mokoboro"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:40:44.957365888Z",
+  "model": "glm-5.3"
+}

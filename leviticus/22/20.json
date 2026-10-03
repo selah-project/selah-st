@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Sela se seng le se seng se nang senyeho, se se ke wa se hlahisa; hobane se ke ke sa amohelwa ho lona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sela se seng le se seng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho sona"
+    },
+    {
+      "surface": "מום",
+      "gloss": "senyeho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se se ke"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "wa se hlahisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "sa amohelwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:40.763678768Z",
+  "model": "glm-5.3"
+}

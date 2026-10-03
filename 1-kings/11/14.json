@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Yahwe a hlahisa mochani ho Sholomone: ⟨את⟩ Hadade wa Edome, wa pelelo ya morena — yena o ne a le Edome.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a hlahisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "mochani"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ho Sholomone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadade wa Edome"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "wa Edome"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "wa pelelo ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:09.382409563Z",
+  "model": "glm-5.3"
+}

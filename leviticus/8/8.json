@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a beha hodima hae ⟨את⟩ sefuba, mme a beha ⟨את⟩ Urim le ⟨את⟩ Thumim hara sefuba.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hodima hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefuba"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sefuba"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hara"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sefuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Thumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Thumim"
+    }
+  ],
+  "timestamp": "2026-10-03T06:08:21.094173597Z",
+  "model": "glm-5.3"
+}

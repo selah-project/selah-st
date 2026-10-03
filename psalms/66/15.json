@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Mehlatsetsana e mafura ke tla e phahamisela ho wena, le mokorobo wa mapome; ke tla etsa dikgomo le pereke. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "mehlatsetsana"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "e mafura"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ke tla e phahamisela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "mokorobo"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "wa mapome"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tla etsa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "pereke"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:33.464897832Z",
+  "model": "glm-5.3"
+}

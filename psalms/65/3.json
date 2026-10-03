@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 65,
+  "translation": "Mmueli wa thapelo, ho wena nama eohle e tla tla.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mmueli"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "thapelo"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "e tla tla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:03.193446038Z",
+  "model": "glm-5.3"
+}

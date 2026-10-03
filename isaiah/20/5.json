@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme ba tla tshoha mme ba nyefola ka baka la Kushe, tshepo ya bona, le ka baka la Mitsrayime, boholo ba bona.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ba tla tshoha"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ba nyefola"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "ka baka la Kushe"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "tshepo ya bona"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le ka baka la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "boholo ba bona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:37:49.417408269Z",
+  "model": "glm-5.3"
+}

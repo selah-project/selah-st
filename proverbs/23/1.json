@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ha o dutla ho ja le ⟨את⟩ molangato, utloisisa hantle ⟨את⟩ se se ka pele ga hao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "o dutla"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "ho ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molangato"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "molangato"
+    },
+    {
+      "surface": "בין",
+      "gloss": "utloisisa"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "hantle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se se ka pele ga hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ka pele ga hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:16:00.779803288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ba nka ⟨את⟩ serethe sa setshelo sa pela, ba ema pele ga Faro, mme Moshe ⟨את⟩ a se hlahlela mahodimong; mme ho ba mafu a maboholi a dintho tse botlase, a hlaha bathong le phoofolong.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ba nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serethe sa setshelo sa pela"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "serethe"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "setshelo sa pela"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ba ema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "a hlahlela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ a se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho ba"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "mafu a maboholi"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "dintho tse botlase"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "a hlaha"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "bathong"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "phoofolong"
+    }
+  ],
+  "timestamp": "2026-10-03T05:46:34.492681543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "O ile wa ikhahleisa Yahwe ⟨⟨le⟩⟩ lefatshe la hao, o ile wa buisolla sebuso sa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "O ile wa ikhahleisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "lefatshe la hao"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "o ile wa buisolla"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sebuso"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:59.520881576Z",
+  "model": "glm-5.3"
+}

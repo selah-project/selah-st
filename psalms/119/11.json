@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Pelong ya ka ke patile lentsoe la hao, hore ke se ke wa etsa phoso ho wena.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "pelong ya ka"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ke patile"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lentsoe la hao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "etsa phoso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:17.890416628Z",
+  "model": "glm-5.3"
+}

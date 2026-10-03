@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 63,
+  "translation": "Mme bona ba batla moya waka bakeng sa ho senngwa; ba tla kena ka tlase-tlase ha lefatshe.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "bakeng sa ho senngwa"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ba batla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya waka"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba tla kena"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ka tlase-tlase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ha lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:13.921474408Z",
+  "model": "glm-5.3"
+}

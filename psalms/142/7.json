@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 142,
+  "translation": "Mamela lla la ka, hobane ke fokotsehile haholo; ntlolohetse ho ba mpitsang, hobane ba matla ho feta nna.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "lla la ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ke fokotsehile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ntlolohetse"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "ho ba mpitsang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ba matla"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho feta nna"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:11.524019905Z",
+  "model": "glm-5.3"
+}

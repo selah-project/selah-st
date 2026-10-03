@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Tsoha, Elohim, lula kahlolo ya hau; hopola tshwaro ya hau ho ya tswa molatoadi, letsatsi lohle.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tsoha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "lula"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "kahlolo ya hau"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hopola"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "tshwaro ya hau"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ho ya tswa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "molatoadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:10.680097326Z",
+  "model": "glm-5.3"
+}

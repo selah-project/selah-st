@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Yahwe a re ho Moshe: Ntwa e nngwe hape ke tla e tlisa holima ya Pareo le holima ya Mitsrayime; ka mora moo o tla le romolla ⟨mona⟩; ha a le romolla, o tla le hlakola ka ho feletseng hlakoling ⟨mona⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ke tla e tlisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pareo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le holima ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "o tla le romolla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le",
+      "marks": "le (lona)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "ha a le romolla"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ka ho feletseng"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "hlakoling"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "o tla le hlakola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le",
+      "marks": "le (lona)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "mona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:09.006834956Z",
+  "model": "glm-5.3"
+}

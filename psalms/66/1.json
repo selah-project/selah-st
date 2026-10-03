@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Ya taelong ya moqapi. Sehlaha, moko. Mme lefatshe lohle le hleketse ka lentswe le phahameng ho Elohim.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ya taelong ya moqapi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sehlaha"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "le hleketse ka lentswe le phahameng"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:24.252987450Z",
+  "model": "glm-5.3"
+}

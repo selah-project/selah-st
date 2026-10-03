@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Bonwe, ke tla phalla hole, ke tla lula sebakeng se omileng. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ke tla phalla hole"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ke tla tsamaya"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ke tla lula"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sebakeng se omileng"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:17.767793035Z",
+  "model": "glm-5.3"
+}

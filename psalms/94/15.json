@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Hobane kahlolo e tla khutlela ho tsedeke, mme kamora eona botle ba pelo bo tla latela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "e tla khutlela"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "mme kamora eona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ba lolameng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ba pelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:32.234810374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme Yahwe o ile a etela ⟨את⟩ Saraha, jwalo ka ha a bile a re; mme Yahwe o etsela Saraha, jwalo ka ha a bile a bolela.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "o ile a etela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saraha"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mme o etsela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Saraha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bolela"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:35.872282152Z",
+  "model": "glm-5.3"
+}

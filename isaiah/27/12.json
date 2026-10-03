@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 27:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme ho tla etsahala ka letsatsi leo, hore Yahwe o tla kgabola mongobo ho tloha mololong o moholo wa noka ho fihlela molula wa Mitsrayime, mme lona le tla bokelwa, le le mong le le mong, bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme ho tla etsahala"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יחבט",
+      "gloss": "o tla kgabola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משבלת",
+      "gloss": "mongobo ho tloha mololong"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "o moholo wa noka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molula"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wa Mitsrayime"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "תלקטו",
+      "gloss": "le tla bokelwa"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "le le mong"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le le mong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:20.147878413Z",
+  "model": "glm-5.3"
+}

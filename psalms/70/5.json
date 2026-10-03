@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 70,
+  "translation": "A ho tlohe ho thaba, mme ba be le thabo ho wena, bohle ba o batlang; mme ba re kamehla, Elohim a be moholo; ba ratang tolokelo ya hao.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "A ho tlohe ho thaba"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "mme ba be le thabo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ba o batlang"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kamehla"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "a be moholo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ba ratang"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "tolokelo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:29.409880118Z",
+  "model": "glm-5.3"
+}

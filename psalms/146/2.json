@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 146,
+  "translation": "Ke tla otla Yahwe bophelong baka; ke tla bina ho Elohim ya ka, ha ntse ke phela.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Ke tla otla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "bophelong baka"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla bina"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ho Elohim ya ka"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ha ntse ke phela"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:34.898525728Z",
+  "model": "glm-5.3"
+}

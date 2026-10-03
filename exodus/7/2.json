@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "U tla bua ⟨את⟩ tsohle tseo ke di laelang, mme Aharone moahane wa hao o tla bua ho Faro, hore a bele ⟨את⟩ bana ba Yisraele naheng ya hae.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "tla bua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ke di laelang"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mme Aharone"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "moahane wa hao"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "a bele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "naheng ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:45:10.686881355Z",
+  "model": "glm-5.3"
+}

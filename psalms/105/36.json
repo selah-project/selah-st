@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "O ile a otla ⟨את⟩ motsoalloa wa pele mong le mong naheng ya bona, peleho ya matla a bona ohle.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "O ile a otla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "motsoalloa wa pele"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "naheng ya bona"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "peleho"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya bona ohle"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "matla a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:24.665044018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "O ile oa etsa tokelo ⟨את⟩ mosebedisi wa hau, Yahwe, ho ya ka lentsoe la hao.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tokelo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o ile oa etsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosebedisi wa hau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ho ya ka lentsoe la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:17.442455594Z",
+  "model": "glm-5.3"
+}

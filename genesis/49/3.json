@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Reubene, pele-pele ya ka ⟨u⟩ wena, matla a ka, le tshimoliso ya matla a ka, holimo ya phahamiso le holimo ya matla.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "pele-pele ya ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "le tshimoliso ya"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "holimo ya"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "phahamiso"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "le holimo ya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matla"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:35.374783101Z",
+  "model": "glm-5.3"
+}

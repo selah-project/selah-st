@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Yahwe o rata ⟨את⟩ ba mo ts'abang, ⟨את⟩ ba tshepang hesede hae.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "o rata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba mo ts'abang"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ba mo ts'abang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba tshepang hesede hae"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "ba tshepang"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesede hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:08.525941950Z",
+  "model": "glm-5.3"
+}

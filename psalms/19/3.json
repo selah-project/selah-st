@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Letsatsi ho ya ho letsatsi le tsholla puo, mme bosiu ho ya ho bosiu le senola tsebo.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Letsatsi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ho ya ho letsatsi"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "le tsholla"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "puo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mme bosiu"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ho ya ho bosiu"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "le senola"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:00.427587730Z",
+  "model": "glm-5.3"
+}

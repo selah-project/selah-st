@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme ho ne ho e-na le ntoa pakeng tsa Rekhabeame le Yerabeame matsatsi ohle.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Mme ... ntoa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ho ne ho e-na le"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabeame"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerabeame"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T08:11:21.538276561Z",
+  "model": "glm-5.3"
+}

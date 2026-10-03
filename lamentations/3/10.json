@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Eena o joaloka libere e lutseng e le emetseng ho 'na, o joaloka tau diphuthelong tsa boithatoho.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "libere"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "e lutseng e le emetseng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Eena"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "diphuthelong tsa boithatoho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:39:33.863303232Z",
+  "model": "glm-5.3"
+}

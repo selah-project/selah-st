@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 12:5",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Pele le mahlo a bona, hula ka ho qaqa ⟨את⟩ lerako, mme o tlose ka lona.",
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "pele le mahlo a bona"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "hula ka ho qaqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "lerako"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "mme o tlose"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka lona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:35:13.859470278Z",
+  "model": "glm-5.3"
+}

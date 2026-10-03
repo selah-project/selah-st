@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mantsoe ohle a pholaletse; motho a ka ke a a bolela; leihlo le ka ke la tlatsoa ka ho bona, mme tsebe e ka ke ea tlatsoa ka ho utloa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantsoe"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "a pholaletse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka ke"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "la tlatsoa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ka ho bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ea tlatsoa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ka ho utloa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:50.545462270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Samuele a atisa ho ba haufi ⟨את⟩ merabe ohle ea Yisraele, mme morabe oa Binyamine o ile oa tsewa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a atisa ho ba haufi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "merabe ohle ea Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "merabe ea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "mme o ile oa tsewa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "morabe"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamine"
+    }
+  ],
+  "timestamp": "2026-10-03T07:35:26.116143919Z",
+  "model": "glm-5.3"
+}

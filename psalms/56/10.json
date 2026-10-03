@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "translation": "Joale ba hlahelang ba tla khutlela morao ka letsatsi leo ke bitlang ka lona; se ke se tsebile, hore mahareng a ka Elohim o teng.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "joale"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ba tla khutlela"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ba hlahelang ba ka"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morao"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi leo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke bitlang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke se tsebile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mahareng a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:14.790907703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Hobane Elohim o tla isa ⟨את⟩ mosebeti ka mong ho kahlolo, holim'a ntho e neng e patilwe ka moka, e le eo e ntle kapa e mpe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebeti ka mong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka mong"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebeti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "o tla isa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ho kahlolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "e neng e patilwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e le eo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e ntle"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e mpe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:45:30.675529203Z",
+  "model": "glm-5.3"
+}

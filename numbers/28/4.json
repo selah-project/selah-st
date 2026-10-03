@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "⟨את⟩ pōdi e 'ngoe o e etsa hoseng, mme ⟨את⟩ pōdi ea bobeli o e etsa pakeng tsa mantsiboea.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pōdi e 'ngoe"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "pōdi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e 'ngoe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o e etsa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "pōdi ea bobeli"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "pōdi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ea bobeli"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o e etsa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mantsiboea"
+    }
+  ],
+  "timestamp": "2026-10-03T06:37:23.813505553Z",
+  "model": "glm-5.3"
+}

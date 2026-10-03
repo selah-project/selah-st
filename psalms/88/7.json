@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "O ntshetsedile leputleng ea maotong, bofifing, le meteng.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "o ntshetsedile"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "leputleng"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ea maotong"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "bofifing"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "le meteng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:20.346660070Z",
+  "model": "glm-5.3"
+}

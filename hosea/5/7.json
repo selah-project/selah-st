@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ho Yahwe ba qhekelletse, hobane ba tswaletse bana ba se nang molato; joale kgwedi e tla ba ja, ⟨e tla ja⟩ ⟨את⟩ dikarolo tsa tsona.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ba qhekelletse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ba se nang molato"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ba tswaletse"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "joale"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "e tla ba ja"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kgwedi e ncha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikarolo tsa tsona"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "dikarolo tsa tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:27.435380677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Moshe a bolela pele ga Yahwe, a re: Bonang, bana ba Yisraele ba sa ntshwarelle ho mamele ho 'na, mme Faro o tla mpotla joang, hobane ke motho wa sefahleho se sa tlotswang?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mamele"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "mme ... joang"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "o tla mpotla"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "hobane ke"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "se sa tlotswang"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "wa sefahleho ... motho wa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:40.705050534Z",
+  "model": "glm-5.3"
+}

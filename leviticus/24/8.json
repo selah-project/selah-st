@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Ka letsatsi la Shabata, ka letsatsi la Shabata, o tla e hlahlamisa pele ga Yahwe ka ho felela; ho tswa ⟨את⟩ ho bara ba Yisraele, selekane sa kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "o tla e hlahlamisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka ho felela"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho tswa ⟨את⟩",
+      "marks": "bara ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kahosafeleng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:16:32.855642937Z",
+  "model": "glm-5.3"
+}

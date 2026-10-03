@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Hobane yena o tla o lokolla mocheng wa mohlabeli, le sefefong sa bolotsana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "o tla o lokolla"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "mocheng wa"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "mohlabeli"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sefefong sa"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bolotsana"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:53.502494987Z",
+  "model": "glm-5.3"
+}

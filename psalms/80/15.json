@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "Elohim wa Tsebaote, khutla, ke kopa; sheba lehodimong mme o bone, mme o etele tephe ena.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "khutla"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "sheba"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "lehodimong"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mme o bone"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "mme o etele"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "tephe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:29.754353301Z",
+  "model": "glm-5.3"
+}

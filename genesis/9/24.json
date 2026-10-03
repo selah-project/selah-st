@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Noakhe a tsoha metsing ea jwale ea hae, a tseba ⟨את⟩ seo mora wa hae wa lenyane a se entseng ho yena.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "a tsoha"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noakhe"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "metsing ea jwale ea hae"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "a tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo mora wa hae a se entseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se entseng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "wa lenyane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:10.941826952Z",
+  "model": "glm-5.3"
+}

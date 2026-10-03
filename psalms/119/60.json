@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ke ile ka thorisa, mme ha kea diema, ho boloka melao ya hao.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "ke ile ka thorisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha ... kea"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "diema"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ho boloka"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "melao ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:55.979978943Z",
+  "model": "glm-5.3"
+}

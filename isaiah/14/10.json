@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Ba tla araba kaofela, mme ba re ho wena: Le wena o fokola joaloka rona; ho rona o ile wa bapishwa.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ba tla araba"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "o fokola"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "joaloka rona"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "o ile wa bapishwa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:35:25.338885833Z",
+  "model": "glm-5.3"
+}

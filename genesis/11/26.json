@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Terakhe a phela dilemo tse supileng, mme a tswalisa ⟨את⟩ Abrahame, ⟨את⟩ Nakhore, le ⟨את⟩ Harane.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a phela"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakhe"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "dilemo tse supileng"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a tswalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhore"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Harane"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:27.621911085Z",
+  "model": "glm-5.3"
+}

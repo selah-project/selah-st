@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Hobane melato ya ka, eena ke a e tseba, mme sebe sa ka se ka pela ka nako eohle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "melato ya ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "eena ke"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ke a tseba"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "mme sebe sa ka"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "se ka pela"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka nako eohle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:16.170324737Z",
+  "model": "glm-5.3"
+}

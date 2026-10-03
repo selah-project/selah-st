@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Torah ya Elohim wa hae e ka pelong ya hae; mehatla ea hae e ke ke ea tsekella.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ya Elohim wa hae"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "e ka pelong ya hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ea"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "ea tsekella"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "mehatla ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:43.371739939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Setho se hlokang tswallo ke sona ho Yahwe: motho yohle ya ntleho e phahameng; seatla ho seatla, a ke ke a lole kotlo.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "setho se hlokang tswallo ke sona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "e phahameng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ntleho"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ho seatla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ke ke a"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "lole kotlo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:12:07.882656965Z",
+  "model": "glm-5.3"
+}

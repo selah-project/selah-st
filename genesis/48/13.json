@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Mme Yosefe a nka ⟨את⟩ ba babeli — ⟨את⟩ Efraime ka letsoho la hae la ho ja, ho ya letsohong le sa jeng la Yisraele, le ⟨את⟩ Menashe ka letsoho la hae le sa jeng, ho ya letsohong la ho ja la Yisraele — mme a ba atametsetsa ho yena.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba babeli"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ba babeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraime"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraime"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "ka letsoho la hae la ho ja"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "ho ya letsohong le sa jeng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "ka letsoho la hae le sa jeng"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ho ya letsohong la ho ja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "la Yisraele"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "mme a ba atametsetsa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:41:31.500935830Z",
+  "model": "glm-5.3"
+}

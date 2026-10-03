@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Wena ke mokhabo wa ka; o tla nkhiba masetlapelong; o tla nkgetha ka dipina tsa pholoho. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "mokhabo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wa ka"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "masetlapelong"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "o tla nkhiba"
+    },
+    {
+      "surface": "רני",
+      "gloss": "dipina"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "tsa pholoho"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "o tla nkgetha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:26.132264422Z",
+  "model": "glm-5.3"
+}

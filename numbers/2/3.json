@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 2:3",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme ba phomolang ka bochabela, ho tsweletseng pele ho kotula, ke mabala wa mahaeng a Yehuda, ka masole a bona; mme moetapele wa bana ba Yehuda ke Nakhshone mora wa Aminadab.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "ba phomolang"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ka bochabela"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ho tsweletseng pele ho kotula"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "mabala"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "mahaeng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ka masole a bona"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "mme moetapele"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wa bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshone"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:50.539069375Z",
+  "model": "glm-5.3"
+}

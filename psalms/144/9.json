@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "Elohim, pina e ncha ke tla e bapala ho wena; ka nebale ya dikhutlo tse leshome ke tla ho bapala ho wena.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e ncha"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla e bapala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ka nebale"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ya dikhutlo tse leshome"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla bapala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:26.520609417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Dawide a ea hapelela le ho holela, mme Yahwe Tsebaote ⟨o ne⟩ le ene.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a ea hapelela"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "le ho ea"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "le ho holela"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le ene"
+    }
+  ],
+  "timestamp": "2026-10-03T12:14:18.352242126Z",
+  "model": "glm-5.3"
+}

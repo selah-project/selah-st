@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "E feela, jwalo ka ho ja ⟨את⟩ tholo le ⟨את⟩ phuti, jwalo u tla e ja; e sa hloekeng le e hloekileng hamoho ba tla e ja.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "E feela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ho ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tholo"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "tholo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phuti"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "phuti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "u tla e ja"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "e sa hloekeng"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "le e hloekileng"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hamoho"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ba tla e ja"
+    }
+  ],
+  "timestamp": "2026-10-03T06:52:00.200444146Z",
+  "model": "glm-5.3"
+}

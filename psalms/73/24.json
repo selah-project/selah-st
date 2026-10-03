@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Ka keletso ya hau o ntataisa, mme ka morao o tla nka ka kgalalelo.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Ka keletso ya hau"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "o ntataisa"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mme ka morao"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ka kgalalelo"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "o tla nka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:48.312251800Z",
+  "model": "glm-5.3"
+}

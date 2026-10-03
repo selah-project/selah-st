@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 111,
+  "translation": "Tokgoloho le boreleli ke tšebetso ea hae, 'me tsedeke ea hae e eme ho fihlela kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Tokgoloho"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "le boreleli"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "tšebetso ea hae"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "'me tsedeke ea hae"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ho fihlela kahosafeleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:45.706224212Z",
+  "model": "glm-5.3"
+}

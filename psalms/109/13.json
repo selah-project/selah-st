@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "A be qqitso ya hae e be ya ho timetsa; ka moloko o mong mabitso a tlonngwe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "A be"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "qetello ya hae"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ya ho timetsa"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ka moloko"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "o mong"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "a tlonngwe"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "mabitso a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:48.434681240Z",
+  "model": "glm-5.3"
+}

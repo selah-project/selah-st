@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme ho dula ha hao, le ho tswa ha hao, le ho kena ha hao ke a se tseba, le ⟨את⟩ tshwenyo ea hao e kgahlanong le Nna.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ho dula ha hao"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "le ho tswa ha hao"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "le ho kena ha hao"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke a se tseba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tshwenyo ea hao e kgahlanong le Nna"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "tshwenyo ea hao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e kgahlanong le Nna"
+    }
+  ],
+  "timestamp": "2026-10-03T08:28:32.094915697Z",
+  "model": "glm-5.3"
+}

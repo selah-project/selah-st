@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Yahwe o mpotlela ho ya ka tsedeke ya ka; ho ya ka bohlalehali ba matsogo a ka, o mphile ka morao.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "o mpotlela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ho ya ka tsedeke ya ka"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ho ya ka bohlalehali"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ba matsogo a ka"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "o mphile ka morao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:12.263630870Z",
+  "model": "glm-5.3"
+}

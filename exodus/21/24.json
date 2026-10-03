@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Sefahlo bakeng sa sefahlo, leino bakeng sa leino, letsoho bakeng sa letsoho, leoto bakeng sa leoto.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "sefahlo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sefahlo"
+    },
+    {
+      "surface": "שן",
+      "gloss": "leino"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שן",
+      "gloss": "leino"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "leoto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "leoto"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:45.771596981Z",
+  "model": "glm-5.3"
+}

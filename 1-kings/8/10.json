@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme e bile ha balomodi ba tswa sehalalelong, leru la tlatsa ⟨את⟩ ntlo ea Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile ha"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "ba tswa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "balomodi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tswa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sehalalelong"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "leru la"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "la tlatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ea Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ea Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:06:22.457658385Z",
+  "model": "glm-5.3"
+}

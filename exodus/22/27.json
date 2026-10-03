@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Elohim o se ke wa mo nyelisa, mme mookamedi wa sechaba sa hao o se ke wa mo hloka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "mo nyelisa"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "mme mookamedi"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "wa sechaba sa hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "mo hloka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:40.908213443Z",
+  "model": "glm-5.3"
+}

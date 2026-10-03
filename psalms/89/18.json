@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Hobane wena ke kgalalelo ya matla a bona, mme ka thato ya hao leramusa la rona le phahamisitsoe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "ya matla a bona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "mme ka thato ya hao"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "le phahamisitsoe"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "leramusa la rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:14.004354567Z",
+  "model": "glm-5.3"
+}

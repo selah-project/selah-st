@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "O motle hohle, motswalle wa ka, ⟨ha ho⟩ lefodi ho wena.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "hohle"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "O motle"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "motswalle wa ka"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "lefodi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨ha ho⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:35:25.086419061Z",
+  "model": "glm-5.3"
+}

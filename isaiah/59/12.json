@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Hobane ditlolo tsa rona di eketsehile pel'a hau, mme libe tsa rona di re paka; hobane ditlolo tsa rona di le ⟨את⟩ rona, mme mekolo tsa rona re e tseba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "di eketsehile"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ditlolo tsa rona"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "pel'a hau"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "mme libe tsa rona"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "di re paka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "khahlanong le rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ditlolo tsa rona"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rona",
+      "marks": "rona"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "mme mekolo tsa rona"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "re e tseba"
+    }
+  ],
+  "timestamp": "2026-10-03T08:56:45.263235159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Se ke ya tla ho nna leoto la maneo; mme letsatsi la bahu, se ke ya ntlahla.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "ya tla ho nna"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "leoto"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "la maneo"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "mme letsatsi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "la bahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "ya ntlahla"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:45.618814904Z",
+  "model": "glm-5.3"
+}

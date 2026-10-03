@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mashing a bo-datla ba bua, motho e mong le ⟨את⟩ moahi wa hae; ka molomo o borelehang, ka pelo le pelo, ba bua.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "mashing"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho e mong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moahi wa hae"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moahi wa hae"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "o borelehang"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ka pelo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "le pelo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba bua"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:43.423812516Z",
+  "model": "glm-5.3"
+}

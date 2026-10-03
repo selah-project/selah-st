@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 108,
+  "translation": "Pina ya mokoelo, ea Dawide.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoelo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ea Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:03.890492549Z",
+  "model": "glm-5.3"
+}

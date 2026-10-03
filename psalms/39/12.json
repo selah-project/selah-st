@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Ka mekgwampo o kotula motho ka bobe; o qhobosajwe jaaka phane se a se ratang. Ruri motho o mong le o mong ke ⟨hebele⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "ka mekgwampo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "o kotula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "o qhobosa"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "jaaka phane"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "se a se ratang"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨hebele⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o mong le o mong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:11.451141356Z",
+  "model": "glm-5.3"
+}

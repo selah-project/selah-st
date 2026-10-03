@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Mme a e apara nyefolo jwaloka aparo ya hae, mme e kena jwaloka metsi ka hara mme wa hae, le jwaloka mafura ka maswaneng a hae.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "mme a e apara"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "nyefolo"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "jwaloka aparo ya hae"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "mme e kena"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jwaloka metsi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ka hara mme wa hae"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "le jwaloka mafura"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "ka maswaneng a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:56.481090242Z",
+  "model": "glm-5.3"
+}

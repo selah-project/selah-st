@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme ho Lote hape, ea ntseng a tsamaya ⟨את⟩ Avhrame, ho ne ho le dinku, le dikgomo, le mahaheng.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "hape"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "ho Lote"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ea ntseng a tsamaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avhrame"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avhrame"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ho ne ho le"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "le dikgomo"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "le mahaheng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:56.648632412Z",
+  "model": "glm-5.3"
+}

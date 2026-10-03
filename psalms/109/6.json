@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Beha holim'a hae ya babela, mme Satane a eme ka letoja la hae.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Beha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "holim'a hae"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya babela"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "mme Satane"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "a eme"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "letoja la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:26.195707230Z",
+  "model": "glm-5.3"
+}

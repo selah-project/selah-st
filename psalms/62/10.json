@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 62,
+  "translation": "Ruri, bana ba batho ke lefeela, bana ba monna ke leshano; ba behoa sekaleng, ba tla phahama; ba le bonolo ho feta lefeela, ba kopane.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "lefeela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "leshano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "sekaleng"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ba tla phahama"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ho feta lefeela"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ba kopane"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:38.903813301Z",
+  "model": "glm-5.3"
+}

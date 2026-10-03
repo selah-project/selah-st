@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "O tla bitsa Nna, mme ke tla mo araba; ke Nna o tlang le eena thohong; ke tla mo lokolla, mme ke tla mo tlotlisa.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "o tla bitsa Nna"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "mme ke tla mo araba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke Nna"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "thohong"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ke tla mo lokolla"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "mme ke tla mo tlotlisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:32.177133081Z",
+  "model": "glm-5.3"
+}

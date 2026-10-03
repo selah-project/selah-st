@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Hobane ba ile ba sosoloha sefahleheng sa dibetsa tse dingata, sefahleheng sa lerumo le ntseng le omeletse, le sefahleheng sa koetso e omeletseng, le sefahleheng sa boima ba ntoa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sefahleheng sa"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "dibetsa tse dingata"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ba sosotse"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sefahleheng sa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "lerumo"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "le omeletse"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "le sefahleheng sa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "koetso"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "e omeletseng"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "le sefahleheng sa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "boima"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntoa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:38:15.873597211Z",
+  "model": "glm-5.3"
+}

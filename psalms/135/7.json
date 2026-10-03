@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "O hlahisa maru ho tloha mafelelong a lefatshe, o etsa meqhele ya pula, o ntsha ruakh ho ditholong tsa hae.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "o hlahisa"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ho tloha mafelelong a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "meqhele ya"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "pula"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o etsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "o ntsha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "ho ditholong tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:14.382039908Z",
+  "model": "glm-5.3"
+}

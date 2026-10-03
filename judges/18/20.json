@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme pelo ya moprista ea thaba, mme a nka ⟨את⟩ aefode le ⟨את⟩ terafime le ⟨את⟩ pesela, mme a tla hara setjhaba.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ea thaba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ya moprista"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mme a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aefode"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "aefode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "terafime"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "pesela"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "pesela"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mme a tla"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "hara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T07:27:02.640945378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme ke tla beha selekane sa ka pakeng tsa ka le pakeng tsa ⟨את⟩ hao, mme ke tla atisa haholo haholo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Mme ke tla beha"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakeng tsa ka"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "le pakeng tsa hao"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "mme ke tla atisa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ hao",
+      "marks": "hao"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:25:36.885070966Z",
+  "model": "glm-5.3"
+}

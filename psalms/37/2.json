@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Hobane jwaloka joang ba tla tlamanyoa kapele, mme jwaloka mela e tala ba tla nyamela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jwaloka joang"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "kapele"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "ba tla tlamanyoa"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "mme jwaloka"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "mela e tala"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "ba tla nyamela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:14.862169635Z",
+  "model": "glm-5.3"
+}

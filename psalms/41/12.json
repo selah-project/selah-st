@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Ka sena ke tseba hore o thabela ho nna, hobane sera sa ka se a hlolela ka nna.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "ka sena"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "o thabela"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se a"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "hlolela"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "sera sa ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:07.918789415Z",
+  "model": "glm-5.3"
+}

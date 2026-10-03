@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ha ke bitsa, nkarole, Elohim wa tsedeke ya ka; nakong ya khatollo o ile a nqalaleta; nkhauhele, mme o utlwe thapelo ya ka.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Ha ke bitsa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "nkarole"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "wa tsedeke ya ka"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nakong ya khatollo"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "o ile a qalaleta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n-"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "nkhauhele"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "mme o utlwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:58.858949509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme Dawide a sa tlose ⟨את⟩ arka ho ea ho yena, ho toropo ya Dawide, mme a e tosa ho ya ntlong ya Oved-Edome wa Gathe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ... ha a sa"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "a tlose"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho ea ho yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "mme a e tosa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "wa Gathe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:15:08.653543014Z",
+  "model": "glm-5.3"
+}

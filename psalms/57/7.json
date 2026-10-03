@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 57,
+  "translation": "Ba aha sehlaha mahareng a mekhwa ea ka, moya oa ka o khupametse; ba ile ba epa sehlaha pele ho 'na, ba ile ba tsele ho sona. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "sehlaha"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "Ba aha"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "mahareng a mekhwa ea ka"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "o khupametse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "ba ile ba epa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho 'na"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "sehlaha"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ba ile ba tsele"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ho sona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:06.772660586Z",
+  "model": "glm-5.3"
+}

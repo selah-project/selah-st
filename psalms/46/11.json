@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Le khotsofalle, le tsebe hore ke nao Elohim; ke a phahamiswa hara dinaha, ke a phahamiswa lefatsheheng.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Le khotsofalle"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "le tsebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ke a phahamiswa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "hara dinaha"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ke a phahamiswa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheheng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:49.242178192Z",
+  "model": "glm-5.3"
+}

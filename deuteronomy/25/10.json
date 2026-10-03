@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme lebitso la hae le bitsoa ho Yisraele: Ntlo ya ya se seentseng seeta.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "le bitsoa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ho Yisraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Ntlo ya"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "ya se seentseng"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "seeta"
+    }
+  ],
+  "timestamp": "2026-10-03T12:50:19.875376358Z",
+  "model": "glm-5.3"
+}

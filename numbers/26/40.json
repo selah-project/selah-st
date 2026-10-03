@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme bana ba Bela ba bile Arade le Naamane; ho Arade, leloko la Ba-Arade; ho Naamane, leloko la Ba-Naamane.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ba bile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Arade"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "le Naamane"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leloko la"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "Ba-Arade"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "ho Naamane"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leloko la"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "Ba-Naamane"
+    }
+  ],
+  "timestamp": "2026-10-03T06:36:32.963155821Z",
+  "model": "glm-5.3"
+}

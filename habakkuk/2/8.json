@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 2:8",
+  "book": "habakkuk",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Hobane u tloditse ditjhaba tse ngata, ba tloditseng batho ba inotseng ho tloha ditjheng tsohle tseo ba inotseng teng — ka madi a batho le khohlapano ya lefatshe, ya toropo le ba ohlang ho eona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "שלות",
+      "gloss": "u tloditse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "tse ngata"
+    },
+    {
+      "surface": "ישלוך",
+      "gloss": "ba tla u tloditsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba inotseng"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "inotseng"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "מדמי",
+      "gloss": "ka madi a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "וחמס",
+      "gloss": "le khohlapano"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ba ohlang"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba ohlang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho eona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:13:47.053767544Z",
+  "model": "glm-5.3"
+}

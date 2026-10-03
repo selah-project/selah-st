@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "Mme a hlabalatsa ⟨את⟩ Faro le ⟨את⟩ masole a hae lewatleng la Suf, hobane hesede ya hae ya ho fihlela ka narinng: mahodimong a ya ho fihlela ka narinng.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "mme a hlabalatsa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "le masole a hae"
+    },
+    {
+      "surface": "בים",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "la Suf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ka narinng: mahodimong a"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae ya ho fihlela ka narinng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:51.098642211Z",
+  "model": "glm-5.3"
+}

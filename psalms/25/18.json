@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Sheba lefehla la ka le bothata ba ka, mme o tlose dibe tsa ka kaofela.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "sheba"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "lefehla la ka"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "bothata ba ka"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "o tlose"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "dibe tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:25.216806386Z",
+  "model": "glm-5.3"
+}

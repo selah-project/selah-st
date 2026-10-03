@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Dawide o ile a tswela pele, a hatela hodimo le ho feta, mme Yahwe, Elohim wa Tsebaote, o ne a le molemong wa hae.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "o ile a tswela pele"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "mme a hodima"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "o ne a le molemong wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:48:49.291179755Z",
+  "model": "glm-5.3"
+}

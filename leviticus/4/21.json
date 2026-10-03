@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme a hlahise ⟨את⟩ pulu ka ntle ho setsi, mme a e chesa, jwaloka a chesile ⟨את⟩ pulu ya pele; ketso ya dibe ya phutheho ke yona.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "mme a hlahise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pulu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pulu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ho setsi"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "mme a e chesa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "pulu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "a chesile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pulu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pulu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya pele"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ketso ya dibe"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ya phutheho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:00.214813724Z",
+  "model": "glm-5.3"
+}

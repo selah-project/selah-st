@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Ka lebaka la borebelle ba hau le tshwenyeho ea hau; hobane o ntlositseng, o ile a ntlhotlha.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Ka lebaka la"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "borebelle ba hau"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "le tshwenyeho ea hau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "o ntlositseng"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "o ile a ntlhotlha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:45.885492517Z",
+  "model": "glm-5.3"
+}

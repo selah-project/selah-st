@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme moprista o tla nka ya mali a eona ka monoana wa hae, mme a behe hodima dinale tsa alatara ya sehlabelo se cheswang; mme ⟨את⟩ mali a eona ohle o tla a dutla ho motheo wa alatara.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mme o tla nka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ya mali a eona"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ka monoana wa hae"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mme a behe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "dinale"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "tsa alatara"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya sehlabelo se cheswang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mali a eona ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "mali a eona"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "o tla a dutla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "wa alatara"
+    }
+  ],
+  "timestamp": "2026-10-03T06:05:23.822023721Z",
+  "model": "glm-5.3"
+}

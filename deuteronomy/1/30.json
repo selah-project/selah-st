@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Yahwe Elohim ya lona, ya tsamaeang pele ho lona, ke yena ya tlang ho loanela lona, jwaloka tsohle tseo a di entseng le ⟨את⟩ lona Mitsrayime, mahlokong a lona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ya tsamaeang"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ho lona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yena"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ya tlang ho loanela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "jwaloka tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a di entseng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "mahlokong a lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:42:59.586962340Z",
+  "model": "glm-5.3"
+}

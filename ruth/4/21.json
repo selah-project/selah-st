@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Salmono a beletsa ⟨את⟩ Boaze, mme Boaze a beletsa ⟨את⟩ Obede.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Mme Salmono"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a beletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaze"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaze"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "mme Boaze"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a beletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obede"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obede"
+    }
+  ],
+  "timestamp": "2026-10-03T11:36:38.419829309Z",
+  "model": "glm-5.3"
+}

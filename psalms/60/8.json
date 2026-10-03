@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 60,
+  "translation": "Elohim o buile ka halalelo ya hae: ke tla thaba; ke tla arola Shekeme, mme ke ela Moholahare oa Sukote.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ka halalelo ya hae"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ke tla thaba"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ke tla arola"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "mme moholahare oa"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukote"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ke tla ela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:40.112086231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "E na le boleng bo bongata haholo hesede ya hao, Elohim! Mme bana ba batho ba serelella moriting oa mapheha a hao.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "e na le boleng bo bongata"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mme bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "moriting oa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "mapheha a hao"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "ba serelella"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:35.568548234Z",
+  "model": "glm-5.3"
+}

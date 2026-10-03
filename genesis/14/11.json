@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme ba nka ⟨את⟩ thupelo eohle ya Sodome le Gomoreha, le ⟨את⟩ lijo tsohle tsa tsona, mme ba tsamaea.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Mme ba nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thupelo eohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "thupelo"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodome"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "le Gomoreha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lijo tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "lijo tsa tsona"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mme ba tsamaea"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:36.436172094Z",
+  "model": "glm-5.3"
+}

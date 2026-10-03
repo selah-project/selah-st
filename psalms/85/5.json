@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "Re busetse, Elohim ya tolokelo ya rona, mme o phimole khalefo ya hao ho rona.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Re busetse"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ya tolokelo ya rona"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "mme o phimole"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "khalefo ya hao"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ho rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:01.413172022Z",
+  "model": "glm-5.3"
+}

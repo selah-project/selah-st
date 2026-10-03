@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "Dithaba le dithaba tse nyane; mehlare ya matshwao, mme dikedare tsohle:",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsohle"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "dithaba tse nyane"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mehlare"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ya matshwao"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme … tsohle"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "dikedare"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:18.470871845Z",
+  "model": "glm-5.3"
+}

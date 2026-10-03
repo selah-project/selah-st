@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "E ea ka borwa, mme e potoloha ho ya ka leboya; e potoloha, e potoloha — ruakh e ea, mme ho ditsela tsa eona tsa ho potoloha ruakh e khutla.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "e ea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "mme e potoloha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ka"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "leboya"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "e potoloha"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "e potoloha"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "e ea"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme ho"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "ditsela tsa eona tsa ho potoloha"
+    },
+    {
+      "surface": "שב",
+      "gloss": "e khutla"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:50.545127633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Mamella, moradi, mme o shebe, mme u kokobetse tsebe ya hao; mme u lebale sechaba sa hao le ntlo ya ntatahao.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Mamella"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "mme o shebe"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "mme u kokobetse"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tsebe ya hao"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "mme u lebale"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sechaba sa hao"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "le ntlo ya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ntatahao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:52.856236875Z",
+  "model": "glm-5.3"
+}

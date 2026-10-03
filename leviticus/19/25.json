@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme ho selemong sa bohlano le tla ja ⟨את⟩ sejana sa sona, hore ho eketsehe ho lona kabo ya sona; nna ke Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Mme ho selemong"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "sa bohlano"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le tla ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sejana sa sona"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "sejana sa sona"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "hore ho eketsehe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "kabo ya sona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:22.120712504Z",
+  "model": "glm-5.3"
+}

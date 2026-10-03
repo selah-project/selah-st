@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ka lebaka lena, lial Bakulani, thetang ⟨את⟩ lentswe la Yahwe;",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ka lebaka leo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "lial bakulani"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "thetang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T09:49:51.279749680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme le ka moka nna ke utlile ⟨את⟩ lla la bana ba Yisraele, bao Mitsrayime ba ba qobellang ho sebetsa, mme ke kgopotswe selekane sa ka.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme le ka moka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke utlile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lla"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "lla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ba ba qobellang ho sebetsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "mme ke kgopotswe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa ka"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:45:11.079126983Z",
+  "model": "glm-5.3"
+}

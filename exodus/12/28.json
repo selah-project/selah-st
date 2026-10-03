@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme bana ba Yisraele ba tsamaea, ba etsa jwalo ka ha Yahwe a laetse ⟨את⟩ Moshe le ⟨את⟩ Aharone; jwalo ha ba etsa.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ba tsamaea"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo ha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:18.889162838Z",
+  "model": "glm-5.3"
+}

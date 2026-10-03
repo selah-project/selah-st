@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Ke nna Yahwe Elohim ya hao, ya o ntshitseng naheng ya Mitsrayime, ntlong ya bokgoboka.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ya o ntshitseng"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bokgoboka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:23.818965460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Moshe a nka ⟨את⟩ mafura a botlotsi, mme a lotla ⟨את⟩ Mishkane le ⟨את⟩ tsohle tse ho ⟨את⟩ tsona, mme a di halaletsa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mme a nka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura a botlotsi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a botlotsi"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "mme a lotla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tsohle tse ho tsona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "mme a di halaletsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:07:43.801481930Z",
+  "model": "glm-5.3"
+}

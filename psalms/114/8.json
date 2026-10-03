@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 114,
+  "translation": "E fetolang ⟨את⟩ lejoe hore e be sebakeng sa metsi, ⟨את⟩ lejoe la sefaha hore e be mohlodi oa metsi!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "E fetolang"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "lejoe"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "sebakeng sa metsi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "lejoe la sefaha"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "hore e be mohlodi oa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:27.622097230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme Aharone le bana ba hae ba tla ja ⟨את⟩ nama ya poundu, le ⟨את⟩ boroe bo leng sekaleng, monyako teng ya phutheho.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "ba tla ja"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ya poundu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "boroe"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "boroe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bo leng"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "sekaleng"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "monyako"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phutheho"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:39.070810437Z",
+  "model": "glm-5.3"
+}

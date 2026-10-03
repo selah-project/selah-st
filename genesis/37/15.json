@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme motho a mo fumana, mme bonahala o timetse teng a fapafatsa masimong, mme motho eo a mo botsa, a re: O batla eng?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "a mo fumana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonahala"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "o timetse teng a fapafatsa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "masimong"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "a mo botsa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho eo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "o batla"
+    }
+  ],
+  "timestamp": "2026-10-03T05:35:38.054427562Z",
+  "model": "glm-5.3"
+}

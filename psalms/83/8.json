@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Gebale le Amon le Amaleke, Pelesete le baahi ba Tsore.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebale"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "le Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "le Amaleke"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesete"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baahi ba"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsore"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:00.859777421Z",
+  "model": "glm-5.3"
+}

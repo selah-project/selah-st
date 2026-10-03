@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme lefatshe la hema la tswelela, mme motheo wa dithaba o thothoma, o ikhohomosa, hobane Yahwe o tjhesetse ke tlolo.",
+  "tokens": [
+    {
+      "surface": "וַתִּגְעַשׁ",
+      "gloss": "la hema"
+    },
+    {
+      "surface": "וַתִּרְעַשׁ",
+      "gloss": "la tswelela"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וּמוֹסְדֵי",
+      "gloss": "mme motheo wa"
+    },
+    {
+      "surface": "הָרִים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "יִרְגָּזוּ",
+      "gloss": "o thothoma"
+    },
+    {
+      "surface": "וַיִּתְגָּעֲשׁוּ",
+      "gloss": "o ikhohomosa"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חָרָה",
+      "gloss": "o tjhesetse"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "ke tlolo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:26.826004270Z",
+  "model": "glm-5.3"
+}

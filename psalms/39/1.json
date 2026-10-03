@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Ho molaodi, ho Yedutune; mokoetliso wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho molaodi"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ho Yedutune"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoetliso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:36.020160272Z",
+  "model": "glm-5.3"
+}

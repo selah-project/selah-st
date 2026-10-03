@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Mme a ba bokella ⟨את⟩ bona terelong, matsatsi a mararo.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "a ba bokella"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "terelong"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:11.585875364Z",
+  "model": "glm-5.3"
+}

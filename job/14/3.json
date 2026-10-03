@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme na ho motho ya tshwanang le yena o bula mahlo a hao, mme o ngala ⟨את⟩ nna o isetsa kahlolong ea hau?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Mme na"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "זה",
+      "gloss": "motho ya tshwanang le yena"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "o bula"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "mahlo a hao"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "mme o ngola ⟨את⟩ nna",
+      "marks": "nna"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "o isetsa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kahlolong"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ea hau"
+    }
+  ],
+  "timestamp": "2026-10-03T11:23:29.974114116Z",
+  "model": "glm-5.3"
+}

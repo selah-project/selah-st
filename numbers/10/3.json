@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ba tla odula ka tsona, mme phutheho yohle e tla bokana ho wena, motsing watente wa kopano.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "Mme ba tla odula"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ka tsona"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "mme e tla bokana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "phutheho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "motsing wa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "motsing"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T06:27:14.413639412Z",
+  "model": "glm-5.3"
+}

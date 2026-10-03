@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Sehare sa bona se tla kena pelong ya bona, mme ditsele tsa bona di tla thuthlama.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "sehare sa bona"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "se tla kena"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "pelong ya bona"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "mme ditsele tsa bona"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "di tla thuthlama"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:03.972107042Z",
+  "model": "glm-5.3"
+}

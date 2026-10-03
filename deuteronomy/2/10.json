@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ba-Emaime kajeno ba ne ba dula moo, sechaba se seholo, se bongata, le se phahameneng, jwalo ka ba-Anake.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Ba-Emaime"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba ne ba dula"
+    },
+    {
+      "surface": "בה",
+      "gloss": "moo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "se seholo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "le se bongata"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "le se phahameneng"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "jwalo ka ba-Anake"
+    }
+  ],
+  "timestamp": "2026-10-03T06:42:10.533303727Z",
+  "model": "glm-5.3"
+}

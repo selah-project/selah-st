@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 67,
+  "translation": "Ditjhaba a di thabe, a di tlele thabong ka ho bina, hobane u tla kahlola dikgotla ka toka, mme ditjhaba fatše u tla di tataisa. Selaha.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "a di thabe"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "a di tlele thabong ka ho bina"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "u tla kahlola"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dikgotla"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ka toka"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "mme ditjhaba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "fatše"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "u tla di tataisa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:35.725428196Z",
+  "model": "glm-5.3"
+}

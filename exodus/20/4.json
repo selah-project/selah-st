@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "O se ke wa etsela uena setshwantsho sa preka, kapa sejwalo se seng le se seng se ⟨se⟩ leng mahodimong hodimo, kapa se leng lefatsheng tlase, kapa se leng metsing tlase ho lefatshe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "uena"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "setshwantsho sa preka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le se seng le se seng"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "sejwalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se leng"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kapa se leng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "tlase"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kapa se leng"
+    },
+    {
+      "surface": "במים",
+      "gloss": "metsing"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "tlase ho"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:23.819427358Z",
+  "model": "glm-5.3"
+}

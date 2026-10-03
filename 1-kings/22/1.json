@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme ba dula dilemo tse tharo, ho se na ntwa pakeng tsa Arame le pakeng tsa Yisraele.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tse tharo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ho se na"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:17:00.397366398Z",
+  "model": "glm-5.3"
+}

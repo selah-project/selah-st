@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme malengoa a Yahwe a re ho yena: Ka ho eketsa ke tla eketsa ⟨את⟩ peo ya hao, e sa ke ke ya balwa ka bongata.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme … a re"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malengoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "Ka ho eketsa"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ke tla eketsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peo ya hao"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya hao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e sa ke ke"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ya balwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ka bongata"
+    }
+  ],
+  "timestamp": "2026-10-03T05:24:12.259059775Z",
+  "model": "glm-5.3"
+}

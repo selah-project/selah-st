@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 115,
+  "translation": "Tsebe di na le tsona, empa ha di utlwe; nko e na le bona, empa ha e nkhe.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Tsebe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "di na le tsona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "di utlwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e na le bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "ha e nkhe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:48.997291318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Shemuele a utla ⟨את⟩ mantswe ohle a setjhaba, mme a a bolela ditlemong tsa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utla"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a setjhaba"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "mme a a bolela"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ditlemong tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:30.805329813Z",
+  "model": "glm-5.3"
+}

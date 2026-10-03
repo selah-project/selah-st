@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme haeba senepe sa mpho ya hae ke kanetso kapa mpho ya boithaopo, e tla jeoa ka letsatsi leo a hlahisang ⟨את⟩ senepe sa hae ka lona; mme ka letsatsi le latelang, se setseng ho eona se tla jeoa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme haeba"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kanetso"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "mpho ya boithaopo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "senepe"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ya mpho ya hae"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "a hlahisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senepe sa hae"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "senepe sa hae"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "e tla jeoa"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "mme ka letsatsi le latelang"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "mme se setseng"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho eona"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se tla jeoa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:05:25.816679243Z",
+  "model": "glm-5.3"
+}

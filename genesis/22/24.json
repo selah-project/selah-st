@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme setsoalle sa hae, Reuma lebitso la sona, le ile la beleta hape ⟨את⟩ Tebakha, le ⟨את⟩ Gakham, le ⟨את⟩ Takhash, le ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Mme setsoalle sa hae"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "lebitso la sona"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "le ile la beleta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hape"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebakha"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebakha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Gakham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gakham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Takhash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Takhash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-10-03T12:41:34.719127775Z",
+  "model": "glm-5.3"
+}

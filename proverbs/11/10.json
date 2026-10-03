@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ka takatso ya ba lokileng toropo e thabela; mme ka ho timela ha ba phelahape ho na le mamape.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "ka takatso ya"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "e thabela"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "mme ka ho timela ha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba phelahape"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "mamape"
+    }
+  ],
+  "timestamp": "2026-10-03T11:08:59.491196201Z",
+  "model": "glm-5.3"
+}

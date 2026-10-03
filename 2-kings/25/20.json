@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme Nebuzaradan, molaodi ea phahameng oa bahlabani, a nka ⟨אתם⟩ mme a isa ⟨אתם⟩ ho morena oa Babilona, Riblatah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mme a nka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Nebuzaradan o nka bona"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "molaodi ea phahameng"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "oa bahlabani"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mme a isa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "a isa bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena oa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilona"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riblatah"
+    }
+  ],
+  "timestamp": "2026-10-03T08:32:05.621364119Z",
+  "model": "glm-5.3"
+}

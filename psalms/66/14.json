@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Tseo molomo wa me o di buile, le sefuba sa me se buile nakong ya kahlolohalo ya me.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "пצו",
+      "gloss": "o di buile"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomo wa me"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "le sefuba sa me se buile"
+    },
+    {
+      "surface": "פי",
+      "gloss": ""
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nakong ya kahlolohalo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya me"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:33.464713716Z",
+  "model": "glm-5.3"
+}

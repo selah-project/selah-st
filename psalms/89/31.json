@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Ha barwa ba hae ba tloha Torah ya ka, mme dikhahlolo tsa ka ba sa tsamae ho tsona:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ba tla tloha"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba hae"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah ya ka"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "mme dikhahlolo tsa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "tsamae ho tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:53.941671485Z",
+  "model": "glm-5.3"
+}

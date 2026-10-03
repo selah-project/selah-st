@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Faro a laela setjhaba sa hae sohle, a re: Mora ⟨o⟩ mong le o mong yo tswetsweng, mo lahlang o nokeng; mme moradi mong le mong, mo bolokeng bophelo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho sohle"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setjhaba sa hae"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "yo tswetsweng"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "nokeng"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "mo lahlang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme mong le mong"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "moradi"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "mo bolokeng bophelo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:05.515588211Z",
+  "model": "glm-5.3"
+}

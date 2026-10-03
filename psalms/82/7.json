@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 82,
+  "translation": "Empa ruri, joalo ka Adamo le tla shwa, mme joalo ka e mong wa mabaruti le tla wa.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Empa ruri"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "joalo ka Adamo"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "le tla shwa"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "mme joalo ka e mong"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "wa mabaruti"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "le tla wa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:53.455428229Z",
+  "model": "glm-5.3"
+}

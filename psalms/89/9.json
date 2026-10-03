@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Yahwe, Elohim ya Tsebaote, ke mang ya tshwanang le wena, ya matla Yah? Mme tumelo ya hao e dikologile ho wena.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ya tshwanang le wena"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "ya matla"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "mme tumelo ya hao"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "e dikologile ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:55.041288928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme moprista a sheba ⟨את⟩ mmele oo o mofufutsong, a mo hlonohe; mmele oo o mofufutsong ke sehlono — seraese se ke sone.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mme a sheba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmele oo o mofufutsong"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mmele oo"
+    },
+    {
+      "surface": "החי",
+      "gloss": "o mofufutsong"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "a mo hlonohe"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mmele oo"
+    },
+    {
+      "surface": "החי",
+      "gloss": "o mofufutsong"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ke sehlono"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "seraese"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ke sone"
+    }
+  ],
+  "timestamp": "2026-10-03T06:09:34.829722864Z",
+  "model": "glm-5.3"
+}

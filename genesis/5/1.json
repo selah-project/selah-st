@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Se ke sa puku ya litlokelo tsa Adame: ka letsatsi leo Elohim a bopang motho ka lona, ka ho tshwana le Elohim o ile a mo etsa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "puku"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ya litlokelo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adame"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "a bopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "ka ho tshwana le"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:13.105839301Z",
+  "model": "glm-5.3"
+}

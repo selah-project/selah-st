@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ke tseba, Yahwe, hore dikahlolo tsa hao ke tsedeke, mme ka botswa o ntshwetse.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ke tseba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ke tsedeke"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikahlolo tsa hao"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "mme ka botswa"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "o ntshwetse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:46.050279281Z",
+  "model": "glm-5.3"
+}

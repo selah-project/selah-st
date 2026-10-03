@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme a re: Ke tsela efe eo re ka e khahang? Mme a re: Tsela ya bo-ahaba ya Edome.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "אי",
+      "gloss": "eFe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ke"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "re ka e khahang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Tsela ya"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "bo-ahaba"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T08:17:57.693968954Z",
+  "model": "glm-5.3"
+}

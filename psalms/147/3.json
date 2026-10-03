@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "O phekola ba robetsoeng pelo, a bofala majwalo a bona.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "O phekola"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "ba robetsoeng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "a bofala"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "majwalo a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:36.486618672Z",
+  "model": "glm-5.3"
+}

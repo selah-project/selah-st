@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ka lebaka la moo ke ratile mitseo ya hao ho feta kauta, e leng ho feta kauta e ntle haholo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka la moo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ke ratile"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mitseo ya hao"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ho feta kauta"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "e leng ho feta kauta e ntle haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:38.819888633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Yahwe a re ho Moshe: Etsa hao sarafo, mme o behe ⟨את⟩ eona hodima letsiboa; mme e tla ba hore ea lomwang, a e bona, o tla phela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hao"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sarafo"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "mme o behe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eona (sarafo)"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "נס",
+      "gloss": "letsiboa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla ba hore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "moka"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "ea lomwang"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a e bona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eona (sarafo)"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "o tla phela"
+    }
+  ],
+  "timestamp": "2026-10-03T06:33:55.057168829Z",
+  "model": "glm-5.3"
+}

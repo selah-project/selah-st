@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "Mang ya tsebang matla a halefo ya hao? Le ho ea ka tsabo ya hao — tlhohumello ya hao?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Mang"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ya tsebang"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "halefo ya hao"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "le ho ea ka tsabo ya hao"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "tlhohumello ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:56.948253825Z",
+  "model": "glm-5.3"
+}

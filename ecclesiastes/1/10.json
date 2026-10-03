@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ho na le taba eo motho a ka e reng: Bonang, ena ke e ncha; e ntse e le teng ho tloha mehleng ya khale, e neng e le pele ho rona.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Ho na le"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "eo motho a ka e reng"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "e ncha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "e ntse e le teng ho tloha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ya ba teng"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "mehleng ya khale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e neng e le"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "pele ho rona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:15:43.419945163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Bapelesiti ba bitsetsa baprista le baqapi ba ditshupo, ba re: Re ka etsa eng ho arone ya Yahwe? Etse hore ho tsejoe ka rona re e romella ka eng ho sebakeng sa yona.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ba bitsetsa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelesiti"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "ולקסמים",
+      "gloss": "le baqapi ba ditshupo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "Re ka etsa"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ho arone"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודענו",
+      "gloss": "Etse hore ho tsejoe"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ka eng"
+    },
+    {
+      "surface": "נשלחנו",
+      "gloss": "re e romella"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "ho sebakeng sa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:39.926916512Z",
+  "model": "glm-5.3"
+}

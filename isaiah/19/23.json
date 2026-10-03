@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Ka letsatsi leo ho tla ba le tsela ya mofufutso ho tloha Mitsrayime ho ya Ashure, mme Ashure a kene ho Mitsrayime, mme Mitsrayime ho Ashure; mme Mitsrayime o tla sebeletsa le ⟨את⟩ Ashure.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho tla ba le"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "tsela ya mofufutso"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho tloha Mitsrayime"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ho ya Ashure"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mme a kene"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ho Mitsrayime"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "mme Mitsrayime"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "ho Ashure"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "o tla sebeletsa le"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashure"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    }
+  ],
+  "timestamp": "2026-10-03T08:38:24.468673956Z",
+  "model": "glm-5.3"
+}

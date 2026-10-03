@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Yahwe o tshehetsa ba inametseng, o putsa ba hlolahlang ho fihlela meeli ⟨ya⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "o tshehetsa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba inametseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "o putsa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba hlolahlang"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ho fihlela meeli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:51.732842565Z",
+  "model": "glm-5.3"
+}

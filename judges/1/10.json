@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Yehuda a ya ho Mokanana ya hlolohetseng Hebrone — mme lebitso la Hebrone pele e bile Kiryat-Arba — mme ba otla ⟨את⟩ Sheshai le ⟨את⟩ Akhimane le ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanana"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ya hlolohetseng"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hebrone"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme lebitso la"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebrone"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "pele"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Akhimane"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Akhimane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-10-03T07:15:58.993862203Z",
+  "model": "glm-5.3"
+}

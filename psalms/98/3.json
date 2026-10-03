@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 98,
+  "translation": "O gopositse hesede ea hae le tumelo ea hae ho ntlo ea Yisraele; meeli eohle ea lefatshe e bone ⟨את⟩ phenyo ea Elohim oa rona.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "O gopositse"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ea hae"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "le tumelo ea hae"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ho ntlo ea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "e bone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "meeli ea"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phenyo ea Elohim oa rona"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "phenyo ea"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim oa rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:14.481113623Z",
+  "model": "glm-5.3"
+}

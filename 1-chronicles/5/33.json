@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Merajote o ile a tsoala ⟨את⟩ Amarja, mme Amarja a tsoala ⟨את⟩ Akitube.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajote"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ile a tsoala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarja"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarja"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "mme Amarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a tsoala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akitube"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitube"
+    }
+  ],
+  "timestamp": "2026-10-03T12:11:00.468211731Z",
+  "model": "glm-5.3"
+}

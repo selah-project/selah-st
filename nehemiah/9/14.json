@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme o ba tsebisitse ⟨את⟩ Shabata ya hau ya halalelang, mme o ba laeditse dimelao le melao le Torah, ka letsoho la Moshe, lekhanka la hao.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shabata ya hau ya halalelang"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya hau ya halalelang"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "o ba tsebisitse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "le dimelao"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "le melao"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "le Torah"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "o ba laeditse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "la Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "lekhanka la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T12:06:16.115734744Z",
+  "model": "glm-5.3"
+}

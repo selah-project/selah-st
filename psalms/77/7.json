@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 77:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Ke ne ke hopola mmino wa ka bosiu; ke ntse ke buisana le pelo ya ka, mme ruakh ya ka e ile ya batla ka tlhaho.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "ke ne ke hopola"
+    },
+    {
+      "surface": "נגינתי",
+      "gloss": "mmino wa ka"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ke ntse ke buisana"
+    },
+    {
+      "surface": "ויחפש",
+      "gloss": "mme ... e ile ya batla ka tlhaho"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:00.000255389Z",
+  "model": "glm-5.3"
+}

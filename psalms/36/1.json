@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Ho moeta-pele wa koanna; molanka wa Yahwe, ho Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moeta-pele wa koanna"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "molanka wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:40.878951737Z",
+  "model": "glm-5.3"
+}

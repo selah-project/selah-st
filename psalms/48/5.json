@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Hobane bonang, marena a kopane, a feta mmogo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "marena"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "a kopane"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:17.466359226Z",
+  "model": "glm-5.3"
+}

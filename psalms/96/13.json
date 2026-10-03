@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 96,
+  "translation": "Pele ya Yahwe, hobane o tla, hobane o tla a tla a ahlola lefatshe; o tla ahlole lefatshe ka tsedeke, mme mabotho ka boikokobetso ba hae.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Pele ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "a tla a ahlola"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o tla ahlole"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "mme mabotho"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "ka boikokobetso ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:33.980634839Z",
+  "model": "glm-5.3"
+}

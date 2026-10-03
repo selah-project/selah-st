@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Hobane Yahwe o tla ahlola ⟨את⟩ setjhaba sa hae, mme a ikhohomosa ka makgoba a hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "o tla ahlola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setjhaba sa hae"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme ka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "makgoba a hae"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "a ikhohomosa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:02.026285876Z",
+  "model": "glm-5.3"
+}

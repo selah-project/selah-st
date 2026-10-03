@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Reu a phela dilemo tse pedi le tse mashome a mmararo, mme a tsoala ⟨את⟩ Seruge.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a phela"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "le tse mashome a mmararo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a tsoala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seruge"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seruge"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:28.152338970Z",
+  "model": "glm-5.3"
+}

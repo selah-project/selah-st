@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Mokolohi a hlahlame ⟨kaofela⟩ ya hae kaofela, mme bafaladi ba utsoe mosebetsi wa hae.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "a hlahlame"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "mokolohi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hae"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "mme ba utsoe"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bafaladi"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "mosebetsi wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:20.562986435Z",
+  "model": "glm-5.3"
+}

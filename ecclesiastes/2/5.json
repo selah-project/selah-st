@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ke entse ka bo-ka dirapa le diphaka, mme ke jadile ho tsona mehlare ya merara eohle.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ke entse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka bo-ka"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "dirapa"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "le diphaka"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "mme ke jadile"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mehlare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle ya"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "merara"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:06.896415538Z",
+  "model": "glm-5.3"
+}

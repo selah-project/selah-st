@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 62,
+  "translation": "Feel Eena ke lejoe la ka le pholoso ya ka, tšireletso ya ka e phahameng; ke ke ka tshitinywa haholo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "feel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Eena"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "lejoe la ka"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "le pholoso ya ka"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "tšireletso ya ka e phahameng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ke ke"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ka tshitinywa"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:03.926375311Z",
+  "model": "glm-5.3"
+}

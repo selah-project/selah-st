@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": " Bonwe, ke dikhahlelwa ke ditaeselempu tsa hago; ka tsedeke ya hago mphe bophelo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "ke dikhahlelwa"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "ditaeselempu tsa hago"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedeke ya hago"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "mphe bophelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:39.517038085Z",
+  "model": "glm-5.3"
+}

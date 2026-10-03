@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme ba hlahisa hodimo ⟨את⟩ arka ya Yahwe, le ⟨את⟩ tente ya kopano, le ⟨את⟩ dithuluso tsohle tse halalelang tse di teng tenteng; mme baprista le bale Livi ba di hlahisa hodimo ⟨את⟩ tsona.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ba hlahisa hodimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tente ya kopano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithuluso tsohle tse halalelang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dithuluso"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tse halalelang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "di teng tenteng"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba hlahisa hodimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tsona"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "le bale Livi"
+    }
+  ],
+  "timestamp": "2026-10-03T08:08:20.761456787Z",
+  "model": "glm-5.3"
+}

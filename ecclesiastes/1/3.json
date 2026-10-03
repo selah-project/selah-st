@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Molemo ofe o mogolo o letsang motho hara boiteko bohle ba hae, a bo etsa ka tlasa letsatsi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ofe"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "molemo o mogolo"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hara bohle"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "boiteko ba hae"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "a bo etsa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlasa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:19.680322402Z",
+  "model": "glm-5.3"
+}

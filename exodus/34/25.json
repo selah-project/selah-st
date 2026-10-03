@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "O se ke wa bolaella ka se botjheditseng madi a sefahleho sa ka; mme sefahleho sa mokete wa Pesakhe se se ke sa lala ho fihlela hoseng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "bolaella"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "se botjheditseng"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sa sefahleho sa ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "lala"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ho fihlela hoseng"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sa mokete"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "wa Pesakhe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:45.651099599Z",
+  "model": "glm-5.3"
+}

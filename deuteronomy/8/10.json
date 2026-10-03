@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme o tla ja, o tla thaba, mme o tla hlohonolofatsa ⟨את⟩ Yahwe Elohim ya hao, ka lebaka la lefatshe le molemohali leo a le fileng ho wena.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Mme o tla ja"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "o tla thaba"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "mme o tla hlohonolofatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "le molemohali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a le fileng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T06:48:12.311347743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "E tla tiisoa ho fihlela ho sa feleng joaloka kgwedi, mme joaloka paki ya nnete marung. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "joaloka kgwedi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "e tla tiisoa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho fihlela ho sa feleng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme paki"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "marung"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ya nnete"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:43.222219035Z",
+  "model": "glm-5.3"
+}

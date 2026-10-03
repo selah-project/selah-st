@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Dihora tse tsheletseng o jala tshimo ya hao, mme dilemo tse tsheletseng o khaola serapeng sa hao sa merele, mme o bokella ⟨את⟩ sejalo sa yona.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "tse tsheletseng"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "o jala"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "tshimo ya hao"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "mme tse tsheletseng"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "o khaola"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "serapeng sa hao sa merele"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "mme o bokella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sejalo sa yona"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sejalo sa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:34.006051936Z",
+  "model": "glm-5.3"
+}

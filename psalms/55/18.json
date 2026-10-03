@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Mantsiboyeng le hoseng, le sefubeng sa letsatsi, ke tla buisana le ho hakanya, mme ⟨o ile⟩ a utlwa lentsoe la ka.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Mantsiboyeng"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "le hoseng"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "le sefubeng sa letsatsi"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ke tla buisana"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "le ho hakanya"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentsoe la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:50.506626851Z",
+  "model": "glm-5.3"
+}

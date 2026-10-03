@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme Yehoshua o ile a tsamaya hosasa ka meso, mme baprista ba isa ⟨את⟩ arka ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a tsamaya ka meso"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hosasa"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ba isa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:04:15.357841364Z",
+  "model": "glm-5.3"
+}

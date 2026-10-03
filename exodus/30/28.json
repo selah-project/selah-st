@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Le ⟨את⟩ aletare ya pherelo le ⟨את⟩ didiriswa tsa yona kaofela, le ⟨את⟩ keila le ⟨את⟩ motheo wa yona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "aletare ya pherelo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya pherelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa yona kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didiriswa tsa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "keila"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "keila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "motheo wa yona"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "motheo wa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:21.005440267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "Ho phatlalatsa hesede hau hoseng, le tumelo hau mafelong a bosiu.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Ho phatlalatsa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede hau"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "le tumelo hau"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "mafelong a bosiu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:42.496639460Z",
+  "model": "glm-5.3"
+}

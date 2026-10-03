@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 79,
+  "translation": "Hlahisa khalefo ya hau holim'a ⟨⟩ ditjhaba tse sa tsebeng wena, le holim'a mabusotho a sa bitlang lebitso la hau.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Hlahisa"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "khalefo ya hau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "tsebeng wena"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le holim'a"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mabusotho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "lebitso la hau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bitlang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:42.586734496Z",
+  "model": "glm-5.3"
+}

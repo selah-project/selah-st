@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme Yahwe a re: Ke mang ya tla qhekella ⟨את⟩ Ahabo, a hlahlama a wa ho Ramote ya Gileade? Mme yena a re ka tsela ena, mme yena a re ka tsela ena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme Yahwe a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "ya tla qhekella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahabo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a hlahlama"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "a wa"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "ho Ramote"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Gileade"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme yena a re"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ka tsela ena"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "mme yena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ka tsela ena"
+    }
+  ],
+  "timestamp": "2026-10-03T12:59:21.946592138Z",
+  "model": "glm-5.3"
+}

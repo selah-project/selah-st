@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "O se ke wa kekea batlotsuoa ba ka, mme ho baporofeta ba ka o se ke wa etsa bobe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ke wa"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kekea"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "batlotsuoa ba ka"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "mme ho baporofeta ba ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "etsa bobe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:30.319006491Z",
+  "model": "glm-5.3"
+}

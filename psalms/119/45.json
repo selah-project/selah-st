@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Mme ke tla sepela sepharahe, hobane ditaello tsa hao ke di batlile.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "mme ke tla sepela"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "sepharahe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ditaello tsa hao"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ke di batlile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:18.421428159Z",
+  "model": "glm-5.3"
+}

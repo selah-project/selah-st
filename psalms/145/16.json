@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "O bula ⟨את⟩ seatla sa hao, mme o khotlifatsa se phelang se seng le se seng ka thato ya hao e ntle.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "O bula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa hao"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa hao"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "mme o khotlifatsa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "se seng le se seng"
+    },
+    {
+      "surface": "חי",
+      "gloss": "se phelang"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ka thato ya hao e ntle"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:26.386507067Z",
+  "model": "glm-5.3"
+}

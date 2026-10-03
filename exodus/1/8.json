@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme a hlahroma morena o mocha ho Mitsrayime, ea neng a sa tsebe ⟨את⟩ Yosefe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mme a hlahroma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "o mocha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:22.036791686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ho feta bobedi ba bona ke ⟨את⟩ yena a sa kileng a ba teng ho fihlela jwale, yena a sa boneng ⟨את⟩ sebetso se se mpe se etsoang ka tlase ho letsatsi.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "mme ho feta"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "bobedi ba bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yena (אשר)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ho fihlela jwale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa kileng"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a ba teng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a boneng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebetso se se mpe"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "sebetso"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "se se mpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "se etsoang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:57.574859833Z",
+  "model": "glm-5.3"
+}

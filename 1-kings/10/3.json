@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Solomone a hlalosa ho yena ⟨את⟩ mafoko a hae kaofela; ha ho lefoko le patilweng ho morena a sa le hlalose ho yena.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a hlalosa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "mafoko a hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e neng e le"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lefoko"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "le patilweng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "le hlalose"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:07:29.134685034Z",
+  "model": "glm-5.3"
+}

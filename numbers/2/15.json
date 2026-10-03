@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme sesole sa hae, le ba qaliloeng ho tsona, ke dikete tse hlano le tse mashome a mane, le makgolo a tshela le tse mashome a hlano.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Mme sesole sa hae"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "le ba qaliloeng ho tsona"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "le tse mashome a mane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le makgolo a tshela"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a tshela"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le tse mashome a hlano"
+    }
+  ],
+  "timestamp": "2026-10-03T06:20:12.739068080Z",
+  "model": "glm-5.3"
+}

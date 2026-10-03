@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme khauta ya lefatshe leo e lokile; moo ⟨π⟩ ho teng bedolakhe le lejwe la shohame.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Mme khauta ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e lokile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo ho teng"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolakhe"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "lejwe la"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shohame"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:06.422676464Z",
+  "model": "glm-5.3"
+}

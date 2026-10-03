@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "E be lehae la tsona le siealetswe, mme matenten'a tsona a se ke a nna le morafi.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "E be"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "lehae la tsona"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "le siealetswe"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "matenten'a tsona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "a nna le"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "morafi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:33.748276786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme a e bolaetsa ⟨את⟩ e le ka lehlakoreng la altare, ka leboya, pele ho Yahwe; mme barwa ba Aharone, baprista, ba tla phalla ⟨את⟩ madi a yona holima altare ho potoloha.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "Mme a e bolaetsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (ya bolaetswang)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lehlakoreng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "la altare"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ka leboya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "mme ba tla phalla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a yona"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:54.358971756Z",
+  "model": "glm-5.3"
+}

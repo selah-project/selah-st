@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "A be pelo ya ka e phethahetse ditekanyetso tsa hau, hore ke se ke ka tshwanela mahlonong.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "A be"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e phethahetseng"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ditekanyetso tsa hau"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ka tshwanela mahlonong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:18.620686576Z",
+  "model": "glm-5.3"
+}

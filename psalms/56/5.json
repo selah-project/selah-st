@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "translation": "Ka Elohim ke tla keteka ⟨את⟩ lentsoe la hae; ka Elohim ke tshepile, ke sa tshabe — hore na nama e ka etsa eng ho 'na?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ke tla keteka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentsoe la hae"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ke sa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tshabe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hore na... eng"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "e ka etsa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:08.310721480Z",
+  "model": "glm-5.3"
+}

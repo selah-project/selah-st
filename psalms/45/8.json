@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "O ratile tsedeke, mme o hloyetse bobe; ka lebaka leo Elohim, Elohim wa hao, o o lotile ka mafura a takatso ho feta balekane ba hao.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "o ratile"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "mme o hloyetse"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka leo"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "o o lotile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "a takatso"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "ho feta balekane ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:49.540316032Z",
+  "model": "glm-5.3"
+}

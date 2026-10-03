@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme a etsa ⟨את⟩ sephetheho sa kopo, sa gauta e halalelang, diama tse pedi le seripa bolelele ba sona, le ama e le seripa bophara ba sona.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "sephetheho sa kopo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e halalelang"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "diama tse pedi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le seripa"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "bolelele ba sona"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "le ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e le seripa"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bophara ba sona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:06.313719565Z",
+  "model": "glm-5.3"
+}

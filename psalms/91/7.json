@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Sekete se tla wa ho lehlakoreng la hao, le likete tse leshome ho letsohong la hao ja mmoho; ha se ho fihla ho uena.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "se tla wa"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "ho lehlakoreng la hao"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "le likete tse leshome"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "ho letsohong la hao ja mmoho"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho fihla ho uena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "se tla atamela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:28.908605115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mantswe a molomo wa motho ke a metsi a tebileng; molambo o phallang — mohlodi wa bohlale.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "a tebileng"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "molambo"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "o phallang"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "mohlodi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wa bohlale"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:45.647963050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "E lokile ho fana ka tlotla ho Yahwe, le ho bina bakeng sa lebitso la hau, ya Phahameng.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "E lokile"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ho fana ka tlotla"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "le ho bina bakeng sa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "lebitso la hau"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ya Phahameng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:42.496519113Z",
+  "model": "glm-5.3"
+}

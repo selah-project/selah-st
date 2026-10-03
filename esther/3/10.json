@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme morena a ntsha ⟨את⟩ sefane sa hae se tswang letsohong la hae, mme a se fa Hamane, mora wa Hamedata, Mogaghe, sera sa Majuda.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "mme a ntsha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefane sa hae"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "sefane sa hae"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "se tswang"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsohong la hae"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "mme a se fa"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Mogaghe"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "séra"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "sa Majuda"
+    }
+  ],
+  "timestamp": "2026-10-03T11:46:41.566737454Z",
+  "model": "glm-5.3"
+}

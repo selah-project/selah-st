@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Empa ka letsatsi leo mmele o mofufutsong o tla bonahala ho yena, o tla hlonoha.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "empa ka letsatsi leo"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "o tla bonahala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mmele"
+    },
+    {
+      "surface": "חי",
+      "gloss": "o mofufutsong"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "o tla hlonoha"
+    }
+  ],
+  "timestamp": "2026-10-03T06:09:34.829406038Z",
+  "model": "glm-5.3"
+}

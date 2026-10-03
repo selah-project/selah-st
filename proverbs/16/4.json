@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Tsohle Yahwe o di entse bakeng sa eena, le moetsalibe bakeng sa letsatsi la bosula.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "o di entse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "bakeng sa eena"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moetsalibe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bakeng sa letsatsi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "la bosula"
+    }
+  ],
+  "timestamp": "2026-10-03T11:12:17.104099698Z",
+  "model": "glm-5.3"
+}

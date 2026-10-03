@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme hape, ka tsela, ha sekhohole se tsamaya, pelo ya sona e hloka [bohlale], mme o hlalosa ho bohle hore ke sekhohole.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme hape"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "ha sekhohole"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "se tsamaya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya sona"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "e hloka ⟨bohlale⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mme o hlalosa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho bohle"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "hore ke sekhohole"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:37.668903269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Le ⟨את⟩ Bosimate moradi wa Yishmaele, kgaetshadi ya Nebayote.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bosimate"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosimate"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi wa"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaele"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "kgaetshadi ya"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebayote"
+    }
+  ],
+  "timestamp": "2026-10-03T05:34:45.451250973Z",
+  "model": "glm-5.3"
+}

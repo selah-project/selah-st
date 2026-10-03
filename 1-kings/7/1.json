@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Solomone o ile a haha ⟨את⟩ ntlo ya hae dingwaga tse lesome le tharo, mme o phethile ⟨את⟩ ntlo ya hae kaofela.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya hae"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya hae"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a haha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "mme o phethile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya hae kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:05:38.499285391Z",
+  "model": "glm-5.3"
+}

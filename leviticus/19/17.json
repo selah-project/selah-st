@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "O se ke wa hloya ⟨את⟩ mookaane wa hao ka pelong ya hao; o tla mo kholosa ka ho hlakile, ⟨את⟩ molekane wa hao, mme o se ke wa jara sebe ka hb.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "hloya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mookaane wa hao"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mookaane wa hao"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ka pelong ya hao"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ka ho hlakile"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "o tla kholosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molekane wa hao"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "molekane wa hao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "jara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka hb"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sebe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:10.173172129Z",
+  "model": "glm-5.3"
+}

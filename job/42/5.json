@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Ka ho utloa ka tsebe ke utloile ka wena; empa jwale leihlo la ka le bone wena.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ka ho utloa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ke utloile ka wena"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "empa jwale"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "leihlo la ka"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "le bone wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:36:29.554884182Z",
+  "model": "glm-5.3"
+}

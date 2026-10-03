@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "o mo isa hare teng ya ntlo ea hau; o hloa ⟨את⟩ hlooho ea hae, mme o etsa ⟨את⟩ meala ea hae;",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "o mo isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "hare teng ya"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ea hau"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "o hloa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlooho ea hae"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "hlooho ea hae"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "mme o etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meala ea hae"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "meala ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:55:01.935126514Z",
+  "model": "glm-5.3"
+}

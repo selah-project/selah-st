@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Ho tloha Tsiyone, e phethahetseng ka botala, Elohim o ile a khanya.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Ho tloha Tsiyone"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "e phethahetseng"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "ka botala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "o ile a khanya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:33.397761492Z",
+  "model": "glm-5.3"
+}

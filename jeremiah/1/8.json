@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "O se ke wa tshaba ho bona, hobane ⟨את⟩ ke uena ea le kamohao, ho o lokolletsa, ho bolela Yahwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ke wa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tshaba"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ uena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "ho o lokolletsa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T09:00:05.200146698Z",
+  "model": "glm-5.3"
+}

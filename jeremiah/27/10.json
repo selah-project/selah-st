@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Hobane lerumo ke lona ba porofetang ho lona, hore ba le tlose kgakala le lefatshe la lona; mme ke tla le hlakola, mme le tla timela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lerumo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke lona"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "ba porofetang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ba le tlose kgakala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "lefatshe la lona"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "mme ke tla le hlakola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "mme le tla timela"
+    }
+  ],
+  "timestamp": "2026-10-03T09:15:19.735813172Z",
+  "model": "glm-5.3"
+}

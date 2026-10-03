@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 123,
+  "translation": "Haholo bo tlatsitse bophelo ba rona — tleso ya ba phomolang, nyontsho ya ba hlohloneng.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Haholo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "bo tlatsitse"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "bophelo ba rona"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "tleso ya"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "ba phomolang"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "nyontsho ya"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ba hlohloneng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:29.007284942Z",
+  "model": "glm-5.3"
+}

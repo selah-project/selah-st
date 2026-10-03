@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 9:4",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ha ba tsamaya ba tshwarwa pele ba ba hloyang, moo ke tla laela ⟨את⟩ sehlaho, mme se tla ba bolaya; mme ke tla beha mahlo a ka hodima bona bakeng sa mpe, eseng bakeng sa botle.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "ba tshwarwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ba ba hloyang"
+    },
+    {
+      "surface": "משם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ke tla laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlaho"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sehlaho"
+    },
+    {
+      "surface": "והרגתם",
+      "gloss": "mme se tla ba bolaya"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "mme ke tla beha"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hodima bona"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "bakeng sa mpe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "bakeng sa botle"
+    }
+  ],
+  "timestamp": "2026-10-03T13:08:35.331648850Z",
+  "model": "glm-5.3"
+}

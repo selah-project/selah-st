@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Nna, Koehelete, ke ne ke le morena hodima Yisraele, bokong ba Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koehelete"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke le"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "bokong ba Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T13:15:59.325848639Z",
+  "model": "glm-5.3"
+}

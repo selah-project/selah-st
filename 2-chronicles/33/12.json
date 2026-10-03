@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme ha a ne a le bokhunoung, o ile a thapisa ⟨את⟩ sefahleho sa Yahwe Elohim wa hae, mme a ikhokobatsa haholo pela Elohim wa bo-ntate ba hae.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "ha a ne a le bokhunoung"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "a thapisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wa hae"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "a ikhokobatsa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pela"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T12:37:26.463804421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 143,
+  "translation": "Ke phatlalalitse matsoho a ka ho wena; moya wa ka o fufetse joaloka lefatshe, bakeng sa hao. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Ke phatlalalitse"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matsoho a ka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "joaloka lefatshe"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "o fufetse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bakeng sa hao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:14.474361287Z",
+  "model": "glm-5.3"
+}

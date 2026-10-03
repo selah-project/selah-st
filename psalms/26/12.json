@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Lonao lwa ka lwa ema lefatshe la bophahamo; mahahong a mohomane ke tla hlohonolofatsa Yahwe.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "lonao lwa ka"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "lwa ema"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "lefatshe la bophahamo"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "mahahong a mohomane"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ke tla hlohonolofatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:22.349198289Z",
+  "model": "glm-5.3"
+}

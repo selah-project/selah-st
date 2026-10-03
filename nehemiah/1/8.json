@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Hopola, ke kopa, ⟨את⟩ lentsoe leo o laetseng ⟨את⟩ Moshe mohlanka wa hao, ho re: Lona le tla ikhohomosa, nna ke tla le phalalatsa hara ditjhaba:",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Hopola"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentsoe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "o laetseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa hao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Lona"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "le tla ikhohomosa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "ke tla le phalalatsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "hara ditjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T12:03:11.442334559Z",
+  "model": "glm-5.3"
+}

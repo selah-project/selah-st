@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 44:11",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Bonang, balekane ba ona bohle ba tla tlotlollwa; mme ba etsang dilo ke banna. Ba qokelelaneng bohle, ba eme; ba tla tsosa, ba tla tlotlollwa mmoho.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "חבריו",
+      "gloss": "balekane ba ona"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ba tla tlotlollwa"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "mme ba etsang dilo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "banna"
+    },
+    {
+      "surface": "יתקבצו",
+      "gloss": "ba qokelelaneng"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ba eme"
+    },
+    {
+      "surface": "יפחדו",
+      "gloss": "ba tla tsosa"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ba tla tlotlollwa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmoho"
+    }
+  ],
+  "timestamp": "2026-10-03T08:50:51.298579115Z",
+  "model": "glm-5.3"
+}

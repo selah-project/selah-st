@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 134,
+  "translation": "Yahwe a ka u lootsa ho tloha Tsiyone, Etsa mahodimo le lefatshe.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "a ka u lootsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ho tloha Tsiyone"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Etsa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:09.025985255Z",
+  "model": "glm-5.3"
+}

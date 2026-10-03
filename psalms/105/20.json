@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Morena o ile a romella mme a mo lokolosa; morena wa ditjhaba o ile a mo bula.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "o ile a romella"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "mme a mo lokolosa"
+    },
+    {
+      "surface": "משל",
+      "gloss": "morena"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "wa ditjhaba"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "a mo bula"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:34.020939503Z",
+  "model": "glm-5.3"
+}

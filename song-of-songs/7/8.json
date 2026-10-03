@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Bolelele bona ba hao bo tshwana le tamaare, mme matsebe a hao a tshwana le dikgoutla.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "bona"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "bolelele ba hao"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "bo tshwana"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "le tamaare"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "mme matsebe a hao"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "le dikgoutla"
+    }
+  ],
+  "timestamp": "2026-10-03T11:37:11.217295053Z",
+  "model": "glm-5.3"
+}

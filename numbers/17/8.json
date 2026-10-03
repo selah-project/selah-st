@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Moshe le Aharone ba ile ba tla ho ea pelong ya tlung ya kopano.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ba ile ba tla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pelong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ya tlung"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T06:31:21.494641227Z",
+  "model": "glm-5.3"
+}

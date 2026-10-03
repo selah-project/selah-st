@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Ke tlositse boima ho sebere sa hae, mahloko a hae a ile a feta ho tloha serotong sa dud.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "Ke tlositse"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "boima"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ho sebere sa hae"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "mahloko a hae"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "ho tloha serotong sa dud"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "a ile a feta"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:42.586863644Z",
+  "model": "glm-5.3"
+}

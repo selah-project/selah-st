@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ka letsatsi leo Adonai o tla tlosa ⟨את⟩ bokgabiseho ba dikelo tsa maoto, le dikhoeu tsa hloho, le ditshwantsho tsa kgwedi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "o tla tlosa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokgabiseho"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "bokgabiseho"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "ba dikelo tsa maoto"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "le dikhoeu tsa hloho"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "le ditshwantsho tsa kgwedi"
+    }
+  ],
+  "timestamp": "2026-10-03T08:33:17.303054106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Moshe a atisa ⟨את⟩ Aharone le ⟨את⟩ bana ba hae, mme a ba tlhatswa ka metsing.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a atisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba hae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "a ba tlhatswa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka metsing"
+    }
+  ],
+  "timestamp": "2026-10-03T06:08:21.093607138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Hobane jwale ho bolela Yahwe Tsebaote: Hape ha le mong, e nyenyane, mme ke dikhudisa ⟨את⟩ mahodimo le ⟨את⟩ lefatshe le ⟨את⟩ lewatle le ⟨את⟩ se omileng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ha le mong"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "e nyenyane"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme ke"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "dikhudisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahodimo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "se omileng"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "se omileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:15:48.583151660Z",
+  "model": "glm-5.3"
+}

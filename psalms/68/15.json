@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Ha Shadai a hlahlisa ⟨את⟩ dikgosi ho yona, ho na kapoko ho Tsalmono.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "Ha ... a hlahlisa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "ho na kapoko"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "ho Tsalmono"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:46.321291676Z",
+  "model": "glm-5.3"
+}

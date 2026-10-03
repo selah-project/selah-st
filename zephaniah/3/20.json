@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zephaniah 3:20",
+  "book": "zephaniah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ka nako eo ke tla kenya lona ⟨את⟩, mme ka nako eo ke tla lona bokella ⟨את⟩; hobane ke tla neha lona ⟨את⟩ lebitso le thoriso hara ditjhaba tsohle tsa lefatshe, ha ke buisetsa ⟨את⟩ botshabelo ba lona mahlonong a lona, ho bolela Yahwe.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ke tla kenya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "mme ka nako"
+    },
+    {
+      "surface": "קבצי",
+      "gloss": "ke tla lona bokella"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla neha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "לשׁם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "ולתהלה",
+      "gloss": "le thoriso"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hara tsohle"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tsa lefatshe"
+    },
+    {
+      "surface": "בשׁובי",
+      "gloss": "ha ke buisetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botshabelo ba lona"
+    },
+    {
+      "surface": "שׁבותיכם",
+      "gloss": "botshabelo ba lona"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "mahlonong a lona"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:15:49.779446348Z",
+  "model": "glm-5.3"
+}

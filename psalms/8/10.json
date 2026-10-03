@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Yahwe, Adonai wa rona, haele hakaakang lebitso la hao le hodimo lefatshe loohle!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wa rona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "haele hakaakang"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "le hodimo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "lefatshe loohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:14.470322046Z",
+  "model": "glm-5.3"
+}

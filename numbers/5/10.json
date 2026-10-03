@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme motho ngue mong ⟨את⟩ dilo tsa hae tse halalelang di tla ba tsa hae; seo motho a se fang moprista, se tla ba sa hae.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "mme motho ngue mong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tsa hae tse halalelang"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "dilo tsa hae tse halalelang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tsa hae"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di tla ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a se fang"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa hae"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla ba"
+    }
+  ],
+  "timestamp": "2026-10-03T06:22:48.033763388Z",
+  "model": "glm-5.3"
+}

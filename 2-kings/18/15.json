@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Khizkiya a fa ⟨את⟩ selefera yohle e fumanwang ntlong ya Yahwe le ditsong tsa ntlo ya morena.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mme a fa"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selefera yohle e fumanwang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "e fumanwang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "le ditsong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya morena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:26:31.194873890Z",
+  "model": "glm-5.3"
+}

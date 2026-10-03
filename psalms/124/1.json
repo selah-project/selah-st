@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 124,
+  "translation": "Pina ya maeto, ya Dawide. Ejaore e se ya Yahwe, eo a neng a le ⟨mo⟩ rona — a re kamoso Yisraele,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maeto"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Ejaore e se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "a neng a le"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kamoso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:47.278121500Z",
+  "model": "glm-5.3"
+}

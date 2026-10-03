@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Bana ba Sheme ke bona, ho ya ka malapa a bona, ho ya ka maleme a bona, lefatsheng la bona, hara merafong ea bona.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bana bane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheme"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ho ya ka malapa a bona"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ho ya ka maleme a bona"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "lefatsheng la bona"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "hara merafong ea bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:18.464489883Z",
+  "model": "glm-5.3"
+}

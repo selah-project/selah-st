@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ha le sa utlwe lentsoe la Yahwe, mme le hanyapatsa ⟨את⟩ molomo wa Yahwe, seatla sa Yahwe se tla ba hodima lona le hodima bo-ntate ba lona.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "le utlwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "mme le hanyapatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo wa Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "se tla ba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "hodima lona"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "le hodima bo-ntate ba lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:34:56.818428745Z",
+  "model": "glm-5.3"
+}

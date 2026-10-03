@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "A se ke wa lebala lentswe la ba hlaselang hau; lerata la ba tsohang kgahlanong le wena le ea hodima ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wa lebala"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "la ba hlaselang hau"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "lerata"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "la ba tsohang kgahlanong le wena"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "le ea hodima"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:10.680252386Z",
+  "model": "glm-5.3"
+}

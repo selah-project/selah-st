@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme moprista ya hlahisang ⟨את⟩ ofelelo ya mollo ea motho, letlalo la ofelelo eo eo a e hlahisitseng, e tla ebela moprista ⟨e⟩ eena.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Mme moprista"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "ya hlahisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofelelo ya mollo ea motho"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ofelelo ya mollo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ea motho"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ea ofelelo eo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "a e hlahisitseng"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "לו",
+      "gloss": "eena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ebela ⟨e⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:49.179289764Z",
+  "model": "glm-5.3"
+}

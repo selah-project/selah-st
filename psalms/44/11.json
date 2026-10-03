@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "U re buseletsa morao ho ea ho mochaba, mme ba mo hloyang ba re ntse ka mehla.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "U re buseletsa"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morao"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ho ea ho"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mochaba"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "mme ba mo hloyang"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "ba ntse"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ka mehla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:23.718005915Z",
+  "model": "glm-5.3"
+}

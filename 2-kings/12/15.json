@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Hobane ba neng ba etsa mosebetsi ba ne ba e fuoa, mme ba matlafatsa ka yona ⟨את⟩ ntlo ea Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "ba ne ba e fuoa"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "mme ba matlafatsa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ea Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:24:15.667109365Z",
+  "model": "glm-5.3"
+}

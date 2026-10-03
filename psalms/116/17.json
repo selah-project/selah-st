@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Ho wena ke tla ehetsa sehlabelo sa teboho, mme ka lebitso la Yahwe ke tla bitza.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "ke tla ehetsa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "sa teboho"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "mme ka lebitso la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke tla bitza"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:13.958571484Z",
+  "model": "glm-5.3"
+}

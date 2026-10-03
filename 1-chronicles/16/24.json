@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Bolelang diphabamong setshwantsho ⟨את⟩ sa tlotla ya hae, ditsietsong tsa hae hara ditjhaba tsohle.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Bolelang diphabamong"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "diphabamong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setshwantsho sa tlotla ya hae"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "tlotla ya hae"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hara ditjhaba tsohle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ditsietsong tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T12:15:09.837971830Z",
+  "model": "glm-5.3"
+}

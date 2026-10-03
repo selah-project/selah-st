@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Hobane makgobedi a hao a ratang ⟨את⟩ majarataru a yona, mme ba a moha ⟨את⟩ lerole la yona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "a ratang"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "makgobedi a hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majarataru a yona"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "majarataru a yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lerole la yona"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "lerole la yona"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ba a moha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:56.056389644Z",
+  "model": "glm-5.3"
+}

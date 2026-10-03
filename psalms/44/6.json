@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Ka wena re hlabanya ba hanyetsang rona; ka lebitso la hao re kgama ba qalloang ho rona.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ba hanyetsang rona"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "re hlabanya"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ka lebitso la hao"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "re kgama"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "ba qalloang ho rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:14.616593646Z",
+  "model": "glm-5.3"
+}

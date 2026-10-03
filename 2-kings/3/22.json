@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ba ntse ba tsoha hoseng, mme letsatsi le hlabileng hodima meetse, Moabha a bona ho tlo moleng hore meetse a ⟨את⟩ a mafubedu joalo ka madi.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ba ntse ba tsoha kapele"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "mme letsatsi"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "le hlabileng"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabha"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ho tlo moleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meetse"
+    },
+    {
+      "surface": "המים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "a mafubedu"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "joalo ka madi"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:10.998256476Z",
+  "model": "glm-5.3"
+}

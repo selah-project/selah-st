@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Wena, Yahwe, o se ke wa koalla bonolo ya hao ho tloha ho 'na; hesede ya hao le 'nete ya hao di ntse di nkemela ka mehla.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa… (negative)"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "koalla"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "bonolo ya hao (mercy)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho tloha ho 'na"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "le 'nete ya hao"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "di nkemela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:22.232269423Z",
+  "model": "glm-5.3"
+}

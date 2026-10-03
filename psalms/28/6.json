@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Yahwe o babatswa, hobane o utlile lentswe la dikopo tsa ka.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "o babatswa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o utlile"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "la dikopo tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:16.477355291Z",
+  "model": "glm-5.3"
+}

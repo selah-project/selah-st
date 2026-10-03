@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Ya seatlang sa hae ke bophelo ba phofolofolo e nang le bophelo yohle, le ruakh ya mokoko yohle wa motho.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "seatlang sa hae"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "חי",
+      "gloss": "e nang le bophelo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "le ruakh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mokoko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa motho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:22:20.051443419Z",
+  "model": "glm-5.3"
+}

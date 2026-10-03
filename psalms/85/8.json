@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "Re bontshe hesede ya hao, Yahwe, mme tolokelo ya hao o e nehe rona.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Re bontshe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "mme tolokelo ya hao"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o e nehe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:01.413744563Z",
+  "model": "glm-5.3"
+}

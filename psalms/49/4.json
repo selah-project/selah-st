@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Molomo wa ka o tla bua dikhaleke, le tekolo ya pelo ya ka tsebo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Molomo wa ka"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "dikhaleke"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "le tekolo ya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "tsebo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:12.902127888Z",
+  "model": "glm-5.3"
+}

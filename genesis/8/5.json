@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme metsi a ne a fokola ka mehla ho fihlela kgwedi ya boleshome; kgwedi ya boleshome, letsatsi la pele la kgwedi, dihlongwa tsa dithaba tsa bonahala.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "Mme metsi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "a ne a"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "a fokola ka mehla"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "a fokola"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ya boleshome"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "kgwedi ya boleshome"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "letsatsi la pele"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "di bonahala"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dihlongwa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "tsa dithaba"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:20.380740190Z",
+  "model": "glm-5.3"
+}

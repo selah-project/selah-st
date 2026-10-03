@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Ho ba bolokang selekane sa hae, le ho ba hopolang melao ya hae, ho e etsa.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "Ho ba bolokang"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "selekane sa hae"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "le ho ba hopolang"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "melao ya hae"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ho e etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:53.811559364Z",
+  "model": "glm-5.3"
+}

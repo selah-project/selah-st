@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ke tla leboha Yahwe ka pelo ya ka eohle, ke tla pheta ditsamaiso tsa hao tsohle.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ke tla leboha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka eohle"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ke tla pheta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ditsamaiso tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:26.676777971Z",
+  "model": "glm-5.3"
+}

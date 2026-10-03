@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Ke tla bula molomo wa ka ka papiso; ke tla hella diphiri tsa me ho tloha malobeng.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ke tla bula"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "ka papiso"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa ka"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ke tla hella"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "diphiri tsa me"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "malobeng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:19.940461946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Ke tla re ho Yahwe: Tshwarelo ya ka le boima ba ka; Elohim ya ka, ka yena ke tla tshepa.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ke tla re"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "Tshwarelo ya ka"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "le boima ba ka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ke tla tshepa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:53.502369051Z",
+  "model": "glm-5.3"
+}

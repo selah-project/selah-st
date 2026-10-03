@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 133,
+  "translation": "Joalo ka mafura a lokileng hodima hloho, a theoholang hodima lerumu, lerumu la Aharone, a theoholang ho fihlela molomo wa diaparo tsa hae.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Joalo ka mafura"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "a lokileng"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "a theoholang"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "lerumu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "lerumu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "la Aharone"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "a theoholang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "wa diaparo tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:11.819572922Z",
+  "model": "glm-5.3"
+}

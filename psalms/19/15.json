@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mantswe a molomo wa ka, le teboho ea pelo ya ka, a be a amoheloe pela hahao, Yahwe, lejoe la ka le mokoloi oa ka.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "a be"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "a amoheloe"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa ka"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "le teboho"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pela hahao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "lejoe la ka"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "le mokoloi oa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:28.014772555Z",
+  "model": "glm-5.3"
+}

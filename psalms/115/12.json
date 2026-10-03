@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 115,
+  "translation": "Yahwe o re gopola; o tla hlahlisa, o tla hlahlisa ⟨את⟩ ntlo ya Yisraele, o tla hlahlisa ⟨את⟩ ntlo ya Aharone.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "o re gopola"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tla hlahlisa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tla hlahlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yisraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tla hlahlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Aharone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharone"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:05.861851311Z",
+  "model": "glm-5.3"
+}

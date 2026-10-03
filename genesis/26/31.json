@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme ba ihlotse hoseng, mme ba ikana, mong le mong ho moahisiwa oa hae; mme Yitshake a ba romella, mme ba tloha ho ena ⟨את⟩ ka khotso.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ba ihlotse"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ba ikana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ho moahisiwa oa hae"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "a ba romella"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba tloha"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ho ena"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ka khotso"
+    }
+  ],
+  "timestamp": "2026-10-03T05:29:59.743811631Z",
+  "model": "glm-5.3"
+}

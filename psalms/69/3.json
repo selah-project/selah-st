@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Ke tlameha metsing a tebileng, mme ha ho moo ke tsamang ka lona; ke kene metsing a tebileng, mme molumo o ntswelletse.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "ke tlameha"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "ka eona"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "metsing a tebileng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "mעמד",
+      "gloss": "moo ke tsamang ka lona"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ke kene"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "metsing a tebileng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "molumo"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "o ntswelletse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:37.917958378Z",
+  "model": "glm-5.3"
+}

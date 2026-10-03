@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "O ema sebakeng sa tau sephuthing: o ema sebakeng hore a tloe mahlale; o tla tloa mahlale a hula thulwaneng ya hae.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "o ema sebakeng"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "sephuthing"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sa tau"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sebonwaneng"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "o ema sebakeng"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "hore a tloe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mahlale"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "o tla tloa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mahlale"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "a hula"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "thulwaneng ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:30.239206238Z",
+  "model": "glm-5.3"
+}

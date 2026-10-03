@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 53,
+  "translation": "A hloile, a tlohang ke banna, mona ya ditlhoko, ya tsebang bokula; mme jwalo ka ya pata sefahleho ho tloha ho rona — a hloile, mme ha ra mo nahanela.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "a hloile"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "a tlohang"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ke banna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mona"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "ya ditlhoko"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "ya tsebang"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "bokula"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "mme jwalo ka ya pata"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho tloha ho rona"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "a hloile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "ra mo nahanela"
+    }
+  ],
+  "timestamp": "2026-10-03T13:01:20.098012417Z",
+  "model": "glm-5.3"
+}

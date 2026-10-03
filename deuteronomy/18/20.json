@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 18:20",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Empa moporofeta eo a ikemisitsitseng ho bua lentsoe ka lebitso la ka — ⟨את⟩ seo ke sa mo laelang ho se bua — kapa eo a buang ka lebitso la melimo e meng, moporofeta eo o tla swa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Empa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeta eo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "יזיד",
+      "gloss": "a ikemisitsitseng"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho bua"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ka lebitso la ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo (seo a buang ka sona)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "צויתיו",
+      "gloss": "ke mo laelang"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho bua"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kapa eo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "a buang"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka lebitso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "la melimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e meng"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "o tla swa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:54:45.261649524Z",
+  "model": "glm-5.3"
+}

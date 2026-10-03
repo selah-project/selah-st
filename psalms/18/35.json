@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "O ruta matsoho a ka ntoa, mme kofu ya tshipo e theotsoe ke diboko tsa ka.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "o ruta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matsoho a ka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "mme...e theotsoe"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kofu"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ya tshipo"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "diboko tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:03.722838897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Thaba ya Elohim ke thaba ya Basane; thaba ya dithako ke thaba ya Basane.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "Thaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basane"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "dithako"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basane"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:46.321602286Z",
+  "model": "glm-5.3"
+}

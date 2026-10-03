@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Ha ke a dula le banna ba leshano, mme le ba pakitharoang ha ke kenye le bona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ke a dula"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ba leshano"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ba pakitharoang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ke kenye"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:08.296447948Z",
+  "model": "glm-5.3"
+}

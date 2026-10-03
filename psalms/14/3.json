@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Kamehla ba tlwaelitse, ba tsoaletse hore ba tlhalane; ha ho ya etsang hantle, ha ho le eseng e le mong.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Kamehla"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ba tlwaelitse"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ba tsoaletse hore"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ba tlhalane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hantle"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eseng e le mong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:11.540240584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme jwale le tla ja ⟨את⟩ yona: dileme tsa lona di kgabile, ditlhaka tsa lona maotong a lona, lerumo la lona letsohong la lona; mme le tla ja ⟨את⟩ yona ka pherekhono — Pesakh ke yona ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le tla ja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (Pesakh)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "dileme tsa lona"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "di kgabile"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "ditlhaka tsa lona"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "maotong a lona"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "lerumo la lona"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "letsohong la lona"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "mme le tla ja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (Pesakh)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "ka pherekhono"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:02.518460551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme o tla hlakatsa ⟨את⟩ kgalalelo ya halalela, mme ⟨את⟩ tensele ya kopano, mme ⟨את⟩ altarea o tla e hlakatsa; mme bakaprista le sechaba sohle sa kopano o tla ba hlakatsa.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "mme o tla hlakatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgalalelo ya halalela"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya halalela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "tensele ya kopano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tensele"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "altarea"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarea"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "o tla e hlakatsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme bakeng sa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakaprista"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le bakeng sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa sechaba"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "sa kopano"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "o tla ba hlakatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:14.488155405Z",
+  "model": "glm-5.3"
+}

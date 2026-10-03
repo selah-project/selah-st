@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme le hlokomeleng haholo bakeng sa bophelo ba lona, hore le rate ⟨את⟩ Yahwe, Elohim oa lona.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "le hlokomeleng"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "bakeng sa bophelo ba lona"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "hore le rate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim oa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:15:45.858078006Z",
+  "model": "glm-5.3"
+}

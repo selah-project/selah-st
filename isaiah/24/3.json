@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Ho tloka, ho tloka lefatshe, mme ho nkuoa, ho nkuoa; hobane Yahwe o boletse ⟨את⟩ lentswe lena.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Ho tloka"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "ho tloka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "mme ho nkuoa"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "ho nkuoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o boletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe lena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:42:31.284851409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Hamane a ikokobetsa, a kena ntlong ea hae; a romela, a bitsa ⟨את⟩ metsoalle ea hae le ⟨את⟩ Zereshe, mosali oa hae.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "a ikokobetsa"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ea hae"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metsoalle ea hae"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "metsoalle ea hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Zereshe"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zereshe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosali oa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:46:53.916975264Z",
+  "model": "glm-5.3"
+}

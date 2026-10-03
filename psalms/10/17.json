@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Takatso ya ba khutsitseng o e utlile, Yahwe; o ba matlafatsa pelo; o hlakorela sehlöre sa hao ho e mamela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "takatso ya"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba khutsitseng"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "o e utlile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "o ba matlafatsa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "o hlakorela"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sehlöre sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:19.208144497Z",
+  "model": "glm-5.3"
+}

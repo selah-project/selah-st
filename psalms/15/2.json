@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Ya tsamayang ka ho feletseng, mme ya etsang tsedeke, mme ya bolelelang 'nete pelong ya hae.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ya tsamayang"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ka ho feletseng"
+    },
+    {
+      "surface": "ופועל",
+      "gloss": "mme ya etsang"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mme ya bolelelang"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "'nete"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "pelong ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:22.002396171Z",
+  "model": "glm-5.3"
+}

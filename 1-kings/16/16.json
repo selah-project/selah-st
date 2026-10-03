@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme setjhaba se tseletseng se utlile ho bolelowa hore ba re: Zimri o ikopantse, mme o thule ⟨את⟩ morena; mme Yisraele yohle e ile ya busa ⟨את⟩ Omri, mookamedi wa mabotho, hodima Yisraele, ka letsatsi leo, ka kampeng.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mme ... se utlile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "se tseletseng"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho bolelowa hore ba re"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "o ikopantse"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "o thule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "e ile ya busa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi wa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mabotho"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ka kampeng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:12:27.492724341Z",
+  "model": "glm-5.3"
+}

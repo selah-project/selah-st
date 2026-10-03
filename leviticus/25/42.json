@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Hobane batlhanka ba ka ke bona, bao ntseng ke ba ntsha ⟨את⟩ ho tloha lefatseng la Mitsrayime; ha ba rekiswe ka thekiso ya tlhanka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "batlhanka ba ka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ntseng ke ba ntsha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ho tloha lefatseng la Mitsrayime"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lefatseng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "ba rekiswe"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "ka thekiso"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ya tlhanka"
+    }
+  ],
+  "timestamp": "2026-10-03T06:16:50.268810393Z",
+  "model": "glm-5.3"
+}

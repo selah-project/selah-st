@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Hobane jwale ka nna, nka be ke rometse ⟨את⟩ letsoho la ka, nka o otla wena ⟨את⟩ le ⟨את⟩ batho ba hao ka sefu, mme o ka tloswa lefatsheng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "nka be ke rometse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la ka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "letsoho la ka"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "nka"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "wena ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "batho ba hao"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "batho ba hao"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka sefu"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "mme o tloswa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:05.203056187Z",
+  "model": "glm-5.3"
+}

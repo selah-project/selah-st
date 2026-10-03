@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 75,
+  "translation": "Hobane Elohim ke moahlodi: enwa a mo tlasehatsa, mme enwa a mo phahamisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ke moahlodi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "enwa"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "a mo tlasehatsa"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "mme enwa"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "a mo phahamisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:39.794713515Z",
+  "model": "glm-5.3"
+}

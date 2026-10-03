@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ha ke a ba romela ⟨את⟩ baporofeta, mme ba matha; ha ke a bua ho bona, mme ba porofeta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ke a ba romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baporofeta"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "baporofeta"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme ba"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "matha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke a bua"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme ba"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "ba porofeta"
+    }
+  ],
+  "timestamp": "2026-10-03T09:14:01.002400905Z",
+  "model": "glm-5.3"
+}

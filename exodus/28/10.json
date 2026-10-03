@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mabitso a tshela ho ⟨the⟩ lejwa le leng, le ⟨את⟩ mabitso a tshela a setseng ho lejwa la bobedi, joalo ka ditso tsa tsona.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "a tshela"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "ho mabitso a tsona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "lejwa"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "le leng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mabitso a tshela a setseng"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mabitso"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "a tshela"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "a setseng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "lejwa"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "joalo ka ditso tsa tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:25.118875215Z",
+  "model": "glm-5.3"
+}

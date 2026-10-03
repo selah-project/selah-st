@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ke ile ka sotlola, le pelo ya ka, ho tseba le ho batlisisa, le ho batla bohlale le tekanyetso, le ho tseba boloki ba bobe, le boshula bo hlanya;",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "ke ile ka sotlola"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "le pelo ya ka"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ho tseba"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "le ho batlisisa"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "le ho batla"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "le tekanyetso"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "le ho tseba"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "boloki ba bobe"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "boshula"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "le boshula bo (bohlolu)"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "bo hlanya"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:20.311729582Z",
+  "model": "glm-5.3"
+}

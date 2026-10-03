@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Elohim o hlohonolofatse ⟨את⟩ letsatsi la bochenche, mme o la halefatsa ⟨את⟩ lona; hobane ka lona o ile a khutla mosebeting wa hae oohle, eo Elohim a o bopileng ho o etsa.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "o hlohonolofatse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsatsi la bochenche"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "la bochenche"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "o la halefatsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lona",
+      "marks": "letsatsi la bochenche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "o ile a khutla mosebeting"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "… oohle"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "mosebeting wa hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "a o bopileng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho o etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:19.049047265Z",
+  "model": "glm-5.3"
+}

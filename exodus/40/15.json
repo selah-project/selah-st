@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "O ba lotse jwalo ka ha o lotse ⟨את⟩ ntata bona, ba be bathusi ba ka; mme bolotsi bona bo tla ba tlohela e le boprista bo sa feleng ho meloko ya bona.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "o ba lotse"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "o lotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntata bona"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ntata bona"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "ba be baprista"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba ka"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "להית",
+      "gloss": "e be"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bakeng sa bona"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "bolotsi bona"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "boprista"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bo sa feleng"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ho meloko ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:14.382420374Z",
+  "model": "glm-5.3"
+}

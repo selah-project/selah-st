@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Mme eena ke ne ke bohlole, mme ke sa tsebe; ke ne ke le phoofolo ho wena.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme eena"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ke ne ke bohlole"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ke sa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "phoofolo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke le"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:48.311979956Z",
+  "model": "glm-5.3"
+}

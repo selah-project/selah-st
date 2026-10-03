@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 23:6",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme a boela ho yena, mme bona, o eme hodima sehlabelo sa hae sa ho chesa, yena le dikoena kaofela tsa Moabe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "o eme"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "sehlabelo sa hae sa ho chesa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... kaofela"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dikoena"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:35:28.935149414Z",
+  "model": "glm-5.3"
+}

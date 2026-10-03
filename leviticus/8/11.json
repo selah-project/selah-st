@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a hlatlanya karolo ea lona hodima aletara makgetlo a supileng, mme a lotla ⟨את⟩ aletara le ⟨את⟩ didiriswa tsa yona kaofela, le ⟨את⟩ sediba sa ho hlatswa le ⟨את⟩ motheo wa sona, hore a di halaletse.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "mme a hlatlanya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "karolo ea lona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletara"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "supileng"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "makgetlo"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "mme a lotla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aletara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa yona kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didiriswa tsa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sediba sa ho hlatswa"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "sediba sa ho hlatswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "motheo wa sona"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "motheo wa sona"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "hore a di halaletse"
+    }
+  ],
+  "timestamp": "2026-10-03T06:07:43.801856729Z",
+  "model": "glm-5.3"
+}

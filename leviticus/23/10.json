@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Bua le bana ba Yisraele, mme o re ho bona: Ha le kena lefatshe leo ke le neelang lona, mme le gemile ⟨את⟩ letsema la lona, le tla tlisa ⟨את⟩ omere, mathwasong a letsema la lona, ho moprista;",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "mme o re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "le kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "neelang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "mme le gemile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsema la lona"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "letsema la yona"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "le tla tlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omere"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omere"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mathwasong a"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "letsema la lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:46.393867088Z",
+  "model": "glm-5.3"
+}

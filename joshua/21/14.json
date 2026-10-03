@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "le ⟨את⟩ Yatire le ⟨את⟩ meraka ya yona, le ⟨את⟩ Eshtemoa le ⟨את⟩ meraka ya yona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yatire"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "meraka ya yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "meraka ya yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "meraka ya yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "meraka ya yona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:31.349236566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Hobane ha ho na se lokileng molomong wa bona; se kahare sa bona ke masepa; morita wa bona ke lebitla le butswitseng; ka leleme la bona ba hlobofatsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho na"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "molomong wa bona"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "se lokileng"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "se kahare sa bona"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "masepa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lebitla"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "le butswitseng"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "morita wa bona"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "leleme la bona"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "ba hlobofatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:23.070345404Z",
+  "model": "glm-5.3"
+}

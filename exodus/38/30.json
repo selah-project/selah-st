@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme ka yona a etsa ⟨את⟩ mealo ya mothalo wa ohela ya kopano, le ⟨את⟩ aletare ya morena, le ⟨את⟩ sesele se tletseng morena se nang le sona, le ⟨את⟩ didiriswa tsohle tsa aletare.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme ka yona a etsa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mealo ya mothalo wa ohela ya kopano"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mealo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mothalo wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "aletare ya morena"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya morena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sesele se tletseng morena"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "sesele"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "se tletseng morena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nang le sona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsohle tsa aletare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "tsa aletare"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:24.162266610Z",
+  "model": "glm-5.3"
+}

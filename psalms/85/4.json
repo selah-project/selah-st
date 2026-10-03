@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "O ile wa nka halefo ya hao kaofela; o ile wa kgutlela morao ho tukiso ya halefo ya hao.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "o ile wa nka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "halefo ya hao"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "o ile wa kgutlela morao"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ho tukiso ya"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "halefo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:19.218455052Z",
+  "model": "glm-5.3"
+}

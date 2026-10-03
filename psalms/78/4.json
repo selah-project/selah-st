@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Re ke ke wa di pata ho bana ba bona; ho sechaba se tlang re di bolella ditlotla tsa Yahwe, le matla a hae, le makatsong a hae ao a entseng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Re ke ke wa"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "di pata"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "ho bana ba bona"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ho sechaba"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "se tlang"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "re di bolella"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ditlotla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "le matla a hae"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "le makatsong a hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a entseng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:19.940708160Z",
+  "model": "glm-5.3"
+}

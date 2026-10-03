@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Etsoa le mohlanka wa hao joaloka hesede ya hau, mme o ntsehetse melawana ya hau.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Etsoa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa hao"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "joaloka hesede ya hau"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "mme melawana ya hao"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "o ntsehetse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:11.522127219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Ha ke tla nka pholo ho tloha ntlong ya hau, kapa pudi tse botona ho tloha malapeng a hau.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ke tla nka"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "ho tloha ntlong ya hau"
+    },
+    {
+      "surface": "פר",
+      "gloss": "phola"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "ho tloha malapeng a hau"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "pudi tse botona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:44.844900988Z",
+  "model": "glm-5.3"
+}

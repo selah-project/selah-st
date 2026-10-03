@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 97,
+  "translation": "Lona ba ratang Yahwe, hlopong bobe; ⟨⟨eena⟩⟩ o boloka meya ya bahloki ba hae; o tla ba lokolla letsohong la ba fosetsang.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "ba ratang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "hlopong"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "o boloka"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "meya"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bahloki ba hae"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "letsohong"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba fosetsang"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "o tla ba lokolla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:26.559178861Z",
+  "model": "glm-5.3"
+}

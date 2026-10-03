@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "mme a hlahise ⟨את⟩ tsona ho moprista, mme a atamise ⟨את⟩ sebakeng sa sehlabelo sa khoeo pele, a qhopose ⟨את⟩ hloho ya sona ka pele ho molala wa sona, a se kgaohanye:",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "mme a hlahise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tsona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mme a atamise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebakeng sa sehlabelo sa khoeo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "sehlabelo sa khoeo"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "pele"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "a qhopose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho ya sona"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hloho ya sona"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ka pele ho"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "molala wa sona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a se"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "kgaohanye"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:46.518115328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Rame a beletse ⟨את⟩ Aminadabe; mme Aminadabe a beletse ⟨את⟩ Nakhshone, mookamedi wa bara ba Yehuda.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Mme Rame"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a beletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadabe"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabe"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "mme Aminadabe"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a beletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhshone"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshone"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wa bara"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:48.391182543Z",
+  "model": "glm-5.3"
+}

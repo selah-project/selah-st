@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Yahwe a raela hlooho e kgolo ea lithapi hore e lle ⟨את⟩ Jonase; mme Jonase o ile a ba a le ka meping ea hlooho eo matsatsi a mararo le mabedi a bosiu a mararo.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "a raela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "hlooho ea lithapi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "hore e lle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonase"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonase"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme ... a ile a ba"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonase"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "ka meping ea"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "hlooho eo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "le ... a mararo"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "mabedi a bosiu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:30.379621927Z",
+  "model": "glm-5.3"
+}

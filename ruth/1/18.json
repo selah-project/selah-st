@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme a bona hore o matlafaditse ke ho ea ⟨את⟩ le eena, a koahela ho bua ho eena.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "o matlafaditse ke"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ho ea"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ le eena",
+      "marks": "le eena"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "a koahela"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho bua"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ho eena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:39:05.001207476Z",
+  "model": "glm-5.3"
+}

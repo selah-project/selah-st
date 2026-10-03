@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 76,
+  "translation": "U khanya, u le hodimo, u feta dithaba tsa tlamo.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "U khanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "u le hodimo, u feta"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "dithaba tsa"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "tlamo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:25.431418838Z",
+  "model": "glm-5.3"
+}

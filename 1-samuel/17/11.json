@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Saul le Yisraele kaofela ba utlula ⟨את⟩ mantswe a Mofalisete ao, ba tšoenyeha, ba ts'oha haholo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ba utlula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... kaofela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe a Mofalisete"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "a Mofalisete"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "ba tšoenyeha"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ba ts'oha"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T07:38:31.722289411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "le ⟨את⟩ bohle ba morena ba Arabia, le ⟨את⟩ bohle ba morena ba ba tshakaneng, ba dulang sekakeng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bohle ba morena ba Arabia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ba morena"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arabia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bohle ba morena ba ba tshakaneng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ba morena"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ba ba tshakaneng"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sekakeng"
+    }
+  ],
+  "timestamp": "2026-10-03T09:13:59.847971747Z",
+  "model": "glm-5.3"
+}

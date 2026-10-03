@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme o ile a tlama ⟨את⟩ mahodimo, a theoha, mme lefifi le timetse le ne le le tlase ho maoto a hae.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Mme o ile a tlama"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a theoha"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "mme lefifi le timetse"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlase ho"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maoto a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:48.820897359Z",
+  "model": "glm-5.3"
+}

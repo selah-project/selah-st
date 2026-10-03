@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Ena ke phoofolo eo le ka jang eona: khomo, nama ya dinku, le nama ya dipudi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ena"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "phoofolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le ka jang"
+    },
+    {
+      "surface": "שור",
+      "gloss": "khomo"
+    },
+    {
+      "surface": "שה",
+      "gloss": "nama"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ya dinku"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "le nama"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ya dipudi"
+    }
+  ],
+  "timestamp": "2026-10-03T06:52:01.904947671Z",
+  "model": "glm-5.3"
+}

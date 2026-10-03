@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme ba babedi ba ne ba sepile, motho le mosadi wa hae, mme ba ne ba sa tshwenyehe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Mme ba ne ba"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "ba sepile"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "le mosadi wa hae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ne ba sa"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "tshwenyehe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:18:53.936013561Z",
+  "model": "glm-5.3"
+}

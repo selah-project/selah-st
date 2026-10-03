@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme letsatsi le chaba, mme letsatsi le ea, mme le fodima ka thata ho ea sebakeng sa lona — eena ya chabang o dula teng.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "mme le chaba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mme le ea"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ho ea"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "sebakeng sa lona"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "le fodima ka thata"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ya chabang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o dula teng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:50.544863542Z",
+  "model": "glm-5.3"
+}

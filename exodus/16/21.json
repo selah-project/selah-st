@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Ba bokella ⟨את⟩ yona hoseng le hoseng, motho yo mong le yo mong ho ya ka ho ja ha hae; mme ha letsatsi le chesa, e a qhibiliha.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "ba bokella"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (manna)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le hoseng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mong le yo mong"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ho ya ka"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ho ja ha hae"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "mme ha... le chesa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "e a qhibiliha"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:40.971967020Z",
+  "model": "glm-5.3"
+}

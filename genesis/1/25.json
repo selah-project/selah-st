@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Elohim o ile a etsa ⟨את⟩ phoofolo ya lefatshe ho ya ka mofuta wa yona, le ⟨את⟩ diphoofolo tsa lapeng ho ya ka mofuta wa tsona, le ⟨את⟩ tsohle tse phaphametseng mobung ho ya ka mofuta wa tsona; mme Elohim a bona hore ho lokile.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phoofolo ya lefatshe"
+    },
+    {
+      "surface": "חית",
+      "gloss": "phoofolo ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ho ya ka mofuta wa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diphoofolo tsa lapeng"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "diphoofolo tsa lapeng"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ho ya ka mofuta wa tsona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tsohle tse phaphametseng mobung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "tse phaphametseng"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mobung"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ho ya ka mofuta wa tsona"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ho lokile"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:52.583577760Z",
+  "model": "glm-5.3"
+}

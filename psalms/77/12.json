@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Ke tla hopola mesebetsi ya Yah; hobane ke tla hopola makgetla a hao a madilong.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Ke tla hopola"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "mesebetsi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ya Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ke tla hopola"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "a madilong"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "makgetla a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:14.659734533Z",
+  "model": "glm-5.3"
+}

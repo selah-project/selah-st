@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Kgaitsedi ya Tahpenese a mo belella ⟨את⟩ Genubathe mora wa hae; mme Tahpenese a mo nweletsa hara ntlo ya Farao; mme Genubathe a dula ntlong ya Farao hara bara ba Farao.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a mo belella"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "Kgaitsedi"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tahpenese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubathe"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubathe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "a mo nweletsa"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tahpenese"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubathe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    }
+  ],
+  "timestamp": "2026-10-03T08:10:15.904629469Z",
+  "model": "glm-5.3"
+}

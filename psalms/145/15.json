@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Mahlo a tsohle a lebeletša ho wena, mme wena o fa ⟨את⟩ lijo tsa tsona ka nako ya tsona.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mahlo a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "a lebeletša ka tshepo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "o fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tsona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lijo tsa tsona"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "lijo tsa tsona"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ka nako ya tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:26.386361646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 5:7",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ke ka kae ke ka tswarella se seng sena o? Bana ba hao ba ntloketse, mme ba ikannile ka se seng se seng Elohim; empa ka ba khotsofatsa, ba ile ba bina bobeng, ba phuthehela mabothong ho ntlo ya sehlweng.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Ke ka kae"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "se seng sena"
+    },
+    {
+      "surface": "אסלוח",
+      "gloss": "ke ka tswarella"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba hao"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "ba ntloketse"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "mme ba ikannile"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ka se seng se seng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואשבע",
+      "gloss": "empa ka ba khotsofatsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "bana ba hao"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "ba ile ba bina bobeng"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ho ntlo ya"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "sehlweng"
+    },
+    {
+      "surface": "יתגדדו",
+      "gloss": "ba phuthehela mabothong"
+    }
+  ],
+  "timestamp": "2026-10-03T09:03:59.057128513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme ba ile ba takatsa takatso bohaleng, mme ba ile ba leka El bohaleng.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "mme ba ile ba takatsa"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "takatso"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bohaleng"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mme ba ile ba leka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "bohaleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:02.360234500Z",
+  "model": "glm-5.3"
+}

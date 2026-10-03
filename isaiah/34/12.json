@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Bakhosi ba yona ba tla bitla ⟨ho⟩ mmuso, empa ha ho ya teng foo; mme balaodi ba yona bohle ba tla ba se seng foo.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "bakhosi ba yona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "empa ha ho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng foo"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "mmuso"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ba tla bitla"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme bohle ba"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "balaodi ba yona"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba tla ba"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "se seng foo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:46:35.944623315Z",
+  "model": "glm-5.3"
+}

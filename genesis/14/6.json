@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "le ⟨את⟩ Bakhori thabeng ya bona ya Seire, ho fihlela ho Ele-Parane, eo e leng hodima lehlaka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bakhori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Bakhori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "thabeng ya bona"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seire"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela ho"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e leng"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "lehlaka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:15.622906883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme sejana sa letsopa seo se phehiswang ho sona se tla thuntshoa; mme ha se phehiswa ka sejana sa tompe, se tla hloekiswa mme se hlapwa ka metsing.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "mme sejana sa"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "letsopa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "se phehiswang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho sona"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "se tla thuntshoa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ka sejana sa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tompe"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "se phehiswa"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "se tla hloekiswa"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "mme se hlapwa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka metsing"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:45.895795948Z",
+  "model": "glm-5.3"
+}

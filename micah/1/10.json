@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ka Gate se ke la bolela, se ke la lla; Beth-le-Afara, ka mofufutso ikaele ka oena.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "ka Gate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "la bolela"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "lla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "la lla"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Afara"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mofufutso"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ikaele ka oena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:14.053242661Z",
+  "model": "glm-5.3"
+}

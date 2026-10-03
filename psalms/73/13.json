@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Ruri, ntle! Ke ile ka hlwekisa pelo ya ka, mme ka hlatswa ka bohlweki matsoho a ka.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ntle"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ke ile ka hlwekisa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "mme ka hlatswa"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ka bohlweki"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "matsoho a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:51.475119215Z",
+  "model": "glm-5.3"
+}

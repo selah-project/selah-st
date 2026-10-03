@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Hobane ⟨את⟩ lefatshe lohle leo o le bonang, ke tla e fana wena, le ho peo ya hau, ho fihlela ho sa felle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe lohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ke tla e fana"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "le ho peo ya hau"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho sa felle"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:50.244477151Z",
+  "model": "glm-5.3"
+}

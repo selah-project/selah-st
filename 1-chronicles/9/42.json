@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Akhaze a begeta ⟨את⟩ Yearahe; mme Yearahe a begeta ⟨את⟩ Alemete le ⟨את⟩ Azmavete le ⟨את⟩ Zimri; mme Zimri a begeta ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Mme Akhaze"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yearahe"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Yearahe"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "mme Yearahe"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemete"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Azmavete"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "mme Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-10-03T12:13:53.816791715Z",
+  "model": "glm-5.3"
+}

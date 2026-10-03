@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Mme ba tla bahlalefi bohle ba etsang ⟨את⟩ mosebetsi ohle wa sehalalelo, motho ka mong a tloha mosebetsing wa hae oo ba neng ba o etsa.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "bahlalefi"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebetsi ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wa sehalalelo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka mong"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "a tloha mosebetsing wa hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba neng ba"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "o etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:04.340754287Z",
+  "model": "glm-5.3"
+}

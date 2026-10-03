@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Empa eena ke dula ke le le wena ka ho sa feleng; o nkotse ka letsoho la ka la ho ja.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Empa eena"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka ho sa feleng"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ke le le wena"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "o nkotse"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "la ka la ho ja"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:48.312125447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme a etsa ⟨את⟩ hoshene, mosebetsi wa mohlahlami, jwaloka mosebetsi wa efode — wa gauta, tekhelete, le argamane, le tolaat ya shane, le sheshe wa silang mekhutlo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoshene"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshene"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "wa mohlahlami"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "jwaloka mosebetsi"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "wa efode"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wa gauta"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "le argamane"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "le tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya shane"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le sheshe"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "wa silang mekhutlo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:23.721902471Z",
+  "model": "glm-5.3"
+}

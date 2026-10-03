@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ho tswa diphoofolong tse halalelang, le ho tswa diphoofolong tse sa halalelang, le ho tswa dinonyaneng, le tsohle tse retsang hodima lefatshe.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Ho tswa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "diphoofolong"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "tse halalelang"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le ho tswa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "diphoofolong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "halalelang"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le ho tswa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "dinonyaneng"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "retsang"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:02.857058267Z",
+  "model": "glm-5.3"
+}

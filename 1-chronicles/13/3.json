@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme a re sebelise hlong ⟨את⟩ Arene ya Elohim wa rona ho ya ho rona, hobane re sa batle ho yena matsatsing a Shauole.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "a re sebelise hlong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arene ya Elohim wa rona"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arene"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ho ya ho rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "re sa"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "batle ho yena"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "matsatsing a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    }
+  ],
+  "timestamp": "2026-10-03T12:16:30.981211307Z",
+  "model": "glm-5.3"
+}

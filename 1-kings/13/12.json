@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme ntata bona a ba bolella: Haele tsela efe eo a tsamaeang ka yona? Mme barui ba hae ba bona ⟨את⟩ tsela eo motho oa Elohim a neng a e tsamaea, eo a tsoang Yehuda.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "mme a bolella"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ntata bona"
+    },
+    {
+      "surface": "אי",
+      "gloss": "haele... efe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tsela eo"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a tsamaeang"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barui ba hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a neng a e tsamaea"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "oa Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a tsoang"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:34.196140525Z",
+  "model": "glm-5.3"
+}

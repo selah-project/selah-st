@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "O etsa hore re be sehlareho machabeng, hloho e tsamaisang mahlo hara merabe e mengata.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "O etsa hore re be"
+    },
+    {
+      "surface": "משל",
+      "gloss": "sehlareho"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "macha-beng"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "hloho e tsamaisang mahlo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hara merabe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "merabe"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "e mengata"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:29.011430322Z",
+  "model": "glm-5.3"
+}

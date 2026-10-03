@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme majweke a leshome a mabedi ⟨את⟩ ao a neng a tsejoa tloha ho Yardene, Yehoshua o ile a emisa ha Gilgale.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "majweke a leshome a mabedi ao"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "leshome"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "majweke"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao a neng"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "a tsejoa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tloha ho"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardene"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ha Gilgale"
+    }
+  ],
+  "timestamp": "2026-10-03T07:03:38.933542276Z",
+  "model": "glm-5.3"
+}

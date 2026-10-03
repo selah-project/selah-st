@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "translation": "Ka Elohim ke tla binka puo; ka Yahwe ke tla binka puo.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ke tla binka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ke tla binka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:14.791037897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Ba halaletsa ⟨את⟩ Kedeshe ba Galile, thabeng ya Naftali, le ⟨את⟩ Shekeme thabeng ya Efrayime, le ⟨את⟩ Kiryat-Arba, ⟨e leng⟩ Khebrone, thabeng ya Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "ba halaletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeshe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeshe"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "ba Galile"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Shekeme"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e leng"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebrone"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T07:15:15.274464762Z",
+  "model": "glm-5.3"
+}

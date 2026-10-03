@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Poelo e tla mo sebeletsa; e tla bolelwa ho Adonai, ho sehlopha se tlang.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "poelo"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "e tla mo sebeletsa"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "e tla bolelwa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ho Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ho sehlopha se tlang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:23.734807711Z",
+  "model": "glm-5.3"
+}

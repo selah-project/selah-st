@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Ya re ntle ka bobedi re ne re mona sephiri se monate, re tsamaya le bona ka bobedi ka hare ho ntlo ya Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ya re ntle"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ka bobedi"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "re ne re mona se monate"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sephiri"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka hare ho ntlo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "re tsamaya"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "le bona ka bobedi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:43.836889743Z",
+  "model": "glm-5.3"
+}

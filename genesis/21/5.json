@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme Abrahame e ne e le ⟨e le⟩ mora wa dilemo tse lekgolo ha ⟨את⟩ Yitshake mora wa hae a belegwa ho yena.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Mme Abrahame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "tse lekgolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "ha a belegwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshake"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:07.856400059Z",
+  "model": "glm-5.3"
+}

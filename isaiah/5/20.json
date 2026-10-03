@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mahlong a ba reng bobe ⟨⟨ke⟩⟩ tolokwe, le tolokwe ⟨⟨ke⟩⟩ bobe; ba behang lefifi khahlanong le khanya, le khanya khahlanong le lefifi, ba behang bohloko khahlanong le monate, le monate khahlanong le bohloko!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mahlong a"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ba reng"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tolokwe"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "le tolokwe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ba behang"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "khahlanong le khanya"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "le khanya"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "khahlanong le lefifi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ba behang"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bohloko"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "khahlanong le monate"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "le monate"
+    },
+    {
+      "surface": "למר",
+      "gloss": "khahlanong le bohloko"
+    }
+  ],
+  "timestamp": "2026-10-03T08:33:58.222376556Z",
+  "model": "glm-5.3"
+}

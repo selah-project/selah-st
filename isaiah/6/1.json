@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Ka selemo sa lefu la morena Uzia, mme ka bona ⟨את⟩ Adonai a dumetse holimo setulong se phahameng le se hodilweng, mme mokgatla wa hae o ile wa tlatsa ⟨את⟩ tempole.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ka selemo sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzia"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mme ka bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dumetse"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulong"
+    },
+    {
+      "surface": "רם",
+      "gloss": "se phahameng"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "le se hodilweng"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "mme mokgatla wa hae"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "o ile wa tlatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempole"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "tempole"
+    }
+  ],
+  "timestamp": "2026-10-03T08:34:56.129661152Z",
+  "model": "glm-5.3"
+}

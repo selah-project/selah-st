@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "hore borena bo be bonyane, bo se ke ba iphapanya, bo phethe ⟨את⟩ selekane sa hae, hore bo pheme.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "hore bo be"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "borena"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "bonyane"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "bo se ke ba"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "iphapanya"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "bo phethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa hae"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "selekane sa hae"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "hore bo pheme"
+    }
+  ],
+  "timestamp": "2026-10-03T09:41:27.014858886Z",
+  "model": "glm-5.3"
+}

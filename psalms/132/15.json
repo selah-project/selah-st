@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Dijo tsa yona ke tla di hlohlelletsa ka tsela e pharaletseng; basalumi ba yona ke tla ba atisa ka borotho.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Dijo tsa yona"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ke tla di hlohlelletsa"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ka tsela e pharaletseng"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "basalumi ba yona"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "ke tla ba atisa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ka borotho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:33.652517686Z",
+  "model": "glm-5.3"
+}

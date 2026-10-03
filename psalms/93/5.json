@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 93,
+  "translation": "Bopaki ba hau bo netefaditswe haholo; hlobohalalelang e ntle ho ntlo ya hau, Yahwe, ho ya bophara bolelele ba matsatsi.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "bopaki ba hau"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "bo netefaditswe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ho ntlo ya hau"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "e ntle"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hlobohalalelang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ho ya bophara bolelele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ba matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:33.778546636Z",
+  "model": "glm-5.3"
+}

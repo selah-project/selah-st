@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "A mo laetse ka taba ena, hore a se ke a latela melimo e meng; empa ha a a boloka ⟨את⟩ seo Yahwe a neng a se laetse.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "A mo laetse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hore a se ke a"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "latela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e meng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "a boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo (eo a laetseng sona)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:56:26.744665324Z",
+  "model": "glm-5.3"
+}

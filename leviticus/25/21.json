@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme ke tla laela ⟨את⟩ tshepo ya ka ho lona selemong sa boraro-hodima-tse thataro, mme se tla etsa ⟨את⟩ poletso bakeng sa dilemo tse tharo.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "ke tla laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tshepo ya ka"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "tshepo ya ka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "selemong sa"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "sa boraro-hodima-tse thataro"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "mme se tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poletso"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "poletso"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "bakeng sa tse tharo"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "dilemo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:16:23.114834001Z",
+  "model": "glm-5.3"
+}

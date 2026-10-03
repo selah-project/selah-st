@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Ka ho utlwa moo e kgonang, utlwi ya utlwa ka lapeng, mme bana ba sebakeng sa sehlekollo ba ikhohomosa ho nna.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ka ho utlwa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "utlwi"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ya utlwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka lapeng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "sebakeng sa sehlekollo"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ba ikhohomosa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:39.261368582Z",
+  "model": "glm-5.3"
+}

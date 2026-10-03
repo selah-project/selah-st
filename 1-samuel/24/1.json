@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme Dawide a ea hodimo ho tloha moo, a dula bohaleng bo matla ba Ene Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a ea hodimo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ho tloha moo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "bohaleng bo matla ba"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ene"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-10-03T07:42:46.607549869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Yahwe Elohim a haha ⟨את⟩ cedela eo a neng a e nkile ho motho, a etsa mosadi; mme a mo isa ho ⟨את⟩ motho.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a haha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cedela eo"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "cedela eo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a e nkile"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "a etsa mosadi"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "a mo isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:26.078281106Z",
+  "model": "glm-5.3"
+}

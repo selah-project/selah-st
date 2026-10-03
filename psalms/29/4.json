@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Lentswe la Yahwe ⟨⟨is⟩⟩ ka matla; lentswe la Yahwe ⟨⟨is⟩⟩ ka bokgantshi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ka matla"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ka bokgantshi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:56.855878952Z",
+  "model": "glm-5.3"
+}

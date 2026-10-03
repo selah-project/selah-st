@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "deuteronomy 28:59",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "mme Yahwe o tla etsa hore ⟨את⟩ dimakotso tsa hao di be tsa makatsa, le ⟨את⟩ dimakotso tsa poelo ya hao — dimakotso tse kgolo tse sa feleng, le malwetši a mabe a sa feleng.",
+  "tokens": [
+    {
+      "surface": "והפלא",
+      "gloss": "mme ... o tla etsa hore di be tsa makatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dimakotso tsa hao"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "dimakotso tsa hao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dimakotso tsa poelo ya hao"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "dimakotso"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tsa poelo ya hao"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "dimakotso"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tse kgolo"
+    },
+    {
+      "surface": "ונאמנות",
+      "gloss": "tse sa feleng"
+    },
+    {
+      "surface": "וחלים",
+      "gloss": "le malwetši"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "a mabe"
+    },
+    {
+      "surface": "ונאמנים",
+      "gloss": "a sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:58:53.262690945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Hobane mekgwa ea ka ha ea lona ⟨ea⟩ lona, mme mehla ea lona eseng mehla ea ka, ho bolela Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "mekgwa ea ka"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "ea lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme eseng"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "mehla ea lona"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mehla ea ka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:54:18.262495494Z",
+  "model": "glm-5.3"
+}

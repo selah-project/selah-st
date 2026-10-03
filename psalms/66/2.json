@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Mmang o kgalalelo ya lebitso la hae; befang o kgalalelo makoong a hae.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "mmang"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "befang"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "o kgalalelo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "makoong a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:24.253203486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme e bile mantsiboyeng, mme sepane se ile sa hlaha, mme sa koahela ⟨את⟩ molekane; mme hoseng e bile mokgatla wa tlalla, o dikakaretso ho molekane.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mantsiboyeng"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "sa hlaha"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "sepane"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "sa koahela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molekane"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "molekane"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "mme hoseng"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "mokgatla"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "wa tlalla"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho dikakaretso"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ho molekane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:57.317907265Z",
+  "model": "glm-5.3"
+}

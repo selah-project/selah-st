@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Hobane ya hlalosang Marote e ile ya hloka matla a leka ho lebella molemo; hobane bobe bo theohile ho tsoa ho ⟨את⟩ Yahwe, ho fihlela sebakeng sa Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "e ile ya hloka matla"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ya hlalosang"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bo theohile"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho tsoa ho ⟨את⟩",
+      "marks": "bobe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ho fihlela sebakeng sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:14.053935334Z",
+  "model": "glm-5.3"
+}

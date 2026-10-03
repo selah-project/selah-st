@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme barwa ba Eli e ne e le barwa ba Beliale; ba ne ba se tsebe ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mme barwa ba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:30:31.913026285Z",
+  "model": "glm-5.3"
+}

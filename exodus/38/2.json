@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme o ile a etsa dinaka tsa yona hodima makhutlo a yona a mane; dinaka tsa yona di ne di tswa ho yona; mme o ile a apesa ⟨את⟩ yona ka tompe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme o ile a etsa"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "dinaka tsa yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "a mane"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "makhutlo a yona"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho tswa ho yona"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di ne di"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "dinaka tsa yona"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "mme o ile a apesa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (aletare)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ka tompe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:27.499183080Z",
+  "model": "glm-5.3"
+}

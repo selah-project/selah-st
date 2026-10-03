@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "A se ke ba re pelong ea bona: Heakha, molemo oa moya oa rona; a se ke ba re: Re mo menotse.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "pelong ea bona"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heakha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moya oa rona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "re mo menotse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:07.127225470Z",
+  "model": "glm-5.3"
+}

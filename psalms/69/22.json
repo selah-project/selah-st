@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Ba ne ba fana ka bosetla sebakeng sa dijo tsa ka, mme bakeng sa nyorohano ya ka ba mpeisedira vinaigare.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ba ne ba fana"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "sebakeng sa dijo tsa ka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "bosetla"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "mme bakeng sa nyorohano ya ka"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "ba mpeisedira"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "vinaigare"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:30.942987977Z",
+  "model": "glm-5.3"
+}

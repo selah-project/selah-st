@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Empa Elohim o utloisisa tselae, mme oena o tseba ⟨את⟩ sebaka sa yona.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "o utloisisa"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "tselae"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme oena"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebaka sa yona"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "sebaka sa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:27:27.547360792Z",
+  "model": "glm-5.3"
+}

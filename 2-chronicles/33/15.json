@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme a tlosa ⟨את⟩ melimo ya ditjhaba le ⟨את⟩ setshwantsho ho ntlo ya Yahwe, me meabitso yohle yeo a e hahileng thabeng ya ntlo ya Yahwe le Yerushalayime, mme a e lahla kantle ho toropo.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "mme a tlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melimo ya ditjhaba"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ya ditjhaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setshwantsho"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "setshwantsho"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ho ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "me"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "meabitso yohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a e hahileng"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "le Yerushalayime"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "mme a e lahla"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "kantle"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ho toropo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:38:56.607073881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a bea moo sebaka sa ⟨את⟩ araka, moo ho leng selekane sa Yahwe, seo a se ile a etsa le batala ba rona ha a ntsha ⟨אתם⟩ ho tloha naheng ya Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "mme a bea"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebaka"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sa araka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ho leng"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a se ile a etsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "batala ba rona"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "ha a ntsha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ho tloha naheng ya Mitsrayime"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha naheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T08:07:21.230288641Z",
+  "model": "glm-5.3"
+}

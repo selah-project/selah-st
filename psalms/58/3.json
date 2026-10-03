@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 58,
+  "translation": "Ee, ka pelong le etsa boshodi; lefatsheng le lekanya khoka ya matsoho a lona.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ka pelong"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "boshodi"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "le etsa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "khoka"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "matsoho a lona"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "le lekanya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:25.095455692Z",
+  "model": "glm-5.3"
+}

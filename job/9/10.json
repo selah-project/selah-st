@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ya etsang dilo tse kgolo ho fihlela ho se seholo-holo, le dilo tse makatsang tse sa baleheheng.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dilo tse kgolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ho se"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "seholo-holo"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "le dilo tse makatsang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tse sa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "baleheheng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:20:13.495532949Z",
+  "model": "glm-5.3"
+}

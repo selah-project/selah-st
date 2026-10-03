@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Empa wena, Adonai, ke El ya mohau le ya ts'oarelo, telele ho halefa, mme o atisa hesede le 'net'e.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "empa wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "ya mohau"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "le ya ts'oarelo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "telele"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ho halefa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mme o atisa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "le 'net'e"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:34.841220917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme o di behe setlareng se le seng, mme o di atise setlareng, le ⟨את⟩ ntlama eo le ⟨את⟩ dimmapara tseo tse pedi.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "mme o di behe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "setlareng"
+    },
+    {
+      "surface": "סל",
+      "gloss": "setlare"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le seng"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "mme o di atise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "setlareng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ntlama eo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tseo tse pedi"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "dimmapara"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:58.831147932Z",
+  "model": "glm-5.3"
+}

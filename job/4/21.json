@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Na e sa ntse e hulwa hodima hao? Ba shwa, mme eseng ka bohlale.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Na"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "e hulwa"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "hodima hao"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ea bona"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "Ba shwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme eseng"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ka bohlale"
+    }
+  ],
+  "timestamp": "2026-10-03T11:18:14.862650170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 19:21",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "A boela a tloha ka morao ga hae, a nka ⟨את⟩ chela ya dikgomo, a e hlabela, mme ka didirisiwa tsa dikgomo a apesa nama, a fana ka eona ho setjhaba, mme ba ja. A ema, a tsamaya ka morao ga Eliya, a mo sebeletsa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "a tloha ka morao ga hae"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chela ya dikgomo"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "chela"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ya dikgomo"
+    },
+    {
+      "surface": "ויזבחהו",
+      "gloss": "a e hlabela"
+    },
+    {
+      "surface": "ובכלי",
+      "gloss": "mme ka didirisiwa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "tsa dikgomo"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "a apesa"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a fana ka eona"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ho setjhaba"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mme ba ja"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morao ga"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "וישרתהו",
+      "gloss": "a mo sebeletsa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:15:26.611733459Z",
+  "model": "glm-5.3"
+}

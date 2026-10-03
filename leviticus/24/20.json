@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Pheletso bakeng sa pheletso, leihlo bakeng sa leihlo, leino bakeng sa leino; jwalo ka ha a beang mocha ho motho, jwalo ha ho jurwe ho yena.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Pheletso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "pheletso"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "שן",
+      "gloss": "leino"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שן",
+      "gloss": "leino"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a beang"
+    },
+    {
+      "surface": "מום",
+      "gloss": "mocha"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ho motho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ho jurwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T12:45:43.487327286Z",
+  "model": "glm-5.3"
+}

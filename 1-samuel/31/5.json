@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme mosireletsi wa disebediwa wa hae a bona hore Shauole o shoile, mme o ile a wa yena le yena hodima sehlekele sa hae, a shwa le yena.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mosireletsi wa disebediwa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "disebediwa tsa hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "מת",
+      "gloss": "o shoile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "o ile a wa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sehlekele sa hae"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a shwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le yena"
+    }
+  ],
+  "timestamp": "2026-10-03T07:46:55.884964372Z",
+  "model": "glm-5.3"
+}

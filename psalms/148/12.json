@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "Bashanyana le hape barwesane; batho ba baholo le basha:",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "bashanyana"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le hape"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "barwesane"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "batho ba baholo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "basha"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:18.471514788Z",
+  "model": "glm-5.3"
+}

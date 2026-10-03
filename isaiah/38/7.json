@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme se ke sona sefane ho wena se tswang ⟨את⟩ ho Yahwe, hore Yahwe o tla etsa ⟨את⟩ taba ena eo a e boletse:",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Mme se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "האות",
+      "gloss": "sefane"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "se tswang ⟨את⟩ ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba ena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba ena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a e boletse"
+    }
+  ],
+  "timestamp": "2026-10-03T08:47:05.553551350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Tsoha, Yahwe, ho sebakeng sa phomolo ya hao, uena le arona ya matla a hao.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tsoha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "ho sebakeng sa phomolo ya hao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "le arona"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ya matla a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:56.786483445Z",
+  "model": "glm-5.3"
+}

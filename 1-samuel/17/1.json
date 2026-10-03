@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Bapalishti ba bokella ⟨את⟩ masole a bona bakeng sa ntwa, mme ba bokellana ho Sokhoe, eo e leng ya Yehuda, mme ba kena kemisong pakeng tsa Sokhoe le Asekahe, ho Eefeese-Damime.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ba bokella"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapalishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masole a bona"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "masole a bona"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "bakeng sa ntwa"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ba bokellana"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokhoe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e leng"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba kena kemisong"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokhoe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Asekahe"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "ho Eefeese"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-Damime"
+    }
+  ],
+  "timestamp": "2026-10-03T12:54:11.757748715Z",
+  "model": "glm-5.3"
+}

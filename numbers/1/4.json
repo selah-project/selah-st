@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ⟨את⟩ lona ho tla ba le monna ka kabelo e nngwe le e nngwe, monga mong le mong a hloho ya ntlo ya bo-ntate bona.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Mme ⟨את⟩ lona"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho tla ba le"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kabelo e nngwe le e nngwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monga mong le mong"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ya ntlo ya"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate bona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke eena"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:55.796477416Z",
+  "model": "glm-5.3"
+}

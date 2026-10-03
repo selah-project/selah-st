@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "o tla hlasela ka tlase ⟨את⟩ baahi ba toropo eo ka sefoha; o e qhethe ka botlalo, ⟨את⟩ yona le ⟨את⟩ tsohle tse ka hare ho yona, le ⟨את⟩ liphoofolo tsa eona, ka sefoha.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "hlasela ka tlase"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "o tla hlasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baahi ba toropo eo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baahi ba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sefoha"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "o e qhethe ka botlalo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tsohle tse ka hare ho yona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka hare ho yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "liphoofolo tsa eona"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "liphoofolo tsa eona"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sefoha"
+    }
+  ],
+  "timestamp": "2026-10-03T06:52:43.642031620Z",
+  "model": "glm-5.3"
+}

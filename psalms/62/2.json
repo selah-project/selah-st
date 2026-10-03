@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 62,
+  "translation": "Feel — ho Elohim moya wa ka o didimalletse; ho Yena pholoso ya ka e tswa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "feel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "o didimalletse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho Yena"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "pholoso ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:03.926250216Z",
+  "model": "glm-5.3"
+}

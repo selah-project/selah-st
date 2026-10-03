@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ke mang ⟨enoa⟩ a hlolang ho tloha lehoimeng, joalo ka dikholomo tsa mouoane, o nkiloeng ka mora le labane, le ka borethe bo bohle ba mohwebi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨enoa⟩"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a hlolang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "lehoimeng"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "joalo ka dikholomo"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tsa mouoane"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "o nkiloeng ka monko"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "le labane"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "le ka bohle"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "borethe"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "ba mohwebi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:35:48.768522734Z",
+  "model": "glm-5.3"
+}

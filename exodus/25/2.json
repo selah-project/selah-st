@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Bua le bana ba Yisraele, mme ba nkele mphe present; ho tswa ho ⟨את⟩ mong le mong ya pelo ya hae a mo hlahisang, le tla nka ⟨את⟩ present ya ka.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ba nkele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mphe"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "present"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ho tswa ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "a hlahisa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "le tla nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "present ya ka"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "present ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:22.897148312Z",
+  "model": "glm-5.3"
+}

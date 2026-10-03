@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme ke tla tlosa ⟨את⟩ mabitso a Baalim ho molomo wa hae, mme a ke ke a ketekwa hape ka mabitso a tsona.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "ke tla tlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabitso a Baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mabitso a"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "ho molomo wa hae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a ke ke"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "a ketekwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "ka mabitso a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:01:00.203887364Z",
+  "model": "glm-5.3"
+}

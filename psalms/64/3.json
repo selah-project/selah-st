@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 64,
+  "translation": "O ntihela ho sephiri sa ba etsang bobe, ho phuthehong ya basebetsi ba mafeela.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "O ntihela"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "ho sephiri sa"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ba etsang bobe"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "ho phuthehong ya"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "basebetsi ba"
+    },
+    {
+      "surface": "און",
+      "gloss": "mafeela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:01.399301594Z",
+  "model": "glm-5.3"
+}

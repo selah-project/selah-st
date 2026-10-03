@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ka mora hae Eylone wa Zebulune a ahlola ⟨את⟩ Yisraele; mme a ahlola ⟨את⟩ Yisraele selemo sa mashome a leshome.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a ahlola"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka mora hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Eylone"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "wa Zebulune"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "a ahlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mashome a leshome"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "selemo sa mashome a leshome"
+    }
+  ],
+  "timestamp": "2026-10-03T07:23:24.418396822Z",
+  "model": "glm-5.3"
+}

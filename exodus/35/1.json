@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Mme Moshe a bokella ⟨את⟩ phutheho yohle ya bana ba Yisraele, a ba re: Sena ke ⟨את⟩ mantswe ao Yahwe a laelitseng hore a etsoe.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "a bokella"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phutheho yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "phutheho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Sena"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laelitseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "hore a etsoe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:00:16.538571994Z",
+  "model": "glm-5.3"
+}

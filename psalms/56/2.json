@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "translation": "O nkhetse ka mohau, Elohim, hobane enoshe o ntsepela; letsatsi lohle a lwa, a nkoekela.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "o nkhetse ka mohau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "o ntsepela"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enoshe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "a lwa"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "a nkoekela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:13.604740684Z",
+  "model": "glm-5.3"
+}

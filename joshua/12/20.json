@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Morena wa Shimrone-Merone, o mong; morena wa Akhshafe, o mong;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "wa Shimrone"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "-Merone"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o mong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "wa Akhshafe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o mong"
+    }
+  ],
+  "timestamp": "2026-10-03T12:50:51.437938522Z",
+  "model": "glm-5.3"
+}

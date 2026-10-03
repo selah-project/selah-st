@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Ka lebaka leo, kgalalelo e ba apara bjwalo ka khwele ya molala, bosholu bo ba apara bjwalo ka diaparo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka lebaka leo"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "e ba apara ka khwele ya molala"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "bo ba apara"
+    },
+    {
+      "surface": "שית",
+      "gloss": "bjwalo ka diaparo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bosholu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "e ba apara"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:45.379638516Z",
+  "model": "glm-5.3"
+}

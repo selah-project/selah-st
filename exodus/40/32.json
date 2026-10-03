@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Ha ba kena tende ya kopano, le ha ba atamela ho aletare, ba hlapa; jwaloka Yahwe a laile ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "ha ba kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "le ha ba atamela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "ba hlapa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:42.617837224Z",
+  "model": "glm-5.3"
+}

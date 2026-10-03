@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Ho wena, Yahwe, ke tshepile; se ke wa ntlohela hore ke tloroe ka ho sa feleng; ntoloka ka tsedekeng ya hao.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Ho wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ntlohela hore ke tloroe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka ho sa feleng"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedekeng ya hao"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ntoloka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:19.791161489Z",
+  "model": "glm-5.3"
+}

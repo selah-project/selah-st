@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "E tshwareleng liphoso tsa hao kaofela, e phekolang makooana a hao kaofela —",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "E tshwareleng"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "liphoso tsa hao"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "e phekolang"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "makooana a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:13.262571925Z",
+  "model": "glm-5.3"
+}

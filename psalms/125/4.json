@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 125,
+  "translation": "E entse molemo, Yahwe, ho ba lokileng, le ho ba boholo ba pelo ea bobotsane ho lipelong tsa bona.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "E entse molemo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "ho ba lokileng"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "le ho ba boholo ba pelo ea bobotsane"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "ho lipelong tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:02.809306300Z",
+  "model": "glm-5.3"
+}

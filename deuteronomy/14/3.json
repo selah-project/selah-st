@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Le se ke la ja ntho e hloilweng le e 'ngoe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "la ja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "le e 'ngoe"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ntho e hloilweng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:52:01.904805952Z",
+  "model": "glm-5.3"
+}

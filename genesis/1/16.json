@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Elohim a etsa ⟨את⟩ didikii tse pedi tse kgolo, ⟨את⟩ didikii tse kgolo bakeng sa puso ya letsatsi, le ⟨את⟩ didikii tse nyane bakeng sa puso ya bosiu, le ⟨את⟩ dinaledi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didikii tse pedi tse kgolo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "didikii tsa khanya"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "tse kgolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didikii tse kgolo"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "didikii tsa khanya"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "tse kgolo"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "bakeng sa puso ya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didikii tse nyane"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "didikii tsa khanya"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "tse nyane"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "bakeng sa puso ya"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dinaledi"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "dinaledi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:48.123608560Z",
+  "model": "glm-5.3"
+}

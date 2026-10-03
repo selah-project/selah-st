@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Ba mo hloyang ohle ba swherisana mmoho ka nna; ka nna ba rala bobe ho nna.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "mmoho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "ba swherisana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ba mo hloyang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ba rala"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:10.248723029Z",
+  "model": "glm-5.3"
+}

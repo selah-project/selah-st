@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 59:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Mme u, Yahwe, Elohim wa Tsebaote, Elohim wa Yisraele, tsosa hore o etele ⟨את⟩ ditjhaba tsohle tlhokomelo; o se ke wa mohauma ba tsamaisang-boloetseohle ba avone. Selah.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "tsosa"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "hore o etele tlhokomelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨את⟩ ditjhaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תחן",
+      "gloss": "mohauma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ba tsamaisang-boloetse"
+    },
+    {
+      "surface": "און",
+      "gloss": "ba avone"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:26.678781163Z",
+  "model": "glm-5.3"
+}

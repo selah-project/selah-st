@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Moshe a re ho mokhwenya wa hae: Hobane setjhaba se tla ho nna ho batla Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme Moshe a re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "ho mokhwenya wa hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "se tla"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ho batla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:08.993402570Z",
+  "model": "glm-5.3"
+}

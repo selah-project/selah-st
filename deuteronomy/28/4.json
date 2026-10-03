@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Hlohonolofatswa tholoana sa mpa ya hao, le tholoana sa lefatshe la hao, le tholoana sa diphoofolo tsa hao, manana ya dikgomo tsa hao, le manana ya dinku tsa hao.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "hlohonolofatswa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "tholoana sa"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "mpa ya hao"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "le tholoana sa"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "lefatshe la hao"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "le tholoana sa"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "diphoofolo tsa hao"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "manana ya"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "dikgomo tsa hao"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "le manana ya"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "dinku tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:59:48.865555554Z",
+  "model": "glm-5.3"
+}

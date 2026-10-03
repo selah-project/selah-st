@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Hobane ba ntshepeng ba nthile, le ba lemileng ⟨את⟩ mophefo wa ka ba dule ba nahana mmoho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba nthile"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ba ntshepeng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka ka"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "le ba lemileng"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mophefo wa ka"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ba nahana"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmoho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:33.095833528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "O ile ba tataisa jwalo ka kuku ⟨את⟩ sechaba sa hau, ka letsoho la Moshe le la Aharone.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "O ile ba tataisa"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "jwalo ka kuku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sechaba sa hau"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le la Aharone"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:28.971007655Z",
+  "model": "glm-5.3"
+}

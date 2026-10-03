@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Pakiti ho bolaya, le pakiti ho phekola; pakiti ho phunya, le pakiti ho haha.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pakiti"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "ho bolaya"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le pakiti"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "ho phekola"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pakiti"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ho phunya"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le pakiti"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ho haha"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:22.464578043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Dawide e ne e le nako eo boemong bo matla, mme setsi sa Bapelesete se ne se le nako eo Betleheme.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Mme Dawide"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nako eo"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "boemong bo matla"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "mme setsi sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelesete"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nako eo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leheme"
+    }
+  ],
+  "timestamp": "2026-10-03T12:13:57.216650634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Na sekwane se tla ikhantsa khahlanong le ya se betlang ka sona? Na sekere se tla ikholosa khahlanong le ya se shakang? Jwaloka sethotha se shakang ba se phahamisang, le ⟨את⟩ ba se phahamisang, jwaloka thipa e phahamisang eseng sehlare.",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "Na se tla ikhantsa"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "sekwane"
+    },
+    {
+      "surface": "על",
+      "gloss": "khahlanong le"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "ya se betlang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka sona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Na"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "se tla ikholosa"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "sekere"
+    },
+    {
+      "surface": "על",
+      "gloss": "khahlanong le"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "ya se shakang"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "jwaloka se shakang"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sethotha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ba se phahamisang"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "ba se phahamisang"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "jwaloka e phahamisang"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "thipa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sehlare"
+    }
+  ],
+  "timestamp": "2026-10-03T08:36:52.034463317Z",
+  "model": "glm-5.3"
+}

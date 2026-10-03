@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme e bile ka hoseng e latelang, Bafilistea ba tla ho ntshapanya ⟨את⟩ ba bolailweng, mme ba fumana ⟨את⟩ Shauole le ⟨את⟩ barwa ba hae olletseng thabeng ea Gilboea.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ka hoseng e latelang"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilistea"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "ho ntshapanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba bolailweng"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ba bolailweng"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ba fumana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shauole"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "barwa ba hae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba hae"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "olletseng"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ea"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboea"
+    }
+  ],
+  "timestamp": "2026-10-03T12:14:45.911161712Z",
+  "model": "glm-5.3"
+}

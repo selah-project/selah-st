@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme morena wa Ashure a hlahisa ⟨את⟩ Yisraele ho Ashure, mme a ba beha khahleng le Haborong, nokeng ya Gozane, le dimmong tsa ba-Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Mme a hlahisa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ho Ashure"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "mme a ba beha"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "khahleng"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "le Haborong"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "nokeng ya"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozane"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "le dimmong"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "tsa ba-Madai"
+    }
+  ],
+  "timestamp": "2026-10-03T08:25:59.526138182Z",
+  "model": "glm-5.3"
+}

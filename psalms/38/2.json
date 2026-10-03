@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Yahwe, o se ke wa ntshwaya ka tshitiso ya hau, kapa wa ntlala ka tshepo ya hau.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "ka tshitiso ya hau"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "wa ntshwaya"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ka tshepo ya hau"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "wa ntlala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:13.717610161Z",
+  "model": "glm-5.3"
+}

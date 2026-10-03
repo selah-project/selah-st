@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Thamaisa o tle thusong ya ka, Adonai, tlholo-ya-ka.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Thamaisa o tle"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "thusong ya ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "tlholo-ya-ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:57.794119822Z",
+  "model": "glm-5.3"
+}

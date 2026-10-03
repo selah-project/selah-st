@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "Mme o ile a phahamisa lesiba la ka joaloka la tshukudu, ke ntse ke tlotswe ka mafura a maocha.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "mme o ile a phahamisa"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "joaloka la tshukudu"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "lesiba la ka"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ke ntse ke tlotswe"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "a maocha"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:39.866335566Z",
+  "model": "glm-5.3"
+}

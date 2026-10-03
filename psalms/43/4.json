@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Mme ke tla kena holeka alletara ya Elohim, ho El wa thabo ya takatso ya ka; ke tla o leboha ka kenora, Elohim, Elohim wa ka.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Mme ke tla kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "holeka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alletara ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El wa"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "thabo ya"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "takatso ya ka"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ke tla o leboha"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kenora"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:58.856810389Z",
+  "model": "glm-5.3"
+}

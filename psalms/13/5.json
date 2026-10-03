@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "E se ke ya re sera sa ka: Nka mo hlōla; ba ntsitsang ba tlekefale ha ke a dumellwa.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "e se ke ya"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "re"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "sera sa ka"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "nka mo hlōla"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ba ntsitsang"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ba tlekefale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ke a dumellwa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:15.174047128Z",
+  "model": "glm-5.3"
+}

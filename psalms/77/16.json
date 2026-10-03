@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "O lokollotse ka letsogo la hau setjhaba sa hau, bana ba Yaakobo le Yosefa. Selaha.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "o lokollotse"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ka letsogo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setjhaba sa hau"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "le Yosefa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:18.915905713Z",
+  "model": "glm-5.3"
+}

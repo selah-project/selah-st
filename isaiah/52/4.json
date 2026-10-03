@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Hobane ho bolela Adonai Yahwe: Sebele setjhaba sa ka se ile se ea Mitsrayime ho tloha qalong, ho ba bafumanehi ba naha; mme Ashure hamorao hampe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Adonai Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "se ile se ea"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setjhaba sa ka"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ho tloha qalong"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ho ba bafumanehi ba naha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "mme Ashure"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "hamorao"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "hampe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:54:03.198531979Z",
+  "model": "glm-5.3"
+}

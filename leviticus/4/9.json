@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Le ⟨את⟩ diphio tse pedi, le ⟨את⟩ mafura a ho feta ka holima tsona, a ⟨the⟩ holima dithamaha, le ⟨את⟩ karolo e okametseng sehlooho se nang le pelo, holima diphio, o tla e tlosa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diphio tse pedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "diphio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a ⟨the⟩"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "holima tsona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "dithamaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "karolo e okametseng"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "karolo e okametseng sehlooho se nang le pelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "diphio"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "o tla e tlosa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:53.392823232Z",
+  "model": "glm-5.3"
+}

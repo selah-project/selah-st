@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Yahwe o dula hohle; o thehile setulo sa hae sa kahlolo.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hohle"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o dula"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "o thehile"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "sa kahlolo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "setulo sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:38.196620507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme ena ke e tla ba kahlolo ya baprista ho tswa ⟨mo⟩ sechabeng, ho tswa ⟨mo⟩ ba fang sehlabelo — kolobe kapa nku: ba tla fana moprista letswai le matswibi le mala.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "mme ena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ke e tla ba"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ya baprista"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ho tswa",
+      "marks": "sechaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ho tswa",
+      "marks": "ba fang sehlabelo"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ba fang"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e le"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kolobe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "nku"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ba tla fana"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "letswai"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "le matswibi"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "le mala"
+    }
+  ],
+  "timestamp": "2026-10-03T06:56:25.518959505Z",
+  "model": "glm-5.3"
+}

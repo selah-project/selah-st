@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Na ka dintoa tsena ke sa ke ke ka ba etela? ho bolela Yahwe; kapa ka sechaba se tshwanang le sena, na bophelo ba ka bo sa ipusolle?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Na ka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dintoa tsena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ke sa ke ke"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ka ba etela"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ka sechaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se tshwanang le"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bo sa"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "ipusolle"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T09:06:19.967332699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ba phunya ⟨את⟩ leqola la Baale, mme ba phunya ⟨את⟩ ntlo ya Baale, mme ba e etsa malotana ho fihlela lehono.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "ba phunya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leqola la Baale"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "leqola"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "la Baale"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ba phunya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Baale"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baale"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ba e etsa"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "malotana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    }
+  ],
+  "timestamp": "2026-10-03T08:20:30.296500791Z",
+  "model": "glm-5.3"
+}

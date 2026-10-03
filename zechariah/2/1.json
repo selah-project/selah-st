@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ke ile ka tlamosa ⟨את⟩ mahlo a ka, ka bona, mme bonang, dinaka tse nne.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ke ile ka tlamosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahlo a ka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ka bona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tse nne"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "dinaka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:17:37.953573587Z",
+  "model": "glm-5.3"
+}

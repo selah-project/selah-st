@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme motho ea tlamehileng o ikhohomosa, mme monna ea hloahle o ikhutlisa; mme u se ke wa ba fa mohau.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "o ikhohomosa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "o ikhutlisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "u se ke wa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "fa mohau"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:27.578227276Z",
+  "model": "glm-5.3"
+}

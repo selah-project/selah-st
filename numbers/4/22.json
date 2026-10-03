@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Hlahloba ⟨את⟩ hloho ya bana ba Gereshone, le bona, ho ya ka malapa a bo-ntate ba bona, ho ya ka malapa a bona:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Hlahloba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho ya bana ba Gereshone"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshone"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ho ya ka malapa a"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bo-ntate ba bona"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ho ya ka malapa a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:21:24.117906311Z",
+  "model": "glm-5.3"
+}

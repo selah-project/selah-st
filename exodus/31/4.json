@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "ho rala merero, ho etsa ka gauta, le ka silvera, le ka kopore:",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "ho rala"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "merero"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "le ka silvera"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "le ka kopore"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:34.184885206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme a isa ⟨את⟩ Yehoyakhine bolekgotlong ho Babele, le ⟨את⟩ mma wa morena, le ⟨את⟩ basadi ba morena, le ⟨את⟩ bahlankesi ba hae, le ⟨את⟩ ba matla ba lefatshe; ba ile ba isa bolekgotleng ho tloha Yerushalayime ho ya Babele.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "mme a isa bolekgotleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakhine"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakhine"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ho Babele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mma wa morena"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa morena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "basadi ba morena"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "basadi ba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bahlankesi ba hae"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "bahlankesi ba hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba matla ba lefatshe"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ba matla ba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "a isa"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "bolekgotlong"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ho tloha Yerushalayime"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ho ya Babele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:32:44.455945020Z",
+  "model": "glm-5.3"
+}

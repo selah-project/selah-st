@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Motho a se ke a nka ⟨את⟩ mosali wa ntatae, mme a se ke a senola setsi sa ntatae.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosali"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "wa ntatae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a se ke"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "a senola"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "setsi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa ntatae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:50.614571621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme Labane a fihlahlela ⟨את⟩ Yaakobo; mme Yaakobo a beha ⟨את⟩ hae keaong thabeng, mme Labane a beha ⟨את⟩ boikgaitsedi ba hae thabeng ya Gileade.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "a fihlahlela"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "mme Yaakobo"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keaong hae"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "keao ya hae"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "mme Labane"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boikgaitsedi ba hae"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "boikgaitsedi ba hae"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileade"
+    }
+  ],
+  "timestamp": "2026-10-03T05:32:48.402261476Z",
+  "model": "glm-5.3"
+}

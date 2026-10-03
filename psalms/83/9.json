@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Ashure le yena o kopantswe le bona; ba bile letsogo ⟨la⟩ matla ho bana ba Lothe. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le yena"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "o kopantswe"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba bile"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "letsogo la matla"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lothe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:37.147997047Z",
+  "model": "glm-5.3"
+}

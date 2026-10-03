@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Molomo wa ka o tla bolela tsedeko ya hao, le pholohelo ya hao letsatsi lohle; hobane ha ke tseba ⟨palo⟩ tsa yona.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "molomo wa ka"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "o tla bolela"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeko ya hao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "pholohelo ya hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke tseba"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "⟨palo⟩ tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:11.689137745Z",
+  "model": "glm-5.3"
+}

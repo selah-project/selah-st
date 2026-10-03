@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "O thakgisitsoe ⟨wena⟩ ha o kenela, mme o thakgisitsoe ⟨wena⟩ ha o tsoa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "o thakgisitsoe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨wena⟩"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ha o kenela"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "mme o thakgisitsoe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨wena⟩"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ha o tsoa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:59:13.885574053Z",
+  "model": "glm-5.3"
+}

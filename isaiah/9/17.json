@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 9:17",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Hobane boshi bo tukile joalo ka molelo: bo ja mohlakelana le ditlhaku-tlhaku, bo tukisitse dikaneng tsa sehlaha, mme bo hlahela hodimo joalo ka boikhantsbo ba mosu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "bo tukile"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "joalo ka molelo"
+    },
+    {
+      "surface": "רשעה",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "mohlakelana"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "le ditlhaku-tlhaku"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bo ja"
+    },
+    {
+      "surface": "ותצת",
+      "gloss": "bo tukisitse"
+    },
+    {
+      "surface": "בסבכי",
+      "gloss": "dikaneng"
+    },
+    {
+      "surface": "היער",
+      "gloss": "tsa sehlaha"
+    },
+    {
+      "surface": "ויתאבכו",
+      "gloss": "bo hlahela hodimo"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "boikhantsbo"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ba mosu"
+    }
+  ],
+  "timestamp": "2026-10-03T08:35:43.614415495Z",
+  "model": "glm-5.3"
+}

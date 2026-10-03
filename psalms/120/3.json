@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 120,
+  "translation": "O tla fuoa eng, le ho eketsoa eng, leleme la boqheketsi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o tla fuoa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "le eng"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ho eketsoa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "leleme"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "la boqheketsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:42.288213904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Ka hobane Abrahame o ile a mamela lentswe la ka, a boloka tlhokomelo ya ka, melao ya ka, ditaelo tsa ka, le Toraya ya ka.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ka hobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a mamela"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "lentswe la ka"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "a boloka"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "tlhokomelo ya ka"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "melao ya ka"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "ditaelo tsa ka"
+    },
+    {
+      "surface": "וירתי",
+      "gloss": "le Toraya ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:30:07.961739162Z",
+  "model": "glm-5.3"
+}

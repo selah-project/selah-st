@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Ke ile ka thibeloa, ke ntshe ke nne le tshawo; ke ile ka thibela sefahleho, esita le se se molemo; mme bohloko ba ka bo ile boa tsosa.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ke ile ka thibeloa"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ka tshawo"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ke ile ka thibela sefahleho"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "esita le se se molemo"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "mme bohloko ba ka"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "bo ile boa tsosa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:36.020601495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ke Yahwe Elohim ya lona, ya ntshitseeng lona ho tloha lehatong la Mitsrayime, hore ke fhe lona ⟨את⟩ lefatshe la Kenane, hore ke be Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ya ntshitseeng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lehatong"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hore ke fhe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Kenane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenane"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "hore ke be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya lona"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:14.081161854Z",
+  "model": "glm-5.3"
+}

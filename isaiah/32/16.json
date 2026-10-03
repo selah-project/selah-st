@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme kahlolo e tla dula sehlaheng, mme tsedeke e tla dula karmeleng.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "mme e tla dula"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sehlaheng"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mme tsedeke"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "karmeleng"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "e tla dula"
+    }
+  ],
+  "timestamp": "2026-10-03T08:43:26.687786542Z",
+  "model": "glm-5.3"
+}

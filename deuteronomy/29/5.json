@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Lebone ha le je, mme beine le sekhara ha le nwa, hore le tle le tsebe hore ke ena Yahwe, Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "lebone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "le je"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "mme beine"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "le sekhara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "le nwa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore le tle"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "le tsebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke ena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:00:07.621715231Z",
+  "model": "glm-5.3"
+}

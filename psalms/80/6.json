@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "O ba fe boreloa ba lilemo, mme o ba nepese ka lilemo tse tharo.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "O ba fe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "boreloa"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ba lilemo"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "mme o ba nepese"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "ka lilemo"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "tse tharo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:26.405523662Z",
+  "model": "glm-5.3"
+}

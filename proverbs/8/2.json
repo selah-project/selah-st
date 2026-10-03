@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Hodima mabodikelo, hodima tsela, hara ditsela, bo eme.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "mabodikelo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hara"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "bo eme"
+    }
+  ],
+  "timestamp": "2026-10-03T11:07:51.612698883Z",
+  "model": "glm-5.3"
+}

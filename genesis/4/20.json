@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Adha a beleta ⟨את⟩ Yavale; yena o ile a ba ntate-ya bahlaleng matentong le ya fufutsang dikgomo.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Mme a beleta"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yavale"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yavale"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o ile a ba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntate-ya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bahlaleng"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "matentong"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "le ya fufutsang dikgomo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:13.122469459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "O ile a mo etsa monga wa ntlo ya hae, mme molaodi wa tsohle tsa hae.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "a mo etsa"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "monga"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "wa ntlo ya hae"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "mme molaodi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wa tsohle"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:22.268138766Z",
+  "model": "glm-5.3"
+}

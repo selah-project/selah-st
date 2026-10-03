@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme ka ba joalo ka motho ya sa utlweng, mme ha ho ⟨⟨arola⟩⟩ molomo wa hae.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ka ba"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "joalo ka motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "utlweng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "molomo wa hae"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "⟨arola⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:11.832717351Z",
+  "model": "glm-5.3"
+}

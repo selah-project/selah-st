@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Hobane joke jwa bojara ba hae, le motana wa sehloho sa hae — motana wa ya mo ottang — O li phamotseng jwalo ka letsatsi la Midiyane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joke"
+    },
+    {
+      "surface": "על",
+      "gloss": "joke"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "bojara ba hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "motana"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "motana wa"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "sehloho sa hae"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "motana wa"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "ya mo ottang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hoo"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "O li phamotseng"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jwalo ka letsatsi la"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyane"
+    }
+  ],
+  "timestamp": "2026-10-03T08:35:16.156326353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "A ba tsebahatse ho Yahwe hesede ya hae, le diphodiso tsa hae ho bana ba batho.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "a ba tsebahatse"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "le diphodiso tsa hae"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:52.737658942Z",
+  "model": "glm-5.3"
+}

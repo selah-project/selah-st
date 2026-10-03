@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Aharone le bana ba hae ba tla ha setsi se tsamaya, mme ba theole ⟨את⟩ perekete ya foresha, mme ba e nwale ka yona, ba ka sebaka ⟨את⟩ Arenga ya bopaki.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "mme ba tla"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba hae"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "ha se tsamaya"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "setsi"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "mme ba theole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perekete"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "perekete"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ya foresha"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "mme ba e nwale ka yona"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arenga"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Arenga"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya bopaki"
+    }
+  ],
+  "timestamp": "2026-10-03T06:20:46.893250504Z",
+  "model": "glm-5.3"
+}

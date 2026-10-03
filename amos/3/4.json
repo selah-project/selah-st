@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Na tau e ka hula sehlaheng, ha e na phapo? Na motana wa tau o ka fana ka lentswe la hae bolulong ba hae, ntle le hore o tseere sengwe?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Na e ka hula"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "sehlaheng"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "phapo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha e na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e (eena)"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "o ka fana ka"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "motana wa tau"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "lentswe la hae"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "bolulong ba hae"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ntle le hore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "o tseere"
+    }
+  ],
+  "timestamp": "2026-10-03T10:05:36.266672690Z",
+  "model": "glm-5.3"
+}

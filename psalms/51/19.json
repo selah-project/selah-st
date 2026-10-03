@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Sehlabelo sa Elohim ke ruakh e robileng; pelo e robileng le e khutlisitsweng, Elohim, ha o e nyallele.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "e robileng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "e robileng"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "le e khutlisitsweng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "o e nyallele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:04.990368113Z",
+  "model": "glm-5.3"
+}

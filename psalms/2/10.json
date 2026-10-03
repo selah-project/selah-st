@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme jwale, dikgosi, tsebiseng bohlale; amohelang thuto, lona baahlodi ba lefatshe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jwale"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgosi"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "tsebiseng bohlale"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "amohelang thuto"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "baahlodi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:31.841016586Z",
+  "model": "glm-5.3"
+}

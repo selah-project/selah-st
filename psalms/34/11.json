@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ditaung tsa batjha di hloka mme di lala tlala; empa batlaeki ba Yahwe ha ba hloke sebotle se seng le se seng.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "ditaung tsa batjha"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "di hloka"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "mme di lala tlala"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "empa batlaeki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ba Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "ba hloke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se seng le se seng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sebotle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:02.944539083Z",
+  "model": "glm-5.3"
+}

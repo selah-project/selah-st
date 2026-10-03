@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 28:20",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Hobane borotho bo mokhutshwane haholo hore motho a ka itokatla ho sona, mme sephuthelo se skinnyane haholo hore a ka ikutla ho sona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "bo mokhutshwane haholo"
+    },
+    {
+      "surface": "המצע",
+      "gloss": "borotho"
+    },
+    {
+      "surface": "מהשתרע",
+      "gloss": "hore motho a ka itokatla"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "mme sephuthelo"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "se skinnyane haholo"
+    },
+    {
+      "surface": "כהתכנס",
+      "gloss": "hore a ka ikutla"
+    }
+  ],
+  "timestamp": "2026-10-03T08:42:50.221757925Z",
+  "model": "glm-5.3"
+}

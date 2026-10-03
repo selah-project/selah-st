@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ha jwalo balwelwa ba babeli; ba jwaloka bohlahlami bao ruakh e bo tshwarang hore bo fofe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha jwalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "balwelwa ba babeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "bohlahlami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ruakh e bo tshwarang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:37.924931234Z",
+  "model": "glm-5.3"
+}

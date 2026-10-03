@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme ba tla etsa ⟨את⟩ araone ya mabota a sethala — bophara ba yona bo le di-ama tse pedi le seripa, bophahamo ba yona e le ama le seripa, le bolele ba yona bo le ama le seripa.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Mme ba tla etsa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "araone"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya mabota"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "a sethala"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "di-ama tse pedi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le seripa"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bophara ba yona"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e le ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le seripa"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophahamo ba yona"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bo le ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le seripa"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "bolele ba yona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:45.958406943Z",
+  "model": "glm-5.3"
+}

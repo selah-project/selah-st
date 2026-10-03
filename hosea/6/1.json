@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Tlang, a re boeleng ho Yahwe, hobane o ile a roba, mme o tla a folisa; o ile a otla, mme o tla a kopanya rona.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tlang"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "a re boeleng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o (ena)"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "o ile a roba"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "mme o tla a folisa"
+    },
+    {
+      "surface": "יך",
+      "gloss": "o ile a otla"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "mme o tla a kopanya rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:11.732462844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme haeba motho a ka etsa phoso, mme a etsa e 'ngoe ea litaelo tsohle tsa Yahwe tse sa lokelang ho etsoa, a sa tsebe, 'me o ile a sieo, 'me o tla jara sebe sa hae.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme haeba"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "a ka etsa phoso"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e 'ngoe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ea tsohle"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "litaelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "lokelang ho etsoa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "o ile a sieo"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "o tla jara"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sebe sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:05:47.845176409Z",
+  "model": "glm-5.3"
+}

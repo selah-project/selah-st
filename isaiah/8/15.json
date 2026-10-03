@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme ba tla theohlela ho tsona ba bangata, mme ba tla wa, mme ba tla thunthontsoa, mme ba tla tsekoa, mme ba tla tshwarwa.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "mme ba tla theohlela"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bangata"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "mme ba tla wa"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "mme ba tla thunthontsoa"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "mme ba tla tsekoa"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "mme ba tla tshwarwa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:33:31.893356574Z",
+  "model": "glm-5.3"
+}

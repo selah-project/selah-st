@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme a re: Nkileng setshelo se setjha, mme le bee letswai ho sona. Mme ba se nkela ho yena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "nkileng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nkileng... (ho nna)"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "setshelo"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "se setjha"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "mme le bee"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ho sona"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "letswai"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ba nka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:17:25.647301576Z",
+  "model": "glm-5.3"
+}

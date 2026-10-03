@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Tseleng ya tumelo ke e khethile, dikahlolo tsa hau ke di beile pela ka.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "tumelo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ke e khethile"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikahlolo tsa hau"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ke di beile pela ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:01.957468162Z",
+  "model": "glm-5.3"
+}

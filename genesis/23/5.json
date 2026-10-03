@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme bana ba Chete ba araba ⟨את⟩ Abrahame, ba re ho eena:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ba araba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho eena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:28:18.778744109Z",
+  "model": "glm-5.3"
+}

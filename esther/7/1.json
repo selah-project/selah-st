@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme morena le Hamane ba ile ba tla ho noa le Estere mofumahadi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ba ile ba tla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "le Hamane"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ho noa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mofumahadi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:48:31.952935856Z",
+  "model": "glm-5.3"
+}

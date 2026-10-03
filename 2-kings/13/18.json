@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme a re: Tsea dimosele. Mme a di tsea. Mme a re ho morena wa Yisraele: Hlaba moo lefatshe. Mme a hlaba ka makgetlo a mararo, mme a ema.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tsea"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "dimosele"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mme a di tsea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho morena wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הך",
+      "gloss": "hlaba"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "moo lefatshe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mme a hlaba"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ka mararo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "makgetlo"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "mme a ema"
+    }
+  ],
+  "timestamp": "2026-10-03T08:24:06.937607783Z",
+  "model": "glm-5.3"
+}

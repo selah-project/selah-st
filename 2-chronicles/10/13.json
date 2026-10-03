@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme morena a ba araba ka bokgapha, mme morena Rehoboame a tlohela ⟨את⟩ khotso ya batho ba baholo.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "a ba araba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ka bokgapha"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "a tlohela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehoboame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khotso"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ya batho ba baholo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:26:47.908083369Z",
+  "model": "glm-5.3"
+}

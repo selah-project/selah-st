@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Bonyadi ba ntatao le bonyadi ba mmao o se ke wa bo senola; mmao ke eena; o se ke wa senola bonyadi ba hae.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "bonyadi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ba ntatao"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "le bonyadi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ba mmao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "wa bo senola"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mmao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke eena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "wa senola"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "bonyadi ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:17.507961950Z",
+  "model": "glm-5.3"
+}

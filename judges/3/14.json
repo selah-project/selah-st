@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme bana ba Yisraele ba ile ba hlankela ⟨את⟩ Eglone, morena wa Moabe, dilemo tse leshome le robedi.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ba hlankela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglone, morena wa Moabe"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "robedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "leshome le"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    }
+  ],
+  "timestamp": "2026-10-03T07:20:15.842554418Z",
+  "model": "glm-5.3"
+}

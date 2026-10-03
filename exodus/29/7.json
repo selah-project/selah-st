@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme o tla nka ⟨את⟩ mafura a lotso, o tle o athule hodima hloho ya hae, mme o mo lotse.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Mme o tla nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura a lotso"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a lotso"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "o tle o athule"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hloho ya hae"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mme o mo lotse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mo (Aharone)"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:55.234775052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme baprista le maporofeta le setjhaba sohle ba utlwa ⟨את⟩ Yirimeya a bua ⟨את⟩ mantswe a ntlong ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ba utlwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "le maporofeta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le sohle sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirimeya"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirimeya"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe a"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T09:14:58.913316279Z",
+  "model": "glm-5.3"
+}

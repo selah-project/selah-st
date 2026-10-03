@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme ke tla etsa ho wena ⟨את⟩ seo ke se sa etsang, le ⟨את⟩ seo ke ke ke wa etsa se tshwanang nao ka ho feta, ka baka la ditlhopho tsa hao tsohle tse nyahamisang.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Mme ke tla etsa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo (asher)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke se sa etsang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "seo (asher)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ke ke ke wa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "se tshwanang nao"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka ho feta"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "ditlhopho tsa hao tse nyahamisang"
+    }
+  ],
+  "timestamp": "2026-10-03T09:33:29.819117284Z",
+  "model": "glm-5.3"
+}

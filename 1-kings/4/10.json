@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mora Khesede, ba Arobote; hae e ne e le Sokhokhe le lefatshe lohle la Khefere.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mora"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Khesede"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "ba Arobote"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hae"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokhokhe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... lohle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Khefere"
+    }
+  ],
+  "timestamp": "2026-10-03T08:01:10.595168101Z",
+  "model": "glm-5.3"
+}

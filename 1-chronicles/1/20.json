@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Yoktane a begets ⟨את⟩ Almodade, le ⟨את⟩ Shelefefu, le ⟨את⟩ Khatsarimavete, le ⟨את⟩ Yerakhe.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Mme Yoktane"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a begets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodade"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodade"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Shelefefu"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefefu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Khatsarimavete"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Khatsarimavete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yerakhe"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerakhe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:40.431655065Z",
+  "model": "glm-5.3"
+}

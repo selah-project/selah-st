@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ⟨ba⟩ buseditse ⟨את⟩ Moshe le ⟨את⟩ Aharone ho Paro; mme a re ho bona: Tlang, sebetlang ⟨את⟩ Yahwe Elohim wa lona; empa ke bomang ba tsamayang?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "mme a buseditse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Tlang"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sebetlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wa lona"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke bomang"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "le bomang"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ba tsamayang"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:59.191155954Z",
+  "model": "glm-5.3"
+}

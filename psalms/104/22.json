@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Letsatsi le phunyeletsa, di bokella, mme ho diphutheing tsa tsona di ea di robala.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "le phunyeletsa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "di bokella"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ho"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "diphutheing tsa tsona"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "di ea di robala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:58.389405341Z",
+  "model": "glm-5.3"
+}

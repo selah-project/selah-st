@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Elohim a bita ⟨את⟩ monehare hore ke letsatsi, mme lefifing a bita hore ke bosiu; mme ho ile ha ba bofifala, mme ho ile ha ba bosiu, letsatsi la pele.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "monehare"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "le lefifi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a bita"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho ile ha ba"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "bofifala"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho ile ha ba"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "la pele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:45.795141606Z",
+  "model": "glm-5.3"
+}

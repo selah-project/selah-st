@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "A re ho yena: Haeba sefahleho sa hao se sa tsamaea, o se ke wa re hlahisetsa ho tloha mona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Haeba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "tsamaea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "wa re hlahisetsa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ho tloha mona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:00:19.018945319Z",
+  "model": "glm-5.3"
+}

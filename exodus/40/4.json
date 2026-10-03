@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme o ise ⟨את⟩ tafole, mme o hlokomelize ⟨את⟩ boemong ba yona; mme o ise ⟨את⟩ menora, mme o kenye ⟩neledi tsa yona ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "o ise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "o hlokomelize"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boemong ba yona"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "boemong ba yona"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "o ise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "o kenye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neledi tsa yona"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "neledi tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:19.228656566Z",
+  "model": "glm-5.3"
+}

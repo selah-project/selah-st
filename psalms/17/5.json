@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mekgatlo ya ka e ile ya tiisetsa mmeleleng wa hao; mme dikgutlo tsa ka ha di nametse ho theoha.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "e ile ya tiisetsa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mekgatlo ya ka"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "mmeleleng wa hao"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "di nametse ho theoha"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "dikgutlo tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:18.376050757Z",
+  "model": "glm-5.3"
+}

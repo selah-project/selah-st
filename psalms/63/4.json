@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 63,
+  "translation": "Hobane hesede hao hase botla ho feta bophelo; molomo oa ka o tla o duma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hase botla ho feta"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede hao"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomo oa ka"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "o tla o duma"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:09.489661358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Hobaneng o ikutlwa o tswele pele, moyaho feela o hesang, o sa feleng? Tshela tshepo ho Elohim, hobane le ka mosa ke tla mo tlotla; ⟨⟨ואת⟩⟩ sephiri sa sefahleho sa ka, le Elohim wa ka.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "o ikutlwa o tswele pele"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyaho feela"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "le hobaneng"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "o hesang o sa feleng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho ka"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "tshela tshepo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "le ka mosa"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ke tla mo tlotla"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "sephiri"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa sefahleho sa ka"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "le Elohim wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:41.008436068Z",
+  "model": "glm-5.3"
+}

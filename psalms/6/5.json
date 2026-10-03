@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Khutla, Yahwe, ntlohelle moea oa ka; nkholise ka baka la hesede oa hau.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Khutla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "ntlohelle"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moea oa ka"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "nkholise"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede oa hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:41.979072702Z",
+  "model": "glm-5.3"
+}

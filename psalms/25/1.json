@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ya Dawide. Ho ya ho wena, Yahwe, moya wa ka o a o phahamisa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Ho ya ho wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "o a o phahamisa"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:00.880327894Z",
+  "model": "glm-5.3"
+}

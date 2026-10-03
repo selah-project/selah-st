@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Hobaneng dinaha di ragesanela, mme ditjhaba di nahanela se se se nang letho?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "di ragesanela"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dinaha"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "mme ditjhaba"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "di nahanela"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "se se se nang letho"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:17.352372199Z",
+  "model": "glm-5.3"
+}

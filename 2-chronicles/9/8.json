@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 9:8",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Yahwe, Elohim oa hau, a hlohonolofatsoe, ya ileng a thabela ho u bea holim'a setulo sa hae sa borena, e le morena bakeng sa Yahwe, Elohim oa hau, ka ho rata ha Elohim oa hau ⟨את⟩ Yisraele hore a e tsitsetse ho fihlela kahosafeleng; mme o ile a u beha holim'a bona e le morena, ho etsa kahlolo le tsedeke.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "a be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim oa hau"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "a hlohonolofatsoe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a thabela"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "לתתך",
+      "gloss": "hore a u behe"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "setulo sa hae sa borena"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "e le morena"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bakeng sa Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim oa hau"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "ka ho rata ha"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim oa hau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "להעמידו",
+      "gloss": "hore a e tsitsetse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela kahosafeleng"
+    },
+    {
+      "surface": "ויתנך",
+      "gloss": "mme o ile a u beha"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "holim'a bona"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "e le morena"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "le tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-03T13:20:34.408419888Z",
+  "model": "glm-5.3"
+}

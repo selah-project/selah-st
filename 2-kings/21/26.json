@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ba mo hlapela ⟨את⟩ mabitleng a hae serapeng sa Uza; mme Yoashia mora wa hae a busa boemong ba hae.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Mme ba mo hlapela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Amon)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "mabitleng a hae"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "serapeng"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "sa Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mme a busa"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoashia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "boemong ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:28:04.208907446Z",
+  "model": "glm-5.3"
+}

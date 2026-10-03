@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme mehla ena ke mabitso a banna bao ba tlang ho ema ⟨את⟩ le lona: bakeng sa Reubene, Elitsure, mora wa Shedeure.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme mehla ena"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ke mabitso"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ba tlang ho ema"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona",
+      "marks": "le lona"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "bakeng sa Reubene"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsure"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeure"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:11.741276538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Lentswe la Yahwe le thuba merula; mme Yahwe o ile a thuba ⟨את⟩ merula ya Lebanone.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "le thuba"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "merula"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "mme o ile a thuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "merula ya Lebanone"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "merula ya"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanone"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:43.047880714Z",
+  "model": "glm-5.3"
+}

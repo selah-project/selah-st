@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Ho moetapele wa mmino. Psaleme ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho moetapele wa mmino"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Psaleme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:11.956064586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme ke tla ntša ⟨את⟩ lona ho tloha hara eona, mme ke tla le neha letsohong la bafalladi, mme ke tla etsa dikahlolo ho lona.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "mme ke tla ntša"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona (ho tloha hara eona)"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "ho tloha hara eona"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mme ke tla le neha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona (letsohong la bafalladi)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "letsohong la"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bafalladi"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "mme ke tla etsa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "dikahlolo"
+    }
+  ],
+  "timestamp": "2026-10-03T09:35:14.814598714Z",
+  "model": "glm-5.3"
+}

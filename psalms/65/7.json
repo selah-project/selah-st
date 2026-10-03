@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 65,
+  "translation": "O tiisa dithaba ka matla a hao, o ruileng ka matla a maholo.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "O tiisa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "ka matla a hao"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "o ruileng"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "ka matla a maholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:13.174503897Z",
+  "model": "glm-5.3"
+}

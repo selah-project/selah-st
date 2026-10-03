@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme a ba neha ⟨את⟩ ho ba mohau pelo ya batho bohle ba ba neng ba ba tshwere e le bakgotlehi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a ba neha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ho ba mohau"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "ho ba mohau"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pelo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "ba ba neng ba ba tshwere e le bakgotlehi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:56.259573445Z",
+  "model": "glm-5.3"
+}

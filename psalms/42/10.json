@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Ke tla re ho El lejoe la ka: Hobaneng o ntlohile? Hobaneng ke tsamaya ke apere boso, ka tlhaselo ya mohanyetsi?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ke tla re"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ho El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "lejoe la ka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "o ntlohile"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ke apere boso"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tsamaya"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ka tlhaselo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ya mohanyetsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:41.008134748Z",
+  "model": "glm-5.3"
+}

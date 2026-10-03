@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Makoti ⟨⟨ke⟩⟩ sechaba se tsebang terua, Yahwe; sekgahla sefahleho sa hao ba tsamaya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Makoti ⟨⟨ke⟩⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "se tsebang"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "terua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "sekgahla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ba tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:52.144613268Z",
+  "model": "glm-5.3"
+}

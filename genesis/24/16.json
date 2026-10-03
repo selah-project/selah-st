@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 24:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme mosetsana e ne e le ⟨e⟩ motle haholo ho sheba, keresete, mme monna a sa mo tsebe; mme a theohela secheng, mme a tjedisa kadara ya hae, mme a hodima.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "mme mosetsana"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "e motle"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ho sheba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "keresete"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme monna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "a mo tseba"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "mme a theohela"
+    },
+    {
+      "surface": "העינה",
+      "gloss": "secheng"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "mme a tjedisa"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "kadara ya hae"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "mme a hodima"
+    }
+  ],
+  "timestamp": "2026-10-03T12:42:00.888797791Z",
+  "model": "glm-5.3"
+}

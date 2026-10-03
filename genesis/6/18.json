@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme ke tla matlafatsa ⟨את⟩ selekane sa ka ⟨את⟩ uena; o tla kena ⟨⟨את⟩⟩ arekeng, uena le bana ba hau, mosali oa hau le basali ba bana ba hau ⟨את⟩ uena.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Mme ke tla matlafatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa ka"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ uena"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "o tla kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "areke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "le bana ba hau"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "mosali oa hau"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "le basali"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ba bana ba hau"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ uena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:26.181271445Z",
+  "model": "glm-5.3"
+}

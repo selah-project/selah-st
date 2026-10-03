@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme moprista wa Midyane o ne a le baradi ba supileng; mme ba tla, ba ikhutsa metsi, ba tlatsa ⟨את⟩ dikoloi tsa metsi ho fuhletsa dipoo tsa ntatae.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "moprista wa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyane"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ba supileng"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "baradi"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "ba ikhutsa metsi"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "ba tlatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikoloi tsa metsi"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "dikoloi tsa metsi"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ho fuhletsa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dipoo"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ntatae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:45.933320668Z",
+  "model": "glm-5.3"
+}

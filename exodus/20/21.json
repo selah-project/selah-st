@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Setjhaba sa ema hole, mme Moshe a atamela ho lefifi le letjhabo, moo Elohim a neng a le teng.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba sa"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "hole"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "mme Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "a atamela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "lefifi le letjhabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a neng a le teng"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:50.820390044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 63,
+  "translation": "Jwale ke tla a boela ke u rorisa bophelong ba ka; ka lebitso la hau ke tla a hodisa ⟨את⟩ matsoho a ka.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ke tla a u rorisa"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "bophelong ba ka"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ka lebitso la hau"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ke tla a hodisa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "matsoho a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:18.645969500Z",
+  "model": "glm-5.3"
+}

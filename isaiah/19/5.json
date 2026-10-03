@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme metsi a tla fokola ho tloha lewatleng, mme molapo o tla omella, o tla oma.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "a tla fokola"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "ho tloha lewatleng"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "mme molapo"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "o tla omella"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "o tla oma"
+    }
+  ],
+  "timestamp": "2026-10-03T08:38:24.527898801Z",
+  "model": "glm-5.3"
+}

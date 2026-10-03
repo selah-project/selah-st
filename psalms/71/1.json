@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Ho wena, Yahwe, ke tshepile; se ke wa ntloholla hore ke tlotse ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "hore ke tlotse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:36.517020670Z",
+  "model": "glm-5.3"
+}

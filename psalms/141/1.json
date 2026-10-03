@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 141,
+  "translation": "Psalme ya Dawide. Yahwe, ke ile ka bitsa ho wena; phalla o fihle ho 'na; theosa tsebe ya hao ho lentsoe la ka, ha ke bitsa ho wena.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ke ile ka bitsa ho wena"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "phalla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "theosa tsebe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentsoe la ka"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ha ke bitsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:46.589127795Z",
+  "model": "glm-5.3"
+}

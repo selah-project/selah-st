@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Pina, pesaleme, ya bana ba Korakhe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pesaleme"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:32.508907332Z",
+  "model": "glm-5.3"
+}

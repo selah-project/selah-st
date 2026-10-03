@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 57,
+  "translation": "Hobane hesede ya hao ke e kgolo ho fihlela mahodimo, mme nnete ya hao ho fihlela maru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ke e kgolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme ho fihlela"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nnete ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:33.556850343Z",
+  "model": "glm-5.3"
+}

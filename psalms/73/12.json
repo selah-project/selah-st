@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Bonang, baba ke bona, mme ba phomolang kahosafeleng ba atleha maruong.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "mme ba phomolang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahosafeleng"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "ba atleha"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "maruong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:49.786033506Z",
+  "model": "glm-5.3"
+}

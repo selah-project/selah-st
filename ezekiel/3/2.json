@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ke ne ke butse ⟨את⟩ molomo oa ka, mme o ile a mphehla ⟨את⟩ mongolo ona.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "ke ne ke butse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo oa ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo oa ka"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "o ile a mphehla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongolo ona"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "mongolo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:33:48.674563666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme a etsa ⟨את⟩ sebakapa sa tongore, le ⟨את⟩ motheo wa sona wa tongore, ka dikgerisi tsa basadi ba neng ba sebeletsa ⟨molomong⟩ wa khemisana ya kopano.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebakapa"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "sebakapa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sa tongore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "motheo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "wa tongore"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "ka dikgerisi"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "ba neng ba sebeletsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ba sebeletseng"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "⟨molomong⟩"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wa khemisana"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:01.602864983Z",
+  "model": "glm-5.3"
+}

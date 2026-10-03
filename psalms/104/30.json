@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "U romela ruakh ya hao, ba bopuoa; mme u ntjhafatsa sefahleho sa lefatshe.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "U romela"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruakh ya hao"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "ba bopuoa"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "mme u ntjhafatsa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:12.744487411Z",
+  "model": "glm-5.3"
+}

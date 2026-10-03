@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 47,
+  "translation": "Tlhahlo ea hao e tla hlahlama, le hloko ea hao e tla bonahala; ke tla nka kgwebo, mme ha ke na ho thabela motho.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "e tla hlahlama"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "Tlhahlo ea hao"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "e tla bonahala"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "hloko ea hao"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kgwebo"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ke tla nka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha ke na"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "ho thabela"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-03T08:52:15.992778496Z",
+  "model": "glm-5.3"
+}

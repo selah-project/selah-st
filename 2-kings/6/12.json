@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme e mong wa makgoboi a hae a re: Che, monga ka, morena; hobane Elishae, moporofeta ya leng Yisraele, o bolella morena wa Yisraele ⟨את⟩ mantswe ao u a bolelang ka phaposing ya boroko ya hao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e mong"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "wa makgoboi a hae"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "Che"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "monga ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishae"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya leng"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "o bolella"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "u a bolelang"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "ka phaposing"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ya bororo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:52.646932242Z",
+  "model": "glm-5.3"
+}

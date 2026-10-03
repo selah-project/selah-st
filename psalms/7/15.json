@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Bonang, o imetse bobe, mme a ima boikutlo bo botlhoko, mme a belege leshano.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "o imetse"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "mme a ima"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "boikutlo bo botlhoko"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "mme a belege"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leshano"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:25.402740123Z",
+  "model": "glm-5.3"
+}

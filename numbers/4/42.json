@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ba balweng ba malapa a bana ba Merari, ho ya ka malapa a bona, ho ya ka malapa a bo-ntata bona.",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Mme ba balweng"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ba malapa a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ho ya ka malapa a bona"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ho ya ka malapa a"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bo-ntata bona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:20:53.491993508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Bohlale bo huwa ka ntle, bo fana ka lentsoe la bo mebileng e moholo.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Bohlale"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "bo huwa"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "mebileng e moholo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bo fana ka"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "lentsoe la bo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:13.120454667Z",
+  "model": "glm-5.3"
+}

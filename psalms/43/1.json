@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Mphe kahlolo, Elohim, mme lumellane le kgetheng ya ka kgahlanong le sechaba se sa sesofang, mphe kgutliso ho monna wa tsamaiso ya maikutlo le wa tlolo.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Mphe kahlolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "mme lumellane le kgetheng ya ka"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "kgetheng ya ka"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kgahlanong le sechaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "sesofang"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ho monna"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wa tsamaiso ya maikutlo"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "le wa tlolo"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "mphe kgutliso"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:58.856082236Z",
+  "model": "glm-5.3"
+}

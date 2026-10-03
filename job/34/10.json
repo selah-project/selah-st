@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 34:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ka lebaka leo, banna ba tlhalo, kholofang ho lona: ho se be le El ho etsa bobe, le Shadai ho etsa tlolo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka lebaka leo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ba tlhalo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kholofang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "ho se be"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "le El"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "ho etsa bobe"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "le Shadai"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ho etsa tlolo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:30:49.364042077Z",
+  "model": "glm-5.3"
+}

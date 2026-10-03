@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme Yahwe a re ho Moshe: Lentswe lena leo o le boletseng, le ⟨את⟩ le tla ke ke ea etsa; hobane o fumanne hesede mahlonong a ka, mme ke a tseba hle ka lebitso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe lena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentswe lena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "o boletse"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tla etsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "o fumanne"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlonong a ka"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "mme ke a tseba hle wena"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka lebitso"
+    }
+  ],
+  "timestamp": "2026-10-03T06:00:05.654949464Z",
+  "model": "glm-5.3"
+}

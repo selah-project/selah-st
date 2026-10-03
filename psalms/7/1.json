@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Shigayone ya Dawide, a e bula ho Yahwe, mabapi le mantswe a Kushe, mora wa Benyamine.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigayone"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a e bula"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ho bula"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mabapi le"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe a"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benyamine"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:02.998486376Z",
+  "model": "glm-5.3"
+}

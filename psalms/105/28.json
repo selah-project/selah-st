@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "O romile lefifi, mme la thiba lesedi; mme ba ne ba sa tsua ho ⟨את⟩ lentsoe la hae.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "O romile"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "mme la thiba lesedi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ne ba sa"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "tsua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentsoe la hae"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "lentsoe la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:08.510583508Z",
+  "model": "glm-5.3"
+}

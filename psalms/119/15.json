@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ka melao ya hao ke tla nahana, mme ke tla ela hloko mehla ya hao.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "ka melao ya hao"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ke tla nahana"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "mme ke tla ela hloko"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "mehla ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:47.475088181Z",
+  "model": "glm-5.3"
+}

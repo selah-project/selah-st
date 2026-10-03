@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme moprista o tla laela, mme ⟨⟨a bolaile⟩⟩ ⟨את⟩ nonyana e nngwe, ho setsi sa letsopa, hodima metsi e phelang.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "o tla laela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mme a bolaile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonyana e nngwe"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "nonyana"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "setsi"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sa letsopa"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "e phelang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:11:01.807111291Z",
+  "model": "glm-5.3"
+}

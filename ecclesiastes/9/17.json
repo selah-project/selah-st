@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mantswe a bahlalefi a mamelwa ka khotso, ho feta sehu sa molawudi hara baswui.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mantswe a"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bahlalefi"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "ka khotso"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "a mamelwa"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "ho feta sehu sa"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "molawudi"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "hara baswui"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:08.145600016Z",
+  "model": "glm-5.3"
+}

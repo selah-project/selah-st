@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Joang ba 'nileng ba fetoha se-senyeho, ka mosa! Ba felisitsoe, ba phethiloe, ka tsubo.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "joang"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba 'nileng ba fetoha"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "se-senyeho"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "ka mosa"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "ba felisitsoe"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ba phethiloe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "tsubo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:51.135532977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Tsebo ⟨ea⟩ makatsang ho feta 'na; e phahamisoa, ha ke e kgone.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "makatsang"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho feta 'na"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "e phahamisoa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ke e kgone"
+    },
+    {
+      "surface": "לה",
+      "gloss": "eona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:21.734085158Z",
+  "model": "glm-5.3"
+}

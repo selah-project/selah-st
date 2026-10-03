@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ho moetapele wa korope. Ya Dawide. Ho Yahwe ke tshepile; le re joang ho moea wa ka: Lekala, joaloka nonyane, o ye thabeng ya lona?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho moetapele wa korope"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "איך",
+      "gloss": "joang"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "le re"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ho moea wa ka"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "lekala"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "thabeng ya lona"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "joaloka nonyane"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:50.913151301Z",
+  "model": "glm-5.3"
+}

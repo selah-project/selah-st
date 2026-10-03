@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 79,
+  "translation": "Mme o kgutlisetse baahisane ba rona ka supilweng ho seeng sa tsona tlheho ya tsona, eo ba neng ba e tlehile oena, Adonai.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Mme o kgutlisetse"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "baahisane ba rona"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ka supilweng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "seeng sa tsona"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "tlheho ya tsona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "ba neng ba e tlehile oena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:32.242629183Z",
+  "model": "glm-5.3"
+}

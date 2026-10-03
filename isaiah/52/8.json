@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Lentswe la bahlalefi ba hao! ba phahamisa lentswe, ba opela mmoho; hobane mahlo le mahlo ba tla bona, Yahwe a boa ho Tsione.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "la bahlalefi ba hao"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ba phahamisa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmoho"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ba opela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "le mahlo"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba tla bona"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "a boa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ho Tsione"
+    }
+  ],
+  "timestamp": "2026-10-03T08:55:06.544238494Z",
+  "model": "glm-5.3"
+}

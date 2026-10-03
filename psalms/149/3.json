@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 149,
+  "translation": "Ba behe lebitso la hae ka ho bina; ka sepela le kinora ba opelle molemo ho yena.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Ba behe tlhompho"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ka ho bina"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ka sepela"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "le kinora"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ba opelle molemo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:56.455845760Z",
+  "model": "glm-5.3"
+}

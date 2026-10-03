@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "O tshwere ⟨⟩ mesiso ya mahlo a ka; ke ile ka tsubuhela, mme ha ke khone ho bua.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "o tshwere"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "mesiso"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ya mahlo a ka"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "ke ile ka tsubuhela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ho khone ho bua"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:59.999912790Z",
+  "model": "glm-5.3"
+}

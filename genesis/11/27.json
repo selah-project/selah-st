@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme ke tsena ditso tsa Terakhe: Terakhe a tswalisa ⟨את⟩ Abrahame, ⟨את⟩ Nakhore, le ⟨את⟩ Harane; mme Harane a tswalisa ⟨את⟩ Lote.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme ke tsena"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ditso"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakhe"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakhe"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a tswalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhore"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Harane"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harane"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "mme Harane"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a tswalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lote"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:27.622198575Z",
+  "model": "glm-5.3"
+}

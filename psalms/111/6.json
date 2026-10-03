@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 111,
+  "translation": "O phaellitse ⟨את⟩ matla a mesebetsi ya hae ho sechaba sa hae, ka ho fa ba lefa la dinaha.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "matla"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "a mesebetsi ya hae"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "o phaellitse"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ho sechaba sa hae"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ka ho fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "lefa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "la dinaha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:34.353992286Z",
+  "model": "glm-5.3"
+}

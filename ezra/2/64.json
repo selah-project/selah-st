@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Kopano eoohle hammoho e ne e le bedi dimilione dikete tse pedi, dikete tse tharo le tse mashome a tsatsi — bedi dimilione dikete tse pedi, dikete tse tharo le mashome a tsatsi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "eoohle"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "Kopano"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "hammoho"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "bedi"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "dimilione"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete tse pedi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tse tharo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "mashome a tsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:58:28.941453765Z",
+  "model": "glm-5.3"
+}

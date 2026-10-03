@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ke tla lebela Yahwe ka tsedeke ya hae, mme ke tla bina lebitso la Yahwe, ya Phahameng Haholo.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ke tla lebela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "ka tsedeke ya hae"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "mme ke tla bina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ya Phahameng Haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:21:47.355935964Z",
+  "model": "glm-5.3"
+}

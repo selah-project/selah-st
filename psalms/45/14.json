@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Bohahlauli boohle bo ho moradi wa morena ka hare ⟨tempong⟩; diaparo tsa hae ke tsa dipaterne tsa gauta entsoeng ka hare.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "boohle"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "bohahlauli"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi wa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "ka hare"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "dipaterne entsoeng ka hare"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "diaparo tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:31.478364758Z",
+  "model": "glm-5.3"
+}

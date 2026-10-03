@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ba tataisang setjhaba sena ba a khelohatsa; mme ba tataiswang ke bona ba a jelwa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "mme ba ile ba ba"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "ba tataisang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "ba khelohatsa"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "le ba tataiswang ke bona"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "ba a jelwa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:36:33.414797670Z",
+  "model": "glm-5.3"
+}

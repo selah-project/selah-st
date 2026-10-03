@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Empa nna, maoto a ka a ne a ka tlaiha hanyane; mekhahlelo ea ka a ne a ka qhibiloa joalo ka ha ho se letho.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Empa nna"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "hanyane"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "a ka tlaiha"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "joalo ka ha ho se letho"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "a ka qhibiloa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mekhahlelo ea ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:24.854431653Z",
+  "model": "glm-5.3"
+}

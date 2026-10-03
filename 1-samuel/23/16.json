@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme Yonathane, mora wa Saulo, a tlhoa, mme a ya ho Dawide Horeshe, mme a tiisa ⟨את⟩ letsoho la hae ho Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mme a tlhoa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mme a ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "Horeshe"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "mme a tiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la hae"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ho Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T07:41:44.308109478Z",
+  "model": "glm-5.3"
+}

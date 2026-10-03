@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Batlang Yahwe moo a fumanwang; mo-bitleng ha a ntse a khotsofatse.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Batlang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "moo a fumanwang"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "mo-bitleng"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ha a ntse a"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "khotsofatse"
+    }
+  ],
+  "timestamp": "2026-10-03T08:54:18.262213871Z",
+  "model": "glm-5.3"
+}

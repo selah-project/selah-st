@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Hobane ho na le mantsoe a mangata a eketsang hebele; ebe ke eng se eketsang molemo ho motho?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ho na le"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mantsoe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "a mangata"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "a eketsang"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebele"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "se eketsang molemo"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ho motho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:49.294721418Z",
+  "model": "glm-5.3"
+}

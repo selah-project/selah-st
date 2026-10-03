@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Hobane ka letsatsi lena o tla rarolla holim'a lona hore a hlotse lona ⟨את⟩, ho tswa dibe tsa lona tsohle; pele ho Yahwe le tla hlota.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "o tla rarolla"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "holim'a lona"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "hore a hlotse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tswa tsohle"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dibe tsa lona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "le tla hlota"
+    }
+  ],
+  "timestamp": "2026-10-03T06:13:59.756672215Z",
+  "model": "glm-5.3"
+}

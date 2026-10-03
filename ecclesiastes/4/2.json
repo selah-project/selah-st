@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ke tlotla ⟨את⟩ bafu, ba sa hlile ba shoile, ho feta baphelang, bao bona ba phelang ho fihlela jwale.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "mme ke tlotla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bafu"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "bafu"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "ba sa hlile"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ba shoile"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "baphelang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ba phelang"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ho fihlela jwale"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:57.574691851Z",
+  "model": "glm-5.3"
+}

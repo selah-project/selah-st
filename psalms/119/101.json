@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ke thibetse maoto a ka ho tloha tsela eohle ya bobeng, hore ke boloke lentsoe la hao.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ho tloha … eohle"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ya bobeng"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "ke thibetse"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ke boloke"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lentsoe la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:18.094656297Z",
+  "model": "glm-5.3"
+}

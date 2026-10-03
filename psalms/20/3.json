@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "A romelle thuso ya hau ho tloha sedibeng se halalelang, mme ho tloha Tsiyone a go tshehetse.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "A romelle"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "thuso ya hau"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ho tloha sedibeng se halalelang"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "mme ho tloha Tsiyone"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "a go tshehetse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:11.956487579Z",
+  "model": "glm-5.3"
+}

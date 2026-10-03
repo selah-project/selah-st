@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Ke bile joalo ka sesupo ho ba bangata, empa wena ke tshepolelo ya ka, matla.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "joalo ka sesupo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke bile"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "ho ba bangata"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "empa wena"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "tshepolelo ya ka"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:38.483877099Z",
+  "model": "glm-5.3"
+}

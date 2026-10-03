@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "O ile a etsa ⟨את⟩ lefifi e le bopelelo ba hae, tente ya hae ka ho dikologa hae: lefifi la metsi, maru a boima a mahodimo.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "O ile a etsa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "bopelelo ba hae"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "ka ho dikologa hae"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "tente ya hae"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "lefifi la"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "maru a boima"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "a mahodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:48.821203986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Hore ba tsebise bana ba batho matla a hae a a hlollang, le kgalalelo ya botle bo makatsang borena ba hae.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Hore ba tsebise"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "matla a hae a a hlollang"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "le kgalalelo"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ya botle bo makatsang"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "borena ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:18.766557132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Tsehla Aharone le ⟨את⟩ bana ba hae le ena, le ⟨את⟩ diaparo, le ⟨את⟩ mafura a ho lotsoa, le ⟨את⟩ poo ea e neng e ka hlahisa sebe, le ⟨את⟩ dipuli tse pedi, le ⟨את⟩ khale ea matswa.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tsehla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba hae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diaparo"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a ho lotsoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "poo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "poo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ea e neng e ka hlahisa sebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipuli tse pedi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "dipuli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "khale"
+    },
+    {
+      "surface": "סל",
+      "gloss": "khale"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ea matswa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:22.829851565Z",
+  "model": "glm-5.3"
+}

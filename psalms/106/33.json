@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Hobane ba mokotikotisa ⟨את⟩ ruakh ya hae, mme a bolela ka melomo ya hae ka tsela e sa nahannang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ba mokotikotisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya hae"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh ya hae"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "mme a bolela ka tsela e sa nahannang"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ka melomo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:05.132310382Z",
+  "model": "glm-5.3"
+}

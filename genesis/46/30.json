@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Mme Yisraele a re ho Yosefe: Nka shoa ⟨⟩ jwale nakong ena, kamora ho bona ⟨את⟩ sefahleho sa hao, hobane o ntse o phela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "nka shoa"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "nakong ena"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kamora"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa hao"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "o ntse o"
+    },
+    {
+      "surface": "חי",
+      "gloss": "phela"
+    }
+  ],
+  "timestamp": "2026-10-03T05:40:45.864117794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 64,
+  "translation": "Hore ba thune ka bosele ho ⟨את⟩ ya lokileng; ka tlasa-pono ba mo thuna, mme ba se ke ba tshaba.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "hore ba thune"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ka bosele"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ya lokileng"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ka tlasa-pono"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ba mo thuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ke"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "ba tshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:03.687085055Z",
+  "model": "glm-5.3"
+}

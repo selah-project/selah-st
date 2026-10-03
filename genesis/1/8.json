@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Elohim a bita ⟨את⟩ sekgahlano hore ke mahodimo; mme ho ile ha ba bofifala, mme ho ile ha ba bosiu, letsatsi la bobedi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sekgahlano"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho ile ha ba"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "bofifala"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho ile ha ba"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "la bobedi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:45.796026079Z",
+  "model": "glm-5.3"
+}

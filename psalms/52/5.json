@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "O ratile bobe ho feta toka, leshano ho feta ho bua tsedeke. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "o ratile"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ho feta toka"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leshano"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ho bua"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:03.202572646Z",
+  "model": "glm-5.3"
+}

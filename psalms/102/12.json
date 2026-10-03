@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Matsatsi a ka a tshwana le moriti o otlolohileng; mme 'na ke omile joaloka sehlare.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Matsatsi a ka"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "a tshwana le moriti"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "o otlolohileng"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme 'na"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "joaloka sehlare"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "ke omile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:45.885635006Z",
+  "model": "glm-5.3"
+}

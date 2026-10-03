@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "A ba tjhesetse, a ba fedise ba sitisang moya wa ka; a ba apere ka tlontlo le mahloni, ba batlang bosulu ba ka.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "a ba tjhesetse"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "a ba fedise"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ba sitisang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "a ba apere ka"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "tlontlo"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "le mahloni"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ba batlang"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bosulu ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:11.688755123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Joaloka tlhahu mafoleng a ka, ba hlokahlatsang ba ntjhafatsa; ba re ho nna metsotso eohle ya letsatsi: O kae Elohim wa hao?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "joaloka tlhahu"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "mafoleng a ka"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ba ntjhafatsa"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ba hlokahlatsang"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya letsatsi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "o kae"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:41.008294907Z",
+  "model": "glm-5.3"
+}

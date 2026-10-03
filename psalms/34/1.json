@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ya Dawide, ha a ne a fetola ⟨את⟩ boitshwaro ba hae pele ga Abimeleke, mme a mo tlola, mme a tsamaea.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "ha a ne a fetola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boitshwaro ba hae"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "boitshwaro ba hae"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleke"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "mme a mo tlola"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mme a tsamaea"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:38.410646166Z",
+  "model": "glm-5.3"
+}

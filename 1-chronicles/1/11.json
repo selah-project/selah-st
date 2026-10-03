@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Mitsrayime a begetsa ⟨את⟩ Baludime, le ⟨את⟩ Baanamime, le ⟨את⟩ Balehavime, le ⟨את⟩ Banaftukhime.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mme Mitsrayime"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baludime"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Baludime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Baanamime"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Baanamime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Balehavime"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Balehavime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Banaftukhime"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Banaftukhime"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:24.510738403Z",
+  "model": "glm-5.3"
+}

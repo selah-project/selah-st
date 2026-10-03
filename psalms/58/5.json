@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 58,
+  "translation": "Boteneng ba bona bo tshwana le boteneng ba noka, jwalo ka pethene e se utloang e tswaletse sehlana sa yona.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "boteneng"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "bo tshwana le"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "boteneng"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "noka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jwalo ka"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "pethene"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "e se utloang"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "e tswaletse"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sehlana sa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:09.015426004Z",
+  "model": "glm-5.3"
+}

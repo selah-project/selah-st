@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ba dula mollwane wa Maemore ⟨את⟩ kaofela, ho tloha ho Arnone ho fihla ho Yaboke, le ho tloha lehoateng ho fihla ho Yoredene.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Ba dula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mollwane wa Maemore kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mollwane wa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Maemore"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "ho tloha ho Arnone"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho fihla ho"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yaboke"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le ho tloha"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "lehoateng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho fihla ho"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    }
+  ],
+  "timestamp": "2026-10-03T07:23:34.385562556Z",
+  "model": "glm-5.3"
+}

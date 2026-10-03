@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme Lote o ile a tswa ho bona ho ea mothalleng, mme o ile a tswalela letlalo kamora hae.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "o ile a tswa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ho ea mothalleng"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "mme letlalo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "o ile a tswalela"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kamora hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:25:21.930477794Z",
+  "model": "glm-5.3"
+}

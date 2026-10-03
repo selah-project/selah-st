@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Ka matsatsi ao le ka nako eo, ho bolela Yahwe, ho tla batloa ⟨את⟩ liphoso tsa Yisraele, empa li se teng; le ⟨את⟩ libe tsa Yehuda, empa li ke ke ea fumanwa; hobane ke tla ts'oarela bao ke ba sieang.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "ka matsatsi"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "le ka nako"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ho tla batloa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liphoso tsa Yisraele"
+    },
+    {
+      "surface": "עון",
+      "gloss": "liphoso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "empa li se teng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "libe tsa Yehuda"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "libe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa li ke ke"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "ea fumanwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "ke tla ts'oarela"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "ke ba sieang"
+    }
+  ],
+  "timestamp": "2026-10-03T09:28:48.732261806Z",
+  "model": "glm-5.3"
+}

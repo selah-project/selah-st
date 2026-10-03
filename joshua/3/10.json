@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Yehoshua a re: Ka ⟨the⟩ ntho ena le tla tseba hore El ya phelahang o ka hara ho lona, mme o tla le bula ka ho feletseng pele ho lona ⟨את⟩ Mokenaane le ⟨את⟩ Mokete le ⟨את⟩ Mokhevi le ⟨את⟩ Mokherezi le ⟨את⟩ Mokeregashe, le Moemore le Moyebuse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme Yehoshua a re"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Ka ntho ena"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "le tla tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ya phelahang"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "o ka hara ho lona"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "mme o tla ba a le bula"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "ka ho feletseng"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pele ho lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mokenaane"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokenaane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mokete"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mokete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mokhevi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mokhevi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mokherezi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Mokherezi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mokeregashe"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Mokeregashe"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "le Moemore"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le Moyebuse"
+    }
+  ],
+  "timestamp": "2026-10-03T07:03:49.904991678Z",
+  "model": "glm-5.3"
+}

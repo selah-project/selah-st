@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ⟨את⟩ Aharone le ⟨את⟩ bana ba hae o tla ba hlokomela, mme ba tla boloka ⟨את⟩ boprista ba bona; mme sebakala se atametseng, o tla bolaoa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba hae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "o tla ba hlokomela"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "mme ba tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boprista ba bona"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "boprista ba bona"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "mme sebakala"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "se atametseng"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o tla bolaoa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:22:27.274869866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme ha le ka sa mamelela ho ka dintho tsena, ke tla eketsa ho lootsa ⟨את⟩ lona ka makgetlo a supileng ka baka la libe tsa lona.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dintho tsena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mamelela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ka"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "ke tla eketsa"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "ho lootsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ka makgetlo a supileng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "libe tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:00.705368936Z",
+  "model": "glm-5.3"
+}

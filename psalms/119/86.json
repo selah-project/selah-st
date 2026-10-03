@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Mitsotso ya hao kaofela ke tshepo ya nnete; ka leshano ba ntlalisitse — nthusa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Mitsotso ya hao"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "tshepo ya nnete"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ka leshano"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "ba ntlalisitse"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "nthusa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:57.050076549Z",
+  "model": "glm-5.3"
+}

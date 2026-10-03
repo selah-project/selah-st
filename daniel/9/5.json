@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ra leshowa, ra etsa boshula, ra etsa phoso, ra tsuolla, ra ithabola ho melao ya hao le ho dikahlolo tsa hao.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "ra leshowa"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "ra etsa boshula"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "ra etsa phoso"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "ra tsuolla"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ra ithabola"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "ho melao ya hao"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "le ho dikahlolo tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:54:49.656162210Z",
+  "model": "glm-5.3"
+}

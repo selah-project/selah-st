@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Yehonatane o ile a hlakola ⟨את⟩ kobo e neng e mo aparetse, mme a e fa Dawide, le diaparo tsa hae, ho fihlela ho sebete sa hae, le ho hoele ya hae, le ho thapo ya hae.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "Mme o ile a hlakola"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobo"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "kobo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e neng e"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo aparetse"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "mme a e fa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "le diaparo tsa hae"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho fihlela ho"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sebete sa hae"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "hoele ya hae"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "thapo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:40:05.527446195Z",
+  "model": "glm-5.3"
+}

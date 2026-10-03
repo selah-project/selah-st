@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ke roala jwang ⟨se⟩ seo El a sa se roalang? Mme ke hloila jwang ⟨se⟩ seo Yahwe a sa se hloileng?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ke ... jwang"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "roala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "roala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mme ke ... jwang"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "hloila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haa"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "hloila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:35:28.935490057Z",
+  "model": "glm-5.3"
+}

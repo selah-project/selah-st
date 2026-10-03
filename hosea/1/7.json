@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ⟨את⟩ntlo ya Yehuda ke tla e tshepisa, mme ke tla ba pholosa ka Yahwe Elohim wa bona; mme ke ke ke ya ba pholosa ka bou, kapa ka tlhomo, kapa ka ntoa, ka dipere kapa ka barena ba dipere.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ke tla e tshepisa"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "mme ke tla ba pholosa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ke ke ke"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "ya ba pholosa"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ka bou"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "kapa ka tlhomo"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "kapa ka ntoa"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ka dipere"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "kapa ka barena ba dipere"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:38.995718783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "le ⟨את⟩ Hive, le ⟨את⟩ Arke, le ⟨את⟩ Sine;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Hive"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Arke"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Sine"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sine"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:30.091399174Z",
+  "model": "glm-5.3"
+}

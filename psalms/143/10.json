@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 143,
+  "translation": "Ntjhise ho etsa thato ya hao, hobane u ⟨⟨na le⟩⟩ Eloha wa ka; ruakh ya hao e lokile, e ntatale ka lefatshe la ho loka.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Ntjhise"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "thato ya hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloha wa ka"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruakh ya hao"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "e lokile"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "e ntatale"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ka lefatshe"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "la ho loka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:30.779538193Z",
+  "model": "glm-5.3"
+}

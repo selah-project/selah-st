@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Leihlo la ka le hwelela ka baka la bohloko; ke bitsa ho uena, Yahwe, letsatsi le leng le le leng; ke phallile matsoho a ka ho uena.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "leihlo la ka"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "le hwelela"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bohloko"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ke bitsa ho uena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka mokgwa oohle"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "ke phallile"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "matsoho a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:21.781320158Z",
+  "model": "glm-5.3"
+}

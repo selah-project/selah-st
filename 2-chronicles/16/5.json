@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme e ile ya ba ha Basha a utloa, a emisa ho bopa ⟨את⟩ Rama, a emisa ⟨את⟩ mosebetsi wa hae.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e ile ya ba"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ha a utloa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ho bopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebetsi wa hae"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "mosebetsi wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T12:31:46.723713648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Elohim, ba hodile ba tlhabela khahlanong le 'na, mme kgotla ya batho ba thata e batlile moya wa ka, mme ha ba a beha ⟨waw⟩ wena pele ho bona.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ba hodile"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ba tlhabela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "khahlanong le 'na"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "mme kgotla ya"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "batho ba thata"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "e batlile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "ba a beha wena"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "pele ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:34.841021642Z",
+  "model": "glm-5.3"
+}

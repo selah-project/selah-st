@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a go fosa, a go lapa, a go fe ⟨את⟩ mane eo o neng o sa e tsebe, le bo-ntate ba hao ba neng ba sa e tsebe, hore a go tsebise hore motho ha a phole ka boroko bohe feela, eupja motho o phola ka tsoohle eo e phumutsang molomo oa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "a go fosa"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "a go lapa"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "a go fe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mane"
+    },
+    {
+      "surface": "המן",
+      "gloss": "mane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o neng o sa e tsebe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le hore ha"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "ba neng ba sa e tsebe"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bo-ntate ba hao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "a go tsebise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "boroko"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "bohe feela"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "a phole"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eupja"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsoohle"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "eo e phumutsang"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "oa Yahwe"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "o phola"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-03T06:49:50.961822059Z",
+  "model": "glm-5.3"
+}

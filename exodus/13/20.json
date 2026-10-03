@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme ba tsoha Sukote, mme ba hema Etame, kahareng ya bohaleng.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ba tsoha"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukote"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba hema"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Etame"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "kahareng"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ya bohaleng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:42.623543211Z",
+  "model": "glm-5.3"
+}

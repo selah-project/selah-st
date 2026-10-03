@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme sheba, mme o etse ka mokgatla wa tsona, oo o o bonang thabeng.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "sheba"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "o etse"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "ka mokgatla wa tsona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:52.032476931Z",
+  "model": "glm-5.3"
+}

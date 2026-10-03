@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Empa ha o ⟨את⟩ nna ea bitlang, Yaakobo, hobane o ikhutsitse ka nna, Yisraele.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Empa ha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ea bitlang"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "o ikhutsitse"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:25.563958230Z",
+  "model": "glm-5.3"
+}

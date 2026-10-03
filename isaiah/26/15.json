@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "O ekeditse setjhaba, Yahwe, o ekeditse setjhaba; o ile wa tlotseha; o atolositse meeli eohle ya lefatshe.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "o ekeditse"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "o ekeditse"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "o ile wa tlotseha"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "o atolositse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "meeli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:19.546234188Z",
+  "model": "glm-5.3"
+}

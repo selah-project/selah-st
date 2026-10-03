@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Letsoho la hao le na le nako tsa ka; nkholose seatleng sa manea a ka le ba ntsamaisang.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "letsoho la hao"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "nako tsa ka"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "nkholose"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seatleng sa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "manea a ka"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "le ba ntsamaisang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:03.811935034Z",
+  "model": "glm-5.3"
+}

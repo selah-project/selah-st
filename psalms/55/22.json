@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Dikgopolo tsa molomo wa hae di ntle ho feta botsodi, empa pelo ya hae ⟨e le⟩ ntwa; mantswe a hae a bonolo ho feta mafura, empa a dinao tse butswitsweng.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "di ntle"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "ho feta botsodi"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molomo wa hae"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "empa e le"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "a bonolo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "mantswe a hae"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ho feta mafura"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "empa a"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "dinao tse butswitsweng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:42.756607128Z",
+  "model": "glm-5.3"
+}

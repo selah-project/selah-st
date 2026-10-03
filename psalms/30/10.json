@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mpho efe e ka `mong oa mali a ka, ha ke theohela ho lebitla? Na letsatsi le tla o rorisa, `mopi? Na le tla phatlalatsa `nete ea hau?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "eife"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "`mong oa mali a ka"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "ha ke theohela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lebitla"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "na le tla o rorisa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "`mopi"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "na le tla phatlalatsa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "`nete ea hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:34.464477883Z",
+  "model": "glm-5.3"
+}

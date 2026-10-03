@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme ena ke Torah ya ⟨את⟩ sehlabelo sa ashame; e halalela ho dihalalelo ke yona.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "mme ena"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah ya"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "sehlabelo sa ashame"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e halalela"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ho dihalalelo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:01.425345472Z",
+  "model": "glm-5.3"
+}

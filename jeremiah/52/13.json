@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Mme a chesa ka mollo ⟨את⟩ ntlo ya Yahwe le ⟨את⟩ ntlo ya morena, le ⟨את⟩ matlo ohle a Yerushalayime; mme ntlo e ngata le e ngata e holo o ile a e chesa ka mollo.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "mme a chesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya morena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya morena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "matlo ohle a Yerushalayime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "matlo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo e holo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e ngata le e ngata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "e holo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "o ile a e chesa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    }
+  ],
+  "timestamp": "2026-10-03T09:30:26.168576418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Ya bolelang qetelo ho tloha qalong, le ho tloha mehleng ya khale seo se sa entsweng; o re: Morero wa ka o tla ema, mme thato yaka kaofela ke tla e etsa.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Ya bolelang"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "ho tloha qalong"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "qetelo"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "le ho tloha mehleng ya khale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "entsweng"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "Morero wa ka"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "o tla ema"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ... kaofela"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "thato yaka"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tla e etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:52:57.090162838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "E le karabana ya mathwaso, le tla ba kisa ho Yahwe; empahle ha ba ea ho altare, ha ba ea hoseng e le moya o monate.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "karabana"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ya mathwaso"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "le tla ba kisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "empahle ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ba ea hoseng"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "e le moya"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "o monate"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:13.153439209Z",
+  "model": "glm-5.3"
+}

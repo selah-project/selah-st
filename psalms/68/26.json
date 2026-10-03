@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Ba bina ba pele, batambi ba latela morao; pakeng tsa bona baroetsana ba bula dithepe.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "ba pele"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ba bina"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ba latela morao"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "batambi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakeng tsa bona"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "baroetsana"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "ba bula dithepe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:45.875958933Z",
+  "model": "glm-5.3"
+}

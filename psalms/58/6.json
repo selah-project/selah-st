@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 58,
+  "translation": "Eo e sa utloleng sehoohooho sa melala, mokopi wa dikopelo e hlalefileditseng haholo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "utloleng"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "melala"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "mokopi"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "dikopelo"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "e hlalefileditseng haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:09.015669840Z",
+  "model": "glm-5.3"
+}

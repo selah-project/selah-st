@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 6:17",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme ba isa ⟨את⟩ Arone ya Yahwe, mme ba e beha sebakeng sa yona, ka hare ho tende eo Dawide a e phallaletse; mme Dawide a phahamisa ⟨את⟩ mehoso pel'a Yahwe, le diphello tsa khotso.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arone ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arone"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויצגו",
+      "gloss": "ba e beha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "sebakeng sa yona"
+    },
+    {
+      "surface": "במקומו",
+      "gloss": "sebakeng sa yona"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tende"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "a e phallaletse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa yona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a phahamisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "mehoso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pel'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "diphello tsa khotso"
+    }
+  ],
+  "timestamp": "2026-10-03T07:50:18.096135703Z",
+  "model": "glm-5.3"
+}

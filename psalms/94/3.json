@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Ho fihlela nako efe, Yahwe, ba fosahetseng? Ho fihlela nako efe ba fosahetseng tla thabisa?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ho fihlela"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nako efe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba fosahetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Ho fihlela"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nako efe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba fosahetseng"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "tla thabisa"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:01.670623142Z",
+  "model": "glm-5.3"
+}

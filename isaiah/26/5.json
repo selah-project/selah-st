@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Hobane o susumetsitse fatshe ba dulang hodimo, motse o phahameng; o o tlodisitse, o wa tlodisa ho fihlela lefatshe, o wa fitlhella ho fihlela mongobo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "השח",
+      "gloss": "o susumetsitse fatshe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "motse"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "o phahameng"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "o wa tlodisitse"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "o wa tlodisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "o wa fitlhella"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mongobo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:40:44.302074590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 100,
+  "translation": "Tsebang hore Yahwe, yena ke Elohim; yena o re ente, mme re se re ile ra ipeta. Re sechaba sa hae, le leru la bohalabeli ba hae.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Tsebang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "o re ente"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme re se"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ra ipeta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sechaba sa hae"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "le leru"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "la bohalabeli ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:42.776036456Z",
+  "model": "glm-5.3"
+}

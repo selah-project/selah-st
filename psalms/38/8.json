@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Hobane sephetho sa ka se tlale se chesang, mme ho se hole ho phelang ho phethwe se thong sa ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "sephetho sa ka"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "se tlale"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "se chesang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ho se hole"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ho phelang ho phethwe"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "se thong sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:05.268484226Z",
+  "model": "glm-5.3"
+}

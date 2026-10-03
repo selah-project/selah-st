@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 112,
+  "translation": "Lesedi le tsohile lefifing bakeng sa ba lokileng: mohau, mohau-monene, le ya lokileng.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "le tsohile"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "lefifing"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Lesedi"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "bakeng sa ba lokileng"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "mohau-monene"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "le ya lokileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:59.770970820Z",
+  "model": "glm-5.3"
+}

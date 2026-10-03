@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Ipeletsang, dikgoro, mahlo a lona; mme ho phahamisoe, dikgoro tsa ho sa feleng; mme morena wa ketelo a tswele.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ipeletsang"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mahlo a lona"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "mme ho phahamisoe"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tsa ho sa feleng"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "mme a tswele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wa ketelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:59.509175726Z",
+  "model": "glm-5.3"
+}

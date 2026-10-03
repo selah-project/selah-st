@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Aharone a bolela ⟨את⟩ mantswe ohle ao Yahwe a neng a buile ho Moshe, mme a etsa disupo pele mahloneng a setjhaba.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "disupo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "pele mahloneng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a setjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T12:43:10.689481616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Dilemo tse leshome le tse pedi ba sebeletse ⟨את⟩ Khedarlaomore, mme selemong sa bolesome le boraro ba tswarella.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tse leshome"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "Dilemo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ba sebeletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khedarlaomore"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Khedarlaomore"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mme... le boraro"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "bolesome"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemong sa"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "ba tswarella"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:23.422926735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "O ile a mo dira hanyenyane ka tlase ha Elohim, mme o mo apesitse korone ka kgalalelo le bontle.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "o ile a mo dira ka tlase"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hanyenyane"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "ha Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ka kgalalelo"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "le bontle"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "o mo apesitse korone"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:31.311038213Z",
+  "model": "glm-5.3"
+}

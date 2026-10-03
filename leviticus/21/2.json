@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Haese feela bakeng sa madi a hae a kgauswi, ao a mo kgauswitseng: mmae, ntate-hae, mora wa hae, moradi wa hae, le kgaitsedinyane ya hae ya monyane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "haese feela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haese feela"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "bakeng sa madi a hae"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a kgauswi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "a mo kgauswitseng"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "mmae"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ntate-hae"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "moradi wa hae"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "kgaitsedinyane ya hae ya monyane"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:49.928439099Z",
+  "model": "glm-5.3"
+}

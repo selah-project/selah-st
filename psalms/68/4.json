@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Mme ba lokileng ba thabe, ba tlabe thabo pel'a Elohim, mme ba thabe ka thabo e kholo.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "mme ba lokileng"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ba thabe"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ba tlabe thabo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pel'a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וםישו",
+      "gloss": "mme ba thabe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:37.395060582Z",
+  "model": "glm-5.3"
+}

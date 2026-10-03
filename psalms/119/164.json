@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ka meketso e supileng ka letsatsi ke a le tlotlisa, ka baka la dikahlolo tsa tsedekeng ya hao.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "meketso e supileng"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "ke a le tlotlisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedekeng ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:31.167202649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Leleme la ka le tla bua ⟨⟨ka⟩⟩ polelo ya hao; hobane melaetsa ya hao yohle ke tsedeke.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "le tla bua"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "leleme la ka"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "polelo ya hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "melaetsa ya hao"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:08.508123244Z",
+  "model": "glm-5.3"
+}

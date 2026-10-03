@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 63,
+  "translation": "Ha ke le u hopola bohalong ba ka, ditshebetso tsa bosiu ke ikakanya ka uena.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ke le u hopola"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "bohalong ba ka"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "ditshebetso tsa bosiu"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ke ikakanya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka uena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:18.646509836Z",
+  "model": "glm-5.3"
+}

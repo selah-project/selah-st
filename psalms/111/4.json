@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 111,
+  "translation": "O etsile ⟨את⟩ ketso ea ho hopola bakeng sa makhabunyane a hae; mohau o tshepilehang 'me ea tshegofatsang ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ketso ea ho hopola"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o etsile"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "bakeng sa makhabunyane a hae"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mohau o tshepilehang"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "'me ea tshegofatsang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:45.706358878Z",
+  "model": "glm-5.3"
+}

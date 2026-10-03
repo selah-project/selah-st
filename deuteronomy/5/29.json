@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 5:29",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Hore na e ka be lefuba la bona le le joalo ho bona, la ho tsaba ⟨את⟩ 'na le ho boloka ⟨את⟩ melao ya ka eohle, matsatsi aohle, hore ho be hlaoke ho bona le ho bana ba bona, ka ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hore na"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "e ka be"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "le le joalo"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "lefuba la bona"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le joalo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "la ho tsaba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ 'na",
+      "marks": "ho tsaba ⟨את⟩ 'na le ho boloka"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "le ho boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya ka eohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "melao ya ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aohle"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ho be hlaoke"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "ולבניהם",
+      "gloss": "le ho bana ba bona"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ka ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:50.014693068Z",
+  "model": "glm-5.3"
+}

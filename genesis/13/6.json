@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme lefatshe le ne le sa kgone ho ba jwale ⟨את⟩ bona hore ba dule mmoho, hobane thepa ea bona e ne e menehile; mme ba ne ba sa kgone ho dula mmoho.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ... sa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kgone ho ba jwale"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hore ba dule"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmoho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e ne e"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "thepa ea bona"
+    },
+    {
+      "surface": "רב",
+      "gloss": "menehile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ... sa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ba kgone"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ho dula"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmoho"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:56.648966700Z",
+  "model": "glm-5.3"
+}

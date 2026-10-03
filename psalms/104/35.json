@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Bakgethi ba felisoe hole lefats'eng, mme ba khopo ba se ke ba sa ba teng. Oaka, molele oa ka, ⟨את⟩ Yahwe; rapelela Yah.",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "ba felisoe"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "bakgethi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hole"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefats'eng"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "mme ba khopo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ha ho sa le joalo"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ba se ke ba sa ba teng"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "oaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molele oa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "rapelela"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:24.710217046Z",
+  "model": "glm-5.3"
+}

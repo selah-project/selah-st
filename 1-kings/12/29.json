@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme a beha ⟨את⟩ e 'ngoe Bethele, mme ⟨את⟩ e 'ngoe a e beha Dane.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e 'ngoe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e 'ngoe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bethele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bethele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "e 'ngoe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e 'ngoe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a e beha"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Dane"
+    }
+  ],
+  "timestamp": "2026-10-03T08:10:28.181259433Z",
+  "model": "glm-5.3"
+}

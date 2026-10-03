@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Empa wena, Yahwe, o a ntseba, o a nkileha, mme o hlahlobile pelo ya ka pele ho wena ⟨את⟩. Dirolle joaling ka dikonyane bakeng sa bola, mme di hlokeletse bakeng sa letsatsi la bola.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "empa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "o a ntseba"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "o a nkileha"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "mme o hlahlobile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pele ho wena",
+      "marks": "pelo ya ka"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "dirolle"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ka dikonyane"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "bakeng sa bola"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "mme di hlokeletse"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bakeng sa letsatsi"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "la bola"
+    }
+  ],
+  "timestamp": "2026-10-03T09:06:44.161180428Z",
+  "model": "glm-5.3"
+}

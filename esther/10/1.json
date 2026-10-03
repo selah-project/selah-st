@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme morena wa Ahashuerosh o ile a beha lekgetho hodima lefatshe le hodima ditjha tsa lewatle.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "o ile a beha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Ahashuerosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "lekgetho"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "le hodima ditjha"
+    },
+    {
+      "surface": "הים",
+      "gloss": "tsa lewatle"
+    }
+  ],
+  "timestamp": "2026-10-03T11:48:12.633667911Z",
+  "model": "glm-5.3"
+}

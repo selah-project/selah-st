@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme le ihalalelise, mme le be ba halalelang, hobane nna ke Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "le ihalalelise"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "mme le be"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ba halalelang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:00.949519741Z",
+  "model": "glm-5.3"
+}

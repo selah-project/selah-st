@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme moya wa ka o tsositswe haholo; empa u, Yahwe — ho fihlela neng?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Mme moya wa ka"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "o tsositswe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "neng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:07.604937910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme matsoho a motho a ne a le ka tlase ho mapheo a tsona, ho mahlakore a tsona a mene; mme difahlelo tsa tsona le mapheo a tsona di ne di le mene ka botlalo.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "mme matsoho a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "a le ka tlase ho"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "mapheo a tsona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "a mene"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "mahlakore a tsona"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "mme difahlelo tsa tsona"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "le mapheo a tsona"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "di le mene ka botlalo"
+    }
+  ],
+  "timestamp": "2026-10-03T09:30:45.222241902Z",
+  "model": "glm-5.3"
+}

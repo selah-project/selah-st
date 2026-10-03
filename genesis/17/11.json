@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme le tla ralla ⟨את⟩ nama, ⟨את⟩ sefolane sa lona; e tla ba ⟨הוא⟩ sesupo sa selekane mahareng ha ka le mahareng ha lona.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "mme le tla ralla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "sefolane sa lona"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "sesupo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sa selekane"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mahareng ha ka"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "le mahareng ha lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:24:05.296048363Z",
+  "model": "glm-5.3"
+}

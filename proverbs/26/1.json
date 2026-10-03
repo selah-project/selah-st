@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Jwalo ka sekaputa sefubeng, le jwalo ka pula khotsofong, jwalo ha ho loka tlhompho ho sematla.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "jwalo ka sekaputa"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "sefubeng"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "le jwalo ka pula"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "khotsofong"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ho loka"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ho sematla"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tlhompho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:16:36.057938116Z",
+  "model": "glm-5.3"
+}

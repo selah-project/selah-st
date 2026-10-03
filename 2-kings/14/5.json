@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme e bile ha puso e bile matla letsohong la hae, o ile a bola ⟨את⟩ balebeli ba hae, ba neng ba bola ⟨את⟩ morena, ntate wa hae.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "e bile matla"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "puso"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "letsohong la hae"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o ile a bola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balebeli ba hae"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "balebeli ba hae"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ba neng ba bola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntate wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:23:20.050259385Z",
+  "model": "glm-5.3"
+}

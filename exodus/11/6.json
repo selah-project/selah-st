@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme ho tla ba le llae le letle hara lefatshe lohle la Mitsrayime, e tlang jwaloka e enwe ha e ka ba ⟨e kang yona⟩, le jwaloka yona ha e tla hlola e fihlela hape.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "mme ho tla ba le"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "llae"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "letle"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hara lohle la"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e tlang"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "jwaloka e enwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha e ka ba"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "e kang yona"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "le jwaloka yona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha e tla hlola"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "e fihlela hape"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:59.157427072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Hobane ba ne ba sa lumele ho Elohim, mme ba sa tshephe tsosedong ya hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ba lumele"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ba tshephe"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "tsosedong ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:55.319935185Z",
+  "model": "glm-5.3"
+}

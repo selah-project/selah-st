@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme e tla hlahisa dihlahla le dikgoso tsa nkoa bakeng sa hau, mme o tla ja ⟨את⟩ meroho ya masimong.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Mme dihlahla"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "le dikgoso tsa nkoa"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "e tla hlahisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bakeng sa hau"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "mme o tla ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meroho"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "meroho"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya masimong"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:09.989790477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Leha o re kotutse sebakeng sa diphiri, mme o re kettle ka sefifi sa lefu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "leha"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "o re kotutse"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "diphiri"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "mme o re kettle"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "re"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "ka sefifi sa lefu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:36.794434255Z",
+  "model": "glm-5.3"
+}

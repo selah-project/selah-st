@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme banna bao ba bile ⟨את⟩ lefofu, ba bang ba nyane ba bile ba bagolo, mme ba laka mme ba hloleha ho fumana ⟨את⟩ monyako oa ntlo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "banna bao ba nang lefofu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna bao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba nang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "monyako"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "oa ntlo"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ba bile"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "lefofu"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "ba bang ba nyane"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ba bile"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ba bagolo"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "ba laka"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ho fumana"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "monyako"
+    }
+  ],
+  "timestamp": "2026-10-03T05:24:31.024712637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme lona le tseba hore ka matla a ka kaohela ke ise ke dire ⟨את⟩ ntata lona.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Mme lona"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "le tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka kaohela"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ke dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntata lona"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ntata lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:33:32.165461537Z",
+  "model": "glm-5.3"
+}

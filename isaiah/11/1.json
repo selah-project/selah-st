@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme motjhila o tla tswa mocheng ya Yishaye, mme serwa se tla hlaha metsaneng ya hae mme se ka bapala.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "o tla tswa"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "motjhila"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "mochong ya"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishaye"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "mme serwa"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "metsaneng ya hae"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "se ka bapala"
+    }
+  ],
+  "timestamp": "2026-10-03T08:37:24.070290457Z",
+  "model": "glm-5.3"
+}

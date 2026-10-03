@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Nna ke tla araba ka mantsoe, wena le ⟨את⟩ metsoalle ya hao hammoho le wena.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ke tla araba"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ka mantsoe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "metsoalle ya hao"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "metsoalle ya hao"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hammoho le wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:30:49.202600278Z",
+  "model": "glm-5.3"
+}

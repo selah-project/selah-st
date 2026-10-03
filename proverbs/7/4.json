@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "E re ho bohlale: O ⟨את⟩ khaitsedi ea ka; 'me tlhaloso o e bitse e le moholo oa hao.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "e re ho"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "khaitsedi ea ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ O",
+      "marks": "tlhaloso"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "'me tlhaloso"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ho utloisisa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "o e bitse e le moholo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:07:55.424527297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme morena a romella, mme ba bokela ho yena baholo bohle ba Yuddea le ba Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romella"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ba bokela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuddea"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:48.618794698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "le ho rera mehopo bakeng sa ho etsa ka gauta, ka silevera le ka koporo.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "le ho rera"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "mehopo"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "bakeng sa ho etsa"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ka silevera"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ka koporo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:32.956288130Z",
+  "model": "glm-5.3"
+}

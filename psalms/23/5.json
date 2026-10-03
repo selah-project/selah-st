@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "O hlophisa ⟨את⟩ tafole pele ho ka, pel'a ba ntsheletsang; o ntlotse ka mafura hloho ya ka; kompong ya ka ⟨e⟩ tlala.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "o hlophisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho ka"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pel'a"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ba ntsheletsang"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "o ntlotse"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hloho ya ka"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kompong ya ka"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "⟨e⟩ tlala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:20.276029009Z",
+  "model": "glm-5.3"
+}

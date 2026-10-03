@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 117,
+  "translation": "Durang Yahoo, lichaba tsohle; mo dumelelang, merabe yohle.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Durang Yahoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "lichaba"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "mo dumelelang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "merabe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:56:59.008600646Z",
+  "model": "glm-5.3"
+}

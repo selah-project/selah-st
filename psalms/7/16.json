@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "O ile a ka sediba mme a se hahlaula, mme a oela mocheng oo a o entseng.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "sediba"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "o ile a ka"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "mme a se hahlaula"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "mme a oela"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "mocheng"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "oo a o entseng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:25.402868991Z",
+  "model": "glm-5.3"
+}

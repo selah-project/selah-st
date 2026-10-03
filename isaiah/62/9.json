@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 62,
+  "translation": "Hobane ba e bokellang ba tla e ja, mme ba tla baka ⟨את⟩ Yahwe; mme ba e phuthang ba tla e nwa dikhauting tsa kgalalelo ya ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "ba e bokellang"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ba tla e ja"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "mme ba tla baka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "mme ba e phuthang"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "ba tla e nwa"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "dikhauting tsa"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kgalalelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T13:01:26.904564380Z",
+  "model": "glm-5.3"
+}

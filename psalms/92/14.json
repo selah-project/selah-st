@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "Ba jaloletswe ka ntlong ya Yahwe, dikhutlong tsa Elohim wa rona ba tla sefofa.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "ba jaloletswe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "dikhutlong"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "ba tla sefofa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:11.578934317Z",
+  "model": "glm-5.3"
+}

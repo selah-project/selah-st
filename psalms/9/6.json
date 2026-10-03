@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "O kgalemile ditjhaba, o timetsa moeso; mabitso a tsona o a phumutse hohle le ho sa feli.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "o kgalemile"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "o timetsa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moeso"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "mabitso a tsona"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "o a phumutse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hohle"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho sa feli"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:38.196376323Z",
+  "model": "glm-5.3"
+}

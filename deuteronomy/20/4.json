@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "hobane Yahwe Elohim ea lona ke ⟨Ene⟩ ea tsamayang le lona, ho loanela lona kgahlanong le ba le hlolang, ho le lokolotsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ea lona"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Ene ea tsamayang"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ho loanela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ba le hlolang"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ho le lokolotsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:55:22.053530412Z",
+  "model": "glm-5.3"
+}

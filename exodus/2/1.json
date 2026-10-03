@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme mono o ile a ya monna oa ntlo ya Levi, mme o ile a nka ⟨את⟩ moradi oa Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "o ile a ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "oa ntlo ya"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mme o ile a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moradi oa Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi oa"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:06.807517351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Tsedeke ya hao ⟨e tshwana le⟩ dithaba tsa El; kahlolo ya hao ke teboho e kgolo; motho le phoofolo o ea pholosa, Yahwe.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeke ya hao"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "e tshwana le dithaba tsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "kahlolo ya hao"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "teboho"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "le phoofolo"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "o ea pholosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:35.568422300Z",
+  "model": "glm-5.3"
+}

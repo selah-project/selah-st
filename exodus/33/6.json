@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Jwale bara ba Yisraele ba itlhakolla ⟨את⟩ dinepe tsa bona thoko ho Thaba ya Khorebe.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "ba itlhakolla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinepe tsa bona"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "dinepe tsa bona"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "thoko ho Thaba ya"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Khorebe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:20.930140942Z",
+  "model": "glm-5.3"
+}

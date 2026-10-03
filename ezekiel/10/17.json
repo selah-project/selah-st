@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Ha ⟨bao ba eme⟩ eme, mme ha ba hodiswa, ⟨bao⟩ ba hodiswa ⟨את⟩; hobane ruakh ya phelo e ⟨teng⟩ ho tsona.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "ha ⟨bao ba eme⟩ eme"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "eme"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "mme ha ba hodiswa"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ba hodiswa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ki כי (ho tsona)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ya phelo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:35:27.396530456Z",
+  "model": "glm-5.3"
+}

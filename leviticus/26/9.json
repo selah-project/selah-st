@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme ke tla sheba ho lona, ke tla le atisa, ke tla le namaleta, mme ke tla tiisa ⟨את⟩ selekane sa ka ⟨את⟩ le lona.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "ke tla sheba"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "ke tla le atisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "ke tla le atisa"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ke tla le namaleta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "ke tla le namaleta"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ke tla tiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa ka"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:48.639557468Z",
+  "model": "glm-5.3"
+}

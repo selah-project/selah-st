@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 98,
+  "translation": "Pele ho Yahwe, hobane o tla a tla ho ahlokahatsa ⟨את⟩ lefatshe; o tla ahlokahatsa ⟨את⟩ lefatshe ka tsedeke, le ⟨את⟩ merahe ka toka.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Pele ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tla a tla"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ho ahlokahatsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ lefatshe"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o tla ahlokahatsa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨את⟩ lefatshe"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "le merahe"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ka toka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:21.451453964Z",
+  "model": "glm-5.3"
+}

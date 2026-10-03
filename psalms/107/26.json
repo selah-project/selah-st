@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Ba phahama ho ya hodimo, ba theoha ho ya diefung; moya wa bophelo ba tona bo bobe bo a nyamela.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ba phahama"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ho ya hodimo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ba theoha"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ho ya diefung"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moya wa bophelo ba tona"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "bo bobe"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "bo a nyamela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:46.044002436Z",
+  "model": "glm-5.3"
+}

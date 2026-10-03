@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "O Matla a ka, ho wena ke tla hlakorela; hobane Elohim ke ⟨boemo bo phahameng⟩ ba ka.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "O Matla a ka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ke tla hlakorela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "boemo bo phahameng ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:02.246417187Z",
+  "model": "glm-5.3"
+}

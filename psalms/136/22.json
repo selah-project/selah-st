@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "Boswa ho Yisraele, lekgoba la hae, hobane ho fihlela ho naila hesede ya hae e dula",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "Boswa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho Yisraele"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "lekgoba la hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ho naila"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae e dula"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:03.805617654Z",
+  "model": "glm-5.3"
+}

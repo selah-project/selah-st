@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Ke Shabata ya phomolo e kholo e le ya lona; le tloditse meja ea lona ⟨את⟩ — molao wa hosafeleng.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya phomolo e kholo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke ... e le"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya lona"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "le tloditse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja ea lona"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "meja ea lona"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "molao wa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hosafeleng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:13:59.758090178Z",
+  "model": "glm-5.3"
+}

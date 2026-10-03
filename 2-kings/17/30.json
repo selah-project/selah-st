@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme banna ba Babele ba etsa ⟨את⟩ Sukote-Benote, mme banna ba Kute ba etsa ⟨את⟩ Nergale, mme banna ba Hamate ba etsa ⟨את⟩ Ashime.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "mme banna ba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukote-Benote"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukote"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benote"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "mme banna ba"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kute"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergale"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergale"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "mme banna ba"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamate"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashime"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashime"
+    }
+  ],
+  "timestamp": "2026-10-03T08:27:07.864759316Z",
+  "model": "glm-5.3"
+}

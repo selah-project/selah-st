@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Re tla kenella ho Mishkane ya hae, ra inamela ho setala sa maoto a hae.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "Re tla kenella"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "ho Mishkane ya hae"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "ra inamela"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "ho setala"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sa maoto a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:56.786327337Z",
+  "model": "glm-5.3"
+}

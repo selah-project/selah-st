@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 112,
+  "translation": "Pelo ya hae e tsamaisitsoe, ha a tshabe, ho fihlela a bona ⟨phello ea hae ho⟩ ba ntsalane ba hae.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "e tsamaisitsoe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "a tshabe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יראה",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "ba ntsalane ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:23.959963301Z",
+  "model": "glm-5.3"
+}

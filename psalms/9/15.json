@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Hore ke phethe litlhoko tsohle tsa hau meqatong ea morali Sione; ke tla thaba ka pholoseho ea hau.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Hore"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ke phethe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "litlhoko tsa hau"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "meqatong ea"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morali"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sione"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ke tla thaba"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ka pholoseho ea hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:00.566358023Z",
+  "model": "glm-5.3"
+}

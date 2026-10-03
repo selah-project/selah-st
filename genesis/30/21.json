@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme ka mora moo o ile a bea morwadi, mme a bitsea ⟨את⟩ lebitso la hae Dina.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ka mora moo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "o ile a bea"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "mme a bitsea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la hae"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-10-03T05:31:38.173300039Z",
+  "model": "glm-5.3"
+}

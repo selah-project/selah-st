@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mamella lentsoe la kokoetso ya ka, morena wa ka le Elohim wa ka, hobane ho wena ke tla rapela.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Mamella"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "lentsoe la"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "kokoetso ya ka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "le Elohim wa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ke tla rapela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:40.086516199Z",
+  "model": "glm-5.3"
+}

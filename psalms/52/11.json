@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Ke tla leboha ho isa hosafeleng, hobane o entse ⟨jwalo⟩; mme ke tla letella lebitso la hao, hobane le molemo, pele ho bahloekileng ba hao.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ke tla leboha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho isa hosafeleng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o entse"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "mme ke tla letella"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le molemo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "bahloekileng ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:33.089267866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Nke ke ka leboka ka toka ya pelo, ge ke ithuta dikahlolo tsa tsedikeng ya hao.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "nke ke ka leboka"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "ka toka"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ya pelo"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "ge ke ithuta"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo tsa"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedikeng ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:38.904199448Z",
+  "model": "glm-5.3"
+}

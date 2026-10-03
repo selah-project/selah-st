@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Hobane ke go hodisitse nakong ya lefatshe la Mitsrayime, mme ka ntlo ya makgoba ke go lokollotse; mme ke rometse pele ho wena ⟨את⟩ Moshe, Aharone le Miriame.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "ke go hodisitse"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nakong ya lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "mme ka ntlo"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ya makgoba"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "ke go lokollotse"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "mme ke rometse"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ho wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "le Miriame"
+    }
+  ],
+  "timestamp": "2026-10-03T10:13:30.628166982Z",
+  "model": "glm-5.3"
+}

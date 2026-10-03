@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Yahwe, Elohim wa Yisraele, oa hlohonolofatsoa ho tloha ⟨ho⟩ ho sa fela ho fihlela ho sa fela. Amen, le Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "oa hlohonolofatsoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "ho tloha ho sa fela"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ho sa fela"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "le Amen"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:46.014701292Z",
+  "model": "glm-5.3"
+}

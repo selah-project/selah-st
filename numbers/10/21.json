@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Baqehati ba ne ba tsamaya, ba balekane ba sehalalelo; mme ba bang ba emisa ⟨את⟩ Mishkane ho fihlela ho tla ha bona.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "ba ne ba tsamaya"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Baqehati"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ba balekane ba"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "sehalalelo"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "mme ba bang ba emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ho tla ha bona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:26:35.271155890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Moshe a bolelella Aharone ⟨את⟩ mantswe ohle a Yahwe ao a mo romileng, le ⟨את⟩ matswayo ohle ao a mo laetse hang.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a bolelella"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "a mo romile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "matswayo ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "matswayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "a mo laetse"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:11.723740624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme kho momona kapa nku e nang le se seng se feteletseng kapa se tlasehang, o ka e etsa ⟨את⟩ e le mpho ya boithaopo, empa ho kaneto e keke ea amohelwa.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Mme kho"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "kapa nku"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "e nang le se seng se feteletseng"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "kapa se tlasehang"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "mpho ya boithaopo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o ka e etsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kho kapa nku"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "empa ho kaneto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e keke"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ea amohelwa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:09.572297740Z",
+  "model": "glm-5.3"
+}

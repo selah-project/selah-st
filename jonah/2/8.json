@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ha mophoqo oa ka o ne o fokola ​ka hare​ ho ‘na, ke ile ka hopola ⟨את⟩ Yahwe; mme thapelo ea ka e ile ea fihlela ho oena, ho heikhale ea hao e halalelang.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "ha o ne o fokola"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho ‘na"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mophoqo oa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "ke ile ka hopola"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "mme e ile ea fihlela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho oena"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ea ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikhale"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ea hao e halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:56.351237982Z",
+  "model": "glm-5.3"
+}

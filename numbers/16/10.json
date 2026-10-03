@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme o ile a le khotsofatsa wena, le ⟨את⟩ borotho ba hena kaofela bana ba Levi, ⟨אתך⟩; mme le batla le bopriste hape?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "mme o ile a khotsofatsa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "borotho ba hena kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "borotho ba hena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "mme le batla"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hape"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "bopriste"
+    }
+  ],
+  "timestamp": "2026-10-03T06:30:19.733843082Z",
+  "model": "glm-5.3"
+}

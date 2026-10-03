@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme o imela, mme a belega mora; mme a bitssa ⟨את⟩ lebitso la hage Ere.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "o imela"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitssa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la hage"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hage"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ere"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:26.014650974Z",
+  "model": "glm-5.3"
+}

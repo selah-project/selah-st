@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Halaleng Yah, hobane e lokile ho bina ho Elohim wa rona, hobane e monate, e hlwekile teronoko.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halaleng"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e lokile"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ho bina"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "e monate"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "e hlwekile"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "teronoko"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:36.486254280Z",
+  "model": "glm-5.3"
+}

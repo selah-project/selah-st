@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme Efrone a araba ⟨את⟩ Abrahame, a re ho eena:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mme a araba"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efrone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho eena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:42.726829139Z",
+  "model": "glm-5.3"
+}

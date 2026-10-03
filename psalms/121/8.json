@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 121,
+  "translation": "Yahwe o tla lulula ho tsoa ha hao le ho kena ha hao, ho tloha joale ho fihlela ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "o tla lulula"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ho tsoa ha hao"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "le ho kena ha hao"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ho tloha joale"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:10.558638973Z",
+  "model": "glm-5.3"
+}

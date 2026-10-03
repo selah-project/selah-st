@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme Elihu o emetse ⟨את⟩ Iyobe ka mantswe, hobane bona e ne e le baholo ho feta yena ka dilemo.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Mme Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "o emetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobe"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ka mantswe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho feta yena"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "ka dilemo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:30:23.697092692Z",
+  "model": "glm-5.3"
+}

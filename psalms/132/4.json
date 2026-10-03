@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Ha nka fa boroko mahlo a ka, ho mahloko a ka bofufa, —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha nka"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "boroko"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "ho mahloko a ka"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "bofufa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:26.176023119Z",
+  "model": "glm-5.3"
+}

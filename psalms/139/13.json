@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Hobane u ile ua ntloaetsa ka ho bopa ⟨את⟩ lengoa la ka; ua mmina ka sehleng sa mmae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "u ile ua ntloaetsa ka ho bopa"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "lengoa la ka"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "ua mmina"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "ka sehleng sa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mmae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:36.081077597Z",
+  "model": "glm-5.3"
+}

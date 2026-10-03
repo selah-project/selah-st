@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Jobe a emiswa, a hlahlama ⟨את⟩ kobo ya hae, a rala ⟨את⟩ hloho ya hae, a wa fatshe, a khumama.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a emiswa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobe"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a hlahlama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobo ya hae"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "kobo ya hae"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "a rala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho ya hae"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hloho ya hae"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "a wa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a khumama"
+    }
+  ],
+  "timestamp": "2026-10-03T11:19:41.945710538Z",
+  "model": "glm-5.3"
+}

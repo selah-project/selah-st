@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Tlohong, le bone mishomo ya Yahwe, ya ileng a etsa dimathathamo lefatsheheng.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tlohong"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "mishomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "dimathathamo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheheng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:49.241711684Z",
+  "model": "glm-5.3"
+}

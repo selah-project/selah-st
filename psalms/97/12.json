@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 97,
+  "translation": "Thabang, lona ba lokileng, ho Yahwe, mme le fokohe bakeng sa keteko ya hae e halalelang.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Thabang"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "lona ba lokileng"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "mme le fokohe"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "bakeng sa keteko"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "e halalelang ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:26.559460416Z",
+  "model": "glm-5.3"
+}

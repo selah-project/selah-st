@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ba tla ja ⟨את⟩ nama bosiu boo; e kobotsoe ka mollo, le bo-joang bo sa phaphametsweng, le meroho e lang mme ba e ja.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "mme ba tla ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "boo"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "e kobotsoe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "bo-joang bo sa phaphametsweng"
+    },
+    {
+      "surface": "על",
+      "gloss": "le"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "meroho e lang"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "mme ba e ja"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:55.124901254Z",
+  "model": "glm-5.3"
+}

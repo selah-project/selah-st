@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 58,
+  "translation": "Na ka 'nete, ⟨ka thularo⟩, tsedeke le e bolela? Na le ahlola ka ⟨toka⟩, bana ba batho?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Na ka 'nete"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ka thularo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "le e bolela"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ka ⟨toka⟩"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "le ahlola"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba batho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:25.095212625Z",
+  "model": "glm-5.3"
+}

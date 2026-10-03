@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme a re ho Moshe: Nna, mots'ualli oa hao, Yitro, ke tla ho wena, le mosali oa hao le bara ba hae ba babeli hamoho le eena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "mots'ualli oa hao"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ke tla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "le mosali oa hao"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "le ba babeli"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bara ba hae"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "hamoho le eena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:37.439871247Z",
+  "model": "glm-5.3"
+}

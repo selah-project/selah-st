@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Hobaneng o khutlisa letsoho la hao, ee leja la hao le letona? E ntšhe ka mahareng a hao, e fele.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "o khutlisa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hao"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "leja la hao le letona"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ka mahareng"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "a hao"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "e fele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:07.005627482Z",
+  "model": "glm-5.3"
+}

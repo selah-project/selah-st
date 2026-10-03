@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Hobane lesolla joaloka borotho ke jele, mme noo ea ka ke e hlakantse ka lla.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "lesolla"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "joaloka borotho"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ke jele"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "noo ea ka"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ka lla"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ke e hlakantse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:45.885294150Z",
+  "model": "glm-5.3"
+}

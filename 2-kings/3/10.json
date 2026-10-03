@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme morena wa Yisraele a re: Ao! hobane Yahwe o bitsitse barena ba bararo bona, hore a be nehe ⟨את⟩ bona letsohong la Moabe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ao!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o bitsitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "barena ba bararo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "barena"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hore a be nehe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "barena ba bararo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "letsohong la"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:17:32.878008501Z",
+  "model": "glm-5.3"
+}

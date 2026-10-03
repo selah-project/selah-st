@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme o tla bola ⟨את⟩ namane pele ha Yahwe, monyako wa tehente ya kopano.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "o tla bola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namane"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "namane"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "monyako wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tehente ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:08.750423998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme a bola ⟨את⟩ baprista bohle ba maemong a phahameng bao e neng e le teng hodima dialutare, mme a chesa ⟨את⟩ mafufu a batho hodima tsona; mme a boela Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "a bola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baprista bohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ba maemong a phahameng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "e neng e le teng"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "dialutare"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "a chesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "gloss note": "",
+      "marks": "mafufu"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mafufu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a batho"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hodima tsona"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:23.856980227Z",
+  "model": "glm-5.3"
+}

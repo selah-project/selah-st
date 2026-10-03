@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ba tlose bokaelo ba hae, le bokaelo ba setjhaba sohle, ka pele gatente ya kopano, ho etsa mosebetsi wa Mishkane;",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Mme ba tlose bokaelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokaelo ba hae"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "bokaelo ba hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bokaelo ba setjhaba sohle"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "bokaelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ba setjhaba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka pele ga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebetsi wa Mishkane"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-03T06:20:29.952485898Z",
+  "model": "glm-5.3"
+}

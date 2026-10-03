@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Ha Elyone a abetse merabe majaratha, ha a arolang bana ba Adame, o ile a beha meeli ea merabe ka pallo ea bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "בהנחל",
+      "gloss": "Ha a abetse"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "merabe"
+    },
+    {
+      "surface": "בהפרידו",
+      "gloss": "ha a arolang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba Adame"
+    },
+    {
+      "surface": "יצב",
+      "gloss": "o ile a beha"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "meeli"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ea merabe"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "ka pallo ea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T07:01:21.003101233Z",
+  "model": "glm-5.3"
+}

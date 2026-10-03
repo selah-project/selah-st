@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Pelo ea bahlalefi e ntlong ea lithoko, mme pelo ea batho ba sitang e ntlong ea thabo.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Pelo"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ea bahlalefi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e ntlong"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ea lithoko"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "mme pelo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ea batho ba sitang"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e ntlong"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ea thabo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:14.809261943Z",
+  "model": "glm-5.3"
+}

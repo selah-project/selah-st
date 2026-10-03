@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme Baemitsrayime ba tla tseba hore nna ke Yahwe, ha ke keteka ka ho Pharaone, ka diteraka tsa hae le ka ba ba palang meraka.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "mme ba tla tseba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Baemitsrayime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "ha ke keteka"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ka ho Pharaone"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ka diteraka tsa hae"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "le ka ba ba palang meraka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:52.453636528Z",
+  "model": "glm-5.3"
+}

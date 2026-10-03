@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Ya Dawide. O se ke wa tukela ka baka la ba bobe, o se ke wa qenehela ba etsang bolohe.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "tukela"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ka baka la ba bobe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "qenehela"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "bolohe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:14.861905893Z",
+  "model": "glm-5.3"
+}

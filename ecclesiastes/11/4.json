@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ya hlokomedisang ruakh ha a jala; mme ya shebileng maru ha a kotula.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ya hlokomedisang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "a jala"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mme ya shebileng"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "a kotula"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:34.061469600Z",
+  "model": "glm-5.3"
+}

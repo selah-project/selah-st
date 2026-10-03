@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ba phatlalatsa ho Mordekai ⟨את⟩ mantswe a Estere.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ba phatlalatsa"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ho Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe a Estere"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "a Estere"
+    }
+  ],
+  "timestamp": "2026-10-03T11:46:06.348666014Z",
+  "model": "glm-5.3"
+}

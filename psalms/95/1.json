@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 95,
+  "translation": "Tlohang, re opelle Yahwe, re hlolle ho Tshwao ya tolokolo ya rona.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tlohang"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "re opelle"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "re hlolle"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ho Tshwao"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "tolo kelo ya rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:28.150765009Z",
+  "model": "glm-5.3"
+}

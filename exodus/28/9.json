@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme o tla nka ⟨את⟩ maja a pedi a shohame, mme o tla bula ho tsona mabitso a bara ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "o tla nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maja a pedi a shohame"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "a pedi"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "maja"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "a shohame"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "mme o tla bula"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mabitso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:25.118412548Z",
+  "model": "glm-5.3"
+}

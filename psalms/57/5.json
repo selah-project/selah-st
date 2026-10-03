@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 57,
+  "translation": "Moya oa ka o phakeng da dimpho, ke robetše mahareng a ⟨⟨mollo⟩⟩ — bana ba batho — mašo a bona khamele le matswe a bona, le leleme la bona leleme la sefoka se seholo.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mahareng a"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "dimpho"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ke robetše"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "a mollong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mašo a bona"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "khamele"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "le matswe a bona"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "le leleme la bona"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sefoka"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "se seholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:06.772268256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Ka mpeng o tshware mokoro wa ⟨את⟩ morwarawe, mme ka matla a hae a hlola ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "ka mpeng"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "mokoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwarawe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "morwarawe"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "mme ka matla a hae"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "a hlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:02:24.190570882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme o ne a tsamaya selemo ka selemo, a potoloha Betele, le Gilgale, le Mispaha; mme a atisa kahlolo ⟨את⟩ Yisraele ⟨את⟩ libaka tsohle tsena.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "a tsamaya"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "selemo ka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "selemong"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "a potoloha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ele"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "le Gilgale"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "le Mispaha"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "a atisa kahlolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libaka tsohle tsena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "libaka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tsena"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:18.015652077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme Yitshake a ba re ho bona: Hobaneng le tla ho nna, e le hle le ntlohile, mme le ntumme le tswa hara lona?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "le tla"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e le hle"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "le ntlohile"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "le ntumme"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ le tswa hara lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:29:09.671413717Z",
+  "model": "glm-5.3"
+}

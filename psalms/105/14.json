@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Ha a lumelle motho ho ba otsa, mme o ile a hlahisa dikgotla bakeng sa bona, hodima baloi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "a lumelle"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ho ba otsa"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "mme o ile a hlahisa dikgotla"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hodima bona bakeng sa bona"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "baloi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:30.318823281Z",
+  "model": "glm-5.3"
+}

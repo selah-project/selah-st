@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme o tla etsa mapalo a nama ea sehlare sa shittime, mme o tla apesa ⟨את⟩ mapalo ka khauta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tla etsa"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mapalo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "a nama ea sehlare"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sa shittime"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mme o tla apesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mapalo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "khauta"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:24.701173898Z",
+  "model": "glm-5.3"
+}

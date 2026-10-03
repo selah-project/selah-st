@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "O ileng a etsa hore batho ba roule ka hodima dihloho tsa rona; re kene mollo le metsing, mme o re tsohlodisitse sebakeng se tlalang.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "O ileng a etsa hore ba roule"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "batho"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "ka hodima dihloho tsa rona"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "re kene"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "le metsing"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "mme o re tsohlodisitse"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "sebakeng se tlalang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:19.026716090Z",
+  "model": "glm-5.3"
+}

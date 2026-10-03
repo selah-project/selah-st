@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 10:9",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "E ne e le <gibbor> ya motlhodi ya tsamaya pele ga Yahwe; kahoo ho bolelwa: jwaloka Nimrode, <gibbor> motlhodi pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "E ne e le"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e le"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "<gibbor>"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "ya motlhodi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kahoo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kahoo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ho bolelwa"
+    },
+    {
+      "surface": "כנמרד",
+      "gloss": "jwaloka Nimrode"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "<gibbor>"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "motlhodi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:15.564067325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Yahwe o a haha ⟨את⟩ Yerushalayime, a bokella ba hlahlamileng ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "o a haha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "ba hlahlamileng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "a bokella"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:36.486480026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ruakh ya Yahwe e buile ka hare ho ⟨na⟩, mme lentswe la hae le ka hodima lulume wa ⟨ka⟩.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "e buile"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka hare ho ⟨na⟩"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "mme lentswe la hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lulume wa ⟨ka⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T08:00:03.904076628Z",
+  "model": "glm-5.3"
+}

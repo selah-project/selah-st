@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Le letsatsi ⟨se na le eona⟩ o le sa bone, mme o sa tsebe letho; mona ho na le phomolo e ntseng e feta eo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a bone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha a"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "phomolo"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "eo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:36.760150572Z",
+  "model": "glm-5.3"
+}

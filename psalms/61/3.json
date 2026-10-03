@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 61,
+  "translation": "Ho tloha ho qetello ya lefatshe ke tla bitsa ho wena; ha pelong ya ka e utlwahalla e bopegile, o ntatalelle ho lejwe le phahameng ho nna.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Ho tloha ho qetello ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke tla bitsa"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "ha e bopegile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sebeng sa pelong ya ka"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ho lejwe"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "le phahameng"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "o ntatalelle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:43.447295523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 124,
+  "translation": "Thuso ya rona ke lebitso la Yahwe, ya entseng ⟨את⟩ mahodimo le ⟨את⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "thuso ya rona"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "lebitso la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya entseng"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:47.558527348Z",
+  "model": "glm-5.3"
+}

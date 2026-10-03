@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme ba nka ⟨את⟩ Lote le ⟨את⟩ thupelo ya hae, mora wa mora'abo Abrahame, mme ba tsamaea; mme ⟨e ne⟩ a hlaha Sodome.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Mme ba nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lote"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "thupelo ya hae"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "thupelo ya hae"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mora'abo"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mme ba tsamaea"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme e ne"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a hlaha"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "Sodome"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:36.436404056Z",
+  "model": "glm-5.3"
+}

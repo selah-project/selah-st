@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 140,
+  "translation": "Yahwe, Adonai, matla a polokeho ya ka, o ntseketse hloho ya ka letsatsing la ntwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matla a"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "polokeho ya ka"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "o ntseketse"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "hloho ya ka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letsatsing la"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ntwa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:15.810254061Z",
+  "model": "glm-5.3"
+}

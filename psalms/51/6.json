@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Ho wena, ho wena o mong feela ke ile ka seba, mme tlokwa o ile wa e etsa mahlong a hao, hore o tla loka mahlong a puo ya hao, o tle o hlwekile kahlolong ya hao.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ho wena o mong feela"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ke ile ka seba"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "mme tlokwa"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mahlong a hao"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "o ile wa e etsa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "o tla loka"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "mahlong a puo ya hao"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "o tle o hlwekile"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "kahlolong ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:16.170583799Z",
+  "model": "glm-5.3"
+}

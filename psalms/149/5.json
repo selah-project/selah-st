@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 149,
+  "translation": "Ba-hasede ba tla thaba ka kgalalelo, ba tla bina ka lintho tse phahameng holim'a malapeng a bona.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "ba tla thaba"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ba-hasede"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "ka kgalalelo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ba tla bina"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "malapeng a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:57.006980021Z",
+  "model": "glm-5.3"
+}

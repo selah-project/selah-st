@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Ba qhetla sechaba sa hao, Yahwe, mme ba hlobofatsa lefa la hao.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "sechaba sa hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "ba qhetla"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "mme lefa la hao"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ba hlobofatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:04.021674106Z",
+  "model": "glm-5.3"
+}

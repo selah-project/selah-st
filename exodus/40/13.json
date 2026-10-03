@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "O tla apara ⟨את⟩ Aharone ka diaparo tse halalelang, o mo lotse, o mo halaletse, mme o tla sebeletsa e le moprista ho ka.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "o tla apara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tse halalelang"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tse halalelang"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "o mo lotse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "o mo halaletse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "o tla sebeletsa e le moprista"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ka"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:14.377686285Z",
+  "model": "glm-5.3"
+}

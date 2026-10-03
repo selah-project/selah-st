@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "le ⟨את⟩ sebakeng sa borwa, le ⟨את⟩ sekakala, lewatle la Yerikho, toropo ya dithlare tsa date, ho fihlela ho Tsoare:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "sebakeng sa borwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "sekakala"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "ya dithlare tsa date"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoare"
+    }
+  ],
+  "timestamp": "2026-10-03T07:02:21.988960745Z",
+  "model": "glm-5.3"
+}

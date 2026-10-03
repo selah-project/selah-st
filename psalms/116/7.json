@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Khutla, moya oa ka, ho phomolo ea hao, hobane Yahwe o ile a o lefola ka molemo.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Khutla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "ho phomolo ea hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "o ile a lefola ka molemo"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "ho oena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:34.685146050Z",
+  "model": "glm-5.3"
+}

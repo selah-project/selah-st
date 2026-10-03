@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Tsoha, Yahwe, Ntoloke, Eloha ea ka; hobane U otse ⟨את⟩ matla-a-ngoatla ba hlōileng Nna, U phaminitse meno ea babelo.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tsoha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Ntoloke"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloha ea ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "U otse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matla-a-ngoatla ba hlōileng Nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "matla-a-ngoatla"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ba hlōileng Nna"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "matla-a-ngoatla"
+    },
+    {
+      "surface": "שני",
+      "gloss": "meno"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ea babelo"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "U phaminitse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:38.668635528Z",
+  "model": "glm-5.3"
+}

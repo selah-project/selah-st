@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Ka lentsoe la Yahwe mahodimo a entsoe, le ruakh ya molomo wa hae mophalaohle wa tsona.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Ka lentsoe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "a entsoe"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "le ruakh ya"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molomo wa hae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mophalaohle"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "wa tsona (mophala)"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:04.253747325Z",
+  "model": "glm-5.3"
+}

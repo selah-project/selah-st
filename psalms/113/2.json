@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 113,
+  "translation": "Lebitso la Yahwe le be le a hlohonolofatswa, ho tloha joale ho ya ho le ka mehla.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "le be"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "le a hlohonolofatswa"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ho tloha joale"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "le ka mehla"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:19.843877050Z",
+  "model": "glm-5.3"
+}

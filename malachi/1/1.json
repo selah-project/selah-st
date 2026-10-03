@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Boima ba lentsoe la Yahwe ho Yisraele, ka letsoho la Malakhi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "boima ba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentsoe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho la"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malakhi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:20:40.458145913Z",
+  "model": "glm-5.3"
+}

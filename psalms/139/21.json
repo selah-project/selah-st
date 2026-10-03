@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Ha e sa be hore ba mo hloyang, Yahwe, ke ba hloya; mme le ba ipitsitseng kgahlanong le Wena, ke ba hlanela?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ha e sa be hore"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "ba mo hloyang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "ke ba hloya"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "le ba ipitsitseng kgahlanong le Wena"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "ke ba hlanela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:24.773086668Z",
+  "model": "glm-5.3"
+}

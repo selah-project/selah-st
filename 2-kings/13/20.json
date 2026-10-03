@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme Elishae a swa, mme ba mo lulametsa. Mme ditlhaselo tsa Moaba di ne di tla lefatsheng, ka ho tla ha selemo.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mme a swa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishae"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "mme ba mo lulametsa"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "mme ditlhaselo tsa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "di ne di tla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ka ho tla ha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:24:06.937926495Z",
+  "model": "glm-5.3"
+}

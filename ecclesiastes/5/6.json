@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Hobane ho bongata ba litoro le mafeela le mantswe a menehelo, ⟨is⟩ tshabo ya ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ho bongata ba"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "litoro"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "le mafeela"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "le mantswe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "a menehelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "empa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "tshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T13:16:23.531070759Z",
+  "model": "glm-5.3"
+}

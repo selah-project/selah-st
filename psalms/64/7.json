@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 64,
+  "translation": "Ba batla ditlolohali; ba phethile hore: re latotse batlo e sa batloang; mme se ka hare sa motho le pelo ke sa tebileng.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "Ba batla"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ditlolohali"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "ba phethile"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "batlo"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "e sa batloang"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "mme se ka hare"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa motho"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "le pelo"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ke sa tebileng"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:20.727769295Z",
+  "model": "glm-5.3"
+}

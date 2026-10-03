@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Hobane dikahlolo tsa hae kaofela di le pele ho ka, mme melao ya hae ha ke e tlose ho 'na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "dikahlolo tsa hae"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "di le pele ho ka"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "mme melao ya hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ke"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "e tlose"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:12.264001827Z",
+  "model": "glm-5.3"
+}

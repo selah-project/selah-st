@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme bara bohle ba Yisraele ba etsa jwalokaha Yahwe a laetse ⟨את⟩ Moshe le ⟨את⟩ Aharone; jwalo ba ile ba etsa.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalokaha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba ile ba etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:58.089098093Z",
+  "model": "glm-5.3"
+}

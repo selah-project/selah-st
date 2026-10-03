@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme jwale, bona, ke tlitse ⟨את⟩ mathwasong a litholoana tsa lefatsheleo o nkaneng, Yahwe; mme o tla e beha pele ga Yahwe Elohim ya hao, mme o tla inamisa tlhoho pele ga Yahwe Elohim ya hao.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jwale"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "ke tlitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mathwasong a litholoana"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mathwasong"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "a litholoana"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tsa lefatsheleo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "o nkaneng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "mme o tla e beha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "mme o tla inamisa tlhoho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:34.935977785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Na ha ho tloha jwale o ile a mmita ho ⟨'na⟩: Ntate, monga wa bocha ba ka, ke wena?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ho tloha jwale"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "o ile a mmita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ntate"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "monga wa"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "bocha ba ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ke wena"
+    }
+  ],
+  "timestamp": "2026-10-03T13:02:10.040396051Z",
+  "model": "glm-5.3"
+}

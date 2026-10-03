@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Ho potoloha bobelebeledi, ba hlepheng ba tsamaya ka mehla, moo tlhotlo e phahamiswang ke bara ba batho.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba hlepheng"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "ba tsamaya ka mehla"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "moo ... e phahamiswang"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "tlhotlo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ke bara"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba batho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:10.661845638Z",
+  "model": "glm-5.3"
+}

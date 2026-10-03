@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Hobane ya khelohanang ke se hanyetswang ke Yahwe, mme sephiri sa hae se le ⟨את⟩ ba lokileng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "se hanyetswang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "ya khelohanang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba lokileng"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sephiri sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:06:31.176293857Z",
+  "model": "glm-5.3"
+}

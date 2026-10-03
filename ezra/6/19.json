@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme bana ba pherekano ba etsa ⟨את⟩ Paseka ka la bolesome le bone la kgwedi ya pele.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba etsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "pherekano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ka la bolesome le bone"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya pele"
+    }
+  ],
+  "timestamp": "2026-10-03T11:58:53.209610977Z",
+  "model": "glm-5.3"
+}

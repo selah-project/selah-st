@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Le bontše teboho ho Yahwe, hobane ⟨o⟩ molemo, hobane hesede ya hae ⟨ea⟩ kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Le bontše teboho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kahosafeleng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:38.173572970Z",
+  "model": "glm-5.3"
+}

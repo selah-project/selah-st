@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ha o rome selekane le bona, le le melimo ea bona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "o rome"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "le le melimo ea bona"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:49.557673513Z",
+  "model": "glm-5.3"
+}

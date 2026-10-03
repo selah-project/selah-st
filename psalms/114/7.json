@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 114,
+  "translation": "Pele ho Adonai, leratadile, lefatshe; pele ho Eloha ya Yaakobo!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "Pele ho"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "leratadile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:27.621957815Z",
+  "model": "glm-5.3"
+}

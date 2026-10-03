@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Thapelo ya ka e tle pele ya hao; o tlame sehlana sa hao ho kueho ya ka.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "e tle"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ya hao"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "o tlame"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sehlana sa hao"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ho kueho ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:41.745802950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ho tloha ho halofo ya mokoka oa Menashe: ⟨את⟩ Taanake le mehala ea eona, le ⟨את⟩ Gath-Rimone le mehala ea eona; metse mmedi.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "mme ho tloha ho halofo ya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mokoka oa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanake"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mehala ea eona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mehala ea eona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Gath-Rimone"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mehala ea eona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mehala ea eona"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mmedi"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:31.028948935Z",
+  "model": "glm-5.3"
+}

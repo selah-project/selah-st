@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Yahwe o tla mo sireletsa, a mo pholose bophelo; o tla dula a babatseha ⟨ho feta⟩ lefatsheheng; mme o se ke wa mo neha thlokong ya ba mo hloyang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "o tla mo sireletsa"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "a mo pholose bophelo"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "o tla babatseha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheheng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "mo neha"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "thlokong ya"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ba mo hloyang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:31.705394512Z",
+  "model": "glm-5.3"
+}

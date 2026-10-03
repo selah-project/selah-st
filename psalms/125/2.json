@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 125,
+  "translation": "Yerushalayime — dithaba di dikologile eona, mme Yahwe o dikologile sechaba sa hae, ho tloha jwale ho fihlela kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "di dikologile"
+    },
+    {
+      "surface": "לה",
+      "gloss": "eona"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "o dikologile"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sechaba sa hae"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ho tloha jwale"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahosafeleng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:02.809027750Z",
+  "model": "glm-5.3"
+}

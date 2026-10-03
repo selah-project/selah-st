@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Ka letsatsi la khotsoalo ya ka Adonai ke mo batlile; letsoho la ka bosiu le phalletse pele, mme ha le a khaotla; moya oa ka o ile wa hana ho fumana tlhomphiso.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letsatsi"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "la khotsoalo ya ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ke mo batlile"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "letsoho la ka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "le phalletse pele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "le a khaotla"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "o ile wa hana"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "ho fumana tlhomphiso"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:06.141270392Z",
+  "model": "glm-5.3"
+}

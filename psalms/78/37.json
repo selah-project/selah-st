@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme pelo ya bona e ne e sa lokiwa le eena, mme ba sa tshephehe selekaneng sa hae.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "mme pelo ya bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha e"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sa lokiwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "tshephehe"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "selekaneng sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:17.164521149Z",
+  "model": "glm-5.3"
+}

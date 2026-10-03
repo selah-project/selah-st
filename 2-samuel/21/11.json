@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ho bolelwa Dawide ⟨את⟩ seo Ritsepha, morali oa Aja, mokhatla oa Sause, a se entseng.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ho bolelwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo Ritsepha a se entseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "a se entseng"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritsepha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morali oa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aja"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "mokhatla oa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sause"
+    }
+  ],
+  "timestamp": "2026-10-03T07:57:44.206352253Z",
+  "model": "glm-5.3"
+}

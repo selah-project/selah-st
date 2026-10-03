@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Uria o ile a robala molongwa oa ⟨את⟩ ntlo ea morena, le balekane bohle ba monga oa hae, mme ha a ea theoha ho ea ntlong ea hae.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "o ile a robala"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "molongwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ea morena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balekane bohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "balekane"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ba monga oa hae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "a ea theoha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ea"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlong ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:51:12.417600715Z",
+  "model": "glm-5.3"
+}

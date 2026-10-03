@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Satane a araba ⟨את⟩ Yahwe, mme a re: Lerato la letlalo bakeng sa la letlalo, le tsohle tseo motho a nang le tsona o tla li fa bakeng sa moya wa bophelo ba hae.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o tla li fa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa bophelo ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:19:31.681687495Z",
+  "model": "glm-5.3"
+}

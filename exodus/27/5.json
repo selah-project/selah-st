@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme o tla beha ⟨את⟩ yona tlase ho mokelle wa alatara, ho tloha maseo; mme letamo le tla fihla ho bohareng ba alatara.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Mme o tla beha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlase ho"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "mokelle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "wa alatara"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ho tloha maseo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mme e tla ba"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "letamo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e tla fihla ho"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "bohareng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ba alatara"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:06.055417147Z",
+  "model": "glm-5.3"
+}

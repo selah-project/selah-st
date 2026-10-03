@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Hobane moya wa ka o sotoloha ka mafura, mme bophelo ba ka bo fihlile ho Sheole.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "o sotoloha"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "mme bophelo ba ka"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ho Sheole"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "bo fihlile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:41.745919805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme o behe ⟨את⟩ altara ya polokeho pherong ya mongwapeng wa Mishkane, wa Ohel ya Kopano.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Mme o behe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altara ya polokeho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altara"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya polokeho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pherong ya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mongwapeng"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:02.642455104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ho arongeng ho ne ho se letho, ntle feela ma lumela a mabedi ao Moshe a neng a beile Horebe, ao Yahwe a ileng a ruma selekane le bana ba Yisraele ha ba tswa Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ho ne ho se letho"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "ho arongeng"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ntle feela"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "ma lumela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neng a beile"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Horebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a ileng a ruma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ha ba tswa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T12:24:05.342113268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Ka nako eo mahlo a bofula a tla buloa, mme ditsebe tsa basisifatsi di tla buloa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "a tla buloa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "bofula"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "mme ditsebe tsa"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "basisifatsi"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "di tla buloa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:47:36.152797399Z",
+  "model": "glm-5.3"
+}

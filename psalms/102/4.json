@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Hobane mantswe a ka a fedile e le mouoane, mme marapo a ka a chesitsoe e le mollo o chesang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "a fedile"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "e le mouoane"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mantswe a ka"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "marapo a ka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "e le"
+    },
+    {
+      "surface": "קד",
+      "gloss": "mollo o chesang"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "a chesitsoe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:20.537698096Z",
+  "model": "glm-5.3"
+}

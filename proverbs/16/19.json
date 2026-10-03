@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Ho ba boikhathollong ba ruakh le mafutsane, ho feta ho arola ⟨את⟩ sehlaho le ⟨את⟩ bahale.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "boikhathollo ba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafutsane"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "mafutsane"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "ho arola"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "sehlaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahale"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "bahale"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:35.082748049Z",
+  "model": "glm-5.3"
+}

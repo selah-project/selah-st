@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme moremohadi wa Sheba a utwa ⟨את⟩ phumo ya Solomone, ka lebaka la Lebitso la Yahwe, a tla ho mo leka ka diphuputso tse thata.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Mme moremohadi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "a utwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phumo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "phumo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ka lebaka la Lebitso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "ho mo leka"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "ka diphuputso tse thata"
+    }
+  ],
+  "timestamp": "2026-10-03T08:07:29.133900303Z",
+  "model": "glm-5.3"
+}

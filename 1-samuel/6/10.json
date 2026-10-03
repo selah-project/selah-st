@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme banna ba etsa jwalo; ba nka lipodi tse pedi tse jestang mashi, ba li mamalletse koloieng, mme ⟨את⟩ manana a tsona ba a tswalletse lapeng.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa jwalo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ba nka"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "lipodi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "tse jestang mashi"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "ba li mamalletse"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "koloieng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manana a tsona"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "manana a tsona"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ba a tswalletse"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "lapeng"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:50.257664400Z",
+  "model": "glm-5.3"
+}

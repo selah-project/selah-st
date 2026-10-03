@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "le ⟨את⟩ mafura a lotso le ⟨את⟩ phefumoloho ya dinamane bakeng sa sehalalelong; ho latela tsohle tseo ke laileng tona, ba tla di etsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a lotso"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura a"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "lotso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phefumoloho ya dinamane"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "phefumoloho ya"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "dinamane"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "bakeng sa sehalalelong"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ho latela tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ke laileng tona"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ba tla di etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:48.796036707Z",
+  "model": "glm-5.3"
+}

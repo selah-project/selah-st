@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme Yahwe Elohim ya hao o tla ela ⟨את⟩ pelo ya hao le ⟨את⟩ pelo ya peo ya hao, hore u rate Yahwe Elohim ya hao ka pelo ya hao kaofela le ka moya oa bophelo ba hao oa hae kaofela, bakeng sa bophelo ba hao.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "o tla ela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya hao"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya hao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "pelo ya peo ya hao"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ya peo ya hao"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "hore u rate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka … kaofela"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya hao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka … kaofela"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya oa bophelo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "bophelo ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T07:00:42.190983651Z",
+  "model": "glm-5.3"
+}

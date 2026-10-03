@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 4:24",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme letsoho la bana ba Yisraele le ile la tswela pele, le nama le thata holim'a Yabine, morena wa Kenane, ho fihlela ba rekile ⟨את⟩ Yabine, morena wa Kenane.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "le ile la tswela pele"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho la"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "le nama"
+    },
+    {
+      "surface": "וקשה",
+      "gloss": "le thata"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabine"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הכריתו",
+      "gloss": "ba rekile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabine"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabine"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenane"
+    }
+  ],
+  "timestamp": "2026-10-03T07:20:05.095860729Z",
+  "model": "glm-5.3"
+}

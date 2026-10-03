@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Pele nka its'oaroa, ke ne ke latlhileng; mme joale ke boloka lentsoe la hao.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "Pele"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "nka its'oaroa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "ke latlhileng"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mme joale"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lentsoe la hao"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ke boloka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:17.442768859Z",
+  "model": "glm-5.3"
+}

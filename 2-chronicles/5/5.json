@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme ba hlahisa ⟨את⟩ arka le ⟨את⟩ tenda ya kopano le ⟨את⟩ didiriswa tsohle tsa kgalalelo tse neng di le tendeng; baprista ba Malivi a di hlahisa.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ba hlahisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tenda ya kopano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa kgalalelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsa kgalalelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse neng di le"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tendeng"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "a di hlahisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ di"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ba Malivi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:24:19.870041889Z",
+  "model": "glm-5.3"
+}

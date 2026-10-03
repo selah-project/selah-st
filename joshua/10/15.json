@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Yehoshua o ile a kgutla, o le le Yisraele kaofela le eena, ho setsi sa sesole sa Gilgale.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a kgutla"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le... kaofela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "setsi sa sesole"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "sa Gilgale"
+    }
+  ],
+  "timestamp": "2026-10-03T07:08:44.500765674Z",
+  "model": "glm-5.3"
+}

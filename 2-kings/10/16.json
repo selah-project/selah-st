@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "A re: Tla le ⟨את⟩ nna, o bone kananelo ya ka bakeng sa Yahwe. Ba mo kolotisa koloi ya hae ya ntwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "tla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "le ⟨את⟩ nna"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "o bone"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "kananelo ya ka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bakeng sa Yahwe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "ba mo kolotisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "koloi ya hae ya ntwa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:22:04.991467259Z",
+  "model": "glm-5.3"
+}

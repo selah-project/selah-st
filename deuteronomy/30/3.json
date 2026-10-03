@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "mme Yahwe Elohim ya hao a kgutlise ⟨את⟩ bohyeseng ba hao, mme a ka u haele mohau, mme a kgutle a o bokelle ho tloha merabeng eohle eo Yahwe Elohim ya hao a o phalalitseng ho yona",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "a kgutlise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohyeseng ba hao"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "bohyeseng ba hao"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "a ka u haele mohau"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a kgutle"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "a o bokelle"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tloha eohle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "merabeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "a o phalalitseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ho yona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:00:45.798479680Z",
+  "model": "glm-5.3"
+}

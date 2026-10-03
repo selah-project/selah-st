@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Empa ho tloha setlhareng sa tsebo ya molemo le mpe, o se ke wa ja ho sona; hobane ka letsatsi leo o ka jang ka lona, o tla bolaoa ka pelo.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "empa ho tloha setlhareng"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "sa tsebo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ya molemo"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "le mpe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho sona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "o ka jang"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bolaoa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ka pelo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:27.265910303Z",
+  "model": "glm-5.3"
+}

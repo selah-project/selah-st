@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 11:15",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ba theoha ba bararo har'a ba mashome a mararo, bao e neng e le ditlhogo, ho ya letlapeng ho ya ho Dawide, ho ya lejleng la Adulame, mme motsamao wa Bapelesete o ne o campileEmeke ya Refaime.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Ba theoha"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "ba bararo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "har'a"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "ba mashome a mararo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ditlhogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "letlapeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "lejleng la"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulame"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "mme motsamao wa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelesete"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "o ne o campile"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "Emeke ya"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaime"
+    }
+  ],
+  "timestamp": "2026-10-03T12:13:57.216483071Z",
+  "model": "glm-5.3"
+}

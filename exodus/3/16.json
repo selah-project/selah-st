@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Tsamaya, o kotle baholo ba Yisraele, o ba re: Yahwe, Elohim ya bo ntata lona, o ile a iponahatsa ho nna — Elohim ya Abrahame, ya Yitshake le ya Yaakobo — a re: Ke le ketekile ka hlompho, ke bone se le se etswang ho lona Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tsamaya"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "o tla kotlela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baholo ba Yisraele"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "o tla re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bo-ntata lona"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "o ile a iponahatsa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "le ya Yaakobo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ka hlompho"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ke le ketekile"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "se le se etswang ho lona"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "se le se etswang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T12:43:39.277239228Z",
+  "model": "glm-5.3"
+}

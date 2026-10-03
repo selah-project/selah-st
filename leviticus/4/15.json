@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme baholo ba phuthelelo ba be ⟨את⟩ matsoho a bona hodima hloho ya phare, pela Yahwe; mme a bolae ⟨את⟩ phare pela Yahwe.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "ba be"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo ba"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "phuthelelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsoho a bona"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "matsoho a bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho ya"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "phare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mme a bolae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phare"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "phare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:55.624456855Z",
+  "model": "glm-5.3"
+}

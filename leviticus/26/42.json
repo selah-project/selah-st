@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "mme ke tla hopola ⟨את⟩ selekane sa ka le Yaakobo, le hape ⟨את⟩ selekane sa ka le Yitshake, le hape ⟨את⟩ selekane sa ka le Abrahame ke tla se hopola, mme ⟨את⟩ lefatshe ke tla le hopola.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "mme ke tla hopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa ka le Yaakobo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "le hape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa ka le Yitshake"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "le hape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa ka le Abrahame"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ke tla se hopola"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mme lefatshe"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ke tla le hopola"
+    }
+  ],
+  "timestamp": "2026-10-03T12:46:52.339079833Z",
+  "model": "glm-5.3"
+}

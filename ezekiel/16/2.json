@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mora motho, tsebisa ⟨את⟩ Yerushalayime ⟨את⟩ dinyontsho tsa yona,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mora"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "tsebisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinyontsho tsa yona"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "dinyontsho tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:39:08.537763576Z",
+  "model": "glm-5.3"
+}

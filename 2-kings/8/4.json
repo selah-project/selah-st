@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme morena a bua le Gehazie, motsana oa motho ea Elohim, a re: Ke kopa, o mpolelle ⟨את⟩ tsohle tse kholo tseo Elishea a di entseng.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Mme morena"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gehazie"
+    },
+    {
+      "surface": "נער",
+      "gloss": "motsana oa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ea Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "o mpolelle"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle tse kholo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "tse kholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a entseng"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishea"
+    }
+  ],
+  "timestamp": "2026-10-03T08:21:40.473133022Z",
+  "model": "glm-5.3"
+}

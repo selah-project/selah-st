@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme wena, Yahwe, o se ke wa ba le hole; matla a ka, o phakame hore o mpuse thuso.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ba le hole"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "hore o mpuse thuso"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "o phakame"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:56.473744215Z",
+  "model": "glm-5.3"
+}

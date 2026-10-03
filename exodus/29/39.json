@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Konyana e le nngwe o tla e etsa hoseng, mme ⟨את⟩ konyana ea bobedi o tla e etsa pakeng tsa mafifatsho.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konyana e le nngwe"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "konyana"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla e etsa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "konyana ea bobedi"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "konyana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ea bobedi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla e etsa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mafifo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:08.810293474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Maru a mafifi a tsholla metsi, mahodimo a fana ka modumo; haesele metsu ya hao e tsamaya e khutla.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "a tsholla"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "maru a mafifi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "a fana ka"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "haesele"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "metsu ya hao"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "e tsamaya e khutla"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:47.812924298Z",
+  "model": "glm-5.3"
+}

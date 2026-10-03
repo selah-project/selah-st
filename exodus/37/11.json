@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme a e apesa ka gauta e hlwekileng, mme a etsa setshwarwa sa yona sa gauta se dikile ka ho fihlela.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "a apesa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e",
+      "marks": "yona (tafole)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hlwekileng"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa yona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "setshwarwa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "se dikile ka ho fihlela"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:01.303587473Z",
+  "model": "glm-5.3"
+}

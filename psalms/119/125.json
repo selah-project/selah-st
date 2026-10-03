@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Mophrishi wa hao ke `na; mphe k utloisiso, hore ke tle ke tsebe bopaki ba hao.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "mophrishi wa hao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke `na"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "mphe kutloisiso"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "hore ke tle ke tsebe"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bopaki ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:38.819475976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Hobane uena o ile wa etsa ka sephiring, empa nna ke tla etsa ⟨את⟩ taba ena pematsheng a Yisraele eohle le pematsheng a letsatsi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o ile wa etsa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka sephiring"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "empa nna"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba ena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pematsheng a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "le pematsheng a"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T07:52:01.787000454Z",
+  "model": "glm-5.3"
+}

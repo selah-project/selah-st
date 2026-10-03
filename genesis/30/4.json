@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme a mo neha ⟨את⟩ Bileha mošomi wa hae e le mosadi, mme Yaakobo a kena ho eena.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "a neha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bileha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bileha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "mošomi wa hae"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "e le mosadi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:31:59.354990130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Dula ⟨את⟩ le nna, o se ke wa tshoba; hobane ya batlang ⟨את⟩ bophelo ba ka o tla batla ⟨את⟩ bophelo ba hau; hobane wena o bolokwa le nna.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Dula"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tshoba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "batlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo ba ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo ba ka"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "o tla batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo ba hau"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bophelo ba hau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "o bolokwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T12:53:08.664259175Z",
+  "model": "glm-5.3"
+}

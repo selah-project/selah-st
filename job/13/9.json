@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Na e molemo hore a hlahlobe ⟨את⟩ lona? Kapa joaloka ha a foasa motho, le mo foasa yena?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "na e molemo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "a hlahlobe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "joaloka ha a foasa"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "le mo foasa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:22:48.734982235Z",
+  "model": "glm-5.3"
+}

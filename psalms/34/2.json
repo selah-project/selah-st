@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ke tla rorisa ⟨את⟩ Yahwe nakong eohle; thoriso ya hae e tla dula molomong wa ka ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ke tla rorisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nakong"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "thoriso ya hae"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "molomong wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:38.410857452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme ba romella ho ya ka lentsoe le jwale ka makgetlo a mane; mme ka ba arabela ka ⟨את⟩ lentsoe le jwale.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Mme ba romella"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ka lentsoe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le jwale"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ka mane"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "makgetlo"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "mme ka ba arabela"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ka lentsoe le jwale"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ka lentsoe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le jwale"
+    }
+  ],
+  "timestamp": "2026-10-03T12:04:56.264396581Z",
+  "model": "glm-5.3"
+}

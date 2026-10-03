@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme o ile a bona kgatelelo ea bona, a utlwa ⟨את⟩ sehu sa bona.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o ile a bona"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "kgatelelo ea"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehu sa bona"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "sehu sa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:57.046043380Z",
+  "model": "glm-5.3"
+}

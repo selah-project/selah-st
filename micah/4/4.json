@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ba tla dula, mong le mong ka tlase ho mofufu wa hae le ka tlase ho sefiki sa hae, mme ho se be ya tshosang; hobane molomo wa Yahwe Tsebaote o buile.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "mme ba tla dula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "mofufu wa hae"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "le ka tlase ho"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "sefiki sa hae"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ho se be"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "ya tshosang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:11:16.133915320Z",
+  "model": "glm-5.3"
+}

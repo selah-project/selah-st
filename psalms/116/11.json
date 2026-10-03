@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Ke ile ka re, ka tsamaiso ya ka ea potolohelo: motho o mong le o mong ke moqhanyetsi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ka re"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ka tsamaiso ya ka ea potolohelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o mong le o mong"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ke moqhanyetsi"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:13.167864809Z",
+  "model": "glm-5.3"
+}

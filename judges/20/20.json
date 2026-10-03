@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme banna ba Yisraele ba tswa ho ya ntweng le Benjamin, mme banna ba Yisraele ba hlophisa ⟨אתם⟩ ntohle ho ya Gibea.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ba tswa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ho ya ntweng"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamin"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "ba hlophisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "banna ba Yisraele ba hlophisitsweng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntohle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    }
+  ],
+  "timestamp": "2026-10-03T12:52:43.648856925Z",
+  "model": "glm-5.3"
+}

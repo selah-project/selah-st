@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 7:2",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Ba-Betele ba romile Sharetsere le Regeme-Meleke le banna ba bona, ho kopa ⟨את⟩ sefahleho sa Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ba romile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Ba- (karu 1 ya Betele)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Betele (karu 2)"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Sharetsere (karu 1)"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Sharetsere (karu 2)"
+    },
+    {
+      "surface": "וירגם ורגם",
+      "gloss": "le Regeme-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Meleke"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba bona"
+    },
+    {
+      "surface": "לחלות",
+      "gloss": "ho kopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:18:42.963417736Z",
+  "model": "glm-5.3"
+}

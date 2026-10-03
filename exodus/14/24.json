@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme e ile ea ba, ka thibeliso ea meso, Yahwe a shebella kampu ea Ba-Mitsrayime ka koti ea mollo le leru, mme a makatsa ⟨את⟩ kampu ea Ba-Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e ile ea ba"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "ka thibeliso ea"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "meso"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "a shebella"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ba-Mitsrayime"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ka koti ea"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "le leru"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "a makatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampu ea Ba-Mitsrayime"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Ba-Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:39.054409963Z",
+  "model": "glm-5.3"
+}

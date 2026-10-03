@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 96,
+  "translation": "Hobane Yahwe ke ya moholo, mme a dumeleloa haholo; o tshohisa ho feta melimo ohle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ya moholo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "mme a dumeleloa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "o tshohisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "melimo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:09.928581022Z",
+  "model": "glm-5.3"
+}

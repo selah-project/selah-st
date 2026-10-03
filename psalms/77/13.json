@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Ke tla nahana ka mosebetsi wa hau oohle, mme ka diphiri tsa hao ke tla bolela.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "ke tla nahana ka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka oohle"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "mosebetsi wa hau"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "mme ka diphiri tsa hao"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ke tla bolela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:18.915383887Z",
+  "model": "glm-5.3"
+}

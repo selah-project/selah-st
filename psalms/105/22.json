@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Hore a tlotse diamusi tsa hae ka thato ya hae, mme baholo ba hae a ba hlalahisa.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "hore a tlotse"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "diamusi tsa hae"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ka thato ya hae"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "mme baholo ba hae"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "a ba hlalahisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:22.268408656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme ka mahlo a bona, ke ile ka laela ⟨את⟩ Baruke, ka re:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ka laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruke"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruke"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ka mahlo a bona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka re"
+    }
+  ],
+  "timestamp": "2026-10-03T09:20:02.254609475Z",
+  "model": "glm-5.3"
+}

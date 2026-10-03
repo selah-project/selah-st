@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Tsenya ⟨את⟩ tseo ho bona, e be di sebetse ho etsa ⟨את⟩ mosebetsi wa ohela ya phutheho; mme o tla neha ⟨את⟩ tsona ho Balavi, motho ka mong ho ya ka sephetho sa mosebetsi wa hae.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tsenya"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ tseo ho bona"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "e be di"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ho sebetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebetsi"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "mosebetsi wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phutheho"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "mme o tla neha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ tsona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balavi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho ka mong"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ho ya ka sephetho sa"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "mosebetsi wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T12:47:17.468986570Z",
+  "model": "glm-5.3"
+}

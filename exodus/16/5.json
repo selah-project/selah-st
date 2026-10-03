@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme e tla ba ka letsatsi la botshelela, ba lokise ⟨את⟩ se ba tlang ho se isa; mme e tla ba habeli holima se ba phuthang letsatsi le letsatsi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "la botshelela"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "ba lokise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se ba tlang ho se isa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "ba tlang ho se isa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "habeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "ba phuthang"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:48.500126028Z",
+  "model": "glm-5.3"
+}

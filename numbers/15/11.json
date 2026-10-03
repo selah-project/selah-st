@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Ka mokgwa ona ho ka etswa ho kgomo e le ⟨⟨the⟩⟩ ngoe, kapa ho nku e le ⟨⟨the⟩⟩ ngoe, kapa ho namane, hara dikonyana, kapa hara dibudi.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Ka mokgwa ona"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ho ka etswa"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "ho kgomo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e le ⟨⟨the⟩⟩ ngoe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "ho nku"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e le ⟨⟨the⟩⟩ ngoe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "ho namane"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "hara dikonyana"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "hara dibudi"
+    }
+  ],
+  "timestamp": "2026-10-03T06:30:19.840018663Z",
+  "model": "glm-5.3"
+}

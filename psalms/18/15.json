@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme o ile a romella ditsebe tsa hae mme a di phalalatsa, mme dikhanyi tsa mollo tse ngata, mme a di tsuballa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mme o ile a romella"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ditsebe tsa hae"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "mme a di phalalatsa"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "mme dikhanyi tsa mollo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tse ngata"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "mme a di tsuballa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:06.231963417Z",
+  "model": "glm-5.3"
+}

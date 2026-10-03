@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 79,
+  "translation": "Re e-bile re le tshwenyo ho baahelani ba rona, tsheko le tlhoho-holo ho ba re ba dikarolo.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Re e-bile re le"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "tshwenyo"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ho baahelani ba rona"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "tsheko"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "le tlhoho-holo"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "ho ba re ba dikarolo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:40.220739566Z",
+  "model": "glm-5.3"
+}

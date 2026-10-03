@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 79,
+  "translation": "A lla la mothatishi letse ho fihla pel'a hao, ka tekano ea setho se seholo sa hao; boloka bana ba timo ya lefu.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "A e fihle"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pel'a hao"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "lla la mothatishi letse"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "mothatishi"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "ka tekano ea"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "setho se seholo sa hao"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "timo ya lefu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:32.242468463Z",
+  "model": "glm-5.3"
+}

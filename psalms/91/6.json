@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Ho mofu-oa-mahu a tsamayang lefifing, le tlokotlolo e senyang mosebaring.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ho mofu-oa-mahu"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "lefifing"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "a tsamayang"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "le tlokotlolo"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "e senyang"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "mosebaring"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:28.908481974Z",
+  "model": "glm-5.3"
+}

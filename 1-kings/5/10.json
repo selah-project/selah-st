@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme bohlale ba Shalomo bo ile boa feta bohlale ba bana bohle ba bochabela, le bohlale ba Mitsrayime bohle.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "bo ile boa feta"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bohlale ba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shalomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ho feta bohlale ba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "bochabela"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "le ho feta bohle"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bohlale ba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T08:03:42.076508734Z",
+  "model": "glm-5.3"
+}

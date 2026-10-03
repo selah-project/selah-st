@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme bara ba Yisraele ba hlaha ka Gilgale, mme ba etsa ⟨את⟩ Pasekha ka letsatsi la boleshome-pedi la kgwedi, mantsiboya, meqolaheng ya Yerikho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "ba hlaha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ka Gilgale"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pasekha"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pasekha"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "bo-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "leshome-pedi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mantsiboya"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "meqolaheng ya"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    }
+  ],
+  "timestamp": "2026-10-03T12:50:40.751484733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Ele a bitla ⟨את⟩ Samuele, a re: Samuele, mora ka. Mme enoa a re: Ke teng.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuele"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mora ka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ke teng"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:46.919510137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Ba khutlela mantsiboya, ba lla jwalo ka ntja, mme ba potoloha motse.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ba khutlela"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "mantsiboya"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ba lla"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "jwalo ka ntja"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "mme ba potoloha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:26.678929658Z",
+  "model": "glm-5.3"
+}

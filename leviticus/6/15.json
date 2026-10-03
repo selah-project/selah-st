@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme moprista ya tlotsitsweng, ya tla mo kemela ho tloha ho bana ba hae, o tla e etsa ⟨את⟩; e le molao wa kahohle ho Yahwe; o tla e tšolla ka ho felletseng.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Mme moprista"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ya tlotsitsweng"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ya tla mo kemela"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "ho tloha ho bana ba hae"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tla e etsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (minkha)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "e le molao"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa kahohle"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ka ho felletseng"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "o tla e tšolla"
+    }
+  ],
+  "timestamp": "2026-10-03T06:05:50.558437643Z",
+  "model": "glm-5.3"
+}

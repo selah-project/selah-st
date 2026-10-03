@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ha jwalo feela, nalaneng ya Torah ya Yahwe ho tlala thabo ya hae, mme Torong ya hae a e diphiphinyetse mosebetsing o mong le o mong wa letsatsi le bosiu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha jwalo feela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "feela"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Torah ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ho tlala thabo ya hae"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "mme Torong ya hae"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "a e diphiphinyetse"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mosebetsing o mong le o mong wa letsatsi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bosiu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:37.924595271Z",
+  "model": "glm-5.3"
+}

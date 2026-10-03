@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "Hobane dikete tse lekholo tsa lilemo mahlong a hao ke jwale ka maobane ha e feta, le jwale ka tšireletso ya bosiu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete tse lekholo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tsa lilemo"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mahlong a hao"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ke jwale ka"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "maobane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "e feta"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "le jwale ka tšireletso"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ya bosiu"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:24.352856399Z",
+  "model": "glm-5.3"
+}

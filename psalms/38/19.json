@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Hobane ke tla phatlalatsa letsoalo la ka; ke tla tshwenyeha ka sebe sa ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "letsoalo la ka"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ke tla phatlalatsa"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ke tla tshwenyeha"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "ka sebe sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:10.743379833Z",
+  "model": "glm-5.3"
+}

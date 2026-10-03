@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Na ho phahama ha hae ha ho le tsehetsa ⟨את⟩ lona, mme tsabo ya hae e tla wa holim'a lona?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "na a sa"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "ho phahama ha hae"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "ho le tsehetsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "mme tsabo ya hae"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "e tla wa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "holim'a lona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:22:48.735525852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Yehuda ya bokana ho batla ⟨ho tloha⟩ ho Yahwe; ba tle le ho tloha metse eohle ya Yehuda ho batla ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ya bokana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ho batla"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ho tloha ho Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tloha metse eohle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tle"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ho batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:33:03.199047758Z",
+  "model": "glm-5.3"
+}

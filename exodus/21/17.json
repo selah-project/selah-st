@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ya nyefolang ntate oa hae kapa 'mè oa hae, bolaoa o tla bolaoa.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "mme ya nyefolang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntate oa hae"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "'mè oa hae"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bolaoa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o tla bolaoa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:14.894636490Z",
+  "model": "glm-5.3"
+}

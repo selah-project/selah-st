@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 63,
+  "translation": "Hobane U ne U le thuso ya ka; mme ka moriti oa mapheo a Hau ke tla a opela ka thabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "היית",
+      "gloss": "U ne U le"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "thuso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ka"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "mme ka moriti oa"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "mapheo a Hau"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ke tla a opela ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:18.646647784Z",
+  "model": "glm-5.3"
+}

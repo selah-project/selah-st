@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme ba li bokella ⟨את⟩ tsona mekotleng-me kotleng; mme lefatshe la buba.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Mme ba li bokella"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tsona (lifrog)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "mekotleng"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "me kotleng"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "mme la buba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:46:32.779507503Z",
+  "model": "glm-5.3"
+}

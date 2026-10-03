@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme Elohim o ile a ntsholla ⟨את⟩ linku tsa ntata lona, mme a di nka a mpha.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "a ntsholla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "linku tsa ntata lona"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "linku tsa"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ntata lona"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a mpha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:33:24.904720956Z",
+  "model": "glm-5.3"
+}

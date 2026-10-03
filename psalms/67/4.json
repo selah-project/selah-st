@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 67,
+  "translation": "Mafatshe a lebohe wena, wena Elohim; mafatshe ohle a lebohe wena.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "a lebohe wena"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mafatshe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "a lebohe wena"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mafatshe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ohle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:16.291561160Z",
+  "model": "glm-5.3"
+}

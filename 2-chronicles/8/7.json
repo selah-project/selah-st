@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Setjhaba sonahle se neng se saletseng ba-Khiti, ba-Emori, ba-Perizi, ba-Khivi le ba-Yebusi, bao eseng ba Yisraele — bona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sonahle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "se neng se saletseng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha ho"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ba-Khiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ba-Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ba-Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ba-Khivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ba-Yebusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "— bona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:27:06.497601085Z",
+  "model": "glm-5.3"
+}

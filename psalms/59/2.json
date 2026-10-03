@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Ntlolohedisa ho ba ntsihang, Elohim ya ka; mpheha phahamiso ho ba tlang ho nthusa khahlanong.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ntlolohedisa"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ho ba ntsihang"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "ho ba tlang ho nthusa khahlanong"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "mpheha phahamiso"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:15.485438841Z",
+  "model": "glm-5.3"
+}

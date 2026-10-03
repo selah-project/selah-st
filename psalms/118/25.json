@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 118,
+  "translation": "O kamoso, Yahwe, o pholose hle; o kamoso, Yahwe, o atlehise hle.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "O kamoso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "o pholose"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hle"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "O kamoso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "o atlehise"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:27.904460836Z",
+  "model": "glm-5.3"
+}

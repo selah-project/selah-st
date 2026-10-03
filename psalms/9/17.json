@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Yahwe o ile a tsebahala, o entseng kahlolo; ka mesebetsi ya matsoho a hae yo mobe o ile a tshwarwa ka lithapo. Higayone. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "o ile a tsebahala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o entseng"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "ka mesebetsi"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ya matsoho a hae"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "o ile a tshwarwa ka lithapo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yo mobe"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayone"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:53.568061867Z",
+  "model": "glm-5.3"
+}

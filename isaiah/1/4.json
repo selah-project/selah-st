@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ao, sechaba se phoso, batho ba ruileng ka bolaodi, peo ea baphelang bobe, bana ba senyang! Ba sieile ⟨את⟩ Yahwe, ba nyontseng ⟨את⟩ E halalelang ea Yisraele, ba khutlele morao.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "se phoso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ba ruileng ka"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bolaodi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo ea"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "baphelang bobe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "ba senyang"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Ba sieile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ba nyontseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "E halalelang ea Yisraele"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "E halalelang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ea Yisraele"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ba khutlele"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morao"
+    }
+  ],
+  "timestamp": "2026-10-03T08:32:12.107118091Z",
+  "model": "glm-5.3"
+}

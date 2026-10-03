@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme o hopole hore o ne o le lefetwa ho Mitsrayime, mme o hlokomele mme o ete ⟨את⟩ melao ena.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "o hopole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "lefetwa"
+    },
+    {
+      "surface": "היית",
+      "gloss": "o ne o le"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ho Mitsrayime"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "o hlokomele"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "o ete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ena"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ena"
+    }
+  ],
+  "timestamp": "2026-10-03T12:50:11.703746183Z",
+  "model": "glm-5.3"
+}

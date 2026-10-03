@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Hobane ha o gana ho ba romola, mme o ntse o ba tshwara ka thata —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "o gana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ho ba romola"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "mme o ntse"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "o ba tshwara ka thata"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T05:46:57.340430657Z",
+  "model": "glm-5.3"
+}

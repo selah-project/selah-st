@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 7:9",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme ke ne ke le le wena ho tsohle moo o neng o tsamaile teng, mme ka tima ⟨את⟩.dir dihlekele tsa hao tsohle ho tla ho wena, mme ke tla etsa lebitso le holo ho wena, jwaloka lebitso la baholo ba mo lefatsheng.",
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "ke ne ke le"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ho tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo…teng"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "o tsamaile"
+    },
+    {
+      "surface": "ואכרתה",
+      "gloss": "mme ka tima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dihlekele tsa hao tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dihlekele tsa hao"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ho tla ho wena"
+    },
+    {
+      "surface": "ועשתי",
+      "gloss": "mme ke tla etsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le holo"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "jwaloka lebitso"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "la baholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mo lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T07:49:13.145281135Z",
+  "model": "glm-5.3"
+}

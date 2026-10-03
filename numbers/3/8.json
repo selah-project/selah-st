@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ba tlose bokaelo ba dithuluso tsohle tsatente ya kopano, le bokaelo ba bana ba Yisraele, ho etsa mosebetsi wa Mishkane;",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Mme ba tlose bokaelo ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithuluso tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dithuluso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tente ya kopano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bokaelo ba bana ba Yisraele"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "bokaelo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebetsi wa Mishkane"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-03T06:20:29.952713530Z",
+  "model": "glm-5.3"
+}

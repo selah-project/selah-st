@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mantswe a banene a tshwana le dinala tsa khomo, le jwalo ka matswao a hlometsweng ke beng ba dikokoano; a filwe ke modisa a le mong.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mantswe"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "a banene"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "a tshwana le dinala tsa khomo"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "le jwalo ka matswao"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "a hlometsweng"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "beng ba"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "dikokoano"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "a filwe"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "ke modisa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mong"
+    }
+  ],
+  "timestamp": "2026-10-03T11:45:46.101200774Z",
+  "model": "glm-5.3"
+}

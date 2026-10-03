@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 122,
+  "translation": "Ka baka la bana ba ntate ba ka le metsoalle ea ka, ke tla bua: a be le kagiso ho wena.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bana ba ntate ba ka"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "le metsoalle ea ka"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ke tla bua"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:52.775165771Z",
+  "model": "glm-5.3"
+}

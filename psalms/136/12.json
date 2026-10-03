@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "Ka letsoho la matla le ka letshwao le tsošolohileng, hobane hesede ya hae ya ho isa kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "Ka letsoho"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "la matla"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "le ka letshwao"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "le tsošolohileng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho isa kahosafeleng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:46.184145876Z",
+  "model": "glm-5.3"
+}

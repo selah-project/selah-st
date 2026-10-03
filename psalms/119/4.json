@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "U ile wa laela ⟨את⟩ melao ya hao ya ho e boloka haholo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "wa laela"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "melao ya hao"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ya ho e boloka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:51.813488680Z",
+  "model": "glm-5.3"
+}

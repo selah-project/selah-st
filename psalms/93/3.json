@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 93,
+  "translation": "Dinoka di phahamisitse, Yahwe; dinoka di phahamisitse lentswe la tsona; dinoka di phahamisa maqhubu a tsona.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "di phahamisitse"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "di phahamisitse"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "lentswe la tsona"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "di phahamisa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "maqhubu a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:00.892110827Z",
+  "model": "glm-5.3"
+}

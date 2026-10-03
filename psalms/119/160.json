@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Hlooho ya lentsoe la hao ke `nete, le ho fihlela ho sa feleng dikahlolo tsohle tsa tsedeke ya hao.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Hlooha"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ya lentsoe la hao"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ke `nete"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "le ho fihlela ho sa feleng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsa tsedeke ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:22.222351914Z",
+  "model": "glm-5.3"
+}

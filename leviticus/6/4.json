@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme a apaole ⟨את⟩ diaparo tsa hae, mme a apare diaparo tse ding, mme a ntse ⟨את⟩ ashe a eya ntle le setsi, sebakeng se hlwekile.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Mme a apaole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa hae"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "diaparo tsa hae"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "mme a apare"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "tse ding"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "mme a ntse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashe"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ashe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a eya"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ntle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "le setsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "se hlwekile"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:28.911940491Z",
+  "model": "glm-5.3"
+}

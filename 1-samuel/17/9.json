@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Ha a ka a hlola ho lwa ⟨את⟩ le nna, a mpa a nthunya hlekefatsa, re tla ba makgoboloi a lona; mme ha ke ka ke ka hlola ho lwa le eena, ke mo thunya, le tla ba makgoboloi a ⟨את⟩ rona, me le re servelela — ha ho, le tla re sebeletsa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "a ka a hlola"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ho lwa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "a mpa a nthunya"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "re tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a lona"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "bakgoboloi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ke ka hlola"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho lwa le eena"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "ke mo thunya"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "le tla ba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a rona"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "bakgoboloi"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "le tla re sebeletsa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "rona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:38:31.718436442Z",
+  "model": "glm-5.3"
+}

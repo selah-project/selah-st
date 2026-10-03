@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Mme ba etse ⟨את⟩ nku le ⟨את⟩ minkha le ⟨את⟩ mafura, hoseng le hoseng — sechuso sa ho sa felise.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "mme ba etse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nku"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "nku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafora"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafora"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le hoseng"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "sechuso"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa ho sa felise"
+    }
+  ],
+  "timestamp": "2026-10-03T09:57:34.521435835Z",
+  "model": "glm-5.3"
+}

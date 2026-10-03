@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 111,
+  "translation": "O fane ka lijo ho ba mo ts'abang; o tla hopola selekane sa hae ho fihlela bosafeleng.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "lijo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o fane ka"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ho ba mo ts'abang"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "o tla hopola"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela bosafeleng"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "selekane sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:34.353621327Z",
+  "model": "glm-5.3"
+}

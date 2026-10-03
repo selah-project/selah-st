@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme a tsoha, a tsamaea; mme Yonathane a kena setsi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tsoha"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaea"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "mme Yonathane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "setsi"
+    }
+  ],
+  "timestamp": "2026-10-03T07:42:07.462673328Z",
+  "model": "glm-5.3"
+}

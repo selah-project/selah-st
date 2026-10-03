@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Yahwe, a ke ke a tlotla ka tlokotsi, hobane ke bile ke kgothaletse ho wena; a ba lome halofo ba bobe, ba thothomele Sheole.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a ke ke"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "a ke ke a tlotla ka tlokotsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ke bile ke kgothaletse ho wena"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "a ba lome halofo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba bobe"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ba thothomele"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheole"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:46.279041304Z",
+  "model": "glm-5.3"
+}

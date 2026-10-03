@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 65,
+  "translation": "Mediking e aparetse ⟨e le⟩ ditshomo; mme mekhoabo e iphusetse ka korong; di hlaba molodi, e bile di opela.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "di aparetse"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ditshomo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨e le⟩ ditshomo"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "mme mekhoabo"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "di iphusetse"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ka korong"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "di hlaba molodi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "di opela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:51.764330521Z",
+  "model": "glm-5.3"
+}

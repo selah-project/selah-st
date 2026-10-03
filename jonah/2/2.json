@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Jonase a thapela ho Yahwe, Elohim ea hae, a tswa ka meping ea hlooho eo.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "a thapela"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonase"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim ea hae"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "a tswa ka meping ea"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "hlooho eo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:30.379845647Z",
+  "model": "glm-5.3"
+}

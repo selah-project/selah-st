@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ba lebala ⟨את⟩ Yahwe Elohim ya bona, mme a ba reka ka letsoho la Sisera, mookamedi wa sesole sa Hatsore, le ka letsoho la Mafilistea, le ka letsoho ya morena wa Moabe; mme ba lwa le bona.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ba lebala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ya bona"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "mme a ba reka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "ba"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho la"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsore"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "le ka letsoho la"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Mafilistea"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "le ka letsoho la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "mme ba lwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "le bona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:34:53.588961810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Mme a ba fihlela, a bua le bona ⟨את⟩ mantswe ana.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "Mme a ba fihlela"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe ana"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ana"
+    }
+  ],
+  "timestamp": "2026-10-03T12:43:21.228587113Z",
+  "model": "glm-5.3"
+}

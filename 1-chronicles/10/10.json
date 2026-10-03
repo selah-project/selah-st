@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ba beha ⟨את⟩ dithaele tsa hae ntlong ya melimo ya bona, mme ⟨את⟩ hloho ya hae ba e tsekisa ntlong ya Dagoni.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ba beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithaele tsa hae"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dithaele tsa hae"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "melimo ya bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "hloho ya hae"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "hloho ya hae"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ba e tsekisa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoni"
+    }
+  ],
+  "timestamp": "2026-10-03T13:18:33.252662064Z",
+  "model": "glm-5.3"
+}

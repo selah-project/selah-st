@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 57,
+  "translation": "Ke tla bolela tsedekе ya hao, le ⟨את⟩ mesebetsi ya hao; empa e ke ke ya fa molemo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "tla bolela"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeke ya hao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mesebetsi ya hao"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mesebetsi ya hao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa e ke ke ya"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "fa molemo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:55:06.303903657Z",
+  "model": "glm-5.3"
+}

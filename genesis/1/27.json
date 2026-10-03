@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Elohim o ile a bopa ⟨את⟩ motho ka setshwantsho sa hae; ka setshwantsho sa Elohim o ile a mo bopa ⟨אתו⟩; monna le mosadi o ile a ba bopa ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "o ile a bopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "ka setshwantsho sa hae"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ka setshwantsho sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "o ile a bopa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "le mosadi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "o ile a ba bopa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:52.584395739Z",
+  "model": "glm-5.3"
+}

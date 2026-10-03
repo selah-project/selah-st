@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Empa nna, ka bongata ba hesede ya hao, ke tla kena ntlong ya hao; ke tla khunama ho ya ka haykhole e halalelang ya hao, ka tsabo ya hao.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "empa nna"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka bongata ba"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ke tla kena"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlong ya hao"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ke tla khunama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ka"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "haykhole"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "e halalelang ya hao"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "ka tsabo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:18.733990951Z",
+  "model": "glm-5.3"
+}

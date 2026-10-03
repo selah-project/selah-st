@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Ke ne ke tseba hahle ⟨את⟩ wena sekakeng, lefatsheng la omile.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ke ne ke"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "tseba hahle ⟨את⟩ wena"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sekakeng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "la omile"
+    }
+  ],
+  "timestamp": "2026-10-03T13:07:59.818281801Z",
+  "model": "glm-5.3"
+}

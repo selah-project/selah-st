@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme u tla utlwa mahodimong ⟨את⟩ thapelo ea bona le ⟨את⟩ kopa ea bona, mme o tla etsa kahlolo ea bona.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "mme u tla utlwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thapelo ea bona"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "thapelo ea bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kopa ea bona"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "kopa ea bona"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tla etsa"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "kahlolo ea bona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:07:43.838286820Z",
+  "model": "glm-5.3"
+}

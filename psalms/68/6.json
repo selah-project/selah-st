@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Ntate ya bana batimana, mohlahlobi ya dihlahlami — Elohim — sebakeng sa hae se halalelang.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Ntate ya"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "bana batimana"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "mohlahlobi ya"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "dihlahlami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "sebakeng sa hae"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "se halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:51.173663600Z",
+  "model": "glm-5.3"
+}

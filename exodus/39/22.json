@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme a etsa ⟨את⟩ kobo ya efode, mosebetsi wa moapari, ya tekhelete ka bo eena.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobo ya efode"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "kobo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya efode"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "wa moapari"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ka bo eena"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ya tekhelete"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:49.037735484Z",
+  "model": "glm-5.3"
+}

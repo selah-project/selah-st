@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme o ile a belega ho tloha ho Kodeshe, mosadi wa hae, ⟨את⟩ Yobabe le ⟨את⟩ Tsibya le ⟨את⟩ Mesha le ⟨את⟩ Malkame.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "o ile a belega"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha ho"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Kodeshe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yobabe"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yobabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsibya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsibya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mesha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Malkame"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkame"
+    }
+  ],
+  "timestamp": "2026-10-03T12:12:03.465222844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 53,
+  "translation": "Sephephene se ile sa re pelong ya sona: Ha ho Elohim. Ba senketse, ba etsile tšebo tse tlwaelehileng; ha ho ya etsang hlohonolofatse.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sa re"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Sephephene"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "pelong ya sona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ha ho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Ba senketse"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "ba etsile tšebo tse tlwaelehileng"
+    },
+    {
+      "surface": "עול",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hlohonolofatse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:37.374038825Z",
+  "model": "glm-5.3"
+}

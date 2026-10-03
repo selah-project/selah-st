@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 76,
+  "translation": "Ikannye le ho phethahatsa ho Yahwe, Elohim ya lona, lona bonke ba dikologileng hae; ba tle ba isie dimpho ho Ya tshabehang.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Ikannye"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "le ho phethahatsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ba dikologileng hae"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "ba tle ba isie"
+    },
+    {
+      "surface": "שי",
+      "gloss": "dimpho"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "ho Ya tshabehang"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:28.084751046Z",
+  "model": "glm-5.3"
+}

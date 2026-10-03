@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "Ruri pholoho ya hae e haufi le ba mo tshabang, hore kgalalelo e ka dula lefatsheng la rona.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "e haufi"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "le ba mo tshabang"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "pholoho ya hae"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "hore e ka dula"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "lefatsheng la rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:28.179379844Z",
+  "model": "glm-5.3"
+}

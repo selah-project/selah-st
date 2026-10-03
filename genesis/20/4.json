@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme Avimeleke a sa atamele ho yena; mme a re: Adonai, na o tla bolaya setjhaba sa tsadike le sona?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Mme Avimeleke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "atamele"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le sona"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa tsadike"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "na o tla bolaya"
+    }
+  ],
+  "timestamp": "2026-10-03T05:28:09.609662320Z",
+  "model": "glm-5.3"
+}

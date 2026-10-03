@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Ya Dawide. Ngolisanahana, Yahwe, le ⟨את⟩ ba nngolanang; lwa le ⟨את⟩ ba ntlolang.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Ngolisanahana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba nngolanang"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "ba nngolanang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ntlolang"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ba ntlolang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:36.567713403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Ho ea ka tse sotlang tsa tsona le ho ea ka molato oa tsona ke ba ketekile, mme ke ile ka pata sefahleho sa ka ho tsona.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "ho ea ka tse sotlang tsa tsona"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "le ho ea ka molato oa tsona"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke ba ketekile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba (Yisraele)"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "mme ke ile ka pata"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa ka"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ho tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:53:48.303839835Z",
+  "model": "glm-5.3"
+}

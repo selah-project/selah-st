@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Yahwe o ile a lelela hodima mahodimo baraping ba Adame, hore a bone hore na ho ⟨⟨na⟩⟩ le ya hlalefang, ya batlang ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "hodima mahodimo"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "o ile a lelela"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "בני",
+      "gloss": "baraping"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adame"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hore a bone"
+    },
+    {
+      "surface": "היש",
+      "gloss": "hore na ho na le"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ya hlalefang"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ya batlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:11.540066526Z",
+  "model": "glm-5.3"
+}

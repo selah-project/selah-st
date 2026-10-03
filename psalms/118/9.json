@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 118,
+  "translation": "Ho molemo ho šerabela ho Yahwe ho feta ho tshepa ho dinahasi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ho molemo"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ho šerabela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ho tshepa ho feta"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "dinahasi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:02.079778025Z",
+  "model": "glm-5.3"
+}

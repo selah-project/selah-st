@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Ntlohodime mading, Elohim, Elohim wa pholoho ya ka, mme leleme la ka le tla bina ka hlakahlaka ya hau.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ntlohodime"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "mading"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "pholoho ya ka"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "le tla bina"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "leleme la ka"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ka hlakahlaka ya hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:10.521043676Z",
+  "model": "glm-5.3"
+}

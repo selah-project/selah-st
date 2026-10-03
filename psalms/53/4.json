@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 53,
+  "translation": "Baohle ba kgutlisetse morao, ba babelae mmong; ha ho ya etsang hlohonolofatse, ha ho le e 'ngoe feela.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Baohle"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ba kgutlisetse morao"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ba babelae mmong"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ba senkehile"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hlohonolofatse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e 'ngoe feela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:37.374363194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Ba ke ke ya dula naheng ya Yahwe; Efrayime o tla kgutlela Mitsrayime, mme ho Ashura ba tla ja tse seng halalelang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba ke ke ya"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dula"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "o tla kgutlela"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "mme ho Ashura"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tse seng halalelang"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba tla ja"
+    }
+  ],
+  "timestamp": "2026-10-03T10:03:30.653146294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ba etsa ⟨את⟩ Paseka ka kgwedi ya pele, ka la bolesomenne la kgwedi, pakeng tsa mantsiboya, bohlabathing ba Sinai; jwaloka tsohle tseo Yahwe a neng a laetse ⟨את⟩ Moshe, jwalo bana ba Yisraele ba ile ba etsa.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba ile ba etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "ya pele"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ka bolesomenne — ka bone"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesomenne — ten"
+    },
+    {
+      "surface": "יום",
+      "gloss": "la"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mantsiboya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bohlabathing"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "jwaloka tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba ile ba etsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T06:27:41.398309223Z",
+  "model": "glm-5.3"
+}

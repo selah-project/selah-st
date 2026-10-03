@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "E tla ba joalo ka mosebetsi oa khoeli, joalo ka moahi oa nakwana, a lula le uena; o tla sebetsa le uena ho fihlela selemong sa Yobele.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "joalo ka mosebetsi oa khoeli"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "joalo ka moahi oa nakwana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a tla ba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le uena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "selemong sa"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yobele"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "o tla sebetsa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le uena"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:14.083148302Z",
+  "model": "glm-5.3"
+}

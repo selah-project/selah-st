@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ho mona hakae lentsoe la hao maleng a ka! Ho feta jinthatlho molomong wa ka!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hakae"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "ho mona"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "maleng a ka"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lentsoe la hao"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "ho feta jinthatlho"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "molomong wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:18.095013706Z",
+  "model": "glm-5.3"
+}

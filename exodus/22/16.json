@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Haeba ntate wa hae a hana ka ho hlaka ho mo muela ho eena, o tla lekanya selefere, jwaloka mahari a banana.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haeba"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "a hana ka ho hlaka"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "hana ka ho hlaka"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ntate wa hae"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "ho mo muela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefere"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "o tla lekanya"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "jwaloka mahari"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "a banana"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:07.532886574Z",
+  "model": "glm-5.3"
+}

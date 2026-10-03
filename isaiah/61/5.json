@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 61,
+  "translation": "Mme ba se nang teng ba tla ema, ba tla fudisa ⟨את⟩ dihlefu tsa lona; mme bana ba ditjhaba ba tla ba balimi ba lona le balemi ba merara ya lona.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "ba tla ema"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ba se nang teng"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ba tla fudisa"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "dihlefu tsa lona"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mme bana ba"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "balimi ba lona"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "balemi ba merara ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:57:56.985311667Z",
+  "model": "glm-5.3"
+}

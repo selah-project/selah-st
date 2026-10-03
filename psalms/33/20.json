@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Metsing ea rona e letetse Yahwe; o thuso ea rona le sekoloto sa rona.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Metsing ea rona"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "e letetse"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "othuso ea rona"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "le sekoloto sa rona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:24.327712081Z",
+  "model": "glm-5.3"
+}

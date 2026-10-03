@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Yahwe a etsa ⟨את⟩ lentsoe lena ka hosasa e latelang, mme linking lefehla la Mitsrayime la shwofela; empa ho fepeng ha bana ba Yisraele ha ho na le e mong ya shwelang.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentsoe lena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ka hosasa e latelang"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mme ... la shwofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lefehla"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "linking"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "empa ho fepeng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ho na"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ya shwelang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le e mong"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:30.443052905Z",
+  "model": "glm-5.3"
+}

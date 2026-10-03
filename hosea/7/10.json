@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme boikhantso ba Yisraele bo arabela sefahlehong sa bona; mme ha ba kgutlele ho Yahwe, Elohim wa bona, mme ha ba mo batle ka tsohle tseo.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "bo arabela"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boikhantso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "sefahlehong sa bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ba kgutlele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "ba mo batle"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka tsohle"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tseo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:01:45.758007277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Mme ba sa utloe, mme ba sa ikokobetse ⟨את⟩ ditsebe tsa bona hore ba kgutle mabapi le bobe ba bona, hore ba se ke ba chesa mohlobo ho melimo e meng.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "utloe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ikokobetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditsebe tsa bona"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "ditsebe tsa bona"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "hore ba kgutle"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "mabapi le bobe ba bona"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hore ba se ke"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "ba chesa mohlobo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho melimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e meng"
+    }
+  ],
+  "timestamp": "2026-10-03T09:25:52.962372789Z",
+  "model": "glm-5.3"
+}

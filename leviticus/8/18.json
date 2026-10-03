@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a hlahisa ⟨את⟩ puno ea sehlabelo sa ho chesoa; mme Aharone le bara ba hae ba beha ⟨את⟩ matsoho a bona hodima hloho ea puno eo.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a hlahisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puno"
+    },
+    {
+      "surface": "איל",
+      "gloss": "puno"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ea sehlabelo sa ho chesoa"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "ba beha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bara ba hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsoho a bona"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "matsoho a bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ea puno eo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:08:31.229726467Z",
+  "model": "glm-5.3"
+}

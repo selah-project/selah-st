@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Adame a phela dingwaga tse lekgolo le mashome a maroaroa, mme a belega mora ka ho tshwana le hae, ka setshwantsho sa hae, mme a bitsea lebitso la hae ⟨את⟩ Shethe.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Mme a phela"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adame"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mashome a maroaroa"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "le lekgolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a belega"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "ka ho tshwana le hae"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "ka setshwantsho sa hae"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mme a bitsea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la hae"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shethe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:13.106524011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "Mme a li emisa ho fihlela ka ho sa feleng, ho se nang qetello; o ile a neha molao, o o seng ke tla feta.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "Mme a li emisa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ho fihlela ka ho sa feleng"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho se nang qetello"
+    },
+    {
+      "surface": "חק",
+      "gloss": "molao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o ile a neha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o o seng ke"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "tl a feta"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:43.070504482Z",
+  "model": "glm-5.3"
+}

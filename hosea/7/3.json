@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ka bobe ba bona ba ntsufatsa ⟨את⟩ morena, le ka maqamba a bona baholo.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "ka bobe ba bona"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ba ntsufatsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "le ka maqamba a bona"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "baholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:01:20.593723888Z",
+  "model": "glm-5.3"
+}

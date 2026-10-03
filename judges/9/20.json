@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "mme haeba ha ho joalo, ho tloe mollu ho tswa ho Abimeleke, o je ⟨את⟩ beng ba Shekeme le ⟨את⟩ ntlo ya Milo; mme ho tloe mollu ho tswa ho beng ba Shekeme le ho tloha ntlong ya Milo, o je ⟨את⟩ Abimeleke.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme haeba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho joalo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ho tloe ho tswa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollu"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "ho Abimeleke"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "o je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beng ba Shekeme"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "beng ba"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Milo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "mme ho tloe ho tswa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollu"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "ho beng ba"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "le ho tloha ntlong"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "ya Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "o je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimeleke"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleke"
+    }
+  ],
+  "timestamp": "2026-10-03T07:22:44.838935869Z",
+  "model": "glm-5.3"
+}

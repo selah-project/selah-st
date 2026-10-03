@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Ba maketse, ba sa arabe ha ba ntse; mantswe a tlohile ho tloha ho bona.",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "ba maketse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "arabe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ha ba ntse"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "a tlohile"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ho tloha ho bona"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "mantswe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:29:55.245938085Z",
+  "model": "glm-5.3"
+}

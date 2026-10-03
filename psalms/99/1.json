@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 99,
+  "translation": "Yahwe o bulehile ⟨o busa⟩, malalla a thloboga; yena ya duloang hodima bakherube, lefatshe le tshikelehe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o bulehile ⟨o busa⟩"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "a thloboga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "malalla"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ya duloang"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "hodima bakherube"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "le tshikelehe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:07.065931728Z",
+  "model": "glm-5.3"
+}

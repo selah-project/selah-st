@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Yahwe, o boloke; morena a re arabe ka letsatsi leo re mo bitsang ka lona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "o boloke"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "a re arabe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "re mo bitsang"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:42.411723217Z",
+  "model": "glm-5.3"
+}

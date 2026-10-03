@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme ba ile ba bitsa Lote, mme ba re ho yena: Banna bao ba ileng ba tla ho uena bosiu bona, ba kae? A ba tlise ho rona, hore re tle re ba tsebe ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ba ile ba bitsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ba kae?"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba ileng ba tla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosiu bona"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "a ba tlise"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "hore re tle re ba tsebe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "banna bao ba ileng ba tla ho uena bosiu bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:25:21.930036221Z",
+  "model": "glm-5.3"
+}

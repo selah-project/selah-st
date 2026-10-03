@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme o bitse Yishaye ho sebaka sa sehlabelo, mme nna ke tla u tsebisa ⟨את⟩ hoo o tlang ho se etsa; mme o lotse oa ka ⟨את⟩ eo ke tlang ho e bolela ho oena.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "Mme o bitse"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishaye"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ho sebaka sa sehlabelo"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ke tla u tsebisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoo o tlang ho se etsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hoo o tlang ho se etsa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o etsa"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mme o lotse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eo ke tlang ho e bolela ho oena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ke bolela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho oena"
+    }
+  ],
+  "timestamp": "2026-10-03T07:38:27.518388145Z",
+  "model": "glm-5.3"
+}

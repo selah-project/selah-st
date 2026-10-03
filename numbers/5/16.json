@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme moprista a mo hlahisa ⟨את⟩, a mo emisa pele ga Yahwe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "a hlahisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi (mo hlahisa)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "a mo emisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:47:02.682069118Z",
+  "model": "glm-5.3"
+}

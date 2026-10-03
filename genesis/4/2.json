@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme o ile a tswala hape ⟨את⟩ mmonaeno, ⟨את⟩ Hebele. Mme Hebele e bile modisi wa dipodi, mme Kaine e bile mojwa wa mobu.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Mme o ile a tswala hape"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ho tswala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmonaeno"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mmonaeno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebele"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebele"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebele"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "modisi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "wa dipodi"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "mme Kaine"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mojwa"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "wa mobu"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:14.805998780Z",
+  "model": "glm-5.3"
+}

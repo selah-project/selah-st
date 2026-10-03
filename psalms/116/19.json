@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "Dikamoreng tsa ntlo ya Yahwe, bohareng ba hao, oh Yerushalayime. Halaleleng Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "dikamoreng tsa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "bohareng ba hao"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halaleleng"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:13.958937134Z",
+  "model": "glm-5.3"
+}

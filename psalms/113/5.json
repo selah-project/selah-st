@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 113,
+  "translation": "Ke mang ya tshwanang le Yahwe, Elohim wa rona, ya ikhahlesitseng hore a dule hodimo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ya tshwanang le Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "ya ikhahlesitseng"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hore a dule"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:03.488422157Z",
+  "model": "glm-5.3"
+}

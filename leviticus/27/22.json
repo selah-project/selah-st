@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme ha motho a hlaletsa ⟨את⟩ sefala sa thekiso ya hae, eo e seng e tswa masimong a monghao wa yena, ho Yahwe;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefala sa thekiso ya hae"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sefala"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "sa thekiso ya hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e seng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "e tswa masimong"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "a monghao wa yena"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "a hlaletsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:23.900104146Z",
+  "model": "glm-5.3"
+}

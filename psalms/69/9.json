@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Mogerwi ke ‘ne ea e-ba ho baena ba ka, mme oa naha ho bana ba ‘me oa ka.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "Mogerwi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ‘ne ea e-ba"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ho baena ba ka"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "mme oa naha"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "‘me oa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:36.127664876Z",
+  "model": "glm-5.3"
+}

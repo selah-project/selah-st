@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Tsoha, hobaneng o robetse, Adonai? Tsoha, o se ke wa re tlosa ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "tsoha"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "o robetse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "tsoha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "re tlosa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:27.875474643Z",
+  "model": "glm-5.3"
+}

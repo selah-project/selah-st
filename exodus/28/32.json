@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 28:32",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme sebakeng sa hloho ea eona se tla ba bohareng ba eona; moeli o mong wa mosebe o tla ba sebakeng sa hloho ho potoloha, mosebetsi wa moahlodi, jwaloka sebakeng sa kobo ya ntwa, e tla e nna e le ea eona, e ke ke ea haswa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mme se tla ba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sebakeng sa hloho"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ea eona"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "bohareng ba eona"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "moeli"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "sebakeng sa hloho"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "wa moahlodi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "jwaloka sebakeng sa"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "kobo ya ntwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla e nna e le"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ea eona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ea"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "haswa"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:20.946974829Z",
+  "model": "glm-5.3"
+}

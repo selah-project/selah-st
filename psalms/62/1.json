@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 62,
+  "translation": "Ho moetapele, ka Yedutune; mokoeri wa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho moetapele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutune"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoeri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:03.926003446Z",
+  "model": "glm-5.3"
+}

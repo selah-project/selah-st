@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "ho tloha ⟨מאת⟩ ho ba tswetseng pele ba bana ba Yisraele, o ile a nka ⟨את⟩ sehalahala: mahlano a masome a mataru a meraro dikete tse tharo, ka mashekele a halalelang —",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "ho tloha ⟨מאת⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ba tswetseng pele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o ile a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehalahala"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sehalahala"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mahlano"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "a masome a mataru"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "a meraro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "tse tharo"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ka mashekele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:20:21.469713881Z",
+  "model": "glm-5.3"
+}

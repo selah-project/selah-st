@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "mme ba tla go botsa ka khotso, mme ba tla o neha diloafu tse peli tsa boroso; o tla di nka ho matohong a bona.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "mme ba tla go botsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oena"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ka khotso"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mme ba tla o neha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oena"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse peli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "diloafu tsa boroso"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "o tla di nka"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ho matohong a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:36:57.822738941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Ba reng ho bahoni: Se le bone; le ho bahoni ba ditshwantsho: Se le bone; bulela re tshwanelo, bulela re dithothokiso, bonang re maqheso.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ba reng"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "ho bahoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "le ho bahoni ba ditshwantsho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "tshwanelo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bulela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "dithothokiso"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "maqheso"
+    }
+  ],
+  "timestamp": "2026-10-03T08:44:03.847893780Z",
+  "model": "glm-5.3"
+}

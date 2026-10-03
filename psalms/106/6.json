@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Re ile ra loka le bongodi ba rona, ra etsa borabe, ra etsa bobe.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "re ile ra loka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bongodi ba rona"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "ra etsa borabe"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "ra etsa bobe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:46.717612692Z",
+  "model": "glm-5.3"
+}

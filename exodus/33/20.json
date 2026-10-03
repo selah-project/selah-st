@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme ⟨o⟩ a re: O ke ke wa bona ⟨את⟩ sefahleho sa ka; hobane motho ha a ka a mpona, a ka ⟨ʼa⟩ phela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "o ke ke wa"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "a mpona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a phela"
+    }
+  ],
+  "timestamp": "2026-10-03T06:00:05.657548051Z",
+  "model": "glm-5.3"
+}

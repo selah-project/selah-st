@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 8:9",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Ho ⟨the⟩ arong ha ho na ⟨is⟩ letho, feela litafole tse pedi tsa majwe, tseo Moshe a li behileng teng ho Khoribe, moo Yahwe a ileng a etsa selekane le bana ba Yisraele ha ba tswa lefatsheng la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ha ho na letho"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "ho arong"
+    },
+    {
+      "surface": "רק",
+      "gloss": "feela"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "litafole"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "tsa majwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "a li behileng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ho Khoribe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a ileng a etsa selekane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ha ba tswa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T08:06:22.457160935Z",
+  "model": "glm-5.3"
+}

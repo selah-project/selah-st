@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme ba etsa ⟨את⟩ dijakete tsa linene tse putsoa, mosebetsi wa moahlodi, bakeng sa Aharone le bakeng sa bana ba hae.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijakete"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "dijakete"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linene tse putsoa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "wa moahlodi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "bakeng sa Aharone"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "le bakeng sa bana ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:56.964993578Z",
+  "model": "glm-5.3"
+}

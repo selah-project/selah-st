@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme o ile a eketša hape, a belega mora, mme a bitša ⟨את⟩ lebitso la hae Shela; mme o bile Khezibe ha a ⟨את⟩ mo belega.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "a eketša hape"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "a bitša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la hae"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "o bile"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "Khezibe"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "ha a belega"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:10.626628350Z",
+  "model": "glm-5.3"
+}

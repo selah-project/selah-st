@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "mme rona le rona re tle re tshwane le ditjhaba tsohle; morena wa rona a re kahlole, a tle a tsoe pele ha rona, mme a lwe ⟨את⟩ dintwa tsa rona.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "mme re tle re be"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "re tshwane le tsohle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "a re kahlole"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "morena wa rona"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a tle a tsoe"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "pele ha rona"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "mme a lwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dintwa tsa rona"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "dintwa tsa rona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:03.729826638Z",
+  "model": "glm-5.3"
+}

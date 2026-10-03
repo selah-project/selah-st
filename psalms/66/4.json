@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Lefatshe lohle le tla o thwaela, le tla o mmela, le tla mmela lebitso la hao. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "le tla o thwaela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "le tla o mmela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "le tla mmela"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:24.253453538Z",
+  "model": "glm-5.3"
+}

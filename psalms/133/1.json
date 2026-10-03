@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 133,
+  "translation": "Pina ya maemo, ya Dawide. Bonang, o mo botle le o mo monate ho ba ga bang, ya ikopanyang hammoho!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maemo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "o mo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "botle"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "le o mo"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "montoneng"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ho ba"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ga bang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ya ikopanyang"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hammoho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:11.819219775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 62,
+  "translation": "Hang Elohim o buile; ka bobedi ke seo ke se utloileng: hore matla ke a Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "hang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o buile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ka bobedi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ke seo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke se utloileng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:38.904097089Z",
+  "model": "glm-5.3"
+}

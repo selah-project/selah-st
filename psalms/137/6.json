@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 137,
+  "translation": "Mmeleme o thophe haleng la ka haeba ke sa gopola hle, haeba ke sa phahamisa ⟨את⟩ Yerushalayime hodima hlooho ya takatso ya ka.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "o thophe"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mmeleme"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "haleng la ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ke gopola hle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ke phahamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlooho"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "ya takatso ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:13.745876850Z",
+  "model": "glm-5.3"
+}

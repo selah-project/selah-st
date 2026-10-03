@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ho tloha moo le tla batla ⟨את⟩ Yahwe Elohim wa lona, mme le tla mo fumana, hobane mo batla ka bobeli ba pelo ea lona kaofela le ba moya oa bophelo ba lona kaofela.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "le tla batla"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ho tloha moo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa lona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa lona"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "le tla mo fumana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "mo batla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ea lona"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le kaofela"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya oa bophelo ba lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:46:16.662879320Z",
+  "model": "glm-5.3"
+}

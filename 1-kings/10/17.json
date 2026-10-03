@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 10:17",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme dihlare tse makgolo a mararo tsa gauta e otlang, mane tse tharo tsa gauta di ne di ea hodima sehlare se seng le se seng; mme morena a li beha ntlong ea sekhing sa Lebanone.",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "mme tse tharo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "tse makgolo a mararo dihlare"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "e otlang"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "mane tse tharo"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "mane"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "di ne di ea hodima"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "se seng le se seng"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "mme a li beha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ea"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sekhing"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanone"
+    }
+  ],
+  "timestamp": "2026-10-03T08:07:36.358986833Z",
+  "model": "glm-5.3"
+}

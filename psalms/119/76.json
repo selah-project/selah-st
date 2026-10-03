@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "A ho be jwale, ke kopa, hesede ya hao e be mohau wa khotso ho ka, jwaloka lentsoe la hao le mohleketeng wa hao.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "a ho be jwale"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "e be mohau wa khotso ho ka"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "jwaloka lentsoe la hao"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "le mohleketeng wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:46.050452922Z",
+  "model": "glm-5.3"
+}

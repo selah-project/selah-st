@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Hore a hamme ⟨את⟩ dira tsa hao kahohle aho ya pele ho wena, jwalo ka ha Yahwe a buile.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "hore a hamme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dira tsa hao kahohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kahohle"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dira tsa hao"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "aho pele ho wena"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:52.274579706Z",
+  "model": "glm-5.3"
+}

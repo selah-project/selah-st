@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Ba hloile, empa wena o tla hlahlaba; ba tla emisa, ba tla tseka, mme lekhetho la hao le tla thabisa.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "ba hloile"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "empa wena"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "o tla hlahlaba"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ba tla emisa"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ba tla tseka"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "mme lekhetho la hao"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "le tla thabisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:20.729470582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme ⟨o⟩ a re: Mpontshe ⟨את⟩ chabanoho ya hao, ke kopa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mpontshe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chabanoho ya hao"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "chabanoho ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:00:05.655856637Z",
+  "model": "glm-5.3"
+}

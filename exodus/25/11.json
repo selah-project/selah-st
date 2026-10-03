@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme o tla e khupetsa ka gauta e hloekileng; ka hare le ka ntle o tla e khupetsa, mme o tla etsa hodima ⟨את⟩ yona sekhahla sa gauta ho potoloha.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Mme o tla e khupetsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "araone"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ka hare"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "le ka ntle"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "o tla e khupetsa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tla etsa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hodima yona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sekhahla"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sa gauta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloho"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:45.958688915Z",
+  "model": "glm-5.3"
+}

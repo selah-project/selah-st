@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "O emisa diyautha ho fihlela mekhahleng ya lefatshe, a thlakolla ⟨את⟩ oter ya ntwa, a ripa ⟨את⟩ tlhara, ditafo tsa ntwa a di futhumatsa mollo.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "O emisa"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "diyautha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "mekhahleng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "oter ya ntwa"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "a thlakolla"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "a ripa"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tlhara"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "ditafo tsa ntwa"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "a di futhumatsa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mollo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:49.242033190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 147,
+  "translation": "Bingang le Yahwe ka teboho; binaleng le Elohim wa rona ka kenora.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Bingang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "le Yahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ka teboho"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "binaleng"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "le Elohim wa rona"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kenora"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:51.732958162Z",
+  "model": "glm-5.3"
+}

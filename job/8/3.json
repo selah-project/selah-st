@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Na El o a se ditlhakahatsong tsa kahlolo? Kapa na Shadai o a se tsedekeng?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Na El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "o a se ditlhakahatsong tsa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Kapa na"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "o a se"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedekeng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:21:01.951555343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mahlo a lona a bone ⟨את⟩ seo Yahwe a se entseng ka Baale-Peore; hobane e mong le e mong wa banna ba neng ba latela Baale-Peore, Yahwe Elohim wa hao o mo timetse a tsoa hare jwao ha lona.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "mahlo a lona"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "a bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se entseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ka Baale-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e mong le e mong"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a latelang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baale"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peore"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "o mo timetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "a tsoa hare jwao ha lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:48.360104963Z",
+  "model": "glm-5.3"
+}

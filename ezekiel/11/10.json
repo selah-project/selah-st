@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ka hlao le tla wa; molemong wa Yisraele ke tla ahlola ⟨את⟩ lona; mme le tla tseba hore ke ⟨⟨ke⟩⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "ka hlao"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "le tla wa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molemong wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ke tla ahlola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "mme le tla tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T09:35:14.814865948Z",
+  "model": "glm-5.3"
+}

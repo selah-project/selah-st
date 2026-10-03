@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Batlang Yahwe le matla a hae; batlang sefahla sa hae ka ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Batlang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "le matla a hae"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "batlang"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahla sa hae"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:42.520882526Z",
+  "model": "glm-5.3"
+}

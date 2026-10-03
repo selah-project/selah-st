@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Dilo tsa ka tse halalelang o di hlontlothile, mme ⟨את⟩ Shabata tsa ka o di hlotse.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "dilo tsa ka tse halalelang"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "o di hlontlothile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "Shabata tsa ka"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabata tsa ka"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "o di hlotse"
+    }
+  ],
+  "timestamp": "2026-10-03T09:43:49.298901351Z",
+  "model": "glm-5.3"
+}

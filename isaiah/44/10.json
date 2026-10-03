@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Ke mang ya bopang el, kapa a khutlisa setshwantsho se tshititsweng, se se pheliseng ho hangata?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ya bopang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "kapa setshwantsho"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "se tshititsweng"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hore ha"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "se phelise"
+    }
+  ],
+  "timestamp": "2026-10-03T08:50:51.298376279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Tshwara motsuari wa hau ka mosa, hore ke tle ke phela, mme ke boloke lentswe la hao.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "tshwara ka mosa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "motsuari wa hao"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ke tle ke phela"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "mme ke boloke"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lentswe la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:50.889792526Z",
+  "model": "glm-5.3"
+}

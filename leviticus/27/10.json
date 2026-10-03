@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "A se ke a e fapafatsa, a se ke a e fetola ⟨את⟩ e ntle ka e mpe, kapa e mpe ka e ntle; mme haeba a fetola ka ho etsa phoofolo ka phoofolo, eona le phetolo ya eona di tla ba tse halalelang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "a e fapafatsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "a e fetola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e ntle"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e ntle"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ka e mpe"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e mpe"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ka e ntle"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme haeba"
+    },
+    {
+      "surface": "המר",
+      "gloss": "a fetola ka ho"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "fetola"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "phoofolo"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ka phoofolo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla ba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eona"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "le phetolo ya eona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:06.295141017Z",
+  "model": "glm-5.3"
+}

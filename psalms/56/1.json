@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "translation": "Ho ya etelang setso, ka ga Yonath-elem-rekhokime. Pesaleme ya Dawide, mikhthame, ha Bafilisita ba mo tshwara ka Gathe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho ya etelang setso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Yonath"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elem"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rekhokime"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhthame"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "ha ba mo tshwara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide (mo)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisita"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ka Gathe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:13.604495870Z",
+  "model": "glm-5.3"
+}

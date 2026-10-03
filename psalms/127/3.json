@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 127,
+  "translation": "Bonang, bana ⟨ke⟩ bojalo ba Yahwe; moputso ke pono ea mpa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "bojalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "moputso"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "pono"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ea mpa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:35.017221366Z",
+  "model": "glm-5.3"
+}

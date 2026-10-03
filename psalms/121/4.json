@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 121,
+  "translation": "Bonang, ha a borotha ebile ha a robala, Ea boloka Yisraele.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "a borotha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ebile ha"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Ea boloka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:27.432669049Z",
+  "model": "glm-5.3"
+}

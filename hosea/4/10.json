@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ba tla ja, ba sa khotsofalle; ba bolla, ba ke ke ba hlaha; hobane ba tlogetse ho hlokomela ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "mme ba tla ja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "khotsofalle"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "ba bolla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba ke ke ba"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "hlaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ba tlogetse"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ho hlokomela"
+    }
+  ],
+  "timestamp": "2026-10-03T09:59:49.654004092Z",
+  "model": "glm-5.3"
+}

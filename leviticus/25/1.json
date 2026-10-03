@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme Yahwe a bolela ho Moshe thabeng ya Sinaye, a re:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:34.003666243Z",
+  "model": "glm-5.3"
+}

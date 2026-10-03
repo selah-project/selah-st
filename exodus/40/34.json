@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme leru le khakoretse ⟨את⟩ ohela ya kopano, mme kgalalelo ya Yahwe e tladile ⟨את⟩ ⟨the⟩ Mishkane.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "le khakoretse"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "leru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohela ya kopano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kopano"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "mme kgalalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e tladile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:14.913698890Z",
+  "model": "glm-5.3"
+}

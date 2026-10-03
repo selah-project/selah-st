@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Nna ke ile ka re: Yahwe, nka mohau wa hau, phekola moya wa ka, hobane ke etseditse bobe ho wena.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "nka mohau wa hau"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "phekola"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ke etseditse bobe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:10.248166209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme Yehoshua a mo hlohonolofatsa, mme a nea ⟨את⟩ Khebrone ho Khalebe, mora wa Yefune, e le boja.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "a mo hlohonolofatsa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a nea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khebrone"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebrone"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ho Khalebe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "e le boja"
+    }
+  ],
+  "timestamp": "2026-10-03T07:10:32.076859133Z",
+  "model": "glm-5.3"
+}

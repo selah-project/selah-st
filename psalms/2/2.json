@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Marena a lefatshe a ipema ka tlhoafalo, mme baruri ba kopana mmoho, kgahlanong le Yahwe le kgahlanong le Mashiakh ya tlotsitsweng wa hae.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "a ipema ka tlhoafalo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Marena"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a lefatshe"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "mme baruri"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "ba kopana mmoho"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmoho"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le kgahlanong le"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiakh ya tlotsitsweng wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:17.352624207Z",
+  "model": "glm-5.3"
+}

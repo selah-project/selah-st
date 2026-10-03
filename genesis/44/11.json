@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Ba ile ba ihlahisa, mme ba theohletsa, mong le mong ⟨את⟩ mokotla wa hae fatshe, mme ba bula, mong le mong mokotla wa hae.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "Ba ile ba ihlahisa"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ba theohletsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokotla wa hae"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "mokotla wa hae"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "mme ba bula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "mokotla wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:38:52.749924255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "Ho bolela hore Yahwe o toka, lelapa la ka, mme ha ho boloto ho yena.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "o toka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "lelapa la ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "boloto"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:11.579269795Z",
+  "model": "glm-5.3"
+}

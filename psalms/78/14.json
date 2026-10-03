@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme o ile a ba tataisa ka leru mosebetsing o moholo, le bosiu bohle ka khanya ya mollo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Mme o ile a ba tataisa"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ka leru"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mosebetsing o moholo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le bohle"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ka khanya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya mollo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:57.766941051Z",
+  "model": "glm-5.3"
+}

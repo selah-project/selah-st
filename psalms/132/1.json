@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Pina ya maeto. Hlakanya, Yahwe, bakeng sa Dawide, ⟨את⟩ mehlolo ya hae kaofela.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maeto"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Hlakanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bakeng sa Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehlolo ya hae kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "mehlolo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:26.175443877Z",
+  "model": "glm-5.3"
+}

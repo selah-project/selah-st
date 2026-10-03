@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Ba hlolang ba tla bona, mme ba thaba; mme tlolo eohle e tla koala molomo wa yona.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ba tla bona"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba hlolang"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "mme ba thaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme eohle"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tlolo"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "e tla koala"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "molomo wa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:41.916502418Z",
+  "model": "glm-5.3"
+}

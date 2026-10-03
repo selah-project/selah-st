@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 75,
+  "translation": "Re le dumelela, wena Elohim, re le dumelela, hobane lebitso la hao le haufi; ba bolela makatsweng a hao.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Re le dumelela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "re le dumelela"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "le haufi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "makatsweng a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:41.189331941Z",
+  "model": "glm-5.3"
+}

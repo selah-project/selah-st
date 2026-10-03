@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Hobane ke ile ka hafalla bohehileng, ha ke bona khotso ea babeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ke ile ka hafalla"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "bohehileng"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ea babeli"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ha ke bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:24.854581125Z",
+  "model": "glm-5.3"
+}

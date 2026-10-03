@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Sefahlafohle sa dinonyana se tsamayang ka manne a mane, ke se hlonahalang ho lona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sefahlafohle"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "sa dinonyana"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "dinonyana"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "se tsamayang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "manne a mane"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ke se hlonahalang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:08:20.293838730Z",
+  "model": "glm-5.3"
+}

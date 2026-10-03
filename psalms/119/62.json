@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Bohareng ba bosiu ke tla oma ho leboha Yahwe, ka baka la dikahlolo tsa tsedeko ya hao.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "bohareng ba"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ke tla oma"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "ho leboha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo tsa"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedeko ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:18.846950845Z",
+  "model": "glm-5.3"
+}

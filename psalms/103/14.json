@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Hobane ⟨eena⟩ o tseba sebopeho sa rona; o hopola hore re lefutho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨eena⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "sebopeho sa rona"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "o hopola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lefutho"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "re"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:06.826477302Z",
+  "model": "glm-5.3"
+}

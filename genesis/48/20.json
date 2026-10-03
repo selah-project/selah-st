@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Mme a ba hloekisa ka letsatsi leo, a re: Ka wena Yisraele o tla hloekisa, a re: Elohim a o behe jwalo ka Efrayime le jwalo ka Menashe. Mme a bea ⟨את⟩ Efrayime pele ga Menashe.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "a ba hloekisa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "a re"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Ka wena"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tla hloekisa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "a o behe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "jwalo ka Efrayime"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "le jwalo ka Menashe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "Mme a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayime"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:41:39.558728518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Maotwana ohle a ka a tla re: Yahwe, ke mang ya tshwanang le wena, ya pholosang mofutsana ho ya mo matlafetseng ho feta ena, le mofutsana le mos Rampohello ho ya mo thotong?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "maotwana a ka"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "a tla re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ya tshwanang le wena"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ya pholosang"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mofutsana"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ho ya matlafetseng"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho feta ena"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "le mofutsana"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le mos Rampohello"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "ho ya mo thotong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:09.835399064Z",
+  "model": "glm-5.3"
+}

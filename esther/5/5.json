@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme morena a re: Llekganyang ⟨את⟩ Hamane hore a etse ⟨את⟩ taba ya Estere. Mme morena le Hamane ba ile ba tla sebakeng sa mokete oo Estere a o entseng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "llekganyang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamane"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hore a etse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ya Estere"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ba ile ba tla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "le Hamane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "mokete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "a o entseng"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    }
+  ],
+  "timestamp": "2026-10-03T11:46:52.919258185Z",
+  "model": "glm-5.3"
+}

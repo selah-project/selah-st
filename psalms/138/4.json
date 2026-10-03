@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 138,
+  "translation": "Ba tla o tlotlisa, Yahwe, morena bohle ba lefatshe, hobane ba utlile mantswe a molomo wa hao.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Ba tla o tlotlisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ba utlile"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "a molomo wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:43.351829057Z",
+  "model": "glm-5.3"
+}

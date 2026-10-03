@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme o ile a hana bopele ba Yosefe, mme sechaba sa Efrayime a sa ke ke a se kgetha.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "a hana"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "bopele"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "mme sechaba sa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa ke ke"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "a kgetha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:08.127994830Z",
+  "model": "glm-5.3"
+}

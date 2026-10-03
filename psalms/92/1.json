@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "Sepsaleme, sefela, bakeng sa letsatsi la Shabata.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Sepsaleme"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sefela"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bakeng sa letsatsi la"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabata"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:42.496290292Z",
+  "model": "glm-5.3"
+}

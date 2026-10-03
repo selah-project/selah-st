@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Moshe le Aharone ya tsamaya, ya khobokanya ⟨את⟩ baholo ohle ba bana ba Yisraele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ya tsamaya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ya khobokanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baholo ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T12:43:10.689241901Z",
+  "model": "glm-5.3"
+}

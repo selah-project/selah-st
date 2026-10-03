@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Ditsela tsa bona di be lefifi le ho thetseha, mme malaka ya Yahwe a di lekellela.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "di be"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ditsela tsa bona"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefifi"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "le ho thetseha"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "mme malaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "a di lekellela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:55.068838114Z",
+  "model": "glm-5.3"
+}

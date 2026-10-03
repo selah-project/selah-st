@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Sebakeng se seng le se seng seo ka tlase ea maoto a lona e tla eng teng, ke le fane ka sona, jwalokaha ke buile le Moshe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "se seng le se seng"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "e tla eng teng"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ka tlase ea"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "maoto a lona"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ke fane ka sona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalokaha"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke buile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:04:47.878000555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Lentswe Adonai a le rometseng ho Yaakobo, mme le ile la wa hara Yisraele.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a le rometse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ho Yaakobo"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "mme le ile la wa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "hara Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:36:48.841631048Z",
+  "model": "glm-5.3"
+}

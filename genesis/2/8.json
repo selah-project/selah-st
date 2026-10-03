@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Yahwe Elohim o ile a jalha setereke sa Eden bochabela, mme a beella moo ⟨את⟩ motho ya neng a se mo bopile.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "o ile a jalha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "setereke"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "sa Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "bochabela"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a beella"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya neng a"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "mo bopile"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:10.266088235Z",
+  "model": "glm-5.3"
+}

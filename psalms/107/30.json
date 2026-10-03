@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Mme ba thaba hobane didimalla, mme a ba tataisa ho ya sebakeng sa boikhomelo ba bona ba khothalletso.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "mme ba thaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "didimalla"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "mme a ba tataisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "sebakeng sa boikhomelo"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "ba se ratang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:52.737485930Z",
+  "model": "glm-5.3"
+}

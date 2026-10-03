@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme bahlomphi bohle le setjhaba sohle ba thabela, ba isa, ba lahla sebakeng sa petlo ho fihlela ho qeta.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ba thabela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "bahlomphi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ba isa"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ba lahla"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sebakeng sa petlo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "ho qeta"
+    }
+  ],
+  "timestamp": "2026-10-03T12:34:20.749024792Z",
+  "model": "glm-5.3"
+}

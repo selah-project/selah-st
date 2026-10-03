@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Thabeng ya Tsiyone e thabe, mme barali ba Yudaha ba tshehe, ka baka ya dikahlolo tsa hao.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "e thabe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ba tshehe"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barali ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudaha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka baka ya"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikahlolo tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:43.694196707Z",
+  "model": "glm-5.3"
+}

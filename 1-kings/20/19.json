@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 20:19",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme bana ba ile ba tswa motseng — banana ba badihara ba diporofense — le mophato eo e neng e morao ho bona.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "mme bana"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba ile ba tswa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tswa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "banana"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ba badihara"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "ba diporofense"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "le mophato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e neng e"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "morao ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:14:50.881388387Z",
+  "model": "glm-5.3"
+}

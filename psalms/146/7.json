@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 146,
+  "translation": "Ya etsang kahlolo bakeng sa ba hlabetsweng, ya fang lijo ba lakatsang; Yahwe ya lokollang ba iletseng.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ya etsang"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "bakeng sa ba hlabetsweng"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya fang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lijo"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "ba lakatsang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "ya lokollang"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "ba iletseng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:53.572274677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Torah ya Yahwe e phethahetseng, e khutlisetsang bophelo; bopaki bo Yahwe bo ts'epahalang, bo fang bohlale ya sa tsebang.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torah ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "e phethahetseng"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "e khutlisetsang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "bopaki bo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "bo ts'epahalang"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "bo fang bohlale"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "ya sa tsebang"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:27.956669610Z",
+  "model": "glm-5.3"
+}

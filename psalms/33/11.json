@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Kaelo ya Yahwe e tla ema ho sa feleng; dikgopolo tsa pelo ya hae, ho dikolwana le dikolwana.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Kaelo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "e tla ema"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "dikgopolo tsa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ho dikolwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le dikolwana"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:03.487009835Z",
+  "model": "glm-5.3"
+}

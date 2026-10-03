@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Ha o adisa mokgwenyane wa hao seng kapa se seng, o se ke wa kena ntlong ya hae ho tla sehlomathiso sa hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "o adisa"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "mokgwenyane wa hao"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "adiso"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "seng kapa se seng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlong ya hae"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "ho tla sehlomathiso"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "sehlomathiso sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:56:44.552397128Z",
+  "model": "glm-5.3"
+}

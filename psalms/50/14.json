@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Hlabela Elohim kaneho, mme o lefe Elyone kangetso ya hau.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Hlabela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "kaneho"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "mme o lefe"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "kangetso ya hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:13.373002491Z",
+  "model": "glm-5.3"
+}

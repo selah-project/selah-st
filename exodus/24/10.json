@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme ba bona ⟨את⟩ Elohim ya Yisraele; mme ka tlase ho maoto a hae ⟨⟨e ne e le⟩⟩ jwalo ka mosebetsi wa leputsoa la sapphire, mme jwalo ka bohalaleling ba mahodimo ka ho hlakileha.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Mme ba bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ya Yisraele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "mme ka tlase ho"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maoto a hae"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "jwalo ka mosebetsi wa"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "leputsoa la"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "sapphire"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "mme jwalo ka bohalaleling ba"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ka ho hlakileha"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:40.352790166Z",
+  "model": "glm-5.3"
+}

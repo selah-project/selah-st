@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Yahwe, Elohim ya ka, ke ile ka o huwa, mme wa ngofodisa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ke ile ka o huwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "mme wa ngofodisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:09.754670998Z",
+  "model": "glm-5.3"
+}

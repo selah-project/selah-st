@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 118,
+  "translation": "Ena ke ⟨⟨ke⟩⟩ sehla sa Yahwe; ba lokileng ba tla kena ho sona.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ena"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sehla"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sa Yahwe"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba tla kena"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho sona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:22.222033604Z",
+  "model": "glm-5.3"
+}

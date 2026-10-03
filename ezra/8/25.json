@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme ka ba ekela ⟨את⟩ sefaha, le ⟨את⟩ gauta, le ⟨את⟩ disejana — mpho ya ntlo ya Elohim ya rona — eo morena le baakanyedi ba hae le matona a hae le Yisraele ohle ba fumaneng ba e phahamisitseng.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "ka ba ekela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefaha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sefaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "gauta"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "disejana"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "disejana"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim ya rona"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "ba phahamisitseng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "le baakanyedi ba hae"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "le matona a hae"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ba fumaneng"
+    }
+  ],
+  "timestamp": "2026-10-03T12:01:20.884174002Z",
+  "model": "glm-5.3"
+}

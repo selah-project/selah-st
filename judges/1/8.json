@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme bana ba Yudahe ba lwa Yerushalayime, mme ba e hapang, mme ba e hlaola ka molomo wa sehlepe, mme ⟨את⟩ toropo ba e romela molulong.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudahe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ba e hapang"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "ba e hlaola"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo wa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sehlepe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ba e romela"
+    },
+    {
+      "surface": "באש",
+      "gloss": "molulong"
+    }
+  ],
+  "timestamp": "2026-10-03T07:16:24.406587613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme bara ba hae ba ne ba etela letsatsi la mong le mong, ba etsa mokete ntlong ea mong le mong; mme ba romela, ba bitsetsa baradi ba bona ba tharo ho ja le ho noa le bona.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Mme ba ne ba etela"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bara ba hae"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mokete"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ea"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "letsatsi la hae"
+    },
+    {
+      "surface": "וושלחו",
+      "gloss": "mme ba romela"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ba bitsetsa"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ba tharo"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "baradi ba bona"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ho ja"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "le ho noa"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "le bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:19:28.980028795Z",
+  "model": "glm-5.3"
+}

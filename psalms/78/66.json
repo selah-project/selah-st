@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme o ile a otla ⟨את⟩ ba mo hloyang ka morao, a ba nea seriti sa kahosafatsa.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "a otla"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ba mo hloyang"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ka morao"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "seriti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kahosafatsa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a ba nea"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨את⟩ ba mo hloyang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:08.127818115Z",
+  "model": "glm-5.3"
+}

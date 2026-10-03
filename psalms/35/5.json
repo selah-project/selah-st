@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Ba be jwalo ka motso pele ho ruakh, mme malaka ya Yahwe a ba sisinya.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ba be"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "jwalo ka motso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "mme malaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "a ba sisinya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:55.068617188Z",
+  "model": "glm-5.3"
+}

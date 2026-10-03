@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Obede a beletsa ⟨את⟩ Yehue, mme Yehue a beletsa ⟨את⟩ Azarjaha.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Mme Obede"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a beletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehue"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehue"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "mme Yehue"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a beletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjaha"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjaha"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:34.384660982Z",
+  "model": "glm-5.3"
+}

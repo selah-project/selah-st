@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "U re tsebise ho bala malatsi a rona ka nepo, hore re tle re ise pelo ya rona ho bohlale.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "ho bala"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "malatsi a rona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka nepo"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "U re tsebise"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "re tle re ise"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:56.948424951Z",
+  "model": "glm-5.3"
+}

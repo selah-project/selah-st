@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Qetello ya taba, tsohle di utloitswe: tsaba ⟨את⟩ Elohim, mme boloke ⟨את⟩ melao ya hae, hobane sena ke motho ka ho feletseng.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Qetello"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya taba"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "di utloitswe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "tsaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "melao ya hae"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "melao ya hae"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "boloke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka ho feletseng"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:45:30.675230258Z",
+  "model": "glm-5.3"
+}

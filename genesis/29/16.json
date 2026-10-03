@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme ho Labane ⟨ho ne ho⟩ le barali ba babeli: lebitso la ea kgolo ⟨e ne e⟩ Lea, mme lebitso la ea nyane ⟨e ne e⟩ Rakhale.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "ho Labane"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "babeli"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barali"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "la ea kgolo"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme lebitso"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "la ea nyane"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakhale"
+    }
+  ],
+  "timestamp": "2026-10-03T05:31:39.771572604Z",
+  "model": "glm-5.3"
+}

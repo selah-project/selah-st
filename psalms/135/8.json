@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Ya tlabetse ba-beletsweng-pele ba Mitsrayime, ho tloha bathong ho fihlela diphoofolong.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Ya tlabetse"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ba-beletsweng-pele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ho tloha bathong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "diphoofolong"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:14.382168636Z",
+  "model": "glm-5.3"
+}

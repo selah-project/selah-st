@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Mona ke lewatle le holo le le pharaletseng ka mahlakore, moo ho leng ho diphofu tse ntle le palo, diphologolo tsa phelo tse nyane hammoho le tse holo.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Mona ke"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le holo"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "le le pharaletseng"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ka mahlakore"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "diphofu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tle le palo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "diphologolo tsa phelo"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "tse nyane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hammoho le"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tse holo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:32.312719154Z",
+  "model": "glm-5.3"
+}

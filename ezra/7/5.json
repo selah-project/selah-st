@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mor'a Abishua, mor'a Pinekhase, mor'a Elazare, mor'a Aharone, moprista wa pele,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mor'a"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abishua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mor'a"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinekhase"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mor'a"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazare"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mor'a"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "wa pele"
+    }
+  ],
+  "timestamp": "2026-10-03T11:59:12.643876257Z",
+  "model": "glm-5.3"
+}

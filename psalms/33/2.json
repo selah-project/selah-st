@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Fumang ho Yahwe ka kenora; binang ho yena ka nebele ya dithapo tse leshome.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Fumang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kenora"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ka nebele"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ya dithapo tse leshome"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "Binang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:57.416380140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Jwaloka Yahwe a laetse ⟨את⟩ Moshe, jwalo ha bongoana ba Tselofkhade ba etsile.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba etsile"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bongoana ba"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofkhade"
+    }
+  ],
+  "timestamp": "2026-10-03T12:48:58.870705010Z",
+  "model": "glm-5.3"
+}

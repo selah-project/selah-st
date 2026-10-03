@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Elohim ya ka, ke bitsa motsehare, mme ha o arabe; le bosiu, mme ha ho phomolo ho ya ka.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke bitsa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "motsehare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "o arabe"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bosiu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "phomolo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:23.259347494Z",
+  "model": "glm-5.3"
+}

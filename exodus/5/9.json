@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mosebetsi o tla bo o boima holima banna, mme ba o etsa, mme ba se ke ba sheba maqephe a leshano.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "o tla bo o boima"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba o etsa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ba se ke"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ba sheba"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "maqephe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "a leshano"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:45.980671226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Ke tla ruta ba fetang melao mehlaea ya hau, mme basebedi ba tla khutlela ho uena.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "ke tla ruta"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "ba fetang melao"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "mehlaea ya hau"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "mme basebedi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ba tla khutlela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:10.520899372Z",
+  "model": "glm-5.3"
+}

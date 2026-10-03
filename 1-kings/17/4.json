@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme ho tla ba le hona, o tla noa nakong, mme ⟨את⟩ likhoba ke li laetse hore li u jele moo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mme ho tla ba le hona"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "nakong"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "o tla noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "likhoba"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "likhoba"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ke li laetse"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "hore li u jele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:12:53.998308293Z",
+  "model": "glm-5.3"
+}

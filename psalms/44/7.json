@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Hobane hase ka uta wa ka ke tshabela, mme sabole ya ka e ke ke ya mphe tokoloho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hase"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "ka uta wa ka"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ke tshabela"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "mme sabole ya ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "mphe tokoloho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:14.616702887Z",
+  "model": "glm-5.3"
+}

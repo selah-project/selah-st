@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Monga ka, mpolla: ke lefatshe — shekele tse makgolo a mane tsa sefof; ke eng hae pakeng tsa 'na le wena? Me o pitle ⟨את⟩ lefu la hao.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "monga ka"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "mpolla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mane"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekele"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tsa sefof"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "pakeng tsa 'na"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "le pakeng tsa hao"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "me ⟨את⟩",
+      "marks": "lefu la hao"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "lefu la hao"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "pitle"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:42.726985666Z",
+  "model": "glm-5.3"
+}

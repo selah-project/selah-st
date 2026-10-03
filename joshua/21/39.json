@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "⟨את⟩ Khesbone le ⟨את⟩ maphata a yona, ⟨את⟩ Yeazere le ⟨את⟩ maphata a yona; metsohle metse e nne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khesbone"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Khesbone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "maphata a yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "maphata a yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeazere"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yeazere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "maphata a yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "maphata a yona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "metsohle"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "e nne"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:12.065082008Z",
+  "model": "glm-5.3"
+}

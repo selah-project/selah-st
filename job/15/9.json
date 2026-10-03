@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "O tseba eng eo re sa e tsebeng? O utlwisisa eng eo e seng yena e le ⟨le⟩ rona?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eo re sa"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "e tsebeng"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "o utlwisisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eo e seng"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:24:11.228697506Z",
+  "model": "glm-5.3"
+}

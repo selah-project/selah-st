@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme Yitshake a bitsa ⟨את⟩ Yaakobo, a mo hlohonolofatsa, a mo laela, a re ho yena: O se ke wa nka mosadi ho baradi ba Kenaane.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a mo hlohonolofatsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "a mo laela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "nka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ho baradi ba"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:32:00.984344969Z",
+  "model": "glm-5.3"
+}

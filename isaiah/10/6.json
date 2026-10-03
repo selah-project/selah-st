@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Ke tlaa mo romella sechabeng se senyang, mme mo laela kgahlanong le sechaba sa tletsebobo ya ka: hore a tloe tlola sehlahlama mme a tloe tlola boshe, mme ke behe seo e le tlharetloso, bjalo ka lerole la ditsela tsa boahelweng.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "sechabeng"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "se senyang"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "Ke tlaa mo romella"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme kgahlanong le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba sa"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "tletsebobo ya ka"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "mo laela"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "hore a tloe tlola"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "sehlahlama"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "mme a tloe tlola"
+    },
+    {
+      "surface": "בז",
+      "gloss": "boshe"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "mme ke behe seo"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "e le tlharetloso"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "bjalo ka lerole"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "la ditsela tsa boahelweng"
+    }
+  ],
+  "timestamp": "2026-10-03T13:00:45.000399913Z",
+  "model": "glm-5.3"
+}

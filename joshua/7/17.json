@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme a hlahisa ⟨את⟩ lapa la Yehuda, mme a tshwara ⟨את⟩ lapa la la Zerakh; mme a hlahisa ⟨את⟩ lapa la la Zerakh ho banna, mme Zabdi a tshwarwa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a hlahisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapa la Yehuda"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lapa la"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a tshwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapa la la Zerakh"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lapa la"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "la Zerakh"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "a hlahisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapa la la Zerakh"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lapa la"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "la Zerakh"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "ho banna"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a tshwarwa"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zabdi"
+    }
+  ],
+  "timestamp": "2026-10-03T07:07:38.196961640Z",
+  "model": "glm-5.3"
+}

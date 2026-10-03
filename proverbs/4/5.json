@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Fumana khokahano, fumana kutloisiso; o se ke wa lebala, mme o se ke wa fokotsehala ho mantswe a molomo wa ka.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Fumana"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "khokahano"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "fumana"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "kutloisiso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תט",
+      "gloss": "wa fokotsehala"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ho mantswe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:56.930486570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ntututse bophelo bo botle le tsebo, hobane ke kholwa melao ya hao.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bo botle"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "le tsebo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ntututse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "melao ya hao"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ke kholwa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:17.442644391Z",
+  "model": "glm-5.3"
+}

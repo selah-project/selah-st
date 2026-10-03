@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 3:4",
+  "book": "habakkuk",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme khanya ya hae e be jwaloka lesedi; maholo a lesedi a tloha letsohong la hae ho eena, mme moo ⟨ke⟩ se patiloeng sa matla a hae.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "Mme khanya"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "jwaloka lesedi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e be"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "maholo a lesedi"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "a tloha letsohong la hae"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme moo"
+    },
+    {
+      "surface": "חביון",
+      "gloss": "se patiloeng"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "sa matla a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:15:10.755537920Z",
+  "model": "glm-5.3"
+}

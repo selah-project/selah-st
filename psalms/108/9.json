@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 108,
+  "translation": "Gilade ke ya ka, Menashe ke ya ka, mme Efrayime ke matla a hlooho ya ka, Yehuda ke moqolotsi-melao wa ka.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ke ya ka"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilade"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke ya ka"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "mme Efrayime"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlooho ya ka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "moqolotsi-melao wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:00.988207007Z",
+  "model": "glm-5.3"
+}

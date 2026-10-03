@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 115,
+  "translation": "Hase rona, Yahwe, hase rona, empa ho lebitso la hau fa kgalalelo, ho hesede ya hau, ho nnete ya hau.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hase"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hase"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "empa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ho lebitso la hau"
+    },
+    {
+      "surface": "תן",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hau"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nnete ya hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:55:01.832179087Z",
+  "model": "glm-5.3"
+}

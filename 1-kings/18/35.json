@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme metsi a phalla a pota-pota altare, mme le ⟨את⟩ mocheng ona o kenang metsi a o tlatsa ka metsi.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "a phalla"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a pota-pota"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mocheng ona o kenang metsi"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "mocheng ona o kenang metsi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a o tlatsa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ka metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T08:13:53.238943704Z",
+  "model": "glm-5.3"
+}

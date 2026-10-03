@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme matsatsi a Adame kamora hore a bege ⟨את⟩ Shethe, a le mashome a robedi a dikgolo tsa dingwaga; mme a belega banabana le barwedi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Mme a le"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adame"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kamora hore"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "a bege"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shethe"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shethe"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "robedi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dikgolo tse robedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dingwaga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a belega"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "banabana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "le barwedi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:13.106752131Z",
+  "model": "glm-5.3"
+}

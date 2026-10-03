@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 84,
+  "translation": "Ho moetapele, hodima se ya Gathe, mokoao wa bana ba Korakhe.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moetapele"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "se ya Gathe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mokoao wa bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pesa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:18.474942174Z",
+  "model": "glm-5.3"
+}

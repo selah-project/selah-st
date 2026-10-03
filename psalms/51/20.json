@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "E etsa hantle ka thato ya hao ⟨את⟩ Tsione; o age mabota a Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "E etsa hantle"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ka thato ya hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsione"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "o age"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mabota"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:04.990600215Z",
+  "model": "glm-5.3"
+}

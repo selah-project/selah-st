@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "Yahwe, motho ke eng hore o mo tseba, mora wa motho oo a swang hore o mo akaretse?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "hore o mo tseba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho oo a swang"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "hore o mo akaretse"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:06.946982741Z",
+  "model": "glm-5.3"
+}

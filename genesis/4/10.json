@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ⟨הוא⟩ a re: O etseng eng? Modumo wa madi a moholoane wa hao o lelela ho eena ho tloha lefatseng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "O etseng"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Modumo"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "madi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "a moholoane wa hao"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "o lelela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatseng"
+    }
+  ],
+  "timestamp": "2026-10-03T12:41:35.206867084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ba bohle ba futhumetse e le tannore, mme ba ja ⟨את⟩ baahloli ba bona; bakhosi ba bona bohle ba ile ba wa; ha ho mong wa bona ea bitsang ho 'na.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ba bohle"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "ba futhumetse"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "tannore"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mme ba ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baahloli ba bona"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "baahloli ba bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "bakhosi ba bona"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ba ile ba wa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho mong"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ea bitsang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wa bona"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:03:17.025548094Z",
+  "model": "glm-5.3"
+}

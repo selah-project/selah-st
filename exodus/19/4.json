@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Lona le bone seo nka se entseng Mitsrayimeng; mme ka le jara ka mapheho a dimokodi, mme ka le isa ho lona.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nka se entseng"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayimeng"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "mme ka le jara"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapheho a"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "dimokodi"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "mme ka le isa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:15.255608849Z",
+  "model": "glm-5.3"
+}

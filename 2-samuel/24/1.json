@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme Yahwe o ile a eketsa ho tlohela bohale ⟨bo⟩ ho Yisraele, mme a hlohleletsa ⟨את⟩ Dawide ho ba, a re: Tswa, bala ⟨את⟩ Yisraele le ⟨את⟩ Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "o ile a eketsa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bohale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "ho tlohela"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ho Yisraele"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "mme a hlohleletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho ba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tswa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T08:00:37.429620540Z",
+  "model": "glm-5.3"
+}

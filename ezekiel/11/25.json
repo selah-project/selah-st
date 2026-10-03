@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme ke ile ka bolelela ba phethehwang kaofela lintlha tsa Yahwe tseo ⟨את⟩ a ntlhotsitseng tsona.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Mme ke ile ka bolelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ba phethehwang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lintlha kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lintlha tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "a ntlhotsitseng"
+    }
+  ],
+  "timestamp": "2026-10-03T09:34:23.553365283Z",
+  "model": "glm-5.3"
+}

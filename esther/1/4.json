@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ha a bontsha ⟨את⟩ tlhaho ea kgalalelo ea borena ba hae le ⟨את⟩ tlhaho ea ponahalo ea boholo ba hae, matsatsi a mangata — mashome a robeloi le lekgolo la matsatsi.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "ha a bontsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhaho ea kgalalelo ea borena ba hae"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tlhaho"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo ea"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "borena ba hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tlhaho ea ponahalo ea boholo ba hae"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "tlhaho ea"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ponahalo ea"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "boholo ba hae"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mangata"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "mashome a robeloi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "le lekgolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:47:31.486153918Z",
+  "model": "glm-5.3"
+}

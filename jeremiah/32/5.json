@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme Babilone o tla isa ⟨את⟩ Tsidkiyahu, mme o tla dula teng moo ho fihlela ke ⟨את⟩ mo etela, ho bolela Yahwe; le ha le loantsa ⟨את⟩ Bakasdi, le ke ke la atleha.",
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Mme Babilone"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "o tla isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme moo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla dula"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "ke mo etela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "le ha"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "le loantsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ le",
+      "marks": "Bakasdi"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Bakasdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le ke ke"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "la atleha"
+    }
+  ],
+  "timestamp": "2026-10-03T13:04:28.740464764Z",
+  "model": "glm-5.3"
+}

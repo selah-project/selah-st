@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 110,
+  "translation": "Sechaba sa hao se tla mphana ka boithaopo ka letsatsi la matla a hao, ka dingolwa tsa kgalalelo; ho tloha mpeng wa mashome a bosehleng, ke hao kotswe ya bonyana ba hao.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Sechaba sa hao"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "se tla mphana ka boithaopo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "la matla a hao"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "ka dingolwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tsa kgalalelo"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ho tloha mpeng"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "wa mashome a bosehleng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ke hao"
+    },
+    {
+      "surface": "טל",
+      "gloss": "kotswe"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ya bonyana ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:45.370631400Z",
+  "model": "glm-5.3"
+}

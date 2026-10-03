@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 149,
+  "translation": "Hobane Yahwe o a rate sechaba sa hae; o kgabisetsa mahlonoko ka pholoho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "o a rate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "sechaba sa hae"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "o kgabisetsa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "mahlonoko"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "ka pholoho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:56.455982311Z",
+  "model": "glm-5.3"
+}

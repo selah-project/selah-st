@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme baprista ba dumedisa hore ba se ke ba nka khaufe ho tsoa ho ⟨את⟩ sechaba, le hore ba se ke ba matlafatsa ⟨את⟩ makoko a ntlo.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "ba dumedisa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hore ba se ke ba"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "nka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "khaufe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho tsoa ho ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "le hore ba se ke ba"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "matlafatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makoko a ntlo"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "makoko"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ntlo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:25:24.500905520Z",
+  "model": "glm-5.3"
+}

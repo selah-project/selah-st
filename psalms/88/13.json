@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Na dipelaelo tsa hau di ka tsebahala lefifing? Le tsedeke ya hau lefatsheng la hlokomoloho?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "di ka tsebahala"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "lefifing"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "dipelaelo tsa hau"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "le tsedeke ya hau"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "la hlokomoloho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:38.543823760Z",
+  "model": "glm-5.3"
+}

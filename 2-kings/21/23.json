@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme bakopi ba Amoné ba ile ba qobella khahlanong le hae, mme ba bolaisa ⟨את⟩ morena ka tlung ya hae.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "ba qobella"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bakopi ba"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoné"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "khahlanong le hae"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "mme ba bolaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ka tlung ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:28:11.893231659Z",
+  "model": "glm-5.3"
+}

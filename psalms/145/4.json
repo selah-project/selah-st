@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Sedimoso ho ya ho sedimoso di tla tlotlisa mesebetsi ya hao, mme matla a hao a mabaholo a tla bolelwa.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "sedimoso"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ho ya ho sedimoso"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "di tla tlotlisa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mesebetsi ya hao"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "mme matla a hao a mabaholo"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "a tla bolelwa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:34.097666375Z",
+  "model": "glm-5.3"
+}

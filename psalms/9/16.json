@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mafatshe a ile a kenela sefateng seo ba se entseng; lerung leo ba le patileng, maoto a tsona a ile a tsejoa ho lona.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "a ile a kenela"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Mafatshe"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "sefateng"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "seo ba se entseng"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "lerung"
+    },
+    {
+      "surface": "זו",
+      "gloss": "leo"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ba le patileng"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "a ile a tsejoa"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "maoto a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:00.566546400Z",
+  "model": "glm-5.3"
+}

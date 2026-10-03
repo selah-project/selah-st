@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "Dikgomo tsa rona di jara boima, ha ho tlhaselo, mme ha ho tswelo, mme ha ho lelemeleho ditsibitsibeng tsa rona.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "dikgomo tsa rona"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "di jara boima"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "tlhaselo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "tswelo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "lelemeleho"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "ditsibitsibeng tsa rona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:09.918529376Z",
+  "model": "glm-5.3"
+}

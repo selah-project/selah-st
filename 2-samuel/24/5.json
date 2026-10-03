@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme ba fetella ⟨את⟩ Yardene, ba lula Aroere, ka ho ja letshetlehile la ⟨⟨the⟩> motsana o leng ka hara lehlakore la Gade, ba fihla Yaezere.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ba fetella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardene"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba lula"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroere"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "letshetlehile"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motsana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hara"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "lehlakore"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "la Gade"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezere"
+    }
+  ],
+  "timestamp": "2026-10-03T07:59:52.765171001Z",
+  "model": "glm-5.3"
+}

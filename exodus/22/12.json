@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ha e ka ea rouloa dikarolo, a e isetse bopaki; ha a na ho lefola se rouloang.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ea rouloa"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "e ka rouloa dikarolo"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "a e isetse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "se rouloang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "a na ho lefola"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:31.957301910Z",
+  "model": "glm-5.3"
+}

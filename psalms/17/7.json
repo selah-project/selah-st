@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "E hlakantshwe hesede ya hao, wena ya pholotseng ba tshephehang ho oena, ho ba qalang khahlanong le bona, ka letsoho la hao le letona.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "e hlakantshwe"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ya pholotseng"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "ba tshephehang ho oena"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "ho ba qalang khahlanong le bona"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ka letsoho la hao le letona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:18.376569161Z",
+  "model": "glm-5.3"
+}

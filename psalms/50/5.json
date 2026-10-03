@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Khothatsang ⟨⟨את⟩⟩ ba hesede ba ka, ba sa selekaneng le nna selekane ka sefahleho sa mendule, bakeng sa nna.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Khothatsang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bakeng sa nna"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "ba hesede ba ka"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ba sa selekaneng"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka sefahleho sa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "mendule"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:03.205774008Z",
+  "model": "glm-5.3"
+}

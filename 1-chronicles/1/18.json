@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Arfakeshade a begets ⟨את⟩ Shelaakhe, mme Shelaakhe a begets ⟨את⟩ Ebere.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Mme Arfakeshade"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a begets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelaakhe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelaakhe"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "mme Shelaakhe"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a begets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebere"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ebere"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:40.431289205Z",
+  "model": "glm-5.3"
+}

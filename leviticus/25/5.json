@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Sejalo se ithetseng sa kotulo ea hau o se ke wa se kotula, le ⟨את⟩ merara ea sehlaha sa hau se sa tlotsoang o se ke wa e boka; e tla ba selemo sa phomolo e halalelang bakeng sa lefatshe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sejalo se ithetseng"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "sejalo se ithetseng"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "sa kotulo ea hau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "wa se kotula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "merara"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "merara"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "ea sehlaha sa hau se sa tlotsoang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "wa e boka"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "selemo sa"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "phomolo e halalelang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bakeng sa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:26.253515984Z",
+  "model": "glm-5.3"
+}

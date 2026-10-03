@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ao re! Ke mang ya ka re lokollang seatleng sa melimo e matla ena? Ena ke melimo eo e neng ea otla ⟨את⟩ Mitsrayime ka mekotla yohle lehoatateng.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Ao re!"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rōna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ya ka re lokollang"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seatleng sa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "e matla"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ena ke"
+    },
+    {
+      "surface": "הם",
+      "gloss": "eo e neng e"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ea otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka yohle"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mekotla"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "lehoatateng"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:54.400663508Z",
+  "model": "glm-5.3"
+}

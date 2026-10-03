@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "O se ke wa qenehela batho ba mpe, mme o se ke wa labalaba ho ba le bona ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "qenehela"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "batho ba"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "labalaba"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ho ba le bona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ho ba le bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:15:42.308257217Z",
+  "model": "glm-5.3"
+}

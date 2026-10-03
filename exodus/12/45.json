@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mmoahi wa nakoana le morekisi ba ke ke ba ja eona.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "mmoahi wa nakoana"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "le morekisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba ke ke ba"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בו",
+      "gloss": "eona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:24.639930208Z",
+  "model": "glm-5.3"
+}

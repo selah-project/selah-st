@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Letsoho la Yahwe le ne le le hodima ha ka, mme le ntjhisa ka ruakh ya Yahwe, mme le n beha pakeng tsa bikaea, mme eona e ne e tlala maotwane.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima ha ka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "mme le ntjhisa"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ka ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "mme le n beha"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "bikaea ⟨the⟩"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mme eona"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tlala"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "maotwane"
+    }
+  ],
+  "timestamp": "2026-10-03T09:52:51.523102651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme ba hlalositseng bona ba ile ba fepa ⟨את⟩ morena Salomone le ⟨את⟩ bohle ba atamelang ho tafole ya morena Salomone, motho e mong le e mong ka kgwedi ya hae; ha ba a ka ba tlohella ho hloka se seng.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "ba ile ba fepa"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "ba hlalositseng"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena Salomone"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bohle ba atamelang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ba atamelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafole ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomone"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho e mong le e mong"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "ka kgwedi ya hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ba a ka ba tlohella"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "ho hloka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "se seng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:04:15.728332397Z",
+  "model": "glm-5.3"
+}

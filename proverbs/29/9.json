@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Monna ya hlakahala ha a ahlola ⟨את⟩ monna ya se nang bohlale, hae le ha a makatsa kapa a tsekisa, ha ho khotso.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ya hlakahala"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ha a ahlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna ya se nang bohlale"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ya se nang bohlale"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "ha a makatsa"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "kapa a tsekisa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "khotso"
+    }
+  ],
+  "timestamp": "2026-10-03T11:16:48.137356135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Hobane o ile a tantša hodima bophahamo ba halalelo ya hae; Yahwe o ile a sheba mahodimong ho ea lefatsheng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "o ile a tantša hodima"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "bophahamong"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "halalelo ya hae"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ea"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "a sheba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:55.686332982Z",
+  "model": "glm-5.3"
+}

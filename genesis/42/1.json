@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Mme Yaakobo a bona hore ho na le mabele ho Mitsrayime, mme Yaakobo a re ho bana ba hae: Hobaneng le lehana le e-ngoe?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ho na le"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ho Mitsrayime"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ho bana ba hae"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "le lehana le e-ngoe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:02.200532634Z",
+  "model": "glm-5.3"
+}

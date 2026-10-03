@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 118,
+  "translation": "Letsoho le letona la Yahwe le phahamisitsoe; letsoho le letona la Yahwe le etsa sebete.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "letsoho le letona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "le phahamisitsoe"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "letsoho le letona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "le etsa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sebete"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:38.497994183Z",
+  "model": "glm-5.3"
+}

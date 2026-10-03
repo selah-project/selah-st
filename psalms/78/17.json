@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme ba ile ba eketsa hape ho fosa ⟨lô⟩, ho hanela Elyone lehoqong.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "ba ile ba eketsa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "ho fosa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨lô⟩"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "ho hanela"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "lehoqong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:47.158323909Z",
+  "model": "glm-5.3"
+}

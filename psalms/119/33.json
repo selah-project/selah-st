@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ntsebisetsa, Yahwe, tsela ya ditaelo tsa hau, mme ke tla e tsamaisa ho fihlela qetelo.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ntsebisetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ya ditaelo tsa hau"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "mme ke tla e tsamaisa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ho fihlela qetelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:55.650825952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Mme ke tla le neha musa, mme a le rahamele, mme a le busetse ho mobu wa lona.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Mme ke tla le neha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "musa"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "mme a le rahamele"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "mme a le busetse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "mobu wa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:25:37.011508096Z",
+  "model": "glm-5.3"
+}

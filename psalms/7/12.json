@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Elohim ke moahloli ya lokileng, le El ya letsholo ka letsatsi le leng le le leng.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "moahloli"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya lokileng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ya letsholo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka letsatsi le leng le le leng le"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:14.919896741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Hobane mahlo a lona a bonile ⟨את⟩ mosebetsi ohle o moholo wa Yahwe oo a o entseng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mahlo a lona"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "a bonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebetsi ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "o moholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a o entseng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:49:38.140145502Z",
+  "model": "glm-5.3"
+}

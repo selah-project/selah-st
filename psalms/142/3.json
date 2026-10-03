@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 142,
+  "translation": "Ke tsholla sehlahliso sa ka pele sa hae; bothata ba ka pele sa hae ke a phetoa.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "Ke tsholla"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele sa hae"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "sehlahliso sa ka"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "bothata ba ka"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele sa hae"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ke a phetoa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:15.401150698Z",
+  "model": "glm-5.3"
+}

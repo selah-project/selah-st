@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Hobane le tla ba joalo ka mohlwa o omileng makhasi a ona, le joalo ka leala leo ho nang le metsi ho lona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "le tla ba"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "joalo ka mohlwa"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "o omileng"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "makhasi"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "le joalo ka leala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ho nang le"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:31:57.543962063Z",
+  "model": "glm-5.3"
+}

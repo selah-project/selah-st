@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Hobane ke choko ho Yisraele, eena ke kahlolo bakeng sa Elohim wa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "חק",
+      "gloss": "choko"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho Yisraele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "bakeng sa Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:42.586495058Z",
+  "model": "glm-5.3"
+}

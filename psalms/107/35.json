@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "O etsa bohalima e be letamo la metsi, mme lefatshe le omileng e be moo metsi a tlang teng.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "O etsa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "bohalima"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "e be letamo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "la metsi"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "mme lefatshe"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "le omileng"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "e be moo a tlang teng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:43.757812011Z",
+  "model": "glm-5.3"
+}

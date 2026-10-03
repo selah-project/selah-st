@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "mme ba diphapang ka melao ya ditjhaba tseo Yahwe a neng a di hlotse pele ho bana ba Yisraele, le ya bo morena ba Yisraele bao ba neng ba e etsile.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "mme ba diphapang"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "ka melao ya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "a di hlotse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "le ya bo morena ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba neng ba e etsile"
+    }
+  ],
+  "timestamp": "2026-10-03T08:26:37.218143824Z",
+  "model": "glm-5.3"
+}

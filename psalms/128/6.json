@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 128,
+  "translation": "Mme o bone bana ba bana ba hao; khotso e be ho Yisraele.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Mme o bone"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ba bana ba hao"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "על",
+      "gloss": "e be ho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:03.836363829Z",
+  "model": "glm-5.3"
+}

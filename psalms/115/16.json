@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 115,
+  "translation": "Mahodimo — mahodimo ke a Yahwe; mme lefatshe o ile a o fa bana ba batho.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ke a Yahwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mme lefatshe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o ile a fa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:15.204592Z",
+  "model": "glm-5.3"
+}

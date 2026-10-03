@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "⟨את⟩ diaparo tsa bohlanka bakeng sa ho tlotsa mishkameng e halalelang, ⟨את⟩ diaparo tse halalelang tsa Aharone moprista, le ⟨את⟩ diaparo tsa barawe ba hae bakeng sa ho ba baprista.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa bohlanka"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "bohlanka"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "bakeng sa ho tlotsa"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "mishkameng e halalelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tse halalelang"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "e halalelang"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "tsa Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diaparo tsa barawe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barawe ba hae"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bakeng sa ho ba baprista"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:57.464730483Z",
+  "model": "glm-5.3"
+}

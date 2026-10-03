@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Yahwe a ba a hlaha ho Shelomoh ka bobeli, jwaloka a hlotseng ho yena ea Gibeaone.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a ba a hlaha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ka bobeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "a hlotseng"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "ea Gibeaone"
+    }
+  ],
+  "timestamp": "2026-10-03T08:07:47.671930626Z",
+  "model": "glm-5.3"
+}

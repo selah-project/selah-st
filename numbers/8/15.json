@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme ka mora moo Balavi a tla kena ho sebetsa sebakeng sa ⟨את⟩ ohela wa kopano, mme o tla ba hloekisa, mme o tla ba fofatsa e le phofatso.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "mme ka mora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "moo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "a tla kena"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balavi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ho sebetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohela wa kopano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wa kopano"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "o tla ba hloekisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "Balavi"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "o tla ba fofatsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "Balavi"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "e le phofatso"
+    }
+  ],
+  "timestamp": "2026-10-03T06:27:42.576054423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Yehoyadawe a khaola ⟨את⟩ selekane pakeng tsa Yahwe le morena le sechaba, hore ba be sechaba sa Yahwe, le pakeng tsa morena le sechaba.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "a khaola"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyadawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "hore ba be"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sechaba sa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    }
+  ],
+  "timestamp": "2026-10-03T08:24:34.955368910Z",
+  "model": "glm-5.3"
+}

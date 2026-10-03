@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Fihla sefahleho sa hau dinthong tsa ka tse mpe, mme o phutholle khohola ya ka kaofela.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "fihla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hau"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "dinthong tsa ka tse mpe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme kaofela"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "khohola ya ka"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "o phutholle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:10.746478105Z",
+  "model": "glm-5.3"
+}

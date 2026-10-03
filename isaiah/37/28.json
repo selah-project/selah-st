@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme ho lula ha hao, le ho tswa ha hao, le ho kena ha hao, Ke a se tseba; le ⟨את⟩ tšenyo ea hau ho nna.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ho lula ha hao"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "le ho tswa ha hao"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "le ho kena ha hao"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ke a se tseba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tšenyo ea hau"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "tšenyo ea hau"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho nna"
+    }
+  ],
+  "timestamp": "2026-10-03T08:46:12.540577291Z",
+  "model": "glm-5.3"
+}

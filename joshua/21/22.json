@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Le ⟨את⟩ Kibtsayime le ⟨את⟩ mabala a yona, le ⟨את⟩ Beth-Khorone le ⟨את⟩ mabala a yona — ditsele tse nne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kibtsayime"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Beth-Khorone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Khorone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mabala a yona"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabala a yona"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ditsele"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tse nne"
+    }
+  ],
+  "timestamp": "2026-10-03T07:13:58.215440652Z",
+  "model": "glm-5.3"
+}

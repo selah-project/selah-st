@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Sena ⟨ke⟩ thekiso ya ka botlung ba ka; hobane lentsoe la hao le nthofolotse.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Sena"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "thekiso ya ka"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "botlung ba ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lentsoe la hao"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "le nthofolotse"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:35.957676305Z",
+  "model": "glm-5.3"
+}

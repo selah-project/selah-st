@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "⟨את⟩ dikarolo tsa ka tlase tsa leholo, ⟨את⟩ dikolomo tsa yona le ⟨את⟩ meabo ya yona, le ⟨את⟩ sekofo sa sefaha sa leholo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikarolo tsa ka tlase tsa leholo"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "dikarolo tsa ka tlase"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tsa leholo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikolomo tsa yona"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "dikolomo tsa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "meabo ya yona"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "meabo ya yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekofo sa sefaha sa leholo"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "sekofo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sa sefaha"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sa leholo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:06.191550123Z",
+  "model": "glm-5.3"
+}

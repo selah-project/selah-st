@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "mme Ishmaia wa Gibeone, sebaka hara ba mashome a mararo, mme hodima ba mashome a mararo;",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "Ishmaia"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "wa Gibeone"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sebaka"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "hara ba mashome a mararo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "ba mashome a mararo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:14:56.362619084Z",
+  "model": "glm-5.3"
+}

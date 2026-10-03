@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Elasaha a beletsa ⟨את⟩ Sisemae, mme Sisemae a beletsa ⟨את⟩ Shalume.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Mme Elasaha"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "a beletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisemae"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sisemae"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "mme Sisemae"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "a beletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalume"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalume"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:34.384972500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "mme ke neha wena ⟨את⟩ ntlo ya monga hao, le ⟨את⟩ basadi ba monga hao, letsheng la hao; mme ke neha wena ⟨את⟩ ntlo ya Yisraele le ya Yehuda; mme ha e nyane, ke tla e eketsa ho wena jwalo le jwalo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mme ke neha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya monga hao"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ya monga hao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "basadi ba monga hao"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ba monga hao"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "letsheng la hao"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mme ke neha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yisraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le ya Yehuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "e nyane"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "ke tla e eketsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "le jwalo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:55:17.066449435Z",
+  "model": "glm-5.3"
+}

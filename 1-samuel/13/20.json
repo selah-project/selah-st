@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme Yisraele oohle o ne a theohela ho Bapelistia, motho e mong le e mong ho loosa ⟨את⟩ teraka ea hae, le ⟨את⟩ kharepe ea hae, le ⟨את⟩ sekhele sa hae, le ⟨את⟩ khoere ea hae.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "o ne a theohela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ho Bapelistia"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "ho loosa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho e mong le e mong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teraka ea hae"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "teraka ea hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "kharepe ea hae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kharepe ea hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekhele sa hae"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "sekhele sa hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "khoere ea hae"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "khoere ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:35:44.759381644Z",
+  "model": "glm-5.3"
+}

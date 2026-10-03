@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme o ile a mathela ho Eli, a re: Mona ke ke, hobane o bitsitse ⟨את⟩ ka. Mme Eli a re: Ha ke a o bitsa; khutla, ea robala. Mme o ile a ea, a robala.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "o ile a mathela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mona ke ke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "o bitsitse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ke a o bitsa"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "khutla"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ea robala"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o ile a ea"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "a robala"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:47.487792679Z",
+  "model": "glm-5.3"
+}

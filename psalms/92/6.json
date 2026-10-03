@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "A dikgolo haholo ditiro tsa hao, Yahwe; mabitso a hao a djwalo haholo!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "a"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "dikgolo haholo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ditiro tsa hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "a djwalo"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "mabitso a hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:36.635081573Z",
+  "model": "glm-5.3"
+}

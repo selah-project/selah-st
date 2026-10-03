@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme lona le tla tsoha ho moamong, le nke ⟨את⟩ toropo; mme Yahwe Elohim ya lona o tla e neha letsong la lona.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "le tla tsoha"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "ho moamong"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "le nke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "mme o tla e neha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "letsong la lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:06:33.305769675Z",
+  "model": "glm-5.3"
+}

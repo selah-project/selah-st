@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 57,
+  "translation": "Ke tla ho leboha hara diamong, Adonai; ke tla ho bina oena hara mabitso.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ke tla ho leboha"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "hara diamong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ke tla ho bina oena"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hara mabitso"
+    },
+    {
+      "surface": "אמים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:33.556738379Z",
+  "model": "glm-5.3"
+}

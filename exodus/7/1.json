@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Yahwe a re ho Moshe: Bona, ke go beile Elohim ho Faro, mme Aharone moahane wa hao o tla ba moporofeta wa hao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Bona"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ke go beile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ho Faro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mme Aharone"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "moahane wa hao"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "moporofeta wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:45:10.686543715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ba ba bitsetse, mme ba ile ba tsamaea hole le bona; ho Baalim ba ehela, mme ho ditshwantsho tse etsotsweng ba chesa mmedi.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "ba bitsetse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mme jwalo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba tsamaea"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "hole le bona"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ho Baalim"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "ba ehela"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "mme ho ditshwantsho tse etsotsweng"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "ba chesa mmedi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:02:00.992620438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ka hona ba ipotsang hloba ha ba tlo ema kaharong ya kahlolo, le balekwa kaharong ya phutheho ya ba lokileng.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ba tlo ema"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ipotsang hloba"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kaharong ya kahlolo"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "le balekwa"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "kaharong ya phutheho"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ya ba lokileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:21:53.102960682Z",
+  "model": "glm-5.3"
+}

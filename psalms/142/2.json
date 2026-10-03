@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 142,
+  "translation": "Lentswe la ka ho Yahwe ke a hlaba; lentswe la ka ho Yahwe ke kopa mohau.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Lentswe la ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ke a hlaba"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentswe la ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ke kopa mohau"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:15.401029024Z",
+  "model": "glm-5.3"
+}

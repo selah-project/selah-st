@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Yehoshua o ile a nka ⟨את⟩ lefatshe lohle lena: ⟨⟨thaba⟩⟩, le ⟨את⟩ Borwa bohle, le ⟨את⟩ lefatshe la Goshene lohle, le ⟨את⟩ Serithi, le ⟨את⟩ Arava, le ⟨את⟩ thaba ya Yisraele le serithi sa yona.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Mme ... o ile a nka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe lohle lena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lena"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Borwa bohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Borwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lefatshe la Goshene lohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe la"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Serithi"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "Serithi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Arava"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "thaba ya Yisraele"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "le serithi sa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:11:52.906855772Z",
+  "model": "glm-5.3"
+}

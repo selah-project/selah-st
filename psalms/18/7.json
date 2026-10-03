@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Karolong ya dikgahla tsa ka ke bitsa Yahwe, mme ho Elohim ya ka ke lla ka thuso; o utlwa lentsoe la ka ho tempole ya hae, mme lla la ka le fihla pela hae, ho tloha ho ditlebe tsa hae.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "karolong ya dikgahla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tsa ka"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke bitsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ke lla ka thuso"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "o utlwa"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "ho tempole ya hae"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentsoe la ka"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "mme lla la ka"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pela hae"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "le fihla"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "ho tloha ho ditlebe tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:26.825711750Z",
+  "model": "glm-5.3"
+}

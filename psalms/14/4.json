@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "A ba sa tsebe batlang mehoele mengata, ba jang setjhaba sa ka, ba e jela jwaloka borelo, ba bitsang Yahwe eseng?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba sa tsebe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mengata"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "batlang"
+    },
+    {
+      "surface": "און",
+      "gloss": "mehoele"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ba jang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setjhaba sa ka"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ba e jela"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "jwaloka borelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ba bitsang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:11.540404095Z",
+  "model": "glm-5.3"
+}

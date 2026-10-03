@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Torah e le nngwe le kahlolo e le nngwe e tla ba bakeng sa lona le bakeng sa moeti ya dulang ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bakeng sa lona"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "le bakeng sa moeti"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ya dulang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:30:52.198896024Z",
+  "model": "glm-5.3"
+}

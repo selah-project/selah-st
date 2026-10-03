@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "mme dikarolo tse pedi ya lona, bohle ba tlolang ka Shabata, ba tla boloka ⟨את⟩ mesomo ya ntlo ya Yahwe ho ba ha morena.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "mme tse pedi"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ya lona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "ba tlolang"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ka Shabata"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ba tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesomo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "mesomo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ba ha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:22:12.368018913Z",
+  "model": "glm-5.3"
+}

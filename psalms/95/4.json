@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 95,
+  "translation": " eo matsong a hae a leng ho tibelo tsa lefatshe, le bohodimo ba dithaba ho yena.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "matsong a hae"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ho tibelo tsa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "le bohodimo ba"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:28.151194851Z",
+  "model": "glm-5.3"
+}

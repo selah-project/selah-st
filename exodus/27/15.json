@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme bakeng sa lehlakore la bobedi, mapheko a dimethe tse letho le metso e hlano, matlobo a tsona a mmararo, le meabo ya tsona e mmararo.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "mme bakeng sa lehlakore"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "le letho"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mapheko"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "matlobo a tsona"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "a mmararo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "le meabo ya tsona"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "e mmararo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:12.901925483Z",
+  "model": "glm-5.3"
+}

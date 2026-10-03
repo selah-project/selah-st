@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Elohim ya ka, o ntlokolle letsohong la molatu, a matsohong a molato le dikgoka.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "o ntlokolle"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "letsohong la"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "molatu"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "a matsohong a"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "molato"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "le dikgoka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:36.517655648Z",
+  "model": "glm-5.3"
+}

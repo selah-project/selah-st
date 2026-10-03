@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 75,
+  "translation": "Mme nna ke tla bolela ho sa feleng; ke tla bina hosana ho Elohim wa Yaakobo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ke tla bolela"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla bina hosana"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ho Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:41.121265145Z",
+  "model": "glm-5.3"
+}

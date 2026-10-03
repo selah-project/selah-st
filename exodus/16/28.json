@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme Yahwe a re ho Moshe: Ho fihla neng le gana ho boloka melao ea ka le Torat ea ka?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihla"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "neng"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "le gana"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ho boloka"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "melao ea ka"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "le Torat ea ka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:21.640205909Z",
+  "model": "glm-5.3"
+}

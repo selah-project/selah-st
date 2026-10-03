@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme ⟨את⟩ lenao la ho ja ho le letshehali le tla neha moprista e le terumah, ho tswa dihlabelong tsa kagiso tsa lona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lenao la ho ja ho le letshehali"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lenao la ho ja"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ho le letshehali"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "le tla neha"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "e le terumah"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "ho tswa dihlabelong"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "tsa kagiso tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:08.234472921Z",
+  "model": "glm-5.3"
+}

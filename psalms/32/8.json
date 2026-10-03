@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Ke tla ke ke hlalohatsa, mme ke tla ke ke sisafatsa tseleng eo o tsamayang ho ea; ke tla ke nehelana ka kelello, leihlo la ka le le ho wena.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "ke tla ke ke hlalohatsa"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "mme ke tla ke ke sisafatsa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "זו",
+      "gloss": "eo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "o tsamayang"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "ke tla ke nehelana ka kelello"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "leihlo la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:26.132400763Z",
+  "model": "glm-5.3"
+}

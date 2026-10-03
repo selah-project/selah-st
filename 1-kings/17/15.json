@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme ⟨ותלך⟩ mosadi a ya, a etsa ka lentswe la Eliyahu; mme a ja, eena le mosadi le ntlo ea hae, matsatsing a mangata.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ka lentswe la"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "le mosadi"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "le ntlo ea hae"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsing a mangata"
+    }
+  ],
+  "timestamp": "2026-10-03T08:12:00.048534783Z",
+  "model": "glm-5.3"
+}

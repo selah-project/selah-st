@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "A ba bala Bezekeng; mme bana ba Yisraele ba ne ba le dikete tse makgolo a tharo, mme banna ba Yehuda dikete tse masometharo.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "a ba bala"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekeng"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ba ne ba le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tse tharo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dikete tse makgolo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme banna ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tse masometharo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    }
+  ],
+  "timestamp": "2026-10-03T07:36:02.778308028Z",
+  "model": "glm-5.3"
+}

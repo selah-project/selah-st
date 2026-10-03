@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme a lwa le ⟨את⟩ mangeloe, mme a fuma; a lla, mme a bekebekela ho yena; Bet-Ele o mo fumana, mme moo a bua le rona.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "a lwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mangeloe"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "a fuma"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "a lla"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "a bekebekela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "o mo fumana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme moo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "le rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:01:57.902448486Z",
+  "model": "glm-5.3"
+}

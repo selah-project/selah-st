@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ke tla otla ka holimo ya Yerushalayime ⟨את⟩ thapo ya kabelo ya Shomrona, le ⟨את⟩ sekalе sa ntlo ya Ahabe; mme ke tla phema ⟨את⟩ Yerushalayime jwalo ka ha motho a phema sejana — a se phema, a se furalletsa sehlogong sa sona.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "mme ke tla otla ka holimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka holimo ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thapo ya kabelo ya Shomrona"
+    },
+    {
+      "surface": "קו",
+      "gloss": "thapo ya kabelo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomrona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekale sa ntlo ya Ahabe"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "sekale"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabe"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "mme ke tla phema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "a phema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sejana"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "sejana"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "a se phema"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "a se furalletsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sehlogong sa sona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:29:15.096073370Z",
+  "model": "glm-5.3"
+}

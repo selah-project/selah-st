@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Bohlale bo phahame haholo ho lesemu; kgetlong ha a bule molomo wa hae.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "bo phahame haholo"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "ho lesemu"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kgetlong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "a bule"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "molomo wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:15:12.891419304Z",
+  "model": "glm-5.3"
+}

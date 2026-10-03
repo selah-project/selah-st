@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme o tla etsa diqhoso tse mashome a hlano tsa tšepe; mme o tla kenya ⟨את⟩ diqhoso ka hara dikukuaro, mme o tla kopanya ⟨את⟩ ohela, mme ho tla ba ⟨e le⟩ selo se le seng.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "diqhoso"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tsa tšepe"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "tse mashome a hlano"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "o tla kenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diqhoso"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "diqhoso"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "ka hara dikukuaro"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "o tla kopanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohela"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ohela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ho tla ba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "selo se le seng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:59.548716011Z",
+  "model": "glm-5.3"
+}

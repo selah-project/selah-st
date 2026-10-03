@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mamela, Yahwe, lentswe la ka, ke bitsa; mme u mohaule, mme u arabe.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentswe la ka"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke bitsa"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mme u mohaule"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "mme u arabe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:14.401652178Z",
+  "model": "glm-5.3"
+}

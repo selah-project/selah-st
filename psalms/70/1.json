@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 70,
+  "translation": "Ho moeta-pele, salme ya Dawide, ho gopotsa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moeta-pele"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "salme ya Dawide"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ho gopotsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:34.735086945Z",
+  "model": "glm-5.3"
+}

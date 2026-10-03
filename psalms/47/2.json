@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 47,
+  "translation": "Lichaba tsohle, opang ⟨את⟩ letsogo; le hlakanyeletseng ho Elohim ka lentswe la thabo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Lichaba"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "opang"
+    },
+    {
+      "surface": "כף",
+      "gloss": "letsogo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "le hlakanyeletseng"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentswe la"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "thabo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:37.641984359Z",
+  "model": "glm-5.3"
+}

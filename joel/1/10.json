@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Sebala se senyehile, lefatshe le lla; hobane korong e senyehile, veine e ncha e omile, mafura a fokola.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "se senyehile"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sebala"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "le lla"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "e senyehile"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "korong"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "e omile"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "veine e ncha"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "a fokola"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "mafura"
+    }
+  ],
+  "timestamp": "2026-10-03T10:04:29.478924008Z",
+  "model": "glm-5.3"
+}

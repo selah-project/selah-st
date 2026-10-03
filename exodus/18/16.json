@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Hobane ha ba na taba, e tla ho nna; mme ke ahlola pakising tsa motho le moahisane wa hae; mme ke ba tsebisa ⟨את⟩ melaoana ya Elohim le ⟨את⟩ Torah ya hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ha ... e tla"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e tla"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "mme ke ahlola"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakising tsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moahisane wa hae"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "mme ke ba tsebisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melaoana ya Elohim"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "melaoana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Torah ya hae"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "Torah ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:08.993653949Z",
+  "model": "glm-5.3"
+}

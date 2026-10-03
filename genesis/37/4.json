@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme banana ba hae ba bona hore ntata bona a mo rata ho feta banana ba hae bohle, ba mo hloya, ba sa kgone ho bua le kagiso ho yena.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "banana ba hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ o",
+      "marks": "a mo rata"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "a rata"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ntata bona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho feta bohle"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "banana ba hae"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "ba mo hloya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ o",
+      "marks": "ba mo hloya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgone"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ho bua le"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "kagiso"
+    }
+  ],
+  "timestamp": "2026-10-03T05:35:52.683133147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Mooko wa ka o tla behwa ⟨pela⟩ yena; e bile sehaleng sa ka se tla mo matlafatsa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Moo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mooko wa ka"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "o tla behwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pela yena"
+    },
+    {
+      "surface": "אף",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "sehaleng sa ka"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "se tla mo matlafatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:16.320288342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Letsoho ho ya ho letsoho, mobe a ke ke a hlwekiswa; empa masoabi a ba lokileng a falohile.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "letsoho"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ho ya ho letsoho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ke ke"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "a hlwekiswa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mobe"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "empa masoabi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "a ba lokileng"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "a falohile"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:51.160955867Z",
+  "model": "glm-5.3"
+}

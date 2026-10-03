@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme morena Yehorame a tswa letsatsi leo ho tloha Shomarona, mme a bala ⟨את⟩ Yisraele kaofela.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorame"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letsatsi leo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "ho tloha Shomarona"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mme a bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:17:57.692709474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Tselana ya mo lokileng ⟨e⟩ ya toka; O Loke, o lekanya tselana ya mo lokileng.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "tselana"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ya mo lokileng"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ya toka"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "O Loke"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "tselana"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya mo lokileng"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "o lekanya"
+    }
+  ],
+  "timestamp": "2026-10-03T08:40:44.302568548Z",
+  "model": "glm-5.3"
+}

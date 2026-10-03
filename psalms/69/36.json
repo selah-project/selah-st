@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Hobane Elohim o tla boloka Siyone, a haha metse ya Yehuda, mme ba tla dula moo, ba e dule ba e na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "o tla boloka"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyone"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "a haha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba tla dula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "ba e dule ba e na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:54.808646467Z",
+  "model": "glm-5.3"
+}

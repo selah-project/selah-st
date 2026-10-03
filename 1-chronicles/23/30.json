@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "le ho ema hoseng le hoseng ho fana ka tumelo le ho rorisa Yahwe, le jwalo ka mantsiboya",
+  "tokens": [
+    {
+      "surface": "ולעמד",
+      "gloss": "le ho ema"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le hoseng"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ho fana ka tumelo"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "le ho rorisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "le jwalo"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ka mantsiboya"
+    }
+  ],
+  "timestamp": "2026-10-03T12:20:22.966914984Z",
+  "model": "glm-5.3"
+}

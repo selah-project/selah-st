@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 130,
+  "translation": "Mme O tla lokolla ⟨את⟩ Yisraele ho dibe tsa Hae tsohle.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Mme O"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "tla lokolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "dibe tsa Hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:27.168684344Z",
+  "model": "glm-5.3"
+}

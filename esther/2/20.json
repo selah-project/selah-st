@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Estere ha a a senola lelapa la hae le ⟨את⟩ sechaba sa hae, hobane Mordekai o ile a mo laela; mme Estere o ne a etsa ⟨את⟩ taelo ya Mordekai, jwalo ka ha a ne a le ⟨את⟩ ena nakong ya tlhokomelo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ha a a"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "senola"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "lelapa la hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sechaba sa hae"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sechaba sa hae"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o ile a mo laela"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taelo"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ya Mordekai"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estere"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ne a etsa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "a ne a le"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "nakong ya tlhokomelo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:46:28.951852897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Ke tla ba otla ka sefufa, ke ba felisa, mme ke tla o etsa ⟨את⟩ setjhaba se seholo le se matla ho feta sona.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "ke tla ba otla"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka sefufa"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "ke ba felisa"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ke tla etsa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba se seholo"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "se seholo"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "le se matla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho feta sona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:28:53.154002626Z",
+  "model": "glm-5.3"
+}

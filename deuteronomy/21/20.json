@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "mme ba re ho baholo ba toropo ea hae: Mora oa rona enoa ke ea hanyetsang le ea se nang mamello; ha a mamele lentsoe la rona; ke ea jeang haholi le ea noang haholi.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo ba"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "toropo ea hae"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "mora oa rona"
+    },
+    {
+      "surface": "זה",
+      "gloss": "enoa"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "ea hanyetsang"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "le ea se nang mamello"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ha a"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mamele"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "lentsoe la rona"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "ea jeang haholi"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "le ea noang haholi"
+    }
+  ],
+  "timestamp": "2026-10-03T06:55:45.964848997Z",
+  "model": "glm-5.3"
+}

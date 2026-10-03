@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "⟨את⟩ letsatsi ho busa ka motsheare, hobane hesede ha hesa fela ho fihlela ho sa tlo fela.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsatsi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ho busa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka motsheare"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ho sa tlo fela"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ha hesa fela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:52.624215173Z",
+  "model": "glm-5.3"
+}

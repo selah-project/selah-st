@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "O dula moemetsong wa metse; ka dipoelong o bolaea se sa molato; mahlo a hae a lebile ba hlokolosi ka boithati.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "o dula"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "moemetsong wa"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ka dipoelong"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "o bolaea"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "se sa molato"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a hae"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "ba hlokolosi"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "a lebile ka boithati"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:35.414070185Z",
+  "model": "glm-5.3"
+}

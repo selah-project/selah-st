@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme bana ba ba le bane ba beletswe ho yena ho Yerushalayime: Shimea, le Shobabe, le Natane, le Shelomoe — bane — ho Bath-shua, moradi wa Ammiyele.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme bana ba"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "ba beletswe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "ho Yerushalayime"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "le Shobabe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "le Natane"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "le Shelomoe"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "bane"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bath-shua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiyele"
+    }
+  ],
+  "timestamp": "2026-10-03T12:10:35.191040256Z",
+  "model": "glm-5.3"
+}

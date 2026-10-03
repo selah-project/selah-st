@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme Faro a laela banna ka bolatelaang la hae, mme ba ⟨את⟩ mo romela, le ⟨את⟩ mosadi wa hae, le ⟨את⟩ tsohle tsa hae.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka bolatelaang la hae"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ba mo romela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo romela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mosadi wa hae"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tsohle tsa hae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:43.684773103Z",
+  "model": "glm-5.3"
+}

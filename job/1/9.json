@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Sathane a araba ⟨את⟩ Yahwe, a re: Na Yobe o tsaba Elohim ka mahala?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sathane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "ka mahala"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "o tsaba"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Yobe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T11:19:16.273655666Z",
+  "model": "glm-5.3"
+}

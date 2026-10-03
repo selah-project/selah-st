@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 79,
+  "translation": "Ba fana ka ⟨את⟩ mehlolo ya bakopi ba hau e le lijo ho dinonyana tsa mahodimo, nama ya batlotsweng ba hau ho diphoofolo tsa lefatshe.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Ba fana ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehlolo ya bakopi ba hau"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "mehlolo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ya bakopi ba hau"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "e le lijo"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ho dinonyana"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa mahodimo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "ya batlotsweng ba hau"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "ho diphoofolo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tsa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:40.220456193Z",
+  "model": "glm-5.3"
+}

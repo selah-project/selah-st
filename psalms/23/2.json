@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mafikeng a mashapa a dula a lla o mo bulaletse; hodima metsing a phomolo o mokokotleta.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Mafikeng"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "a mashapa"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "o mo bulaletse"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsing"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "a phomolo"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "o mokokotleta"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:35.494116730Z",
+  "model": "glm-5.3"
+}

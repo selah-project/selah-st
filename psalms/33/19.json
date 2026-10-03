@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Ho ba lokolosa metsing ea ho shoetse le ho ba phetseng lapeng la tlala.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "Ho ba lokolosa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ho shoetse"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "metsing ea bona"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "le ho ba phetseng"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "lapeng la tlala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:24.327609685Z",
+  "model": "glm-5.3"
+}

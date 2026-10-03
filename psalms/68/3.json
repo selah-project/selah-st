@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Joaloka mosi o hlahlamang, jwale o hlahlame ba babeli; joaloka bochaba bo lula molemong oa mollo, jwale ba babeli ba lahlehele pel'a Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "joaloka o hlahlamang"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "mosi"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "o hlahlame"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "joaloka ho lula"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "bochaba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "molemong oa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ba lahlehele"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba babeli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pel'a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:37.394914812Z",
+  "model": "glm-5.3"
+}

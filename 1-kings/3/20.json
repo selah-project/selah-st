@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme o ile a ema ka bogareng ba bosiu, a nka ⟨את⟩ mora wa ka ho thoko le nna, ha lekhutu la hao le robetse, a mo robatsa letsweleng la hae; mme ⟨את⟩ mora wa hae o shweletseng o ile a mo robatsa letsweleng la ka.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka bogareng ba"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mora wa ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mora wa ka"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "ho thoko le nna"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "lekhutu la hao"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "le robetse"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "a mo robatsa"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "letsweleng la hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mora wa hae o shweletseng"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "המת",
+      "gloss": "o shweletseng"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "o ile a mo robatsa"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "letsweleng la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T08:02:14.319700133Z",
+  "model": "glm-5.3"
+}

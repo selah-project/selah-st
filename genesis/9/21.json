@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme o ile a nwa ya jwale, a nwa haholo, a itsholla ka hare ho tente ya hae.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "a ile a nwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "היין",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "a nwa haholo"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "a itsholla"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "tente ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:10.940961757Z",
+  "model": "glm-5.3"
+}

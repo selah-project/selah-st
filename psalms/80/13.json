@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "Hobaneng o phamotse dikotlo tsa yona, mme baohle ba sepelang tsela ba e kokotla?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "o phamotse"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "dikotlo tsa yona"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "mme ba e kokotla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "baohle"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ba sepelang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:29.753971374Z",
+  "model": "glm-5.3"
+}

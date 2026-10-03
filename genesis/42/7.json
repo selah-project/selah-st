@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Mme Yosefe a bona ⟨את⟩ baboroki ba hae, a ba tseba, mme a ikgethesa ho bona, a bua ⟨את⟩ le bona ka thata, mme a re ho bona: Le tletse kae? Ba re: Lefatsheng la Kenaane, ho tla reka lijo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baboroki ba hae"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "baboroki ba hae"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "a ba tseba"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "a ikgethesa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ le bona"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ka thata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Le tletse kae"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "le tletse"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ba re"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "Lefatsheng la"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaane"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ho reka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lijo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:38:35.321768118Z",
+  "model": "glm-5.3"
+}

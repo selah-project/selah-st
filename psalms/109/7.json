@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Hang ha a ahlooa, a tsoe a le molato, mme thapelo ya hae e be sebe.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Hang ha a ahlooa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a tsoe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a le molato"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "mme thapelo ya hae"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e be"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "sebe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:26.195830022Z",
+  "model": "glm-5.3"
+}

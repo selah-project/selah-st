@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Bua le bana ba Yisraele, mme o re ho bona: ha le feta ⟨את⟩ Yoredene, ho ya lefatsheng la Kenane,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "mme o re ho"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ho ya lefatsheng"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenane"
+    }
+  ],
+  "timestamp": "2026-10-03T06:40:55.373693707Z",
+  "model": "glm-5.3"
+}

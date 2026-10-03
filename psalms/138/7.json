@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 138,
+  "translation": "Ha ke tsamaya ka hare ho bothata, o tla mphelella bophelo; khahlanong le letsapa la ba nrotseng, o tla romola letsoho la hau, mme letsoho la hau le letona le tla mpoloka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tsamaya"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "bothata"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "o tla mphelella bophelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "khahlanong le"
+    },
+    {
+      "surface": "אף",
+      "gloss": "letsapa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "la ba nrotseng"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "o tla romola"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hau"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "le tla mpoloka"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsoho la hau le letona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:44.220364055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Mme ke tla etela tlolo ya bona ka kotlanyana, le toka-e-myelelo ya bona ka mekotla.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "mme ke tla etela"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ka kotlanyana"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "tlolo ya bona"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "le ka mekotla"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "toka-e-myelelo ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:49.476863931Z",
+  "model": "glm-5.3"
+}

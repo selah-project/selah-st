@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Mahohong a sa lolohaneng a ka Malebela a Uena a a bone; me o mong le o mong oa nako ea mafube a ngotsoe Lengoleng la Hae; me a ile a bopoa — e seng e le e le nngwe ea tsona.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "mahohong a sa lolohaneng a ka"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "a bone"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "malebela a Uena"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "moho"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "lengoleng la Hae"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "o mong le o mong"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "a ngotsoe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nako ea mafube"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "a bopoa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ea tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:36.081674860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ha e sa hlaha ho tshaba haholo ha hao ke tshepo ya hao, tshelo ya hao, le tokoloho ya ditsela tsa hao?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ha e sa hlaha"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "ho tshaba haholo ha hao"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "tshepo ya hao"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "tshelo ya hao"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "le tokoloho"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ditsela tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:18:36.021176481Z",
+  "model": "glm-5.3"
+}

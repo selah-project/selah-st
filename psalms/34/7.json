@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ena moholo-hloki o bile a kua, mme Yahwe a mo utlwa, mme a mo lokollotsa hara ditsietsi tsa hae kaofela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ena"
+    },
+    {
+      "surface": "עני",
+      "gloss": "moholo-hloki"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o bile a kua"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a mo utlwa"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "hara kaofela tsa"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ditsietsi tsa hae"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "a mo lokollotsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:00.144946503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme o ile a lokisetsa ⟨eena⟩ dilo tsa lefu; matswe a hae o a etsa bakeng sa ba mo fofotseng.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "mme o ile a lokisetsa eena"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a lokisetsa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dilo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tsa lefu"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "matswe a hae"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "bakeng sa ba mo fofotseng"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "o a etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:25.402608951Z",
+  "model": "glm-5.3"
+}

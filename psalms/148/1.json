@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "Halalujah! Rorisang Yah, rorisang ⟨את⟩ Yahwe ho tloha mahodimong, rorisang ⟨את⟩ hae mahodimong a hodimo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "rorisang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "rorisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "rorisang ⟨את⟩ hae"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "mahodimong a hodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:36.441571751Z",
+  "model": "glm-5.3"
+}

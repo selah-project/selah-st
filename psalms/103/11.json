@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Hobane jwalo ka hodimo ha mahodimo holimo lefatshe, jwalo hesede ya hae e matla hodimo ba mo tsabang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "jwalo ka hodimo ha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "e matla"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ba mo tsabang"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:42.694956440Z",
+  "model": "glm-5.3"
+}

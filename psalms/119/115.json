@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Fokang ho tloha ho ’na, lona ba etsang bobe; mme ke tla boloka melao ya Elohim ya ka.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Fokang"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho tloha ho ’na"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "lona ba etsang bobe"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "mme ke tla boloka"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "melao"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ya Elohim ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:59.889970249Z",
+  "model": "glm-5.3"
+}

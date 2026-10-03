@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Ho tloha mahodimong Yahwe o ile a lemela ka mahlo, o bone ⟨את⟩ barwa bohle ba motho.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "ho tloha mahodimong"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "o ile a lemeletsa ka mahlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "o bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barwa bohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ba motho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:24.673056366Z",
+  "model": "glm-5.3"
+}

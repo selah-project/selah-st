@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Ke ile ka thothomella, ha ke a bula molomo wa ka, hobane wena o entse ⟨se⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ke ile ka thothomella"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ke a bula"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o entse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:11.450770189Z",
+  "model": "glm-5.3"
+}

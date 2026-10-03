@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme barwa ba Aharone, baprista, ba rulanya ⟨את⟩ dikgaoganyo, ⟨את⟩ hloho le ⟨את⟩ mafura, hodima dihong tse hodima mollo, se hodima altarea.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "mme ba rulanya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgaoganyo"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "dikgaoganyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dihong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarea"
+    }
+  ],
+  "timestamp": "2026-10-03T12:45:32.743915612Z",
+  "model": "glm-5.3"
+}

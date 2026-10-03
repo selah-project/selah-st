@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 11:42",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Se sehang ka mpsa, le se sehang ka mane, ho fihlela se nang le maoto a ngata, ho seretsi sohle sea hlaha hodima lefatshe — le se ke la ja tsona; hobane ke sehlaha.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "se sehang"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "se sehang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "mpsa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le se sehang"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "se sehang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "se nang le … a ngata"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "maoto"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho seretsi sohle"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "seretsi"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sea hlaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תאכלום",
+      "gloss": "ja tsona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sehlaha"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:08:22.961427981Z",
+  "model": "glm-5.3"
+}

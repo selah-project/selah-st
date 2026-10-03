@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 111,
+  "translation": "Le tloheli Yah! Ke tla boka Yahwe ka pelo eohle, ka sephiring sa ba lokileng le ka phuthehong.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Le tloheli"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ke tla boka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka eohle"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "ka sephiring sa"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "le ka phuthehong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:45.705888526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Hobane o ile a hopola ⟨את⟩ lentsoe la hae la ho halalela, ⟨את⟩ Abrahame leketlane oa hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "o ile a hopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentsoe la hae la ho halalela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la hae la ho halalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "leketlane oa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:10.844223325Z",
+  "model": "glm-5.3"
+}

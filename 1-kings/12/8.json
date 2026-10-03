@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme a tlohela ⟨את⟩ mphato ya baholo bao ba moholisitseng, mme a ka ⟨את⟩ bashanyana bao ba hodileng ⟨את⟩ eena, bao ba neng ba eme pel’a hae.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "a tlohela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mphato ya baholo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "mphato"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ya baholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ba moholisitseng"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "a ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bashanyana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "bashanyana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ba hodileng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ eena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ba neng ba eme"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pel’a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:31.844387847Z",
+  "model": "glm-5.3"
+}

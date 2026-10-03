@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 140,
+  "translation": "Ba hogang ba patile lete bakeng sa ka, le dikgokahetse; ba phalletse sefahlelo lehlakoreng la tsela; ba behe diteisi bakeng sa ka. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "ba patile"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ba hogang"
+    },
+    {
+      "surface": "פח",
+      "gloss": "lete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bakeng sa ka"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "le dikgokahetse"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ba phalletse"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "sefahlelo"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "lehlakoreng la"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "diteisi"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ba behe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bakeng sa ka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:15.809925640Z",
+  "model": "glm-5.3"
+}

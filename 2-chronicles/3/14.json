@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme a etsa ⟨את⟩ phekola ya bokahurela, ya mokgethwa wa tlhase, le wa fora, le wa kokobela, mme a hlahisa makherube ho eona.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phekola ya bokahurela"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "phekola ya bokahurela"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "mokgethwa wa tlhase"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "le wa fora"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "le wa kokobela"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "le lesheo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mme a hlahisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho eona"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "makherube"
+    }
+  ],
+  "timestamp": "2026-10-03T12:23:18.423324693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme ho Obede-Edome bana: Semaja ya tswetsweng pele, Yehozabade wa bobedi, Yoae wa boraro, Sekare wa bone, Netaneele wa bohlano.",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "Mme ho Obede-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Semaja"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ya tswetsweng pele"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Yehozabade"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Yoae"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "wa boraro"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "Sekare"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "wa bone"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "Netaneele"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "wa bohlano"
+    }
+  ],
+  "timestamp": "2026-10-03T12:20:07.758741901Z",
+  "model": "glm-5.3"
+}

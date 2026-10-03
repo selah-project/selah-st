@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "O re etsa khang ho baahelani ba rona, mme ba beng ba rona ba re sitsitse hloho.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "O re etsa"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "khang"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ho baahelani ba rona"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "mme ba beng ba rona"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ba re sitsitse hloho"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨he bona⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:26.405671529Z",
+  "model": "glm-5.3"
+}

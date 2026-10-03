@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Boima ba Tsore. Llelang, mepepo ya Tarshishe, hobane e senyotswe, hoo ho se nang lehae, ho se nang keno; ho tsoa lehatloleng la Kitime ho pepesitsoe ho bona.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Boima"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ba Tsore"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Llelang"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "mepepo"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ya Tarshishe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "e senyotswe"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ho tloha lehaeng"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "keno"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tsoa lehatloleng"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "la Kitime"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "ho pepesitsoe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:48.203910085Z",
+  "model": "glm-5.3"
+}

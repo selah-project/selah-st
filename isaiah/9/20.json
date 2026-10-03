@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Menashhe o ja ⟨את⟩ Efrayime, mme Efrayime o ja ⟨את⟩ Menashhe; ba babelike ba kgahlanong le Yehuda. Ka tsohle tseo tlhaselo ya hae e sa tlohang, mme letsoho la hae le ntse le oatwa.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayime"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "mme Efrayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashhe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ba babelike"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ba kgahlanong le"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka tsohle"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha e"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tlohang"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "tlhaselo ya hae"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "mme le ntse"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "le oatwa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:35:43.614957926Z",
+  "model": "glm-5.3"
+}

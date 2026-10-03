@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme Esau a re: Bonwe, ke tsamaya ho swa, mme tokoloho ya pele ho tswalwa e tla mphelela eng?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ke tsamaya"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ho swa"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mme ... eng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "e"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mphelela"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "tokoloho ya pele ho tswalwa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:30:11.250784184Z",
+  "model": "glm-5.3"
+}

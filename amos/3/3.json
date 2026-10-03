@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Na ba babedi ba ka tsamaea mmoho, ntle le hore ba ile ba utwana?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Na ba ka tsamaea"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmoho"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ntle le hore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hore"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ba ile ba utwana"
+    }
+  ],
+  "timestamp": "2026-10-03T10:05:36.266131865Z",
+  "model": "glm-5.3"
+}

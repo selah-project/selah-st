@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Ba bolaea mohlapa le moeti, mme mokhutla ba mo bolaea ka boithati.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "mohlapa"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "le moeti"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "ba bolaea"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "mme mokhutla"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ba bolaea ka boithati"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:04.021943438Z",
+  "model": "glm-5.3"
+}

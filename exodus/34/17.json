@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ha o etseng melimo ya masekhe ho wena.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ya masekhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o etseng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:58:42.426807553Z",
+  "model": "glm-5.3"
+}

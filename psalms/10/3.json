@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Hobane moahi o ile a ikhantsa ka takatso ya moya wa hae; mme moputsuli o ile a ithaba, o ile a nyefola Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "o ile a ikhantsa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moahi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "takatso"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ya moya wa hae"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "mme moputsuli"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "o ile a ithaba"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "o ile a nyefola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:26.033943477Z",
+  "model": "glm-5.3"
+}

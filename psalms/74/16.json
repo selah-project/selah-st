@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Letsatsi ke la hao, bosiu le lona ke la hao, wena o ile a hlokomela khanya le letsatsi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ke la hao"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Letsatsi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ke la hao"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "o ile a hlokomela"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "khanya"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "le letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:22.758165583Z",
+  "model": "glm-5.3"
+}

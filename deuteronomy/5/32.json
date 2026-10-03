@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme le hlaoke ho etsa joaloka Yahwe Elohim ya lona a laetseng ⟨את⟩ lona; le se ke la fapafala, ka ho ja letshehadi kapa ka ho ja letona.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Mme le hlaoke"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "joaloka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "la fapafala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "la fapafala"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ka ho ja letshehadi"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "kapa ka ho ja letona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:50.019554483Z",
+  "model": "glm-5.3"
+}

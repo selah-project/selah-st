@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Hase a lo hloea, kapa a ikhahlela; lentsoe la hae le ke ke la utloaha ka phapanyetsaneng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hase"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "a lo hloea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapa hase"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "a ikhahlela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le hae"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "le ke ke la utloaha"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ka phapanyetsaneng"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "lentsoe la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:50:25.781954680Z",
+  "model": "glm-5.3"
+}

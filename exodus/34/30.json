@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme Aharone le bana bohle ba Yisraele ba bona ⟨את⟩ Moshe, mme bonang, letlalo la sefahleho sa hae le ntša meala; ba ts'aba ho atamela ho yena.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... bohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "le ntša meala"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "la sefahleho sa hae"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ba ts'aba"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "ho atamela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:58.804288523Z",
+  "model": "glm-5.3"
+}

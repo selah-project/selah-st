@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 16:2",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme o behe Pesake ho Yahwe Elohim wa hao, lipuli le dikgomo, sebakeng seo Yahwe a tla se kgetha hore lebitso la hae le dule ho lona.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "Mme o behe"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lipuli"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "le dikgomo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "a tla kgetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "hore le dule"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:53:30.414709243Z",
+  "model": "glm-5.3"
+}

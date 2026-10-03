@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 130,
+  "translation": "Hobane ho wena ho na le tshwarelo, e le hore o tle o tsaboe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ho na le tshwarelo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "e le hore"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "o tle o tsaboe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:26.959012146Z",
+  "model": "glm-5.3"
+}

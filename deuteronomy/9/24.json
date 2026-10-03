@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Le ne le le bahlahlami le Yahwe, ho tloha letsatsing leo ke neng ke tseba ⟨אתכם⟩ lōna.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "bahlahlami"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "le ne le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ho tloha letsatsing"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "ke tseba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ lōna",
+      "marks": "lōna"
+    }
+  ],
+  "timestamp": "2026-10-03T06:48:36.568613308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Le se ke la sega mehlele ya ditlhaku tsa hloho ya lona, mme o se ke wa senya ⟨את⟩ mehleng ya molema oa hao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Le se ke la"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "sega"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mehlele"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "hloho ya lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "senya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehleng ya molema oa hao"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mehleng"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "ya molema oa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:22.122751127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "E tla etsahala hore ba-Mitsrayime ba mpone ⟨את⟩ uena, mme ba re: Mosadi wa motho enwa ke enwa, mme ba mpulale ⟨את⟩ 'na, empa uena ba tla o boloka a phela.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E tla etsahala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba mpone"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ uena",
+      "marks": "uena"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ba-Mitsrayime"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa motho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "enwa"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "ba mpulale"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ 'na",
+      "marks": "'na"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩ uena",
+      "marks": "uena"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ba tla o boloka a phela"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:38.761092589Z",
+  "model": "glm-5.3"
+}

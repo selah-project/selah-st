@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme ke ile ka leta, hobane ba sa bua; hobane ba emile, ba sa arabe ha ba ntse.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "mme ke ile ka leta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba sa bua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ba emile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ba sa arabe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ha ba ntse"
+    }
+  ],
+  "timestamp": "2026-10-03T11:29:55.246043763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme ba etsa dibelhe tsa kgauta e hloekileng, mme ba beha ⟨את⟩ dibelhe hare ho dimonara holim'a mekhahlelo ya kobo, ho potoloha, hare ho dimonara.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "dibelhe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kgauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ba beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibelhe"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "dibelhe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hare ho"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "dimonara"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "mekhahlelo"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "kobo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hare ho"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "dimonara"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:56.962249500Z",
+  "model": "glm-5.3"
+}

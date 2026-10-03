@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme o tla etsa ⟨את⟩ dipalangwa ka mofuta wa sethlare sa shitime, mme o tla di khurumetsa ka gauta, mme ka tsona ho tla jewa ⟨את⟩ tafole.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipalangwa"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dipalangwa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ka mofuta wa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sethlare sa shitime"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mme o tla di khurumetsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mme ho tla jewa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tsona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tafole"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:48.378598735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ho Shelomo ho ne ho na le ba tsebahatswang ba leshome le babedi hodima Yisraele kaofela; mme ba fepa ⟨את⟩ morena le ⟨את⟩ ntlo ea hae; khoeli e le nngoe selemong se tla ba hodima ea mong le ea mong ho fepa.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "ho Shelomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "babedi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "leshome"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ba tsebahatswang"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "ba fepa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ea hae"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ea hae"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "khoeli"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "selemong"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla ba"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ea mong le ea mong"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "ho fepa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:01:19.689812581Z",
+  "model": "glm-5.3"
+}

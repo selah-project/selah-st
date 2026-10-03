@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 33:7",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Mme se sena ke sa Yehuda; mme a re: Mamela, Yahwe, lentswe la Yehuda, mme o mo ise ho sechaba sa hae; matsoho a hae a lekane molemong wa hae, mme o be thuso ya hae kgahlanong le ba mo hloyang.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Mme se sena"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ke sa Yehuda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "la Yehuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sechaba sa hae"
+    },
+    {
+      "surface": "תביאנו",
+      "gloss": "o mo ise"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "matsoho a hae"
+    },
+    {
+      "surface": "רב",
+      "gloss": "a lekane"
+    },
+    {
+      "surface": "לו",
+      "gloss": "molemong wa hae"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "mme thuso"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "kgahlanong le ba mo hloyang"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o be"
+    }
+  ],
+  "timestamp": "2026-10-03T07:02:20.705303469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme o ile a ba le basali ba maemo, makholo a supileng, le balekane ba makholo a tharo; mme basali ba hae ba ile ba otla ⟨את⟩ pelo ya hae.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme o ile a ba le"
+    },
+    {
+      "surface": "לו",
+      "gloss": "oa hae"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basali"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "ba maemo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "a supileng"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makholo"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "le balekane"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "a tharo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makholo"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "ba ile ba otla"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basali ba hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya hae"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:10:49.848878440Z",
+  "model": "glm-5.3"
+}

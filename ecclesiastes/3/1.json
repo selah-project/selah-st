@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Bakeng sa tsohle ho na le nako, le pakiti bakeng sa thahasello eohle e ka tlase ho mahodimo.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa tsohle"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "nako e kgethilweng"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "le pakiti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa tsohle"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "thahasello"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:22.464210089Z",
+  "model": "glm-5.3"
+}

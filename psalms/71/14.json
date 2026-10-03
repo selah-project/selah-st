@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Empa nna ke tla tsholofela ka ho sa felloa, mme ke tla eketsa ho tsosolla ka holimo ho tumo ya hao eohle.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "empa nna"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka ho sa felloa"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "ke tla tsholofela"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "mme ke tla eketsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho holimo ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tumo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:11.688978913Z",
+  "model": "glm-5.3"
+}

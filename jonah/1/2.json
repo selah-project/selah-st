@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Tsoha, ya ho Nineve, ⟨⟨the⟩⟩ toropo e kgolo, mme o llete kgahlanong le yona; hobane bobe ba tsona bo tlodile pele ho Ka.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "tsoha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ya ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ toropo"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "mme o llete"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kgahlanong le yona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "bo tlodile"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "bobe ba tsona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho Ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:39.530333221Z",
+  "model": "glm-5.3"
+}

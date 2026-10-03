@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ho tloha lelatyeng la Ashere: ⟨את⟩ Mishale le ⟨את⟩ naha ea yona e bulehileng, ⟨את⟩ Abdone le ⟨את⟩ naha ea yona e bulehileng.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mme ho tloha lelatyeng la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ashere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishale"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "naha ea yona e bulehileng"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "naha ea yona e bulehileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abdone"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "naha ea yona e bulehileng"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "naha ea yona e bulehileng"
+    }
+  ],
+  "timestamp": "2026-10-03T07:14:36.789732570Z",
+  "model": "glm-5.3"
+}

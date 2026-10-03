@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ba ntsitsitse ka tlase ho fela ha lefatshe; mme nna ha ke a tlohela melao ya hao.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ka tlase ho fela"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "Ba ntsitsitse"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ke a tlohela"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "melao ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:57.050252425Z",
+  "model": "glm-5.3"
+}

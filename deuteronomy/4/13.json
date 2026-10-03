@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 4:13",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme o ile a hlalosa ho lona ⟨את⟩ selekane sa hae, seo a laetseng lona ho se etsa, ⟨את⟩ mantswe a leshome; mme a ngola ⟨את⟩ ona hodima ditafole tse pedi tsa majwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "mme o ile a hlalosa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa hae"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "selekane sa hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "a leshome"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "ויכתבם",
+      "gloss": "mme a ngola ona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "ditafole"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "tsa majwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:05.562835583Z",
+  "model": "glm-5.3"
+}

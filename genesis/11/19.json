@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Pelege a phela, kamora hore a tsoale ⟨את⟩ Reu, dilemo tse robong le tse makgolo a mabedi, mme a tsoala barute le barute banana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a phela"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelege"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kamora"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hore a tsoale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "tse robong"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "le tse makgolo a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a tsoala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barute"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "barute banana"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:28.152094156Z",
+  "model": "glm-5.3"
+}

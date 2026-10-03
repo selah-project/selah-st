@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme ba tsoha, ba baleha ka ponahalo ea bosiu, mme ba siea ⟨את⟩ matlo a bona le ⟨את⟩ lipere tsa bona le ⟨את⟩ lipoho tsa bona, kampe jwalo ka ha e le teng, mme ba balehela bophelong ba bona.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "mme ba tsoha"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ba baleha"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "ka ponahalo ea bosiu"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "mme ba siea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matlo a bona"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "matlo a bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lipere tsa bona"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "lipere tsa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lipoho tsa bona"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "lipoho tsa bona"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ha e le teng"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mme ba baleha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "bophelong ba bona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:20:16.022086121Z",
+  "model": "glm-5.3"
+}

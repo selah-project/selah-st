@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Kokoanaohle ya Yisraele e tla e etsa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kokoanaohle"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kokoano"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "e tla e etsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka (eona)"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:24.642326029Z",
+  "model": "glm-5.3"
+}

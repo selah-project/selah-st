@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Samuele a robala ho fihlela hoseng, mme a bula ⟨את⟩ ditlhako tsa ntlo ya Yahwe; mme Samuele a ne a tshaba ho bolella ⟨את⟩ Ele pono.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "mme a bula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhako tsa ntlo ya Yahwe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ditlhako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tsa ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "mme Samuele"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "a ne a tshaba"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "ho bolella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pono"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "pono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ele"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:46.918773392Z",
+  "model": "glm-5.3"
+}

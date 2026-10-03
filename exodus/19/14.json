@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme Moshe a theoha thabeng ho ya ho setjhaba, mme a halaletsa ⟨את⟩ setjhaba, mme ba tlhapa diaparo tsa bona.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "a theoha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a halaletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "ba tlhapa"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "diaparo tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:53.111493218Z",
+  "model": "glm-5.3"
+}

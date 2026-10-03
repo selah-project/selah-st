@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Mme Adaha a beleta Esawe ⟨את⟩ Elifaze; mme Bosimate a beleta ⟨את⟩ Reuele.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Mme Adaha a beleta"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adaha"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaze"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaze"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "mme Bosimate"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a beleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuele"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:34:45.452830913Z",
+  "model": "glm-5.3"
+}

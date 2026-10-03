@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme barwa ba Yaakobo ba araba ⟨את⟩ Shekeme le ⟨את⟩ Khamore ntatahae ka boitlhofo, mme ba bolela, hobane o ile a hleka ⟨את⟩ Dina khaitsedi ya bona.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ba araba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekeme"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Khamore"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamore"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntatahae"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "ka boitlhofo"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "o ile a hleka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "khaitsedi ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:35:25.218761485Z",
+  "model": "glm-5.3"
+}

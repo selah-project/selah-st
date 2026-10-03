@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Elohim a bona ⟨את⟩ khanya, hore e molemo; mme Elohim a arola pakeng tsa khanya le lefifi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mme Elohim a bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khanya"
+    },
+    {
+      "surface": "האור",
+      "gloss": "khanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e molemo"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "mme Elohim a arola"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "האור",
+      "gloss": "khanya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "lefifi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:46.596307755Z",
+  "model": "glm-5.3"
+}

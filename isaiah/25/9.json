@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 25:9",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme ka letsatsi leo ⟨ho tla⟩ boleloa: Bonang, Ena ke Elohim ea rona, re mo lemeletse, mme o tla re pholosa. Ena ke Yahwe, re mo lemeletse; a re thabeng, re be le tlatso tshepong ya hae.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mme ⟨ho tla⟩ boleloa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ea rona"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "re lemeletse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויושיענו",
+      "gloss": "mme o tla re pholosa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "re lemeletse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "a re thabeng"
+    },
+    {
+      "surface": "וונשמחה",
+      "gloss": "re be le tlatso"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "tshepong ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:41:04.893817461Z",
+  "model": "glm-5.3"
+}

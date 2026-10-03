@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme o tla e lotla ka yona ⟨את⟩ haemele ya phutheho, le ⟨את⟩ artere ya bopaki.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "o tla e lotla"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haemele ya phutheho"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "haemele"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phutheho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "artere ya bopaki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "artere"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya bopaki"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:21.003316499Z",
+  "model": "glm-5.3"
+}

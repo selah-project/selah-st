@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Moya wa lefufa o lakatsa empa o se na letho; empa moya ya sebetsang o tla nona.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "o lakatsa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "empa o se na letho"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lefufa"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "empa moya ya"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "ya sebetsang"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "o tla nona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:10:20.119740256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Ea tsamayang ⟨את⟩ lehlale o hlalefa; eena motsamaisi oa makgachane o senyeha.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ea tsamayang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lehlale"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "lehlale"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "o hlalefa"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "eena motsamaisi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "oa makgachane"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "o senyeha"
+    }
+  ],
+  "timestamp": "2026-10-03T11:09:50.380578521Z",
+  "model": "glm-5.3"
+}

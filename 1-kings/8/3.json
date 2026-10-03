@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme baledi bohle ba Yisraele ba fihla, mme baprista ba nka ⟨את⟩ arka.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baledi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ba nka"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arka"
+    }
+  ],
+  "timestamp": "2026-10-03T08:08:20.761171951Z",
+  "model": "glm-5.3"
+}

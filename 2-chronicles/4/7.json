@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme a etsa ⟨את⟩ di-menora tse leshome tsa gauta, ho ya ka kahlolo ya tsona, mme a di beha tempeleng, tse hlano ka ho ja letshehali le tse hlano ka ho ja letona.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di-menora tse leshome tsa gauta"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "di-menora"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tse leshome"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "ho ya ka kahlolo ya tsona"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a di beha"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "tempeleng"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ka ho ja letshehali"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "le tse hlano"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "ka ho ja letona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:23:22.870723436Z",
+  "model": "glm-5.3"
+}

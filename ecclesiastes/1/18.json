@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Hobane ho boholo ba botlhale ho boholo ba kgeloho; mme ya eketsa tsebo, ya eketsa bohloko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ho boholo ba"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "botlhale"
+    },
+    {
+      "surface": "רב",
+      "gloss": "boholo ba"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kgeloho"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "mme ya eketsa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ya eketsa"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "bohloko"
+    }
+  ],
+  "timestamp": "2026-10-03T11:41:54.348273784Z",
+  "model": "glm-5.3"
+}

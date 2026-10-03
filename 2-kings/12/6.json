@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Baprista ba e tleke, mong le mong ho tswa ho ⟨את⟩ ea mo tsebang; ba tiise ⟨את⟩ senahe sa ntlo, kae kapa kae moo ho fumanwang senahe.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "ba e tleke"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho tswa ho ⟨את⟩",
+      "marks": "ea mo tsebang"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ea mo tsebang"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "ba tiise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senahe sa ntlo"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "senahe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa ntlo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kae kapa kae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ho fumanwang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "senahe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:59:42.172265246Z",
+  "model": "glm-5.3"
+}

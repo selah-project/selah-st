@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Sephithi sa hau se thuse morena wa hau, mme o mphe botswelele ba ⟨את⟩ melao ya hao.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "Sephithi sa hau"
+    },
+    {
+      "surface": "האר",
+      "gloss": "se thuse"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "morena wa hau"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "mme o mphe botswelele ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya hao"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:59.174756695Z",
+  "model": "glm-5.3"
+}

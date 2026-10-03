@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Hobane batho ba lefatshe, ba neng pele ho lona, ba ile ba etsa ⟨את⟩ tsohle tse makatsang tsena, 'me lefatshe le ile lea hloeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle tse makatsang tsena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "tse makatsang"
+    },
+    {
+      "surface": "האל",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba ile ba etsa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ho lona"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "lea hloeka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:40.071865904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Sengwe le sengwe se tshwana le ho bohle: se etsahalang ke se le seng ho ea lokileng le ho ea babeleng, ho ea molemo, le ho ea hloekileng le ho ea ntseng, ho ea nehang le ho ea sa nehang; jwalo ka ea molemo, jwalo ke molahi; ea ikannang, jwalo ka eo a tsabang kano.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "sengwe le sengwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho bohle"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "se etsahalang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le seng"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ho ea lokileng"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "le ho ea babeleng"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ho ea molemo"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "le ho ea hloekileng"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "le ho ea ntseng"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "le ho ea nehang"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "le ho ea"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nehang"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "jwalo ka ea molemo"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "jwalo ke molahi"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "ea ikannang"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "kano"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "a tsabang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:45:27.757127592Z",
+  "model": "glm-5.3"
+}

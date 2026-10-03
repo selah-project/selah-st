@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Yahwe o loka hare ho yena; ha a etse tlokotsi; hoseng le hoseng kahlolo ya hae e fanoa leseding; e sa fellwe; mme ya etsang tlokotsi ha a tsebe tshwenyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "o loka"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "hare ho yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a etse"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tlokotsi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le hoseng"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "kahlolo ya hae"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "e fanoa"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "leseding"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "e fellwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "a tsebe"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ya etsang tlokotsi"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "tshwenyo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:08:58.182879718Z",
+  "model": "glm-5.3"
+}

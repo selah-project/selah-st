@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme a nke ⟨את⟩ mapodi a mabeli, mme a a emise pele ga Yahwe, mocheng wa toldo ya kopano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Mme a nke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapodi a mabeli"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabeli"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "mapodi"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "mme a a emise"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mapodi a mabeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mocheng wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "toldo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:12.975545533Z",
+  "model": "glm-5.3"
+}

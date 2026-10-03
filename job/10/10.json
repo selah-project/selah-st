@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Na ha o ka a nthela jwalo ka lebese, mme a nkhometsa jwalo ka phoko?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Na ha"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "jwalo ka lebese"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "o ka a nthela"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "mme jwalo ka phoko"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "a nkhometsa"
+    }
+  ],
+  "timestamp": "2026-10-03T13:14:35.269125528Z",
+  "model": "glm-5.3"
+}

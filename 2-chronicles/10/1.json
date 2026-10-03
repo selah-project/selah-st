@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Rekhabeame a ya Shekeme, hobane go Shekem Yisraele yohle o ile a tla hore a mo etse ⟨את⟩ morena.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabeame"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "o ile a tla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "hore a mo etse morena"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ena (mo)"
+    }
+  ],
+  "timestamp": "2026-10-03T12:26:51.894069440Z",
+  "model": "glm-5.3"
+}

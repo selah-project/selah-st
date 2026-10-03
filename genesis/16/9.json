@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme malengoa a Yahwe a re ho yena: Boela ho monga hao, mme ikhumanye ka tlasa matswao a hae.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme … a re"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malengoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "Boela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "monga hao"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "mme ikhumanye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlasa"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "matswao a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:24:12.258495341Z",
+  "model": "glm-5.3"
+}

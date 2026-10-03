@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme le tlose ho hlokomela ho etsa ⟨את⟩ melaoana eohle le ⟨את⟩ dikahlolo tseo ke di beileng pela lona kajeno.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mme le tlose ho hlokomela"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melaoana eohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melaoana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikahlolo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "di beileng"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pela lona"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    }
+  ],
+  "timestamp": "2026-10-03T06:49:43.768287190Z",
+  "model": "glm-5.3"
+}

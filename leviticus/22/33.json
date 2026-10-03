@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ya le ntse a le tsoa lehoatata la Mitsrayime, hore e be Elohim wa ⟨את⟩ lona. Nna ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "ya le ntse a le tsoa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lehoatata la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "hore e be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wa lona"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:13:58.784409576Z",
+  "model": "glm-5.3"
+}

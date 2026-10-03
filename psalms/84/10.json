@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 84,
+  "translation": "Sehlare sa rona, bona, Elohim, mme sheba sefahleho sa ya tlotsitsweng ke wena.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Sehlare sa rona"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "mme sheba"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ya tlotsitsweng ke wena"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:58.555912060Z",
+  "model": "glm-5.3"
+}

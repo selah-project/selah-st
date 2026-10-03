@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme leihlo la hau le se ke la hlorisa: ⟨את⟩ moya ka moya, leihlo ka leihlo, leino ka leino, letsoho ka letsoho, leoto ka leoto.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ... le se ke la"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ho hlorisa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "leihlo la hau"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ka moya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ka leihlo"
+    },
+    {
+      "surface": "שן",
+      "gloss": "leino"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ka leino"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "leoto"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ka leoto"
+    }
+  ],
+  "timestamp": "2026-10-03T06:54:15.661031545Z",
+  "model": "glm-5.3"
+}

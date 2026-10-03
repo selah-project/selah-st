@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Ho tswa tempoleng ya hao, hodima ⟨את⟩ Yerushalayime, ho wena bahosi ba tla le dimpho.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "ho tswa tempoleng ya hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "ba tla le"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "bahosi"
+    },
+    {
+      "surface": "שי",
+      "gloss": "dimpho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:22.795740357Z",
+  "model": "glm-5.3"
+}

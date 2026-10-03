@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 4:4",
+  "book": "job",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mafoko a hao a emisa ya tshwarang, mme dithoeng tse phamotseng o di matlafatsa.",
+  "tokens": [
+    {
+      "surface": "כושל",
+      "gloss": "ya tshwarang"
+    },
+    {
+      "surface": "יקימון",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "mafoko a hao"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "mme dithoeng"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "tse phamotseng"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "o matlafatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:18:49.304243125Z",
+  "model": "glm-5.3"
+}

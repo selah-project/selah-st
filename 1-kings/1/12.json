@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme bjale, tswela pele, ke tla u eletsa kamehla, hore o pholose ⟨את⟩ bophelo ba hao, le ⟨את⟩ bophelo ba mora oa hao Shelomoe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme bjale"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "tswela pele"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ke tla u eletsa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kamehla"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "eletso"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "hore o pholose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo ba hao"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bophelo ba hao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bophelo ba mora oa hao Shelomoe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ba mora oa hao"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:00:32.609552837Z",
+  "model": "glm-5.3"
+}

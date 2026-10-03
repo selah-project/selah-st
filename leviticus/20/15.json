@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme monna ya behelang robalo ya hae phoofolong, a bolawe ka mahu; mme le ⟨את⟩ phoofolo e tla e bolaa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mme monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ya behelang"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "robalo ya hae"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "phoofolong"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ka mahu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a bolawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme le ⟨את⟩",
+      "marks": "phoofolo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "phoofolo"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "e tla e bolaa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:32.943571413Z",
+  "model": "glm-5.3"
+}

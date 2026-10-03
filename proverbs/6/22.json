@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Ha o tsamaya, e tla e etelletsa pele ⟨את⟩; ha o robetse, e tla e hlokomela; mme ha o tosoha, ⟨e⟩ tla bua le wena.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "ha o tsamaya"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "e tla e etelletsa pele"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "o (mongodi)"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "ha o robetse"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "e tla e hlokomela"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "o"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "mme ha o tosoha"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "tla bua le wena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:06:45.328417283Z",
+  "model": "glm-5.3"
+}

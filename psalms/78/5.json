@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme o ile a hlahisa bopaki ho Yaakobo, mme a beha Torah ho Yisraele, eo a laetseng ⟨את⟩ bo-ntate ba rona, hore ba tsebise bana ba bona.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "o ile a hlahisa"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ho Yaakobo"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "mme Torah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ho Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bo-ntate ba rona"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bo-ntate ba rona"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "hore ba tsebise"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bana ba bona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:33.480691396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Sepoko sa Yahwe se tla se bolela molomo wa ka, mme nama eohle e tla hlolelisa lebitso la hae le halalelang, ho isa kahosafelhe le ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "sepoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "se tla se bolela"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa ka"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mme e tla hlolelisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la hae le halalelang"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho isa kahosafelhe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:43.599880029Z",
+  "model": "glm-5.3"
+}

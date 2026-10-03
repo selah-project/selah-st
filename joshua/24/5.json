@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme ka thisa ⟨את⟩ Moshe le ⟨את⟩ Aharone, mme ka otla ⟨את⟩ Mitsrayime, jwaloka ha nkile ka etsa hara bona; mme ka mora moo ka ntsha ⟨את⟩ lona.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ka thisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "mme ka otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka ha"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nkile ka etsa"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "hana bona"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mme ka mora moo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ka ntsha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:52:23.528028932Z",
+  "model": "glm-5.3"
+}

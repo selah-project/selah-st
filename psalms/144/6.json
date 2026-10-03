@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "Kganya ka mosele, mme o ba phatlalatse; romela mishwe ya hau, mme o ba tlakatsakatse.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "kganya ka"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "mosele"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "mme o ba phatlalatse"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "romela"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "mishwe ya hau"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "mme o ba tlakatsakatse"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:34.880630716Z",
+  "model": "glm-5.3"
+}

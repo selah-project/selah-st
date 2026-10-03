@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Ya Dawide. O hlohonolofatse, moya oa ka, Yahwe, le kaofela ba teng ka hare ho ⟨את⟩ Yahwe, ⟨את⟩ lebitso la hae la halalelang.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "O hlohonolofatse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le kaofela ba teng ka hare ho"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "ka hare ho ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la hae la halalelang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:13.262162200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Empa nna ke serota, e seng motho; seriti sa batho, le mo hlonahalang wa setjhaba.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Empa nna"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ke serota"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e seng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "seriti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "le mo hlonahalang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:09.592975340Z",
+  "model": "glm-5.3"
+}

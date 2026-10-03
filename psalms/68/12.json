@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Adonai o nea ⟨את⟩ lentswe; ba phatlalatsang molaetsa ke sesole se seholo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o nea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "ba phatlalatsang molaetsa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "רב",
+      "gloss": "se seholo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:33.966475899Z",
+  "model": "glm-5.3"
+}

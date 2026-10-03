@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Mme nama ya ka e thothomela molemong wa tshabo ya hao, mme ke a tshaba dikahlolo tsa hao.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "e thothomela"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "molemong wa tshabo ya hao"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nama ya ka"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "mme ... dikahlolong tsa hao"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ke a tshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:55.784510493Z",
+  "model": "glm-5.3"
+}

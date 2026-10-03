@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme o etse ⟨את⟩ dinaledi tsa yona, e supileng; mme a phahamise ⟨את⟩ dinaledi tsa yona, mme di phadime hodima bohle sebakeng sa pele ho sefahleho sa yona.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o etse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinaledi tsa yona"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dinaledi tsa yona"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "e supileng"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "a phahamise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinaledi tsa yona"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "dinaledi tsa yona"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "di phadime"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "bolebele"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sefahleho sa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:52.031698975Z",
+  "model": "glm-5.3"
+}

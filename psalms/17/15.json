@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Ena ke ona: ka tsedeke ke tla bona sefahleho sa hao; ke tla sitiswa, ha ke tsoga, ka setshwantsho sa hao.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ena ke ona"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ke tla bona"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "ke tla sitiswa"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "ha ke tsoga"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "ka setshwantsho sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:48.053998086Z",
+  "model": "glm-5.3"
+}

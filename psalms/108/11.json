@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 108,
+  "translation": "Ke mang ya tla nkisetseng motse o matedi? Ke mang ya tla ntaisang ho fihlela Edome?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ya tla nkisetseng"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "o matedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ya tla ntaisang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:00.988622529Z",
+  "model": "glm-5.3"
+}

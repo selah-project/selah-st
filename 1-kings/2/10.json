@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Dawide o robetse le bo-ntate ba hae, mme a bolokwa toropong ya Dawide.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "o robetse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיvor",
+      "gloss": "bo-ntate ba hae"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a bolokwa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T08:01:53.692163157Z",
+  "model": "glm-5.3"
+}

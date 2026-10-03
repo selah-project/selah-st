@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "Rorisang ⟨את⟩ hae masole a hae ohle, rorisang ⟨את⟩ hae makgotla a hae ohle.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Rorisang ⟨את⟩ hae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "masole a hae"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "rorisang ⟨את⟩ hae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "makgotla a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:36.441801408Z",
+  "model": "glm-5.3"
+}

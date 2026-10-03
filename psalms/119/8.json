@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "⟨את⟩ Melao ya hao nke ke e boloka; se nthole ka ho fellang hle.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya hao"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao ya hao"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "nke ke e boloka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "nthole"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ka ho fellang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:38.904339771Z",
+  "model": "glm-5.3"
+}

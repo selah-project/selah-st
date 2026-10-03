@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Mme Yisraele a re: Hobaneng le mphileng bosula, ka ho bolella motho eo hore le ntse le na le moraborwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "le mphileng bosula"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ka ho bolella"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "motho eo"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "hore le ntse le na le"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אח",
+      "gloss": "moraborwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:55.424610583Z",
+  "model": "glm-5.3"
+}

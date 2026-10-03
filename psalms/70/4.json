@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 70,
+  "translation": "A khutlele ka lebaka la tlhaho ya tsona, ba reng: He-akh! He-akh!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "A khutlele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "עקב",
+      "gloss": ""
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "tlhaho ya tsona"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ba reng"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-akh!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-akh!"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:34.735695381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Ka potlako ke ne ke ka hlola masoabi a bona, mme ke ne ke tla kgutlletsa letsoho la ka khahlanong le ba hlahlamang bang ba bona.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Ka potlako"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "masoabi a bona"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "ke ne ke ka hlola"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme ... khahlanong le"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ba hlahlamang bang ba bona"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ke ne ke tla kgutlletsa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "letsoho la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:57.880956482Z",
+  "model": "glm-5.3"
+}

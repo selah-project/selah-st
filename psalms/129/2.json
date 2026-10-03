@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 129,
+  "translation": "Haholo ba mpshatile ho tloha bonyenyaneng ba ka, empa ba sa kgone ho mpshola:",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Haholo"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ba mpshatile"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ho tloha bonyenyaneng ba ka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "empa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ba kgone"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho mpshola"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:24.601291462Z",
+  "model": "glm-5.3"
+}

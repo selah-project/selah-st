@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme Abrahame a atolosa ⟨את⟩ letsoho la hae, mme a nka ⟨את⟩ thipa, ho hlahla ⟨את⟩ mora wa hae.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a atolosa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la hae"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thipa"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "thipa"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "ho hlahla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mora wa hae"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:38.197624961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Fetola sefahleho sa hao ho 'na, mme o mphe mohau, hobane ke ea leking le ea hloka, ke 'na.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Fetola sefahleho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mme o mphe mohau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ea leking"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "le ea hloka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:49.347688697Z",
+  "model": "glm-5.3"
+}

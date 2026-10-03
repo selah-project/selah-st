@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Bobe o a bo rala hodima bohalo ba hae; o ikema hodima tsela e sa lokang; bobe ha a bo hane.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "o a bo rala"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "bohalo ba hae"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "o ikema"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lokang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a bo"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "hane"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:35.568076488Z",
+  "model": "glm-5.3"
+}

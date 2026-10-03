@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Ba mo hloyang ntle le mabaka ba feta moriri wa hlooho ya ka; ba mphehlang ba matla, dira tsa ka ba mphodisang ka sheritho; se seo ke neng ke sa se utlwisisa, jwale ke tla se busetsa.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "ba feta"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "moriri"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlooho ya ka"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ba mo hloyang"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ntle le mabaka"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ba matla"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "ba mphehlang"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dira tsa ka"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ka sheritho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "neng ke se utlwisisa"
+    },
+    {
+      "surface": "אז",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ke tla se busetsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:09.827922557Z",
+  "model": "glm-5.3"
+}

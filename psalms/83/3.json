@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "translation": "Hobane bona, ba hloatsing hao ba bula modumo, mme ba hloyang hao ba phahamisitse hloho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ba hloatsing hao"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ba bula modumo"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "mme ba hloyang hao"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ba phahamisitse"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:19.163638404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme ba tla sebeletsa ⟨את⟩ Yahwe, Elohim ya bona, le ⟨את⟩ Dawide, morena wa bona, eo ke tlang ke mo emisa bakeng sa bona.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "Mme ba tla sebeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ya bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "morena wa bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ke tlang ke mo emisa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bakeng sa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:03:41.551104948Z",
+  "model": "glm-5.3"
+}

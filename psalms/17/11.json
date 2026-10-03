@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mehato ea rona ba e kaletse ⟨ka har'a⟩; mahlo a bona a behe hore ho ntse ho hatela lefatsheng.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "mehato ea rona"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ba nkopelletse"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "mahlo a bona"
+    },
+    {
+      "surface": "יָשִׁיתוּ",
+      "gloss": "a behe"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "ho ntse ho hatela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:48.574660314Z",
+  "model": "glm-5.3"
+}

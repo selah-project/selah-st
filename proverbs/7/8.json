@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "A feta sekaleng ha kgotlo ya hae, mme a tsamaya ka meketla tsela e yang ntlong ya hae.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "A feta"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "sekaleng"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "kgotlo ya hae"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mme tsela"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "e yang ntlong ya hae"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "a tsamaya ka meketla"
+    }
+  ],
+  "timestamp": "2026-10-03T11:07:14.228156692Z",
+  "model": "glm-5.3"
+}

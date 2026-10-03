@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 149,
+  "translation": "Ho etsa ho bona kahlolo e ngotsweng; hodaro ⟨e⟩ ⟨ke⟩ yona bakeng sa bohle bahalalelang ba hae. Halaleleng Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "e ngotsweng"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "hodaro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa bohle"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bahalalelang ba hae"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halaleleng"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:47.735782196Z",
+  "model": "glm-5.3"
+}

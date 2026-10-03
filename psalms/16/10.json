@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Hobane o ke ke wa ntlohella moea oa ka ho Sheole; o ke ke wa neha ya hlotseng oa hau ho bona ⟨את⟩ phula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ke ke wa"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ntlohella"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moea oa ka"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ho Sheole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ke ke wa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "neha"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "ya hlotseng oa hau"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "⟨את⟩ phula"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:24.708057999Z",
+  "model": "glm-5.3"
+}

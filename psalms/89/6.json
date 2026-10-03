@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Mme mahodimo a tla tsebahatsa makatsong a hao, Yahwe, le tumelo ya hao kgotleng ya ba halalelang.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "mme a tla tsebahatsa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "makatsong a hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "le"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tumelo ya hao"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "kgotleng ya"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ba halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:27.545789406Z",
+  "model": "glm-5.3"
+}

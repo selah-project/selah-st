@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "le Batsidone, le Baamaleke, le Bamaone ba ne ba le kotola ⟨את⟩ lona; mme lona la llela ho 'na, mme 'na ke lo lokolla ⟨את⟩ lona ho matsoho a tsona.",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "le Batsidone"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "le Baamaleke"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "le Bamaone"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "ba ne ba le kotola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "mme lona la llela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "mme 'na ke lo lokolla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ho matsoho a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:52:09.281076159Z",
+  "model": "glm-5.3"
+}

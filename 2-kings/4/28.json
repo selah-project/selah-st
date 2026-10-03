@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme a re: Na ke kopa mora ⟨את⟩ ho morena wa ka? Na ha ke a re: O se ke wa nkholosa ⟨את⟩ 'na?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "na ke kopa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mora"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na ha"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "wa nkholosa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "'na"
+    }
+  ],
+  "timestamp": "2026-10-03T08:19:24.672971187Z",
+  "model": "glm-5.3"
+}

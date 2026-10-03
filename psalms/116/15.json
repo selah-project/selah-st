@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "E bohlokwa mahlong a Yahwe ke lefu la bahalalelang ba hae.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "e bohlokwa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "la bahalalelang ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:38.264680844Z",
+  "model": "glm-5.3"
+}

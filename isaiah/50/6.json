@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Mmela wa ka o fanoe ba ntlabang, mahana a ka ba ntsekatsang, sefahleho sa ha ke sa se patise ho dihloriso le moqoqa.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "mmela"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "o fanoe"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "ba ntlabang"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "mahana a ka"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "ba ntsekatsang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "ke sa patisa"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "ho dihloriso"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "le moqoqa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:54:30.957171810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Hobane o ema ka ho le letona la mofumaneng, ho mo pholosa ho dikahlolo tsa bophelo ba hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "o ema"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ka ho le letona la"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mofumaneng"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ho mo pholosa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ho dikahlolo tsa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bophelo ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:47.237295128Z",
+  "model": "glm-5.3"
+}

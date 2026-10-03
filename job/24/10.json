@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Ba tsamaea bophelo ba sa apara, mme ba lapang ba jara di-omere.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Ba sa apara"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba tsamaea bophelo"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "apara"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "mme ba lapang"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ba jara"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "di-omere"
+    }
+  ],
+  "timestamp": "2026-10-03T11:28:03.859854137Z",
+  "model": "glm-5.3"
+}

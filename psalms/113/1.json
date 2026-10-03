@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 113,
+  "translation": "Dumelang Yah, dumelang, makgobeng a Yahwe; dumelang lebitso la Yahwe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "dumelang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumelang"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "makgobeng a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:19.843637405Z",
+  "model": "glm-5.3"
+}

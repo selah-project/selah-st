@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Torah e le nngwe e tla ba teng bakeng sa moahlodi wa lefatshe, le bakeng sa moeti ya dulang hara lona.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah e le nngwe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba teng"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "bakeng sa moahlodi wa lefatshe"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "le bakeng sa moeti"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ya dulang"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "hara lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:58.087649747Z",
+  "model": "glm-5.3"
+}

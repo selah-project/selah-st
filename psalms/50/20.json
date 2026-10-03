@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "O dula, o bolela kgahlanong le mots'aaller oa hao, o ea latola mora oa 'm'e oa hao.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "o dula"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "kgahlanong le mots'aaller oa hao"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "o bolela"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "oa 'm'e oa hao"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o ea"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "latola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:09.361814005Z",
+  "model": "glm-5.3"
+}

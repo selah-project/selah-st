@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Empa nna ke tla matlafatsa ⟨את⟩ pelo ya Faro, mme ke tla atisa ⟨את⟩ matswayo a ka le ⟨את⟩ makgathollo a ka naheng ya Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Empa nna"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ke tla matlafatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya Faro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ke tla atisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matswayo a ka"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "matswayo a ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "makgathollo a ka"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "makgathollo a ka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:45:10.687084680Z",
+  "model": "glm-5.3"
+}

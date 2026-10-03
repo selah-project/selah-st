@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme lintja di tla ja ⟨את⟩ Izebele karolong ya Yizreele, mme ha ho ya ka wa mo hlabei. Mme mocha a bula moleti, a matha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Izebele"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebele"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di tla ja"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "lintja"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "karolong"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreele"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ya ka wa mo hlabei"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "a bula"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "moleti"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "a matha"
+    }
+  ],
+  "timestamp": "2026-10-03T08:20:39.579665484Z",
+  "model": "glm-5.3"
+}

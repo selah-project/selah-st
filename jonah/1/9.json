@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme a re ho bona: Moheberu ke ena, mme ⟨את⟩ Yahwe, Elohim wa mahodimo, ke mo tsabo, ya ileng a bopa ⟨את⟩ lewatle le ⟨את⟩ naha e omileng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Moheberu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke ena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "mo tsabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a bopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "naha e omileng"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "naha e omileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:10.721972807Z",
+  "model": "glm-5.3"
+}

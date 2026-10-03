@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "le ⟨את⟩ Ovale, le ⟨את⟩ Abimaele, le ⟨את⟩ Sheba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ovale"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Ovale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abimaele"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimaele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:14.372313407Z",
+  "model": "glm-5.3"
+}

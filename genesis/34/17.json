@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme ha le sa re Mamela ho rona hore le etse molato, re tla nka ⟨את⟩ moradi rona mme re tloha.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "le re Mamela"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "hore le etse molato"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "re tla nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moradi rona"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "moradi rona"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "mme re tloha"
+    }
+  ],
+  "timestamp": "2026-10-03T05:35:27.133895340Z",
+  "model": "glm-5.3"
+}

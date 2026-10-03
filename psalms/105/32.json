@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "O ba neela pula ya bona e be sefako, le mollo o tukang naha ya bona.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "O ba neela"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "pula ya bona"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "sefako"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "o tukang"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "naha ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:24.084238172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Mosha o ka hlwekisa jwang ⟨את⟩ tsela ya hao? Ka ho e boloka ho ya ka lentsoe la hao.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "jang"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "a ka hlwekisa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela ya hao"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "tsela ya hao"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ka ho e boloka"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ho ya ka lentsoe la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:17.889966882Z",
+  "model": "glm-5.3"
+}

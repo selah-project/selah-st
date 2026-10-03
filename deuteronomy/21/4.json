@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme baholo ba metse eo ba theole ⟨את⟩ nonyana ea kgomo ho ea letlapeng le matla leo ho se ho limoang le ho se ho jwaloang ho lona, mme ba fokole hoo moo ⟨את⟩ nonyana ea kgomo letlapeng leo.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "ba theole"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo ba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "metse"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonyana ea kgomo"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "nonyana ea kgomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ea"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "letlapeng"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "le matla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ho se"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ho limoang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ho se"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ho jwaloang"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "ba fokole"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hoo moo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonyana ea kgomo"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "nonyana ea kgomo"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "letlapeng leo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:55:36.220220044Z",
+  "model": "glm-5.3"
+}

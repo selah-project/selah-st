@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Tokelō, tokelō o tla e tlisa, hore u tle u phele, mme u dule le ⟨את⟩ lefatshe leo Yahwe Elohim ea hao a le ho nehang ho uena.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Tokelō"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tokelō"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "o tla e tlisa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "u phele"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "mme u dule le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ea hao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a le ho nehang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho uena"
+    }
+  ],
+  "timestamp": "2026-10-03T06:52:41.399949461Z",
+  "model": "glm-5.3"
+}

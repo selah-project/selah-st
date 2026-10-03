@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Tlotša ⟨את⟩ ntata-hao le ⟨את⟩ 'mê-o, hore matsatsi a hao a ka atleha hodima lefatshe leo Yahwe Elohim wa hao a o fang lona.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Tlotša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntata-hao"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ntata-hao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "'mê-o"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "'mê-o"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "a ka atleha"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "matsatsi a hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a o fang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:24.960336843Z",
+  "model": "glm-5.3"
+}

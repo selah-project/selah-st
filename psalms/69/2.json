@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Ntlolle, Elohim, hobane metsi e fihlile ho ⟨את⟩ bophelo ba ka.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "ntlolle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "באו",
+      "gloss": "e fihlile"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:37.917797171Z",
+  "model": "glm-5.3"
+}

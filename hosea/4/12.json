@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Setjhaba sa ka se botsa sefating sa sona, mme molamu wa sona o hlalosa ho sona; hobane ruakh ya bohlola e ba kheloheditse, mme ba bolla, ba tloha tlasa Elohim wa bona.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "setjhaba sa ka"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "sefating sa sona"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "se botsa"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "mme molamu wa sona"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "o hlalosa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho sona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ya bohlola"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "e ba kheloheditse"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "mme ba bolla"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ho tloha tlasa"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:59:49.657159011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Yahwe o ile a matlafatsa ⟨את⟩ pelo ya Pareo, mme a sa rate ho ba lahla.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "o ile a matlafatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Pareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "rate"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "ho ba lahla"
+    }
+  ],
+  "timestamp": "2026-10-03T12:43:18.514669111Z",
+  "model": "glm-5.3"
+}

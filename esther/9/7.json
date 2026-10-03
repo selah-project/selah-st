@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Le ⟨את⟩ Parshandatha, le ⟨את⟩ Dalfone, le ⟨את⟩ Aspatha;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Parshandatha"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parshandatha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dalfone"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalfone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aspatha"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Aspatha"
+    }
+  ],
+  "timestamp": "2026-10-03T11:48:09.586614571Z",
+  "model": "glm-5.3"
+}

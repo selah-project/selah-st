@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "O ile a leka ho sa feleng selekane sa hae, lentswe leo a laetseng ho dikokanyana tse dile-ng",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "O ile a leka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "selekane sa hae"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "dile-ng diketekete"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dikokanyana"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:13.858545369Z",
+  "model": "glm-5.3"
+}

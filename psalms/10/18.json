@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Ho ahlola ⟨את⟩ yatimo le ⟨את⟩ ea hlobotseng, hore motho ea tswang lefatsheng a se ke a tsuballa ha moo.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "ho ahlola"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatimo"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "le ea hlobotseng"
+    },
+    {
+      "surface": "בל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ha moo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "a tsuballa"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ho tsuballa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho ea tswang lefatsheng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:19.208547863Z",
+  "model": "glm-5.3"
+}

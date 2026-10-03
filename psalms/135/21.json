@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Ya hlohonolofatsoa Yahwe ho tloha Tsiyone, ya dulang Yerushalayime. Halaleleng Yah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ya hlohonolofatsoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ho tloha Tsiyone"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ya dulang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halaleleng"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:35.532547516Z",
+  "model": "glm-5.3"
+}

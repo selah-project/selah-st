@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "le ya nkolofetseng ka nako ya eona, le ya phetseng hore phello e tswa ho yena, e le ya monna le e le ya mosali, le ho monna ya robalang le ⟨את⟩ ya seng halalelang.",
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "le ya kholofetseng"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "ka nako ya eona"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "le ya phetseng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phello e tswang ho yena"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "phello ya hae"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "e le ya monna"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "le e le ya mosali"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "le ho monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "robalang le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ya seng halalelang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:11:47.067682981Z",
+  "model": "glm-5.3"
+}

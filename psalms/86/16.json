@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Shebella ho 'na, mme o nts'oarele; fa matla a hau mohlanka wa hau, mme o pholose mora wa lekwala la hau.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "shebella"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mme o nts'oarele"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "matla a hau"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "mohlanka wa hau"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "mme o pholose"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "lekwala la hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:34.841395117Z",
+  "model": "glm-5.3"
+}

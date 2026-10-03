@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ya sieang moahisani wa bosehla ba hae, mme ya lebala ⟨את⟩ selekane sa Elohim sa hae.",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "ya sieang"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "moahisani"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "bosehla ba hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "selekane"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "Elohim sa hae"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "ya loubala"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:54.930869308Z",
+  "model": "glm-5.3"
+}

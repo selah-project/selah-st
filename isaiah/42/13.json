@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Yahwe o tla tswa jwaloka sebetsi se matla, a tsosa kanetso jwaloka monna wa dintwa; o tla huela, ee, a lelela hodima ba mo hloyang, o tla bontsha matla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "jwaloka sebetsi se matla"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tla tswa"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jwaloka monna"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "wa dintwa"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "a tsosa"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "kanetso"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "o tla huela"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "a lelela"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ba mo hloyang"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "o tla bontsha matla"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:50.287609615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Hobane ke ile ka re: A se ke ba ntaba ka thabo, ha lonao la ka le toboga, ba ikemetse kgahlanong le nna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "פן",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ba ntaba ka thabo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "ha e toboga"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lonao la ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "ba ikemetse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:10.742934Z",
+  "model": "glm-5.3"
+}

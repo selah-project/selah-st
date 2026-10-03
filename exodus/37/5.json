@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme a kenya ⟨את⟩ dintlha tse tswang koting ka hara diprene, ho dietsele tsa ⟨את⟩ arka, hore ⟨את⟩ arka e tle e etsoe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a kenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dintlha tse tswang koting"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dintlha tse tswang koting"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ka hara diprene"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "dietsele"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hore e tle e etsoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:06.311807923Z",
+  "model": "glm-5.3"
+}

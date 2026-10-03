@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme a re: Adonai Yahwe, ke tla tseba ka eng hore ke tla e rua?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ka eng"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ke tla tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "ke tla e rua"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:02.052677821Z",
+  "model": "glm-5.3"
+}

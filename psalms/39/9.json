@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Ho tloha ho dikooso tsa ka tsohle o m pholose; se mpolelle hore ke ⟨⟨se⟩⟩ nyoso ya sehlatse.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ho tloha ho tsohle"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "dikooso tsa ka"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "o m pholose"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "nyoso ya"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "sehlatse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "mpolelle hore ke"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:11.450528170Z",
+  "model": "glm-5.3"
+}

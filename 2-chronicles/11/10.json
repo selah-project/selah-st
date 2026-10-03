@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "le ⟨את⟩ Tsoraha, le ⟨את⟩ Ajalone, le ⟨את⟩ Kheberone, tse ho Yehuda le ho Binjamine, metse ea matla.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsoraha"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsoraha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ajalone"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kheberone"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Kheberone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ho Yehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "le ho Binjamine"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "ea matla"
+    }
+  ],
+  "timestamp": "2026-10-03T12:25:41.430540831Z",
+  "model": "glm-5.3"
+}

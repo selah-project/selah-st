@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ke tsena ditso tsa Aharone le Moshe, ka letsatsi le Yahwe a buang ⟨את⟩ Moshe, thabeng ya Sinae.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mme ke tsena"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ditso tsa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "le Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:21:21.174991603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme Yosefe a laola ⟨את⟩ lefufu, mme a bolella bafo ba hae; mme ba eketsa hore ba mo hloye hape.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "a laola"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "lefufu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a bolella"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "bafo ba hae"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ba eketsa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "hore ba mo hloye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:42:56.895420074Z",
+  "model": "glm-5.3"
+}

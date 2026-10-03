@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Moya wa ka o phallile mahlong ho tloha bohlokhong; mphe matla, mphe maemong ka ho tsamaea le lentsoe la hau.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "o phallile mahlong"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "ho tloha bohlokhong"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "mphe matla, mphe maemong"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ka ho tsamaea le lentsoe la hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:57.308719588Z",
+  "model": "glm-5.3"
+}

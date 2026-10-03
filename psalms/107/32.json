@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Mme ba mo phahamise phuthehong ya batho, mme boemong ba baholo ba mo tlotla.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "mme ba mo phahamise"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "phuthehong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya batho"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "mme boemong ba"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ba mo tlotla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:52.737799056Z",
+  "model": "glm-5.3"
+}

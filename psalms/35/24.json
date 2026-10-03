@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Nkahlolle ka tsedeke ya hao, Yahwe Elohim wa ka; mme ba se ke ba nkatamatsa thabo ka nna.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Nkahlolle"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "ka tsedeke ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ba se ke ba"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "nkatamatsa thabo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:54.630901222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Tshepa Yahwe, mme o etse tlaelo e ntle; o dule lefatsheng, mme o tlhokomele tumelo.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Tshepa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme o etse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tlaelo e ntle"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "o dule"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mme o tlhokomele"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "tumelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:14.862352774Z",
+  "model": "glm-5.3"
+}

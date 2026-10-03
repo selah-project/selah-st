@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Sehlolo sa ka se sheletse holim'a Elohim, Humo ya ba lokileng pelong.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "Sehlolo sa ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Humo ya"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:14.919754324Z",
+  "model": "glm-5.3"
+}

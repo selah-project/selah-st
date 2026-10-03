@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme o boloke ⟨את⟩ taelo le ⟨את⟩ melaoana le ⟨את⟩ dikahlolo tseo nna ke a go laela kajeno, ho li etsa.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "mme o boloke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "melaoana"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melaoana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikahlolo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ke a go laela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ho li etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:48:26.881768628Z",
+  "model": "glm-5.3"
+}

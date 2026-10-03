@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Se nyane ho mo lokileng ho feta botlhabela ba babelase ba bangata.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "se nyane"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ho mo lokileng"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "ho feta botlhabela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba babelase"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bangata"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:03.972248761Z",
+  "model": "glm-5.3"
+}

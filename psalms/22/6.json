@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ho wena ba ile ba quadisa, ba lokollega; ho wena ba bitsitse, mme ba sa tshwenehe.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Ho wena"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ba ile ba quadisa"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ba lokollega"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ba bitsitse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "tshwenehe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:09.592803517Z",
+  "model": "glm-5.3"
+}

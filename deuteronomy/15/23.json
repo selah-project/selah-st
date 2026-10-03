@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Feela ⟨את⟩ madi a eona o se ke wa a ja; fatshe ke moo o tlang ho a tshela, jwaloka metsi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Feela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a eona"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a eona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wa a ja"
+    },
+    {
+      "surface": "על",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "o tla a tshela"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jwaloka metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T06:51:46.349607342Z",
+  "model": "glm-5.3"
+}

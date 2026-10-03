@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Ka bophelo bo telele ke tla mo atisa, mme ke tla mo bontsha tokoloho ya ka.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "bo telele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bophelo (ya matsatsi)"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ke tla mo atisa"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "mme ke tla mo bontsha"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "tokoloho ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:32.177271170Z",
+  "model": "glm-5.3"
+}

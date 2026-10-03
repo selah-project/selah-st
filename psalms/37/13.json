@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Adonai o tla mo sesa, hobane o bone hore letsatsi la hae le tla.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "o tla mo sesa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "o bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "le tla"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "letsatsi la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:03.971482541Z",
+  "model": "glm-5.3"
+}

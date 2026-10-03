@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Rorang Yahwe, malaika a hae, ba matla, ba etsang lentsoe la hae, ho mamela ka lentsoe la lentsoe la hae.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Rorang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaika a hae"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "ba matla"
+    },
+    {
+      "surface": "כח",
+      "gloss": "matla"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ba etsang"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentsoe la hae"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ho mamela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentsoe la"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentsoe la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:53.811840361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Moshe o ile a etsa jwaloka Yahwe a laetseng ⟨את⟩ ena; mme phutheho ya kgobokana sebakeng sa monyako wa tente ya kopano.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ena",
+      "marks": "ena"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "ya kgobokana"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "phutheho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "monyako"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:22.831618694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ka nako eo ke laela ⟨את⟩ lona ⟨את⟩ ditaba tsohle tse le neng le tla di etsa.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "mme ke laela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ditaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "le neng le tla di etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:43:20.644339417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Qetello ya taba e molemo ho feta tswallo ya yona; ruakh e telele e molemo ho feta ruakh e phahame.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "e molemo"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "qetello ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ho feta tswallo ya yona"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e molemo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "e telele"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ho feta e phahame"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:37.392234011Z",
+  "model": "glm-5.3"
+}

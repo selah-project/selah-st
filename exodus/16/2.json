@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme phutheho ya bana ba Yisraele yohle ya nyefola Moshe le Aharone sekakeng.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "ya nyefola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "phutheho ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "על",
+      "gloss": "khahlanong le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le khahlanong le"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sekakeng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:08.935167935Z",
+  "model": "glm-5.3"
+}

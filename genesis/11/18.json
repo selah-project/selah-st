@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Pelege a phela dilemo tse mashome a mmararo, mme a tsoala ⟨את⟩ Reu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a phela"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelege"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tse mashome a mmararo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a tsoala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:28.151904382Z",
+  "model": "glm-5.3"
+}

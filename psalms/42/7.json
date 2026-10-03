@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Elohim ya ka, pelo ya ka e itlhahletse fatshe ka hodima ⟨’na⟩; ka lebaka lena ke tla ke ke gopola Uena ho tloha lefatsheng la Yoredene, le Hermonime, ho tloha thabeng ya Mitsare.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka hodima"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "e itlhahletse fatshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka lebaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lena"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ke tla ke ke gopola Uena"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lefatsheng la"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "le Hermonime"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ho tloha thabeng ya"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsare"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:15.831390834Z",
+  "model": "glm-5.3"
+}

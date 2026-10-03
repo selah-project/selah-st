@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme Dawide a bokella ⟨את⟩ Yisraele hoohle ho ya Yerushalayime, ho kenisa ⟨את⟩ arka ya Yahwe sebakeng sa yona, seo a se hlokomeditseng bakeng sa yona.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "a bokella"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele hoohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hoohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ho kenisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "yona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a se hlokomeditseng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bakeng sa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:19:00.629510481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Fihlela nako eo ke fumanang sebaka sa Yahwe, Mishkane bakeng sa Yaakobo ya Matla.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Fihlela nako eo"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ke fumanang"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sa Yahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "bakeng sa ya Matla"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:56.785908323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme Yaakobo a bona ⟨את⟩ sefahleho sa Labane, mme bona, se ne se sa ntse se le teng ho yena jwaloka maobane le e mabedi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "se ne se sa ntse se le teng"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "jwaloka maobane"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "le e mabedi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:33:15.867084737Z",
+  "model": "glm-5.3"
+}

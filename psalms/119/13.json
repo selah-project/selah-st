@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ka molomo wa ka ke phetile ⟨את⟩ ditshehediso tsohle tsa molomo wa hao.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "ka molomo wa ka"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "ke phetile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ditshehediso"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:47.474760248Z",
+  "model": "glm-5.3"
+}

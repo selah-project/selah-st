@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Hobane bonang, ba ile ba itlaleha molelong oa moya oa ka; ba kopanela ho 'na matla; hase phoohong ya ka, hase beng ba ka, Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "ba ile ba itlaleha"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "molelong oa moya oa ka"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ba kopanela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "matla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hase"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "phoohong ya ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hase beng ba"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ka beng ba ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:15.485716831Z",
+  "model": "glm-5.3"
+}

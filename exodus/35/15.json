@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "le ⟨את⟩ altare ya phefo ya dinonyana, le ⟨את⟩ mapolesa a yona; le ⟨את⟩ mafura a botlotla, le ⟨את⟩ phefo ya dinonyana; le ⟨את⟩ lerako la monyako, hlakueng ho Monghadi wa Mishkane.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "altare ya phefo ya dinonyana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ya phefo ya dinonyana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mapolesa a yona"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mapolesa a yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a botlotla"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a botlotla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phefo ya dinonyana"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "phefo ya dinonyana"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya dinonyana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lerako la monyako"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "lerako"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "la monyako"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "hlakueng ho monyako"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wa Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:43.588395250Z",
+  "model": "glm-5.3"
+}

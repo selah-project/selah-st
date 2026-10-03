@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mosebetsi wa mabofole o ba futubeditse, hobane ba sa tsebe ho tsamaya ho ya toropong.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "wa mabofole"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "o ba futubeditse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ho tsamaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropong"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:31.560428057Z",
+  "model": "glm-5.3"
+}

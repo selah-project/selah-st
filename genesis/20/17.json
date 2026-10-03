@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme Abrahame a thapela ho El, ho Elohim, mme Elohim a fodisa ⟨את⟩ Abimeleke le ⟨את⟩ mosadi wa hae le makhabunyana a hae, mme ba bea bana.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "a thapela"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho El"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "mme ... a fodisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimeleke"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mosadi wa hae"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa hae"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "le makhabunyana a hae"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "mme ba bea bana"
+    }
+  ],
+  "timestamp": "2026-10-03T05:27:03.165212100Z",
+  "model": "glm-5.3"
+}

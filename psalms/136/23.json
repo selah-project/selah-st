@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "Ya re hopotseng nakong ya bofokodi ba rona, hobane ho fihlela ho naila hesede ya hae e dula",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "nakong ya bofokodi ba rona"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Ya re hopotseng"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ho naila"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae e dula"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:03.805719771Z",
+  "model": "glm-5.3"
+}

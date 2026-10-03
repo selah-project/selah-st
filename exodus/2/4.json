@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme khaitsedi ya hae a ema hole, hore a tsebe hore na ho tla etsoa eng ho eena.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "khaitsedi ya hae"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "hole"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "hore a tsebe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hore na... eng"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ho tla etsoa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho eena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:06.808388691Z",
+  "model": "glm-5.3"
+}

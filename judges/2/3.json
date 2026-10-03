@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme ke ile ka re hape: Nke ke ka ba hlakola pele ho melatwa-n ya lona; ba tla ba lira-n ho lona, mme melimo ya bona e tla ba lerepo-n ho lona.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme hape"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "ke ka ba hlakola"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "lira-n (baahi)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pele ho melatwa-n ya lona"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ba tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "lira-n"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "mme melimo ya bona"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "lerepo-n"
+    }
+  ],
+  "timestamp": "2026-10-03T07:17:20.747587595Z",
+  "model": "glm-5.3"
+}

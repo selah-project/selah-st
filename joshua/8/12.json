@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme o ile a nka dikete tse hlano tsa banna, mme a beha ⟨את⟩ bona e le mothomo pakeng tsa Bet-Ele le Ay, ka bophirimela ho toro.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o ile a nka"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "dikete tse hlano tsa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mme a beha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "banna"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "e le mothomo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ka bophirimela"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ho toro"
+    }
+  ],
+  "timestamp": "2026-10-03T07:06:07.487645261Z",
+  "model": "glm-5.3"
+}

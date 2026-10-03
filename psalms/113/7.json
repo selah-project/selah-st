@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 113,
+  "translation": "O emisa mafutsana hodimo ho seretse, o mo hlahlamisa hore a tsoe mekotleng ya ditlhotlo.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "O emisa"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "hodimo ho seretse"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mafutsana"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "mekotleng ya ditlhotlo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "o mo hlahlamisa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ya hlokang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:03.488731092Z",
+  "model": "glm-5.3"
+}

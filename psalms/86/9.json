@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Ditjhaba tsohle tseo o di entseng di tla tla, di tla inamela pele ho hau, Adonai, mme di tla hlompha lebitso la hao.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o di entseng"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "di tla tla"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "di tla inamela"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ho hau"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "di tla hlompha"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "lebitso la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:05.100642193Z",
+  "model": "glm-5.3"
+}

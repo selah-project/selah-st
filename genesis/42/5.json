@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Mme barwa ba Yisraele ba feta ho tla reka hare le ba neng ba tla; hobane tlala e ne e le lefatsheng ya Kenaane.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba feta ho tla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ho reka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hare le"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ba neng ba tla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:38:35.321072793Z",
+  "model": "glm-5.3"
+}

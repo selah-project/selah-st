@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Tlhokometse leoto la hao ka ho ya ka nna, o utlwe potlakiso; ntloholla; eba ⟨e⟩ tletšeng matla ho nna, le lephefo la ka, le ntlo ya diphapo tsa ditšepe, ho mpontšhe phenyo.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "Tlhokometse leoto la hao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka ho ya ka nna"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "o utlwe"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "potlakiso"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ntloholla"
+    },
+    {
+      "surface": "היה",
+      "gloss": "eba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "e tletšeng matla"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "lephefo la ka"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "le ntlo ya"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "diphapo tsa ditšepe"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "ho mpontšhe phenyo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:19.791390726Z",
+  "model": "glm-5.3"
+}

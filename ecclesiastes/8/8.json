@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Ha ho motho ya busang ruakh, ya ka e thibela ⟨את⟩ ruakh; mme ha ho pusoloho letsatshing la lefu, mme ha ho lokolloo ntweng; mme bobe bo ke ke ba lokolla ⟨את⟩ ba e nang.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "ya busang"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "ya ka e thibela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "pusoloho"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letsatsing la"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "lokolloo"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ntweng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ... bo ke ke"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ba lokolla"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba e nang"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ba e nang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:41.253325279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Ntsware mohau, Yahwe, hobane sekgutlo se ntshwerile; leihle la ka le ne le fokola ka pelaelo, mme moea oa ka le mala a ka.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ntsware mohau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sekgutlo se ntshwerile"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "עששה",
+      "gloss": "le ne le fokola"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "ka pelaelo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "leihle la ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moea oa ka"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "mme mala a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:46.177757470Z",
+  "model": "glm-5.3"
+}

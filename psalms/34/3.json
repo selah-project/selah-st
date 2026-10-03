@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ho Yahwe moya wa ka o tla ithorisa; ba inametseng ba tla utlwa, ba be ba thaba.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Ho Yahwe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "o tla ithorisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ba tla utlwa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ba inametseng"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ba be ba thaba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:38.410980523Z",
+  "model": "glm-5.3"
+}

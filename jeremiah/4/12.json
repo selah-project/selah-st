@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ruakh e tletseng, e tlang ho tloha ho tsena, e tla tla ho lona; jwale le nna ke tla bua dikahlolo khahlanong le ⟨את⟩ tsona.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruakh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e tletseng"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ho tloha ho tsena"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "e tla tla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke tla bua"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ tsona",
+      "marks": "dikahlolo khahlanong le tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:01:40.113647169Z",
+  "model": "glm-5.3"
+}

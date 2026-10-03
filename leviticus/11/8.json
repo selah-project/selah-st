@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mmala wa tsona ha le je, mme mmele wa tsona oo shwetsweng ha le o khune; di hloekahala hle ho lona.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "mmala wa tsona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le je"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "mme mmele wa tsona oo shwetsweng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "le o khune"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "di hloekahala"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hle"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:59.099460128Z",
+  "model": "glm-5.3"
+}

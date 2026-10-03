@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "E bile ho Chorebe lona le sitelletse ⟨את⟩ Yahwe, mme Yahwe o ile a qenehela ka lona ho e bula lona.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "E bile ho Chorebe"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "le sitelletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "o ile a qenehela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ho e bula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:49:00.414034856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 31:27",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Hobaneng o ile wa itokolla ka pata ho tloha, wa ntsekisa ⟨את⟩, mme o sa ntsebo lle? Nka be ke ile ka o roma ka thabo le ka diko, ka teropa le ka kinora.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "נחבאת",
+      "gloss": "wa itokolla ka pata"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "wa ntsekisa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna (Labane)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o sa"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ntsebise"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "Nka be ke ile ka o roma"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ka thabo"
+    },
+    {
+      "surface": "ובשרים",
+      "gloss": "le ka diko"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ka teropa"
+    },
+    {
+      "surface": "ובכנור",
+      "gloss": "le ka kinora"
+    }
+  ],
+  "timestamp": "2026-10-03T05:32:48.402773804Z",
+  "model": "glm-5.3"
+}

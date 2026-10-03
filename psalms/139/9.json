@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Ha ke tsema mapheho a hoseng, ke tla lula melelwaneng ya lewatle;",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "ha ke tsema"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapheho"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "a hoseng"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "ke tla lula"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "melelwaneng"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ya lewatle"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:06.534382543Z",
+  "model": "glm-5.3"
+}

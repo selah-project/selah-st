@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme a emisa ⟨את⟩ setjhaba sohle, motho yo mong le yo mong a tshwere sebetsa sa hae ka letsohong la hae, ho tloha sehlakoreng se le tona sa ntlo ho fihlela sehlakoreng se molema sa ntlo, altareng le ka ntlong, ho dika morena ka hare.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba sohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "motho yo mong le yo mong"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sebetsa sa hae"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ka letsohong la hae"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ho tloha sehlakoreng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa ntlo"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "se le tona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "sehlakoreng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa ntlo"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "se molema"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altareng"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "le ka ntlong"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho dika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka hare"
+    }
+  ],
+  "timestamp": "2026-10-03T12:34:51.410678798Z",
+  "model": "glm-5.3"
+}

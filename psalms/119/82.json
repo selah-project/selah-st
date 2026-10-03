@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Mahlo a ka a fedile ka lentsoe la hau, ho re: Neng o tla nts'ireletsa?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "a fedile"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "ka lentsoe la hau"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "neng"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "o tla nts'ireletsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:04.111098597Z",
+  "model": "glm-5.3"
+}

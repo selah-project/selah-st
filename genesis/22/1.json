@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme ka mora dintho tseo, Elohim a leka ⟨את⟩ Abrahame, mme a mo re: Abrahame. Mme a re: Bonake, ke teng.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dintho"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "a leka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ka ho yena"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Bonake, ke teng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:28:42.969787056Z",
+  "model": "glm-5.3"
+}

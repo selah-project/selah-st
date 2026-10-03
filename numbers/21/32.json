@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme Moshe a romela ba-behli ⟨את⟩ Yaezere; ba ile ba nka metse ea yona, ba tlosa ⟨את⟩ Baemori ba neng ba le koo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mme ... a romela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "ba-behli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaezere"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezere"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ba ile ba nka"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "metse ea yona"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ba tlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baemori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "neng ba le koo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:33:37.528643338Z",
+  "model": "glm-5.3"
+}

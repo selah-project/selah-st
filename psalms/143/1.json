@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 143,
+  "translation": "Pina ya Dawide. Yahwe, thetsa thapelo ya ka, mamella kopano ya ka; ka boikeneledi ba hao nkarabe, ka tsedeke ya hao.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "thetsa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "mamella"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "kopano ya ka"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "ka boikeneledi ba hao"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "nkarabe"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedeke ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:58.575536040Z",
+  "model": "glm-5.3"
+}

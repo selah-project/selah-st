@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "O ntsehetse sefahlelông se ba se patileng ho ⟨את⟩ lona; hobane u ⟨⟨e⟩⟩ matla a ka.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "O ntsehetse"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "sefahlelông"
+    },
+    {
+      "surface": "זו",
+      "gloss": "se"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ba se patileng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "matla a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:23.728544621Z",
+  "model": "glm-5.3"
+}

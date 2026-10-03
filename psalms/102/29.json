@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Bana ba batshebeletsi ba hao ba tla dula, mme poqo ya bona e tla hlaha pele ho wena.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ba batshebeletsi ba hao"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "ba tla dula"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "mme poqo ya bona"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ho wena"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "e tla hlaha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:17.539371907Z",
+  "model": "glm-5.3"
+}

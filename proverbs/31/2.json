@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Ke eng, mora oa ka? Ke eng, mora oa letlalo la ka? Ke eng, mora oa dihlahlamorao tsa ka?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "mora oa ka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mora"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "oa letlalo la ka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mora"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "oa dihlahlamorao tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:18:17.316093771Z",
+  "model": "glm-5.3"
+}

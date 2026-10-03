@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ha nke ke ka khona, ke nna feela, ho jara ⟨את⟩ sechaba sena sohle, hobane se boima ho feta nna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nke ke ka khona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "feela"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ho jara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sechaba sena sohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "se boima"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho feta nna"
+    }
+  ],
+  "timestamp": "2026-10-03T06:29:31.726823783Z",
+  "model": "glm-5.3"
+}

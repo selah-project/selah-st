@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Eli a mo re: Ho fihla neng o tla nwa ho feta? Tlosa ⟨את⟩ beine ya hao ho tloha ho wena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Ho fihla"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "neng"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "o tla nwa ho feta"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Tlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beine ya hao"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "beine ya hao"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ho tloha ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T07:30:53.982166441Z",
+  "model": "glm-5.3"
+}

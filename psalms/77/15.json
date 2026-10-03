@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Uena u El ya etsang dimakatso; u tsebisitse matjhabeng a matla a hau.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Uena u"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "dimakatso"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "u tsebisitse"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "matjhabeng"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "matla a hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:18.915752469Z",
+  "model": "glm-5.3"
+}

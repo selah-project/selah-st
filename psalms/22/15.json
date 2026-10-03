@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ke tlatsitse jwaloka metsi, mme masapo a ka a hlahlamana ohle; pelong ya ka e bile jwaloka thota, e nutse ka hare ho mala a ka.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "jwaloka metsi"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "ke tlatsitse"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "mme ... a hlahlamana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "masapo a ka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelong ya ka"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "jwaloka thota"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "e nutse"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mala a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:59.627896396Z",
+  "model": "glm-5.3"
+}

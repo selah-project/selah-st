@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Yahwe o tla ba lefika la tšireletso bakeng sa ba oebileng, lefika la tšireletso mafung a thoko kotsing.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme o tla ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "lefika la tšireletso"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "bakeng sa ba oebileng"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "lefika la tšireletso"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "mafung a thoko"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "kotsing"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:31.169394766Z",
+  "model": "glm-5.3"
+}

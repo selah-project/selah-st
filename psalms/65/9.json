@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 65,
+  "translation": "Mme ba dulang mekhahlelong ba ts’aba matšoao a hau; o etsa hore mafelo a hoseng le mantsiboa a opelle ka thabo.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "mme ba ts’aba"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mekhahlelong"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "matšoao a hau"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "mafelo a"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "le mantsiboa"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "a opelle ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:15.453114460Z",
+  "model": "glm-5.3"
+}

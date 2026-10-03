@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ho bolela Adonai Yahwe: e ke ke ya ema, mme e ke ke ya ba.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ema"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme e ke ke ya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-03T08:33:26.009237124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "E molemo hore u se ikannye, ho feta ho ikannya le ho se phetha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "e molemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ikannya"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ho feta ho ikannya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ho se"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "phetha"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:10.490462710Z",
+  "model": "glm-5.3"
+}

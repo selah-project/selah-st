@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Sena ⟨se be⟩ moputso wa ba mphehashetso, ⟨את⟩ ho tswa ho Yahwe, le ba buang mpe ka mopheo oa ka.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "moputso wa"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ba mphehashetso"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ho tswa ho Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "le ba buang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mopheo oa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:56.481476288Z",
+  "model": "glm-5.3"
+}

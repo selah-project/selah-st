@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Ruri Elohim o tla thuba hloho ya ba mo hloyang, le phemelo ea moro ho ya motho a tsamayang ka liphoso tsa hae.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "o tla thuba"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ya ba mo hloyang"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "phemelo ea hloho"
+    },
+    {
+      "surface": "שער",
+      "gloss": "moro"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "a tsamayang"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "ka liphoso tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:35.286559152Z",
+  "model": "glm-5.3"
+}

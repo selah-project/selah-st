@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Hobane Yisraele e ne e le ngwana, mme ke a mo rata, mme ho tloha ho Mitsrayime ke bitseditse mora ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "mme ke a mo rata"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "mme ho tloha ho Mitsrayime"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ke bitseditse"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mora ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:02:00.992341120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme Yehoshua a utla ⟨את⟩ modumo wa setjhaba bakeng sa ho hlokomoloha, mme a re ho Moshe: Modumo wa ntoa o teng kampeng.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a utla"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "bakeng sa ho hlokomoloha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "kampeng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:58.012560069Z",
+  "model": "glm-5.3"
+}

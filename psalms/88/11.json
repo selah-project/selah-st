@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "A o ka etsa se makatsang ho bafu? A Refaim ba ka ema, ba leboha uena? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "ho bafu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "a o ka etsa"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "se makatsang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ba ka ema"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ba leboha uena"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:21.781464743Z",
+  "model": "glm-5.3"
+}

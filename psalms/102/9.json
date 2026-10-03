@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Letsatsi lohle ba ntsietsa ⟨o⟩ ba ntlhoileng; ba phapang meele ka 'na ba ile ba ikana.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Letsatsi"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ba ntsietsa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ba ntlhoileng"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ba phapang meele ka 'na"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka 'na"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ba ile ba ikana"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:45.884987450Z",
+  "model": "glm-5.3"
+}

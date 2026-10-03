@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ba bangata ba re: Ke mang ya ka re bontsang hantle? Phahamisa hodima rona khanya ya sefahleho sa hao, Yahwe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Ba bangata"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ya ka re bontsang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hantle"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Phahamisa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hodima rona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "khanya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ya sefahleho sa hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:18.535182197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme a tsoha, a tsamaea, a ya Shomeronena; yena o ne a leBeth-Ekedeng ba barui tseleng.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Mme a tsoha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaea"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeronena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ba barui"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:21:04.328612456Z",
+  "model": "glm-5.3"
+}

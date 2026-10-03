@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ba pharolle hodima tsona seapari sa tola-e-shane, mme ba se nwale ka sehopho sa letlalo la takhashe, mme ba behe ⟨את⟩ dibata tsa yona.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "mme ba pharolle"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hodima tsona"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "seapari"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "sa tola-e-shane"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tola-e-shane"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "mme ba se nwale"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sehopho"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ka sehopho"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhashe"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "mme ba behe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dibata"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dibata tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:20:46.894774984Z",
+  "model": "glm-5.3"
+}

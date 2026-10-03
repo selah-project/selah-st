@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 118,
+  "translation": "Lentswe la maboere le pholoho le matlalong a ba-tsedeke; letsoho le letona la Yahwe le etsa sebete.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "la maboere"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "le pholoho"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "matlalong"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "a ba-tsedeke"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "letsoho le letona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "le etsa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sebete"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:38.497866711Z",
+  "model": "glm-5.3"
+}

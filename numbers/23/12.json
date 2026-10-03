@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme a araba, a re: Na ⟨את⟩ seo Yahwe a se beolang molomong wa ka, ha ke na ⟨את⟩ sona seo ke se bolokang ho se bolela?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Mme a araba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Na ... ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo Yahwe a se beolang molomong wa ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "a beolang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "molomong wa ka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sona seo ke se bolokang"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ke se bolokang"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho se bolela"
+    }
+  ],
+  "timestamp": "2026-10-03T06:34:25.985626651Z",
+  "model": "glm-5.3"
+}

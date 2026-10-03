@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "O tla hlahisoa ho morena ka diaparo tsa mebala; banana ba sa nyalang ba latelang, balekane ba hae, ba hlahisoa ho uena.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "ka diaparo tsa mebala"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "o tla hlahisoa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho morena"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "banana ba sa nyalang"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ba latelang"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "balekane ba hae"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "ba hlahisoa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho uena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:31.478495232Z",
+  "model": "glm-5.3"
+}

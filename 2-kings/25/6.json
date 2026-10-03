@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ba tshwere ⟨את⟩ morena, ba mo isitse ⟨את⟩ ho morena wa Babel, ho Rible; mme ba bua le eena kahlolo.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "ba tshwere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba mo isitse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "morena wa Babel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rible"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ba bua le eena"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eena"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:31:23.965244878Z",
+  "model": "glm-5.3"
+}

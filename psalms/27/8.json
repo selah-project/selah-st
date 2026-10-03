@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Ho uena sepono sa pelo ea ka: Batlang sefahleho sa ka; sefahleho sa hau, Yahwe, ke tla se batla ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ho uena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sepono sa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ea ka"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Batlang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa hau"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ke tla se batla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:14.401851940Z",
+  "model": "glm-5.3"
+}

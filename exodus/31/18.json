@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 31:18",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme a fana ka tsona ho Moshe, ha a qetela ho mo bolelela ⟨את⟩ thabeng ya Sinae, matlapa a mabedi a bopaki, matlapa a majwe, a ngotsweng ka menwana ya Elohim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mme a fana ka tsona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "ha a qetela"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho bolelela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinae"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "matlapa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "a bopaki"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "matlapa"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "a majwe"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "a ngotsweng"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "ka menwana ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T05:58:37.881586466Z",
+  "model": "glm-5.3"
+}

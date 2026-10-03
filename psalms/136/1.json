@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "Leboha Yahwe, hobane ⟨⟨e⟩⟩ o lokile, hobane hesede ya hae e dula ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Leboha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o lokile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:00.654501494Z",
+  "model": "glm-5.3"
+}

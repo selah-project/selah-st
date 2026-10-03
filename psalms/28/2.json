@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mamela lentswe la dikgaphelo tsa ka ha ke huwa ho wena, ha ke phahamisa matsoho a ka ho ‹toward› sephiri sa kgalalelo ya hao.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "dikgaphelo tsa ka"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ha ke huwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "ha ke phahamisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matsoho a ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ‹toward›"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "sephiri sa"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kgalalelo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:35.561793679Z",
+  "model": "glm-5.3"
+}

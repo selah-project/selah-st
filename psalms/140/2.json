@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 140,
+  "translation": "Ntlokolletse, Yahwe, ho motho ea mobe; o ntirelle ho monna ya dikgoka.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "ntlokolletse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ho motho"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ea mobe"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ho monna"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ya dikgoka"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "o ntirelle"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:38.052231518Z",
+  "model": "glm-5.3"
+}

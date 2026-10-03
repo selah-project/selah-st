@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme tsedeke e tla ba ⟨⟨e se⟩⟩ sesepara sa sehlakanyeng sa hae, mme tumelo sesepara sa ditaleng tsa hae.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla ba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "sesepara"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "sa sehlakanyeng sa hae"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "mme tumelo"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "sesepara"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "sa ditaleng tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:36:58.036541214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 61,
+  "translation": "A ke tle ke lule ka tenteng ya hao nako e sa khutleng; ke tla ikhulela sehubeng sa mapheho a hao. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "a ke tle ke lule"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ka tenteng ya hao"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "nako e sa khutleng"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ke tla ikhulela"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sehubeng"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sa mapheho a hao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:08.105539613Z",
+  "model": "glm-5.3"
+}

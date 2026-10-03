@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "O se ke wa borela ⟨את⟩ lebitso la Yahwe Elohim ya hao ka lafeela; hobane Yahwe ha a nkehalatse ⟨את⟩ yena a borelang ⟨את⟩ lebitso la hae ka lafeela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wa borela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la Yahwe Elohim ya hao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ka lafeela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "a nkehalatse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yena a borelang lebitso la hae ka lafeela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "a borelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la hae"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ka lafeela"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:27.259703048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "O ile a bula ⟨את⟩ lewatle mme a ba isa hodima; mme o ile a emisa metsi joaloka sekoere.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "O ile a bula"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "mme a ba isa hodima"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "mme o ile a emisa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "joaloka"
+    },
+    {
+      "surface": "נד",
+      "gloss": "sekoere"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:57.766671861Z",
+  "model": "glm-5.3"
+}

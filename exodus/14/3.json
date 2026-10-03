@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme Faro a tla bolela ka bana ba Yisraele: Ba khelohiloe keha lefatseng, lewatle le ba sitile.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a tla bolela"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "Ba khelohiloe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "keha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatseng"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "le sitile"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "lewatle le"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:42.882866170Z",
+  "model": "glm-5.3"
+}

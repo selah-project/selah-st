@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme ⟨את⟩ litlaku tsa manamwanane a pere a ile a di apetsa matsohong a hae, le ho hlaha ha molala wa hae.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "litlaku tsa manamwanane a pere"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "litlaku"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "manamwanane"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "a pere"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "a di apetsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho matsohong"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "a hae"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le ho hlaha ha"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "hlaha ha"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "molala wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:31:01.179790712Z",
+  "model": "glm-5.3"
+}

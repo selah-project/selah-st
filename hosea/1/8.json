@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme a ha Lo-Rukhamakha, mme a imala, mme a bea mora.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "mme a ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Rukhamakha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rukhamakha"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "mme a imala"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mme a bea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:38.997305079Z",
+  "model": "glm-5.3"
+}

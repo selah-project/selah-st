@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Di dumelelwa ho feta gauta, ee, ho feta gauta e ntle e mmedi; gape di monate ho feta linotshi le jalwa la yona.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "Di dumelelwa"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ho feta gauta"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "gape gauta e ntle"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e mmedi"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "gape di monate"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "ho feta linotshi"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "le jalwa"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "la yona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:37.666637845Z",
+  "model": "glm-5.3"
+}

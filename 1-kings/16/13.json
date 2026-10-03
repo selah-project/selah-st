@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Bakeng sa dibebo tsohle tsa Bashea, le dibebo tsa Elaha mora wa hae, tseo ba di betlang, le tseo ba di entseng hore ⟨את⟩ Yisraele e be dibebo, ho qhotsa ⟨את⟩ Yahwe, Elohim wa Yisraele, ka mahana a tsona.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dibebo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "tsa Bashea"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "le dibebo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tsa Elaha"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ba di betlang"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le tseo"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "ba di entseng hore e be dibebo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "ho qhotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "ka mahana a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:12:27.491535336Z",
+  "model": "glm-5.3"
+}

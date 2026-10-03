@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme morena a shoele, mme a isiwa Shomeronona, mme ba mo pata morena ⟨את⟩ ka Shomeronona.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a shoele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "a isiwa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeronona"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ba mo pata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ka Shomeronona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:16:23.268025312Z",
+  "model": "glm-5.3"
+}

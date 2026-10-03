@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "A nke Elohim a se a hlahloba se? Hobane ⟨eena⟩ o tseba diphiri tsa pelo.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a nke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "a hlahloba"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨eena⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "diphiri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tsa pelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:27.875112696Z",
+  "model": "glm-5.3"
+}

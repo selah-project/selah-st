@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ba matla, mme ba tshepahala; hobane wena o tla etsa setjhaba sena ⟨את⟩ se nla seng ⟨את⟩ lefatshe leo nnileng noa ka lona ho ba fa bobotla ba lona.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Ba matla"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "mme ba tshepahala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "o tla etsa... se nla seng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba sena"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe leo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nnileng noa"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ho bobotla ba lona"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ho fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:05:13.051874257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "translation": "Hore maoto a hao a ke ke a thuba mali, le leleme ya lintja tsa hao ho tloha ho ba hloyang — ho tloha ho bona.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Hore"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "a thube"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "maoto a hao"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "mali"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "leleme"
+    },
+    {
+      "surface": "כלביד",
+      "gloss": "lintja tsa hao"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "ho tloha ho ba hloyang"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "ho tloha ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:35.287011481Z",
+  "model": "glm-5.3"
+}

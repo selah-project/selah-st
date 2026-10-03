@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 146,
+  "translation": "Ruakh hae e tla tswa, o tla kgutlela lefatsheng la hae; ka letsatsi leo, mehopolo ya hae e a timala.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "e tla tswa"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh hae"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o tla kgutlela"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "lefatsheng la hae"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "e a timala"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "mehopolo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:27.803580097Z",
+  "model": "glm-5.3"
+}

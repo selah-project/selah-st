@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Bana ba hae, le bana ba bana ba hae le eena ⟨את⟩, baradi ba hae le baradi ba bana ba hae, le peo ya hae eohle — o ile a tlisa ⟨את⟩ yena Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le eena ⟨את⟩"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "baradi ba hae"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "le baradi ba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le eohle"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "peo ya hae"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "o ile a tlisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "peo ya hae eohle"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:40:40.074684945Z",
+  "model": "glm-5.3"
+}

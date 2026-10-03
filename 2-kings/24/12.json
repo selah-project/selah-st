@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 24:12",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme Yehoyakhine, morena wa Yuda, a tswa ho ya ho morena wa Babele — yena le mmae, le balekane ba hae, le ditona tsa hae, le bahlokomedi ba hae — mme morena wa Babele a mo tshwara ⟨את⟩, selemong sa borobong sa muso wa hae.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Mme a tswa"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakhine"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "le mmae"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "le balekane ba hae"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "le ditona tsa hae"
+    },
+    {
+      "surface": "וסריסיו",
+      "gloss": "le bahlokomedi ba hae"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a mo tshwara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "morena wa Babele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "selemong sa"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "borobong"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "muso wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:24.556315285Z",
+  "model": "glm-5.3"
+}

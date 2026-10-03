@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Yahwe ⟨ke⟩ Morena ho se qete le ho sa feleng; mafatshe a timetse ho fatše sa Hae.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨ke⟩ Morena"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho se qete"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho sa feleng"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "a timetse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mafatshe"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ho fatše sa Hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:58.059344106Z",
+  "model": "glm-5.3"
+}

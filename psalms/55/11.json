@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Mots'eare le bosiu ba e potoloha hodima merako ea yona, mme bobe le bofokori bo teng ka hara yona.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "mots'eare"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bosiu"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "ba e potoloha"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "merako ea yona"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "mme bobe"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "le bofokori"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ka hara yona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:40.965659822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme a re: Ke ile ka bitla ho Yahwe ho tswa lehlabapheleng la ka, mme o araba ka; ho tswa ka mpeng ea Sheole ke ile ka lla, mme o theetse lentsoe la ka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ke ile ka bitla"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "ho tswa lehlabapheleng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "la ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "mme o araba ka"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ho tswa ka mpeng ea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ke ile ka lla"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "o theetse"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentsoe la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:30.380004968Z",
+  "model": "glm-5.3"
+}

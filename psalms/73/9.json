@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Ba bea molomo wa bona mahodimong, mme lonoko la bona le tsamaya lefatsheng.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "ba bea"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "molomo wa bona"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "mme lonoko la bona"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "le tsamaya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:49.785435198Z",
+  "model": "glm-5.3"
+}

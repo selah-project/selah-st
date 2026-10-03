@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 65,
+  "translation": "Dintlha tsa ditloloho di ile tsa feta nka; mehlolo ya rona — u tla e phuseka.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Dintlha"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "tsa ditloloho"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "di ile tsa feta"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nka"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "mehlolo ya rona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "tla e phuseka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:03.193592368Z",
+  "model": "glm-5.3"
+}

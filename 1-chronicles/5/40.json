@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Azaraya o ile a begetsa ⟨את⟩ Seraya, mme Seraya o ile a begetsa ⟨את⟩ Yehotsadake.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Mme Azaraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ile a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraya"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "mme Seraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ile a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadake"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadake"
+    }
+  ],
+  "timestamp": "2026-10-03T13:18:09.045615861Z",
+  "model": "glm-5.3"
+}

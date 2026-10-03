@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 4:2",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Le se ke la eketsa ho lentsoe leo ke le laelang lona, le le se ke la fokotsa ho lona; le boloke ⟨את⟩ ditaelo tsa Yahwe Elohim ya lona, tseo ke le laelang tsona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "la eketsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ke le laela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le le se ke"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "la fokotsa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hore le boloke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaelo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ditaelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ke le laela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:48.358032535Z",
+  "model": "glm-5.3"
+}

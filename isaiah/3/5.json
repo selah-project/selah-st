@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme setjhaba se tla kgahlano, motho le motho, mme motho le moahi wa hae; mosha o tla nyefola moholo, mme wa tlaase ho fapana le wa hodimo.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "se tla kgahlano"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "le motho"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme motho"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "le moahi wa hae"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "o tla nyefola"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "moholo"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "mme wa tlaase"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "ho fapana le wa hodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:32:17.507561541Z",
+  "model": "glm-5.3"
+}

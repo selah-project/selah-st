@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Tlang, re theoheleng, mme re hlakanye teng sephetho sa tsona, hore motho a se ke a utlwa sephetho sa moahi wa hae.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Tlang"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "re theoheleng"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "mme re hlakanye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng"
+    },
+    {
+      "surface": "שפתם",
+      "gloss": "sephetho sa tsona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "sephetho"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sa moahi wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:38.819387336Z",
+  "model": "glm-5.3"
+}

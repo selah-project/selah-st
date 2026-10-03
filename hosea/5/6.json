@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ka dinku tsa tsona le dikgomo tsa tsona di tla tsamaea ho batla ⟨את⟩ Yahwe, mme ha di na ho e fumana; o itshitle ho tsona.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "ka dinku tsa tsona"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "le dikgomo tsa tsona"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "di tla tsamaea"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ho batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "di fumane"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "o itshitle"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ho tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:27.433619625Z",
+  "model": "glm-5.3"
+}

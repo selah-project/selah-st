@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 137,
+  "translation": "Joang re ka opela ⟨את⟩ pina ya Yahwe holim'a lefatshe la sebakeng se se seng la rona?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "joang"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "re ka opela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pina ya Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lefatshe la"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "sebakeng se se seng la rona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:11.751492227Z",
+  "model": "glm-5.3"
+}

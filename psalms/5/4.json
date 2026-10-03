@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Yahwe, hoseng u tla utlwa lentsoe la ka; hoseng ke tla ipaakantšetsa ho wena, mme ke tla lebelela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "u tla utlwa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentsoe la ka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "ke tla ipaakantšetsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "mme ke tla lebelela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:40.086668465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme moprista a e ise pele ho alatare, a khethe ⟨את⟩ hloho ya yona, a e chese hodima alatare; mme madi wa yona a tleletsweng hodima lehlakoreng la alatare.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "a e ise pele"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alatare"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "a khethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho ya yona"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hloho ya yona"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a e chese"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "hodima alatare"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "a tleletsweng"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi wa yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "lehlakoreng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "la alatare"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:35.721129228Z",
+  "model": "glm-5.3"
+}

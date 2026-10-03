@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 54,
+  "translation": "Elohim, utlwa thapelo ya ka; kenyelelitse tsebe ho mantswe a molomo wa ka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "utlwa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kenyelelitse tsebe"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ho mantswe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo wa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:25.229373745Z",
+  "model": "glm-5.3"
+}

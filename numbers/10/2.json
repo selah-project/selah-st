@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Etsa ho wena diterompete tse pedi tsa selefere; mosebetsi o otlotlweng o tla di etsa ⟨אתם⟩; mme di tla ba ho wena bakeng sa ho bitsa phutheho le bakeng sa ho tsoasa ⟨את⟩ ditente.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Etsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "diterompete"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefere"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mosebetsi o otlotlweng"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "diterompete tse pedi tsa selefere"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme di tla ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "bakeng sa ho bitsa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "phutheho"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "le bakeng sa ho tsoasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditente"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "ditente"
+    }
+  ],
+  "timestamp": "2026-10-03T06:27:14.413291574Z",
+  "model": "glm-5.3"
+}

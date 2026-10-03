@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Hobane le tseba ⟨את⟩ kamoo re neng re lulile ka teng naheng ya Mitsrayime, le ⟨את⟩ kamoo re neng re fetile ka hare ho ditjhaba tseo le neng le le fetile ka ho tsona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "le tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamoo re neng re lulile ka teng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamoo"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "re neng re lulile"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "kamoo re neng re fetile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamoo"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "re neng re fetile"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "le neng le le fetile ka ho tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:00:06.090131663Z",
+  "model": "glm-5.3"
+}

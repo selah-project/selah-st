@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "O tlile o hlotse ⟨את⟩ Edome, mme pelo ea hau e o phahamisitse; ⟨u⟩ ikhohomose, mme u dule ka tlung ea hau; mme hobaneng o hlohleletsa kotsing, hore u oele, uena le Yehuda le uena?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "O tlile o hlotse"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "o hlotse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edome"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "e o phahamisitse"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ea hau"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "⟨u⟩ ikhohomose"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "mme u dule"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ka tlung ea hau"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mme hobaneng"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "o hlohleletsa"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "kotsing"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "hore u oele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le uena"
+    }
+  ],
+  "timestamp": "2026-10-03T12:58:27.663089064Z",
+  "model": "glm-5.3"
+}

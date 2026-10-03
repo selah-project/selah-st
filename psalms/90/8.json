@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "O beile diphoso tsa rona pela hao, diphoso tsa rona tsa patahala seithopeng sa se kganyeng sa sefahleho sa hao.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "O beile"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "diphoso tsa rona"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "pela hao"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "diphoso tsa rona tsa patahala"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "seithopeng sa se kganyeng"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:46.211047216Z",
+  "model": "glm-5.3"
+}

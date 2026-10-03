@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Yehoshafata a re: Ho na le ⟨את⟩ lentsoe la Yahwe ho yena. Mme morena wa Yisraele, le Yehoshafata, le morena wa Edome, ba theohela ho yena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafata"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Ho na le"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "lentsoe la Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ba theohela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "le Yehoshafata"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le morena wa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T08:17:32.882260087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mantswe a ba babeleng ke letolo la madi, empa molomo wa ba tlhakaneng o tla ba lokolla.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a ba babeleng"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "letolo"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "empa molomo wa"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba tlhakaneng"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "o tla ba lokolla"
+    }
+  ],
+  "timestamp": "2026-10-03T11:09:10.172738995Z",
+  "model": "glm-5.3"
+}

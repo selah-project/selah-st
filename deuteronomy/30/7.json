@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme Yahwe Elohim ya hao o tla bea ⟨את⟩ dimall-o tsohle tse holimo godimo ba hao ba mo hloyang le ba hloyang ba hao, ba neng ba hlolohetsa.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "o tla bea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dimall-o tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "dimall-o"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tse holimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ba hao ba mo hloyang"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le godimo"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ba hloyang ba hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "ba hlolohetsa"
+    }
+  ],
+  "timestamp": "2026-10-03T07:00:42.191247184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Yahwe a mo re: Se ke wa mpolella — eng se ngotsoeng? Mme ena ya Sesotho: Yahwe a re ho yena: Ke eng se ntseng se le letsohong la hao? Yena a re: Motlhare.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "letsohong la hao"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "motlhare"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:32.724024129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "Hoseng bo hlabanya mme bo a fala; mantsoibong bo a pakwa mme bo tswalala.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Hoseng"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "bo hlabanya"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "mme bo a fala"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "mantsoibong"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "bo a pakwa"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "mme bo tswalala"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:12.956962182Z",
+  "model": "glm-5.3"
+}

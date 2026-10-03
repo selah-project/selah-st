@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 31:34",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme Rakhale a nka ⟨את⟩ terafime, a li beha setsing sa kamele, a dula holim'a tsona; Labane a loma ka ho ts'oara tenteng ⟨את⟩ yohle, a sa fumane.",
+  "tokens": [
+    {
+      "surface": "ורחל",
+      "gloss": "Mme Rakhale"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafime"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafime"
+    },
+    {
+      "surface": "ותשמם",
+      "gloss": "a li beha"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "setsing sa"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kamele"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "holim'a tsona"
+    },
+    {
+      "surface": "וימשש",
+      "gloss": "a loma ka ho ts'oara"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenteng yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tenteng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "fumane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:33:52.039309697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ho go lokollotsa ho tloha tseleng ea bobe, ho tloha mothong ea buang diphoso-tse-peleng.",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "ho go lokollotsa"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ho tloha tseleng"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ea bobe"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ho tloha mothong"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ea buang"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "diphoso-tse-peleng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:11.060394463Z",
+  "model": "glm-5.3"
+}

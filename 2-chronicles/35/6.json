@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 35:6",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Mme le hlahe ⟨את⟩ Paseka, mme le ihalalelise, mme le lokise ho baena ba lona, ho etsa ka moo lentsoe la Yahwe le bolelang kateng, ka letsoho la Moshe.",
+  "tokens": [
+    {
+      "surface": "ושחטו",
+      "gloss": "mme le hlahe"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "והתקדשו",
+      "gloss": "mme le ihalalelise"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "mme le lokise"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ho baena ba lona"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ka moo lentsoe le bolelang kateng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T12:40:32.126116735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme letsholo la Yahwe le qobile kgahlanong le setjhaba sa hae, mme a hloile ⟨את⟩ bojalo ba hae.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "le qobile kgahlanong"
+    },
+    {
+      "surface": "אף",
+      "gloss": "letsholo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "setjhaba sa hae"
+    },
+    {
+      "surface": "ותעב",
+      "gloss": "a hloile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojalo ba hae"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "bojalo ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:33.445822468Z",
+  "model": "glm-5.3"
+}

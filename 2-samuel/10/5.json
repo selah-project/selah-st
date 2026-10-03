@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 10:5",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ba bega ho Dawide, a romella ho ba amohela, hobane banna be ba tlotlisitsoe haholo; mme morena a re: Dula Yerikhō ho fihlela boru ba lona bo hola, ebe le khutla.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ba bega"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho Dawide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a romella"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "ho ba amohela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "היו",
+      "gloss": "be"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "ba tlotlisitsoe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Dula"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "Yerikhō"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "bo hola"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "boru ba lona"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ebe le khutla"
+    }
+  ],
+  "timestamp": "2026-10-03T07:50:32.797310281Z",
+  "model": "glm-5.3"
+}

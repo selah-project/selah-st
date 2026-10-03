@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Pelo ya ka e tsubuhela, matla a ka a nthlohela; mme lesedi la mahlo a ka, le lona ha le sa ⟨את⟩ le nna.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "e tsubuhela"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "a nthlohela"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "mme lesedi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "la mahlo a ka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "הם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha le sa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna",
+      "marks": "lesedi la mahlo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:21.835794664Z",
+  "model": "glm-5.3"
+}

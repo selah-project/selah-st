@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Hoba ha ho etsahala hore ho be kgotla pakeng tsa banna, mme ba atamela kahlolong, mme ba kahlola, mme ba lokisa ⟨את⟩ ea tsedeke, mme ba ahlaesa ⟨את⟩ ea molato,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hoba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho etsahala hore ho be"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kgotla"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "mme ba atamela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "mme ba kahlola"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "mme ba lokisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ea tsedeke"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ea tsedeke"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "mme ba ahlaesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ea molato"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ea molato"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:16.725674191Z",
+  "model": "glm-5.3"
+}

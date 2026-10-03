@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mahlo a Yahwe ⟨⟨a⟩⟩ a sepela ho ba lokileng, le ditsebe tsa hae ho lle lwa bona.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mahlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "le ditsebe tsa hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "lle lwa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:16.703385848Z",
+  "model": "glm-5.3"
+}

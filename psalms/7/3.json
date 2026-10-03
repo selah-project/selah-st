@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Hore a se ke a nkamoha joaloka tau, a e rotsa, mme ha ho ya nkelisang.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "Hore a se ke a"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "nkamoha"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "joaloka tau"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "a e rotsa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ya nkelisang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:02.998926690Z",
+  "model": "glm-5.3"
+}

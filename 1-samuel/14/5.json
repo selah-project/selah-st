@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Lehahla le leng le ne le emetse ka leboa pele ho Mikhmashe, mme le leng ka borwa pele ho Geba.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "lehahla"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "le leng"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "le ne le emetse"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ka leboa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmashe"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "mme le leng"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "ka borwa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    }
+  ],
+  "timestamp": "2026-10-03T07:36:14.990037440Z",
+  "model": "glm-5.3"
+}

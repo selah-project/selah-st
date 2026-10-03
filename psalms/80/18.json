@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "translation": "E tla ba le letsoho la hao holim'a ⟨⟨ea⟩⟩ motho ea ka ho ja ho le letshehali la hao, holim'a mora oa Adame eo o mo matlafatsitseng bakeng sa hao.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letsoho la hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ho ja ho le letshehali la hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "oa Adame"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "o mo matlafatsitseng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bakeng sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:18.532145931Z",
+  "model": "glm-5.3"
+}

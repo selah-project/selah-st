@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Yahwe a bitsetsa Moshe, mme a bua le eena ho tsoa ho Tente ya Kopano, a re:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsetsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "mme a bua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ho tsoa ho Tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kopano"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:59.039166301Z",
+  "model": "glm-5.3"
+}

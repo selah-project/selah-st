@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Boifo bona ke bosiu ba tlhokomelo bakeng sa Yahwe, ha a ba ntsha lefatsheng la Mitsrayime; ke bosiu bona bakeng sa Yahwe, tlhokomelo bakeng sa bana bohle ba Yisraele dipolong tsa bona.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "bosiu ba"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "tlhokomelo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bakeng sa Yahwe"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "ha a ba ntsha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefatsheng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosiu bona"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bakeng sa Yahwe"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "tlhokomelo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa bohle ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "dipolong tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:48:19.762478145Z",
+  "model": "glm-5.3"
+}

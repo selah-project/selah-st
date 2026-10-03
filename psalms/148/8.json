@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "Mollo le kotsi ea bdere, leqhoa le mooko, ruakh ya sefefo, e etsang ⟨את⟩ lentsoe la hae.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Mollo"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "le kotsi ea bdere"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "leqhoa"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "le mooko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ya sefefo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "e etsang"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentsoe la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:43.070806920Z",
+  "model": "glm-5.3"
+}

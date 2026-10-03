@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Sethofo se phutha ⟨את⟩ matsoho a sona, mme se ja ⟨את⟩ nama ya sona.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Sethofo"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "se phutha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsoho a sona"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "matsoho a sona"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mme se ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama ya sona"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nama ya sona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:02.776202503Z",
+  "model": "glm-5.3"
+}

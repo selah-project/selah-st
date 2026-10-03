@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme eba ka letsatsi la boraro — letsatsi la tswalo ya ⟨את⟩ Farao — a etsa mokete bakeng sa batlhanka ba hae bohle; mme a tlola ⟨את⟩ hloho ya molaodi wa bakopi, le ⟨את⟩ hloho ya molaodi wa bafumi, hara batlhanka ba hae.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme eba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letsatsing la"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "boraro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "tswalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mokete"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa bohle"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "batlhanka ba hae"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "a tlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho ya molaodi wa bakopi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ya molaodi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wa bakopi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "hloho ya molaodi wa bafumi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ya molaodi"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "wa bafumi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hara"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "batlhanka ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:11.520856799Z",
+  "model": "glm-5.3"
+}

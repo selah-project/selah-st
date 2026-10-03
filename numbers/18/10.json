@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Hodimong sa ho halalela se hodimo o tla se ja; mosela e mong le e mong o tla ja ⟨את⟩ sona; ho halalela ⟨⟨ke⟩⟩ se tla ba sa hao.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "hodimong sa ho halalela"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "se hodimo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "o tla se ja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e mong le e mong"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mosela"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "o tla ja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ho halalela"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:31:49.042818741Z",
+  "model": "glm-5.3"
+}

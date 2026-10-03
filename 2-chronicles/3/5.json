@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ⟨את⟩ ntlo e kgolo o ile a e phalla ka dikgong tsa biruošime, mme a e phalla ka gauta e ntle, mme a hlahisahodima di-palme le di-chaina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "a phalla"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dikgong"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "biruošime"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "mme a e phalla"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e ntle"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mme a hlahisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hodima yona"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "di-palme"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "le di-chaina"
+    }
+  ],
+  "timestamp": "2026-10-03T12:23:45.687001637Z",
+  "model": "glm-5.3"
+}

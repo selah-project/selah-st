@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Hobane Ezra o ile a ikemisa pelo ya hae hore a batle ⟨את⟩ Torah ya Yahwe, mme a e etse, mme a etse bodutu hore a thutise Yisraele phetelo le kahlolo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a ikemisa"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "hore a batle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "mme a e etse"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "mme a thutise"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "חק",
+      "gloss": "phetelo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:58:48.879988384Z",
+  "model": "glm-5.3"
+}

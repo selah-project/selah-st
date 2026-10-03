@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "Mme leihlo la ka le ile la bona ⟨ba⟩ ntshepeletseng, mme ditsebe tsa ka dia utloa bobe ba phahametseng ho 'na.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "mme le ile la bona"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "leihlo la ka"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "⟨ba⟩ ntshepeletseng"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "ba phahametseng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "dia utloa"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ditsebe tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:39.866637166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Le kgahleng bakeng sa lona banna ba bararo ho tjhaba ka seng le seng, mme ke tla ba romella, mme ba tla ema, ba tsamaye lefatshe hohle, mme ba e ngole ⟨את⟩ ka boswa ba bona, mme ba tloha ba mpolelle.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "le kgahleng"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bakeng sa lona"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ba bararo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "ho tjhaba ka seng le seng"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "mme ke tla ba romella"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "mme ba tla ema"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ba tsamaye hohle"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "mme ba e ngole"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "e (lefatshe)"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "boswa ba bona"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mme ba tloha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ba mpolelle"
+    }
+  ],
+  "timestamp": "2026-10-03T07:13:14.613927687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Mme Yosefe a hlokahala, e le ngoana ya dilemo tse lekgolo le leshome; mme ba ⟨את⟩ mo lomotsa, mme a behwa ka sehapeng ka Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a hlokahala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "e le ngoana ya"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "le leshome"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "ba mo lomotsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "ba mo lomotsa"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "a behwa"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "ka sehapeng"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ka Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:41:55.805147351Z",
+  "model": "glm-5.3"
+}

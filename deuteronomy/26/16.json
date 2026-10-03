@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Letsatsing lena Yahwe Elohim wa hao o phetsa hore o etse ⟨את⟩ melawana ena le ⟨את⟩ dikahlolo; mme o tla boloka mme o tla etsa ⟨את⟩ tsona ka pelo ya hao eohle le ka bophelo ba hao boohle.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "letsatsing"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "o phetsa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hore o etse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melawana ena"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melawana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikahlolo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "mme o tla boloka"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o tla etsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ tsona",
+      "marks": "melawana ena le dikahlolo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka eohle"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya hao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka eohle"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bophelo ba hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:59:14.423133257Z",
+  "model": "glm-5.3"
+}

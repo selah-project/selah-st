@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme a re: Ba bana ba Yisraele ba etseng ⟨את⟩ Pesakhe nakong ya yona e hlomamisitsweng.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etseng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesakhe"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesakhe"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "nakong ya yona e hlomamisitsweng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:27:45.531590287Z",
+  "model": "glm-5.3"
+}

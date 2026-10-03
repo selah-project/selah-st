@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "Yahwe, thula mahodimo a hau, o theohle; kganna dithaba, mme di tla kgotsa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "thula"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "mahodimo a hau"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "mme o theohle"
+    },
+    {
+      "surface": "גע",
+      "gloss": "kganna"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "mme di tla kgotsa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:34.880431372Z",
+  "model": "glm-5.3"
+}

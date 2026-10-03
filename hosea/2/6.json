@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme ⟨את⟩ bana ba yona ha ke na ke a ba haelela, hobane ke bana ba bohlola ke bona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "bana ba yona"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bana ba yona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ke na"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ke a ba haelela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ke bana ba"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "bohlola"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ke bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:34.510659500Z",
+  "model": "glm-5.3"
+}

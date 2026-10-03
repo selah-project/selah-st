@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Yahwe ke matla a ka le sepheo sa ka; ka yena pelo ya ka e tshepile, mme ke thuswa; pela ya ka e thabisa, mme ka sefoko sa ka ke mo tlotla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ke matla a ka"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "le sepheo sa ka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yena"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "e tshepile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "mme ke thuswa"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "e thabisa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pela ya ka"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "mme ka sefoko sa ka"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ke mo tlotla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:16.477503366Z",
+  "model": "glm-5.3"
+}

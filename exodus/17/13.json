@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Yehoshua a fenya ⟨את⟩ Amaleke le ⟨את⟩ setjhaba sa hage ka molomo wa thipa.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "a fenya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleke"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setjhaba sa hage"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setjhaba sa hage"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo wa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "thipa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:33.039672207Z",
+  "model": "glm-5.3"
+}

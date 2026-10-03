@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Mme dikgomo tse ommeng le tse mpe di jele ⟨את⟩ dikgomo tse supileng tsa pele, tse nonne.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "mme di jele"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "tse ommeng"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "le tse mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgomo tse supileng tsa pele, tse nonne"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tse supileng"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "tsa pele"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "tse nonne"
+    }
+  ],
+  "timestamp": "2026-10-03T05:37:10.540938816Z",
+  "model": "glm-5.3"
+}

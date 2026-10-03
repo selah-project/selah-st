@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme bakeng sa lehlakore la bobedi la ⟨the⟩ Mishkane, ka lehlakore la leboa, dipanka tse mashome a mabedi.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Mme bakeng sa lehlakore"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "la Mishkane"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ka lehlakore la"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "leboa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tse mashome a mabedi"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "dipanka"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:07.389615057Z",
+  "model": "glm-5.3"
+}

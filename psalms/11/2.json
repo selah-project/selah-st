@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Hobane bonang, ba bolaeding ba ralolla khame; ba lokisitse metsi ea bona hodima thong, ho thunya lefifing ho ba lulang tokong ha pelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ba bolaeding"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "ba ralolla"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "khame"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "ba lokisitse"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "metsi ea bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "thong"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "ho thunya"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "lefifing"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ho ba lulang tokong"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ha pelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:50.913438721Z",
+  "model": "glm-5.3"
+}

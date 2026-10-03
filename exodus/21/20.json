@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme ha motho a otla sebakeli sa hae ⟨את⟩ kapa sebakeli se seng ⟨את⟩ ka kgotla, e be a shoele ka tlaase ho letsoho la hae, tlahlano o tla pairwa ka tlhoafalo.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "a otla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebakeli sa hae"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sebakeli sa hae"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebakeli se seng"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "sebakeli se seng"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ka kgotla"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "e be a shoele"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlaase ho"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "tlahlano"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "o tla pairwa ka tlhoafalo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:14.895514467Z",
+  "model": "glm-5.3"
+}

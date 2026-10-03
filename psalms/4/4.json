@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme le tsebe hore Yahwe o ile a arohanya sedumedi ho yena; Yahwe o tla utlwa ha ke mo bitsa.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Mme le tsebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "o ile a arohanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "sedumedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "o tla utlwa"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ha ke bitsa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:58.859225264Z",
+  "model": "glm-5.3"
+}

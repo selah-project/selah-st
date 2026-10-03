@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Joaloka tlhoho ya ⟨את⟩ Sodoma le ya ⟨את⟩ Ghomora le ya ⟨את⟩ bafumanehi ba tsona ho tloha ho Elohim — se bolela Yahwe — motho a ke ke a dula moo, mme mora wa motho a ke ke a phela teng.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "joaloka tlhoho ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ho tloha ho Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodoma"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ghomora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Ghomora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bafumanehi ba tsona"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "bafumanehi ba tsona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "se bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ke ke"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a ke ke"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "a phela"
+    },
+    {
+      "surface": "בה",
+      "gloss": "teng"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-03T09:28:21.947737505Z",
+  "model": "glm-5.3"
+}

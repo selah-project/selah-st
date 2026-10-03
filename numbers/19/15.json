@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme seturi se seng le se seng se butsitseng, seo ho sona ho se nang sekwane se koahetseng ka thapo, se hlotse.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Mme seturi se seng le se seng"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "seturi"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "se butsitseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ho se nang"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "sekwane"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ka thapo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho sona"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "se hlotse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:33:04.265166256Z",
+  "model": "glm-5.3"
+}

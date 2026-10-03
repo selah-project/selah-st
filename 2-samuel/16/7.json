@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme joale Shimayi a bolela, ka ho hloila ha hae: Tswa, tswa, wena monna wa madi, le monna wa Beliyale.",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "mme joale"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimayi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "ka ho hloila ha hae"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Tswa"
+    },
+    {
+      "surface": "צא",
+      "gloss": "tswa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna wa"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le monna wa"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "Beliyale"
+    }
+  ],
+  "timestamp": "2026-10-03T07:54:40.351721895Z",
+  "model": "glm-5.3"
+}

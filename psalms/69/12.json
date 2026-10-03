@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Mme ke apesa diaparo tsa ka saku, mme ke ‘nile ea ba papiso ho bona.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Mme ke apesa"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "diaparo tsa ka"
+    },
+    {
+      "surface": "שק",
+      "gloss": "saku"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "mme ke ‘nile ea ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "papiso"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:36.128155760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Hobane ho wena, Yahwe, ke tshepile; o tla araba, Adonai, Elohim ya ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "tla araba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:11.832827849Z",
+  "model": "glm-5.3"
+}

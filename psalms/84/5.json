@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 84,
+  "translation": "A thabile ba lulang ⟨⟨ntlong⟩⟩ ya hao; ba tla dula ba leboha. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "a thabile"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba lulang"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlong ya hao"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ba tla dula"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "ba leboha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:25.049629551Z",
+  "model": "glm-5.3"
+}

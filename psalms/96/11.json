@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 96,
+  "translation": "Mahodimo a thabe, lefatshe le tone; leoatle le tlele, le tsohle tse ho lona.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "a thabe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Mahodimo"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "le tone"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "le tlele"
+    },
+    {
+      "surface": "הים",
+      "gloss": "leoatle"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "le tsohle tse ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:00.958646615Z",
+  "model": "glm-5.3"
+}

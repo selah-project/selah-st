@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Jwalo ka Mohau wa ntata mora ho bana ba hae, jwalo Yahwe o mohau ho ba mo tsabang.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "jwale ka Mohau wa"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ntata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "o mohau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ba mo tsabang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:06.826233325Z",
+  "model": "glm-5.3"
+}

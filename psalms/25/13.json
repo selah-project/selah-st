@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Moya wa hae o dula ka botle, mme peo ya hae e tla rua ⟨את⟩ lefatshe.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa hae"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ka botle"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "o dula"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "mme peo ya hae"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "e tla rua"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨את⟩ lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:49.347237067Z",
+  "model": "glm-5.3"
+}

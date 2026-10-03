@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme tse setseng ea minkha eo, ea Aharone le bara ba hae e ⟨e le⟩ sehalalelo sa dihalalelo, ho tloha ho dihloli tsa Yahwe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Mme tse setseng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ea"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha eo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ea Aharone"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "le bara ba hae"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sehalalelo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sa dihalalelo"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ho tloha ho dihloli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "tsa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:26.707035773Z",
+  "model": "glm-5.3"
+}

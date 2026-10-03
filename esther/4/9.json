@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Hatake a tla, a phatlalatsa ho Estere ⟨את⟩ mantswe a Mordekai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatake"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a phatlalatsa"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ho Estere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe a Mordekai"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "a Mordekai"
+    }
+  ],
+  "timestamp": "2026-10-03T11:46:06.348012945Z",
+  "model": "glm-5.3"
+}

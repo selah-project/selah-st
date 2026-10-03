@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 61,
+  "translation": "Eketsa matsatsi ho matsatsi a morena; lilemo tsa hae a be le tsona jwalo ka moloko le moloko.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "Eketsa"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "lilemo tsa hae"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jwalo ka"
+    },
+    {
+      "surface": "דר",
+      "gloss": "moloko"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le moloko"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:08.105915739Z",
+  "model": "glm-5.3"
+}

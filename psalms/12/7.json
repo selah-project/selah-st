@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mantswe a Yahwe ke mantswe a halalelang, bjalo ka selefere e hlatsoang ka sekoere sa lefatshe, e hlwekiswang makgetlo a supileng.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ke mantswe"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "a halalelang"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selefere"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "e hlatsoang"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "ka sekoere"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "e hlwekiswang"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "makgetlo a supileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:07.847815407Z",
+  "model": "glm-5.3"
+}

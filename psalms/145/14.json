@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Yahwe o tšehetsa ba ohlang tsohle, mme a hlakola ditlhaku tsa ba kopameng tsohle.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "o tšehetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ba ohlang"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "mme a hlakola ditlhaku tsa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "ba kopameng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:26.386171941Z",
+  "model": "glm-5.3"
+}

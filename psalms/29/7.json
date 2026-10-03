@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Lentswe la Yahwe le khaola dilalele tsa molelo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "le khaola"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "dilalele tsa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "molelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:43.048198657Z",
+  "model": "glm-5.3"
+}

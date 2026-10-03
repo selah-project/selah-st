@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 141,
+  "translation": "Ya lokileng a ntsekise ka hesede, mme a nketole — e tla ba jwaloka mafura a hloho; hloho ya ka e se ke ea hana; hobane thapelo ya ka e ntse e le matlhakoreng a mabeo a bona.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "a ntsekise"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya lokileng"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ka hesede"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "mme a nketole"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a hloho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e se ke ea"
+    },
+    {
+      "surface": "יני",
+      "gloss": "hana"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hloho ya ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "e ntse e le"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "mme thapelo ya ka"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "matlhakoreng a mabeo a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:03.859517612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Ena ke kabelo ya hao, karolo ya tekanyo ya hao, ho tswa ⟨את⟩ ho 'na, ho bolela Yahwe, hobane o ile wa lebala ⟨את⟩ 'na, mme wa ikemma leshano.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ena"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "kabelo ya hao"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "karolo ya"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "tekanyo ya hao"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "ho tswa ⟨את⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "o ile wa lebala"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ 'na",
+      "marks": "'na"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "mme wa ikemma"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "leshano"
+    }
+  ],
+  "timestamp": "2026-10-03T09:09:48.366814519Z",
+  "model": "glm-5.3"
+}

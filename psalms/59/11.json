@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Elohim wa hesede wa ka o tla ntsephetla pele; Elohim o tla mpontsha ⟨את⟩ bahlankgedi ba ka.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "wa hesede"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "o tla ntsephetla pele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "o tla mpontsha"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "bahlankgedi ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:02.246538092Z",
+  "model": "glm-5.3"
+}

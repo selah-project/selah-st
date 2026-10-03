@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme a sa ise ⟨את⟩ eona ka pel'a lemati la Ohela ya Kopano, ho e etsa ⟨את⟩ ho Yahwe: motho eo o tla a rokwa ho batho ba hae.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mme ho"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lemati"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kopano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "ise"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho Yahwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "mme o tla a rokwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "ho batho ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:13:57.159359339Z",
+  "model": "glm-5.3"
+}

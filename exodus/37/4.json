@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme a etsa dibatani tsa mofuta wa sehlare sa shitime, mme a di kenya ka khauta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "dibatani"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mofuta wa sehlare"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitime"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "a di kenya ka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dibatani"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "khauta"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:59.523436117Z",
+  "model": "glm-5.3"
+}

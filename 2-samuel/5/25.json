@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Dawide a etsa jwalo, jwaloka Yahwe a mo laetse; mme a otla ⟨את⟩ Bapelistine ho tloha Gebea ho fihlela moo o fihlang ka Guezere.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "a mo laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bapelistine"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelistine"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "ho tloha Gebea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "באך",
+      "gloss": "oo fihlang"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Guezere"
+    }
+  ],
+  "timestamp": "2026-10-03T07:48:27.142074011Z",
+  "model": "glm-5.3"
+}

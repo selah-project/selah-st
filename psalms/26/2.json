@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mphlahlobe, Yahwe, mme u mphe teko; hlahloba diphio tsa me le pelo ya me.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Mphlahlobe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "mme u mphe teko"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "hlahloba"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "diphio tsa me"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "le pelo ya me"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:08.296107654Z",
+  "model": "glm-5.3"
+}

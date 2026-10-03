@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Attai a begetsa ⟨את⟩ Nathane, mme Nathane a begetsa ⟨את⟩ Zabade.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Mme Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nathane"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathane"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mme Nathane"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabade"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabade"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:49.548115170Z",
+  "model": "glm-5.3"
+}

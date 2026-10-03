@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 1:9",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "E kopanetse, e nngwe ho ⟨e⟩ nngwe, ke diphaphaletsi tsa tsona; ha di fetohe ha di tsamaya, e mong le e mong o ea ka thoko ya sefahleho sa hae.",
+  "tokens": [
+    {
+      "surface": "חברת",
+      "gloss": "e kopanetse"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "diphaphaletsi tsa tsona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "di fetohe"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "ha di tsamaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "e mong le e mong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "thoko ya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa hae"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "o ea"
+    }
+  ],
+  "timestamp": "2026-10-03T09:30:29.344701821Z",
+  "model": "glm-5.3"
+}

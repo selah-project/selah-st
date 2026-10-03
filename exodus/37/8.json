@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Kerube e le nngwe ho karolo e le nngwe lehlakoreng le leng, le kerube e le nngwe ho karolo e le nngwe lehlakoreng le leng; ho tswa ho sephetheho sa kopo o ile a etsa ⟨את⟩ dikerube, ho dikarolo tse pedi tsa sona.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "Kerube e le nngwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ho karolo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "lehlakoreng le leng"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "le kerube e le nngwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ho karolo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "lehlakoreng le leng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tswa ho"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sephetheho sa kopo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikerube"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "dikerube"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ho dikarolo tse pedi"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "tsa sona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:06.318360199Z",
+  "model": "glm-5.3"
+}

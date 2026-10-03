@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Kohelete o ile a batla ho fumana mantswe a takatsang, mme a ngola mantswe a a ntseng a loka, mantswe a `nnete.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "o ile a batla"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelete"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ho fumana"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a takatsang"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "mme a ngola"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "a a ntseng a loka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "`nnete"
+    }
+  ],
+  "timestamp": "2026-10-03T11:45:46.101046761Z",
+  "model": "glm-5.3"
+}

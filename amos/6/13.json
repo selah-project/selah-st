@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 6:13",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Ba ntsufatsang ka ⟨the⟩ se seng se se nang moelelo, ba reng: Na re sa ka ra nka ⟨the⟩ dinaka ka matla a rona?",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "Ba ntsufatsang"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "ka se seng se se nang moelelo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "moelelo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ba reng"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Na"
+    },
+    {
+      "surface": "בחזקנו",
+      "gloss": "ka matla a rona"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "re sa ka ra nka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ra"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "dinaka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:06:29.827915911Z",
+  "model": "glm-5.3"
+}

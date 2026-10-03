@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme lefatshe lohle le ne le batla ⟨את⟩ sefahleho sa Shelomo, ho mamela ⟨את⟩ bohlale ba hae, seo Elohim a neng a se fana ka pelo ea hae.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "le lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "le batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa Shelomo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ho mamela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohlale ba hae"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "bohlale ba hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a fana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ka pelo ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:07:02.511900612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 57,
+  "translation": "Pelo ea ka e lokile, Elohim; pelo ea ka e lokile; ke tla bina, ke tla bina ka sefinyelwa.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "e lokile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ea ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e lokile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ea ka"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla bina"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ke tla bina ka sefinyelwa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:06.772767870Z",
+  "model": "glm-5.3"
+}

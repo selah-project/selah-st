@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "Hobaneng, Yahwe, o ntlohella moya wa ka? O pata sefahleho sa hao ho nna.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "o ntlohella"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "o pata"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:38.544216443Z",
+  "model": "glm-5.3"
+}

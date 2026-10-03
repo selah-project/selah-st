@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mahlo a hao a shebelle ka pel ⟨ha ho le letona⟩, mme lids a hao a lokiele ka pele ga hao.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a hao"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "ka pel ⟨ha ho le letona⟩"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "a shebelle"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "mme lids a hao"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "a lokiele"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ka pele ga hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:30.713679636Z",
+  "model": "glm-5.3"
+}

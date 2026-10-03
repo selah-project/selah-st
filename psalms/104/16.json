@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Mefuta ya Yahwe e khotsofetse, di-cedar tsa Lebhanone, tse a ileng a di jala.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "e khotsofetse"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mefuta ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "di-cedar tsa"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebhanone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "a ileng a di jala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:19.929648679Z",
+  "model": "glm-5.3"
+}

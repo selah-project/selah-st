@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Yahwe ke lefika la ka, le borele ba ka, le molokolohi wa ka; El ya ka, lefika la ka, ke phitleha ho yena; khubu ya ka, le lenaka la tokoloho ya ka, le phahamiso ya ka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "lefika la ka"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "le borele ba ka"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "le molokolohi wa ka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ya ka"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "lefika la ka"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ke phitleha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "khubu ya ka"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "le lenaka la"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "tokoloho ya ka"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "le phahamiso ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:08.498179249Z",
+  "model": "glm-5.3"
+}

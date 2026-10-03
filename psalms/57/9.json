@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 57,
+  "translation": "Tsoha, kgodiso ya ka; tsoha, nevele le kinore; ke tla tsohisa ⟨את⟩ phirimula.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "tsoha"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kgodiso ya ka"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "tsoha"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevele"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "le kinore"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ke tla tsohisa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "phirimula"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:33.556499642Z",
+  "model": "glm-5.3"
+}

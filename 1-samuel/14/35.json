@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme Saule a bopaseta bakeng sa Yahwe; ⟨את⟩ yona e ile ya qala ho bopa mebitso bakeng sa Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a bopa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saule"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "seta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bakeng sa Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (seta)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "e ile ya qala"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ho bopa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mebitso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bakeng sa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:38:20.648652282Z",
+  "model": "glm-5.3"
+}

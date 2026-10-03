@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 65,
+  "translation": "O khutlisa lerata la mawatle, lerata la magora a tsona, le thlaroko ya ditjhaba.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "O khutlisa"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "lerata"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "la mawatle"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "lerata"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "la magora a tsona"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "le thlaroko"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ya ditjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:13.174654068Z",
+  "model": "glm-5.3"
+}

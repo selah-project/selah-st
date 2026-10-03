@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme a aha mebara ka ntlong ea Yahwe, eo Yahwe a neng a re: Ho Yerushalayime ke tla beha ⟨את⟩ lebitso la ka.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "mme a aha"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "mebara"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlong ea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a neng a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ho Yerushalayime"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ke tla beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la ka"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "lebitso la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T08:28:34.417473329Z",
+  "model": "glm-5.3"
+}

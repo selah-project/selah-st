@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme Yarobhame a aha ⟨את⟩ Shekeme thabeng ya Efrayime, mme a dula ho yona; mme a tswa moo, mme a aha ⟨את⟩ Penuele.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a aha"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobhame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekeme"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme a dula"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mme a tswa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mme a aha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuele"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuele"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:43.105066628Z",
+  "model": "glm-5.3"
+}

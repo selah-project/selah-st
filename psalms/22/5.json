@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ho wena boraborona ba bitsitse; ba bitsitse, mme o ba lokolletse.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Ho wena"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ba bitsitse"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "boraborona"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ba bitsitse"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "mme o ba lokolletse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:09.592504502Z",
+  "model": "glm-5.3"
+}

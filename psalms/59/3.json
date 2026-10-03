@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Ntlolohedisa ho basebetsi ba lefujeng, mme ho banna ba madi mphehle sepholohong.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ntlolohedisa"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "ho basebetsi ba"
+    },
+    {
+      "surface": "און",
+      "gloss": "lefufa"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "mme ho banna ba"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "mphehle sepholohong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:15.485576648Z",
+  "model": "glm-5.3"
+}

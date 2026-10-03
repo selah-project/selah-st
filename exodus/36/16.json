@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Mme a kopanya ⟨את⟩ diriata tse hlano ka bolaong, le ⟨את⟩ tse tshela ka bolaong.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "mme a kopanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diriata tse hlano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "diriata"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ka bolaong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diriata tse tshela"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tse tshela"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "diriata"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ka bolaong"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:53.693157815Z",
+  "model": "glm-5.3"
+}

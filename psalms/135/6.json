@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Tsohle tseo Yahwe a di ratang o di etsa mahodimong le lefatsheng, mawatle le bohlelele bohle.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a di ratang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o di etsa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "le lefatsheng"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mawatle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le bohlelele bohle"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "bohlelele"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:14.381879329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "E tla ba le makgetlo a mabeli a kopantsoeng ho eona, ho mafelelo a eona a mabeli, e e kopantsoe.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "a mabeli"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "makgetlo"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "a kopantsoeng"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba le"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho eona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabeli"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "mafelelo a eona"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "e e kopantsoe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:28.062357242Z",
+  "model": "glm-5.3"
+}

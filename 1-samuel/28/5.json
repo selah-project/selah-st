@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme Shaule a bona ⟨את⟩ sekalala sa Bapalestina, mme a tshaba, mme pelo ya hae e ile ya thothoma haholo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekalala"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "sekalala"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa Bapalestina"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a tshaba"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "e ile ya thothoma"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-03T07:45:28.200897355Z",
+  "model": "glm-5.3"
+}

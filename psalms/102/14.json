@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "U tla tsoha, u tla moha ⟨את⟩ Tsiyone, hobane e se nako ya ho e moha, hobane nako e behilweng e fihlile.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "u tla tsoha"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "u tla moha"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "ya ho e moha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e fihlile"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nako e behilweng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:56.056212790Z",
+  "model": "glm-5.3"
+}

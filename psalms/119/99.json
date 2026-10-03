@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ho feta babalaodi ba ka ka bohle ke hlalefile, hobane bopaki ba hao ke ⟨⟨sekakelo⟩ sa ka.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ho feta … ka bohle"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "babalaodi ba ka"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "ke hlalefile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bopaki ba hao"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "sekakelo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:12.543448048Z",
+  "model": "glm-5.3"
+}

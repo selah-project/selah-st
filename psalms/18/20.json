@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme a mptsa ea sephara, a ntata, hobane o ne a thabela ho 'na.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "mme a mptsa"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ea sephara"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "a ntata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o ne a thabela"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:38.196533978Z",
+  "model": "glm-5.3"
+}

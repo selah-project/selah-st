@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 150,
+  "translation": "Halalelang yena ka tofo le motsamao wa mmino, halalelang yena ka dithome tsa dintho tse thaketse le sefela-hlogo.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Halalelang yena"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ka tofo"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "le motsamao wa mmino"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "halalelang yena"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "ka dithome tsa dintho tse thaketse"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "le sefela-hlogo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:53.462614590Z",
+  "model": "glm-5.3"
+}

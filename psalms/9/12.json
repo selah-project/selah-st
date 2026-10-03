@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Imanang Yahwe, ya dulang Tsiyone; boleleng merabeng mesebetsi ya hae.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "imanang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ya dulang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "boleleng"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "merabeng"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "mosebetsi wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:31.169706282Z",
+  "model": "glm-5.3"
+}

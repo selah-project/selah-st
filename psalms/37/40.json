@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme Yahwe o ba thusa, o ba lokolla; o ba lokolla ho ba tlolahalang, o ba pholosa, hobane ba retetse ho yena.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "Mme Yahwe o ba thusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "o ba lokolla"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "o ba lokolla"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "ho ba tlolahalang"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "o ba pholosa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "ba retetse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:55.011915599Z",
+  "model": "glm-5.3"
+}

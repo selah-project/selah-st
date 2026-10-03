@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ditsela tsa hao, Yahwe, mpontše; mesebetsi ya hao e tletseng mphethe.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "ditsela tsa hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "mpontše"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "mesebetsi ya hao e tletseng"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mphethe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:07.327836646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mamela, Yahwe, mme u mpehe mohau; Yahwe, eba mofani oa ka.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mme u mpehe mohau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "eba"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mofani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:34.464608706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Babelui ba beile lerara bakeng sa ka, empa ditaelo tsa hau ha ke ea khoka ho tsona.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ba beile"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babelui"
+    },
+    {
+      "surface": "פח",
+      "gloss": "lerara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bakeng sa ka"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "empa ditaelo tsa hau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "ke ea khoka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:29.156805324Z",
+  "model": "glm-5.3"
+}

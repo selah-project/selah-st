@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Yahwe, hesede ya hao ⟨e le⟩ mahodimong; tumelo ya hao e fihlela shehakime.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tumelo ya hao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e fihlela"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "shehakime"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:35.568297763Z",
+  "model": "glm-5.3"
+}

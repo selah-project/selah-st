@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Ditsebe di na le tsona, empa ha di utloe; le ho feta, ha ho ⟨⟨ruakh⟩⟩ e nang lefu ka molomo wa tsona.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ditsebe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "di na le tsona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "di utloe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "le ho feta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "יש",
+      "gloss": "e nang lefu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ka molomo wa tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:13.911093271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Mahlo a ka a fokola ho tletseho ya hau ya pholoho, le ho lentsoe la tsedeke ya hau.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mahlo a ka"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "a fokola"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "ho tletseho ya hau ya pholoho"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "le ho lentsoe"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "la tsedeke ya hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:11.521963567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 129,
+  "translation": "eo seatla sa mojwaledi sa e tlatsang, kapa letshwele la mojwalela difate;",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "sa e tlatsang"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "sa mojwaledi"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "kapa letshwele la"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "mojwalela difate"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:43.040368181Z",
+  "model": "glm-5.3"
+}

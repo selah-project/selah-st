@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Nyalapala ho Yahwe, mme leka e le mong ho Yena; o se ke wa tuka ka baka la ea atlehang tseleng ya hae, kapa ea etsang merero e mpe.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Nyalapala"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "mme leka e le mong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho Yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "tuka"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "ka baka la ea atlehang"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tseleng ya hae"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ka baka la ea"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etsang"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "merero e mpe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:02.891842210Z",
+  "model": "glm-5.3"
+}

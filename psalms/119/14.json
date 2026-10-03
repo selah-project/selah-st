@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ka tsela ya bopaki ba hao ke thabile, jwalo ka holim'a bohleno bohle.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela ya"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bopaki ba hao"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "ke thabile"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "jwalo ka holim'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "הון",
+      "gloss": "bohleno"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:47.474964901Z",
+  "model": "glm-5.3"
+}

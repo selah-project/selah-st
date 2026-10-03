@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 116,
+  "translation": "A mphetse meala ea lefu, mme meitlo ea Sheole ea mphumula; khotso le masoabi ke a fumaneng.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "A mphetse"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "meala ea"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "mme meitlo ea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "ea mphumula"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "le masoabi"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ke a fumaneng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:36.601516231Z",
+  "model": "glm-5.3"
+}

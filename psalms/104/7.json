@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Ka tletlebo ya hao ba baleha; ka modumo wa lehodimo la hao ba hakanya.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "tletlebo ya hao"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "ba baleha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "walehodimo la hao"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "ba hakanya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:26.314696530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Wena o ile wa tlola lewatle ka matla a hao, wa thlama dintho tse kgolo tsa lewatle, ditlhaku tsa tsona, hodima metsi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "wa tlola"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ka matla a hao"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wa thlama"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dintho tse kgolo tsa lewatle, ditlhaku tsa tsona"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "dintho tse kgolo tsa lewatle"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:22.757609462Z",
+  "model": "glm-5.3"
+}

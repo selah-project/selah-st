@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Elohim a bolela ho Noache, le ho barwa ba hae ⟨את⟩ ho eena, a re:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme … a bolela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noache"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barwa ba hae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ho eena"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:47.284281928Z",
+  "model": "glm-5.3"
+}

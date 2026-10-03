@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Dawide a lla ⟨את⟩ kenelelo ena bakeng sa Sheaule le bakeng sa Yonathane mora wa hae.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "a lla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenelelo ena"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "kenelelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ena"
+    },
+    {
+      "surface": "על",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheaule"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le bakeng sa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonathane"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T12:54:33.531312507Z",
+  "model": "glm-5.3"
+}

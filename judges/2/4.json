@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 2:4",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme e ile ya ba ha moromuwa wa Yahwe a bua ⟨את⟩ mantswe ana ho eohle bana ba Yisraele, mme setjhaba sa tlatsa ⟨את⟩ lentswe la sona, mme sa lela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e ile ya ba"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ha a bua"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "moromuwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe ana"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "mme sa tlatsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la sona"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "lentswe la sona"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "mme sa lela"
+    }
+  ],
+  "timestamp": "2026-10-03T07:17:20.749662469Z",
+  "model": "glm-5.3"
+}

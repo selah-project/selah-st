@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme hosasa le tla bona ⟨את⟩ kgalalelo ya Yahwe, hobane Yahwe o utlwile ⟨את⟩ maikuelo a lona a khahlanong le Yahwe; mme re ke bomang, hobane le ikuela khahlanong le rona?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "mme hosasa"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "le tla bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgalalelo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ha a utlwile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maikuelo a lona"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "maikuelo a lona"
+    },
+    {
+      "surface": "על",
+      "gloss": "a khahlanong le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "mme re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke bomang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "le ikuela"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "khahlanong le rona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:26.975911523Z",
+  "model": "glm-5.3"
+}

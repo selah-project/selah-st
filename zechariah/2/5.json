@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 2:5",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme ka tsema mahlo a ka, mme ka bona, mme bonang, monna, mme letsohong la hae kana chepe ya tekanyo.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "mme ka tsema"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "mme ka bona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "mme letsohong la hae"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "chepe ya tekanyo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:17:48.125035051Z",
+  "model": "glm-5.3"
+}

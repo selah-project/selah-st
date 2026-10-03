@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Motho ya mong a o tlotse, eseng molomo wa hau; motho wa mahaeng, eseng sebaro sa hau.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "a o tlotse"
+    },
+    {
+      "surface": "זר",
+      "gloss": "motho ya mong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa hau"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "motho wa mahaeng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "sebaro sa hau"
+    }
+  ],
+  "timestamp": "2026-10-03T11:17:34.946611428Z",
+  "model": "glm-5.3"
+}

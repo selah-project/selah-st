@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Ke ile ka bolela ho Yahwe: Adonai, U ⟨ena⟩; molemo wa ka ha ho oa kantle ho Wena.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ke ile ka bolela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U ⟨ena⟩"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "molemo wa ka"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ha ho oa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kantle ho Wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:26.879943654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ke tla neha ⟨את⟩ khaufo setjhabeng sena mahlong a baahi ba Mitsrayime; mme e tla ba, ha le tsamaea, le ke ke la tsamaea lefose.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Mme ke tla neha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khaufo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "khaufo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhabeng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baahi ba Mitsrayime"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "le tsamaea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le ke ke"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "la tsamaea"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "lefose"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:43.497361771Z",
+  "model": "glm-5.3"
+}

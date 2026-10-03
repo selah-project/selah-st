@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mahlomong a motho eo Yahwe a sa mo balang molato, mme ho se na tsietsi ho ruakh ya hae.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahlomong a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "a balang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "molato"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ho se na"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ho ruakh ya hae"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "tsietsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:52.785950699Z",
+  "model": "glm-5.3"
+}

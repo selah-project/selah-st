@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Tlosa ho tloha ho ▢na ⟨את⟩ khoea le ⟨את⟩ tlhekefeto, hobane ke ile ka boloka bopaki ba hau.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Tlosa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ho tloha ho ▢na"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "khoea"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "le tlhekefeto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bopaki ba hau"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ke ile ka boloka"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:31.224780705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Nka le tshehetsa joang ka nna feela boima ba lona, le morwalo wa lona, le diphapang tsa lona?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "joang"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nka le tshehetsa"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ka nna feela"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "boima ba lona"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "le morwalo wa lona"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "le diphapang tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:41:44.958715678Z",
+  "model": "glm-5.3"
+}

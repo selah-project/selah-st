@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Ke ne ke le mosha, mme jwale ke moholo, mme ha kea bona tsadiki a sieoa, kapa poelo ya hae e batla lehae.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke le"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ke moholo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kea bona"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadiki"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "a sieoa"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "kapa poelo ya hae"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "e batla"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:51.907836672Z",
+  "model": "glm-5.3"
+}

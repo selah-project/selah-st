@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 41:32",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Mme hobane toro e ile ya boelelwa ho Farao gabedi, ke hobane taba e tsitsitse ka Elohim, mme Elohim o a potlaka ho e etsa.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Mme hobane"
+    },
+    {
+      "surface": "השנות",
+      "gloss": "ya boelelwa"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "toro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "gabedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke hobane"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e tsitsitse"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וממהר",
+      "gloss": "mme o a potlaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "ho e etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:37:34.982766810Z",
+  "model": "glm-5.3"
+}

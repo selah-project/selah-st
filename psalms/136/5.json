@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "Ho ya ho Etsang mahodimo ka tlhaaho, hobane hesede ha hesa fela ho fihlela ho sa tlo fela.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Ho ya ho Etsang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ka tlhaaho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ho sa tlo fela"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ha hesa fela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:52.623773180Z",
+  "model": "glm-5.3"
+}

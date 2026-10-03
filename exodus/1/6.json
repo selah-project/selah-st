@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Yosefe a shoile, le bana ba hae ka bomalome, le lichaba tsohle tsa nako eo.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mme ... a shoile"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... tsohle"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bana ba hae ka bomalome"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... tsohle"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "lichaba"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta nako eo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:42:22.036500005Z",
+  "model": "glm-5.3"
+}

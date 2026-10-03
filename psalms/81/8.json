@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 81,
+  "translation": "Ka tshekong e bohloko o bileletse, mme Ke a pholosa; Ke ne ke araba ka sefubying sa koroko; Ke ne ke hlahloba hodima Metsing ya Meriba. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "Ka tshekong e bohloko"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "o bileletse"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "mme Ke a pholosa"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "Ke ne ke araba"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka sefubying sa"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "koroko"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "Ke ne ke hlahloba"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Metsing"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ya Meriba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:42.586988392Z",
+  "model": "glm-5.3"
+}

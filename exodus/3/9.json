@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme jwale, bonwe, leleme la bana ba Yisraele le fihlile ho lona, mme le bonile ⟨את⟩ khatello eo Mitsrayime a ba khatellang ka yona ⟨את⟩ bona.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "leleme"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "באה",
+      "gloss": "le fihlile"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "le bonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khatello"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "khatello"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "a ba khatellang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:50.416366546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Sehle Sethle: Mme Sehle Sethle—leholimo le otla, mme leholimo le tla; mme lefatshe le dula ho ya ho ile.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "leholimo le otla"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "le otla"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "le leholimo le tla"
+    },
+    {
+      "surface": "בא",
+      "gloss": "le tla"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "le lefatshe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho ya ho ile"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "le dula"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:19.680454413Z",
+  "model": "glm-5.3"
+}

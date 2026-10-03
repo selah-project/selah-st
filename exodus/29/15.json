@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme o tla nka ⟨את⟩ nku e nngwe ya ramu, mme Aharone le bara ba hae ba tla beha ⟨את⟩ matsoho a bona holimo ya hloho ya ramu eo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme o tla nka ⟨את⟩",
+      "marks": "ramu e nngwe"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ramu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "o tla nka"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "mme ba tla beha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bara ba hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsoho a bona"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "matsoho a bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ya ramu"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:57.069045575Z",
+  "model": "glm-5.3"
+}

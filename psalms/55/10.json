@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Ije, Adonai, a arolelanye lumela ea bona, hobane ke bone dikgoka le khang torong.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "ije"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "a arolelanye"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lumela ea bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dikgoka"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "le khang"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "torong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:40.965444833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Ba e beha ho fihlela hoseng, jwalo ka ha Moshe a laetse; mme ha ea tswakala, mme phofo e ne e se ho eona.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "ba e beha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (manna)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "ea tswakala"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "mme phofo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ne e se"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho eona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:40.973505469Z",
+  "model": "glm-5.3"
+}

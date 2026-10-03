@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Re nahanela hesede hau, Elohim, ka hare ho tempole ya hau.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "re nahanela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede hau"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "tempole ya hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:43.693925142Z",
+  "model": "glm-5.3"
+}

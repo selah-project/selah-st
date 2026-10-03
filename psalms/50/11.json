@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Ke tseba dinonyana tsohle tsa dithaba, le diphooofolo tsa masimong di na le nna.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ke tseba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dinonyana"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tsa dithaba"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "le diphooofolo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tsa masimong"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "di na le nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:44.845370010Z",
+  "model": "glm-5.3"
+}

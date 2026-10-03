@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Mme Yosefe a re ho bona: E ⟨ke⟩ yona eo ke neng ke e bolelela joalo: Balaodi le lona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "E yona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke neng ke e bolelela"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "joalo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:38:40.189613839Z",
+  "model": "glm-5.3"
+}

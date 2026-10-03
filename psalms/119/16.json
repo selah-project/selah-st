@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ka ditekanelo tsa hao ke tla ananela, ke ke ke wa lebala lentsoe la hao.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "ka ditekanelo tsa hao"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "ke tla ananela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ke ke ke wa"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lentsoe la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:47.475206013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Na motho a ka utlwisa Elohim Bohloko? Empa lona le ntutlwisa Bohloko. Mme le re: Re le utlwisitse Bohloko ka eng? Ka lekgetho la tesemo le mpho ya tumelo.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "na a ka utlwisa Bohloko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "empa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "le ntutlwisa Bohloko"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "mme le re"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ka eng"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "re le utlwisitse Bohloko"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "lekgetho la tesemo"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "le mpho ya tumelo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:18.674842436Z",
+  "model": "glm-5.3"
+}

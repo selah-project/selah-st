@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "O re satise ka hoseng ka hesede ya hao, re binue, re be le thabo mehla ya rona kaofela.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "O re satise"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka hoseng"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ka hesede ya hao"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "re binue"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "re be le thabo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "mehla ya rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:24.222322674Z",
+  "model": "glm-5.3"
+}

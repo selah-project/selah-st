@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme Yahwe a re ho Kajine: Hobaneng o halefile, mme hobaneng sefahleho sa hao se otse?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajine"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "o halefile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "le hobaneng"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "se otse"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:10.894146143Z",
+  "model": "glm-5.3"
+}

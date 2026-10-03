@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme Dawide a re ho Yahonatane: Ke mang ya tla mpolella? Kapa ke eng ha ntatao a araba ka boima?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yahonatane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ya tla polella"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ntatao"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ka boima"
+    }
+  ],
+  "timestamp": "2026-10-03T07:40:02.834470459Z",
+  "model": "glm-5.3"
+}

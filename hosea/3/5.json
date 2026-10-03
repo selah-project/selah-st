@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ka mora moo, bana ba Yisraele ba tla buela morao, mme ba batla ⟨את⟩ Yahwe Elohim wa bona, le ⟨את⟩ Dawide morena wa bona; mme ba tla tsosa tsheko ho ya ho Yahwe le ho molemo wa hae, mafelong a matsatsi.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "ka mora moo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba tla buela morao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "mme ba batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa bona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Dawide morena wa bona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "morena wa bona"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "mme ba tla tsosa tsheko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "molemo wa hae"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "mafelong a"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T09:58:48.904551689Z",
+  "model": "glm-5.3"
+}

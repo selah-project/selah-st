@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Samuele a sebeletsa ⟨את⟩ sefatlheho sa Yahwe, a le mosanyana, a kgabisitsoe ka aefode ea linne.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Mme Samuele"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "a sebeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefatlheho sa Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefatlheho sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "a le mosanyana"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "a kgabisitsoe"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ka aefode"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ea linne"
+    }
+  ],
+  "timestamp": "2026-10-03T07:31:49.403446549Z",
+  "model": "glm-5.3"
+}

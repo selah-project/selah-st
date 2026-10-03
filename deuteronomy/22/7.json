@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ka ho tiisetsoa o tla romola ⟨את⟩ mma, mme ⟨את⟩ bana o tla nka ho wena, e le hore ho be botle ho wena, mme o tle o atise matsatsi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "romola"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "o tla romola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mma"
+    },
+    {
+      "surface": "האם",
+      "gloss": "mma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "o tla nka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "למען",
+      "gloss": "e le hore"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ho be botle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "mme o tle o atise"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-03T12:50:20.014776724Z",
+  "model": "glm-5.3"
+}

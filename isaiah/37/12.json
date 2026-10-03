@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Na melimo ya ditjhaba e ile ya ba lokolla, eo maloko-ntata a ka e senyitseng — ⟨את⟩ Gozane le ⟨את⟩ Kharane, le Retsefe, le bana ba Edene, ba neng ba dulane Telasare?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "na e ile ya lokolla"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "melimo ya ditjhaba"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "melimo ya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "a ka e senyitseng"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "maloko-ntata a ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozane"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Kharane"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Kharane"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "le Retsefe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng ba"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "dulane Telasare"
+    }
+  ],
+  "timestamp": "2026-10-03T08:46:26.148277533Z",
+  "model": "glm-5.3"
+}

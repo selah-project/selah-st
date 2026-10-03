@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 47,
+  "translation": "Mme Yoséfe a tlisa ⟨את⟩ Yaakobo ntate oa hae, a mo emisa pele ga Faro; mme Yaakobo a hlohonolofatsa ⟨את⟩ Faro.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a tlisa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséfe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntate oa hae"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "a mo emisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a hlohonolofatsa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    }
+  ],
+  "timestamp": "2026-10-03T05:41:08.141691959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Mme ba neela ⟨את⟩ barwa ba bona le ⟨את⟩ barwa ba bona basadi ho melimo.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ba neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barwa ba bona"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "barwa ba bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "barwa ba bona basadi"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "barwa ba bona basadi"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "ho melimo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:33.445276681Z",
+  "model": "glm-5.3"
+}

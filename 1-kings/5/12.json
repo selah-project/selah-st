@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme a bolela maele dikete tse tharo, mme diae tsa hae di ile tsa ba dikete tse hlano le se seng.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "mme a bolela"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tse tharo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "משל",
+      "gloss": "maele"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme diae tsa hae di ile tsa ba"
+    },
+    {
+      "surface": "שירו",
+      "gloss": ""
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "le se seng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:03:42.077110117Z",
+  "model": "glm-5.3"
+}

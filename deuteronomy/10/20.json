@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahwe Elohim wa hao o tla mo tšaba, ⟨את⟩ o tla mo hlanka, mme o tla lule o mamelletse ho yena, mme o tla ikana ka lebitso la hae.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "o tla mo tšaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "o tla mo hlanka"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o tla mo hlanka"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "o tla lula o mamelletse"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ka lebitso la hae"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "o tla ikana"
+    }
+  ],
+  "timestamp": "2026-10-03T06:48:32.010304937Z",
+  "model": "glm-5.3"
+}

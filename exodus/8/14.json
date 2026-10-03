@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme baqapi ba ile ba etsa jwalo ka bo-qapi bona ho tsoa ⟨את⟩ malakunya, empaa ba sa khone; mme lekunya le ile la ba hara motho le hara phofolo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mme ba ile ba etsa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "baqapi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ka bo-qapi bona"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ho tsoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malakunya"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "malakunya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empaa ba sa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "khone"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mme le ile la ba"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "lekunya"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "hara motho"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "le hara phofolo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:00.643748709Z",
+  "model": "glm-5.3"
+}

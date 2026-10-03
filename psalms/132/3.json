@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Ha nka kena ka teng ya ntlo ya ka, ha nka phahama holimo setulo sa boroko ba me, —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha nka"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "kena"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ka teng"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ya ntlo ya ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ha nka"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "phahama"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "setulo sa boroko"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ba me"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:26.175856603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 4:7",
+  "book": "micah",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ke tla etsa ⟨את⟩ e senyehileng ⟨hore e be⟩ setšeptša, le e qapilweng ⟨hore e be⟩ sehlopeng se matla; mme Yahwe o tla busa bona, thabeng ya Tsiyone, ho tloha jwale ho fihlela lekahosong.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ke tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e senyehileng"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "e senyehileng"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "setšeptša"
+    },
+    {
+      "surface": "והנהלאה",
+      "gloss": "le e qapilweng"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "sehlopeng"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "se matla"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "o tla busa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ho tloha jwale"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lekahosong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:56.573254413Z",
+  "model": "glm-5.3"
+}

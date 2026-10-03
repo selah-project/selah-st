@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme morena a fihla a tloha Damaseke, mme morena a bona ⟨את⟩ aletare, mme morena a atamela ho aletare, mme a fana ka mehlatso hodima yona.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "a tloha Damaseke"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aletare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "a atamela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a fana ka mehlatso"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hodima yona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:26:31.863552258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 3:7",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme mahlo a bobeli ba bona a bulwa, mme ba tseba hore ba sena diaparo; mme ba tlhotla ⟨את⟩ mela ea lettuce — ao, majoe a fene — mme ba etsela bona dikhabelo.",
+  "tokens": [
+    {
+      "surface": "ותפקחנה",
+      "gloss": "mme a bulwa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ba bobeli ba bona"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "mme ba tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "עירמם",
+      "gloss": "ba sena diaparo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ויתפרו",
+      "gloss": "mme ba tlhotla"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "mela"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ea fene"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba etsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "dikhabelo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:41:42.111271195Z",
+  "model": "glm-5.3"
+}

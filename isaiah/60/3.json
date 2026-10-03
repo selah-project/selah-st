@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 60,
+  "translation": "Mme ditjhaba di tla tsamaya seferefere sa hao, le bomorena bohalaleng ba ho chaba ha hao.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Mme ... di tla tsamaya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "seferefere sa hao"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "le bomorena"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "bohalaleng"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "ba ho chaba ha hao"
+    }
+  ],
+  "timestamp": "2026-10-03T08:57:44.844480664Z",
+  "model": "glm-5.3"
+}

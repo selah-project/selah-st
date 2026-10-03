@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme morena wa Yisraele a romela sebakeng seo monna wa Elohim a neng a se boleletse, a mo lopotsa; mme a ithulagantsha moo — eseng lekgetlo le le leng, eseng tse peli.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a boleletse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "a mo lopotsa"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "a ithulagantsha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "lekgetlo le le leng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tse peli"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:52.646287065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "O tla etsa ⟨את⟩ sekotlelo sa tshwele le serapa sa sona sa tshwele bakeng sa ho hlaphohelwa, mme o tla se beha pakeng tsa_bohong ba kopano le aletare, mme o tla beha metswedi moo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "sekotlelo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sa tshwele"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "le serapa sa sona"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sa tshwele"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "bakeng sa ho hlaphohelwa"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o tla beha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sona (sekotlelo)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "bohong"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ba kopano"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o tla beha"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "moo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metswedi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:57:23.617370223Z",
+  "model": "glm-5.3"
+}

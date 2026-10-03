@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Hlaba lithoko, moya oaka, ⟨את⟩ Yahwe; Yahwe, Elohim oaka, o moholo haholo; kgalalelo le tlotlo o di apere.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Hlaba lithoko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim oaka"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "o moholo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "le tlotlo"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "o di apere"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:56.649633622Z",
+  "model": "glm-5.3"
+}

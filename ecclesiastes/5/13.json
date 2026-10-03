@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme leruo leo le khokile ka boima bobe; mme o beletsa mora, mme ha ho letho letsohong la hae.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "mme o lahleheloa ke"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "leruo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "ka boima"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "mme o beletsa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "letsohong la hae"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "letho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:16.159528170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Meleleo ya ba lokileng tsela, ba tsamayang ka Torateng ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Meleleo"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ba lokileng"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ba tsamayang"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "ka Torateng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:51.813002753Z",
+  "model": "glm-5.3"
+}

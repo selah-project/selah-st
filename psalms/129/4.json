@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 129,
+  "translation": "Yahwe ⟨⟨e⟩⟩ tsahala, o ile a rula dikgokahanyo tsa bahlolontši.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsahala"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "o ile a rula"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "dikgokahanyo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tsa bahlolontši"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:24.601603259Z",
+  "model": "glm-5.3"
+}

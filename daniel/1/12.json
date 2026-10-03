@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "'Ka kōpo, lekola ⟨את⟩ makobotla a hao matsatsi leshome; ebe ba re fa meroho e mene ea mela ea merogo, re je, le metsi, re noa.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "lekola"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ka kōpo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makobotla a hao"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "makobotla a hao"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "leshome"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ba re fa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "מן",
+      "gloss": "meroho e mene ea mela ea merogo"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "meroho e mene ea mela ea merogo"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "re je"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "le metsi"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "re noa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:48:43.703618007Z",
+  "model": "glm-5.3"
+}

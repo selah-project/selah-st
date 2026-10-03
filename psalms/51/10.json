@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Mphe ho utlua thabo le kyumetso; a ntsa makala mafutsana o dikileng.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "Mphe ho utlua"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "thabo"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "le kyumetso"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "a ntsa makala"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mafutsana"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "o dikileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:10.746314873Z",
+  "model": "glm-5.3"
+}

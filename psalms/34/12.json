@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Tlang, bana, mameleng ka: tshabo ya Yahwe ke tla le ruta.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "tlang"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mameleng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "tshabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ke tla le ruta"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:02.944688905Z",
+  "model": "glm-5.3"
+}

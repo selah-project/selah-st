@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Sheba leihlo ho tloha ho ▢ena, hore ke tle ke phutholoe, pele ke tswa mme ke se ke wa ▢sala.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Sheba leihlo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho tloha ho ▢ena"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "hore ke tle ke phutholoe"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tswa"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "mme ke se ke wa ▢sala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:46.271912243Z",
+  "model": "glm-5.3"
+}

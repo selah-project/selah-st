@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Yehoshua a re ho bana ba Yisraele: Atamelang mona, mme utloang ⟨את⟩ mantswe a Yahwe Elohim ya lona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Atamelang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "mme utloang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:03:49.904225876Z",
+  "model": "glm-5.3"
+}

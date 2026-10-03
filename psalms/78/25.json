@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Motho o ile a ja ⟨את⟩ borodi ba ba matla; o ile a romela ho bona lijo ho ba khotsofatsa.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "borodi"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "ba ba matla"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "o ile a ja"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "motho"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "lijo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o ile a romela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ho ba khotsofatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:17.565650478Z",
+  "model": "glm-5.3"
+}

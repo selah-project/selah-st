@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Hlokomela ⟨את⟩ letsatsi la Shabata ho le halaletsa, joaloka Yahwe Elohim wa hao o ileng a o laela.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "hlokomela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsatsi la Shabata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ho le halaletsa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "joaloka"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "o ileng a o laela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:05.704871645Z",
+  "model": "glm-5.3"
+}

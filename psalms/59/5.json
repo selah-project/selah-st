@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Ntle le boloetse ba ka ba matha mme ba ikokoletsa; tsosa hore o tle ho 'na, mme o bone.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "עון",
+      "gloss": "boloetse"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ba matha"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "mme ba ikokoletsa"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "tsosa"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "hore o tle ho 'na"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mme o bone"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:26.678519656Z",
+  "model": "glm-5.3"
+}

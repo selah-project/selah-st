@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 20:24",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Empa ke ile ka re ho lona: Lona le tla rua ⟨את⟩ mobu oa bona, mme nna ke o nea lona ho le rua — lefatshe le phallang lebe le monate. Nna ke Yahwe Elohim ea lona, ya le arologisitseng ho tsoa dinaheng.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Empa ke ile ka re"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Lona"
+    },
+    {
+      "surface": "תירשו",
+      "gloss": "le tla rua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mobu oa bona"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "mobu oa bona"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ke o nea"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ho le rua"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "le phallang"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lebe"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le monate"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nna ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ea lona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הבדלתי",
+      "gloss": "le arologisitseng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tsoa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "dinaheng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:18.125225437Z",
+  "model": "glm-5.3"
+}

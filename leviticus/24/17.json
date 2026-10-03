@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme motho ha a thwasetsa bophelo ba motho ofe kapa ofe, a tlameha ho bolaoa ka ho tlala.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mme motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "a thwasetsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ofe kapa ofe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba motho"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a bolaoa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ka ho tlala"
+    }
+  ],
+  "timestamp": "2026-10-03T12:45:05.124998305Z",
+  "model": "glm-5.3"
+}

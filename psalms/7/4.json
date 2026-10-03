@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Yahwe Elohim ea ka, haeba ke entse seo, haeba ho na le sebe letsohong la ka:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ea ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke entse"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ho na le"
+    },
+    {
+      "surface": "עול",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "letsohong la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:02.999108152Z",
+  "model": "glm-5.3"
+}

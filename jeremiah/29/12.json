@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme le tla bitsa ⟨את⟩ nna, le tla tsamaea, le tla thapela ho nna, mme ke tla le mamela.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Mme le tla bitsa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "le tla tsamaea"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "le tla thapela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "mme ke tla le mamela"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:17:26.889621260Z",
+  "model": "glm-5.3"
+}

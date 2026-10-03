@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "⟨את⟩ Nang ⟨את⟩ hloho ya bana ba Kehate, hara bana ba Levi, ka malapa a lona, ka dintlo tsa bo-ntate ba lona:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Nang ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho ya bana ba Kehate"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehate"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "hara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka malapa a lona"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka dintlo tsa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bo-ntate ba lona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:46:55.202443558Z",
+  "model": "glm-5.3"
+}

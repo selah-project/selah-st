@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ke entse kahlolo le tsedeke; se nkuletse ho ba mpshafaletseng.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ke entse"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "le tsedeke"
+    },
+    {
+      "surface": "בל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "nkuletse"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "ho ba mpshafaletseng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:11.521543366Z",
+  "model": "glm-5.3"
+}

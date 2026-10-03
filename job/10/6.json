@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "hobane u batla tolo ea ka, u batlisisa sebe sa ka?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "u batla"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "tolo ea ka"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "le sebe sa ka"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "u batlisisa"
+    }
+  ],
+  "timestamp": "2026-10-03T13:14:28.798551056Z",
+  "model": "glm-5.3"
+}

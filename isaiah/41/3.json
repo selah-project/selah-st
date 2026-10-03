@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "O ba lebella, o feta ka khotso; o tsamaya tseleng e sa kang ya kenngwa maotong a hae.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "O ba lebella"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "o feta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ka khotso"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "maotong a hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kenngwa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:49:56.959862533Z",
+  "model": "glm-5.3"
+}

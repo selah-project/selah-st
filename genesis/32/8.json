@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Mme Yaakobo a tshoha haholo, a ba a khathetse, mme a arola ⟨את⟩ setjhaba se ⟨את⟩ nang le eena, le ⟨את⟩ dipula, le ⟨את⟩ dikgomo, le dikamele, ho dimahele a mabeli.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "mme a tshoha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "mme a ba a khathetse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho oena"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "mme a arola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nang le eena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipula"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dipula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "le dikamele"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ho tse pedi"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "dihahele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:33:40.103955935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "mme moprista o tla isa ⟨tsohle⟩ pele ho Yahwe, mme a etsa ⟨את⟩ sehole sa hae sa sebe le ⟨את⟩ sehole sa hae sa ho chesa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "mme o tla isa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehole sa hae sa sebe"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sehole sa hae sa sebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sehole sa hae sa ho chesa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "sehole sa hae sa ho chesa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:24:02.049576689Z",
+  "model": "glm-5.3"
+}

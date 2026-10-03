@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme metsi a fela ho tloha mokotleng, mme o ile a lahla ⟨את⟩ ngwana ka tlase ho e 'ngwe ya ditshane.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "a fela"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "mokotleng"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "o ile a lahla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ho e 'ngwe ya"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "ditshane"
+    }
+  ],
+  "timestamp": "2026-10-03T12:42:05.416743726Z",
+  "model": "glm-5.3"
+}

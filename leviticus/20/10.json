@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Mme monna ya hlabanang le mosadi wa monna, ya hlabanang le mosadi wa moahi wa hae, ya hlabana le mosadi wa moahi wa hae a bolawe ka lefu, le ena a hlabanang le ena a hlabanang.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "mme monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "hlabanang le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa monna"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wa monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "hlabanang le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa moahi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "wa moahi wa hae"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "a bolawe"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "ya hlabanang"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "le ena a hlabanang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:50.960360444Z",
+  "model": "glm-5.3"
+}

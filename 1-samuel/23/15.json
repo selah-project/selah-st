@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme Dawide a bona hore Saulo o tswile ho tla batla ⟨את⟩ bophelo ba hae; mme Dawide ⟨e le⟩ ntweng ya lehoatata ya Zife, Horeshe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tswile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulo"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ho tla batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo ba hae"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bophelo ba hae"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mme Dawide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ntweng ya lehoatata"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ya Zife"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "Horeshe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:41:44.305579272Z",
+  "model": "glm-5.3"
+}

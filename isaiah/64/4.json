@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 64,
+  "translation": "O ile wa kopana le ⟨את⟩ ya thabileng le ya etsang tsedeke; meeleng ya hau ba a gopola. Bonang, wena o ile wa qhalaba, mme re ile ra sepha; mehleng eo re ne re phela, mme re tla bolokeha.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "o ile wa kopana le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya thabileng"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ya thabileng"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "le ya etsang"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "meeleng ya hau"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "ba a gopola"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "o ile wa qhalaba"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "mme re ile ra sepha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mehleng eo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "re ne re phela"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "mme re tla bolokeha"
+    }
+  ],
+  "timestamp": "2026-10-03T08:56:47.999304686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Morena wa Makedahe, o mong; morena wa Bet-Ele, o mong;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makedahe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o mong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o mong"
+    }
+  ],
+  "timestamp": "2026-10-03T07:10:20.719103071Z",
+  "model": "glm-5.3"
+}

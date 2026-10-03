@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Ka 'na balaodi ba laola, le batho ba baholo, le baahlodi bohle ba tsedeke.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "ka 'na"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ba laola"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "le batho ba baholo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "baahlodi ba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-03T11:07:35.937331618Z",
+  "model": "glm-5.3"
+}

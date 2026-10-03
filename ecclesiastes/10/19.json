@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mokete o etswa ho tahwa, mme beine e thabisa bophelo; empa mokalla o araba ⟨את⟩ tsohle.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ho tahwa"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "o etswa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Mokete"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "mme mokalla"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "mme beine"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "e thabisa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "o araba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tsohle"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:33.909186353Z",
+  "model": "glm-5.3"
+}

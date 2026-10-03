@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Yahwe a re ho yena: Bitsa lebitso la hae Yizreele, hobane ha se kae, ke tla botsa ⟨את⟩ madi a Yizreele holimo ga ntlo ya Yehue, mme ke tla felisa borena ba ntlo ya Yisraele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Bitsa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ha se kae"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hanyane"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ke tla botsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a Yizreele"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "madi a"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreele"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehue"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ke tla felisa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "borena ba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:01:03.943777257Z",
+  "model": "glm-5.3"
+}

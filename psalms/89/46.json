@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "O ile wa fokotsa matsatsi a bonyaneng ba hae; wa mo apesa ka boiluma. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "wa fokotsa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "bonyaneng ba hae"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "wa apesa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "ka boiluma"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:16.418003953Z",
+  "model": "glm-5.3"
+}

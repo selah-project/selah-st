@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Empa ka laete le tla arohanwa ⟨את⟩ lefatshe; ba tla rua ka mabitso a metjha ya bo-ntate ba bona.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "empa"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ka laete"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "le tla arohanwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "ka mabitso"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "a metjha"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ya bo-ntate ba bona"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "ba tla rua"
+    }
+  ],
+  "timestamp": "2026-10-03T12:47:46.240085932Z",
+  "model": "glm-5.3"
+}

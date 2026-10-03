@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme ba fana ka eona ho bona: ⟨את⟩ Hebrone, naheng ya Yuda, le ⟨את⟩ mafelo a yona a mabapi.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "mme ba fana ka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebrone"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebrone"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafelo a yona a mabapi"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mafelo a yona a mabapi"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "a e potileng"
+    }
+  ],
+  "timestamp": "2026-10-03T12:12:37.107422507Z",
+  "model": "glm-5.3"
+}

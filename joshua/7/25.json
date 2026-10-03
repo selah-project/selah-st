@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 7:25",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Yehoshua a re: O re tsekisitse kae? Yahwe o tla go tsekisa ka letsatsi lena. Mme Yisraele yohle a mo tlola ⟨את⟩ ka jwe, mme ba a chesa ⟨את⟩ bona ka mollo, mme ba a ba tlola ka majwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "o re tsekisitse"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "o tla go tsekisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "mme ba tlola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ka jwe"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "mme ba chesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "mme ba tlola"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ka majwe"
+    }
+  ],
+  "timestamp": "2026-10-03T07:05:53.494756513Z",
+  "model": "glm-5.3"
+}

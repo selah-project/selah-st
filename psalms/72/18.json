@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "Hlohonolofatso e be ho Yahwe, Elohim, Elohim wa Yisraele, ya etsang diphoso-tse-pharaosang ka bomong ba hae.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Hlohonolofatso e be ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "diphoso-tse-pharaosang"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ka bomong ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:58.764462601Z",
+  "model": "glm-5.3"
+}

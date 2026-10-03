@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 29,
+  "translation": "Mme Bapalisita ba bokella ⟨את⟩ dimakala tsa bona kaofela Afeke; mme Yisraele ba siteletse hodima motse o welang Yizrele.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ba bokella"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapalisita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dimakala tsa bona kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "dimakala tsa bona"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeke"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "mme Yisraele"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "ba siteletse"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "hodima motse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o welang"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Yizrele"
+    }
+  ],
+  "timestamp": "2026-10-03T07:45:21.392173238Z",
+  "model": "glm-5.3"
+}

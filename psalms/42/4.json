@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "Matswao a ka a bile lefela la ka letsatsi le bosiu, moo ba reng ho ka letsatsi lohle: O kae, Elohim oa hao?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "a bile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "la ka"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "matswao a ka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lefela"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bosiu"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "moo ba reng"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lothle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "O kae"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim oa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:15.733736567Z",
+  "model": "glm-5.3"
+}

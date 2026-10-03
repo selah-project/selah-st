@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ha ho joalo, bohle ba letsetseng ho wena ba ke ke ba tšoaroa ke mahlonoko; ba tšoaroeng ke mahlonoko ba qhekellang mahala.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ha ho joalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ba letsetseng ho wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba ke ke ba"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "tšoaroa ke mahlonoko"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ba tšoaroeng ke mahlonoko"
+    },
+    {
+      "surface": "הבוגדדים",
+      "gloss": "ba qhekellang"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "mahala"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:07.327614322Z",
+  "model": "glm-5.3"
+}

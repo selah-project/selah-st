@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme El Shadai a o hlohonolofatse ⟨את⟩ wena, a o atisa, a o etse bongata, ’me u be phutheho ya ditjhaba.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Mme El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "a o hlohonolofatse"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "a o atisa"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "a o etse bongata"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "u be"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "phutheho ya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T05:32:00.985028283Z",
+  "model": "glm-5.3"
+}

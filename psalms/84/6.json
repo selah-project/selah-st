@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 84,
+  "translation": "A thabile motho ya nang le matla ho wena; ditsela di kahare pelong ya bona.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "a thabile"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a nang le"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "kahare pelong ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:25.049873319Z",
+  "model": "glm-5.3"
+}

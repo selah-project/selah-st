@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Yahwe ke matla a bona, mme ke tieo ya pholoho ya ya tlotsitsweng ya hae; ke yena.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ke matla"
+    },
+    {
+      "surface": "למו",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "mme ke tieo"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ya pholoho"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ya ya tlotsitsweng ya hae"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:16.477626366Z",
+  "model": "glm-5.3"
+}

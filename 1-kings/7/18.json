@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 7:18",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme a etsa ⟨את⟩ dikolonne, mme methato e mmedi potolohong hodimo ya selefa se seng, ho putsa ⟨את⟩ dikholomo tse di hodimo teng hodimo ba digranate; mme jwalo ha a ile a etsa bakeng sa kholomo ya bobedi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikolonne"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "dikolonne"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "mme e mmedi"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "methato"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "potolohong"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodimo ya"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "selefa"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "se seng"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ho putsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikholomo"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "dikholomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "ba digranate"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "mme jwalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a ile a etsa"
+    },
+    {
+      "surface": "לכתרת",
+      "gloss": "bakeng sa kholomo"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya bobedi"
+    }
+  ],
+  "timestamp": "2026-10-03T08:05:20.654507102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Ha mehla ya motho e ratwa ke Yahwe, le dira tsa hae ⟨Yahwe⟩ o di etsa khotso le eena ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "ha ... e ratwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ke Yahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mehla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya motho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "dira tsa hae"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "⟨Yahwe⟩ o di etsa khotso"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "le eena"
+    }
+  ],
+  "timestamp": "2026-10-03T11:12:07.883091972Z",
+  "model": "glm-5.3"
+}

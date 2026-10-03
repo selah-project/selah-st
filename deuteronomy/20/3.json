@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 20:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "a ba re ho bona: Theea, Yisraele, le atametse letsatsi lena ho ya ntweng kgahlanong le ba le hlolang; letse pelo ea lona e se ke ya nyamala, le se ke la tshaba, le se ke la matha ka tshohanyetso, le se ke la tsubuhala ka lebaka la tsona.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Theea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "le atametse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi lena"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ho ya ntweng"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ba le hlolang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "letse"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "e se ke ya nyamala"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "pelo ea lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tshaba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תחפזו",
+      "gloss": "matha ka tshohanyetso"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "tsubuhala"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ka lebaka la tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:55:22.053323246Z",
+  "model": "glm-5.3"
+}

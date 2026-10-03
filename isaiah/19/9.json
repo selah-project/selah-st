@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme ba sebetsang pisō e khotlhang le ba bopang linene e tšoeu ba tla swabiswa.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "ba tla swabiswa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ba sebetsang"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "pisō"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "e khotlhang"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "le ba bopang"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "linene e tšoeu"
+    }
+  ],
+  "timestamp": "2026-10-03T08:38:35.127786632Z",
+  "model": "glm-5.3"
+}

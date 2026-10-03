@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 84,
+  "translation": "Hobane letsatsi le tshireletso ⟨ke⟩ Yahwe Elohim; mohau le tlotlo Yahwe ⟨o⟩ fa; ha ⟨o⟩ sivela molemo bao ba tsamayang ka botlalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "le tshireletso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "le tlotlo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "a ka sivela"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "bao ba tsamayang"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "ka botlalo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:30.554747825Z",
+  "model": "glm-5.3"
+}

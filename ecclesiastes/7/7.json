@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Kaha tlatlolo e etsa hore mohlakana a hlanye, mme mpho e timetsa ⟨את⟩ pelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaha"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "tlatlolo"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "e etsa hore a hlanye"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mohlakana"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "mme e timetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "mpho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:37.392074131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Ke ile ka re: Ke tla leka ⟨את⟩ ditsela tsa ka, hore ke se ke wa fetola leleme la ka; ke tla leka molomo wa ka ka thibelo, ha bolaodi bo le pele ho ka.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ke tla leka"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tsa ka"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "hore ke se ke wa fetola"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "leleme la ka"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ke tla leka"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "molomo wa ka"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "ka thibelo"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ha"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bolaodi"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "pele ho ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:36.020439380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mantšu a molomo oa hlalephi ke ⟨⟨mohau⟩⟩, empa sephini sa sethoatho se a mo menya.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "oa hlalephi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "empa sephini"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sa sethoatho"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "se a mo menya"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:46.192852127Z",
+  "model": "glm-5.3"
+}

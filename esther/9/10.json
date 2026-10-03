@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Bara ba leshome ba Hamane, mora wa Hamdata, molesi balemi ba Bajuda — ba ba hlahisitse; mme ho lintle tsa Ntwa ha ba ka ba roma ⟨את⟩ matsoho a bona.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "leshome"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamine"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "molesi balemi ba"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Bajuda"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ba ba hlahisitse"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "ho lintle tsa Ntwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ba ka ba"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "roma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsoho a bona"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "matsoho a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:48:18.902791097Z",
+  "model": "glm-5.3"
+}

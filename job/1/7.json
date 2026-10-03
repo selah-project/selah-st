@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Yahwe a re ho Sathane: O tla ho tloha kae? Sathane a araba ⟨את⟩ Yahwe, a re: Ho tloha ho potoloha lefatshe, le ho tsamaya-ho-tsamaya ho sona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sathane"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ho tloha kae"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sathane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "le ho tsamaya-ho-tsamaya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho sona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:19:27.769728582Z",
+  "model": "glm-5.3"
+}

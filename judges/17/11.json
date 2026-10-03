@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Levi a lumela ho dula ⟨את⟩ ⟨the⟩ motho eo, mme moshanyana a ba ea hae, eka e le e mong wa bana ba hae.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "a lumela"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ho dula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ motho eo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho eo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "moshanyana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ea hae"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "eka e le e mong"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "wa bana ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:26:35.178086996Z",
+  "model": "glm-5.3"
+}

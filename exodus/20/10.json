@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "empa letsatsi la bošupa ke Shabata la Yahwe Elohim wa hao; o se ke wa etsa mosebetsi ofe kapa ofe — wena, kapa mora wa hao, kapa moradi wa hao, letheka wa hao le mohlanka wa hao wa mosadi, phoofolo ya hao ya kamoo, le moahi wa selemo wa hao ya ka harago ya dikgoro tsa hao.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "empa letsatsi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "la bošupa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ofe kapa ofe"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "kapa mora wa hao"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "kapa moradi wa hao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "letheka wa hao"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "le mohlanka wa hao wa mosadi"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "phoofolo ya hao ya kamoo"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "le moahi wa selemo wa hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ka harago ya dikgoro tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:24.959715973Z",
+  "model": "glm-5.3"
+}

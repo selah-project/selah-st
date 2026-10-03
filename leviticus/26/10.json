@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme le tla ja kotulo ya khale, e nthweng halete, mme le tla ntsha ya khale ka baka la ⟨e⟩ ncha.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "le tla ja"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ya khale"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "e nthweng halete"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "ya khale"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ncha"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "le tla ntsha"
+    }
+  ],
+  "timestamp": "2026-10-03T06:17:48.642091445Z",
+  "model": "glm-5.3"
+}

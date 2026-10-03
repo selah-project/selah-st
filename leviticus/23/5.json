@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ka kgwedi ya pele, ka la lesome le metso e mene la kgwedi, pakeng tsa mantsiboa, ke Pesake ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Ka kgwedi ya"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pele"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ka la lesome le metso e mene"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome le metso e mene"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mantsiboa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:16:00.413889370Z",
+  "model": "glm-5.3"
+}

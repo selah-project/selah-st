@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ka lebaka leo, mehala e dikologile ho uena, mme tsabo e u tshosa ka tlasa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka leo"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "e dikologile ho uena"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "mehala"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "mme e u tshosa"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tsabo"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ka tlasa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:26:24.853888413Z",
+  "model": "glm-5.3"
+}

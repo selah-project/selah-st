@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 18:24",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme o ka kgutliswa joang ⟨את⟩ sefahleho sa molaodi a le mong, wa banyane ba balekane ba monga ka? Empa o ithekile ho oena ho Mitsrayime, bakeng sa dikoloi le babaalli ba dipere.",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "Mme o ka kgutliswa joang"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "o ka kgutliswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "sa molaodi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mong"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wa balekane"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ba monga ka"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "ba banyane"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "Empa o ithekile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho oena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "bakeng sa dikoloi"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "le babaalli ba dipere"
+    }
+  ],
+  "timestamp": "2026-10-03T08:27:55.081402992Z",
+  "model": "glm-5.3"
+}

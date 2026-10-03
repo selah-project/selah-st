@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ho qetile, qetellong ya dilemo tse mashome a mabedi tseo Solomone a ileng a hahela ⟨את⟩ matlo a mabedi — ⟨את⟩ ntlo ya Yahwe le ⟨את⟩ ntlo ya morena.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho qetile"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "qetellong ya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tse mashome a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a hahela"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matlo a mabedi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "matlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya morena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya morena"
+    }
+  ],
+  "timestamp": "2026-10-03T08:06:26.018083103Z",
+  "model": "glm-5.3"
+}

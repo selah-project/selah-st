@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme a busa ⟨את⟩ thepa eohle, mme hape a busa ⟨את⟩ Lote moholo wa hae le thepa ya hae, le ⟨את⟩ basadi hape le ⟨את⟩ setjhaba.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thepa eohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "thepa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lote moholo wa hae"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "moholo wa hae"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "le thepa ya hae"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le hape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basadi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:11.530995499Z",
+  "model": "glm-5.3"
+}

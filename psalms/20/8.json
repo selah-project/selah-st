@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Bana ka dikoloi, mme bana ka merala; rona ka lebitso la Yahwe Elohim wa rona re tla bolela ka lona.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "ka dikoloi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mme bana"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ka merala"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka lebitso la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "re tla bolela ka lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:37.501877956Z",
+  "model": "glm-5.3"
+}

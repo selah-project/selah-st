@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Empa wena, Yahwe, o tla tsheha ho bona; o tla lekesa lichaba tsohle.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "empa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "o tla tsheha"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "o tla lekesa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "lichaba tsohle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "lichaba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:02.246212675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Ho molaodi. Ya Dawide. Ntsa e ile ya re pelong ya yona: ha ho Elohim. Ba senyetse, ba etsa ditiro tse nyefotsang; ha ho ya etsang hantle.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho molaodi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "e ile ya re"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Ntsa"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "pelong ya yona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Ba senyetse"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ba etsa ditiro tse nyefotsang"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ditiro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hantle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:11.539812702Z",
+  "model": "glm-5.3"
+}

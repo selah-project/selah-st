@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme a e phatlalatsa pele ho nna, mme eona e ngotsweng ka sephiring le ka ka morao, mme ho ngotsweng ho yona lla-bohloko le lla-lefatshe le ho hloile.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "Mme a e phatlalatsa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ e",
+      "marks": "mokgutlo — e phatlaladitsweng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho nna"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mme eona"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "e ngotsweng"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ka sephiring"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "le ka ka morao"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "mme ho ngotsweng"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "lla-bohloko"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "le lla-lefatshe"
+    },
+    {
+      "surface": "והי",
+      "gloss": "le ho hloile"
+    }
+  ],
+  "timestamp": "2026-10-03T09:31:20.680129652Z",
+  "model": "glm-5.3"
+}

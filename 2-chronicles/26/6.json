@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme a hula, a lwa le Bapelistine, mme a phunya ⟨את⟩ mokotla wa Gata le ⟨את⟩ mokotla wa Yabne le ⟨את⟩ mokotla wa Ashdode; mme a aha metse ho Ashdode le hara Bapelistine.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a hula"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "a lwa le"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Bapelistine"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "a phunya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokotla wa Gata"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mokotla wa"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mokotla wa Yabne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mokotla wa"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yabne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mokotla wa Ashdode"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mokotla wa"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdode"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "mme a aha"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "ho Ashdode"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "le hara Bapelistine"
+    }
+  ],
+  "timestamp": "2026-10-03T12:35:17.388819416Z",
+  "model": "glm-5.3"
+}

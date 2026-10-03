@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "Re thabise jwalo ka mehla eo o re tsutsumetseng ka eona, le dilemo tseo re boneng bosula ka tsona.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Re thabise"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "jwalo ka mehla"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "eo o re tsutsumetseng ka eona"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "tseo re boneng"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bosula"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:24.222426328Z",
+  "model": "glm-5.3"
+}

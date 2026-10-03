@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme Yaakobo a baleha sehleng sa Arame, mme Yisraele a sebeletsa bakeng sa mosali, mme bakeng sa mosali a boloka ⟨את⟩ dipoo.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "a baleha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sehleng sa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "a sebeletsa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "bakeng sa mosali"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "mme bakeng sa mosali"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "a boloka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:01:33.007975077Z",
+  "model": "glm-5.3"
+}

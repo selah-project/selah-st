@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme monna eo, Elkane, le ntlo ya hae kaofela, a nyoloha ho ya nehela Yahwe ⟨את⟩ sehlabelo sa matsatsi le ⟨את⟩ tlameho ya hae.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a nyoloha"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna eo"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkane"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le kaofela"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya hae"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ho ya nehela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa matsatsi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "sa matsatsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tlameho ya hae"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "tlameho ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:31:00.214337970Z",
+  "model": "glm-5.3"
+}

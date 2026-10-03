@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme bana ba Yisraele ba ile ba huwa ho Yahwe, ba re: Re tlolahetse ho wena, hobane re tlogetse ⟨את⟩ Elohim wa rona, ra hlankela ⟨את⟩ Baalime.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ba ile ba huwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Re tlolahetse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "re tlogetse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim wa rona"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "ra hlankela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalime"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalime"
+    }
+  ],
+  "timestamp": "2026-10-03T12:51:45.362930972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "Dikubu tsa basha di goa ho tsoma sephodi, mme di batla lijo tsa tsona ho El.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "dikubu tsa basha"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "di goa"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "ho tsoma sephodi"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "mme di batla"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "ho El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "lijo tsa tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:58.389147464Z",
+  "model": "glm-5.3"
+}

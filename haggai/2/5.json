@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ka ⟨את⟩ lentsoe leo ke laetseng ⟨את⟩ le lona selekaneng, ha le ne le tswa Mitsrayime, mme ruakh ya ka e ntse e eme har'a lona: le se ke la tshaba.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentsoe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ke laetseng selekaneng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ha le tswa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "mme ruakh ya ka"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "e ntse e eme"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "har'a lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tshaba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:15:48.582789156Z",
+  "model": "glm-5.3"
+}

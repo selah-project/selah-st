@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ka matsatsi ao, ha morena Akhashveroshe a dula setulong sa borena ba hae, boo bo leng ho Shushane, ⟨toropo⟩ e tiileng.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "ka matsatsi"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "ha a dula"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashveroshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulong sa borena"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "borena ba hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "boo bo leng"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ho Shushane"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨toropo⟩ e tiileng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:47:31.485832762Z",
+  "model": "glm-5.3"
+}

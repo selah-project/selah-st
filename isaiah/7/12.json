@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Empa Akaze a re: Nke ke ke ya kopa, mme nke ke ke ya lleka ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akaze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nke ke ke ya"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "kopa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme nke ke ke ya"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "lleka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:33:10.534271575Z",
+  "model": "glm-5.3"
+}

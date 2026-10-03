@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Haeba matsatsi a hao a beile ⟨הם⟩, palo ya dikgwedi tsa hao e le ⟨את⟩ ho wena; o ile wa beha mollá wa hao, mme a ke ke a feta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "a beile"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "matsatsi a hae"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "dikgwedi tsa hae"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ho wena",
+      "marks": "palo ya dikgwedi"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "mollá wa hae"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wa beha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "a feta"
+    }
+  ],
+  "timestamp": "2026-10-03T11:23:34.947316552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 23:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "O se ke wa latela bongata ho etsa bobe; o se ke wa araba ka kgetsing ho tlaoga ka mora bongata ho tsietsa toka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o be"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "latela"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bongata"
+    },
+    {
+      "surface": "לרעת",
+      "gloss": "ho etsa bobe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "araba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kgetsing"
+    },
+    {
+      "surface": "לנטת",
+      "gloss": "ho tlaoga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bongata"
+    },
+    {
+      "surface": "להטת",
+      "gloss": "ho tsietsa toka"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:17.477145948Z",
+  "model": "glm-5.3"
+}

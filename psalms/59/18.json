@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Matla a ka, ho uena ke tla bina ka Sepiano, hobane Elohim ke setsi sa ka sa phahameng, Elohim wa hesede ya ka.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Matla a ka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla bina ka Sepiano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "setsi sa ka sa phahameng"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesede ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:50.949905090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Mme kereke eohle ya bara ba Yisraele e ile ya tswa pele ga Moshe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ya tswa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kereke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "pEle ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:06.193624229Z",
+  "model": "glm-5.3"
+}

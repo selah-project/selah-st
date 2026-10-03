@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ba duleng Gibeona ba utlile ⟨את⟩ seo Yehoshua a neng a se entsere Yerikho le Aii.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "ba duleng"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeona"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ba utlile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a neng a se entsere"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "le Aii"
+    }
+  ],
+  "timestamp": "2026-10-03T07:07:10.299623535Z",
+  "model": "glm-5.3"
+}

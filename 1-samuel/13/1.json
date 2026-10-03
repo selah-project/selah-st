@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Morwa wa selemo e le nngwe ⟨e ne e le⟩ Saule ho busa ha hae; mme dilemo tse pedi o ile a busa holim'a Yisraele.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saule"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ho busa ha hae"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "mme tse pedi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o ile a busa"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T07:35:59.692274582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ditе ba tla tswalelwa sеatla sе lethatong, ka ho fokola ha modumo wa malekana, mme o tla tsеoha ka modumo wa nonyana, mme barali ba kopelo ba tla ikokobetsa.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "ba tla tswalelwa"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ditebo"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "seatleng"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "ka ho fokola ha"
+    },
+    {
+      "surface": "кול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "wa malekana"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "o tla tsoha"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ka modumo"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "wa nonyana"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "ba tla ikokobetsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barali bohle ba"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barali"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "ba kopelo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:46:01.160449923Z",
+  "model": "glm-5.3"
+}

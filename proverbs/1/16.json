@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Hobane maoto a bona a tsamaisoa bokolong, mme a khalema ho hlahisa madi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "maoto a bona"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "bokolong"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "a tsamaisoa"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "mme a khalema"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "ho hlahisa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:02.839545979Z",
+  "model": "glm-5.3"
+}

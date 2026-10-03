@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "ho re ho ba tswaletsweng: Tlohang! le ho ba ba leng lefifing: Hlahang! Ba tla fudua hodima ditsela, mme hodima dithaba tsohle tse se nang letho diphuluso tsa ⟨bona⟩.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "ho ba tswaletsweng"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Tlohang"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "le ho ba"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ba leng lefifing"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "Hlahang"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ba tla fudua"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mme hodima tsohle"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "dithaba tse se nang letho"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "diphuluso tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:52:00.241335308Z",
+  "model": "glm-5.3"
+}

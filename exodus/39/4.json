@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mahetla ba a etsela eona, a hokileng, ho bōpeoa mabeli, ka makhutlo a eona mabeli a hokane.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "mahetla"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho eona"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "a hokileng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mabeli"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "makhutlo a eona"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "a hokane"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:40.831993998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme ho ditlhareng tsa bara ba Yisraele a ka se ke a romela letsoho la hae; mme ba sheba ⟨את⟩ Elohim, mme ba ja mme ba noa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Mme ho"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "ditlhareng tsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se ke"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "mme ba sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mme ba ja"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "mme ba noa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:40.352991046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme o tla isa ⟨את⟩ sehlolo sa hae ho Yahwe, sebakeng sa mongobo wa khohlela ya kopano, e ntle e le yona e rammeng ya sehloolo.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "mme o tla isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlolo sa hae"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "sehlolo sa hae"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mongobo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khohlela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "איל",
+      "gloss": "rammeng"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ya sehloolo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:18.396268902Z",
+  "model": "glm-5.3"
+}

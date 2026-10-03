@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Ho moeta-pele, hodima Yedutune, bakeng sa Asafe; mokoeri.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moeta-pele"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutune"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bakeng sa Asafe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoeri"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:06.140820641Z",
+  "model": "glm-5.3"
+}

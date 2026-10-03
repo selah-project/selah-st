@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme molaodi ea phahameng oa bahlabani a nka ⟨את⟩ Serajaya moprista ea moholo, le ⟨את⟩ Tsefanjahu moprista ea bobeli, le ⟨את⟩ bahlabani ba bararo ba lekanyetsang sekoro.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mme a nka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "molaodi ea phahameng"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "oa bahlabani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajaya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajaya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ea moholo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsefanjahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanjahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ea bobeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bahlabani ba bararo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba bararo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "bahlabani ba lekanyetsang"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "sekoro"
+    }
+  ],
+  "timestamp": "2026-10-03T08:32:05.620499065Z",
+  "model": "glm-5.3"
+}

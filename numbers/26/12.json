@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Barwa ba Shimeone ka malapa a bona: ba Nemuele, lelapa la Banemuele; ba Yamine, lelapa la Bayamine; ba Yakine, lelapa la Bayakine.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Barwa ba"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeone"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka malapa a bona"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "ba Nemuele"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "Banemuele"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ba Yamine"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Bayamine"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "ba Yakine"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "Bayakine"
+    }
+  ],
+  "timestamp": "2026-10-03T06:35:58.226338862Z",
+  "model": "glm-5.3"
+}

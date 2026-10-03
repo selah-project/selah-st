@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme ho mo tsamaelle jwalo; mme setjhaba sa mo rummetsa sekgobeng, mme a shwela.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "mme sa mo rummetsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "oena"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sekgobeng"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mme a shwela"
+    }
+  ],
+  "timestamp": "2026-10-03T08:21:01.863339543Z",
+  "model": "glm-5.3"
+}

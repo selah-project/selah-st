@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme motho yo mong le yo mong o ile a tlhatlama molamu wa hae, mme a ba ditanine; mme molamu wa Aharone o ile wa menya ⟨את⟩ dimolamu tsa bona.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "ba tlhatlama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mong le yo mong"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "molamu wa hae"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "ditanine"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "o ile wa menya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "molamu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dimolamu tsa bona"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "dimolamu tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:19.383651924Z",
+  "model": "glm-5.3"
+}

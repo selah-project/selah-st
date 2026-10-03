@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Ka boinotsoing matla a theoha, mme ka boinotsoi ba matsogo ntlo e oroha.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "Ka boinotsoing"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "a theoha"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "matla"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ka boinotsoi"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ba matsogo"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "e oroha"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:33.909038766Z",
+  "model": "glm-5.3"
+}

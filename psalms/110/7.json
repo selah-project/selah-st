@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 110,
+  "translation": "O tla noa metsing ea mocholing tseleng; ka lebaka leo o tla phahamisa hloho.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "mocholing"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "O tla noa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "o tla phahamisa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:30.948563052Z",
+  "model": "glm-5.3"
+}

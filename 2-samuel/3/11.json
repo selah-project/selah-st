@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme a sa kgone ho araba ⟨את⟩ Abenere lentswe le leng, hobane a ⟨את⟩ mo tsaba.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme a sa"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "kgone"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "le leng"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ho araba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abenere"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abenere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "hobane a mo tsaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-10-03T07:47:38.900295951Z",
+  "model": "glm-5.3"
+}

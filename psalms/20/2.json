@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "A arabe Yahwe ka letsatsi la tsogwana; lebitso la Elohim wa Yaakobo le go behe hodima.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "A arabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "la tsogwana"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "le go behe hodima"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "la Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:11.956333846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Dintho tsena o di entse, mme nna ke ile ka loka hloho; o ile wa dula o nahana hore ke tshwana le wena; ke tla o ahlole, mme ke di behe ka tatellano mahlo a hao pele.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dintho tsena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o di entse"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "mme nna ke ile ka loka hloho"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "o ile wa dula o nahana"
+    },
+    {
+      "surface": "היות",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "tshwana le wena"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ke tla o ahlole"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "mme ke di behe ka tatellano"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "mahlo a hao pele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:52.944740715Z",
+  "model": "glm-5.3"
+}

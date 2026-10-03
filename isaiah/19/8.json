@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme bapereki ba tlhapi ba tla llela, le bohle ba khupamang kiho hodima moketso ba tla belaela, ba phatlalatsang mesehle ho hodima metsi ba tla hloka maatla.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "ba tla llela"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "bapereki ba tlhapi"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ba tla belaela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lehodimo le bohle"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "ba khupamang"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "hodima moketso"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "kiho"
+    },
+    {
+      "surface": "ופורשי",
+      "gloss": "ba phatlalatsang"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "mosehle"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ba tla hloka maatla"
+    }
+  ],
+  "timestamp": "2026-10-03T08:38:24.528551451Z",
+  "model": "glm-5.3"
+}

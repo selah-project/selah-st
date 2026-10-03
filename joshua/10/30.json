@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 10:30",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme Yahwe a e neha le eona, le morena wa yona, letsohong la Yisraele; mme ba e otla ka molomo wa sehlare, le ⟨את⟩ meya eohle e neng e le ho yona; a siea se sa teng ho yona, a sa siea moputso; mme a etsa ho morena wa yona jwalo ka ha a etseditse morena wa Yerikho.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mme a neha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le eona"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ e",
+      "marks": "e (Libna)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "letsohong la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ le",
+      "marks": "morena wa yona"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "morena wa yona"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "mme ba e otla"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo wa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ le",
+      "marks": "meya eohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "meya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e neng e le"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "siea"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "moputso"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "למלכה",
+      "gloss": "ho morena wa yona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a etseditse"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho morena wa"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    }
+  ],
+  "timestamp": "2026-10-03T07:11:23.578647507Z",
+  "model": "glm-5.3"
+}

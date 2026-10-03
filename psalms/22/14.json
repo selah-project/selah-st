@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ba bula melomo ya bona khahlanong le ⟨ena⟩; tau e bolotseng e hulelang.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "ba bula"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "khahlanong le ⟨ena⟩"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "melomo ya bona"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "e bolotseng"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "e hulelang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:59.627740009Z",
+  "model": "glm-5.3"
+}

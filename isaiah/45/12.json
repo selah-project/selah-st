@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Nna ke etsile ⟨את⟩ lefatshe, mme motho ka ho sona ke bopile; nna, matsoho a ka, a hlahisitse mahodimo, mme tsebaohle tsa tsona ke di laetse.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke etsile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "mme motho"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ka ho sona"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ke bopile"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matsoho a ka"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "a hlahisitse"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme tsohle"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "tsebaohle tsa tsona"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ke di laetse"
+    }
+  ],
+  "timestamp": "2026-10-03T13:00:49.995354201Z",
+  "model": "glm-5.3"
+}

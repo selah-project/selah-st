@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme kgobokantsha ⟨את⟩ phutheho eohle sebakeng sa monyako wa tente ya kopano.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phutheho eohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "phutheho"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kgobokantsha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "monyako"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:22.830764256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 52,
+  "translation": "Empa nna, ke tla ba jwale sebatana sa mohloare se motala ka tlung ya Elohim: ke tshehetse ho hesede ha Elohim, ho isa hosafeleng le ho feta.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Empa nna"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "jwale sebatana sa mohloare"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "se motala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka tlung"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshehetse"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "ho hesede"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho isa hosafeleng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho feta"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:33.089117137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Ka baka la ho hlohlelwa ha dimahlalefa, ka baka la ho hema ha bafumani-bobele, Nako ena ke ya ka o tsoha, o re Yahwe; ke tla mo becha polokehong; ke tla mo fufemotsela.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "ka baka la ho hlohlelwa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ha dimahlalefa"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "ka baka la ho hema"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ha bafumani-bobele"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nako ena"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ke ya ka o tsoha"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ke tla mo becha"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "polokehong"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ke tla mo fufemotsela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:07.847662652Z",
+  "model": "glm-5.3"
+}

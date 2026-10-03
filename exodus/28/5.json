@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme ba tla nka ⟨את⟩ gauta le ⟨את⟩ thekelete le ⟨את⟩ aragamane le ⟨את⟩ tolao ya shani le ⟨את⟩ sheshe.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "mme ba"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "tla nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gauta"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "thekelete"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "thekelete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "aragamane"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "aragamane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tolao ya shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolao"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sheshe"
+    },
+    {
+      "surface": "השש",
+      "gloss": "sheshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:56:28.061761378Z",
+  "model": "glm-5.3"
+}

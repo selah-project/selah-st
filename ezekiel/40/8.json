@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme a meea ⟨את⟩ mongobo wa sebakanyana ho tloha ntlong: kane e 'ngoe.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Mme a meea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongobo wa sebakanyana"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "mongobo"
+    },
+    {
+      "surface": "השער",
+      "gloss": "wa sebakanyana"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ho tloha ntlong"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kane"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e 'ngoe"
+    }
+  ],
+  "timestamp": "2026-10-03T09:55:32.922376993Z",
+  "model": "glm-5.3"
+}

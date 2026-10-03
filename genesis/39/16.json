@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme a beha diaparo tsa hae ho eona, ho fihlela monga hae a fihla ntlong ea hae.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "mme a beha"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "diaparo tsa hae"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "ho eona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "monga hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlong ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:26.874495768Z",
+  "model": "glm-5.3"
+}

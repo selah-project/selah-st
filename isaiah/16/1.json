@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Romang ⟨את⟩ mohlodi wa lefatshe (khalo ea khotso) ho tloha Selae, sekakeng, ho ya thabeng ya morwedi wa Tsione.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "romang"
+    },
+    {
+      "surface": "כר",
+      "gloss": "khalo ea khotso"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mohlodi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ho tloha Selae"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "sekakeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwedi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    }
+  ],
+  "timestamp": "2026-10-03T08:39:28.544719254Z",
+  "model": "glm-5.3"
+}

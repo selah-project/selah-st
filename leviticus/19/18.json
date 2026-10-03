@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "O se ke wa ipusolla, mme o se ke wa bolela khohlong ⟨את⟩ bana ba setjhaba sa hao; mme o rate moahi wa hao jwaloka wena: nna ke Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "ipusolla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "bolela khohlong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba setjhaba sa hao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setjhaba sa hao"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "mme o rate"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "moahi wa hao"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jwaloka wena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:15:10.174492935Z",
+  "model": "glm-5.3"
+}

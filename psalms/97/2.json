@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 97,
+  "translation": "Maru le lefifi di dikologa ho yena, tsedeke le kahlolo ke motheo wa setulo sa hae sa borena.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Maru"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "le lefifi"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "di dikologa ho yena"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "setulo sa hae sa borena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:28.697936515Z",
+  "model": "glm-5.3"
+}

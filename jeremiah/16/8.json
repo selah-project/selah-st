@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme ntlong ya mokete o se ke wa kena ⟨את⟩ ho dula le bona ho ja le ho noa.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "mme ntlong ya"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mokete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kena"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ho dula"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ho ja"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ho ja"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "le ho noa"
+    }
+  ],
+  "timestamp": "2026-10-03T09:07:50.913018062Z",
+  "model": "glm-5.3"
+}

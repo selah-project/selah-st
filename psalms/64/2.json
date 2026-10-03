@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 64,
+  "translation": "Mamela lentswe la ka, Elohim, bolelong ba ka; ho tshabo ya seswa o boloke bophelo ba ka.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentswe la ka"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "bolelong ba ka"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ho tshabo ya"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "seswa"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "o boloke"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bophelo ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:01.399138641Z",
+  "model": "glm-5.3"
+}

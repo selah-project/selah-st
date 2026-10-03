@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Bonwe, ke ile ka o tlhotsa, empa eseng ka sefefo; ke ile ka o kgetha sefubeng sa bokhubeletso.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "ke ile ka o tlhotsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa eseng"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ka sefefo"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ke ile ka o kgetha"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "sefubeng"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sa bokhubeletso"
+    }
+  ],
+  "timestamp": "2026-10-03T08:50:43.828161790Z",
+  "model": "glm-5.3"
+}

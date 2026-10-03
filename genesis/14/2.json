@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Ba etsa ntoa kgahlanong le ⟨את⟩ Bera, morena wa Sedomo, le ⟨את⟩ Birsha, morena wa Amoraha, Shinabe, morena wa Adimaha, le Shemeabere, morena wa Tseboime, le morena wa Bela — yona ke Tsoare.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Ba etsa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amoraha"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinabe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adimaha"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "le Shemeabere"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tseboime"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le morena wa"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoare"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:23.422560317Z",
+  "model": "glm-5.3"
+}

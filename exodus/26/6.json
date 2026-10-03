@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme o tla etsa dikarasa tse masome a hlano tsa gauta, mme o tla hokahanya ⟨את⟩ dieriah, e 'ngoe le e 'ngwe, ka dikarasa; mme Mishkane o tla ba o le mong.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mme o tla etsa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "tse masome a hlano"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "dikarasa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "mme o tla hokahanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dieriah"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dieriah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "e 'ngoe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "e 'ngwe"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "ka dikarasa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme o tla ba"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o le mong"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:40.178772304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Moholo ha a ka ke a rekhola mokolong oa hae; motho ha a ka ke a fana ka thekiso ea hae ho Elohim —",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "mokolong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a ka ke a"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "rekhola"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "a rekhola"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a ka ke a"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fana ka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "thekiso ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:23.193420531Z",
+  "model": "glm-5.3"
+}

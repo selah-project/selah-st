@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Hobane mohlophehi a ke ke a loba nakong e sa khahlaneng; tshepo ya ba inametseng e ke ke ea timela ho ya ho ile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ke ke a"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nakong e sa khahlaneng"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "a loba"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mohlophehi"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "tshepo"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ya ba inametseng"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "e ke ke ea timela"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ho ya ho ile"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:53.568404885Z",
+  "model": "glm-5.3"
+}

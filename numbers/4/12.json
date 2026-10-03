@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 4:12",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "mme ba nka ⟨את⟩ ditswammung tsohle tsa tshebeletso, tseo ba di sebetsetsang ka tsona sehalalelong, mme ba di bea ka hara kobo ya tekhelete, mme ba di epela ka sekoere sa letlalo la takhashe, mme ba di bea hodima mokotla.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "mme ba nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditswammung tsohle tsa tshebeletso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ditswammung"
+    },
+    {
+      "surface": "השרת",
+      "gloss": "tsa tshebeletso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "ba di sebetsetsang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tsona"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sehalalelong"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mme ba di bea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka hara"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "kobo"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ya tekhelete"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "mme ba di epela"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ di",
+      "marks": "di (ditswammung)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ka sekoere"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sa letlalo"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "la takhashe"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mme ba di bea"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "mokotla"
+    }
+  ],
+  "timestamp": "2026-10-03T06:21:20.132034994Z",
+  "model": "glm-5.3"
+}

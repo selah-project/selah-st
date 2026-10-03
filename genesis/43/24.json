@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Mme setho se ile sa hlisa ⟨את⟩ banna ka hara ntlo ea Yosefa, mme sa ba neha metsi, mme ba hlatswa maoto a bona; mme sa neha bofodi lipeleng tsa tsona.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "sa hlisa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "setho se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ka hara ntlo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ea Yosefa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "sa neha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "ba hlatswa"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "maoto a bona"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "sa neha"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "bofodi"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "lipeleng tsa tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:39:22.848261922Z",
+  "model": "glm-5.3"
+}

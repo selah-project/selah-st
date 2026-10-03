@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Elazare o ile a begetsa ⟨את⟩ Pinekhase; Pinekhase o ile a begetsa ⟨את⟩ Abishua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazare"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o ile a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinekhase"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinekhase"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinekhase"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "o ile a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abishua"
+    }
+  ],
+  "timestamp": "2026-10-03T12:11:19.254793050Z",
+  "model": "glm-5.3"
+}

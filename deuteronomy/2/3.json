@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ho lekane ho lona ho potoloha ⟨את⟩ thaba ena; le holeleng lehlabaphieng.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ho lekane"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba ena"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "le holeleng"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "lehlabaphieng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:42:32.585041562Z",
+  "model": "glm-5.3"
+}

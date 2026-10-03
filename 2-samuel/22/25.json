@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Yahwe o buisetsa ⟨את⟩ hosafalelo ho ka, ho ya ka tsedeke ya ka, ho ya ka bohale ba ka pela mahlo a hae.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "o buisetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ka"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "ho ya ka tsedeke ya ka"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "ho ya ka bohale ba ka"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pela"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:59:31.859688973Z",
+  "model": "glm-5.3"
+}

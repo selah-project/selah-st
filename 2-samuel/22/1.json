@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme Dawide a bua ho Yahwe ⟨את⟩ mantswe a sereto sena, ka letsatsi leo Yahwe a mo lokolotsang ka lona letsohong la bohle ba mo hloyang, le letsohong la Sheaule.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "a sereto"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "a lokolotsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ena",
+      "marks": "a mo lokolotsang"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "letsohong la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ba mo hloyang"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "le letsohong la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheaule"
+    }
+  ],
+  "timestamp": "2026-10-03T07:58:38.983047161Z",
+  "model": "glm-5.3"
+}

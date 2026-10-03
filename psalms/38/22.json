@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "O se ke wa ntlohetsa, Yahwe, Elohim wa ka; o se ke wa tswa hole ho nna.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ke wa"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ntlohetsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "tswa hole"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:57.793915659Z",
+  "model": "glm-5.3"
+}

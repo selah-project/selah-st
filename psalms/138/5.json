@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 138,
+  "translation": "Mme ba tle ba opelle ka ditseleng tsa Yahwe, hobane kgolo ke kgalalelo ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "ba tle ba opelle"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ka ditseleng tsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kgolo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:44.219973959Z",
+  "model": "glm-5.3"
+}

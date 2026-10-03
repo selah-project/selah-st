@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Mme ha ke ne ke nahana ho tseba sena, e ne e le boima bo mahlong a ka.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "mme ha ke ne ke nahana"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ho tseba"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "boima"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:51.475582929Z",
+  "model": "glm-5.3"
+}

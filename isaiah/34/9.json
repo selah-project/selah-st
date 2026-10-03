@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme dinoka tsa yona di tla fetoloha ho zephete, mme moulele wa yona ho mooko; mme lefatshe la yona le tla ba zephete e chesang.",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "di tla fetoloha"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "dinoka tsa yona"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "ho zephete"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "mme moulele wa yona"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "ho mooko"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mme le tla ba"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "lefatshe la yona"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "zephete"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "e chesang"
+    }
+  ],
+  "timestamp": "2026-10-03T08:46:35.943418036Z",
+  "model": "glm-5.3"
+}

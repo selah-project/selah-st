@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Elohim, ka ditsebe tsa rona re kwele; bo-ntate rona ba re boleletse ⟨את⟩ tlhahlobo eo o e dirileng mafung a bona, mafung a khale.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ka ditsebe tsa rona"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "re kwele"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bo-ntate rona"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ba re boleletse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "tlhahlobo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "eo o e dirileng"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "mafung a bona"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mafung a"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "khale"
+    }
+  ],
+  "timestamp": "2026-10-03T13:10:45.486975559Z",
+  "model": "glm-5.3"
+}

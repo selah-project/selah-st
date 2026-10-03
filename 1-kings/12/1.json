@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme Rehabeame a ea Shekeme, hobane Shekemee Yisraele eohle e ile ea tla ho mo etsa morena ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a ea"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeame"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e ile ea tla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ho mo etsa morena"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Rehabeame)"
+    }
+  ],
+  "timestamp": "2026-10-03T08:10:21.451868233Z",
+  "model": "glm-5.3"
+}

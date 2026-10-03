@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "⟨את⟩ arona le ⟨את‬ dipale tsa yona, ⟨את‬ seatla sa khotso le ⟨את‬ pateroke ya sephimong.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arona"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipale tsa yona"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dipale tsa yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa khotso"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "seatla sa khotso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "pateroke ya sephimong"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "pateroke"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sephimong"
+    }
+  ],
+  "timestamp": "2026-10-03T05:58:41.542250876Z",
+  "model": "glm-5.3"
+}

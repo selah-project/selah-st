@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 51,
+  "translation": "Mphe boitumelo hape, toka ya pholoho ya hau, mme ruakh e nang le botho e ntshehare.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "mphe hape"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ya pholoho ya hau"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mme ruakh"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "e nang le botho"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "e ntshehare"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:10.520741378Z",
+  "model": "glm-5.3"
+}

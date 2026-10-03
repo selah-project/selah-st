@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme a etsa ⟨את⟩ ⟨the⟩ aefode — gauta, tekhelelet, bohalibohali, tola'at bohibidu, le linene e hlophisitsweng.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aefode"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "aefode"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "le bohalibohali"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "le tola'at"
+    },
+    {
+      "surface": "שני",
+      "gloss": "bohibidu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le linene"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "e hlophisitsweng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:02:40.827826438Z",
+  "model": "glm-5.3"
+}

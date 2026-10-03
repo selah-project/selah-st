@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Noahe a ba mora ding tse hlano tsa lilemo tse makgolo, mme Noahe a bebele ⟨את⟩ Seme, ⟨את⟩ Khame, le ⟨את⟩ Yefethe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "tsa lilemo tse makgolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lilemo"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a bebele"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Seme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khame"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yefethe"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefethe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:41.732143507Z",
+  "model": "glm-5.3"
+}

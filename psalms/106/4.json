@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Nkhopole, Yahwe, ka <rätso> ya setjhaba sa hao; nketelle ka tolotlo ya hao,",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Nkhopole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "ka <rätso>"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ya setjhaba sa hao"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "nketelle"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ka tolotlo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:09.148303639Z",
+  "model": "glm-5.3"
+}

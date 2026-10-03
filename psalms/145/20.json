@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Yahwe o hlokomela ⟨את⟩ bohle ba mo ratang, mme ⟨את⟩ ba fosahetseng bohle o ba felisa.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "o hlokomela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohle ba mo ratang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ba mo ratang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ba fosahetseng bohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ba fosahetseng"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "o ba felisa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:39.239370231Z",
+  "model": "glm-5.3"
+}

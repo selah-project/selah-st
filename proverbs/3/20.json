@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 3:20",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ka tsebo ya hae dintho tse tebileng di ile tsa phahama, mme maru a na talana.",
+  "tokens": [
+    {
+      "surface": "בדעתו",
+      "gloss": "ka tsebo ya hae"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "dintho tse tebileng"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "di ile tsa phahama"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "mme maru"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "a na"
+    },
+    {
+      "surface": "טל",
+      "gloss": "talana"
+    }
+  ],
+  "timestamp": "2026-10-03T11:06:17.137946797Z",
+  "model": "glm-5.3"
+}

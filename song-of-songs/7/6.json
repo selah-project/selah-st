@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 7:6",
+  "book": "song-of-songs",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Hloho ya hao, e hodima hao, e joaloka Karmele; mme moru wa hloho ya hao o joaloka parolai; morena o tshwerwe ka ditshiki.",
+  "tokens": [
+    {
+      "surface": "ראשך",
+      "gloss": "hloho ya hao"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "hodima hao"
+    },
+    {
+      "surface": "ככרמל",
+      "gloss": "joaloka Karmele"
+    },
+    {
+      "surface": "ודלת",
+      "gloss": "mme moru"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "wa hloho ya hao"
+    },
+    {
+      "surface": "כארגמן",
+      "gloss": "joaloka parolai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "o tshwerwe"
+    },
+    {
+      "surface": "ברהטים",
+      "gloss": "ka ditshiki"
+    }
+  ],
+  "timestamp": "2026-10-03T11:37:11.216930172Z",
+  "model": "glm-5.3"
+}

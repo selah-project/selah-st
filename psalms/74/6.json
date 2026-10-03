@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Mme jwale dipolelo tsa yona ba di roha ka kopanyeng, ka meqala le ka dihammero.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "dipolelo tsa yona"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ka kopanyeng"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "ka meqala"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "le ka dihammero"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "ba di roha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:21.185958954Z",
+  "model": "glm-5.3"
+}

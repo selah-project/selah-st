@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Khatello ea ka e ntshabile, hobane ba <hlaselang> ba lekitlane ba lebala mantswe a hao.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "e ntshabile"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "khatello ea ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ba lebala"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "mantswe a hao"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ba <hlaselang> ba lekitlane"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:10.937730073Z",
+  "model": "glm-5.3"
+}

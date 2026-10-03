@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Tshabo le thotheka di tla ho 'na, mme poifo e ikhohometseng e nkukile.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "tshabo"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "le thotheka"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "di tla"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "mme e nkukile"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "poifo e ikhohometseng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:17.767494440Z",
+  "model": "glm-5.3"
+}

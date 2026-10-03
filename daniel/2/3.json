@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme morena a ba re: Loro le le leng ke loretse, mme ruakh ya ka e tsubuhletse hore ke tsebe ⟨את⟩ lorong.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme morena a ba re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Loro"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ke loretse"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "mme ... e tsubuhletse"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya ka"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hore ke tsebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lorong"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "lorong"
+    }
+  ],
+  "timestamp": "2026-10-03T11:49:29.549661788Z",
+  "model": "glm-5.3"
+}

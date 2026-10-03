@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Pono eo mahlo a e bonang e molemo ho feta tsamaeo ea maikemisetso; le sena ke hebele le bohlabani ba ruakh.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "e molemo"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "pono"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "tsamaeo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "maikemisetso"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebele"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "le bohlabani"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:49.294310717Z",
+  "model": "glm-5.3"
+}

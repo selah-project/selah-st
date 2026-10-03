@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "le ⟨את⟩ tinshemete, le ⟨את⟩ kaate, le ⟨את⟩ rakhame",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tinshemete"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "tinshemete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "kaate"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "kaate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "rakhame"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "rakhame"
+    }
+  ],
+  "timestamp": "2026-10-03T06:08:20.293276742Z",
+  "model": "glm-5.3"
+}

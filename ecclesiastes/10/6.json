@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Setho se se nang bohlale se behilwe maemong a phahameng a mangata, mme ba ruang ba dula maemong a tlase.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "se behilwe"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "setho se se nang bohlale"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "maemong a phahameng"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mangata"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "mme ba ruang"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "maemong a tlase"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba dula"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:34.872355714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme Moshe a bolela ho bana ba Yisraele hore ba etse ⟨את⟩ Pesakhe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "hore ba etse"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesakhe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:27:45.532049950Z",
+  "model": "glm-5.3"
+}

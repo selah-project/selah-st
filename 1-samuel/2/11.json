@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Elkana a ya Ramata, ho ya fihla hae hae; mme moshanyana a ne a sebeletsa ⟨את⟩ Yahwe, ⟨את⟩ ⟨mo⟩ pong ya Eli moprista.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mme ... a ya"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ya fihla"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ha hae"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "mme moshanyana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a ne e le"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "a sebeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨mo⟩ pong ya",
+      "marks": "Eli moprista"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pong ya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    }
+  ],
+  "timestamp": "2026-10-03T07:30:31.911139020Z",
+  "model": "glm-5.3"
+}

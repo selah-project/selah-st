@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Etsa lapeng la hau sekele sa mapupa a gofer; malapa o tla etsa sekele, mme o tla se phalla ka lehare ka hare le ka ntle.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "la hau"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "sekele"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mapupa"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "a gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekele"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sekele"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "mme o tla se phalla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sona"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ka hare"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "le ka ntle"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ka lehare"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:19.269955452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ha korbane ya hae e tswa leruong, ho tswa dinkwaneng kapa ho tswa dipoling, bakeng sa ola, a tla hlahisa ⟨את⟩ yona — pha, e se nang masoabi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e tswa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "leruong"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korbane ya hae"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tswa"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "dinkwaneng"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tswa"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "dipoling"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "bakeng sa ola"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pha"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e se nang masoabi"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "a tla hlahisa yona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:54.358321969Z",
+  "model": "glm-5.3"
+}

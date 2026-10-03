@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Ke fokola, ke putlama haholo; ke ile ka llella ka mohumo wa pelo ya ka.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "ke fokola"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "ke putlama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholoholo"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ke ile ka llella"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "ka mohumo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:21.835369925Z",
+  "model": "glm-5.3"
+}

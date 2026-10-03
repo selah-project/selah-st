@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Bana ba ke bona bana ba Khame, ho ya ka malapa a bona, ho ya ka maleme a bona, mabatong a bona, mabatong a dinaha tsa bona.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bana ba ke bona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khame"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ho ya ka malapa a bona"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ho ya ka maleme a bona"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "mabatong a dinaha tsa bona"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "mabatong a dinaha tsa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:41:31.476160797Z",
+  "model": "glm-5.3"
+}

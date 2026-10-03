@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Tsamaya, o re ho Dawide, mohlanka oa ka: Ho bolela Yahwe: O se ke wa mpa u ka mpaha ntlo ea hore ke e dule ho eona.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tsamaya"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "o re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mohlanka oa ka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ho bolela"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "O se ke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "u ka mpaha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ea hore ke e dule ho eona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:17:47.832999891Z",
+  "model": "glm-5.3"
+}

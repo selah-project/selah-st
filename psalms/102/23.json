@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "Ha mahaba a bokellwa mmoho, le mebuso, ho hlanka ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "ha ... a bokellwa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mahaba"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmoho"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "le mebuso"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ho hlanka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:34.037399966Z",
+  "model": "glm-5.3"
+}

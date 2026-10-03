@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Hobane dikgwedi tse tšeletseng Joabe le Yisraele yohle ba dula moo, ho fihlela ba timetsa banna bohle Edome.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "tse tšeletseng"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "dikgwedi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le... yohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "ba timetsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "banna"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-03T08:09:09.382893602Z",
+  "model": "glm-5.3"
+}

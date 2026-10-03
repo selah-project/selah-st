@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 63,
+  "translation": "Sepholdimo sa Dawide, ha a ne a le mahaeng a Yehudha.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Sepholdimo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dawide"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ha a ne a le"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mahaeng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yehudha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:09.488977837Z",
+  "model": "glm-5.3"
+}

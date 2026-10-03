@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 118,
+  "translation": "E molemo ho tshabela ho Yahwe ho feta ho tshepa ho motho.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "e molemo"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ho tshabela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ho feta ho tshepa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ho motho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:04.174550968Z",
+  "model": "glm-5.3"
+}

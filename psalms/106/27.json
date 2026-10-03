@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Le ho theola peo ea bona har'a dinaha, le ho e hasa dinaheng.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "le ho theola"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "peo ea bona"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "har'a dinaha"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "le ho e hasa"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "dinaheng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:10.639738989Z",
+  "model": "glm-5.3"
+}

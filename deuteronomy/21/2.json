@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Mme baholo ba hao le baahloli ba hao ba tle ka ntle, mme ba katle ho ea ho metse e mengata ea makantle ho ea motho ea bolailoeng.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba tle ka ntle"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "baholo ba hao"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "le baahloli ba hao"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "mme ba katle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ea ho"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ea"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "mengata ea makantle"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "ho ea motho ea bolailoeng"
+    }
+  ],
+  "timestamp": "2026-10-03T06:55:36.219817097Z",
+  "model": "glm-5.3"
+}

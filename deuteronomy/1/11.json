@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Yahwe, Elohim ya bo-ntata lona, a le eketse joalo ka lona dikete tse dikete, a le hlohonolofatse, jwalo ka ha a ile a se bua le lona!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "bo-ntata lona"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "a le eketse"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "joalo ka lona"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dikete tse dikete"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a le hlohonolofatse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a ile a se bua"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:41:44.958523180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Yahwe Elohim ea ka, ho uena ke tshepile; nkelise mabapi le ba nthunyang bohle, me o nntse.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ea ka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "nkelise"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mabapi le bohle"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ba nthunyang"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "me o nntse"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:02.998737894Z",
+  "model": "glm-5.3"
+}

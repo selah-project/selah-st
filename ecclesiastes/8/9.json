@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "⟨את⟩ tsena tsohle ke di bone, mme ke nehelitse ⟨את⟩ pelo ya ka ho mosebetsi ofe kapa ofe o entsoeng ka tlase ho letsatsi; ⟨ho na le⟩ nako eo motho a busang motho e mong, ho mpele ya hae.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsena tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "mme ke nehelitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya ka"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho mosebetsi ofe kapa ofe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "entsoeng"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "a busang"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "motho e mong"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ho mpele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:16:17.675779001Z",
+  "model": "glm-5.3"
+}

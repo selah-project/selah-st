@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "mme o ile a neetse sefapanong setjhaba sa hae, mme a hloka thabo ka bojfalwa ba hae.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "mme o ile a neetse"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sefapanong"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setjhaba sa hae"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "mme ka bojfalwa ba hae"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "a hloka thabo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:27.333371952Z",
+  "model": "glm-5.3"
+}

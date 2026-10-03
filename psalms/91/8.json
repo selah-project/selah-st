@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Mahlong a hao feela o tla sheba, mme moputso oa baka-hloe o tla o bona.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "feelà"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "Mahlong a hao"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "o tla sheba"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "mme moputso oa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "baka-hloe"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o tla bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:28.908723856Z",
+  "model": "glm-5.3"
+}

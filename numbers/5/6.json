@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 5:6",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Bua le bana ba Yisraele: monna kapa mosadi, ha ba etsa ya seng ya dibe tsohle tsa motho, ka ho qhekella ho Yahwe, moya oo o ikanaletsa;",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ya seng ya tsohle"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tsa motho"
+    },
+    {
+      "surface": "למעל",
+      "gloss": "ka ho qhekella"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "qhekella"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "ואשמה",
+      "gloss": "o ikanaletsa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:24:04.784587670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 99,
+  "translation": "Romemang Yahwe Elohim ea rona, mme inamafalang ho setulo sa maoto sa hae; o halalelang.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Romemang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ea rona"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "mme inamafalang"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "ho setulo sa maoto"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sa hae"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "o halalelang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:36.362888385Z",
+  "model": "glm-5.3"
+}

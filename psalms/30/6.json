@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Hobane khalefo ya hae ke ⟨motsotsoana⟩ feela; bophelo bo teng ka tumelo ya hae; bosiu lla bo lala, mme hosane kokoana ya thabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "motsotsoana feela"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "khalefo ya hae"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "ka tumelo ya hae"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bo lala"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "lla"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "mme hosane"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kokoana ya thabo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:24.229152205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Lentswe laka ho Elohim, mme ke lla; lentswe laka ho Elohim, mme a mamelle ho 'na.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Lentswe laka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "mme ke lla"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentswe laka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "mme a mamelle"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-03T10:44:06.141069579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 75,
+  "translation": "Lefatshe le baleha, le bohle ba phelang ho lona; mme nna ke tiisa dimila tsa lona. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "le baleha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Lefatshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le bohle"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ba phelang ho lona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "ke tiisa"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "dimila tsa lona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:41.189646811Z",
+  "model": "glm-5.3"
+}

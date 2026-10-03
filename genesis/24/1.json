@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme Abrahame a bokhula, a kena metsing, mme Yahwe a hlakotla ⟨את⟩ Abrahame ho tsoa ho tsohle.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Mme Abrahame"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a bokhula"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "metsing"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "a hlakotla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ho tsoa ho tsohle"
+    }
+  ],
+  "timestamp": "2026-10-03T05:28:37.347444204Z",
+  "model": "glm-5.3"
+}

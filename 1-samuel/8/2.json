@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme lebitso la mora oa hae ea tswetseng pele e ne e le Yoele, mme lebitso la bobedi la hae Abya; ba ne ba ahlola Bir-Sheba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "la mora oa hae"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ea tswetseng pele"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoele"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme lebitso"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "la bobedi la hae"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abya"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ba ahlola"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "Bir"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:03.704876949Z",
+  "model": "glm-5.3"
+}

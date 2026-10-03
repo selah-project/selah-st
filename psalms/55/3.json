@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Kgopotso e tee nthong ya ka, mme mphe karabo; ke a sokela boikobelong ba ka, mme ke a lla.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Kgopotso e tee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nthong ya ka"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "mme mphe karabo"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "ke a sokela"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "boikobelong ba ka"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "mme ke a lla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:01.732815598Z",
+  "model": "glm-5.3"
+}

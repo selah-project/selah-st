@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme Yokshane a begetsa ⟨את⟩ Sheva le ⟨את⟩ Dedane; mme barwa ba Dedane ba bile Ashurime, Letushime le Leummime.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Mme Yokshane"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a begetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Dedane"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedane"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mme barwa ba"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedane"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba bile"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurime"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letushime"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leummime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:30:21.849599579Z",
+  "model": "glm-5.3"
+}

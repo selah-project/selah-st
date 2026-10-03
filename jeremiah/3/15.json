@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme ke tla le fa balisi ba pelo ya ka, mme ba tla le fepa ⟨את⟩ lona ka tsebo le botlhale.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Mme ke tla le fa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "balisi"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "ba pelo ya ka"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "mme ba tla le fepa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ka tsebo"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "le botlhale"
+    }
+  ],
+  "timestamp": "2026-10-03T09:03:45.020850953Z",
+  "model": "glm-5.3"
+}

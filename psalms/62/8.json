@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 62,
+  "translation": "Hodima Elohim tokoloho ya ka le tlotla ya ka; lejwa la matla a ka, botsabelo ba ka ⟨ke⟩ ho Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "tokoloho ya ka"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "le tlotla ya ka"
+    },
+    {
+      "surface": "צור",
+      "gloss": "lejwa"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "la matla a ka"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "botsabelo ba ka"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ho Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:49.311710390Z",
+  "model": "glm-5.3"
+}

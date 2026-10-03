@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 7:7",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme Yahwe a re ho Gideone: Ka banna ba le mashome a mararo a metso e leshome ba nelang ke tla ⟨את⟩ lo lokolotsa, mme ke tla neha ⟨את⟩ Midiane letsatong la hao; mme setjhaba sohle se tla ya, ya mong le ya mong lebakeng la hae.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideone"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "Ka ... meraro"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makhulu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "ba nelang"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ke tla lo lokolotsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mme ke tla neha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midiane"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiane"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "letsatong la hao"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme ... sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "se tla ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya mong le ya mong"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "lebakeng la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:20:57.312839267Z",
+  "model": "glm-5.3"
+}

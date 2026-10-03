@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "Matlo a rona a polokelo a tletse, a fana ka mofuta ho fihlela mofuta; dinku tsa rona di phalla ka dikete, dikete tse leshome, mitlwaneng ya rona.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "matlo a rona a polokelo"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "a tletse"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "a fana ka"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "mofuta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "זן",
+      "gloss": "mofuta"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "dinku tsa rona"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "di phalla ka dikete"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "dikete tse leshome"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "mitlwaneng ya rona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:09.918311313Z",
+  "model": "glm-5.3"
+}

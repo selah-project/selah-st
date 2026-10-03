@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 7:27",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme a etsa ⟨את⟩ dimmise tse leshome tsa tompe: ama e 'ne ka bolelele ba mmose o mong, mme ama e 'ne ka bophara ba lona, mme ama e meraro ka phahameho ya lona.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dimmise tse leshome tsa tompe"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dimmise"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tse leshome"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tompe"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "e 'ne"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bolelele"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "ba mmose"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "o mong"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "mme e 'ne"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka ama"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mme e meraro"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka ama"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "phahameho ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:05:24.404310744Z",
+  "model": "glm-5.3"
+}

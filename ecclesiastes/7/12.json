@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Hobane bohlale boa sireletsa, mme aali a sireletsa; mme phapang ya tsebo ke hore bohlale bo phodisa ba ba nang le lona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "boa sireletsa"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "a sireletsa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "aali"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "phapang"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ya tsebo"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "bo phodisa"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "ba ba nang le lona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:44.283173716Z",
+  "model": "glm-5.3"
+}

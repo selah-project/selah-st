@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 120,
+  "translation": "Yahwe, lokolla moea oa ka ho molomo oa mafeke, le ho leleme la boqheketsi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "lokolla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moea oa ka"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "ho molomo oa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mafeke"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "le ho leleme la"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "boqheketsi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:42.288091881Z",
+  "model": "glm-5.3"
+}

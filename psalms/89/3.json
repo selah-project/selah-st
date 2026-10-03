@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Hobane ke ile ka re: ka ho sa feleng hesede ho tla maha, mahodimong o tla theha tumelo ya hao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka ho sa feleng"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ho tla maha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "o tla theha"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tumelo ya hao"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:56.857853514Z",
+  "model": "glm-5.3"
+}

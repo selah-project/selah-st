@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Tseleng ya melao ya hau ke tla e tsamaya ka lebellong, hobane u ataletse pelo ya ka.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ya melao ya hau"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "ke tla e tsamaya ka lebellong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "u ataletse"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:01.957700753Z",
+  "model": "glm-5.3"
+}

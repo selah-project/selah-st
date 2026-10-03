@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme le se ke la hlohlelletsa ⟨את⟩ lebitso la kgalalelo ya ka, mme ke tla halaletsoa pakeng tsa bana ba Yisraele; ke Yahwe, ya le halaletsang.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme le se ke"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "la hlohlelletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la kgalalelo ya ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "la kgalalelo ya ka"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "ke tla halaletsoa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ya le halaletsang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:58.713066986Z",
+  "model": "glm-5.3"
+}

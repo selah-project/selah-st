@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Setopo le lefatshe le omileng di tla thabela; bohalaka bo tla nyakalla, bo tla tahha jwalo ka setšo.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "di tla thabela"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "setopo"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "le lefatshe le omileng"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "bo tla nyakalla"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "bohalaka"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "bo tla tahha"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "jwalo ka setšo"
+    }
+  ],
+  "timestamp": "2026-10-03T08:46:59.966476251Z",
+  "model": "glm-5.3"
+}

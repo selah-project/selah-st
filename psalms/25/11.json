@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Bakeng sa lebitso la hau, Yahwe, tshwarela sebe sa ka, hobane se se moholo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "tshwarela"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "sebe sa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "רב",
+      "gloss": "se se moholo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨se⟩"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:24.450725196Z",
+  "model": "glm-5.3"
+}

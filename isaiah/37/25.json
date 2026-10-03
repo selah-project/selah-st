@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Ke kopile, ke noile metsi; mme ka phadi ya maoto a ka ke omisitse ⟨את⟩ ditjha tsohle tsa Matswahle.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ke"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "ke kopile"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "mme ke noile"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "mme ke tla omisa"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ka phadi"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ya maoto a ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "tsa ditjha"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matswahle"
+    }
+  ],
+  "timestamp": "2026-10-03T08:46:12.539622273Z",
+  "model": "glm-5.3"
+}

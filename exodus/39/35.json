@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "⟨את⟩Arona ya bopaki, le ⟨את⟩dipuka tsa yona, le ⟨את⟩sefuta sa kaponareta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arona ya bopaki"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Arona"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya bopaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipuka tsa yona"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dipuka tsa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sefuta sa kaponareta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sefuta sa kaponareta"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:01.670941687Z",
+  "model": "glm-5.3"
+}

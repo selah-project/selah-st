@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Mesebe ya hao e momabu; merabe e ea wa ka tlase ho wena; e ea olela pelong ya dira tsa morena.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "mesebe ya hao"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "e momabu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "merabe"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ka tlase ho wena"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "e ea wa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "pelong"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ya dira tsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:49.539949825Z",
+  "model": "glm-5.3"
+}

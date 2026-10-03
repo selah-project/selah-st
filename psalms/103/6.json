@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "Yahwe o etsa ditsedeke le dikahlolo bakeng sa bohle ba hlokometsoang.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "o etsa"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ditsedeke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "le dikahlolo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa bohle"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "ba hlokometsoang"
+    }
+  ],
+  "timestamp": "2026-10-03T13:12:41.257599346Z",
+  "model": "glm-5.3"
+}

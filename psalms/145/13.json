@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Muso wa hau ke muso wa dilemo tsohle, le puso ya hau ⟨e dula⟩ ho dintlha tsohle tsa dilemo, ntlha le ntlha.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Muso wa hau"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "muso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "dilemo tsohle tsa ho sa feleng"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "le puso ya hau"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ho dintlha tsohle"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ntlha"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "le ntlha"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:26.385969175Z",
+  "model": "glm-5.3"
+}

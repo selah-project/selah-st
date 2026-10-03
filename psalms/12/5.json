@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Ba reng: Ka lethohe la rona re tla matlafala, sefofane sa rona se ⟨את⟩ rona: ke mang ya monga ho rona?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ba reng"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "ka lethohe la rona"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "re tla matlafala"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "sefofane sa rona"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "rona"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ya monga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:07.847465056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme o tla bea hodima Arene ⟨את⟩ bopaki boo ke tlang o neha oena.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "mme o tla bea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Arene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bopaki"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "boo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tlang o neha"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "oena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:24.701891785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Moshe a tswa ho Paraoh, a rapela ho Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Mme ... a tswa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "a rapela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:20.666736626Z",
+  "model": "glm-5.3"
+}

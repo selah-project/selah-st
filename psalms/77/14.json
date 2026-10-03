@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 77,
+  "translation": "Elohim, seding se halalelang ke tsela ya hau; ke ofa El ya moholo jwaloka Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "seding se halalelang"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ya hau"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke ofa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ya moholo"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "jwaloka Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:18.915615709Z",
+  "model": "glm-5.3"
+}

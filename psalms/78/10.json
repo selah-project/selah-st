@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Ha ba a boloka selekane sa Elohim, mme Torah ya hae ba e hanile ho tsamaya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha ba a"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "mme Torah ya hae"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba e hanile"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ho tsamaya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:53.584902546Z",
+  "model": "glm-5.3"
+}

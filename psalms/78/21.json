@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Ka hona Yahwe a utlwa, a hlaha ka bogale, mme mollo o ntsitswe ho Yaakobo, mme tshefu e ile ya phahama ho Yisraele.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka hona"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "a hlaha ka bogale"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "mme mollo"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "o ntsitswe"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ho Yaakobo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tshefu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "e phahametseng"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ho Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:55.319721803Z",
+  "model": "glm-5.3"
+}

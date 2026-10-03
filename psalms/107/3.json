@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "mme a ba khobokantse mafatseng, ho tloha bochabela le ho tloha bophirima, ho tloha leboya le ho tloha lewatle.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "mme mafatseng"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "a ba khobokantse"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ho tloha bochabela"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "le ho tloha bophirima"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ho tloha leboya"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "le ho tloha lewatle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:38.173917108Z",
+  "model": "glm-5.3"
+}

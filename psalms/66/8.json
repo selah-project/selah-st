@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Ditjhaba, halalelang Elohim wa rona, mme le tse ditsebe lentswe la tiono ya hae.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "halalelang"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Ditjhaba"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "mme le tse ditsebe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tiono ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:36.946140368Z",
+  "model": "glm-5.3"
+}

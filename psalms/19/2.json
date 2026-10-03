@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mahodimo a phatlalatsa kgalalelo ya El, mme raqea o senola mosebeti wa matswalo a hae.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Mahodimo"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "a phatlalatsa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "mme mosebeti"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "wa matswalo a hae"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "o senola"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "raqea"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:00.427413322Z",
+  "model": "glm-5.3"
+}

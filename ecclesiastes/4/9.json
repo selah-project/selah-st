@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ba babeli ba lokile ho feta ⟨ea⟩ e mong, hobane ho bona ho na le moputso o motle molemong wa boiteko ba bona.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ba lokile"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ba babeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e mong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ho na le"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "moputso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o motle"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "molemong wa boiteko ba bona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:11.151294566Z",
+  "model": "glm-5.3"
+}

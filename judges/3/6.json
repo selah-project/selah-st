@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ba nka ⟨את⟩ baraa bona e le basali ba bona, mme ⟨את⟩ baraa bona ba neela bara ba bona; mme ba nepeletsa ⟨את⟩ melimo ya bona.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ba nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baraa bona"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "baraa bona"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "e le basali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "baraa bona"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "baraa bona"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba neela"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "bara ba bona"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mme ba nepeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melimo ya bona"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "melimo ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:17:21.682949226Z",
+  "model": "glm-5.3"
+}

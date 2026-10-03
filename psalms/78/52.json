@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme a tlosa sechaba sa hae joalo ka nku, mme a ba tataisa joalo ka chaba leholong.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "mme a tlosa"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "joalo ka nku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sechaba sa hae"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "mme a ba tataisa"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "joalo ka chaba"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "leholong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:26.260128572Z",
+  "model": "glm-5.3"
+}

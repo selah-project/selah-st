@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Balaodi ba Tsoane ba ile ba ba bohlolo, balaodi ba Nofe ba ile ba qosoa; ba ile ba sitofatsa ⟨את⟩ Mitsrayime, ba bang ba neng ba le khohlo ya merabe ya yona.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "ba ile ba ba bohlolo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoane"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ba ile ba qosoa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nofe"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "ba ile ba sitofatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "khohlo"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "ya merabe ya yona"
+    }
+  ],
+  "timestamp": "2026-10-03T08:39:06.559559320Z",
+  "model": "glm-5.3"
+}

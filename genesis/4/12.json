@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Hobane o tla lema ⟨את⟩ lefatshe, e ke ke ya eketsa ho fa matla a lona ho wena; o tla ba moeti le moelelwa lefatsheng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o tla lema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ya eketsa"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ho fa"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "matla a lona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "נע",
+      "gloss": "moeti"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "le moelelwa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-03T12:42:26.558322247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Hobane ho ya mong le yo mong ya hokelang ho bohle ba phelang ho na le tshepo; hobane ntja e phelang, e molemo ho feta tau e shoeletseng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yo mong le yo mong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "a hokelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ba phelang"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ho na le"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "tshepo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ntja"
+    },
+    {
+      "surface": "חי",
+      "gloss": "e phelang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "המת",
+      "gloss": "e shoeletseng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:45:27.757510214Z",
+  "model": "glm-5.3"
+}

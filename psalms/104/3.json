@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "E mong o beha liphahla tsa dikamore tsa hae tsa hodimo kaharung ea metsi, o etsa maru e le koloi ea hae, o tsamayang holim'a maphiko a ruakh.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "E mong o beha liphahla"
+    },
+    {
+      "surface": "במים",
+      "gloss": "kaharung ea metsi"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "dikamore tsa hae tsa hodimo"
+    },
+    {
+      "surface": "השם",
+      "gloss": "o etsa"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "koloi ea hae"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "o tsamayang"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "maphiko a"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:56.650103416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme a re: Ao, Adonai, romela, ke kopa, ka letsoho la yena eo o tla mo romela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "romela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "o tla mo romela"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:36.746500117Z",
+  "model": "glm-5.3"
+}

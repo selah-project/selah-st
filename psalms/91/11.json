@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Hobane o tla laela ⟨⟨ba⟩⟩ baromuwa ba hae ka ua hau, hore ba u boloke ditseleng tsa hao tsohle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "baromuwa ba hae"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "o tla laela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka ua hau"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "hore ba u boloke"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ditseleng... tsohle"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:55.765092989Z",
+  "model": "glm-5.3"
+}

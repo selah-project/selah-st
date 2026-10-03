@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Ho moea wa sehlabelo, ho ya ka Shoshannime, sa Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho moea wa sehlabelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ya ka"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannime"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:37.917582741Z",
+  "model": "glm-5.3"
+}

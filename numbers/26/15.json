@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Bana ba Gade ka diselekane tsa bona: ya Tsefone, selekane sa baji ba Tsefone; ya Khagie, selekane sa baji ba Khagie; ya Shunie, selekane sa baji ba Shunie.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana ba"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka diselekane tsa bona"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "ya Tsefone"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "selekane sa"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "baji ba Tsefone"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "ya Khagie"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "selekane sa"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "baji ba Khagie"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ya Shunie"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "selekane sa"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "baji ba Shunie"
+    }
+  ],
+  "timestamp": "2026-10-03T06:35:39.533490517Z",
+  "model": "glm-5.3"
+}

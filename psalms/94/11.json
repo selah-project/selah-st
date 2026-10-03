@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Yahwe o tseba mehopolo ya motho, hore e le lefufa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mehopolo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "המה",
+      "gloss": "e le"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "lefufa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:10.559656126Z",
+  "model": "glm-5.3"
+}

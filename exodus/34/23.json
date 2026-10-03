@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ka makgetlo a mararo ka selemo, banna ba hao bohle ba tla bonahala ⟨⟨את⟩⟩ sefahleho sa Adonai Yahwe, Elohim wa Yisraele.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ka makgetlo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ka selemo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ba tla bonahala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "banna ba hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "sa Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:13.733635987Z",
+  "model": "glm-5.3"
+}

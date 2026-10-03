@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Yahwe o ile a theohela ho tla shebella ⟨את⟩ motele le ⟨את⟩ thaba, eo bana ba motho ba e ahileng.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "o ile a theohela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ho tla shebella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motele"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "thaba"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ba ahileng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:38.818785115Z",
+  "model": "glm-5.3"
+}

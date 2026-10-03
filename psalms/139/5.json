@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 139,
+  "translation": "Ka morao le ka pele U ntsheditse, mme U behe senope sa Hau hodima 'na.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "ka morao"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "le ka pele"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "U ntsheditse"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "mme U behe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima 'na"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "senope sa Hau"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:21.733858434Z",
+  "model": "glm-5.3"
+}

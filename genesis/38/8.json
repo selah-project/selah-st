@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme Yuda o ile a re ho Onane: Kena ho mosali wa mpaa wa hao, o be morena-mpaa wa hae, mme o hlatse peo bakeng sa mpaa wa hao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re ho"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "Onane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosali wa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mpaa wa hao"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "o be morena-mpaa wa hae"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "eena"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "o hlatse"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peo"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "bakeng sa mpaa wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:10.627333177Z",
+  "model": "glm-5.3"
+}

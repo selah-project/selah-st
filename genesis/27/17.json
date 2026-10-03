@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme a fana ka ⟨את⟩ dikotoana tse monate le ⟨את⟩ borotho ao a bileng, ka letsohong la Yaakobo mora wa hae.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "a fana ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikotoana tse monate"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "dikotoana tse monate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "borotho"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "borotho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "a bileng"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsohong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mora wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:31:10.566743181Z",
+  "model": "glm-5.3"
+}

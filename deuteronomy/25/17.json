@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Hopola ⟨את⟩ seo Amaleke a se entseng ho wena tseleng, ka ho tsoa ha lona ho Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Hopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se entseng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ka ho tsoa ha lona"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T06:56:50.311363564Z",
+  "model": "glm-5.3"
+}

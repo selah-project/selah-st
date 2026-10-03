@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 95,
+  "translation": "Moo maloko-alpha a lōna a nē a leka Yahwe, a hlahloba Yahwe, leha ba ne ba bone mosebetsi wa hae.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "a leka Yahwe"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "maloko-alpha a lōna"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "a hlahloba Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "leha"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ba bone"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mosebetsi wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:53.085489983Z",
+  "model": "glm-5.3"
+}

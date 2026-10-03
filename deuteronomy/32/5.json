@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Ba ile ba iphorosetsa, ha se bana ba hae phoso ea bona; moloko o qhotsohileng le o khopisitsoeng.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "ba ile ba iphorosetsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha se"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "phoso ea bona"
+    },
+    {
+      "surface": "דור",
+      "gloss": "moloko"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "o qhotsohileng"
+    },
+    {
+      "surface": "ו\/פתלתל",
+      "gloss": "le o khopisitsoeng"
+    }
+  ],
+  "timestamp": "2026-10-03T07:01:21.001799775Z",
+  "model": "glm-5.3"
+}

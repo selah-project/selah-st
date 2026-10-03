@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Hobane o tla ntshela ka mpata ka tenteng ea hae ka letsatsi la kotsi; o tla mpata ka sephiring sa tenti sa hae; hodima lejoe o tla ntlahla.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "o tla ntshela ka mpata"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "ka tenteng"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kotsi"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "o tla mpata"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka sephiring sa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tenti sa hae"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "hodima lejoe"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "o tla ntlahla"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:14.401112611Z",
+  "model": "glm-5.3"
+}

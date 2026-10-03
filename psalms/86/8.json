@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Ha ho ⟨⟨a⟩⟩ ya tshwanang le wena hara melimo ya ditjhaba, Adonai, mme ha ho mesebetsi ya tshwanang le mesebetsi ya hao.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ha ho"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ya tshwanang le wena"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "hara melimo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "ya tshwanang le mesebetsi ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:52.882229891Z",
+  "model": "glm-5.3"
+}

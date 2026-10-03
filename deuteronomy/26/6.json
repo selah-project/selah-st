@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme Baemitsrayime ba re dira bobe ⟨את⟩ rona, ba re hatelletsa, mme ba beha holima rona sebeletso se boima.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "ba re dira bobe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona",
+      "marks": "rona"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Baemitsrayime"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "ba re hatelletsa"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ba beha"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "holima rona"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "sebeletso"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "se boima"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:56.411648478Z",
+  "model": "glm-5.3"
+}

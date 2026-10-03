@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Ya Dawide. Pina e rutang. Mahlomong a eo phoso ya hae e falletseng, bohle bo bofi bo ka covered — sefuba sa hae se kwetsoeng.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dawide"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Pina e rutang"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Mahlomong a"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "e falletseng"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "phoso"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "se kwetsoeng"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "bohle bo bofi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:52.785697993Z",
+  "model": "glm-5.3"
+}

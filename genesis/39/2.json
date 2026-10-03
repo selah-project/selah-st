@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 39,
+  "translation": "Mme Yahwe a ne a le le ⟨את⟩ Yosefe; mme a ba mona ya atlehileng; mme a ba ka tlung ya monga wa hae, wa Mo-Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme ... a ne a le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme a ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mona"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "ya atlehileng"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme a ba"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka tlung"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ya monga wa hae"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "wa Mo-Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:37:01.744170045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Ba ne ba shebella ho yena, mme ba khanya, mme dineo tsa bona di ke ke ya tshwarwa ke mahlonoko.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Ba ne ba shebella"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "mme ba khanya"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "dineo tsa bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di ke ke ya"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "tshwarwa ke mahlonoko"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:00.144780407Z",
+  "model": "glm-5.3"
+}

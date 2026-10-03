@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme moprista o tla li chesa ⟨אתם⟩ holim'a altare, e le ofelelo ya mollo ho Yahwe; ke ofelelo ya phoso eona.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "mme o tla li chesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (ditho tseo)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "holim'a altare"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofelelo ya mollo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ya phoso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:49.176830033Z",
+  "model": "glm-5.3"
+}

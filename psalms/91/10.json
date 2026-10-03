@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Hase kotsi e tla ho fihla ho uena, kapa bokulo; e ke ke ya atamela hohle tlung ya hao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hase"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "e tla ho fihla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kotsi"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "kapa bokulo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "atamela"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "tlung ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:55.764970895Z",
+  "model": "glm-5.3"
+}

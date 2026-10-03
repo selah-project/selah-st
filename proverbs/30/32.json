@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Ha o ile oa iphitlhela oa e-ba lehloyo, kapa ha o ile oa rala bobe — beha letsoho la hao hodima molomo oa hao.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "oa ile oa iphitlhela oa e-ba lehloyo"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "oa ikhahlela"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kapa ha"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "oa rala bobe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "hodima molomo oa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:17:44.646131556Z",
+  "model": "glm-5.3"
+}

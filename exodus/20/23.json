@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Le se ke la etsa ⟨את⟩ le ka nna melimo ya sekhele, le se ke la ietsa melimo ya gauta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Le se ke"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "la etsa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le ka nna",
+      "marks": "melimo ya sekhele le melimo ya gauta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "melimo ya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sekhele"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "le melimo ya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Le se ke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "la etsa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bakeng sa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:50.821479517Z",
+  "model": "glm-5.3"
+}

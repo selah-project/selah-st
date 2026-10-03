@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme a atisa kahlolo ⟨את⟩ Yisraele dikhoeling tse mashome a mabedi le tse tharo, mme a swa, a bolokwa Shamire.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a atisa kahlolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mashome a mabedi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "le tse tharo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dikhoeling"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a swa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a bolokwa"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "Shamire"
+    }
+  ],
+  "timestamp": "2026-10-03T07:23:01.712320492Z",
+  "model": "glm-5.3"
+}

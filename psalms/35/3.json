@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Mme o hlakole borele, o koale tselа ho ba mphehang; o re kelong ya ka: Tlhokomelo ya hau ke yona ya ka.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Mme o hlakole"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "borele"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "o koale"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tselа"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ho ba mphehang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kelong ya ka"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "Tlhokomelo ya hau"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke yona ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:36.568049437Z",
+  "model": "glm-5.3"
+}

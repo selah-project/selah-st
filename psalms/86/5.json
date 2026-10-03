@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "translation": "Hobane wena, Adonai, o molemo, o tsamaisa molato, mme o moholo ka hesede ho ba kgothatsang ho wena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o molemo"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "o tsamaisa molato"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "o moholo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ka hesede"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho ba kgothatsang"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:52.881712529Z",
+  "model": "glm-5.3"
+}

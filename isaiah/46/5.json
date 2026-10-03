@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Mme o tla mpapisang leña, le mpeka le ntsisekanya, le mpe bapisanye, hore re tle re tshwane?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "mme o tla mpapisang leña"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "le mpeka"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "le ntsisekanya"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "le mpe bapisanye"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "hore re tle re tshwane"
+    }
+  ],
+  "timestamp": "2026-10-03T08:52:04.194601062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Yehonatane le Dawide ba ile ba etsa selekane, hobane a mo rata joaloka moea wa hae ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Mme ba ile ba etsa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatane"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "le Dawide"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "hobane a mo rata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "joaloka moea wa hae"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "joaloka moea wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:40:05.525945602Z",
+  "model": "glm-5.3"
+}

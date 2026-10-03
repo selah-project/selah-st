@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Mme ba tsamaya ho tloha sechabeng ho ya sechabeng, ho tloha mmusong ho ya ho sechaba se seng.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ho tloha sechabeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "sechabeng"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "ho tloha mmusong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ho sechaba"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "se seng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:30.318521680Z",
+  "model": "glm-5.3"
+}

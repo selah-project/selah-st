@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "le ⟨את⟩ Bapatrusime le ⟨את⟩ Bakaslukhime, moo Bapelesetim ba tswang teng, le ⟨את⟩ Bakhaftorime.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bapatrusime"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Bapatrusime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bakaslukhime"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Bakaslukhime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba tswang"
+    },
+    {
+      "surface": "משם",
+      "gloss": "teng"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelesetim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bakhaftorime"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Bakhaftorime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:13.046538621Z",
+  "model": "glm-5.3"
+}

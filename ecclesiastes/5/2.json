@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Hobane toro e tla ka bongata bo bongata ba mesebetsi, mme lentsoe la sefoolhale ka bongata ba mantswe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e tla"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "toro"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka bongata ba"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "mesebetsi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "mme lentsoe la"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sefoolhale"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka bongata ba"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mantswe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:43:10.490070240Z",
+  "model": "glm-5.3"
+}

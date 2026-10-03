@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 137,
+  "translation": "Lerato ⟨⟨ha ho⟩⟩ — o mohau ya tla tshwara a otlolle ⟨את⟩ bana ba hao ba nyane holim'a lejoe.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "mahlapa"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "ya tla tshwara"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "a otlolle"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba hao ba nyane"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "bana ba hao ba nyane"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "lejoe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:40.376366190Z",
+  "model": "glm-5.3"
+}

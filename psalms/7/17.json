@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ho tla kgutla bosulu ba hae hodima hloho ya hae, mme tlhaselo ya hae e tla theoha hodima tlhaku ya hloho ya hae.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ho tla kgutla"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "bosulu ba hae"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "hodima hloho ya hae"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme hodima"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "tlhaku ya hloho ya hae"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "tlhaselo ya hae"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "e tla theoha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:21:47.355667473Z",
+  "model": "glm-5.3"
+}

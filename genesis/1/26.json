@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 1:26",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Elohim a re: A re etseng motho ka setshwantsho sa rona, ka ho tshwana le rona; mme a bushe tlhase ea lithapi tsa lewatle, le dihooapi tsa mahodimo, le diphoofolo tsa lapeng, le lefatshe lohle, le tsohle tse phaphametseng lefatshe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme … a re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "A re etseng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בצלמנו",
+      "gloss": "ka setshwantsho sa rona"
+    },
+    {
+      "surface": "כדמותנו",
+      "gloss": "ka ho tshwana le rona"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "mme a bushe tlhase"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "ea lithapi tsa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "le dihooapi tsa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "le diphoofolo tsa lapeng"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le … lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le tsohle"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "tse phaphametseng"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "tse phaphametseng"
+    },
+    {
+      "surface": "על",
+      "gloss": "pela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:52.584095397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Le ya hesedeng o hesedela; le motho ya phethahalang o mo-phethahatsa.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ya hesedeng"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "o hesedela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "motho"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya phethahalang"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "o mo-phethahatsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:49.198418217Z",
+  "model": "glm-5.3"
+}

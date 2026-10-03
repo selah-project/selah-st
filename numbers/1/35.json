@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ba hlahlolweng ba bona, bakeng sa kabelo ya Menashe, ⟨ba ne ba le⟩ dikete tse mashome a maroaro le pedi le makgolo a mabedi.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ba hlahlolweng ba bona"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bakeng sa kabelo ya"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "le mashome a maroaro"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "le makgolo a mabedi"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:33.436495774Z",
+  "model": "glm-5.3"
+}

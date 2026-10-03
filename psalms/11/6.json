@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "O neela pula holim'a bahloki — matswike, mollo le gafurite; le ruakh e tukang mafolofolo — karolo ea senoelo sa bona ke eo.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "o neela pula"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bahloki"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "matswike"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "le gafurite"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "le ruakh"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "e tukang mafolofolo"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "ea senoelo sa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:44.362838023Z",
+  "model": "glm-5.3"
+}

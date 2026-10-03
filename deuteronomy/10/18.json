@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "O etsa toka ya hlokwana le mohlolohali, mme o rata moahi ya tswang potjhang, ho mo neha borote le diaparo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "o etsa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "toka"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ya hlokwana"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "le mohlolohali"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "mme o rata"
+    },
+    {
+      "surface": "גר",
+      "gloss": "moahi ya tswang potjhang"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ho neha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "borote"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "le diaparo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:48:32.009915052Z",
+  "model": "glm-5.3"
+}

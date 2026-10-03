@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "O, mobe o makatsang oa molemo oa hao, oo o o patileng bakeng sa ba o ts'abang; oo o o etsileng bakeng sa ba nka phomolo ho wena, mahlong a bana ba motho!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "O, o makatsang"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mobe"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "molemo oa hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "o o patileng"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "bakeng sa ba o ts'abang"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "oo o o etsileng"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "bakeng sa ba nka phomolo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:46.279379573Z",
+  "model": "glm-5.3"
+}

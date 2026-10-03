@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme ⟨את⟩ metheo a e etsa, le ⟨את⟩ dibekе tsa di etsa holimo a metheo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "metheo"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "metheo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a e etsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dibeke"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "dibeke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a di etsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "a metheo"
+    }
+  ],
+  "timestamp": "2026-10-03T12:24:18.528280393Z",
+  "model": "glm-5.3"
+}

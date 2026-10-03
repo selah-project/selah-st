@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "E khomme ho menwana ea hao, e ngole holim'a tafole ea pelo ea hao.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "e khomme"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "menwana ea hao"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "e ngole"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ea hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:07:55.424380129Z",
+  "model": "glm-5.3"
+}

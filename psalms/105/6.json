@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "translation": "Ho leloea la Abrahame, motsheharele wa hae, ho bana ba Yaakobo, ba kgethilweng ba hae.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "ho leloea"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "la Abrahame"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "motsheharele wa hae"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ho bana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ba Yaakobo"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ba kgethilweng ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:52:13.858302091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 111,
+  "translation": "Pholohelo o e rometse ho batho ba hae; selekane sa hae o laetse hore se be kahosafeleng; se halalelang mme se tshabisang ke lebitso la hae.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "pholohelo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o e rometse"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ho batho ba hae"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o laetse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hore se be kahosafeleng"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "selekane sa hae"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "se halalelang"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "mme se tshabisang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:56.211880305Z",
+  "model": "glm-5.3"
+}

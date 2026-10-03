@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 149,
+  "translation": "Ho etsa ipusohloho mahamong a ditjhaba, teko le ho hlakola mahaeng a batho.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "ipusohloho"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mahamong a ditjhaba"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "teko le ho hlakola"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mahaeng"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "a batho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:57.007409232Z",
+  "model": "glm-5.3"
+}

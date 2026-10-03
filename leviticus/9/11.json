@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ⟨את⟩ nama le ⟨את⟩ letlalo o li chesa ka molelo, ka ntle ho setsi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "letlalo"
+    },
+    {
+      "surface": "העור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "o li chesa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molelo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ho setsi"
+    }
+  ],
+  "timestamp": "2026-10-03T06:07:27.467794538Z",
+  "model": "glm-5.3"
+}

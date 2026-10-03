@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "O e behe likotoaneng, o tjekanye ⟨את⟩ liphetena, mme o tsele mafura holim'a eona; minkha ke eena.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "O e behe likotoaneng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "liphthena"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "liphthena"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "o tlelle"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "holim'a eona"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke eena"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:06.314408868Z",
+  "model": "glm-5.3"
+}

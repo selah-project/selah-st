@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 92,
+  "translation": "Ka seletsa sa dikhoe tse leshome, le ka seletsa sa nabele, ka molumo wa seletsa sa kinore.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "seletsa sa dikhoe tse leshome"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "seletsa sa nabele"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "molumo wa"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "seletsa sa kinore"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:42.496768189Z",
+  "model": "glm-5.3"
+}

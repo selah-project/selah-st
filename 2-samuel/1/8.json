@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme a re ho nna: O mang? Mme ke re ho yena: Ke Mmalekeke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "O mang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ke re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Mmalekeke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    }
+  ],
+  "timestamp": "2026-10-03T07:46:50.847713378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme ha ke a batla ho mamela Bileame; o ile a le laka ka ho laka, mme ka le lokolla ⟨את⟩ le seatleng sa hae.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ha... a"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ke a batla"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ho mamela"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileame"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "o ile a laka"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ka ho laka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le",
+      "marks": "le (objeke ya ho laka)"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "ka le lokolla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le",
+      "marks": "le (objeke ya ho lokolloa)"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "seatleng sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:15:51.648666627Z",
+  "model": "glm-5.3"
+}

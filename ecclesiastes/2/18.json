@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme nna ka hloya ⟨את⟩ boima ba mesebetsi ya ka yohle, eo ke neng ke e sebetsa tlasa letsatsi, hobane ke tla e tloela mothong ya tlang ka mora nna.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ka hloya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boima ba mesebetsi ya ka yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "boima ba mesebetsi ya ka"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "eo ke neng ke"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "e sebetsa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlasa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "ke tla e tloela"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "mothong"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ya tlang"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora nna"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:59.291537246Z",
+  "model": "glm-5.3"
+}

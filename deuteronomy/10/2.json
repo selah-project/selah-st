@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ke tla ngola holim'a matlhaku ⟨את⟩ mantswe a neng a holim'a matlhaku a pele ao o a rotseng, mme o behe ka hara arone.",
+  "tokens": [
+    {
+      "surface": "ואכתוב",
+      "gloss": "Mme ke tla ngola"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "matlhaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "היו",
+      "gloss": "a neng a"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "matlhaku"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "a pele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "o a rotseng"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "mme o behe"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "ka hara arone"
+    }
+  ],
+  "timestamp": "2026-10-03T06:49:02.365208592Z",
+  "model": "glm-5.3"
+}

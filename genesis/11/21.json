@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Reu o ile a phela kamora hore a bele ⟨את⟩ Serug dikhoeli tse supileng le tse makgolo a mabedi, mme a beleda bara le barwetsana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a phela"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kamora hore"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "a beleda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tse supileng"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dikhoeli"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "le tse makgolo a mabedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dikhoeli"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a beleda"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "le barwetsana"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:08.769451012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "translation": "O hlohonolofatse, moya oa ka, Yahwe, ⟨את⟩ Yahwe, o se ke wa lebala dikabelo tsa hae kaofela.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "O hlohonolofatse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya oa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "dikabelo tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:13.262422173Z",
+  "model": "glm-5.3"
+}

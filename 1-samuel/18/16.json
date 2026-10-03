@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Yisraele le Yehuda kaofela ba rata ⟨את⟩ Dawide, hobane o ne a tswa a kena pele ho bona.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le Yehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ba rata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pele ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:39:47.130311268Z",
+  "model": "glm-5.3"
+}

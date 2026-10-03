@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Matsatsi a tsheletseng o tla sebetsa, mme o etsa mosebetsi wa hohle wa hao;",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "a tsheletseng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o tla sebetsa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o etsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hohle"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "mosebetsi wa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:51:24.959384689Z",
+  "model": "glm-5.3"
+}

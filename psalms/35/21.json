@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Mme ba ataletsa molomo wa bona kgahlanong le nna, ba re: Heakh, heakh, e ne e le ⟨ha e sa ⟩ihlo ya rona ea e bona.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "mme ba ataletsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "molomo wa bona"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heakh"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heakh"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "e bona"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ihlo ya rona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:54.630285103Z",
+  "model": "glm-5.3"
+}

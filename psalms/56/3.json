@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "translation": "Ba ntshepelang ba ntsepela letsatsi lohle, hobane ba bangata ba lwa le nna, wena wa hodimo.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ba ntsepela"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ba ntshepelang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bangata"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "wena wa hodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:13.604881285Z",
+  "model": "glm-5.3"
+}

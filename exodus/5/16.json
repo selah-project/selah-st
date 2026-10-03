@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Tebene ha e fanwe ho makgoba a hao, mme metjopana ba a re ho rona: Etsang; mme bonang, makgoba a hao a otloa, mme setjhaba sa hao se ile sa sebeta.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "Tebene"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha e"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fanwe"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ho makgoba a hao"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "mme metjopana"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ba a re"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Etsang"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "makgoba a hao"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "a otloa"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "se ile sa sebeta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setjhaba sa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T05:44:27.381951015Z",
+  "model": "glm-5.3"
+}

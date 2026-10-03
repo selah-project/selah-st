@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme ho tsona Moshe le Aharone le bana ba hae ba hlapile ⟨את⟩ matsoho a bona le ⟨את⟩ maoto a bona.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "mme ba hlapile"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsoho a bona"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "matsoho a bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maoto a bona"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "maoto a bona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:03:42.616082528Z",
+  "model": "glm-5.3"
+}

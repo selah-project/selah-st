@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Le ⟨את⟩ matswao a hae, le ⟨את⟩ mesebetsi ya hae, eo a e entseng hareng ya Mitsrayime, ho Faro morena wa Mitsrayime le ho lefatshe la hae lohle;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "matswao a hae"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "matswao a hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mesebetsi ya hae"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mesebetsi ya hae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a e entseng"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hareng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ho Faro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "lefatshe la hae lohle"
+    }
+  ],
+  "timestamp": "2026-10-03T06:49:41.519907380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "O klekile haholo ba ntselang, ho tloha ho 'na; o mpehile e le tlhotlhomorwa ho bona; ke tswaletsoe, mme ke ke ke ea tsoa.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "o klekile haholo"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "ba ntselang"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho tloha ho 'na"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "o mpehile"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "e le tlhotlhomorwa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ke tswaletsoe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme eseng"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ho tsoa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:21.781049848Z",
+  "model": "glm-5.3"
+}

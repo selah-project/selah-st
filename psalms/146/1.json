@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 146,
+  "translation": "Dumelang Yah; mmese ya ka, otla ⟨את⟩ Yahwe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumelang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "otla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mmese ya ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:13:34.898287550Z",
+  "model": "glm-5.3"
+}

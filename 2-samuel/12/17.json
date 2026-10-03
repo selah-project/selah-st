@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme baholo ba ntlo ya hae ba emise, ba tla ho yena, hore ba mo tlase ho tloha lefatsheng; empa ha a rate, mme ha a je ⟨את⟩ lelhome le bona.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ba emise"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ba ntlo ya hae"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "hore ba mo tlase"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "a rate"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "a je"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "lelhome"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lelhome"
+    }
+  ],
+  "timestamp": "2026-10-03T07:51:07.807780736Z",
+  "model": "glm-5.3"
+}

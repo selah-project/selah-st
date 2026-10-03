@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "Se ho hare ha bona ⟨ke⟩ hore malapa a bona a dula ho sa feleng, matlo a bona ho mehla le mehla; ba re mabitso a bona holimo a lefatshe.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "Se ho hare ha bona"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "malapa a bona"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "matlo a bona"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ho mehla"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le mehla"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "mabitso a bona"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "holimo a"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:03.857622477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ba atametse ba leka-lekang morero o mpe; ba kgakala le Torah ya hao.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "ba atametse"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ba leka-lekang"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "morero o mpe"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "le Torah ya hao"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ba kgakala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:58:25.640047743Z",
+  "model": "glm-5.3"
+}

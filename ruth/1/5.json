@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ba ile ba shoele le bona bobedi, Mahlone le Kilyone; mme mosadi a sala, a sena bana ba hae ba babeli le mona wa hae.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "ba ile ba shoele"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bobedi"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlone"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "le Kilyone"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "mme ... a sala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "a sena ... ba babeli"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "le mona wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:37:50.020061567Z",
+  "model": "glm-5.3"
+}

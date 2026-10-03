@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme a e tsamaisa, mme a kena motse, mme khalefo ya hae a bona ⟨את⟩ tseo a di kgobotseng; mme a ntsha, mme a mo neha ⟨את⟩ tseo a di sisitseng ka mora hore a khutle a tletse.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "mme a e tsamaisa"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "mme a kena"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "mme a bona"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "khalefo ya hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tseo a di kgobotseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "a di kgobotseng"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "mme a ntsha"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "mme a neha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tseo a di sisitseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "a di sisitseng"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "ka mora hore a khutle a tletse"
+    }
+  ],
+  "timestamp": "2026-10-03T11:38:34.867290845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 87,
+  "translation": "Mme ba bina le ba bapala dibaneng ba tla re: metsibodi ya ka eohle e ho wena.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Mme ba bina"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "le ba bapala dibaneng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "metsibodi ya ka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:15.446158627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme Boaze a beletse ⟨את⟩ Obede; mme Obede a beletse ⟨את⟩ Yishai.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Mme Boaze"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a beletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obede"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obede"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "mme Obede"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a beletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-10-03T12:09:48.391513828Z",
+  "model": "glm-5.3"
+}

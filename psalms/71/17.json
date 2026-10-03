@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Elohim, o ntsehetse ho tloha bonyaneng ba ka; mme ho fihlela joale ke phatlalatsa ⟨את⟩ diphohelo tsa hao tse makatsang.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "o ntsehetse"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ho tloha bonyaneng ba ka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme ho fihlela"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "joale"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ke phatlalatsa"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "diphohelo tsa hao tse makatsang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:19.958053287Z",
+  "model": "glm-5.3"
+}

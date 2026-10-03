@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Bana ba sebakeng sa sehlekollo ba phelaela, ba tla bonyenyane ba tswa ditsibeng tsa bongata ba bobeli.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana ba"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "sebakeng sa sehlekollo"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ba phelaela"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "ba tla bonyenyane"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "ba tswa ditsibeng tsa bongata ba bobeli"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:39.261589159Z",
+  "model": "glm-5.3"
+}

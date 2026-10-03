@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "Tlotla ho motho ⟨ke⟩ ho khaotsa khang; mme sehlapa seng le seng se tla khangisisa.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "tlotla"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ho motho"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ho khaotsa"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "khang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme seng le seng"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "sehlapa"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "se tla khangisisa"
+    }
+  ],
+  "timestamp": "2026-10-03T11:14:40.141617727Z",
+  "model": "glm-5.3"
+}

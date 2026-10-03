@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Mme mahodimo a phatlalatsa toka ya hae, hobane Elohim ⟨⟨o⟩⟩ moahlodi, Selah.",
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "a phatlalatsa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "toka ya hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "moahlodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨⟨o⟩⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:03.205990743Z",
+  "model": "glm-5.3"
+}

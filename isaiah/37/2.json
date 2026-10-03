@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Mme a romela ⟨את⟩ Elyakime ya ntseng hodima ntlo, le ⟨את⟩ Shebna mongodi, le ⟨את⟩ baholo ba baprista, ba ikahetseng ka boinyo, ho Yeshayahu mora Amotse moporofeta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakime"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Shebna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shebna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "mongodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "baholo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ba baprista"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "ba ikahetseng"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "ka boinyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotse"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeta"
+    }
+  ],
+  "timestamp": "2026-10-03T08:47:55.805787457Z",
+  "model": "glm-5.3"
+}

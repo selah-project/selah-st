@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Mme ba ile ba tsera ⟨את⟩ basadi ba neng ba teng ho yona, ho tloha e nyane ho ya ho e kgolo; ha ba a bolaya motho, mme ba ba isa ba tsamaea tsela ya bona.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ba ile ba tsera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basadi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng ba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "teng ho yona"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "ho tloha e nyane"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ba a bolaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "ba ba isa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba tsamaea"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "tsela ya bona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:45:46.797385345Z",
+  "model": "glm-5.3"
+}

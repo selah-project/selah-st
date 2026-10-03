@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Yahwe a re ho Samuele: Mamela lentswe la sechaba, ho tsohle seo ba tla se bolela ho wena; hobane ha ho wena ba hlajeng, empa ho 'na ba hlajeng, hore ke se busye ho bona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Mamela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba tla se bolela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ba hlajeng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "empa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "'na"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ba hlajeng"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ho busa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:33:20.565713072Z",
+  "model": "glm-5.3"
+}

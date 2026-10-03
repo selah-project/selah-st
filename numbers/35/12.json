@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 35:12",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Mme metse eo e tla ba lepholoseho ho lona ho tloha ho moea-kgotso, mme moea-pholohi a se ke a swa, a sa ka a ema pele ba phutheho, bakeng sa kahlolo.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "metse eo"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "lepholoseho"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "ho tloha ho moea-kgotso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a se ke a"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "swa"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "moea-pholohi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "a sa ka a"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ba phutheho"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "bakeng sa kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-03T06:40:55.373977286Z",
+  "model": "glm-5.3"
+}

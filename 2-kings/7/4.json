@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 7:4",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Haeba re re: Re tla kena torong, bokhohlane bo torong, mme re tla shoa moo; empa haeba re ema hona, re tla shoa. Joale hona joale, tlang, re ipele ka mahaeng a Arame; ha ba re pholosa, re tla phela, empa ha ba re bolaea, re tla shoa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haeba"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "re re"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "Re tla kena"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "torong"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "bokhohlane bo torong"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": ""
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "re tla shoa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "empa haeba"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "re ema"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hona"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "re tla shoa"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Joale hona joale"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "tlang"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "re ipele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "mahaeng"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "a Arame"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יחיונו",
+      "gloss": "ba re pholosa"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "re tla phela"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "ba re bolaea"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "re tla shoa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:19:50.568814920Z",
+  "model": "glm-5.3"
+}

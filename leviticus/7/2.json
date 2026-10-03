@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Sebakeng seo ba bolaelang ⟨את⟩ sehlabelo sa tjheso moo ba tla bolaela ⟨את⟩ sehlabelo sa ashame; mme ⟨את⟩ madiwa o tla dihelisa holim'a altarre, ho potoloha.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ba bolaelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa tjheso"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sehlabelo sa tjheso"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ba tla bolaela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa ashame"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "sehlabelo sa ashame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "madiwa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madiwa"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "o tla dihelisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarre"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    }
+  ],
+  "timestamp": "2026-10-03T06:06:01.426208641Z",
+  "model": "glm-5.3"
+}

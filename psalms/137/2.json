@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 137,
+  "translation": "Ho diphahlo tse ka hare ho tsona re ile ra kgama dinthoro tsa rona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "diphahlo"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "tse ka hare ho tsona"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ra kgama"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "dinthoro tsa rona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:11.751216121Z",
+  "model": "glm-5.3"
+}

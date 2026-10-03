@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Di be pel'a Yahwe ka mehla; mme a di timetse tlhokomelo ya tsona lefatsheng.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Di be"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pel'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "mme a di timetse"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "tlhokomelo ya tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:48.435063584Z",
+  "model": "glm-5.3"
+}

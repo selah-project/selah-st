@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "translation": "Kgalalelo ya borena ba hao ba tla e bolela, mme matla a hao a a hlollang ba tla a bua ka wona.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Kgalalelo"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "borena ba hao"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba tla e bolela"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "mme matla a hao"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba tla bua"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:18.766422607Z",
+  "model": "glm-5.3"
+}

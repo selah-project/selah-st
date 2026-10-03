@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "translation": "Ka letsatsing leo ke tsubang, ke tla ikhohomosa ho wena.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ka letsatsing leo"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ke tsubang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ke tla ikhohomosa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:13.604993809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ha ho tla ba le ya jeleng le ya se nang bana lefatsheng la hao; ⟨את⟩ palo ya matsatsi a hao ke tla e phetha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tla ba le"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "ya jeleng"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "le ya se nang bana"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "lefatsheng la hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palo ya matsatsi a hao"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ya matsatsi a hao"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "ke tla e phetha"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:10.324915471Z",
+  "model": "glm-5.3"
+}

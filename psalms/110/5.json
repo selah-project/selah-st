@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 110,
+  "translation": "Adonai ⟨o⟩ le ka letsohong la hao le letona; o betsa marena ka letsatsi la tshwenyo ya hae.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letsohong la hao le letona"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "o betsa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "tshwenyo ya hae"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "marena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:30.948163386Z",
+  "model": "glm-5.3"
+}

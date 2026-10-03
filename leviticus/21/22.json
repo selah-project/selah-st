@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Borotho ba Elohim hae, ba dintho tse holimo tse halalelang, le tsa dintho tse halalelang, o ka ja.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "borotho"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ba Elohim hae"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ba dintho tse holimo tse halalelang"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tse halalelang"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le tsa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "dintho tse halalelang"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "o ka ja"
+    }
+  ],
+  "timestamp": "2026-10-03T06:14:47.168982121Z",
+  "model": "glm-5.3"
+}

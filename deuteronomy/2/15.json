@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme hape letsoho la Yahwe le ile la ba oela, ho ba timetsa ho tloha ka hare ho kampu, ho fihlela ba timela kaofela.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "hape"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e ile e ba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "ho ba timetsa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ho tloha ka hare ho"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ba timela kaofela"
+    }
+  ],
+  "timestamp": "2026-10-03T12:49:23.997069201Z",
+  "model": "glm-5.3"
+}

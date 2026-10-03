@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Na motho o tla etsela yena melimo, e le hore eona e se melimo?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Na o tla etsela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "e le hore eona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "melimo"
+    }
+  ],
+  "timestamp": "2026-10-03T09:08:22.240615095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Hase ⟨את⟩ bo-ntate rona Yahwe a ileng a ra selectikanya ⟨את⟩ selekane sena, empa ⟨את⟩ le rona — rona, mo, kajeno, rona kaofela re phela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Hase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bo-ntate rona"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bo-ntate rona"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a ra selectikanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sena"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "empa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "le rona ⟨את⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mo (bana)"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "rona kaofela"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "re phela"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:32.912539337Z",
+  "model": "glm-5.3"
+}

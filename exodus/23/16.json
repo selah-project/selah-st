@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Le mokhatlo wa Kgetho, dikoloi tsa pele tsa mesebetsi wa hao eo o jalang thabaneng; le mokhatlo wa Ho kokoana, ha selemo se a tsoa, ha o kokoa ⟨את⟩ mesebetsi wa hao thabaneng.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "le mokhatlo wa"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "Kgetho"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "dikoloi tsa pele"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mesebetsi wa hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "o jalang"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "thabaneng"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "le mokhatlo wa"
+    },
+    {
+      "surface": "האסיף",
+      "gloss": "Ho kokoana"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "ha selemo se a tsoa"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "ha o kokoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesebetsi wa hao"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mesebetsi wa hao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "thabaneng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:58.478872090Z",
+  "model": "glm-5.3"
+}

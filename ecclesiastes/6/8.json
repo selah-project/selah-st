@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Hobane ke eng ho feta ho hlalefi ho feta lesesi? Ke eng motsuweng ya tsebang ho tsamaya pele ba phelang?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ho hlalefi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "lesesi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "motsuweng"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ya tsebang"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ho tsamaya"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ba phelang"
+    }
+  ],
+  "timestamp": "2026-10-03T11:44:36.760855328Z",
+  "model": "glm-5.3"
+}

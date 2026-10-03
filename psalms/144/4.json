@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 144,
+  "translation": "Motho o tshwana le habelo; matsatsi a ka joalo ka moriti o fetileng.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Motho"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "le habelo"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "o tshwana"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "matsatsi a ka"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "joalo ka moriti"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "o fetileng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:06.947089258Z",
+  "model": "glm-5.3"
+}

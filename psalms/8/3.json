@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Ho tsoa molomong oa bana ba batle le ba konyesang, u thehile matla, bakeng sa ba hlahlagetseng hau, ho ntsa sitisa ⟨את⟩ moea le ⟨את⟩ moea-mokoka.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Ho tsoa molomong oa"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "bana ba batle"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "le ba konyesang"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "u thehile"
+    },
+    {
+      "surface": "עז",
+      "gloss": "matla"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "ba hlahlagetseng hau"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "ho ntsa sitisa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "moea"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "le moea-mokoka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:35.035865504Z",
+  "model": "glm-5.3"
+}

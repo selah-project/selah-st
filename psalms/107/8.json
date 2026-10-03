@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "A ba fane ka liteboho ho Yahwe ka hesede ha hae, le ka makatsang a hae ho bana ba batho.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "a ba fane ka liteboho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ka hesede ha hae"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "le ka makatsang a hae"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba batho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:16.355660692Z",
+  "model": "glm-5.3"
+}

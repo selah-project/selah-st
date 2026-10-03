@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "mme ke a lokolla ⟨את⟩ lona ka letsoho la Mitsrayime, le ka letsoho la bohle ba le, mme ke a ba tlisa ka pelo pele ho lona, mme ke a le fa ⟨את⟩ lefatshe la bona.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "mme ke a lokolla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ka letsoho la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "le ka letsoho la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "ba le"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "mme ke a ba tlisa ka pelo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pele ho lona"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mme ke a fa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la bona"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lefatshe la bona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:19:48.729641709Z",
+  "model": "glm-5.3"
+}

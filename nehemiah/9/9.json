@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme o ile wa bona ⟨את⟩ kahlolohong ya bo-ntata rona ho Mitsrayime, mme ⟨את⟩ lieletso ya bona o ile wa e utloa pele ho lewatle la Suf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "mme o ile wa bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahlolohong"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kahlolohong"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bo-ntata rona"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ho Mitsrayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "lieletso ya bona"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "lieletso ya bona"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "o ile wa utloa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pela"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "la Suf"
+    }
+  ],
+  "timestamp": "2026-10-03T12:06:03.667423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Hobane bonang, Adonai, Yahwe Tsebaote, a tlosa ho Yerushalayime le ho Yahuda tshehetso le tshehetso, tshehetso yohle ya borotho, le tshehetso yohle ya metsi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "a tlosa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ho Yerushalayime"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "le ho Yahuda"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tshehetso"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "le tshehetso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tshehetso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ya borotho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le yohle"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tshehetso"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ya metsi"
+    }
+  ],
+  "timestamp": "2026-10-03T13:00:49.544785799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Boima joa Bavele, eo Yeshaiahu mora Amotse a e boneng.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "boima joa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "a e boneng"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotse"
+    }
+  ],
+  "timestamp": "2026-10-03T08:36:59.091803470Z",
+  "model": "glm-5.3"
+}

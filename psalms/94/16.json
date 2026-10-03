@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Ke mang ya tla emela ka tlhahlobo le ba boshula? Ke mang ya tla itlammelela ka le batsamaisi ba boše?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ya tla emela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ba boshula"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ya tla itlammelela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "batsamaisi ba"
+    },
+    {
+      "surface": "און",
+      "gloss": "boše"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:32.234953701Z",
+  "model": "glm-5.3"
+}

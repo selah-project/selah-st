@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 121,
+  "translation": "A se ke a lumella leoatla la hao le tsamae; a se ke a borotha ea ho boloka hao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a se ke a"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a lumelle"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "le tsamae (ho theoha)"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "leoatla la hao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke a"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "a borotha"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ea ho boloka hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:27.432549610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme a apara ⟨את⟩ ntlo ka majwe a tlwaelehileng haholo bakeng sa bokgabane, mme gauta e ne e le gauta ya Parvayime.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "mme a apara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "majwe"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "a tlwaelehileng haholo"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "bakeng sa bokgabane"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "mme gauta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "ya Parvayime"
+    }
+  ],
+  "timestamp": "2026-10-03T12:23:45.687351920Z",
+  "model": "glm-5.3"
+}

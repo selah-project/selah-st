@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "A bohlale ha bo bitla, mme kutloisiso ha e fana ka lentswe la yona?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A ... ha"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "bo bitla"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "mme kutloisiso"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "e fana"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ka lentswe la yona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:07:51.612453440Z",
+  "model": "glm-5.3"
+}

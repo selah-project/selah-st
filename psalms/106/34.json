@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Ha ba senye ⟨את⟩ ditjhaba tseo Yahwe a ileng a di bolelela",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ba senye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditjhaba"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a ileng a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a di bolelela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:05.132573287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme ka mora moo bana bohle ba Yisraele ba atamela; a ba laela ka ⟨את⟩ tsohle tseo Yahwe a neng a buile ⟨אתו⟩ le ena thabeng ya Sinae.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "mme ka mora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "moo"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "ba atamela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "a ba laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsohle tseo Yahwe a buileng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ le ena"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ya Sinae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:59:58.806356762Z",
+  "model": "glm-5.3"
+}

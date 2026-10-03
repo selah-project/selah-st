@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 130,
+  "translation": "Ke letetse Yahwe, e letetse moea oa ka, mme ho lentsoe la Hae ke tshepile.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "Ke letetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "e letetse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moea oa ka"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "mme ho lentsoe la Hae"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ke tshepile"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:27.168129897Z",
+  "model": "glm-5.3"
+}

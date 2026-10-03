@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "E be ke ha ditsela tsa ka di phethehile ho boloka melao ya hao!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "e be ke"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "di phethehile"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tsa ka"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ho boloka"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:38.903809770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme Dina, moradi wa Lea, ya Lea a mo tswetsitseng ho Yaakobo, a ile a tswa hore a bone baradi ba lefatshe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "a ile a tswa"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a mo tswetsitseng"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ho Yaakobo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hore a bone"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "baradi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ba lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:35:37.216367983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Elohim o ile a utloa mme a halefa, mme a nyatsa haholo Yisraele.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "o ile a utloa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "mme a halefa"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "mme a nyatsa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:45:05.936883407Z",
+  "model": "glm-5.3"
+}

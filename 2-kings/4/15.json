@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme a re: Mo bitle. Mme a mo bitla, mme a ema lemantšeng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Mo bitle"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Mme a mo bitla"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "mme a ema"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "lemantšeng"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:51.702873778Z",
+  "model": "glm-5.3"
+}

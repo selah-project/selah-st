@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Hobane o tla beha mokokotlo ⟨wa bona⟩; ka thlara tsa hau tsa motjheso o tla lokisa ⟨…⟩ mahare a sefahleho sa bona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "o tla beha"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "mokokotlo"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "ka thlara tsa hau tsa motjheso"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "o tla lokisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahare a"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "sefahleho sa bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:11.793381498Z",
+  "model": "glm-5.3"
+}

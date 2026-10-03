@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ho moetapele, ho ya ka Ayelete ha-Shakhare. Pina ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moetapele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ya ka"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayelete"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ha-Shakhare"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:23.258878542Z",
+  "model": "glm-5.3"
+}

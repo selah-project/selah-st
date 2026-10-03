@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 94,
+  "translation": "Ohile thabo monna ya mo odisang, Yah, le ya mo rutang ka Toraya ya hao!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ohile thabo"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "mo odisang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "le ka Toraya ya hao"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "ya mo rutang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:10.559795472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme karolo ya hae ya dijo, karolo ya kamehla, e ne e mo ekelwa ho tswa ho ⟨את⟩ morena, sebopeho sa letsatsi ka letsatsi la sona, matsatsi ohle a bophelo ba hae.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "mme karolo ya hae ya dijo"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ya kamehla"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "e ne e ekelwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho tswa ho ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sebopeho"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sa letsatsi"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ka letsatsi la sona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "a bophelo ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:29:54.078232788Z",
+  "model": "glm-5.3"
+}

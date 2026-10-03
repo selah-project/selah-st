@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Ba tla hlahisoa ka thabo le boithabiso; ba tla kena tempoleng ya morena.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "ba tla hlahisoa"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ka thabo"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "le boithabiso"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "ba tla kena"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "tempoleng ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:31.478630036Z",
+  "model": "glm-5.3"
+}

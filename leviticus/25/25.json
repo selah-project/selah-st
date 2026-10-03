@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Ha motsoalle wa hao a felloa ke tlhokahalo, mme a rekisa karolo ya tšoasong ya hae, mme mokoloi wa hae, ya haufi le ena, a tla, mme a lokolla ⟨את⟩ se rekiloeng ke motsoalle wa hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "a felloa ke tlhokahalo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "motsoalle wa hao"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "mme a rekisa"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "karolo ya tšoasong ya hae"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mme a tla"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "mokoloi wa hae"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ya haufi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "le ena"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "mme a lokolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se rekiloeng"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "se rekiloeng"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "motsoalle wa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:18:06.708256115Z",
+  "model": "glm-5.3"
+}

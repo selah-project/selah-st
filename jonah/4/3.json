@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Mme jwale, Yahwe, nka ⟨את⟩ moea oa ka ho tswa ho ’na, hobane lefu la ka le molemo ho bophelo ba ka.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jwale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "nka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moea oa ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moea oa ka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho tswa ho ’na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e molemo"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "lefu la ka"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "ho bophelo ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:09:15.605329066Z",
+  "model": "glm-5.3"
+}

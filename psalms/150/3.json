@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 150,
+  "translation": "Halalelang yena ka modumo wa shofare, halalelang yena ka nebel le kinore.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Halalelang yena"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "ka modumo wa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofare"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "halalelang yena"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ka nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "le kinore"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:53.462499133Z",
+  "model": "glm-5.3"
+}

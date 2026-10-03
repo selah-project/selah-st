@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme Saule a bitsa ⟨את⟩ setjhaba sohle ho ya ntwaneng, ho theoha Qeile, ho dikela Dawide le banna ba hae.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba sohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ho ya ntwaneng"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ho theoha"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeile"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ho dikela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "banna ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:42:12.237595560Z",
+  "model": "glm-5.3"
+}

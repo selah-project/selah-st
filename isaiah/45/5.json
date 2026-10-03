@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Ke nna Yahwe, mme ha ho ⟨⟨e mong⟩⟩; ntle le nna ha ho Elohim; ke tla go ikentiša, empa o ne o sa tsebe nna.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho ⟨⟨e mong⟩⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨e mong⟩"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ntle le nna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ke tla go ikentiša"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa ... sa"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "o ne o sa tsebe nna"
+    }
+  ],
+  "timestamp": "2026-10-03T08:52:25.435526521Z",
+  "model": "glm-5.3"
+}

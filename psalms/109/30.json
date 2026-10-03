@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 109,
+  "translation": "Ke tla rorisa Yahwe haholo ka molomo wa ka, mme pakati tsa ba bangata ke tla mo rorisa.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ke tla rorisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ka molomo wa ka"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "mme pakati tsa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bangata"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ke tla mo rorisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:47.237132942Z",
+  "model": "glm-5.3"
+}

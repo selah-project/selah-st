@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme Noa a tswa, le barutaonyana ba hae, le mosali wa hae, le basali ba barutaonyana ba hae, ⟨את⟩ le ena.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "mme a tswa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le barutaonyana ba hae"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "le mosali wa hae"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "le basali ba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "barutaonyana ba hae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:21:50.289263400Z",
+  "model": "glm-5.3"
+}

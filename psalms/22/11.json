@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ho wena ke ile ka hlaoletsoa ho tloha mpa; ho tloha letharong la mmae, u Eloha wa ka.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Ho wena"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ke ile ka hlaoletsoa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ho tloha mpa"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ho tloha letharong"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "la mmae"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eloha wa ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:14.070826506Z",
+  "model": "glm-5.3"
+}

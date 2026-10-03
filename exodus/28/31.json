@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Mme o tla etsa ⟨את⟩ kobo ya efode, e tletseng tekhelete ho eona ka ho feletseng.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mme o tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobo ya efode"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "kobo"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ya efode"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "e tletseng ka ho feletseng"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelete"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:20.946729037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Moshe a re ho Elohim: Ke mang ka, hore ke tle ke ye ho Paraoh, mme hore ke tlose ⟨את⟩ bana ba Yisraele ho tloha Mitsrayime?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mme hore"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "ke tlose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho tloha Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:43:50.416817478Z",
+  "model": "glm-5.3"
+}

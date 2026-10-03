@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme ha a na bana ba heso, le tla fana ka ⟨את⟩ bojalo ba hae ho bana ba heso ba ntatae.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha a na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hae"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bana ba heso"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "le tla fana ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojalo ba hae"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "bojalo ba hae"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ho bana ba heso ba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntatae"
+    }
+  ],
+  "timestamp": "2026-10-03T06:36:53.958640073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme Moshe a romolla ⟨את⟩ moholo wa ka lapeng, mme a tsamaea a ya lefatsheng la hae.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mme a romolla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moholo wa ka lapeng"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "moholo wa ka lapeng"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mme a tsamaea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "lefatsheng la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:41.869399668Z",
+  "model": "glm-5.3"
+}

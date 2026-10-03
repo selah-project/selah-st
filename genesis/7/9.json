@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ba babeli ba babeli ba ile ba fihla ho Noahe, ho ⟨את⟩ teke, ya tona le ya tswhana, jwalo ka ha Elohim a laetse ⟨את⟩ Noahe.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ba babeli"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ba babeli"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba ile ba fihla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "teke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ya tona"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "le ya tswhana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noahe"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:41.752458585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "E re ho ya lokileng hore e tla ba molemo, hobane sefala sa diketso tsa hae o tla ja.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "E re"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ho ya lokileng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e tla ba molemo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "sefala"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "sa diketso tsa hae"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "o tla ja"
+    }
+  ],
+  "timestamp": "2026-10-03T08:31:39.873878197Z",
+  "model": "glm-5.3"
+}

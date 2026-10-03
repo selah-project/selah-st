@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "mme ⟨את⟩ Esawe ke mo hloile, mme ke beha ⟨את⟩ thaba tsa hae e le tšohanyetso, le ⟨את⟩ bo-jwalo-hae e le noka-noko ea lehlakeng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "Esawe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke mo hloile"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "mme ke beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba tsa hae"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "thaba tsa hae"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "e le tšohanyetso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bo-jwalo-hae"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "bo-jwalo-hae"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "e le noka-noko ea"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "lehlakeng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:20:40.458587415Z",
+  "model": "glm-5.3"
+}

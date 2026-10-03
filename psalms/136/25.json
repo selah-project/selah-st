@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "O fana ka leborotho le ho namaohle, hobane hesede ya hae ya ho phela ka ho sa feleng.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "o fana ka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leborotho"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "namaohle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka ho sa feleng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:41.588754910Z",
+  "model": "glm-5.3"
+}

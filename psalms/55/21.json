@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "O ile a romela matsoho a hae khahlanong le ba khotsofetseng le eena, o ile a hloekisa hore e be mollo selekaneng sa hae.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "matsoho a hae"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "khahlanong le ba khotsofetseng le eena"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "a hloekisa hore e be mollo"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "selekane sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:37:42.756077129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Shete a phela dilemo tse hlano le lekgolo, mme a bealla ⟨את⟩ Enoshe.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a phela"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shete"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "le lekgolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mme a bealla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoshe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshe"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:08.100065326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 130,
+  "translation": "Adonai, mamela ⟨⟨lentswe⟩⟩ la ka; ditsebe tsa hao di be tsa hlokomela lentswe la dikopa tsa ka.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "mamela"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "lentswe la ka"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "di be"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ditsebe tsa hao"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "tsa hlokomela"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "dikopa tsa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:26.958744492Z",
+  "model": "glm-5.3"
+}

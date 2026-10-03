@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Ya etelang sehlabelo sa thabo o nkgahlisa; mme ya lokisang tsela ea hae, ke tla mo bontsha tolokelo ea Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Ya etelang sehlabelo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "sa thabo"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "o nkgahlisa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme ya lokisang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ke tla mo bontsha"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "tolokelo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:52.945251296Z",
+  "model": "glm-5.3"
+}

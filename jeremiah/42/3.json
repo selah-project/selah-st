@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 42,
+  "translation": "A re bolelle Yahwe Elohim oa hau ⟨את⟩ tsela eo re tla e tsamaya, le ⟨את⟩ lentsoe leo re tla le etsa.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "A re bolelle"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim oa hau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "re tla e tsamaya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lentsoe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re tla le etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T13:05:15.511548835Z",
+  "model": "glm-5.3"
+}

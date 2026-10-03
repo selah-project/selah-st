@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 148,
+  "translation": "Rorisang ⟨את⟩ hae, mahodimo a mahodimo, le metsi ea Hodimo.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Rorisang ⟨את⟩ hae"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mahodimo a"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "le metsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ea"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "Hodimo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ea Hodimo"
+    }
+  ],
+  "timestamp": "2026-10-03T11:04:36.442092601Z",
+  "model": "glm-5.3"
+}

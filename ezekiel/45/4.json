@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 45:4",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 45,
+  "translation": "Karolo e halalelang ya lefatshe, e tla ba ya baprista, ba sebeletsang ha tempole, ba tlang kapa go etela ho sebeletsa ⟨את⟩ Yahwe; mme e tla ba lefelo bakeng sa malapa a bona, le lefelo le halalelang bakeng sa tempole.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "karolo e halalelang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ya baprista"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "ba sebeletsang"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ha tempole"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go tla ba"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "ba tlang kapa"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "go etela ho sebeletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bakeng sa bona"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "bakeng sa malapa"
+    },
+    {
+      "surface": "ומקדש",
+      "gloss": "le lefelo le halalelang"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "bakeng sa tempole"
+    }
+  ],
+  "timestamp": "2026-10-03T09:57:54.218128256Z",
+  "model": "glm-5.3"
+}

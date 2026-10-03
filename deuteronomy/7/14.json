@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "O tla ba ya hlohlelletsweng ho feta ditjhaba tsohle; ha ho tla ba ya sa tswalang — motho kapa mosadi — ho wena, kapa ho phoofolo tsa hao.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ya hlohlelletsweng"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditjhaba tsohle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tla ba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "ya sa tswalang"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "mosadi ya sa tswalang"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "kapa ho phoofolo tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T12:50:08.280511438Z",
+  "model": "glm-5.3"
+}

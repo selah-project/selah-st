@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme ba-Sheba ba ile ba thula, ba li tsera, mme ⟨את⟩ bakgethana ba ile ba bola ka molomo oa sefo; mme ke 'na feela, oa hlola, ea mpholohileng, ho tla ho u bolella.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "ba ile ba thula"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ba-Sheba"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "ba li tsera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bakgethana"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "bakgethana"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ba bola"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo oa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sefo"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "ea mpholohileng"
+    },
+    {
+      "surface": "רק",
+      "gloss": "feelа oa hlola"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke 'na"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "oa hlola"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ho bolella"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho u"
+    }
+  ],
+  "timestamp": "2026-10-03T11:19:10.445353057Z",
+  "model": "glm-5.3"
+}

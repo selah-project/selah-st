@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "translation": "Ba etsa kgonyana ho Khorebe, mme ba inamisetsa setshwantsho sa tshipi e arobilweng.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kgonyana"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ho Khorebe"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "mme ba inamisetsa"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "setshwantsho sa tshipi e arobilweng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:08.885445190Z",
+  "model": "glm-5.3"
+}

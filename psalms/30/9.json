@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Ho wena, Yahwe, ke bitsa; mme ho Adonai ke kopa mohau.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke bitsa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ke kopa mohau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:34.464242708Z",
+  "model": "glm-5.3"
+}

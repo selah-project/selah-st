@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Bonang, seatla sa Yahwe se sa khutlwa, se ke ke sa pholosa, mme tsebe ya hae e sa boima, e ke ke ya utloa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "e sa khutlwa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "ho pholosa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "e sa boima"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "tsebe ya hae"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "ho utloa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:57:12.601326631Z",
+  "model": "glm-5.3"
+}

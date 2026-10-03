@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme Absalome le setjhaba sohle, banna ba Yisraele, ba fihla Yerushalayime; mme Akitofele ena le eena ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Mme Absalome"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "mme Akitofele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ena le eena",
+      "marks": "ena le eena (Akitofele)"
+    }
+  ],
+  "timestamp": "2026-10-03T12:55:33.588840578Z",
+  "model": "glm-5.3"
+}

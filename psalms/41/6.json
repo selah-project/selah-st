@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Dira tsa ka di re bobe ka nna, di re: O tla shwa neng, mme lebitso la hae le tla nyelela?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Dira tsa ka"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "di re"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "neng"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o tla shwa"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "le tla nyelela"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:34:10.248467319Z",
+  "model": "glm-5.3"
+}

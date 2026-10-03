@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Elohim, se ba hole ho ka; Elohim ya ka, o phalle ho mphe thuso.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ba hole"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho ka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ho mphe thuso"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "o phalle"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:33.096166837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Ba dula mongolong ba bua ka nna; mme dikoetso — ba noang sekhoba.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mongolong"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "mme dikoetso"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "ba noang"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sekhoba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:17.028137472Z",
+  "model": "glm-5.3"
+}

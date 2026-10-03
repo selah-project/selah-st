@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Ditsela tsa hae di dula di matla nako eohle; dikahlolo tsa hao di hodimo, ka hole le eena; ba mo hanyetsang bohle o ba heletsa.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "di dula di matla"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ditsela tsa hae"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "עת",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ka hodimo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikahlolo tsa hao"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "ka hole le eena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "ba mo hanyetsang"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "o ba heletsa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho bona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:25:35.413563446Z",
+  "model": "glm-5.3"
+}

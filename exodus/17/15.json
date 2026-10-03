@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Moshe a aha altare, mme a bitsa lebitso la lona: Yahwe Nisi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Mme ... a aha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mme a bitsa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la lona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi"
+    }
+  ],
+  "timestamp": "2026-10-03T05:50:33.040438918Z",
+  "model": "glm-5.3"
+}

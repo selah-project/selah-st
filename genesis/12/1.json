@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme Yahwe a re ho Abrame: Tswa, ho ya ho wena, ho tloha naheng ya hao, le ho tloha beng ba hao, le ho tloha ntlong ya ntata hao, ho ya ho ⟨e⟩ naha eo ke tla e bontsha ho wena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrame"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tswa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "ho tloha naheng ya hao"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "le ho tloha beng ba hao"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "le ho tloha ntlong"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya ntata hao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "naha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ke tla e bontsha ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:26.769278110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Mme le tla boloka ⟨את⟩ ditafo tsa ka le ⟨את⟩ dikahlolo tsa ka, tseo motho a di etsang a phele ho tsona; ke nna Yahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mme le tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditafo tsa ka"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ditafo tsa ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikahlolo tsa ka"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo tsa ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a di etsang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "mme a phele"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:12:17.506011264Z",
+  "model": "glm-5.3"
+}

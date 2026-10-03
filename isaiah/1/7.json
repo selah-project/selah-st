@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Naha ya lona e senyehile, metse ya lona e chilwe ka mollo; lefatshe la lona, pele ho lona bafaladi ba le ja, mme ⟨את⟩ e le tsholoha jwalo ka tshenyo ea bafaladi.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "Naha ya lona"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "e senyehile"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "metse ya lona"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "e chilwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "lefatshe la lona"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "pele ho lona"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bafaladi"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ba le ja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e le tsholoha (וּשְׁמָמָה)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "e le tsholoha"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "jwalo ka tshenyo ya"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bafaladi"
+    }
+  ],
+  "timestamp": "2026-10-03T08:31:45.827672807Z",
+  "model": "glm-5.3"
+}

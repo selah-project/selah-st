@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Ke tla phatlalatsa lebitso la hau ho baena ba ka; ka hare ho setjhaba ke tla u rorisa.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ke tla phatlalatsa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hau"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ho baena ba ka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ke tla u rorisa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:31.573762600Z",
+  "model": "glm-5.3"
+}

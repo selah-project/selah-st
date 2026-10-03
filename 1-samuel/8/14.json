@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme ⟨את⟩ masimo a lona, le ⟨את⟩ merara ya lona, le melinana ya ditlhware ya lona e ntle, o tla e nka, a e fa balebeli ba hae.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masimo a lona"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "masimo a lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "merara ya lona"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "merara ya lona"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "melinana ya ditlhware ya lona"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "e ntle"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tla e nka"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a e fa"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "balebeli ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:38.932699653Z",
+  "model": "glm-5.3"
+}

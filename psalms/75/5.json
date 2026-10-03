@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 75,
+  "translation": "Ke ile ka re ho ba ikhohomosang: Le se ke la ikhohomosa; le ho babela: Le se ke la phahamisa lekoko.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ke ile ka re"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "ho ba ikhohomosang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "ikhohomosa"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "le ho babela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "phahamisa"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "lekoko"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:39.794197556Z",
+  "model": "glm-5.3"
+}

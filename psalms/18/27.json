@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Le ya hloekileng o hloekisa; mme le ya qhekellang o ikokota.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "ya hloekileng"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "o hloekisa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ya qhekellang"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "o ikokota"
+    }
+  ],
+  "timestamp": "2026-10-03T10:26:49.198566641Z",
+  "model": "glm-5.3"
+}

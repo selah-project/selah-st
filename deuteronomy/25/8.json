@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 25:8",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme baholo ba motse oa hae ba tla mo bitsa, ba bua le eena; ha a ema, a re: Nka sa rate ho mo nka.",
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "ba tla mo bitsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ba motse oa hae"
+    },
+    {
+      "surface": "ודברו",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ha a ema"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "rate"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "ho mo nka"
+    }
+  ],
+  "timestamp": "2026-10-03T06:58:17.287842938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "le dikarolo tsa dikholumo tse tsenehileng ka mokhuba o moholo, le dikarolo tsa likholumo tsa bacha, le lifate tsa sefate sa akatsia;",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "le dikarolo tsa"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "dikholumo"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "tse tsenehileng ka mokhuba o moholo"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "le dikarolo tsa"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "taḥash, sela se sa tsejwang hantle"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "le lifate tsa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sefate sa shittim (akatsia)"
+    }
+  ],
+  "timestamp": "2026-10-03T05:54:41.113519634Z",
+  "model": "glm-5.3"
+}

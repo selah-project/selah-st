@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme Dawide a nka ⟨את⟩ mmodero wa Tsione; ke yona toropo ya Dawide.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmodero wa Tsione"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "mmodero"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke yona"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T07:49:43.074454670Z",
+  "model": "glm-5.3"
+}

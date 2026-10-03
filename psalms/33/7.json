@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "O phutha jwalo ka moroto metsi a lewatle, a beha majwtho ka ditorong tsa hae.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "O phutha"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "jwalo ka moroto"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a behe"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "ka ditorong"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "majwtho"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:04.253902036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 104,
+  "translation": "O beha sefifi, mme eba bosiu; ka hare ho bona diphoofolo tsohle tsa lehlakeng di sisinyeha.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "o beha"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sefifi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme eba"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka hare ho bona"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "di sisinyeha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "diphoofolo"
+    },
+    {
+      "surface": "יער",
+      "gloss": "tsa lehlakeng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:51:55.327827491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 70,
+  "translation": "A tlalehoe le a tsepehe ba batlang ⟨את⟩ moya wa ka; a kgutlele morao le a sotsoe ba thabelang kotsi ya ka.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "A tlalehoe"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "le a tsepehe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ba batlang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨את⟩ moya wa ka"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "a kgutlele"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morao"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "le a sotsoe"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ba thabelang"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kotsi ya ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:34.735549471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 79,
+  "translation": "Hobane ⟨ba⟩ ile ba ja ⟨את⟩ Yaakobo, mme ⟨את⟩ boahelo ba hae ba ba senya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakobo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "boahelo ba hae"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "boahelo ba hae"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ba senya"
+    }
+  ],
+  "timestamp": "2026-10-03T10:46:42.586901991Z",
+  "model": "glm-5.3"
+}

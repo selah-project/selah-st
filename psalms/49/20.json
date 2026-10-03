@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "translation": "O tla fihlela pakong ya bo-ntate ba hae, ho fihlela ho sa feleng; ba ke ke ba bona leseli.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "o tla fihlela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fihlela"
+    },
+    {
+      "surface": "דור",
+      "gloss": "pakong"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ya bo-ntate ba hae"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ho sa feleng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ba ke ke"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "leseli"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:07.599646294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Ha ke sheba mahodimo a hau, mesebetsi ea menwana ya hau, ngwedi le dinaledi tseo u li thehileng;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ke sheba"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "mahodimo a hau"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mesebetsi ea"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "menwana ya hau"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ngwedi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "le dinaledi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "u li thehileng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:23:35.035994790Z",
+  "model": "glm-5.3"
+}

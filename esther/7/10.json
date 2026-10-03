@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ba tlhola ⟨את⟩ Hamane hodima sefate seo a se hlokometse bakeng sa Mordekai; mme bogale ba morena bo ile ba phomola.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "ba tlhola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamane"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a se hlokometse"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "bakeng sa Mordekai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "mme bogale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ba morena"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "bo ile ba phomola"
+    }
+  ],
+  "timestamp": "2026-10-03T11:48:16.846046744Z",
+  "model": "glm-5.3"
+}

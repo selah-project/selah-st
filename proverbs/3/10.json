@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme matlolo a hao a tletswe ho feta, mme maphefo a hao a new wine a phatleha ka ho tlla.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "Mme ... a tletswe"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "matlolo a hao"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "mme new wine"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "maphefo a hao"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "a phatleha ka ho tlla"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:23.422469174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Dibe tsa bosana ba ka le ditloloho tsa ka, o di hlakele hore; ka hesede ya hao hlakela `nna`, o, bakeng sa botle ba hao, Yahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "bosana ba ka"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "le ditloloho tsa ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "hlakela"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ka hesede ya hao"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hlakela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "botle ba hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:29:35.986813038Z",
+  "model": "glm-5.3"
+}

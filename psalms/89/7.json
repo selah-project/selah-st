@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "translation": "Hobane ke mang wa hodima mahodimo a ka bapishwa le Yahwe? Ke mang ya ka tshwana le Yahwe hara bana ba El?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "wa hodima mahodimo"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "a ka bapishwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "le Yahwe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "ya ka tshwana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "le Yahwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "hara bana ba"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:27.545981487Z",
+  "model": "glm-5.3"
+}

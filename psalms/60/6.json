@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 60,
+  "translation": "O fane ba tsabang hore ebe ⟨e⟩ ba le letshwao, ho phahamisoa ka baka la 'nete. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "o fane"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ba tsabang hao"
+    },
+    {
+      "surface": "נס",
+      "gloss": "letshwao"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "ho phahamisoa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "'nete"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:40.111810964Z",
+  "model": "glm-5.3"
+}

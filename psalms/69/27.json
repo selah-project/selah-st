@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Hobane ya o hlabileng, ba mo tlodisa; mme ba bolela bohloko ba ba neng ba hlabiloa ke wena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "o hlabile"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ba mo tlodisa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme holim'a"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "bohloko"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "ba ba neng ba hlabiloa ke wena"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ba bolela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:33.748412568Z",
+  "model": "glm-5.3"
+}

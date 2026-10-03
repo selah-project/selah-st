@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 20,
+  "translation": "A hopole minkha ya hau kaofela, mme olo ya hau a e rate. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "A hopole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "minkha ya hau"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "mme olo ya hau"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "a e rate"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:27:11.956614351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme balodi ba etsa jwale ka bolumo ba bona, mme ba hlahisa ⟨את⟩ dikhoana hodima lefatshe la Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "balodi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ka bolumo ba bona"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba hlahisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikhoana"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "dikhoana"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:47:28.349684208Z",
+  "model": "glm-5.3"
+}

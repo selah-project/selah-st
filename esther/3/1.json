@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Ka mora dintho tseo, morena Akhashueroshe o ile a hodisa ⟨את⟩ Hamane, mora wa Hamdata wa Moagagite, mme a mo phahamisa, mme a beha ⟨את⟩ setulo sa hae hodima bashomamedi bohle ba ⟨את⟩ nang le eena.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dintho"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "a hodisa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashueroshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamane"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "wa Moagagite"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "mme a mo phahamisa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mme a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setulo sa hae"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "setulo sa hae"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "bashomamedi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nang le eena"
+    }
+  ],
+  "timestamp": "2026-10-03T13:17:07.894081681Z",
+  "model": "glm-5.3"
+}

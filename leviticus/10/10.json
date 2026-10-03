@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ho arohanya pakiri tsa ⟨the⟩ e halalelang le e sa halalelang, pakiri tsa se hlokang le se hloekang;",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "Mme ho arohanya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakiri tsa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "e halalelang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "החל",
+      "gloss": "e sa halalelang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "pakiri tsa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "se hlokang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "se hloekang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:07:44.445138895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 95,
+  "translation": "Se thatafatseng lipelo tsa lona, jwaloka Meriba, jwaloka letsatsi la Masa o neng a le bona lehalahala.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Se"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "thatafatseng"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "lipelo tsa lona"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "jwaloka Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jwaloka letsatsi"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "la Masa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "lehalahala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:57.639255313Z",
+  "model": "glm-5.3"
+}

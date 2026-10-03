@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Ya timetsweng, ya fofaditsweng, kapa ya ikgetlileng setho sa botona, a ke ke a kena phuthehong ya Yahwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a ke ke"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "ya timetsweng"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ya fofaditsweng"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "kapa ya ikgetlileng"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "setho sa botona"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "phuthehong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T06:57:50.615007396Z",
+  "model": "glm-5.3"
+}

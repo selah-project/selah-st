@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "A ke ke fete ka lefatshe la hao, ke tla tsamaea tseleng, ke tla tsamaea tseleng; nke ke ke wa matha ka ho le letona kapa ka ho le lecha.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "A ke ke fete"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ka lefatshe la hao"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ke tla tsamaea tseleng"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ke tla tsamaea tseleng"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tla tsamaea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nke ke ke wa"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "matha"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ka ho le letona"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "kapa ka ho le lecha"
+    }
+  ],
+  "timestamp": "2026-10-03T06:44:22.133613132Z",
+  "model": "glm-5.3"
+}

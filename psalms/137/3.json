@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 137,
+  "translation": "Hobane koo ba neng ba re tshere ba ile ba re kopa mantsoe a pina, le ba neng ba senya ba ile ba re kopa thabo, ba re: Opelang rona pina ya Tsiyone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שם",
+      "gloss": "koo"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "ba ile ba re kopa"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "ba neng ba re tshere"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantsoe a"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "le ba neng ba senya ba ile ba re kopa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "thabo"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "opelang"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "pina ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:11.751373557Z",
+  "model": "glm-5.3"
+}

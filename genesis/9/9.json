@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme nna, bonang, ke theha ⟨את⟩ selekane sa ka le lona ⟨את⟩, le ⟨את⟩ peo ya lona ka mora lona.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "ke theha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa ka"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "le lona ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "peo ya lona"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "ka mora lona"
+    }
+  ],
+  "timestamp": "2026-10-03T12:42:00.891680238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 37,
+  "translation": "Rolla tsela ya hau ho Yahwe, mme tshepile ho Yena, mme O tla etsa.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Rolla"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ya hau"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "mme tshepile"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho Yena"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme O"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tla etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:32:02.891510298Z",
+  "model": "glm-5.3"
+}

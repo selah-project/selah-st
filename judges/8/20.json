@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme a re ho Yethere, moputso wa hae wa pele: Tsoha, o ⟨את⟩ ba bolae. Empa mosha o ile a sa ntshololese sekele sa hae, hobane o ne a tshaba, hobane e ne e le mosha o sa tloela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "ho Yethere"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "moputso wa hae wa pele"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Tsoha"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "o ba bolae"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "Zebakh le Tsalmona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Empa ... a sa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ntshololese"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sekele sa hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "o ne a tshaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "o sa tloela"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mosha"
+    }
+  ],
+  "timestamp": "2026-10-03T07:22:35.219044839Z",
+  "model": "glm-5.3"
+}

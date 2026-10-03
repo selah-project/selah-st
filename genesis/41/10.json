@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 41,
+  "translation": "Paro a hlalefa ka makgoba a hae, mme a ntseya mna a kenya tshebetso ya ntlo ya hlaodi ya baapeki, mna le hlaodi ya bafofane.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "a hlalefa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "makgoba a hae"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a kenya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mna",
+      "marks": "tshebetso ya ntlo ya hlaodi ya baapeki"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "tshebetso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hlaodi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ya baapeki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mna",
+      "marks": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "hlaodi ya bafofane"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hlaodi"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "ya bafofane"
+    }
+  ],
+  "timestamp": "2026-10-03T05:37:38.688457045Z",
+  "model": "glm-5.3"
+}

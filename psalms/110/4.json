@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 110,
+  "translation": "Yahwe o ile a ikana mme a ke ke a inamorwa: U moporofeta wa pele — eseng jwale — u hlohonolofatse ho se qete, ho ya ka tumelo ya Morena Malki-Tsedeqe. U moprista ho fihlela ho sa feleng, ho ya ka Mohlanka wa ka wa toka.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "o ile a ikana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a ke ke"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "a inamorwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho fihlela ho sa feleng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ya ka"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tumelo ya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedeqe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:45.370788067Z",
+  "model": "glm-5.3"
+}

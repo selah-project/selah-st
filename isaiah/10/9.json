@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Na hase jwalo ka Karkemishe, jwale Kalkano? Na hase jwalo ka Arpade, jwale Khamate? Na hase jwalo ka Damaske, jwale Shomero?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Na hase"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "jwalo ka Karkemishe"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "jwale Kalkano"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Na hase"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hase"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "jwalo ka Arpade"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "jwale Khamate"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Na hase"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hase"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "jwalo ka Damaske"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "jwale Shomero"
+    }
+  ],
+  "timestamp": "2026-10-03T08:35:30.900589421Z",
+  "model": "glm-5.3"
+}

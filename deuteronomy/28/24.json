@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 28,
+  "translation": "Yahwe o tla neha ⟨את⟩ pula ya lefatshe la hao e be seretle le mofufutso; e tla theoha hodima wena ho tloha mahodimong, ho fihlela o timetse.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "o tla neha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pula"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "pula"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ya lefatshe la hao"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "seretle"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "mofufutso"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "e tla theoha"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "hodima wena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "o timetse"
+    }
+  ],
+  "timestamp": "2026-10-03T06:59:39.981283634Z",
+  "model": "glm-5.3"
+}

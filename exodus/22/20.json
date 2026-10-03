@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme sebatla o se ke wa mo hlotsetsa, o se ke wa mo hatsetsa; hobane le ne le ⟨sebatla⟩ naheng ya Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "mme sebatla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "mo hlotsetsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "mo hatsetsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "sebatla"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "le ne le"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:53:34.174755107Z",
+  "model": "glm-5.3"
+}

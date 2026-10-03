@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 87,
+  "translation": "Mme ka ga Tsiyone ho tla bolelowa: motho le motho o tsetswe ho yona; mme Elyone ka boena o tla e theha.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "mme ka ga Tsiyone"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ho tla bolelowa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le motho"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "o tsetswe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme Elyone ka boena"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "o tla e theha"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:15.445799261Z",
+  "model": "glm-5.3"
+}

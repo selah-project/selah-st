@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 23,
+  "translation": "Mme a senya ⟨את⟩ matlo a ba halaletseng a neng a le ka ntlong ya Yahwe, moo basali ba neng ba bopang matlo a Ashera.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "a senya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matlo a ba halaletseng"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "matlo a"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ba halaletseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a neng a le"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basali ba"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "ba bopang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "matlo"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "a Ashera"
+    }
+  ],
+  "timestamp": "2026-10-03T08:30:02.837255056Z",
+  "model": "glm-5.3"
+}

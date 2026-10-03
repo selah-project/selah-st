@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "O tshwana joalo ka tau e lakatsang ho ja nama, le joalo ka motlha oa tau a lutse ditsibeng.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "o tshwana"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "joalo ka tau"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "e lakatsang"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "ho ja nama"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "le joalo ka motlha oa tau"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a lutse"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ditsibeng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:48.574814396Z",
+  "model": "glm-5.3"
+}

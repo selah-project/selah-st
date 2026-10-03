@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Mme e bile ka mafelelo a dilemo tse mashome a mabeli tseo Shelomo a ileng a bopa ka tsona ⟨את⟩ ntlo ea Yahwe le ⟨את⟩ ntlo ea hae,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ka mafelelo a"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mashome a mabeli"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a bopa ka tsona"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ea Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ea hae"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ea hae"
+    }
+  ],
+  "timestamp": "2026-10-03T12:26:16.146422700Z",
+  "model": "glm-5.3"
+}

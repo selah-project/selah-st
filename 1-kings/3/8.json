@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme mohlanka wa hao o hare hara sechaba sa hao seo o se kgethileng, sechaba se menehiloeng se sa Balekang kapa se sa sengwang ka bongata ba sona.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Mme mohlanka wa hao"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "o hare hara"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sechaba sa hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "o se kgethileng"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "רב",
+      "gloss": "se menehiloeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "se Balekang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "se sengwang"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ka bongata"
+    }
+  ],
+  "timestamp": "2026-10-03T08:01:57.076317701Z",
+  "model": "glm-5.3"
+}

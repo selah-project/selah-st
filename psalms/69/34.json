@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Hobane Yahwe o mametse bahlokang, mme ⟨את⟩ batshwarwa ba hae ha a a ba hlonaha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o mametse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "bahlokang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "batshwarwa ba hae"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "batshwarwa ba hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "a hlonaha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:54.808157329Z",
+  "model": "glm-5.3"
+}

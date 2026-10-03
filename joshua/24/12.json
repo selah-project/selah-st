@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Mme ka romella pele ga lona ⟨את⟩ tsitsipha, ya ba hlapoletsa mme o tloha pele ga lona — bomorena ba babeli ba ba-Emore; eseng ka tlhaba ya lona, kapa ka oma ya lona.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ka romella"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsitsipha"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tsitsipha"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "ya ba hlapoletsa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "bomorena ba babeli"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "o tloha pele ga lona"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ba babeli"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bomorena ba"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ba-Emore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "ka tlhaba ya lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ka oma ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:15:51.649498504Z",
+  "model": "glm-5.3"
+}

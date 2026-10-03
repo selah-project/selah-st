@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme morena wa Yisraele a re ho Elisha, ha a bona ⟨את⟩ bona: Ntate, na ke ba hlabe, ke ba hlabe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme ... a re"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "ha a bona"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "na ke ba hlabe"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ke ba hlabe"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ntate"
+    }
+  ],
+  "timestamp": "2026-10-03T08:18:40.522385476Z",
+  "model": "glm-5.3"
+}

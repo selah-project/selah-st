@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mamelong lentswe la Yahwe, machaba a Sedomme; mameleng ka tsebe Torah ya Elohim ya rona, sechaba sa Amorahme.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mamelong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "machaba a"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomme"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "mameleng ka tsebe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah ya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ya rona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba sa"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorahme"
+    }
+  ],
+  "timestamp": "2026-10-03T08:31:12.726100016Z",
+  "model": "glm-5.3"
+}

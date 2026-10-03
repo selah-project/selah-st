@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Le se ke la etsa jwalo ho Yahwe, Elohim oa lona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Le se ke"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "la etsa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim oa lona"
+    }
+  ],
+  "timestamp": "2026-10-03T06:52:42.432299443Z",
+  "model": "glm-5.3"
+}

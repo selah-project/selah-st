@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme se a se etseng ya boshula mahong a Yahwe; mme Yahwe a bolaea le ena.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ya boshula"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se a se etseng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se etsa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a bolaea"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ena"
+    }
+  ],
+  "timestamp": "2026-10-03T05:36:34.176383131Z",
+  "model": "glm-5.3"
+}

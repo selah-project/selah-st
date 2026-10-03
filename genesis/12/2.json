@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme ke tla o etsa setjhaba se seholo, mme ke tla o hlohonolofatsa, mme ke tla hodisa lebitso la hao; mme u be hlohonolofa.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "ke tla o etsa"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "se seholo"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "mme ke tla o hlohonolofatsa"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "mme ke tla hodisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme u be"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "hlohonolofa"
+    }
+  ],
+  "timestamp": "2026-10-03T05:23:26.769549256Z",
+  "model": "glm-5.3"
+}

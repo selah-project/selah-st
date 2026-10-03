@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 34,
+  "translation": "Mme ⟨את⟩ letswe lempho lwa tsona bohle, le ⟨את⟩ bana ba tsona bohle, le ⟨את⟩ basadi ba tsona, ba ba tseere nakong ya borapeli, ba tlhotsa, le ⟨את⟩ tsohle tse ntseng matlong.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle",
+      "marks": "letswe lempho lwa tsona bohle"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "letswe lempho lwa tsona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle",
+      "marks": "bana ba tsona bohle"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "bana ba tsona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "basadi ba tsona",
+      "marks": "basadi ba tsona"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ba ba tseere nakong ya borapeli"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ba tlhotsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle",
+      "marks": "tsohle tse ntseng matlong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ntseng matlong"
+    }
+  ],
+  "timestamp": "2026-10-03T05:35:10.814490511Z",
+  "model": "glm-5.3"
+}

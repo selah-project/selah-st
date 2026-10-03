@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 7:18",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Mme ha ke ova ka shofare, nna le bohle ba nang ⟨את⟩ le nna, le tla ova ka dishofare, le lona, ho potoloha kampu yohle, mme le re: Ya Yahwe le ya Gideone.",
+  "tokens": [
+    {
+      "surface": "ותקעתי",
+      "gloss": "mme ha ke ova"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "ka shofare"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le bohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna",
+      "marks": "bohle ba nang le nna"
+    },
+    {
+      "surface": "ותקעתם",
+      "gloss": "le tla ova"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "ka dishofare"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampu"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "mme le re"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ולגדעון",
+      "gloss": "le ya Gideone"
+    }
+  ],
+  "timestamp": "2026-10-03T07:22:32.736834056Z",
+  "model": "glm-5.3"
+}

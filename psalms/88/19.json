@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 88,
+  "translation": "O ntsehodisitse ho tloha ho nna ya ratang le mogwera; ba tsebang haholo ba ile lefifing.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "O ntsehodisitse"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho tloha ho nna"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ya ratang"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "le mogwera"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "ba tsebang haholo"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "ba ile lefifing"
+    }
+  ],
+  "timestamp": "2026-10-03T10:47:10.046533529Z",
+  "model": "glm-5.3"
+}

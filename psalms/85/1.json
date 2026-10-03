@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 85,
+  "translation": "Ho moeta-pele. Hoseng ea bana ba Korakhe. Sephologelo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moeta-pele"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Sephologelo"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:59.520645563Z",
+  "model": "glm-5.3"
+}

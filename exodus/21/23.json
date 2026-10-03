@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 21,
+  "translation": "Empa ha ho etsahala kotsi, o tla fa bophelo bakeng sa bophelo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "kotsi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho etsahala"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "o tla fa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    }
+  ],
+  "timestamp": "2026-10-03T05:52:45.771404203Z",
+  "model": "glm-5.3"
+}

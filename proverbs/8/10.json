@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 8,
+  "translation": "Nkang thuto ya ka, eseng selekane, mme tsebo ho feta khauta e khethilweng.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "nkang"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "thuto ya ka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "mme tsebo"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "ho feta khauta"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "e khethilweng"
+    }
+  ],
+  "timestamp": "2026-10-03T11:07:08.978968427Z",
+  "model": "glm-5.3"
+}

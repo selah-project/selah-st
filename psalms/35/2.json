@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "Tshwara sehlare le tsenye, mme o tsohe ho thusa ka.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Tshwara"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "le tsenye"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "mme o tsohe"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "ho thusa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:36.567911629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 132,
+  "translation": "Hobane Yahwe o kgethile ⟨את⟩ Tsiyone, o ikgethile e le Setsi sa hae.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "o kgethile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "o ikgethile"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "e le Setsi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:33.652082468Z",
+  "model": "glm-5.3"
+}

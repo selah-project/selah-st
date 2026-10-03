@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 76,
+  "translation": "Ka tlaolo ea hau, Elohim ea Yaakobo, dikoloi le mahere li robetse ka tlala.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Ka tlaolo ea hau"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ea"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "li robetse ka tlala"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "le dikoloi"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "le mahere"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:25.431755710Z",
+  "model": "glm-5.3"
+}

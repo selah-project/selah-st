@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Atamela moea oa ka, o o lokolole; lokolla ka ka baka la bahlanka ba ka.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Atamela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moea oa ka"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "o o lokolole"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "bahlanka ba ka"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "lokolla ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:55.529898220Z",
+  "model": "glm-5.3"
+}

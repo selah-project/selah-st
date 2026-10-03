@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 54,
+  "translation": "Hobane o ntlohotse ho tswa ditsietsing tsohle, mme ho lira tsa ka e ile ya bona leihlo la ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tswa tsohle"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ditsietsing"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "o ntlohotse"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "mme ho lira tsa ka"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "e ile ya bona"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "leihlo la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:57.360791791Z",
+  "model": "glm-5.3"
+}

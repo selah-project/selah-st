@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Bana ba batho, ho fihla neng? Tlotla ya ka e fetoha maswana; le rata ⟨se se nang letho⟩, le batla leshano. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ba batho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihla"
+    },
+    {
+      "surface": "מה",
+      "gloss": "neng"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "Tlotla ya ka"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "e fetoha maswana"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "le rata"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "se se nang letho"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "le batla"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "leshano"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-03T10:22:58.859078865Z",
+  "model": "glm-5.3"
+}

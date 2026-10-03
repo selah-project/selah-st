@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "O ile a ntša ⟨את⟩ nna ho ya sebakeng se sephara, o ile a nlokolla, hobane o ne a rate nna.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "o ile a ntša"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ho ya sebakeng se sephara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "o ile a nlokolla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o ne a rate"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-03T07:59:36.457020689Z",
+  "model": "glm-5.3"
+}

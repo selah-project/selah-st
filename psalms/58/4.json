@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 58,
+  "translation": "Basebe ba ile ba shebolelwa ho tloha mmasa; ba tsepamalla ho tloha mpeng, ba bua maaka.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "ba shebolelwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Basebe"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ho tloha mmasa"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ba tsepamalla"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ho tloha mpeng"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ba bua"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "maaka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:25.095609076Z",
+  "model": "glm-5.3"
+}

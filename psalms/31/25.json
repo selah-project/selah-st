@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Emang matla, mme lefahla la lona le tla tiisa, lona bohle ba letetseng Yahwe.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Emang matla"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "mme le tla tiisa"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "lefahla la lona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "ba letetseng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:42.605893946Z",
+  "model": "glm-5.3"
+}

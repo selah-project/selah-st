@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Yahwe a hana pojwa ya Yisraele kaofela, a ba sotla, mme a ba neha matsweng a bahlaseli, ho fihlela a ba hlatsoa penyang ya hae.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "a hana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pojwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "a ba sotla"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "a ba neha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "matsweng a"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "bahlaseli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "a ba hlatsoa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "penyang ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:27:02.803464919Z",
+  "model": "glm-5.3"
+}

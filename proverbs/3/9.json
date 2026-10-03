@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Kgehetsa Yahwe ka ⟨את⟩ mabenkeleng a hao, le ho tloha ho mathwasong a melemo ya hao ohle.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Kgehetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "ho mabenkeleng a hao"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "le ho tloha ho mathwasong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "melemo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T11:05:23.422201660Z",
+  "model": "glm-5.3"
+}

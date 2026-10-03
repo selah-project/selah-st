@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 18,
+  "translation": "Che Yahwe Elohim wa hao o phila, ha ho setjhaba kapa mmuso oo morena wa ka a sa romelang ho o batla; mme ba re: Ha a yo; mme a ba etsa hore ba hlapanye, ⟨את⟩ mmuso oo le ⟨את⟩ setjhaba seo, hore ba ka o se fumane.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "o phila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Che"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ho na le"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "kapa mmuso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "romelang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "ho o batla"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ha a yo"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "a ba etsa hore ba hlapanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmuso oo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mmuso oo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setjhaba seo"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setjhaba seo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "fumane"
+    }
+  ],
+  "timestamp": "2026-10-03T08:13:05.549529482Z",
+  "model": "glm-5.3"
+}

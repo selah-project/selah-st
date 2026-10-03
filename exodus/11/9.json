@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme Yahwe a re ho Moshe: Farao a ke ke a mamela ho lona, e le hore dimpho tsa ka tse makatsang di tlabonahala ho feta karolo moo ho teng naheng ya Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ke ke a"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mamela"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "e le hore"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "di tlabonahala ho feta karolo"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "dimpho tsa ka tse makatsang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:46:25.713771165Z",
+  "model": "glm-5.3"
+}

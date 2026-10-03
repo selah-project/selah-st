@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ba balweng ba bona, bakeng sa khotla ya Gade, ⟨⟨ ke⟩⟩ mashome a hlano le a ne ba lekgolo le metso e mene le mashome a hlano.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ba balweng ba bona"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bakeng sa khotla ya"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "hlano"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "le mashome a ne"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete tse"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le tse tshela"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le mashome a hlano"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:45.714116948Z",
+  "model": "glm-5.3"
+}

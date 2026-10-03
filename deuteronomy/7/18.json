@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "O se ke wa tšoha ho tsona; o tla hopola haholo ⟨את⟩ seo Yahwe Elohim ea hao o se entseng ho Faro le ho Mitsrayime kaofela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "O se ke wa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tšoha"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "o tla hopola"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo Faro le Mitsrayime kaofela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o se entseng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ea hao"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ho Faro"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le ho kaofela"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T06:48:25.282527047Z",
+  "model": "glm-5.3"
+}

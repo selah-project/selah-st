@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Mme o se ke wa etsa ho ya ka bohlale ba hao, mme o se ke wa siea sehlana sa hae ho theoha ka khotso ho ya Sheole.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o se ke wa etsa"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "ho ya ka bohlale ba hao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o se ke wa"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ho theoha"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "sehlana sa hae"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "ka khotso"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Sheole"
+    }
+  ],
+  "timestamp": "2026-10-03T08:02:44.216750661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Mme Yahwe o ile a fa ⟨את⟩ tumelo sehloho mahlong a baahi ba Mitsrayime, mme ba ba neola; mme ba ba hloekisa ⟨את⟩ baahi ba Mitsrayime.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o ile a fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumelo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "tumelo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sehloho"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baahi ba Mitsrayime"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "mme ba ba neola"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "mme ba ba hloekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baahi ba Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baahi ba Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:06.549478591Z",
+  "model": "glm-5.3"
+}

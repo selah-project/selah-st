@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 118,
+  "translation": "Sena ke letsatsi leo Yahwe a se entseng; a re thabeng, re be le tlotlo ho sona.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a entse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "a re thabeng"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "re be le tlotlo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho sona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:57:16.938646369Z",
+  "model": "glm-5.3"
+}

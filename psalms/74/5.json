@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Ba tsejwa jwalo ka ba kentseng ka hodimo, sefateng sa motse, ka meqala.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ba tsejwa"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "jwalo ka ba kentseng"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ka hodimo"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "sefateng sa motse"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "ka meqala"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:21.185765198Z",
+  "model": "glm-5.3"
+}

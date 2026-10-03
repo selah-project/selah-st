@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme Yahwe Elohim o ile a mo romela hlaho tloha serapeng sa Edene, hore a tla sebelise ⟨את⟩ lefatshe leo a nkuoang gotho ho lona.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "o ile a mo romela hlaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "tloha serapeng"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "sa Edene"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hore a sebelise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a nkuoang gotho"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T05:20:12.086977013Z",
+  "model": "glm-5.3"
+}

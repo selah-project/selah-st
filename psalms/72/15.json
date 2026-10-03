@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "Mme a phela; mme ho fanoa ho yena gauta ya Sheba; mme ba rapela bakeng sa hae kamehla; letsatsi lohle ba mo rerela.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "mme a phela"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme a fana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ya Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "mme ba rapela"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "bakeng sa hae"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kamehla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "ba mo rerela"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:05.144816930Z",
+  "model": "glm-5.3"
+}

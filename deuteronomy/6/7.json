@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme o tla di phetisa ho bana ba hau, mme o tla bua ka tsona, ha o dutse ka ntlong ya hau, le ha o tsamaya tseleng, le ha o robetse, le ha o ema.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "o tla di phetisa"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ho bana ba hau"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "o tla bua"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tsona"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "ha o dutse"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ka ntlong ya hau"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "le ha o tsamaya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "le ha o robetse"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "le ha o ema"
+    }
+  ],
+  "timestamp": "2026-10-03T06:45:02.416434060Z",
+  "model": "glm-5.3"
+}

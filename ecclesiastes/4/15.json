@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 4,
+  "translation": "Ke bone ⟨את⟩ ba phelang bohle ba tsamayang ka tlase ho letsatsi, ba le le ngwaneng, wa bobedi, ya tlang ho ema boemong ba hae.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ke bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba phelang bohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ba phelang"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "ba tsamayang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ba le"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwaneng"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tlang ho ema"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "boemong ba hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:42:13.107202856Z",
+  "model": "glm-5.3"
+}

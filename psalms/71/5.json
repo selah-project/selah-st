@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 71,
+  "translation": "Hobane u ⟨⟨wena⟩⟩ tsholofelo ya ka, Adonai Yahwe, themelo ya ka, ho tloha bonyaneng ba ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "tsholofelo ya ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "themelo ya ka"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ho tloha bonyaneng ba ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:38.483496783Z",
+  "model": "glm-5.3"
+}

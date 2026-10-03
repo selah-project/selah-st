@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Hangate o ile a bua, mme ha ke arabe; hape kabelo, mme ha ke ekete.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Hangate"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "o ile a bua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha ke"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "arabe"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "hape kabelo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha ke"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ekete"
+    }
+  ],
+  "timestamp": "2026-10-03T11:32:14.589794572Z",
+  "model": "glm-5.3"
+}

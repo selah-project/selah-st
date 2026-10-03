@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Mme o behe moo ⟨את⟩ arka ya bopaki, mme o phuse hodima arka ⟨את⟩ parokhete.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "o behe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ya bopaki"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "o phuse"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parokhete"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "parokhete"
+    }
+  ],
+  "timestamp": "2026-10-03T12:44:19.228040724Z",
+  "model": "glm-5.3"
+}

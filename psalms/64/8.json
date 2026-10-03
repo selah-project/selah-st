@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 64,
+  "translation": "Mme Elohim o tla ba thunya ka mosele; kapele majwe a tsona a tla ba.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Mme ... o tla ba thunya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ka mosele"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "kapele"
+    },
+    {
+      "surface": "היו",
+      "gloss": "a tla ba"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "majwe a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:20.727978906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Jwale ho bolela Yahwe: Ha le ka phunya ⟨את⟩ selekane sa ka sa motsheare le ⟨את⟩ selekane sa ka sa bosehla, hore letsatsi le bosiu bo se ke ba moha nako ya tsona —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "le ka phunya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selekane sa ka sa motsheare"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa motsheare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "selekane sa ka sa bosehla"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "selekane sa ka"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "sa bosehla"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "hore ... bo se ke ba"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bosiu"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "nako ya tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T09:20:00.323136427Z",
+  "model": "glm-5.3"
+}

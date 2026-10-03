@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 50,
+  "translation": "Haeba ke lakatsa ho ja, ha ke tla o bolellela; hobane ya ka ke lefatshe le ho tletseng ho lona.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Haeba"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ke lakatsa ho ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ke tla bolella"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ka"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "le ho tletseng ho lona"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:44.845502998Z",
+  "model": "glm-5.3"
+}

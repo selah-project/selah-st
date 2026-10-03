@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 14,
+  "translation": "Mme moprista ya hloekisang o emisa ⟨את⟩ motho ya hloekisoang le ⟨אתם⟩ tsona ka pele ga Yahwe, mocheng wa Ohela ya Kopano.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ya hloekisang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ya hloekisoang"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "le ⟨אתם⟩ tsona",
+      "marks": "tsona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mocheng"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kopano"
+    }
+  ],
+  "timestamp": "2026-10-03T12:45:55.417861237Z",
+  "model": "glm-5.3"
+}

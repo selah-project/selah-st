@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 90,
+  "translation": "Mme a be teng boiketlo ba Adonai Elohim wa rona hodima rona, mme o tiisetse mosebetsi wa matsoho a rona hodima rona; ee, mosebetsi wa matsoho a rona o o tiisetseng!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme a be teng"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "boiketlo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hodima rona"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "mme mosebetsi wa"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "matsoho a rona"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "o tiisetse"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hodima rona"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ee, mosebetsi wa"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "matsoho a rona"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "o o tiisetseng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:35.672513543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 40,
+  "translation": "Ke ile ka lemeta, ke lemetile Yahwe, mme o ile a tsamaisa sehloho sa hae ho ya ho 'na, mme a utlwa lehu la ka.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ka lemeta"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ke lemetile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "mme o ile a tsamaisa sehloho sa hae"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho ya ho 'na"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mme a utlwa"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "lehu la ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:39.717688103Z",
+  "model": "glm-5.3"
+}

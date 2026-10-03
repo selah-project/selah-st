@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "Jwale ke emang, mme ke tla hlola karolo le lona ⟨את⟩ pele ho Yahwe, ka tsedekeohle ya Yahwe, eo a e entseng le lona ⟨את⟩ le bo-ntate ba lona.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "jwale ke"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "emang"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "ke tla hlola karolo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsedekeohle ya Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle ya"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a e entseng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bo-ntate ba lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:35:34.703362861Z",
+  "model": "glm-5.3"
+}

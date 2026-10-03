@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 44,
+  "translation": "Ka moya wa mo hlonahatsang le mo hloilemong, ka lebaka la sera le ea iphekisang.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ka moya wa"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "mo hlonahatsang"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "le mo hloilemong"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sera"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "le ea iphekisang"
+    }
+  ],
+  "timestamp": "2026-10-03T10:35:36.793529318Z",
+  "model": "glm-5.3"
+}

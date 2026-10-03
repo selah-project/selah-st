@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme ena ke present eo le tlang ho e nka ⟨את⟩ ho tswa ho bona: gauta, le selepe, le tshwele.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Mme ena"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "present"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "le tlang ho e nka"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ho tswa ho bona ⟨את⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "le selepe"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "le tshwele"
+    }
+  ],
+  "timestamp": "2026-10-03T05:55:22.897572283Z",
+  "model": "glm-5.3"
+}

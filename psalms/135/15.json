@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 135,
+  "translation": "Melimo ya ditjhaba ke sefaha le gauta, mosebetsi wa matsoho a batho.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Melimo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya ditjhaba"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ke sefaha"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wa matsoho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a batho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:02.026439889Z",
+  "model": "glm-5.3"
+}

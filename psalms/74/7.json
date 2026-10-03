@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "translation": "Ba romella mollo sehalalelong sa hao; ba se nehelitse lefatshe, ba hlotse Mishkane sa lebitso la hao.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ba romella"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "sehalalelong sa hao"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ba hlotse"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:43:21.186073433Z",
+  "model": "glm-5.3"
+}

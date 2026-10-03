@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 66,
+  "translation": "Hobane o re lekotile, Elohim; o re ile a re hlwekisa jwaloka teko ya sekhele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "o re lekotile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "a re hlwekisa"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "jwaloka teko"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya sekhele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:19.026491323Z",
+  "model": "glm-5.3"
+}

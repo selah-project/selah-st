@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 114,
+  "translation": "O dithaba, hore le tantša joaloka dipoli? O dikhilometara tse nyane, joaloka dipoo tsa khalifi?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "O dithaba"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "le tantša"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "joaloka dipoli"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "O dikhilometara tse nyane"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "joaloka bana ba"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "khalifi"
+    }
+  ],
+  "timestamp": "2026-10-03T10:54:27.621812882Z",
+  "model": "glm-5.3"
+}

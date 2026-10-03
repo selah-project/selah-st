@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 134,
+  "translation": "Pina ya ho Nyoloha. Bonang, lootsa ⟨את⟩ Yahwe, dithanka tsohle tsa Yahwe, tse emeng ntlong ya Yahwe bosiu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya ho Nyoloha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "lootsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsOHLE"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "dithanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tse emeng"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "bosiu"
+    }
+  ],
+  "timestamp": "2026-10-03T11:00:09.025605007Z",
+  "model": "glm-5.3"
+}

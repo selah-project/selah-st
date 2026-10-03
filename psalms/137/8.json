@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 137,
+  "translation": "Morali wa Babylone, ya senngweng, thabo ya motho ya tla o lefutlanyana ⟨את⟩ seo o se entseng ho rona.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "morali wa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylone"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "ya senngweng"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "thabo ya"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ya tla lefutlanyana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo o se entseng"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "lefutlanyana"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "seo o se entseng"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    }
+  ],
+  "timestamp": "2026-10-03T11:03:13.746163573Z",
+  "model": "glm-5.3"
+}

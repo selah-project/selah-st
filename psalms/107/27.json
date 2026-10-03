@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "translation": "Ba dingoloha, ba hweletla jwaloka mo neng, mme bohlale ba tona boohle bo a mongwa.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "ba dingoloha"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "ba hweletla"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "jwaloka mo neng"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme boohle"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "bohlale ba tona"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "bo a mongwa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:53:46.044154564Z",
+  "model": "glm-5.3"
+}

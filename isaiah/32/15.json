@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 32,
+  "translation": "Ho fihlela ruakh e cheswa hodima rona ho tloha hodimo, mme sehlaha se tla fetoha karmele, mme karmele e tla balwa e le sehlaha.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "e cheswa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hodima rona"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ho tloha hodimo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla ba"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sehlaha"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "karmele"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "mme karmele"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "e le sehlaha"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "e tla balwa"
+    }
+  ],
+  "timestamp": "2026-10-03T08:43:26.687505548Z",
+  "model": "glm-5.3"
+}

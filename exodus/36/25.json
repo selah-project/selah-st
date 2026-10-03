@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 36,
+  "translation": "Mme bakeng sa lehlakoreng la bobedi la Mishkane, lehlakoreng la leboya, o ile a etsa ⟨את⟩ majarata a mashome a mabedi.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "mme bakeng sa lehlakoreng"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "la Mishkane"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "lehlakoreng la"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "leboya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mashome a mabedi"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "majarata"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:20.174221524Z",
+  "model": "glm-5.3"
+}

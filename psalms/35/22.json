@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 35,
+  "translation": "U e bone, Yahwe; o se ke wa thula; Adonai, o se ke wa ba haufi le ka o ntse o le hole, o se ke wa tloha ho nna.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "U e bone"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "thula"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ba haufi le ka o le hole"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho tloha ho nna"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:54.630590823Z",
+  "model": "glm-5.3"
+}

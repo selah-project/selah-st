@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme basele ba ema, mong le mong ka dithunya tsa hae letsohong la hae, ho tloha sehleng sa ka hoja sa ntlo ho fihlela sehleng sa molema sa ntlo, ho altare le ho ntlo, ho morena mabapi.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "ba ema"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "basele"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "ka dithunya tsa hae"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "letsohong la hae"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ho tloha sehleng sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ka hoja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "sehleng sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "molema"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ho altare"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "le ho ntlo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mabapi"
+    }
+  ],
+  "timestamp": "2026-10-03T08:23:24.747673034Z",
+  "model": "glm-5.3"
+}

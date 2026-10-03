@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 11:4",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Ka meqola ya motho ke hula ⟨⟨ba⟩⟩, ka dikgokgo tsa lerato; mme ke ba boletse jwalo ba nolofatsang bola ho malema a bona, mme ke thule ho eena, ke mo fepa.",
+  "tokens": [
+    {
+      "surface": "בחבלי",
+      "gloss": "ka meqola"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya motho"
+    },
+    {
+      "surface": "אמשכם",
+      "gloss": "ke hula ba"
+    },
+    {
+      "surface": "בעבתות",
+      "gloss": "ka dikgokgo"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "tsa lerato"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "mme ke ba boletse jwalo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כמרימי",
+      "gloss": "ba nolofatsang"
+    },
+    {
+      "surface": "על",
+      "gloss": "bola"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לחיהם",
+      "gloss": "malema a bona"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "mme ke thule"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "אוכיל",
+      "gloss": "ke mo fepa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:02:00.993096794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "A boele ho nna ba se tsabang, ba tsebang bopaki ba hau.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "A boele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "ba se tsabang"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ba tsebang"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bopaki ba hau"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:18.620527185Z",
+  "model": "glm-5.3"
+}

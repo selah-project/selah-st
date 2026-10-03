@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Empa nna ke tlala matla, ⟨את⟩ ruakh ea Yahwe, le kahlolo le matla a maholo, ho phatlalatsa ho Yaakobo tlolo ea hae, le ho Yisraele sebe sa hae.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Empa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ke tlala"
+    },
+    {
+      "surface": "כח",
+      "gloss": "matla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ea Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "le matla a maholo"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ho phatlalatsa"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ho Yaakobo"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "tlolo ea hae"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "le ho Yisraele"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sebe sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:10:14.973038051Z",
+  "model": "glm-5.3"
+}

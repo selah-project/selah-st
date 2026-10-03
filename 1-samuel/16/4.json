@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme Shemueele a etsa ⟨את⟩ hoo Yahwe a se buileng, a fihla Betheleheme; mme baholo ba toropo ba thothomela ho mo amohela, mme a re: Khotso ea hau e tlile joang?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemueele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoo Yahwe a se buileng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hoo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a buileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betheleheme"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betheleheme"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ba thothomela"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ba toropo"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ho mo amohela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Khotso"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ea hau e tlile"
+    }
+  ],
+  "timestamp": "2026-10-03T07:38:27.520539851Z",
+  "model": "glm-5.3"
+}

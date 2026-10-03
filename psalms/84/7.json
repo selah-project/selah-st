@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 84,
+  "translation": "Ba fetang ka mokotla wa Baka ba etsa moo mocha wa metsi; esita le pula ya pele e o apara ka mangalo.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ba fetang"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ka mokotla"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "wa Baka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mocha wa metsi"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "ba etsa moo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "esita le"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ka mangalo"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "e o apara"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "pula ya pele"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:25.050063165Z",
+  "model": "glm-5.3"
+}

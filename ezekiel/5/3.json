@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Mme o tlose moo tse nyane ka palo, mme o di tlehele mahareng a diphaphathing tsa hao.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Mme o tlose"
+    },
+    {
+      "surface": "משם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "tse nyane"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ka palo"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "mme o di tlehele"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "tsona (tse nyane)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "mahareng a diphaphathing tsa hao"
+    }
+  ],
+  "timestamp": "2026-10-03T09:34:16.234884765Z",
+  "model": "glm-5.3"
+}

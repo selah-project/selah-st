@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 73,
+  "translation": "Joalo ka litoro, ha motho a tsoa borokong; Adonai, ha U tsoha, U nyefola ⟨את⟩ setshwantsho sa bona.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "joalo ka litoro"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "ha motho a tsoa borokong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ha U tsoha"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "setshwantsho sa bona"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "U nyefola"
+    }
+  ],
+  "timestamp": "2026-10-03T10:42:51.135675674Z",
+  "model": "glm-5.3"
+}

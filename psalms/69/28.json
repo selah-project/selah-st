@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Ekeleta phoso holim'a phoso ya tsona, mme ba se ke ba kena ho toka ya hao.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Ekeleta"
+    },
+    {
+      "surface": "עון",
+      "gloss": "phoso"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "phoso ya tsona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ba se ke"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba kena"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ho toka ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:41:33.748518107Z",
+  "model": "glm-5.3"
+}

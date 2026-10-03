@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 3,
+  "translation": "Mme a re: ⟨את⟩ lentswe la hao la kilitle, ke tshaba, hobane ke tsenehile, mme ka ipatla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe la hao"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "lentswe la hao"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "la kilitle"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "kamong"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "ke tshaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ke tsenehile"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "mme ka ipatla"
+    }
+  ],
+  "timestamp": "2026-10-03T05:19:05.097570014Z",
+  "model": "glm-5.3"
+}

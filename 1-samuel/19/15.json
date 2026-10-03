@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 19,
+  "translation": "Mme Shaule a romela ⟨את⟩ baromuwa hore ba tle sheba ⟨את⟩ Dawide, a re: Mo tlisetse ho ka ka mojareng, hore ke ⟨את⟩ mo bolae.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baromuwa"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "baromuwa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hore ba tle sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "mo tlisetse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "ka mojarêng"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho ka"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "hore ke mo bolae"
+    }
+  ],
+  "timestamp": "2026-10-03T07:39:52.673359416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 10:7",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 10,
+  "translation": "Mme ba phasa lentsoe ho Yehuda le ho Yerushalayime, ho bana bohle ba phatlalatsweng, hore ba phutheleng Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "ba phasa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ho Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le ho Yerushalayime"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho bohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ba phatlalatsweng"
+    },
+    {
+      "surface": "להקבץ",
+      "gloss": "hore ba phutheleng"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T12:01:00.621644404Z",
+  "model": "glm-5.3"
+}

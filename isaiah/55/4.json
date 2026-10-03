@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 55,
+  "translation": "Bonang, ke mo fana ka paki bakeng sa merabe, moetapele le molaodi oa merabe.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "paki"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "bakeng sa merabe"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ke mo fana"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "moetapele"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "le molaodi"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "oa merabe"
+    }
+  ],
+  "timestamp": "2026-10-03T13:01:07.110934516Z",
+  "model": "glm-5.3"
+}

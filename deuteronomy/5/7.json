@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ha o ke ke wa ba le melimo e mengwe hodima sefahleho sa ka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha o ke ke wa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ba le"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e mengwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T12:48:59.179699911Z",
+  "model": "glm-5.3"
+}

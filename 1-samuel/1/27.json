@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Ka mosanyana yena ke ile ka rapela, mme Yahwe a mphe ⟨את⟩ kopo ya ka eo ke neng ke e kopa ho yena.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosanyana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "ke ile ka rapela"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a mphe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopo ya ka"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "kopo ya ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ke neng ke e kopa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ho yena"
+    }
+  ],
+  "timestamp": "2026-10-03T07:32:02.356049592Z",
+  "model": "glm-5.3"
+}

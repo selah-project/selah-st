@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 9:4",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "le lijo tsa tafole ya hae, le boemo ba batekisi ba hae, le maemo a bahlankedi ba hae le diaparo tsa bona, le batli ba hae le diaparo tsa bona, le tsela ya hae ya ho nyoloha ho ntlo ya Yahwe; mme ha ruakh e sa e-na ho yena.",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "le lijo tsa"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "tafole ya hae"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "le boemo ba"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "batekisi ba hae"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "le maemo a"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "bahlankedi ba hae"
+    },
+    {
+      "surface": "ומלבושיהם",
+      "gloss": "le diaparo tsa bona"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "le batli ba hae"
+    },
+    {
+      "surface": "ומלבושיהם",
+      "gloss": "le diaparo tsa bona"
+    },
+    {
+      "surface": "ועליתו",
+      "gloss": "le tsela ya hae ya ho nyoloha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "a nyolahang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ho ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e sa e-na"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ha e sa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-03T12:27:00.842086654Z",
+  "model": "glm-5.3"
+}

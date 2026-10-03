@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 140,
+  "translation": "Ho ea ka moeta-pele. Pina ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho ea ka moeta-pele"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pina"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T11:02:38.051987333Z",
+  "model": "glm-5.3"
+}

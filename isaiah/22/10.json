@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 22,
+  "translation": "Mme ⟨את⟩ malapa a Yerushalayime le a bala, mme la hlakola malapa ho matafatsa kotjwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malapa a Yerushalayime"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "le a bala"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "mme la hlakola"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "ho matafatsa"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "kotjwe"
+    }
+  ],
+  "timestamp": "2026-10-03T08:39:12.237493930Z",
+  "model": "glm-5.3"
+}

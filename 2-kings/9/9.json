@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 9,
+  "translation": "Mme ke tla etsa ⟨את⟩ ntlo ya Akhabe jwalo ka ntlo ya Yeroboame mora wa Nebate, le jwalo ka ntlo ya Bashae mora wa Akhija.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ke tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhabe"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "jwalo ka ntlo"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebate"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "le jwalo ka ntlo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bashae"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Akhija"
+    }
+  ],
+  "timestamp": "2026-10-03T08:20:39.579290615Z",
+  "model": "glm-5.3"
+}

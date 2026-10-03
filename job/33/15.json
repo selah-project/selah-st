@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "Ka lorato, ponahalo ya bosiu, ha boroko bo boima bo wa hodima batho, diphokotso tsa boroko hodima botepe.",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "ka lorato"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ponahalo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ya bosiu"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "ha... bo wa"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "boroko bo boima"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "diphokotso tsa boroko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "botepe"
+    }
+  ],
+  "timestamp": "2026-10-03T11:30:11.566971484Z",
+  "model": "glm-5.3"
+}

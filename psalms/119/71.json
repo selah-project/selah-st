@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 119,
+  "translation": "Ho molemo ho nna hore ke ile ka phephetsoa, hore ke tle ke ithute melao ya hao.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ho molemo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ke ile ka phephetsoa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore ke tle"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "ke ithute"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:59:04.751152101Z",
+  "model": "glm-5.3"
+}

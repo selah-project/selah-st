@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 46,
+  "translation": "Elohim o teng bohareng ba yona; e ke ke ya tetema. Elohim o tla e thusa ho tloha bosephelelong ba hoseng.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "bohareng ba yona"
+    },
+    {
+      "surface": "בל",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tetema"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "o tla e thusa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ho tloha bosephelelong"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ba hoseng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:36:17.952216618Z",
+  "model": "glm-5.3"
+}

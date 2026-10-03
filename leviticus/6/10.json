@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "E se ke ya bakiwa e motsofetseng; karolo ya bona Ke e fanoeng e tswa dioveng tsa Ka; e halalela ho dihalalelang ⟨היא⟩, jwalo ka sehlabelo sa sebe le jwalo sa sehlabeledi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "e se ke ya"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "bakiwa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "e motsofetseng"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "karolo ya bona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ke e fanoeng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tswa dioveng tsa Ka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e halalela"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ho dihalalelang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨היא⟩"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "jwalo ka sehlabelo sa sebe"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "le jwalo sa sehlabeledi"
+    }
+  ],
+  "timestamp": "2026-10-03T06:04:46.910759403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 13,
+  "translation": "Mme o tla boloka ⟨את⟩ sekeloo sena nakong ya lona e kgethilweng, ho tloha selemo ho ya selemong.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Mme o tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekeloo sena"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "sekeloo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "nakong ya lona e kgethilweng"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ho tloha matsatsing"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ho ya matsatsing"
+    }
+  ],
+  "timestamp": "2026-10-03T05:49:00.478612524Z",
+  "model": "glm-5.3"
+}

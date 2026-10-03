@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 136,
+  "translation": "Mme a ntša ⟨את⟩ Yisraele hara bona, hobane hesede ya hae ya ho isa kahosafeleng.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Mme a ntša"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "hara bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho isa kahosafeleng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T11:01:46.183993260Z",
+  "model": "glm-5.3"
+}

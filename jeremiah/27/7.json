@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 27,
+  "translation": "Mme ditjhaba tsohle di tla mo sebeletsa, le moea oa hae le moea oa moea oa hae, ho fihlela ho tla nako ea naha ea hae, eena oena; mme ditjhaba tse ngata le bomorena ba baholo ba tla mo sebeletsa.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "mme di tla mo sebeletsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ditjhaba tsohle (moena)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "moea oa hae"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "moea oa hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "moea oa moea oa hae"
+    },
+    {
+      "surface": "בן",
+      "gloss": "moea oa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "moea oa hae"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ho tla"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ea naha ea hae"
+    },
+    {
+      "surface": "גם",
+      "gloss": "oena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mme ba tla mo sebeletsa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "tse ngata"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "le bomorena"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ba baholo"
+    }
+  ],
+  "timestamp": "2026-10-03T09:16:18.736848192Z",
+  "model": "glm-5.3"
+}

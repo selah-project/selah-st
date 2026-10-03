@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Ho moeta-pele wa poko. Poko ya Dawide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho moeta-pele wa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "poko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dawide"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:19.790906967Z",
+  "model": "glm-5.3"
+}

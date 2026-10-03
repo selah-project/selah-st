@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "translation": "Mme ba se ke ba ba jwalo ka bo-ntate ba bona, sehlaha se hanyetsang le se hlohlellelang, sehlaha se sa lokisetsang pelo ya sona, mme ruakh ya sona e sa tshephehang ho ⟨את⟩ El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mme ba se ke ba"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba ba jwalo"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "jwalo ka bo-ntate ba bona"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sehlaha"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "se hanyetsang"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "le se hlohlellelang"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sehlaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "lokisetsang"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya sona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme e sa"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "tshephehang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh ya sona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:11:13.806586449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 2,
+  "translation": "Ka hona, bonang, ke tla koahela ⟨את⟩ tselah ya hae ka meqala, mme ke tla aha ⟨את⟩ lerako, mme ditsela tsa hae di ke ke tsa fumaneha.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ka hona"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonahle, ke"
+    },
+    {
+      "surface": "שך",
+      "gloss": "ke tla koahela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tselah ya hae"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tselah ya hae"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "ka meqala"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "mme ke tla aha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerako"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "lerako"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "mme ditsela tsa hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha \/ di ke ke"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tsa fumaneha"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:34.514780962Z",
+  "model": "glm-5.3"
+}

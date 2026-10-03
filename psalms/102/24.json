@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 102,
+  "translation": "O ile a fokotsa matla a ka tseleng, o khutsafatsa malatsi a ka.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "o ile a fokotsa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "o khutsafatsa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "malatsi a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:50:34.037510116Z",
+  "model": "glm-5.3"
+}

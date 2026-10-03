@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 91,
+  "translation": "Ba tla u tsamaisa mahlong a matsogo a tona, o se ke wa thula lonoto la hao le lejoe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mahlong"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "a matsogo a tona"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "Ba tla u tsamaisa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "thula"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "lejoe"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lonoto la hao"
+    }
+  ],
+  "timestamp": "2026-10-03T10:48:55.765216759Z",
+  "model": "glm-5.3"
+}

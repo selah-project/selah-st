@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme bana ba Perese ba ne ba le: ba Khetsrone, mokhatlo oa Bakhetserone; ba Khamule, mokhatlo oa Bakhamule.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ba ne ba le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perese"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "ba Khetsrone"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mokhatlo oa"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "Bakhetserone"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "ba Khamule"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mokhatlo oa"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "Bakhamule"
+    }
+  ],
+  "timestamp": "2026-10-03T06:34:51.120654479Z",
+  "model": "glm-5.3"
+}

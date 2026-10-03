@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "translation": "Mme ho ile ha ba le ⟨⟨the⟩⟩ lefatshe ka bophara sefofu se le seng, mme mantswe a le seng.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ho ile ha ba le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka bophara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "sefofu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "se le seng"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "mme mantswe"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "a le seng"
+    }
+  ],
+  "timestamp": "2026-10-03T05:22:50.296126373Z",
+  "model": "glm-5.3"
+}

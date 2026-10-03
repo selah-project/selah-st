@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 17:4",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Elazare moprista a nka ⟨את⟩ disejana tsa koporo tseo ba neng ba sisitse ho li hlahisa ba neng ba chesoa, mme a li tswalalela hore e be sephethephi sa altaraka.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mme a nka"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazare"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "disejana tsa kopora"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "disejana tsa"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kopora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "ba neng ba sisitse ho li hlahisa"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "ba neng ba chesoa"
+    },
+    {
+      "surface": "וירקעום",
+      "gloss": "mme a li tswalalela"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "sephethephi"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sa altaraka"
+    }
+  ],
+  "timestamp": "2026-10-03T06:31:31.167955873Z",
+  "model": "glm-5.3"
+}

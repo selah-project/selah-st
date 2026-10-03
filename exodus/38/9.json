@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 38,
+  "translation": "Mme o ile a etsa ⟨את⟩ lekalaka; ka lehlakoreng la borwa, ka boroa, dirala tsa lekalaka di ne di le kanefe e tlhakaneng, dilekane tse lekgolo ka maara.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lekalaka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lekalaka"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ka lehlakoreng la"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ka boroa"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "dirala tsa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lekalaka"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kanefe"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "e tlhakaneng"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka maara"
+    }
+  ],
+  "timestamp": "2026-10-03T06:01:26.913478008Z",
+  "model": "glm-5.3"
+}

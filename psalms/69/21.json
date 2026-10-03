@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Tlhoso e ile ya frophala pelo ya ka, mme ke a wela bohloko, mme ke ne ke lebeleletse ⟨⟨hore⟩⟩ o mong le o mong a nkelhe mohau, empa ho ne ho se ⟨⟨o mong le o mong⟩⟩; le bao ba ka nkholisang, empa ha ba a fumanoa.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "tlhoso"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "e ile ya frophala"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "mme ke a wela bohloko"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "mme ke ne ke lebeleletse"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "hore a nkelhe mohau"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "empa ho ne ho se o mong le o mong"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "le bao ba ka nkholisang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa ha"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ba a fumanoa"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:30.942737436Z",
+  "model": "glm-5.3"
+}

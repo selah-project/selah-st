@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 48,
+  "translation": "Mme Yosefa a ba ntsha ⟨את⟩ pakeng tsa mangoleng a hae, mme a inamisa sefahla sa hae ho ba rapela fattse le hae.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "a ba ntsha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba (bana)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "mangoleng a hae"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a inamisa sefahla sa hae ho ba rapela"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "sefahla sa hae"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fattse le hae"
+    }
+  ],
+  "timestamp": "2026-10-03T05:40:38.607542460Z",
+  "model": "glm-5.3"
+}

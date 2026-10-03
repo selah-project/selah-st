@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme re tla tseba, re phehle ho tseba ⟨את⟩ Yahwe; ho tswa ha hae ho netswe jwalo ka khanya ya hoseng, mme o tla tla ho rona jwalo ka pula, jwalo ka pula ya morao-rao e nang lefatšeng.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Mme re tla tseba"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "re phehle"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ho tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "jwalo ka khanya ya hoseng"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ho netswe"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ho tswa ha hae"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "mme o tla tla"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "jwalo ka pula"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "jwalo ka pula ya morao-rao"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "e nang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatšeng"
+    }
+  ],
+  "timestamp": "2026-10-03T10:00:11.736144409Z",
+  "model": "glm-5.3"
+}

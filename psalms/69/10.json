@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 69,
+  "translation": "Hobane litakatso tsa ntlo ea hao li nthlakile, mme mesebetsi ea ba o mesebetsing ea hao e oetse holim‘a ka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "litakatso"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ea hao"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "li nthlakile"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "mme mesebetsi"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "ba o mesebetsing ea hao"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "e oetse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "holim‘a ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:40:36.127889853Z",
+  "model": "glm-5.3"
+}

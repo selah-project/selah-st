@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme e bile o na le basadi ba babeli: lebitso la e ngwe Hana, mme la bobedi Penina; mme Penina o ne a na le bana, mme Hana ha a na bana.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Mme o ne a na le"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ba babeli"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso la"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e ngwe"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme la"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "bobedi"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o ne a na le"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "mme Hana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha a na"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-03T07:31:51.075991832Z",
+  "model": "glm-5.3"
+}

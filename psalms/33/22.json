@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 33,
+  "translation": "A be hesede ya hao, Yahwe, hodima rona, jwalo ka kamoo re letileng kateng ho wena.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "A be"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hodima rona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka kamoo"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "re letileng kateng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-03T10:30:44.648162961Z",
+  "model": "glm-5.3"
+}

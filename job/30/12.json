@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Ka letsohong le letona letshwele le hlaha, le phatlalatsa maoto a ka, mme le ntshela ka mehla ya thlokho.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "letsohong le letona"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "letshwele"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "le hlaha"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "le phatlalatsa"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "mme le ntshela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "mela"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "ya thlokho"
+    }
+  ],
+  "timestamp": "2026-10-03T11:28:59.194401643Z",
+  "model": "glm-5.3"
+}

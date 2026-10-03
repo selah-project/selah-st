@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 16,
+  "translation": "Mme makgentle a Shaule a ile a mo re: Bonwe, ruakh e mpe ya Elohim e a o tsuballetsa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a ile a mo re"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "makgentle"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "a Shaule"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "joalo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e mpe"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "e a o tsuballetsa"
+    }
+  ],
+  "timestamp": "2026-10-03T07:38:02.385598622Z",
+  "model": "glm-5.3"
+}

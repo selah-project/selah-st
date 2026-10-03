@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 12,
+  "translation": "A jeke Yahwe ⟨את⟩ melomo yohle ea boreleha, ⟨את⟩ leleme le buang dilo tse kholo.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "A jeke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "melomo"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ea boreleha"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "leleme"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "le buang"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dilo tse kholo"
+    }
+  ],
+  "timestamp": "2026-10-03T10:24:43.423930208Z",
+  "model": "glm-5.3"
+}

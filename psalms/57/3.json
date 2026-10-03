@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 57,
+  "translation": "Ke tla bitsa ho Elohim Elyone, ho El ya phethang sebakeng sa ka.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "ke tla bitsa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ho El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ya phethang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sebakeng sa ka"
+    }
+  ],
+  "timestamp": "2026-10-03T10:38:44.314322166Z",
+  "model": "glm-5.3"
+}

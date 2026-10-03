@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 43,
+  "translation": "Romela leseli la hao le `nnete ya hao — tsona di tla ntata; di mpeise holeka thaba ya hae e halalelang le ho Mishkane ya hae.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Romela"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "leseli la hao"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "le `nnete ya hao"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tsona"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "di tla ntata"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "di mpeise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "holeka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya hae e halalelang"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "Mishkane ya hae"
+    }
+  ],
+  "timestamp": "2026-10-03T10:33:58.856635353Z",
+  "model": "glm-5.3"
+}

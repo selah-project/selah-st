@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme ka utloa ⟨את⟩ lentswe la Adonai le re: ⟨את⟩ Ke ngkang ke romella? Mang ea tlang ho tsamaya ho rona? Mme ka re: Bonahle ke nna; ntolosa ke romelle.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "mme ka utloa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentswe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "la Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "le re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ke ngkang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ke ngkang"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ke romella"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Mang"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ea tlang ho tsamaya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mme ka re"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonahle ke nna"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ntolosa ke romelle"
+    }
+  ],
+  "timestamp": "2026-10-03T08:36:27.737102237Z",
+  "model": "glm-5.3"
+}

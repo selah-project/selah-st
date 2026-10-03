@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme Yahwe o tla ba neha pele ga lona, mme le tla etsa ho bona ho ya ka taelo eohle eo ke laetseng ⟨את⟩ lona ka yona.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "o tla ba neha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme le tla etsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ho ya ka eohle"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ke laetseng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:02:42.472916960Z",
+  "model": "glm-5.3"
+}

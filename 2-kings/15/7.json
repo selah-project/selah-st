@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme Azarja a robala le bo-ntate wa hae, mme ba mo klaba le bo-ntate wa hae toropong ya Dawide; mme Yotame mora wa hae a busaSebakeng sa hae.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate wa hae"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ba mo klaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate wa hae"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotame"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "Sebakeng sa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T08:23:55.537356056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "E hlotsoeng ke Yahwe, hobane o ile a etsa hesede hae e makatsang ho nna, toropong ea mpong.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "E hlotsoeng ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "a etsa e makatsang"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede hae"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ea mpong"
+    }
+  ],
+  "timestamp": "2026-10-03T10:31:02.249757012Z",
+  "model": "glm-5.3"
+}

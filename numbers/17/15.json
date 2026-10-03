@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 17,
+  "translation": "Mme Aharone a kgutlela ho Moshe, ho moedi wa kanoko ya kopano, mme pefo e ne ya emisoa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Mme ... a kgutlela"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "moedi wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kanoko ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kopano"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "mme pefo"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "e ne ya emisoa"
+    }
+  ],
+  "timestamp": "2026-10-03T06:30:36.077721578Z",
+  "model": "glm-5.3"
+}

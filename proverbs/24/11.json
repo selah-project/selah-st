@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 24,
+  "translation": "Pholosa ba tsejwang ho lefu, le ba atamelang ho bolawa — na o tla ba thibela?",
+  "tokens": [
+    {
+      "surface": "הצל",
+      "gloss": "Pholosa"
+    },
+    {
+      "surface": "לקחים",
+      "gloss": "ba tsejwang"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ho lefu"
+    },
+    {
+      "surface": "ומטים",
+      "gloss": "le ba atamelang"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ho bolawa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחשוך",
+      "gloss": "o tla ba thibela"
+    }
+  ],
+  "timestamp": "2026-10-03T11:15:27.363863258Z",
+  "model": "glm-5.3"
+}

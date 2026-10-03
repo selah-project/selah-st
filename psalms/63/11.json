@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 63,
+  "translation": "Ba tla tlohelledwa hodima matsoho a sebelo; ba tla ba karolo ya diphiri.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ba tla tlohelledwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matsoho a"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sebelo"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "diphiri"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba tla ba"
+    }
+  ],
+  "timestamp": "2026-10-03T10:39:13.921634148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme ke tla beha ⟨את⟩ metse ea lona e le sehlaha, mme ke tla timetsa ⟨את⟩ meaho ea lona ea halalelo; mme ke tla se ke ka nkha bo monate ba lona ba phekolang.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mme ke tla beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metse ea lona"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "metse ea lona"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "e le sehlaha"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "mme ke tla timetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meaho ea lona ea halalelo"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "meaho ea lona ea halalelo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme... se ke"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "ka nkha"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "bo monate"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "ba lona ba phekolang"
+    }
+  ],
+  "timestamp": "2026-10-03T06:19:03.799458166Z",
+  "model": "glm-5.3"
+}

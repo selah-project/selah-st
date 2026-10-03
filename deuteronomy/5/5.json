@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 5,
+  "translation": "Ene ke nna ea emeng mahareng ga Yahwe le lona ka nako eo, ho tla phatlalatsa ho lona ⟨את⟩ lentsoe la Yahwe, hobane le ne le tsehlehoa ke ⟨sebono⟩ mulilo, mme le ha ka oa nyolloa thabeng, ho re:",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ea emeng"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mahareng ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ho tla phatlalatsa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentsoe la Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentsoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "le ne le tsehlehoa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mulilo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme le ha ka oa"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "nyolloa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    }
+  ],
+  "timestamp": "2026-10-03T12:49:02.313843657Z",
+  "model": "glm-5.3"
+}

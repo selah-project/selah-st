@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 97,
+  "translation": "Meqoqo ya hae ya halaledisa lefatshe, lefatshe la bona, la thothoka.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "ya halaledisa"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Meqoqo ya hae"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "la bona"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "la thothoka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-03T10:49:28.698305310Z",
+  "model": "glm-5.3"
+}

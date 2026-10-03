@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 30:7",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 30,
+  "translation": "Aowa! Hobane letsatsi leo le se nang mpya, ha ho a tshwanang le lona; ke nako ea tsitsipatsi bakeng sa Yaakobo, empa ho tsona o tla pholoha.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aowa!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le se nang mpya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "a tshwanang le lona"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ke nako"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ea tsitsipatsi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨e lebella bakeng sa⟩"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "וממנה",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "o tla pholoha"
+    }
+  ],
+  "timestamp": "2026-10-03T09:18:03.616814738Z",
+  "model": "glm-5.3"
+}

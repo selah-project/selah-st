@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 1,
+  "translation": "Mme Yehuda a nka ⟨את⟩ Aza le ⟨את⟩ moeli oa eona, le ⟨את⟩ Ashkelone le ⟨את⟩ moeli oa eona, le ⟨את⟩ Ekrone le ⟨את⟩ moeli oa eona.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "moeli oa eona"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "moeli oa eona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ashkelone"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "moeli oa eona"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "moeli oa eona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ekrone"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekrone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "moeli oa eona"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "moeli oa eona"
+    }
+  ],
+  "timestamp": "2026-10-03T07:17:00.613551011Z",
+  "model": "glm-5.3"
+}
