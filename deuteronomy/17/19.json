@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 17,
-  "translation": "E tla ba le yena, mme a bale ho yona matsatsi ohle a bophelo ba hae, hore a ithute ho tšaba ⟨את⟩ Yahwe Elohim wa hae, ho boloka ⟨את⟩ mantswe ohle a Torah ena le ⟨את⟩ melaoana ena, ho e etsa.",
+  "translation": "E tla ba le yena, mme o tla bala ho yona matsatsi ohle a bophelo ba hae, hore a ithute ho tshaba ⟨את⟩ Yahwe Elohim wa hae, ho boloka ⟨את⟩ mantswe ohle a Torah ena le ⟨את⟩ melawana ena, e be o e etse.",
   "tokens": [
     {
       "surface": "והיתה",
-      "gloss": "e tla ba"
+      "gloss": "E tla ba"
     },
     {
       "surface": "עמו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "וקרא",
-      "gloss": "mme a bale"
+      "gloss": "mme o tla bala"
     },
     {
       "surface": "בו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ימי",
-      "gloss": "matsatsi a"
+      "gloss": "matsatsi"
     },
     {
       "surface": "חייו",
-      "gloss": "bophelo ba hae"
+      "gloss": "a bophelo ba hae"
     },
     {
       "surface": "למען",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "ליראה",
-      "gloss": "ho tšaba"
+      "gloss": "ho tshaba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe"
+      "marks": "Yahwe Elohim wa hae"
     },
     {
       "surface": "יהוה",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "דברי",
-      "gloss": "mantswe a"
+      "gloss": "mantswe"
     },
     {
       "surface": "התורה",
-      "gloss": "Torah"
+      "gloss": "a Torah"
     },
     {
       "surface": "הזאת",
@@ -87,11 +87,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "melawana ena"
     },
     {
       "surface": "החקים",
-      "gloss": "melaoana"
+      "gloss": "melawana"
     },
     {
       "surface": "האלה",
@@ -99,9 +100,9 @@
     },
     {
       "surface": "לעשתם",
-      "gloss": "ho e etsa"
+      "gloss": "e be o e etse"
     }
   ],
-  "timestamp": "2026-10-03T06:55:41.653378790Z",
+  "timestamp": "2026-10-03T20:10:06.848572346Z",
   "model": "glm-5.3"
 }

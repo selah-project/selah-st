@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 10,
-  "translation": "Mme jwale, Yisraele, ke eng se hlokileng ho Yahwe Elohim wa hao ho uena, ntle le ho tšaba ⟨את⟩ Yahwe Elohim wa hao, ho tsamaea mehlala ya hae ka oohle, le ho mo rata, le ho hlankela ⟨את⟩ Yahwe Elohim wa hao ka pelo ya hau ka oohle le ka moea wa hau ka oohle?",
+  "translation": "Mme jwale, Yisraele, ke eng seo Yahwe Elohim ya hao a se kopoang ho wena, haese feela hore o tšabe Yahwe Elohim ya hao, o tsamae ditseleng tsa hae tsohle, mme o mo rate, mme o dire Yahwe Elohim ya hao ka pelo ya hao eohle le ka moyao wa hao oohle?",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "mme jwale"
+      "gloss": "Mme jwale"
     },
     {
       "surface": "ישראל",
@@ -25,32 +25,32 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim wa hao"
+      "gloss": "Elohim ya hao"
     },
     {
       "surface": "שאל",
-      "gloss": "se hlokileng ho"
+      "gloss": "a se kopoang"
     },
     {
       "surface": "מעמך",
-      "gloss": "ho uena"
+      "gloss": "ho wena"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "haese feela hore"
     },
     {
       "surface": "אם",
-      "gloss": "ntle le"
+      "gloss": "feelа"
     },
     {
       "surface": "ליראה",
-      "gloss": "ho tšaba"
+      "gloss": "o tšabe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe Elohim wa hao"
+      "marks": "Yahwe Elohim ya hao"
     },
     {
       "surface": "יהוה",
@@ -58,36 +58,37 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim wa hao"
+      "gloss": "Elohim ya hao"
     },
     {
       "surface": "ללכת",
-      "gloss": "ho tsamaea"
+      "gloss": "o tsamae"
     },
     {
       "surface": "בכל",
-      "gloss": "ka oohle"
+      "gloss": "ka tsela ya hae eohle"
     },
     {
       "surface": "דרכיו",
-      "gloss": "mehlala ya hae"
+      "gloss": "ditseleng tsa hae"
     },
     {
       "surface": "ולאהבה",
-      "gloss": "le ho mo rata"
+      "gloss": "mme o mo rate"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yena"
+      "gloss": "⟨את⟩",
+      "marks": "o mo rate"
     },
     {
       "surface": "ולעבד",
-      "gloss": "le ho hlankela"
+      "gloss": "mme o dire"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe Elohim wa hao"
+      "marks": "Yahwe Elohim ya hao"
     },
     {
       "surface": "יהוה",
@@ -95,15 +96,15 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim wa hao"
+      "gloss": "Elohim ya hao"
     },
     {
       "surface": "בכל",
-      "gloss": "ka oohle"
+      "gloss": "ka eohle"
     },
     {
       "surface": "לבבך",
-      "gloss": "pelo ya hau"
+      "gloss": "pelo ya hao"
     },
     {
       "surface": "ובכל",
@@ -111,9 +112,9 @@
     },
     {
       "surface": "נפשך",
-      "gloss": "moea wa hau"
+      "gloss": "moyao wa hao"
     }
   ],
-  "timestamp": "2026-10-03T06:49:07.530895803Z",
+  "timestamp": "2026-10-03T20:50:53.319753588Z",
   "model": "glm-5.3"
 }

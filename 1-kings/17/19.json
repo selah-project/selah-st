@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "st",
   "chapter": 17,
-  "translation": "Mme Elia a re ho eena: Mpa o nke ⟨את⟩ mora wa hao mpe nna. Mme a mo nka ho seeng sa hae, a mo isa hodima ⟨the⟩ pôte eo yena a neng a dula ho yona, mme a mo robatsa holim'a bolaong ba hae.",
+  "translation": "Mme a re ho eena: Mpe o mpele ⟨את⟩ mora wa hao. Mme a mo tshwara a mo tlosa pelong ya hae, a mo isa hodima kamore ya hodimo moo a duleng teng, mme a mo robatsa holimo betheng ya hae.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "תני",
-      "gloss": "mpa o nke… mpe"
+      "gloss": "o mpele"
     },
     {
       "surface": "לי",
-      "gloss": "nna"
+      "gloss": "mpa"
     },
     {
       "surface": "את",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ויקחהו",
-      "gloss": "a mo nka"
+      "gloss": "a mo tshwara"
     },
     {
       "surface": "מחיקה",
-      "gloss": "ho seeng sa hae"
+      "gloss": "pelong ya hae"
     },
     {
       "surface": "ויעלהו",
@@ -46,27 +46,27 @@
     },
     {
       "surface": "אל",
-      "gloss": "ho"
+      "gloss": "hodima"
     },
     {
       "surface": "העליה",
-      "gloss": "pôte"
+      "gloss": "kamore ya hodimo"
     },
     {
       "surface": "אשר",
-      "gloss": "eo"
+      "gloss": "moo"
     },
     {
       "surface": "הוא",
-      "gloss": "yena"
+      "gloss": "⟨ena⟩"
     },
     {
       "surface": "ישב",
-      "gloss": "a dulang"
+      "gloss": "a duleng"
     },
     {
       "surface": "שם",
-      "gloss": "ho yona"
+      "gloss": "teng"
     },
     {
       "surface": "וישכבהו",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "על",
-      "gloss": "holim'a"
+      "gloss": "holimo"
     },
     {
       "surface": "מטתו",
-      "gloss": "bolaong ba hae"
+      "gloss": "betheng ya hae"
     }
   ],
-  "timestamp": "2026-10-03T12:57:15.106324511Z",
+  "timestamp": "2026-10-03T20:31:51.478358951Z",
   "model": "glm-5.3"
 }

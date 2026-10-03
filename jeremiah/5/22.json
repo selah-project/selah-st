@@ -5,19 +5,20 @@
   "book": "jeremiah",
   "lang": "st",
   "chapter": 5,
-  "translation": "Na le ke ⟨את⟩ nna le sa tšabang, ho bolela Yahwe? Kapa ho sefahleho sa ka le sa hlohlonang? Ya theotseng letsopa e le mollong wa lewatle, e le molao wa kahosafeleng, o o sa feteng; masimo a wona a ikhohomosetsa mme a sa kgone, a ikhohoma mme a sa fete mollong.",
+  "translation": "Nkea ke ea ntoa le ho tshaba? ho bolela Yahwe; kapa ka sefahleho sa ka le se tshwarwe ke tsheko? Ea behileng ⟨את⟩ mohala wa lewatle joalo ka mollane, molao wa kahosafeleng, oo le o ka se folang; mme lififing li iketsetsa, empa li se ke la kgona, mme lipelaelo tsa lona lia luma, empa li se ke la o fola.",
   "tokens": [
     {
       "surface": "האותי",
-      "gloss": "Na le ke ⟨את⟩ nna"
+      "gloss": "⟨את⟩ nkea ke ea ntoa",
+      "marks": "nkea (1sg)"
     },
     {
       "surface": "לא",
-      "gloss": "le sa"
+      "gloss": "le"
     },
     {
       "surface": "תיראו",
-      "gloss": "tšabang"
+      "gloss": "tshaba"
     },
     {
       "surface": "נאם",
@@ -33,31 +34,31 @@
     },
     {
       "surface": "מפני",
-      "gloss": "ho sefahleho sa ka"
+      "gloss": "ka sefahleho sa ka"
     },
     {
       "surface": "לא",
-      "gloss": "le sa"
+      "gloss": "le"
     },
     {
       "surface": "תחילו",
-      "gloss": "hlohlonang"
+      "gloss": "tshwarwe ke tsheko"
     },
     {
       "surface": "אשר",
-      "gloss": "Ya"
+      "gloss": "ea"
     },
     {
       "surface": "שמתי",
-      "gloss": "theotseng"
+      "gloss": "behileng"
     },
     {
       "surface": "חול",
-      "gloss": "letsopa"
+      "gloss": "mohala"
     },
     {
       "surface": "גבול",
-      "gloss": "mollong"
+      "gloss": "mollane"
     },
     {
       "surface": "לים",
@@ -73,41 +74,41 @@
     },
     {
       "surface": "ולא",
-      "gloss": "o o sa"
+      "gloss": "empa le"
     },
     {
       "surface": "יעברנהו",
-      "gloss": "feteng"
+      "gloss": "ka se fola"
     },
     {
       "surface": "ויתגעשו",
-      "gloss": "a ikhohomosetsa"
+      "gloss": "mme li iketsetsa"
     },
     {
       "surface": "ולא",
-      "gloss": "mme a sa"
+      "gloss": "empa li"
     },
     {
       "surface": "יוכלו",
-      "gloss": "kgone"
+      "gloss": "se ke la kgona"
     },
     {
       "surface": "והמו",
-      "gloss": "a ikhohoma"
+      "gloss": "mme li a luma"
     },
     {
       "surface": "גליו",
-      "gloss": "masimo a wona"
+      "gloss": "mawele a lona"
     },
     {
       "surface": "ולא",
-      "gloss": "mme a sa"
+      "gloss": "empa li"
     },
     {
       "surface": "יעברנהו",
-      "gloss": "fete mollong"
+      "gloss": "se ke la o fola"
     }
   ],
-  "timestamp": "2026-10-03T09:03:33.082460789Z",
+  "timestamp": "2026-10-03T20:15:42.721961754Z",
   "model": "glm-5.3"
 }

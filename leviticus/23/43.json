@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "st",
   "chapter": 23,
-  "translation": "Hore meloko ya lona e tsebe hore ka masukhu Ke ne Ke entse bana ba Yisraele ba dula, ka ho ba ntša naheng ea Mitsrayime: Ke Yahwe Elohim ya lona.",
+  "translation": "E le hore meloko ya lona e tsebe hore ke tsamaisitse bana ba Yisraele ho dula mahateding, ka nako ya ho ba ntsha naheng ya Mitsrayime; ke nna Yahwe Elohim ya lona.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "hore"
+      "gloss": "e le hore"
     },
     {
       "surface": "ידעו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בסכות",
-      "gloss": "ka masukhu"
+      "gloss": "mahateding"
     },
     {
       "surface": "הושבתי",
-      "gloss": "Ke ne Ke entse ba dula"
+      "gloss": "ke tsamaisitse ho dula"
     },
     {
       "surface": "את",
@@ -46,16 +46,15 @@
     },
     {
       "surface": "בהוציאי",
-      "gloss": "ka ho ba ntša"
+      "gloss": "ka nako ya ho ba ntsha"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ba",
-      "marks": "naheng ea Mitsrayime"
+      "gloss": "⟨את⟩ ba"
     },
     {
       "surface": "מארץ",
-      "gloss": "naheng ea"
+      "gloss": "naheng ya"
     },
     {
       "surface": "מצרים",
@@ -63,7 +62,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "Ke"
+      "gloss": "ke nna"
     },
     {
       "surface": "יהוה",
@@ -74,6 +73,6 @@
       "gloss": "Elohim ya lona"
     }
   ],
-  "timestamp": "2026-10-03T06:16:23.614433628Z",
+  "timestamp": "2026-10-03T20:07:49.503625299Z",
   "model": "glm-5.3"
 }

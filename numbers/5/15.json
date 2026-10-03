@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "st",
   "chapter": 5,
-  "translation": "Mme monna a hlahisa ⟨את⟩ mosadi wa hae ho moprista, a hlahisa ⟨את⟩ sehlabelo sa hae bakeng sa yona: kholo ya efa ya mofufu oa barele; ha a tšeke mafura hodima yona, mme a se ke a beha liboka hodima yona; hobane ke minkha ya kgethlo, minkha ya hopotso, e hopotsang molato.",
+  "translation": "Mme monna a tlisa ⟨את⟩ mosadi wa hae ho moprista, mme a tlisa ⟨את⟩ sefalwe sa hae ho eena, e le karolo ya bohle ya efa, bolenge ba barele; a se ke a thula oli ka hodima sona, kapa a se ke a beha libonokgoho ka hodima sona, hobane ke minkha ya kgaleno, minkha ya hopolo, e hopotsang ⟨את⟩ boloke.",
   "tokens": [
     {
       "surface": "והביא",
-      "gloss": "a hlahisa"
+      "gloss": "mme a tlisa"
     },
     {
       "surface": "האיש",
@@ -34,24 +34,24 @@
     },
     {
       "surface": "והביא",
-      "gloss": "a hlahisa"
+      "gloss": "mme a tlisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sehlabelo sa hae"
+      "marks": "sefalwe sa hae"
     },
     {
       "surface": "קרבנה",
-      "gloss": "sehlabelo sa hae"
+      "gloss": "sefalwe sa hae"
     },
     {
       "surface": "עליה",
-      "gloss": "bakeng sa yona"
+      "gloss": "ho eena"
     },
     {
       "surface": "עשירת",
-      "gloss": "kholo ya"
+      "gloss": "karolo ya bohle"
     },
     {
       "surface": "האיפה",
@@ -59,31 +59,31 @@
     },
     {
       "surface": "קמח",
-      "gloss": "mofufu"
+      "gloss": "bolenge"
     },
     {
       "surface": "שערים",
-      "gloss": "oa barele"
+      "gloss": "ba barele"
     },
     {
       "surface": "לא",
-      "gloss": "ha"
+      "gloss": "a se ke"
     },
     {
       "surface": "יצק",
-      "gloss": "a tšeke"
+      "gloss": "a thula"
     },
     {
       "surface": "עליו",
-      "gloss": "hodima yona"
+      "gloss": "ka hodima sona"
     },
     {
       "surface": "שמן",
-      "gloss": "mafura"
+      "gloss": "oli"
     },
     {
       "surface": "ולא",
-      "gloss": "mme a se ke"
+      "gloss": "kapa a se ke"
     },
     {
       "surface": "יתן",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "עליו",
-      "gloss": "hodima yona"
+      "gloss": "ka hodima sona"
     },
     {
       "surface": "לבנה",
-      "gloss": "liboka"
+      "gloss": "libonokgoho"
     },
     {
       "surface": "כי",
@@ -103,23 +103,23 @@
     },
     {
       "surface": "מנחת",
-      "gloss": "minkha ya"
+      "gloss": "minkha"
     },
     {
       "surface": "קנאת",
-      "gloss": "kgethlo"
+      "gloss": "ya kgaleno"
     },
     {
       "surface": "הוא",
-      "gloss": "ke eona"
+      "gloss": "e le"
     },
     {
       "surface": "מנחת",
-      "gloss": "minkha ya"
+      "gloss": "minkha"
     },
     {
       "surface": "זכרון",
-      "gloss": "hopotso"
+      "gloss": "ya hopolo"
     },
     {
       "surface": "מזכרת",
@@ -127,9 +127,9 @@
     },
     {
       "surface": "עון",
-      "gloss": "molato"
+      "gloss": "boloke"
     }
   ],
-  "timestamp": "2026-10-03T12:47:02.681783374Z",
+  "timestamp": "2026-10-03T20:07:51.966457240Z",
   "model": "glm-5.3"
 }

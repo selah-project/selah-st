@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 8,
-  "translation": "Mme morena a botsa mosali, mosali a mo bolella; mme morena a mo faleta sarise e le 'ngoe, a re: Busa ⟨את⟩ tsohle tsa hae le ⟨את⟩ dimpho tsohle tsa tšimo, ho tloha letsatsing a tlohileng ⟨את⟩ lefatshe ho fihlela jwale.",
+  "translation": "Mme morena a botsa peleng ya mosali, mme a mo bolelela. Mme morena a neela yena sarise mong, a re: Kgutlisa ⟨את⟩ tsohle tseo a nang le tsona, le ⟨את⟩ dimpho tsohle tsa masimo, ho tloha letsatsing a tlohang ⟨את⟩ naha, ho fihlela jwale.",
   "tokens": [
     {
       "surface": "וישאל",
-      "gloss": "mme a botsa"
+      "gloss": "a botsa"
     },
     {
       "surface": "המלך",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "לאשה",
-      "gloss": "mosali"
+      "gloss": "peleng ya mosali"
     },
     {
       "surface": "ותספר",
-      "gloss": "mme a bolella"
+      "gloss": "a mo bolelela"
     },
     {
       "surface": "לו",
-      "gloss": "o ena"
+      "gloss": "yena"
     },
     {
       "surface": "ויתן",
-      "gloss": "mme a faleta"
+      "gloss": "a neela"
     },
     {
       "surface": "לה",
-      "gloss": "o ena"
+      "gloss": "yena"
     },
     {
       "surface": "המלך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "e le 'ngoe"
+      "gloss": "mong"
     },
     {
       "surface": "לאמר",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "השיב",
-      "gloss": "busa"
+      "gloss": "Kgutlisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tsohle tsa hae"
+      "marks": "tsohle"
     },
     {
       "surface": "כל",
@@ -66,16 +66,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "tsa"
+      "gloss": "tseo"
     },
     {
       "surface": "לה",
-      "gloss": "hae"
+      "gloss": "a nang le tsona"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "dimpho tsohle tsa tšimo"
+      "gloss": "le ⟨את⟩"
     },
     {
       "surface": "כל",
@@ -83,11 +82,11 @@
     },
     {
       "surface": "תבואת",
-      "gloss": "dimpho tsa"
+      "gloss": "dimpho"
     },
     {
       "surface": "השדה",
-      "gloss": "tšimo"
+      "gloss": "sa masimo"
     },
     {
       "surface": "מיום",
@@ -95,16 +94,16 @@
     },
     {
       "surface": "עזבה",
-      "gloss": "a tlohileng"
+      "gloss": "a tlohang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lefatshe"
+      "marks": "naha"
     },
     {
       "surface": "הארץ",
-      "gloss": "lefatshe"
+      "gloss": "naha"
     },
     {
       "surface": "ועד",
@@ -115,6 +114,6 @@
       "gloss": "jwale"
     }
   ],
-  "timestamp": "2026-10-03T08:22:32.783622113Z",
+  "timestamp": "2026-10-03T20:51:23.655161063Z",
   "model": "glm-5.3"
 }

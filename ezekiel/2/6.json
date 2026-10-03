@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "st",
   "chapter": 2,
-  "translation": "Mme wena, mora wa motho, o se ke wa ts'oha ba bona, mme o se ke wa ts'oha mantswe a bona; hobane mahlongana le dithari di le ⟨את⟩ le wena, mme wena u dula hara disekoropone. O se ke wa ts'oha mantswe a bona, kapa wa tshwarwa ke tšabo mahloneng a bona, hobane ke ntlo e hanyetsang.",
+  "translation": "Mme wena, mora wa motho, se ke wa ba tshaba, kapa ho tshaba mantswe a bona; hobane ditaere le dithunya di le ⟨את⟩ ⟨אותך⟩, mme wena o dula hara dinoka. Se ke wa tshaba mantswe a bona, mme se ke wa ofiswa ke mahlong a bona, hobane ke ntlo e hanyetsang bona.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "אדם",
-      "gloss": "wa motho"
+      "gloss": "motho"
     },
     {
       "surface": "אל",
-      "gloss": "o se ke"
+      "gloss": "se ke"
     },
     {
       "surface": "תירא",
-      "gloss": "wa ts'oha"
+      "gloss": "wa tshaba"
     },
     {
       "surface": "מהם",
-      "gloss": "ba bona"
+      "gloss": "bona"
     },
     {
       "surface": "ומדבריהם",
-      "gloss": "mme mantswe a bona"
+      "gloss": "mantswe a bona"
     },
     {
       "surface": "אל",
-      "gloss": "o se ke"
+      "gloss": "se ke"
     },
     {
       "surface": "תירא",
-      "gloss": "wa ts'oha"
+      "gloss": "wa tshaba"
     },
     {
       "surface": "כי",
@@ -49,23 +49,24 @@
     },
     {
       "surface": "סרבים",
-      "gloss": "mahlongana"
+      "gloss": "ditaere"
     },
     {
       "surface": "וסלונים",
-      "gloss": "le dithari"
+      "gloss": "le dithunya"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ le wena"
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "wena"
     },
     {
       "surface": "ואל",
-      "gloss": "le hara"
+      "gloss": "mme hara"
     },
     {
       "surface": "עקרבים",
-      "gloss": "disekoropone"
+      "gloss": "dinoka"
     },
     {
       "surface": "אתה",
@@ -73,7 +74,7 @@
     },
     {
       "surface": "יושב",
-      "gloss": "u dula"
+      "gloss": "o dula"
     },
     {
       "surface": "מדבריהם",
@@ -81,23 +82,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "o se ke"
+      "gloss": "se ke"
     },
     {
       "surface": "תירא",
-      "gloss": "wa ts'oha"
+      "gloss": "wa tshaba"
     },
     {
       "surface": "ומפניהם",
-      "gloss": "kapa mahloneng a bona"
+      "gloss": "mahlong a bona"
     },
     {
       "surface": "אל",
-      "gloss": "o se ke"
+      "gloss": "se ke"
     },
     {
       "surface": "תחת",
-      "gloss": "wa tshwarwa ke tšabo"
+      "gloss": "wa ofiswa"
     },
     {
       "surface": "כי",
@@ -116,6 +117,6 @@
       "gloss": "ke bona"
     }
   ],
-  "timestamp": "2026-10-03T13:06:22.294031550Z",
+  "timestamp": "2026-10-03T20:17:29.323350816Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "st",
   "chapter": 105,
-  "translation": "Mme a ntša ⟨את⟩ batho ba hae ka thabo, ba kgethilweng ba hae ka koeto.",
+  "translation": "Mme a hlotsa sechaba sa hae ka thabo, ka koetliso ya mokoetli ⟨את⟩ ba kgethilweng ba hae.",
   "tokens": [
     {
       "surface": "ויוצא",
-      "gloss": "mme a ntša"
+      "gloss": "Mme a hlotsa"
     },
     {
       "surface": "עמו",
-      "gloss": "batho ba hae"
+      "gloss": "sechaba sa hae"
     },
     {
       "surface": "בששון",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ברנה",
-      "gloss": "ka koeto"
+      "gloss": "ka koetliso ya mokoetli"
     },
     {
       "surface": "את",
@@ -33,6 +33,6 @@
       "gloss": "ba kgethilweng ba hae"
     }
   ],
-  "timestamp": "2026-10-03T10:52:10.844365744Z",
+  "timestamp": "2026-10-03T20:21:58.070164010Z",
   "model": "glm-5.3"
 }

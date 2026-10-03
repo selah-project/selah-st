@@ -5,20 +5,20 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 16,
-  "translation": "Mme ⟨את⟩ altare ya tšepe e neng e le pele ga Yahwe, a e atamalatsa ho tloha pele ga ntlo, ho tloha mahareng a altare le mahareng a ntlo ya Yahwe, mme a e beha hodima lehlakore la altare, leboya.",
+  "translation": "Mme ⟨את⟩ altara ya tshepe e neng e le pele ga Yahwe, a e sisinya hodima ngata ho tloha pele ga ntlo, pakeng tsa altara le pakeng tsa ntlo ya Yahwe, mme a bea ⟨את⟩ yona hodima leoto la altara, leboya.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "mme ⟨את⟩",
-      "marks": "altare ya tšepe"
+      "gloss": "⟨את⟩",
+      "marks": "altara ya tshepe"
     },
     {
       "surface": "המזבח",
-      "gloss": "altare"
+      "gloss": "altara"
     },
     {
       "surface": "הנחשת",
-      "gloss": "ya tšepe"
+      "gloss": "ya tshepe"
     },
     {
       "surface": "אשר",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "pela"
+      "gloss": "pele ga"
     },
     {
       "surface": "יהוה",
@@ -34,35 +34,35 @@
     },
     {
       "surface": "ויקרב",
-      "gloss": "a e atamalatsa"
+      "gloss": "a e sisinya"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ hodima ngata ho tloha"
     },
     {
       "surface": "פני",
-      "gloss": "pela"
+      "gloss": "pele ga"
     },
     {
       "surface": "הבית",
-      "gloss": "ya ntlo"
+      "gloss": "ntlo"
     },
     {
       "surface": "מבין",
-      "gloss": "ho tloha mahareng"
+      "gloss": "pakeng tsa"
     },
     {
       "surface": "המזבח",
-      "gloss": "a altare"
+      "gloss": "altara"
     },
     {
       "surface": "ומבין",
-      "gloss": "le mahareng"
+      "gloss": "le pakeng tsa"
     },
     {
       "surface": "בית",
-      "gloss": "a ntlo"
+      "gloss": "ntlo"
     },
     {
       "surface": "יהוה",
@@ -70,12 +70,12 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "mme a e beha"
+      "gloss": "mme a bea"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "altare ya tšepe"
+      "gloss": "⟨את⟩ yona",
+      "marks": "altara ya tshepe"
     },
     {
       "surface": "על",
@@ -83,17 +83,17 @@
     },
     {
       "surface": "ירך",
-      "gloss": "lehlakore"
+      "gloss": "leoto"
     },
     {
       "surface": "המזבח",
-      "gloss": "la altare"
+      "gloss": "la altara"
     },
     {
       "surface": "צפונה",
       "gloss": "leboya"
     }
   ],
-  "timestamp": "2026-10-03T08:26:35.699343429Z",
+  "timestamp": "2026-10-03T20:14:32.954595393Z",
   "model": "glm-5.3"
 }

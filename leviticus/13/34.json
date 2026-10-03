@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "st",
   "chapter": 13,
-  "translation": "Mme moprista o ile a shebisisa ⟨את⟩ senetso ka letsatsi la bošupa, mme dibua, senetso ha se phaladitswe ka letlalo, mme ponahalo ya sona e seng botenya ho feta ⟨the⟩ letlalo; mme moprista o ile a mo hloekisa, a hlatswe diaparo tsa hae, mme a hlokilwe.",
+  "translation": "Mme moprista a shebise ⟨את⟩ senetsoe ka letsatsi la bohlano, mme qobang, haeba senetsoe se sa atoloha letlalong, mme ponahalo ya sona e se ka ba tebohareng ho feta letlalo, moprista o mo hlokahatsa hore o hloekile, mme o tlatsa diaparo tsa hae, mme o hloekile.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "a shebisisa"
+      "gloss": "mme a shebise"
     },
     {
       "surface": "הכהן",
@@ -18,51 +18,51 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "senetso"
+      "marks": "senetsoe"
     },
     {
       "surface": "הנתק",
-      "gloss": "senetso"
+      "gloss": "senetsoe"
     },
     {
       "surface": "ביום",
-      "gloss": "ka letsatsi"
+      "gloss": "ka letsatsi la"
     },
     {
       "surface": "השביעי",
-      "gloss": "la bošupo"
+      "gloss": "la bohlano"
     },
     {
       "surface": "והנה",
-      "gloss": "mme dibua"
+      "gloss": "mme qobang"
     },
     {
       "surface": "לא",
-      "gloss": "ha"
+      "gloss": "ha se"
     },
     {
       "surface": "פשה",
-      "gloss": "se phaladitswe"
+      "gloss": "sa atoloha"
     },
     {
       "surface": "הנתק",
-      "gloss": "senetso"
+      "gloss": "senetsoe"
     },
     {
       "surface": "בעור",
-      "gloss": "ka letlalo"
+      "gloss": "letlalong"
     },
     {
       "surface": "ומראהו",
-      "gloss": "ponahalo ya sona"
+      "gloss": "mme ponahalo ya sona"
     },
     {
       "surface": "איננו",
-      "gloss": "e seng"
+      "gloss": "e se"
     },
     {
       "surface": "עמק",
-      "gloss": "botenya"
+      "gloss": "tebohareng"
     },
     {
       "surface": "מן",
@@ -74,12 +74,12 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "a mo hloekisa"
+      "gloss": "o mo hlokahatsa hore o hloekile"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "moprista"
+      "gloss": "⟨אתו⟩",
+      "marks": "yena (motho ya nang le senetsoe)"
     },
     {
       "surface": "הכהן",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "וכבס",
-      "gloss": "a hlatswe"
+      "gloss": "mme o tlatsa"
     },
     {
       "surface": "בגדיו",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "a hlokilwe"
+      "gloss": "mme o hloekile"
     }
   ],
-  "timestamp": "2026-10-03T06:09:48.353383501Z",
+  "timestamp": "2026-10-03T20:31:00.273618918Z",
   "model": "glm-5.3"
 }

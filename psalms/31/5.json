@@ -5,19 +5,24 @@
   "book": "psalms",
   "lang": "st",
   "chapter": 31,
-  "translation": "O ntsehetse sefahlelông se ba se patileng ho ⟨את⟩ lona; hobane u ⟨⟨e⟩⟩ matla a ka.",
+  "translation": "O ntshitse ⟨את⟩ sefala seo ba se patileng ho ’na, hobane u matla a ka a tiileng.",
   "tokens": [
     {
       "surface": "תוציאני",
-      "gloss": "O ntsehetse"
+      "gloss": "O ntshitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefala"
     },
     {
       "surface": "מרשת",
-      "gloss": "sefahlelông"
+      "gloss": "sefala"
     },
     {
       "surface": "זו",
-      "gloss": "se"
+      "gloss": "seo"
     },
     {
       "surface": "טמנו",
@@ -25,7 +30,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "ho lona"
+      "gloss": "ho ’na"
     },
     {
       "surface": "כי",
@@ -37,9 +42,9 @@
     },
     {
       "surface": "מעוזי",
-      "gloss": "matla a ka"
+      "gloss": "matla a ka a tiileng"
     }
   ],
-  "timestamp": "2026-10-03T10:30:23.728544621Z",
+  "timestamp": "2026-10-03T20:33:58.905399273Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,53 @@
   "book": "amos",
   "lang": "st",
   "chapter": 3,
-  "translation": "Tau e ile ea hola, ke mang ea sa tšohang? Adonai Yahwe o buile, ke mang ea sa porofetang?",
-  "tokens": [],
-  "timestamp": "2026-10-03T10:05:17.558774277Z",
+  "translation": "Tau e hulelle, mang ya ka tlosa ho tshaba? Adonai Yahwe o boletse, mang ya ka tlosa ho porofeta?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "e hulelle"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ya ka tlosa"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ho tshaba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o boletse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ya ka tlosa"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "ho porofeta"
+    }
+  ],
+  "timestamp": "2026-10-03T20:19:07.610809003Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "st",
   "chapter": 1,
-  "translation": "Mme wena, beha Balevi hodima Mishkane ya bopaki, le hodima didiriswa tsa yona tsohle, le hodima tsohle tsa yona; bona ba tla jara ⟨את⟩ Mishkane le ⟨את⟩ didiriswa tsa yona tsohle, mme ba tla e šereletsa; mme ho potoloha Mishkane ba tla khanna.",
+  "translation": "Empa uena, bea ⟨את⟩ balevi hodima Mishkane ya bopaki, le hodima ditho tsohle tsa yona, le hodima tsohle tse leng tsa yona; ba tla jara ⟨את⟩ Mishkane le ⟨את⟩ ditho tsa yona tsohle, mme ba tla e hlankela, mme ba tla phomola mabapi le Mishkane.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "mme wena"
+      "gloss": "empa uena"
     },
     {
       "surface": "הפקד",
-      "gloss": "beha"
+      "gloss": "bea"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Balevi"
+      "marks": "balevi"
     },
     {
       "surface": "הלוים",
-      "gloss": "Balevi"
+      "gloss": "balevi"
     },
     {
       "surface": "על",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "כליו",
-      "gloss": "didiriswa tsa yona"
+      "gloss": "ditho tsa yona"
     },
     {
       "surface": "ועל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "tseo"
+      "gloss": "tse"
     },
     {
       "surface": "לו",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "המה",
-      "gloss": "bona"
+      "gloss": "ba"
     },
     {
       "surface": "ישאו",
@@ -84,7 +84,7 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "didiriswa tsa yona tsohle"
+      "marks": "ditho tsa yona tsohle"
     },
     {
       "surface": "כל",
@@ -92,29 +92,29 @@
     },
     {
       "surface": "כליו",
-      "gloss": "didiriswa tsa yona"
+      "gloss": "ditho tsa yona"
     },
     {
       "surface": "והם",
-      "gloss": "mme bona"
+      "gloss": "mme ba"
     },
     {
       "surface": "ישרתהו",
-      "gloss": "ba tla e šereletsa"
+      "gloss": "ba tla e hlankela"
     },
     {
       "surface": "וסביב",
-      "gloss": "mme ho potoloha"
+      "gloss": "mme mabapi"
     },
     {
       "surface": "למשכן",
-      "gloss": "Mishkane"
+      "gloss": "le Mishkane"
     },
     {
       "surface": "יחנו",
-      "gloss": "ba tla khanna"
+      "gloss": "ba tla phomola"
     }
   ],
-  "timestamp": "2026-10-03T06:19:52.520614230Z",
+  "timestamp": "2026-10-03T20:31:08.513098474Z",
   "model": "glm-5.3"
 }

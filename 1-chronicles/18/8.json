@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "st",
   "chapter": 18,
-  "translation": "Mme ho tloha Tibkhate le Khune, dibaka tsa Hadadezere, Dawide o ile a nka kgauta — tšheppedi e ntseng e ngata haholo; ho eona Shelomoho o ile a etsa ⟨את⟩ lewatle la tšheppedi, le ⟨את⟩ dikholomo, le ⟨את⟩ dithuluso tsa tšheppedi.",
+  "translation": "Mme ho tloha ho Tibkhate le ho tloha ho Khuene, dibaka tsa Hadadezere, Dawide o ile a nka kopore e mengata haholo, eo Shalomoe a e entseng ⟨את⟩ lewatle la kopore le ⟨את⟩ dikholomo le ⟨את⟩ didiriswa tsa kopore.",
   "tokens": [
     {
       "surface": "ומטבחת",
-      "gloss": "le ho tloha Tibkhate"
+      "gloss": "mme ho tloha ho Tibkhate"
     },
     {
       "surface": "ומכון",
-      "gloss": "le Khune"
+      "gloss": "le ho tloha ho Khuene"
     },
     {
       "surface": "ערי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "a nka"
+      "gloss": "o ile a nka"
     },
     {
       "surface": "דויד",
@@ -33,32 +33,32 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "tšheppedi"
+      "gloss": "kopore"
     },
     {
       "surface": "רבה",
-      "gloss": "e ntseng"
+      "gloss": "e mengata"
     },
     {
       "surface": "מאד",
-      "gloss": "e ngata haholo"
+      "gloss": "haholo"
     },
     {
       "surface": "בה",
-      "gloss": "ho eona"
+      "gloss": "ka yona"
     },
     {
       "surface": "עשה",
-      "gloss": "a etsa"
+      "gloss": "a e entseng"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoho"
+      "gloss": "Shalomoe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lewatle la tšheppedi"
+      "marks": "lewatle la kopore"
     },
     {
       "surface": "ים",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "la tšheppedi"
+      "gloss": "la kopore"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "le ⟨את⟩",
       "marks": "dikholomo"
     },
     {
@@ -79,18 +79,18 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "dithuluso tsa tšheppedi"
+      "gloss": "le ⟨את⟩",
+      "marks": "didiriswa tsa kopore"
     },
     {
       "surface": "כלי",
-      "gloss": "dithuluso tsa"
+      "gloss": "didiriswa"
     },
     {
       "surface": "הנחשת",
-      "gloss": "tšheppedi"
+      "gloss": "tsa kopore"
     }
   ],
-  "timestamp": "2026-10-03T12:18:03.919945108Z",
+  "timestamp": "2026-10-03T20:26:09.189180012Z",
   "model": "glm-5.3"
 }

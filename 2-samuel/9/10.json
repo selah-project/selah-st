@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "st",
   "chapter": 9,
-  "translation": "Mme o tla etsa mošomi ⟨את⟩ lefatshe, wena le bana ba hao le makgoba a hao, mme o tla kenya mme e tla ba ⟨le⟩ mora wa monga ka hao ⟨ja⟩: mme Mefiboshete, mora wa monga ka hao, o tla ja kamehla borelese bo ⟨tafole⟩ ya ka; mme ho Tsiba ho ne ho le bana ba leshome le metso e mmedi le makgoba a masome a mabedi.",
+  "translation": "Mme o tla lema ⟨את⟩ lefatshe bakeng sa hae — wena le bana ba hao le makgoboa a hao — mme o tla kenya; mme mora wa morena wa hao o tla ba le boreko, a bo je. Mme Mefiboshete, mora wa morena wa hao, o tla ja boreko ka ho sa feleng tafoleng ya ka. Mme Tsiba o na le bana ba lesomehlano le makgoboa a masomepedi.",
   "tokens": [
     {
       "surface": "ועבדת",
-      "gloss": "o tla etsa"
+      "gloss": "o tla lema"
     },
     {
       "surface": "לו",
-      "gloss": "mošomi"
+      "gloss": "bakeng sa hae"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ועבדיך",
-      "gloss": "le makgoba a hao"
+      "gloss": "le makgoboa a hao"
     },
     {
       "surface": "והבאת",
@@ -42,23 +42,23 @@
     },
     {
       "surface": "והיה",
-      "gloss": "e tla ba"
+      "gloss": "o tla ba le"
     },
     {
       "surface": "לבן",
-      "gloss": "mora wa"
+      "gloss": "mora"
     },
     {
       "surface": "אדניך",
-      "gloss": "monga ka hao"
+      "gloss": "morena wa hao"
     },
     {
       "surface": "לחם",
-      "gloss": "borelese"
+      "gloss": "boreko"
     },
     {
       "surface": "ואכלו",
-      "gloss": "ja"
+      "gloss": "a bo je"
     },
     {
       "surface": "ומפיבשת",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "mora wa"
+      "gloss": "mora"
     },
     {
       "surface": "אדניך",
-      "gloss": "monga ka hao"
+      "gloss": "morena wa hao"
     },
     {
       "surface": "יאכל",
@@ -78,31 +78,31 @@
     },
     {
       "surface": "תמיד",
-      "gloss": "kamehla"
+      "gloss": "ka ho sa feleng"
     },
     {
       "surface": "לחם",
-      "gloss": "borelese"
+      "gloss": "boreko"
     },
     {
       "surface": "על",
-      "gloss": "bo"
+      "gloss": "tafoleng"
     },
     {
       "surface": "שלחני",
-      "gloss": "tafole ya ka"
+      "gloss": "ya ka"
     },
     {
       "surface": "ולציבא",
-      "gloss": "ho Tsiba"
+      "gloss": "Tsiba o na le"
     },
     {
       "surface": "חמשה",
-      "gloss": "ba leshome le metso e mmedi"
+      "gloss": "hlano"
     },
     {
       "surface": "עשר",
-      "gloss": "le metso e mmedi"
+      "gloss": "lesome"
     },
     {
       "surface": "בנים",
@@ -110,13 +110,13 @@
     },
     {
       "surface": "ועשרים",
-      "gloss": "le makgoba a masome a mabedi"
+      "gloss": "le masomepedi"
     },
     {
       "surface": "עבדים",
-      "gloss": "makgoba"
+      "gloss": "makgoboa"
     }
   ],
-  "timestamp": "2026-10-03T07:49:19.433939476Z",
+  "timestamp": "2026-10-03T20:12:02.109620895Z",
   "model": "glm-5.3"
 }

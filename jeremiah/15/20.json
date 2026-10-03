@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "st",
   "chapter": 15,
-  "translation": "Mme ke tla u bea setjhabeng sena hore u be lebota la tšepe le tiileng; ba tla lwa le uena, mme ba ke ke ba fenya, hobane ke le uena, ho u pholosa le ho u lokolla, ho bolela Yahwe.",
+  "translation": "Mme ke tla be u sebakeng sa setjhaba sena ho ba koti ya matala e tiileng; ba tla lwa le wena, empa ba ke ke ba kgona ho u fenya, hobane ⟨את⟩-le wena ke nna, ho lokolla uena le ho lokolletsa uena, ho bolela Yahwe.",
   "tokens": [
     {
       "surface": "ונתתיך",
-      "gloss": "Mme ke tla u bea"
+      "gloss": "ke tla be u sebakeng sa"
     },
     {
       "surface": "לעם",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לחומת",
-      "gloss": "hore u be lebota"
+      "gloss": "ho ba koti ya"
     },
     {
       "surface": "נחשת",
-      "gloss": "la tšepe"
+      "gloss": "matala"
     },
     {
       "surface": "בצורה",
-      "gloss": "le tiileng"
+      "gloss": "e tiileng"
     },
     {
       "surface": "ונלחמו",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "אליך",
-      "gloss": "le uena"
+      "gloss": "le wena"
     },
     {
       "surface": "ולא",
-      "gloss": "mme ba ke ke"
+      "gloss": "empa eseng"
     },
     {
       "surface": "יוכלו",
-      "gloss": "ba fenya"
+      "gloss": "ba ke ke ba kgona"
     },
     {
       "surface": "לך",
-      "gloss": "ho uena"
+      "gloss": "ho u fenya"
     },
     {
       "surface": "כי",
@@ -57,19 +57,20 @@
     },
     {
       "surface": "אתך",
-      "gloss": "le uena ⟨את⟩"
+      "gloss": "⟨את⟩ le wena",
+      "marks": "le wena — preposition 'le' (H854), eseng sesupo sa策 direct object"
     },
     {
       "surface": "אני",
-      "gloss": "ke"
+      "gloss": "ke nna"
     },
     {
       "surface": "להושיעך",
-      "gloss": "ho u pholosa"
+      "gloss": "ho lokolla uena"
     },
     {
       "surface": "ולהצילך",
-      "gloss": "le ho u lokolla"
+      "gloss": "le ho lokolletsa uena"
     },
     {
       "surface": "נאם",
@@ -80,6 +81,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T09:08:50.384107608Z",
+  "timestamp": "2026-10-03T20:16:36.431799902Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "st",
   "chapter": 10,
-  "translation": "Mme ba sokoloha, banna bohle ba matla, mme ba ama ⟨את⟩ mmele wa Sheole le ⟨את⟩ melele ya bara wa hae, mme ba ba isha Yabeshe; mme ba hlabela ⟨את⟩ mafufu a tsona ka tlasa sefate sa terbalinte go Yabeshe, mme ba itšella matsatsi a supileng.",
+  "translation": "Mme ba lula botjha bonhle ba banna ba matla, mme ba isa ⟨את⟩ mmele wa Sheole le ⟨את⟩ melele ya bana ba hae, mme ba ba isa Yabeshe; mme ba hloma ⟨את⟩ mafutsana a bona ka tlase ha mokgoere Yabeshe, mme ba itshokolla matsatsi a supileng.",
   "tokens": [
     {
       "surface": "ויקומו",
-      "gloss": "mme ba sokoloha"
+      "gloss": "ba lula botjha"
     },
     {
       "surface": "כל",
-      "gloss": "bohle"
+      "gloss": "bonhle"
     },
     {
       "surface": "איש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וישאו",
-      "gloss": "mme ba ama"
+      "gloss": "ba isa"
     },
     {
       "surface": "את",
@@ -43,7 +43,7 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "melele ya bara wa hae"
+      "marks": "melele ya bana ba hae"
     },
     {
       "surface": "גופת",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "בניו",
-      "gloss": "bara wa hae"
+      "gloss": "bana ba hae"
     },
     {
       "surface": "ויביאום",
-      "gloss": "mme ba ba isha"
+      "gloss": "ba ba isa"
     },
     {
       "surface": "יבישה",
@@ -63,32 +63,32 @@
     },
     {
       "surface": "ויקברו",
-      "gloss": "mme ba hlabela"
+      "gloss": "ba hloma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mafufu a tsona"
+      "marks": "mafutsana a bona"
     },
     {
       "surface": "עצמותיהם",
-      "gloss": "mafufu a tsona"
+      "gloss": "mafutsana a bona"
     },
     {
       "surface": "תחת",
-      "gloss": "ka tlasa"
+      "gloss": "ka tlase ha"
     },
     {
       "surface": "האלה",
-      "gloss": "sefate sa terbalinte"
+      "gloss": "mokgoere"
     },
     {
       "surface": "ביבש",
-      "gloss": "go Yabeshe"
+      "gloss": "Yabeshe"
     },
     {
       "surface": "ויצומו",
-      "gloss": "mme ba itšella"
+      "gloss": "ba itshokolla"
     },
     {
       "surface": "שבעת",
@@ -99,6 +99,6 @@
       "gloss": "matsatsi"
     }
   ],
-  "timestamp": "2026-10-03T13:34:33.301281733Z",
+  "timestamp": "2026-10-03T20:25:02.496472172Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "judges",
   "lang": "st",
   "chapter": 14,
-  "translation": "Mme e bile mohlang wa bošupileng, ba re mosadi wa Shimshone: Qamisa ⟨את⟩ monga hao, a re bolelle ⟨את⟩ thoeko, eseng hore re tlehe ⟨את⟩ wena le ⟨את⟩ ntlo ya ntata-hao ka mollo. Na le re bitsile ho re aba? Na ha ho joalo?",
+  "translation": "Mme e bile ka letsatsi la boqibelwa (la bosupa), ba re ho mosadi wa Shimshone: Qamisa ⟨את⟩ monna wa hao, a re bolelle ⟨את⟩ sephini, esere re otlolle ka mollo ⟨את⟩ wena le ⟨את⟩ ntlo ya ntata-hao. Na le re bitsitse hore le re fihlelse tswalong? Na ha ho jwalo?",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "mme e bile"
+      "gloss": "e bile"
     },
     {
       "surface": "ביום",
-      "gloss": "mohlang wa"
+      "gloss": "ka letsatsi"
     },
     {
       "surface": "השביעי",
-      "gloss": "bošupileng"
+      "gloss": "la bosupa"
     },
     {
       "surface": "ויאמרו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לאשת",
-      "gloss": "mosadi wa"
+      "gloss": "ho mosadi wa"
     },
     {
       "surface": "שמשון",
@@ -38,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "monga hao"
+      "marks": "monna wa hao"
     },
     {
       "surface": "אישך",
-      "gloss": "monga hao"
+      "gloss": "monna wa hao"
     },
     {
       "surface": "ויגד",
@@ -50,28 +50,29 @@
     },
     {
       "surface": "לנו",
-      "gloss": "rona"
+      "gloss": "re"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "thoeko"
+      "marks": "sephini"
     },
     {
       "surface": "החידה",
-      "gloss": "thoeko"
+      "gloss": "sephini"
     },
     {
       "surface": "פן",
-      "gloss": "eseng hore"
+      "gloss": "esere"
     },
     {
       "surface": "נשרף",
-      "gloss": "re tlehe"
+      "gloss": "ra otlolle ka mollo"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
     },
     {
       "surface": "ואת",
@@ -92,21 +93,21 @@
     },
     {
       "surface": "הלירשנו",
-      "gloss": "ho re aba"
+      "gloss": "hore le re fihlelse tswalong"
     },
     {
       "surface": "קראתם",
-      "gloss": "le re bitsile"
+      "gloss": "le re bitsitse"
     },
     {
       "surface": "לנו",
-      "gloss": "rona"
+      "gloss": "re"
     },
     {
       "surface": "הלא",
-      "gloss": "na ha ho joalo"
+      "gloss": "Na ha ho jwalo?"
     }
   ],
-  "timestamp": "2026-10-03T12:53:37.080180542Z",
+  "timestamp": "2026-10-03T20:32:12.262300093Z",
   "model": "glm-5.3"
 }

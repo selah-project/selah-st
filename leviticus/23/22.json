@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "st",
   "chapter": 23,
-  "translation": "Mme ha le kotula kotulo ya lefatshe la lona, o se ke wa phetha molala wa tšafo ea hao ha o kotula, mme dikotulo tse tlohang o se ke wa di khotla; mo futsufutsang le moetadiseng o tloholel-a ⟨אתם⟩; nna ke Yahwe Elohim ea lona.",
+  "translation": "Mme ha le bokolla ⟨את⟩ kamoo ea lefatshe la lona, o se ke a qetela ka botlalo mokotla wa tshimo ea hau ha o bokolla, le dilo tse sieoeng tsa kamoo ea hao o se ke a di boka: o siee ⟨את⟩ tseo mofutsaneng le moeti: ke Yahwe Elohim ea lona.",
   "tokens": [
     {
       "surface": "ובקצרכם",
-      "gloss": "ha le kotula"
+      "gloss": "ha le bokolla"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kotulo"
+      "marks": "kamoo"
     },
     {
       "surface": "קציר",
-      "gloss": "kotulo"
+      "gloss": "kamoo"
     },
     {
       "surface": "ארצכם",
-      "gloss": "ya lefatshe la lona"
+      "gloss": "ea lefatshe la lona"
     },
     {
       "surface": "לא",
@@ -30,27 +30,27 @@
     },
     {
       "surface": "תכלה",
-      "gloss": "wa phetha"
+      "gloss": "a qetela ka botlalo"
     },
     {
       "surface": "פאת",
-      "gloss": "molala"
+      "gloss": "mokotla"
     },
     {
       "surface": "שדך",
-      "gloss": "wa tšafo ea hao"
+      "gloss": "wa tshimo ea hau"
     },
     {
       "surface": "בקצרך",
-      "gloss": "ha o kotula"
+      "gloss": "ha o bokolla"
     },
     {
       "surface": "ולקט",
-      "gloss": "mme dikotulo tse tlohang"
+      "gloss": "dilo tse sieoeng"
     },
     {
       "surface": "קצירך",
-      "gloss": "tšafo"
+      "gloss": "ea kamoo ea hao"
     },
     {
       "surface": "לא",
@@ -58,28 +58,28 @@
     },
     {
       "surface": "תלקט",
-      "gloss": "wa di khotla"
+      "gloss": "a di boka"
     },
     {
       "surface": "לעני",
-      "gloss": "mo futsufutsang"
+      "gloss": "mofutsaneng"
     },
     {
       "surface": "ולגר",
-      "gloss": "le moetadiseng"
+      "gloss": "le moeti"
     },
     {
       "surface": "תעזב",
-      "gloss": "o tloholel-a"
+      "gloss": "o siee"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "mo futsufutsang le moetadiseng"
+      "gloss": "⟨את⟩ tseo",
+      "marks": "mokotla le dilo tse sieoeng"
     },
     {
       "surface": "אני",
-      "gloss": "nna"
+      "gloss": "ke"
     },
     {
       "surface": "יהוה",
@@ -90,6 +90,6 @@
       "gloss": "Elohim ea lona"
     }
   ],
-  "timestamp": "2026-10-03T06:16:23.035681057Z",
+  "timestamp": "2026-10-03T20:08:22.995313306Z",
   "model": "glm-5.3"
 }

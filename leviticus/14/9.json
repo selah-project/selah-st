@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "st",
   "chapter": 14,
-  "translation": "Mme e tla ba ka letsatsi la bošupane, o tla apa ⟨את⟩ moriri oa hae oohle — ⟨את⟩ hloho ea hae, le ⟨את⟩ borena ba hae, le ⟨את⟩ dikobo tsa mahlo a hae; ⟨את⟩ moriri oa hae oohle o tla a apa; mme o tla hlatswa ⟨את⟩ diaparo tsa hae, a hlatswe ⟨את⟩ mmele oa hae ka metsing, mme o tla hanelaletsa.",
+  "translation": "Mme e tla ba ka letsatsi la bosupa, a tla lefa ⟨את⟩ moriri oa hae oohle — ⟨את⟩ hloho ea hae le ⟨את⟩ borena ba hae le ⟨את⟩ mesifa ea mahlo a hae — ⟨את⟩ moriri oa hae oohle o tla mo lefa, mme a hlatsoa ⟨את⟩ diaparo tsa hae, mme a batla ⟨את⟩ mmele oa hae ka metsing, mme a hlaneka.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "mme e tla ba"
+      "gloss": "e tla ba"
     },
     {
       "surface": "ביום",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "השביעי",
-      "gloss": "la bošupane"
+      "gloss": "la bosupa"
     },
     {
       "surface": "יגלח",
-      "gloss": "o tla apa"
+      "gloss": "a tla lefa"
     },
     {
       "surface": "את",
@@ -57,19 +57,19 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "dikobo tsa mahlo a hae"
+      "marks": "mesifa ea mahlo a hae"
     },
     {
       "surface": "גבת",
-      "gloss": "dikobo"
+      "gloss": "mesifa"
     },
     {
       "surface": "עיניו",
-      "gloss": "tsa mahlo a hae"
+      "gloss": "ea mahlo a hae"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "— ⟨את⟩",
       "marks": "moriri oa hae oohle"
     },
     {
@@ -82,11 +82,11 @@
     },
     {
       "surface": "יגלח",
-      "gloss": "o tla a apa"
+      "gloss": "o tla mo lefa"
     },
     {
       "surface": "וכבס",
-      "gloss": "mme o tla hlatswa"
+      "gloss": "mme a hlatsoa"
     },
     {
       "surface": "את",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "ורחץ",
-      "gloss": "a hlatswe"
+      "gloss": "mme a batla"
     },
     {
       "surface": "את",
@@ -116,9 +116,9 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "mme o tla hanelaletsa"
+      "gloss": "mme a hlaneka"
     }
   ],
-  "timestamp": "2026-10-03T13:30:36.770714023Z",
+  "timestamp": "2026-10-03T20:31:25.783051799Z",
   "model": "glm-5.3"
 }

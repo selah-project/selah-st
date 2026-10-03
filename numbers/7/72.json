@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "st",
   "chapter": 7,
-  "translation": "Ka la boleshome-le-nngwe la matšatši, morena wa bana ba Ashere, Pagielle mora wa Okhrane:",
+  "translation": "Ka la boleshome le leng, ⟨e le⟩ ntsi ya bana ba Ashere, Pageiele mora wa Okrane:",
   "tokens": [
     {
       "surface": "ביום",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "עשתי",
-      "gloss": "boleshome-le-nngwe"
-    },
-    {
-      "surface": "עשר",
       "gloss": "leshome"
     },
     {
+      "surface": "עשר",
+      "gloss": "le leng"
+    },
+    {
       "surface": "יום",
-      "gloss": "la matšatši"
+      "gloss": "la"
     },
     {
       "surface": "נשיא",
-      "gloss": "morena"
+      "gloss": "ntsi ya"
     },
     {
       "surface": "לבני",
-      "gloss": "wa bana ba"
+      "gloss": "bana ba"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "פגעיאל",
-      "gloss": "Pagielle"
+      "gloss": "Pageiele"
     },
     {
       "surface": "בן",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "עכרן",
-      "gloss": "Okhrane"
+      "gloss": "Okrane"
     }
   ],
-  "timestamp": "2026-10-03T06:26:57.023161473Z",
+  "timestamp": "2026-10-03T20:07:58.351686436Z",
   "model": "glm-5.3"
 }

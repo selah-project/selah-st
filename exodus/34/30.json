@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "st",
   "chapter": 34,
-  "translation": "Mme Aharone le bana bohle ba Yisraele ba bona ⟨את⟩ Moshe, mme bonang, letlalo la sefahleho sa hae le ntša meala; ba ts'aba ho atamela ho yena.",
+  "translation": "Mme Aharone le bana bohle ba Yisraele ba bona ⟨את⟩ Moshe, mme bonang, letlalo la sefahleho sa hae le phatsime; mme ba tshaba ho atamela ho yena.",
   "tokens": [
     {
       "surface": "וירא",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "le ... bohle"
+      "gloss": "le bohle"
     },
     {
       "surface": "בני",
-      "gloss": "bana"
+      "gloss": "bana ba"
     },
     {
       "surface": "ישראל",
-      "gloss": "ba Yisraele"
+      "gloss": "Yisraele"
     },
     {
       "surface": "את",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "קרן",
-      "gloss": "le ntša meala"
+      "gloss": "le phatsime"
     },
     {
       "surface": "עור",
-      "gloss": "letlalo"
+      "gloss": "letlalo la"
     },
     {
       "surface": "פניו",
-      "gloss": "la sefahleho sa hae"
+      "gloss": "sefahleho sa hae"
     },
     {
       "surface": "וייראו",
-      "gloss": "ba ts'aba"
+      "gloss": "ba tshaba"
     },
     {
       "surface": "מגשת",
@@ -65,6 +65,6 @@
       "gloss": "ho yena"
     }
   ],
-  "timestamp": "2026-10-03T05:59:58.804288523Z",
+  "timestamp": "2026-10-03T20:07:28.915567119Z",
   "model": "glm-5.3"
 }

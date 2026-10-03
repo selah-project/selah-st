@@ -5,20 +5,20 @@
   "book": "2-chronicles",
   "lang": "st",
   "chapter": 11,
-  "translation": "Mme ba matlafatsa ⟨את⟩ boreloši ba Yehuda, mme ba tiisa ⟨את⟩ Rehabeame mora wa Solomone dilemo tse tharo, hobane ba tsamaya tsela ya Dawide le Solomone dilemo tse tharo.",
+  "translation": "Ba ile ba tiisa ⟨את⟩ borena boo bo neng bo le boya Yehuda, mme ba tiisa ⟨את⟩ Rekhabeame mora Selomone, dilemo tse tharo; hobane ba ne ba tsamaya tseleng ya Dawide le ya Selomone, dilemo tse tharo.",
   "tokens": [
     {
       "surface": "ויחזקו",
-      "gloss": "ba matlafatsa"
+      "gloss": "Ba ile ba tiisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "boreloši ba Yehuda"
+      "marks": "borena boo bo neng bo le boya Yehuda"
     },
     {
       "surface": "מלכות",
-      "gloss": "boreloši"
+      "gloss": "borena"
     },
     {
       "surface": "יהודה",
@@ -26,24 +26,24 @@
     },
     {
       "surface": "ויאמצו",
-      "gloss": "ba tiisa"
+      "gloss": "mme ba tiisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Rehabeame"
+      "marks": "Rekhabeame"
     },
     {
       "surface": "רחבעם",
-      "gloss": "Rehabeame"
+      "gloss": "Rekhabeame"
     },
     {
       "surface": "בן",
-      "gloss": "mora wa"
+      "gloss": "mora"
     },
     {
       "surface": "שלמה",
-      "gloss": "Solomone"
+      "gloss": "Selomone"
     },
     {
       "surface": "לשנים",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "ba tsamaya"
+      "gloss": "ba ne ba tsamaya"
     },
     {
       "surface": "בדרך",
-      "gloss": "tsela ya"
+      "gloss": "tseleng ya"
     },
     {
       "surface": "דויד",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ושלמה",
-      "gloss": "le Solomone"
+      "gloss": "le ya Selomone"
     },
     {
       "surface": "לשנים",
@@ -82,6 +82,6 @@
       "gloss": "tse tharo"
     }
   ],
-  "timestamp": "2026-10-03T12:26:37.381832521Z",
+  "timestamp": "2026-10-03T20:26:19.681264091Z",
   "model": "glm-5.3"
 }

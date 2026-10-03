@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 28,
-  "translation": "mme Yahwe o tla etsa hore ⟨את⟩ dimakotso tsa hao di be tsa makatsa, le ⟨את⟩ dimakotso tsa poelo ya hao — dimakotso tse kgolo tse sa feleng, le malwetši a mabe a sa feleng.",
+  "translation": "Yahwe o tla etsa hore di makatse ⟨את⟩ dimetsa tsa hau, le ⟨את⟩ dimetsa tsa peo ya hau — dimetsa tse kgolo le tse tiileng, le malwetshi a mabi a tiileng.",
   "tokens": [
     {
       "surface": "והפלא",
-      "gloss": "mme ... o tla etsa hore di be tsa makatsa"
+      "gloss": "o tla etsa hore di makatse"
     },
     {
       "surface": "יהוה",
@@ -18,28 +18,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dimakotso tsa hao"
+      "marks": "dimetsa tsa hau"
     },
     {
       "surface": "מכתך",
-      "gloss": "dimakotso tsa hao"
+      "gloss": "dimetsa tsa hau"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "dimakotso tsa poelo ya hao"
+      "marks": "dimetsa tsa peo ya hau"
     },
     {
       "surface": "מכות",
-      "gloss": "dimakotso"
+      "gloss": "dimetsa tsa"
     },
     {
       "surface": "זרעך",
-      "gloss": "tsa poelo ya hao"
+      "gloss": "peo ya hau"
     },
     {
       "surface": "מכות",
-      "gloss": "dimakotso"
+      "gloss": "dimetsa"
     },
     {
       "surface": "גדלות",
@@ -47,21 +47,21 @@
     },
     {
       "surface": "ונאמנות",
-      "gloss": "tse sa feleng"
+      "gloss": "le tse tiileng"
     },
     {
       "surface": "וחלים",
-      "gloss": "le malwetši"
+      "gloss": "le malwetshi"
     },
     {
       "surface": "רעים",
-      "gloss": "a mabe"
+      "gloss": "a mabi"
     },
     {
       "surface": "ונאמנים",
-      "gloss": "a sa feleng"
+      "gloss": "a tiileng"
     }
   ],
-  "timestamp": "2026-10-03T06:58:53.262690945Z",
+  "timestamp": "2026-10-03T20:10:06.970320729Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 20,
-  "translation": "Ha o khaola toropo matsatsi a mabaleng, ho lwa ho e tšoasa, o se ke wa senya ⟨את⟩ mehlare ya yona ka ho onya selete ho sona; hobane o ja ho tsona, mme ⟨את⟩ sona o se ke wa se sephaphatha; hobane motho ke sehlare sa tshimo — hore o tla pele ho hao ka moleting?",
+  "translation": "Ha o sitolla motse matsatsi a mangata, ho lwantsha ho se tshwara, o se ke wa senya ⟨את⟩ difate tsa sona ka ho roala ⟨את⟩ sekwalo ho tsona, hobane o jang ho tsona, mme ⟨את⟩ sona o se ke wa se rema; hobane na motho ⟨ke⟩ sefatse sa tlhaha, hore se tle pela ho hau sesitollong?",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תצור",
-      "gloss": "o khaola"
+      "gloss": "o sitolla"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עיר",
-      "gloss": "toropo"
+      "gloss": "motse"
     },
     {
       "surface": "ימים",
@@ -29,48 +29,48 @@
     },
     {
       "surface": "רבים",
-      "gloss": "a mabaleng"
+      "gloss": "a mangata"
     },
     {
       "surface": "להלחם",
-      "gloss": "ho lwa"
+      "gloss": "ho lwantsha"
     },
     {
       "surface": "עליה",
-      "gloss": "ho e"
+      "gloss": "ho sona"
     },
     {
       "surface": "לתפשה",
-      "gloss": "tšoasa"
+      "gloss": "ho se tshwara"
     },
     {
       "surface": "לא",
-      "gloss": "se"
+      "gloss": "o se ke wa"
     },
     {
       "surface": "תשחית",
-      "gloss": "wa senya"
+      "gloss": "senya"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mehlare ya yona"
+      "marks": "difate tsa sona"
     },
     {
       "surface": "עצה",
-      "gloss": "mehlare ya yona"
+      "gloss": "difate tsa sona"
     },
     {
       "surface": "לנדח",
-      "gloss": "ho onya"
+      "gloss": "ka ho roala"
     },
     {
       "surface": "עליו",
-      "gloss": "ho sona"
+      "gloss": "ho tsona"
     },
     {
       "surface": "גרזן",
-      "gloss": "selete"
+      "gloss": "sekwalo"
     },
     {
       "surface": "כי",
@@ -82,23 +82,28 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "o ja"
+      "gloss": "o jang"
+    },
+    {
+      "surface": "גרזן",
+      "gloss": "⟨את⟩ sekwalo"
     },
     {
       "surface": "ואתו",
-      "gloss": "mme ⟨את⟩ sona"
+      "gloss": "mme ⟨את⟩ sona",
+      "marks": "sefatse"
     },
     {
       "surface": "לא",
-      "gloss": "se"
+      "gloss": "o se ke wa"
     },
     {
       "surface": "תכרת",
-      "gloss": "wa se sephaphatha"
+      "gloss": "se rema"
     },
     {
       "surface": "כי",
-      "gloss": "hobane"
+      "gloss": "hobane na"
     },
     {
       "surface": "האדם",
@@ -106,25 +111,25 @@
     },
     {
       "surface": "עץ",
-      "gloss": "sehlare"
+      "gloss": "sefatse"
     },
     {
       "surface": "השדה",
-      "gloss": "sa tshimo"
+      "gloss": "sa tlhaha"
     },
     {
       "surface": "לבא",
-      "gloss": "hore o tla"
+      "gloss": "hore se tle"
     },
     {
       "surface": "מפניך",
-      "gloss": "pele ho hao"
+      "gloss": "pela ho hau"
     },
     {
       "surface": "במצור",
-      "gloss": "ka moleting"
+      "gloss": "sesitollong"
     }
   ],
-  "timestamp": "2026-10-03T06:56:13.291203239Z",
+  "timestamp": "2026-10-03T20:10:08.198137145Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "st",
   "chapter": 20,
-  "translation": "Hobane matsatsi a tsheletseng Yahwe o ile a etsa ⟨את⟩ mahodimo le ⟨את⟩ lefatshe, ⟨את⟩ lewatle le ⟨את⟩ tsohle tse ho tsona, mme o phomotse ka letsatsi la bošupa; kahoo Yahwe o hlahlamile ⟨את⟩ letsatsi la Shabata, mme o le hlahaleditse.",
+  "translation": "Hobane ka matsatsi a ts'eletseng Yahwe o ile a bopa ⟨את⟩ mahodimo le ⟨את⟩ lefatshe, ⟨את⟩ leoatle le ⟨את⟩ tsohle tse ho tsona; mme o ile a phomola ka letsatsi la bosupa; kahoo Yahwe o ile a beroka ⟨את⟩ letsatsi la Shabata mme a le halaletsa.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ששת",
-      "gloss": "a tsheletseng"
+      "gloss": "a ts'eletseng"
     },
     {
       "surface": "ימים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "o ile a etsa"
+      "gloss": "o ile a bopa"
     },
     {
       "surface": "יהוה",
@@ -48,16 +48,16 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lewatle"
+      "marks": "leoatle"
     },
     {
       "surface": "הים",
-      "gloss": "lewatle"
+      "gloss": "leoatle"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "tsohle"
+      "marks": "tsohle tse ho tsona"
     },
     {
       "surface": "כל",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "וינח",
-      "gloss": "mme o phomotse"
+      "gloss": "mme o ile a phomola"
     },
     {
       "surface": "ביום",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "השביעי",
-      "gloss": "la bošupa"
+      "gloss": "la bosupa"
     },
     {
       "surface": "על",
-      "gloss": "kahoo"
+      "gloss": "mo"
     },
     {
       "surface": "כן",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "ברך",
-      "gloss": "o hlahlamile"
+      "gloss": "a beroka"
     },
     {
       "surface": "יהוה",
@@ -102,7 +102,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "letsatsi"
+      "marks": "letsatsi la Shabata"
     },
     {
       "surface": "יום",
@@ -114,9 +114,9 @@
     },
     {
       "surface": "ויקדשהו",
-      "gloss": "mme o le hlahaleditse"
+      "gloss": "mme a le halaletsa"
     }
   ],
-  "timestamp": "2026-10-03T05:51:24.960028469Z",
+  "timestamp": "2026-10-03T20:07:10.583450840Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "st",
   "chapter": 7,
-  "translation": "Mme Shelomo a halaletsa ⟨את⟩ teng ya korasi e leng pele ho ntlo ya Yahwe, hobane o ile a etsa moo diovano le ⟨את⟩ mafura a ditumellano; hobane altara ya tšepe eo Shelomo a e etsitseng e ne e sa kgone ho tshwara ⟨את⟩ ofisa le ⟨את⟩ minkha le ⟨את⟩ mafura.",
+  "translation": "Mme Salomone a halaletsa ⟨את⟩ bohareng ba ⟨the⟩ chata eo e neng e le pele ga ntlo ya Yahwe, hobane o ile a etsa moo diphello tse tlotsehang le ⟨את⟩ mafura a diphello tsa khotso; hobane altare ya tong ya Salomone, eo a e entseng, e ne e se ea kgona ho tshwara ⟨את⟩ phello e tlotsehang le ⟨את⟩ minkha le ⟨את⟩ mafura.",
   "tokens": [
     {
       "surface": "ויקדש",
@@ -13,32 +13,32 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Salomone"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "teng"
+      "marks": "bohareng ba chata"
     },
     {
       "surface": "תוך",
-      "gloss": "teng"
+      "gloss": "bohareng"
     },
     {
       "surface": "החצר",
-      "gloss": "ya korasi"
+      "gloss": "ba chata"
     },
     {
       "surface": "אשר",
-      "gloss": "e leng"
+      "gloss": "eo"
     },
     {
       "surface": "לפני",
-      "gloss": "pele ho"
+      "gloss": "pele ga"
     },
     {
       "surface": "בית",
-      "gloss": "ntlo"
+      "gloss": "ntlo ya"
     },
     {
       "surface": "יהוה",
@@ -58,20 +58,20 @@
     },
     {
       "surface": "העלות",
-      "gloss": "diovano"
+      "gloss": "diphello tse tlotsehang"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "mafura"
+      "marks": "mafura a diphello tsa khotso"
     },
     {
       "surface": "חלבי",
-      "gloss": "mafura"
+      "gloss": "mafura a"
     },
     {
       "surface": "השלמים",
-      "gloss": "a ditumellano"
+      "gloss": "diphello tsa khotso"
     },
     {
       "surface": "כי",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "מזבח",
-      "gloss": "altara"
+      "gloss": "altare ya"
     },
     {
       "surface": "הנחשת",
-      "gloss": "ya tšepe"
+      "gloss": "tong"
     },
     {
       "surface": "אשר",
@@ -91,19 +91,19 @@
     },
     {
       "surface": "עשה",
-      "gloss": "a e etsitseng"
+      "gloss": "a e entseng"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Salomone"
     },
     {
       "surface": "לא",
-      "gloss": "e sa kgone"
+      "gloss": "ha"
     },
     {
       "surface": "יכול",
-      "gloss": "ho tshwara"
+      "gloss": "ea kgona"
     },
     {
       "surface": "להכיל",
@@ -112,11 +112,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ofisa"
+      "marks": "phello e tlotsehang"
     },
     {
       "surface": "העלה",
-      "gloss": "ofisa"
+      "gloss": "phello e tlotsehang"
     },
     {
       "surface": "ואת",
@@ -137,6 +137,6 @@
       "gloss": "mafura"
     }
   ],
-  "timestamp": "2026-10-03T12:27:33.513568794Z",
+  "timestamp": "2026-10-03T20:26:42.880978293Z",
   "model": "glm-5.3"
 }

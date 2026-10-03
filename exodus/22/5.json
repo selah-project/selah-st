@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "st",
   "chapter": 22,
-  "translation": "Ha mollu o tswa mme o fumana dinthunthunya, mme mekhahlelo kapa jala kapa ⟨the⟩ tšimo e jwa, ya bekang mollu o tla lefola ka botlalo ⟨את⟩ tšenyo.",
+  "translation": "Ha molllo o tswa, o fihla ditlhareng tsa dinaoa, mme setshwele sa mabenyele kapa ⟨⟨the⟩⟩ mmu o jeoa kapa ⟨⟨the⟩⟩ tshimo, ya betsileng molllo o tla lekana ka botlalo ⟨את⟩ tshollo ya molllo.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "אש",
-      "gloss": "mollu"
+      "gloss": "molllo"
     },
     {
       "surface": "ומצאה",
-      "gloss": "mme o fumana"
+      "gloss": "o fihla"
     },
     {
       "surface": "קצים",
-      "gloss": "dinthunthunya"
+      "gloss": "ditlhareng tsa dinaoa"
     },
     {
       "surface": "ונאכל",
-      "gloss": "mme e jwa"
+      "gloss": "mme … o jeoa"
     },
     {
       "surface": "גדיש",
-      "gloss": "mekhahlelo"
+      "gloss": "setshwele sa mabenyele"
     },
     {
       "surface": "או",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הקמה",
-      "gloss": "jala"
+      "gloss": "mmu"
     },
     {
       "surface": "או",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "השדה",
-      "gloss": "tšimo"
+      "gloss": "tshimo"
     },
     {
       "surface": "שלם",
-      "gloss": "o tla lefola"
+      "gloss": "o tla lekana"
     },
     {
       "surface": "ישלם",
@@ -61,18 +61,18 @@
     },
     {
       "surface": "המבער",
-      "gloss": "ya bekang mollu"
+      "gloss": "ya betsileng molllo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tšenyo"
+      "marks": "tshollo ya molllo"
     },
     {
       "surface": "הבערה",
-      "gloss": "tšenyo"
+      "gloss": "tshollo ya molllo"
     }
   ],
-  "timestamp": "2026-10-03T05:54:09.408869366Z",
+  "timestamp": "2026-10-03T20:06:09.149627690Z",
   "model": "glm-5.3"
 }

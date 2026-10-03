@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 17,
-  "translation": "Mme e bile ha bana ba Yisraele ba ne ba le tshekamong ho Yahwe Elohim ya bona, ya ba hlolotseng ⟨אתם⟩ ho tloha lefatsheng la Mitsrayime, tlase ho letsoho la Faro morena wa Mitsrayime, mme ba ne ba tšaba melimo e meng.",
+  "translation": "Mme ho ile ha etsahala hore, hobane bana ba Yisraele ba ne ba le tsheo ho Yahwe Elohim ya bona, ya ba hlahisitseng ⟨אתם⟩ ho tloha naheng ya Mitsrayime, ka tlasa letsogo la Per eo a neng e le morena wa Mitsrayime, ba ile ba tshaba melimo e meng.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Mme e bile"
+      "gloss": "ho ile ha etsahala"
     },
     {
       "surface": "כי",
-      "gloss": "ha"
+      "gloss": "hobane"
     },
     {
       "surface": "חטאו",
-      "gloss": "ba le tshekamong"
+      "gloss": "ba le tsheo"
     },
     {
       "surface": "בני",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "המעלה",
-      "gloss": "ya ba hlolotseng"
+      "gloss": "ya ba hlahisitseng"
     },
     {
       "surface": "אתם",
       "gloss": "⟨אתם⟩",
-      "marks": "ba"
+      "marks": "ho tloha naheng ya Mitsrayime"
     },
     {
       "surface": "מארץ",
-      "gloss": "ho tloha lefatsheng la"
+      "gloss": "ho tloha naheng ya"
     },
     {
       "surface": "מצרים",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "מתחת",
-      "gloss": "tlase ho"
+      "gloss": "ka tlasa"
     },
     {
       "surface": "יד",
-      "gloss": "letsoho la"
+      "gloss": "letsogo la"
     },
     {
       "surface": "פרעה",
-      "gloss": "Faro"
+      "gloss": "Per"
     },
     {
       "surface": "מלך",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "וייראו",
-      "gloss": "mme ba tšaba"
+      "gloss": "ba ile ba tshaba"
     },
     {
       "surface": "אלהים",
@@ -85,6 +85,6 @@
       "gloss": "e meng"
     }
   ],
-  "timestamp": "2026-10-03T08:26:37.217161287Z",
+  "timestamp": "2026-10-03T20:51:09.207624260Z",
   "model": "glm-5.3"
 }

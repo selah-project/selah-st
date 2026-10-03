@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "st",
   "chapter": 24,
-  "translation": "Ka letsatsi leo, molomo oa hao o tla buloa le ⟨את⟩ mošitoheli; o tla bua, o sa se be lelemnye ka nako e tletseng; o tla ba sesupo ho bona, ba tla tseba hore ke Yahwe.",
+  "translation": "Ka letsatsi leo molomo wa hao o tla bulwa ⟨את⟩ le mopholohi, o tla bua, mme o se ke wa hlola wa thula; mme o tla ba sesupo ho bona, ba tla tseba hore ke Yahwe.",
   "tokens": [
     {
       "surface": "ביום",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "יפתח",
-      "gloss": "o tla buloa"
+      "gloss": "o tla bulwa"
     },
     {
       "surface": "פיך",
-      "gloss": "molomo oa hao"
+      "gloss": "molomo wa hao"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mošitoheli"
+      "marks": "mopholohi"
     },
     {
       "surface": "הפליט",
-      "gloss": "mošitoheli"
+      "gloss": "le mopholohi"
     },
     {
       "surface": "ותדבר",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "o sa se be"
+      "gloss": "mme o se ke"
     },
     {
       "surface": "תאלם",
-      "gloss": "lelemnye"
+      "gloss": "wa hlola wa thula"
     },
     {
       "surface": "עוד",
-      "gloss": "ka nako e tletseng"
+      "gloss": "ha o sa"
     },
     {
       "surface": "והיית",
-      "gloss": "o tla ba"
+      "gloss": "mme o tla ba"
     },
     {
       "surface": "להם",
@@ -77,6 +77,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T09:45:35.015996597Z",
+  "timestamp": "2026-10-03T20:18:07.563900774Z",
   "model": "glm-5.3"
 }

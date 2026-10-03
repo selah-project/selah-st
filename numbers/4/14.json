@@ -5,20 +5,20 @@
   "book": "numbers",
   "lang": "st",
   "chapter": 4,
-  "translation": "Mme ba behe hodima eona ⟨את⟩ didiriswa tsa eona tsohle tseo ba di šomisang ka tsona ho e šomisa: ⟨את⟩ matswele a mollo, ⟨את⟩ dimamelle, le ⟨את⟩ diphalafala, le ⟨את⟩ dikobo tse phallang — didiriswa tsohle tsa ⟨the⟩ altaare; mme ba phalalletse hodima eona sekoahelo sa letlalo la takhashe, mme ba behe diala tsa eona.",
+  "translation": "Mme ba behe hodima hae ⟨את⟩ didiriswa tsa hae tsohle tseo ba di dirisang ho e hlankela ka tsona: ⟨את⟩ di-panso tse tshweu-tshweu tsa mollo, ⟨את⟩ di-hooka tsa nama, ⟨את⟩ di-shafu, le ⟨את⟩ di-baseng — didiriswa tsohle tsa aletare; mme ba phalalelle hodima hae sekoahalo sa letlalo la takhashe, mme ba behe dibakana tsa hae.",
   "tokens": [
     {
       "surface": "ונתנו",
-      "gloss": "ba behe"
+      "gloss": "Mme ba behe"
     },
     {
       "surface": "עליו",
-      "gloss": "hodima eona"
+      "gloss": "hodima hae"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "didiriswa tsa eona tsohle"
+      "marks": "didiriswa tsa hae tsohle"
     },
     {
       "surface": "כל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "כליו",
-      "gloss": "didiriswa tsa eona"
+      "gloss": "didiriswa tsa hae"
     },
     {
       "surface": "אשר",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ישרתו",
-      "gloss": "ba di šomisang"
+      "gloss": "ba di dirisang ho e hlankela"
     },
     {
       "surface": "עליו",
-      "gloss": "ho e šomisa"
+      "gloss": "ho e"
     },
     {
       "surface": "בהם",
@@ -47,38 +47,38 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "matswele a mollo"
+      "marks": "di-panso tsa mollo"
     },
     {
-      "surface": "המחתות",
-      "gloss": "matswele a mollo"
+      "surface": "המחתת",
+      "gloss": "di-panso tsa mollo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dimamelle"
+      "marks": "di-hooka tsa nama"
     },
     {
-      "surface": "המזלגות",
-      "gloss": "dimamelle"
+      "surface": "המזלגת",
+      "gloss": "di-hooka tsa nama"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "diphalafala"
+      "marks": "di-shafu"
     },
     {
       "surface": "היעים",
-      "gloss": "diphalafala"
+      "gloss": "di-shafu"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "dikobo tse phallang"
+      "marks": "di-baseng"
     },
     {
-      "surface": "המזרקות",
-      "gloss": "dikobo tse phallang"
+      "surface": "המזרקת",
+      "gloss": "di-baseng"
     },
     {
       "surface": "כל",
@@ -90,19 +90,19 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "tsa ⟨the⟩ altaare"
+      "gloss": "tsa aletare"
     },
     {
       "surface": "ופרשו",
-      "gloss": "ba phalalletse"
+      "gloss": "mme ba phalalelle"
     },
     {
       "surface": "עליו",
-      "gloss": "hodima eona"
+      "gloss": "hodima hae"
     },
     {
       "surface": "כסוי",
-      "gloss": "sekoahelo"
+      "gloss": "sekoahalo"
     },
     {
       "surface": "עור",
@@ -118,9 +118,9 @@
     },
     {
       "surface": "בדיו",
-      "gloss": "diala tsa eona"
+      "gloss": "dibakana tsa hae"
     }
   ],
-  "timestamp": "2026-10-03T06:22:08.895654680Z",
+  "timestamp": "2026-10-03T20:50:56.196419249Z",
   "model": "glm-5.3"
 }

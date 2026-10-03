@@ -5,11 +5,11 @@
   "book": "micah",
   "lang": "st",
   "chapter": 2,
-  "translation": "Ka letsatsi leo ba tla nkela lona mokoko, ba llele lla ya botlhoko, ba re: Re senngwe ka ho feletseng; o fetola ⟨את⟩ karolo ya batho ba ka; o e ntša ho 'na joang! A furalla, o arola ⟨את⟩ masimu a rona.",
+  "translation": "Ka letsatsi leo ba tla nta ⟨את⟩ pesaleleme kgahlanong le lona, mme ba llelela ka lla la kutlo, ba re: Re sotloa ka ho felletseng; o fetotse karolo ya batho ba ka; o e tlositse ho ya kae ho nna! O arola ⟨את⟩ masimong a rona bakeng ba ba sokolang.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "Ka letsatsi"
+      "gloss": "ka letsatsi"
     },
     {
       "surface": "ההוא",
@@ -17,27 +17,32 @@
     },
     {
       "surface": "ישא",
-      "gloss": "ba tla nkela"
+      "gloss": "ba tla nta"
     },
     {
       "surface": "עליכם",
-      "gloss": "lona"
+      "gloss": "kgahlanong le lona"
     },
     {
       "surface": "משל",
-      "gloss": "mokoko"
+      "gloss": "pesaleleme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesaleleme"
     },
     {
       "surface": "ונהה",
-      "gloss": "ba llele"
+      "gloss": "mme ba llelela"
     },
     {
       "surface": "נהי",
-      "gloss": "lla ya"
+      "gloss": "lla"
     },
     {
       "surface": "נהיה",
-      "gloss": "botlhoko"
+      "gloss": "la kutlo"
     },
     {
       "surface": "אמר",
@@ -45,11 +50,11 @@
     },
     {
       "surface": "שדוד",
-      "gloss": "Re senngwe"
+      "gloss": "ka ho sotloa"
     },
     {
       "surface": "נשדנו",
-      "gloss": "ka ho feletseng"
+      "gloss": "re sotloa ka ho felletseng"
     },
     {
       "surface": "חלק",
@@ -57,37 +62,37 @@
     },
     {
       "surface": "עמי",
-      "gloss": "ya batho ba ka"
+      "gloss": "batho ba ka"
     },
     {
       "surface": "ימיר",
-      "gloss": "o fetola"
+      "gloss": "o fetotse"
     },
     {
       "surface": "איך",
-      "gloss": "joang"
+      "gloss": "ka ya kae"
     },
     {
       "surface": "ימיש",
-      "gloss": "o e ntša"
+      "gloss": "o e tlositse"
     },
     {
       "surface": "לי",
-      "gloss": "ho 'na"
+      "gloss": "ho nna"
     },
     {
       "surface": "לשובב",
-      "gloss": "A furalla"
+      "gloss": "bakeng ba ba sokolang"
     },
     {
       "surface": "שדינו",
-      "gloss": "masimu a rona"
+      "gloss": "masimong a rona"
     },
     {
       "surface": "יחלק",
       "gloss": "o arola"
     }
   ],
-  "timestamp": "2026-10-03T10:10:55.791591711Z",
+  "timestamp": "2026-10-03T20:51:42.294522902Z",
   "model": "glm-5.3"
 }

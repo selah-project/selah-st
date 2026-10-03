@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 3,
-  "translation": "Adonai Yahwe, wena o qadile ho bontša ⟨את⟩ mohlanka wa hao ⟨את⟩ botlhale ba hao le ⟨את⟩ letsoho la hao le matla; ke mang El mahodimong kapa lefatshe, ya ka ntseng a ka di etsa jwalo ka mesebetsi ya hao, jwalo ka matla a hao?",
+  "translation": "Adonai Yahwe, wena o qadile ho bontsha ⟨את⟩ setjhaba sa hao ⟨את⟩ botle-boholo ba hao le ⟨את⟩ letsoho la hao la matla; hobane ke mang ya tshwanang le El mahodimong kapa lefatsheng, ya ka etsang jwalo ka mesebetsi ya hao le jwalo ka matla a hao a hodimo?",
   "tokens": [
     {
       "surface": "אדני",
@@ -25,30 +25,30 @@
     },
     {
       "surface": "להראות",
-      "gloss": "ho bontša"
+      "gloss": "ho bontsha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mohlanka wa hao"
+      "marks": "setjhaba sa hao"
     },
     {
       "surface": "עבדך",
-      "gloss": "mohlanka wa hao"
+      "gloss": "setjhaba sa hao"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "botlhale ba hao"
+      "marks": "botle-boholo ba hao"
     },
     {
       "surface": "גדלך",
-      "gloss": "botlhale ba hao"
+      "gloss": "botle-boholo ba hao"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "letsoho la hao"
+      "marks": "letsoho la hao la matla"
     },
     {
       "surface": "ידך",
@@ -56,15 +56,15 @@
     },
     {
       "surface": "החזקה",
-      "gloss": "le matla"
+      "gloss": "la matla"
     },
     {
       "surface": "אשר",
-      "gloss": "ke"
+      "gloss": "hobane"
     },
     {
       "surface": "מי",
-      "gloss": "mang"
+      "gloss": "ke mang"
     },
     {
       "surface": "אל",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "ובארץ",
-      "gloss": "kapa lefatshe"
+      "gloss": "kapa lefatsheng"
     },
     {
       "surface": "אשר",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "a ka di etsa"
+      "gloss": "ka etsang"
     },
     {
       "surface": "כמעשיך",
@@ -92,9 +92,9 @@
     },
     {
       "surface": "וכגבורתך",
-      "gloss": "jwalo ka matla a hao"
+      "gloss": "le jwalo ka matla a hao a hodimo"
     }
   ],
-  "timestamp": "2026-10-03T06:42:26.186682228Z",
+  "timestamp": "2026-10-03T20:31:00.226972302Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "st",
   "chapter": 36,
-  "translation": "Le se ke la mamela Khezkiyahu, hobane ho bolela morena wa Ashure: Etsang ⟨את⟩ tumellano le 'na, tšoang ho 'na, le je motho o mong le o mong morara wa sefate sa hae sa pherekong, le noе motho o mong le o mong metsi a sediba sa hae.",
+  "translation": "Se kelle letho ho Khizkiyahu, hobane jwalo ha ho bolela morena wa Ashure: Etsang sehopotso ⟨את⟩ le nna, mme tlang ho ya ho nna, mme jeang, ⟨mong le mong⟩ wa hae wa mere, le mong wa fene ya hae, mme noang, mong le mong, metsi a sediba sa hae;",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Le se ke"
+      "gloss": "se"
     },
     {
       "surface": "תשמעו",
-      "gloss": "la mamela"
+      "gloss": "kelle letho"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Khezkiyahu"
+      "gloss": "Khizkiyahu"
     },
     {
       "surface": "כי",
@@ -29,77 +29,78 @@
     },
     {
       "surface": "כה",
-      "gloss": "ho"
+      "gloss": "jwalo"
     },
     {
       "surface": "אמר",
-      "gloss": "bolela"
+      "gloss": "ha ho bolela"
     },
     {
       "surface": "המלך",
-      "gloss": "morena wa"
+      "gloss": "morena"
     },
     {
       "surface": "אשור",
-      "gloss": "Ashure"
+      "gloss": "wa Ashure"
     },
     {
       "surface": "עשו",
-      "gloss": "Etsang"
+      "gloss": "etsang"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ le 'na"
+      "gloss": "⟨את⟩ le nna",
+      "marks": "sehopotso"
     },
     {
       "surface": "ברכה",
-      "gloss": "tumellano"
+      "gloss": "sehopotso"
     },
     {
       "surface": "וצאו",
-      "gloss": "tšoang"
+      "gloss": "mme tlang ho ya"
     },
     {
       "surface": "אלי",
-      "gloss": "ho 'na"
+      "gloss": "ho ya ho nna"
     },
     {
       "surface": "ואכלו",
-      "gloss": "le je"
+      "gloss": "mme jeang"
     },
     {
       "surface": "איש",
-      "gloss": "motho o mong le o mong"
+      "gloss": "mong le mong"
     },
     {
       "surface": "גפנו",
-      "gloss": "morara wa sefate sa hae sa pherekong"
+      "gloss": "wa hae wa mere"
     },
     {
       "surface": "ואיש",
-      "gloss": "le motho o mong le o mong"
+      "gloss": "le mong"
     },
     {
       "surface": "תאנתו",
-      "gloss": "mofine wa hae"
+      "gloss": "wa fene ya hae"
     },
     {
       "surface": "ושתו",
-      "gloss": "le noe"
+      "gloss": "mme noang"
     },
     {
       "surface": "איש",
-      "gloss": "motho o mong le o mong"
+      "gloss": "mong le mong"
     },
     {
       "surface": "מי",
-      "gloss": "metsi a"
+      "gloss": "metsi"
     },
     {
       "surface": "בורו",
-      "gloss": "sediba sa hae"
+      "gloss": "a sediba sa hae"
     }
   ],
-  "timestamp": "2026-10-03T08:47:41.615467245Z",
+  "timestamp": "2026-10-03T20:14:37.109850629Z",
   "model": "glm-5.3"
 }

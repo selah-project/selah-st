@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "st",
   "chapter": 36,
-  "translation": "Hobane ho uena ho ya motšethe wa bophelo; ka leseli la hao re tla bona leseli.",
+  "translation": "Hobane ho ya le wena ho na le mokoadi wa bophelo; ka kganyeng ya hao re tla bona ⟨את⟩ kganya.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עמך",
-      "gloss": "ho uena"
+      "gloss": "ho ya le wena"
     },
     {
       "surface": "מקור",
-      "gloss": "motšethe"
+      "gloss": "mokoadi"
     },
     {
       "surface": "חיים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "באורך",
-      "gloss": "ka leseli la hao"
+      "gloss": "ka kganyeng ya hao"
     },
     {
       "surface": "נראה",
@@ -33,9 +33,10 @@
     },
     {
       "surface": "אור",
-      "gloss": "leseli"
+      "gloss": "⟨את⟩ kganya",
+      "marks": "kganya"
     }
   ],
-  "timestamp": "2026-10-03T13:10:55.874596131Z",
+  "timestamp": "2026-10-03T20:20:49.577813729Z",
   "model": "glm-5.3"
 }

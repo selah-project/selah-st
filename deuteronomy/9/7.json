@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 9,
-  "translation": "Hopola, se ke oa lebala ⟨את⟩ seo o neng o sitelletse Yahwe Elohim wa hao ka har'a naga e se nang metsi, ho tloha letsatsing leo o neng o tsoa lefatšeng la Mitsrayime ho fihlela ho tla ha lona sebakeng sena; lona le ne le le ditšoerelelo ho Yahwe.",
+  "translation": "Hopola, o se ke wa lebala ⟨את⟩ seo o ileng sa dira Yahwe Elohim wa hao a tshwenyeka ka ho hatsetsa sekakeng; ho tloha letsatsing leo o ileng wa tswa ho teng naheng ya Mitsrayime, ho fihlela lo fihlelwa sebakeng sena, le ne le le ditshwarenyana le Yahwe.",
   "tokens": [
     {
       "surface": "זכר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "se ke oa"
+      "gloss": "o se ke wa"
     },
     {
       "surface": "תשכח",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "הקצפת",
-      "gloss": "o sitelletse"
+      "gloss": "o ileng sa dira … a tshwenyeka ka ho hatsetsa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe"
+      "marks": "Yahwe Elohim wa hao"
     },
     {
       "surface": "יהוה",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "במדבר",
-      "gloss": "ka har'a naga e se nang metsi"
+      "gloss": "sekakeng"
     },
     {
       "surface": "למן",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "יצאת",
-      "gloss": "o tsoa"
+      "gloss": "o ileng wa tswa"
     },
     {
       "surface": "מארץ",
-      "gloss": "lefatšeng"
+      "gloss": "naheng ya"
     },
     {
       "surface": "מצרים",
-      "gloss": "la Mitsrayime"
+      "gloss": "Mitsrayime"
     },
     {
       "surface": "עד",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "באכם",
-      "gloss": "ho tla ha lona"
+      "gloss": "lo fihlelwa"
     },
     {
       "surface": "עד",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "ממרים",
-      "gloss": "le ne le le ditšoerelelo"
+      "gloss": "le ne le le ditshwarenyana"
     },
     {
       "surface": "הייתם",
@@ -103,13 +103,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "ho"
+      "gloss": "le"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T06:49:00.413809180Z",
+  "timestamp": "2026-10-03T20:09:21.053353633Z",
   "model": "glm-5.3"
 }

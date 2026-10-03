@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "st",
   "chapter": 46,
-  "translation": "Ba tsekatsa gauta ho tloha mmoleng, mme ba kala silivere ka tekanyo, ba hira mooki wa tšepe, mme o etsa ⟨את⟩ El; ba otlolla mahlo, ee, ba inamisa.",
+  "translation": "Ba halaledisa ⟨את⟩ gauta ho tloha setlhatseng, mme ba kala sefaha ka khoebong, ba hira mokopanyi, mme a etsa ⟨את⟩ yona El, ba otlolla, ee, ba inamisa.",
   "tokens": [
     {
       "surface": "הזלים",
-      "gloss": "ba tsekatsa"
+      "gloss": "ba halaledisa"
     },
     {
       "surface": "זהב",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "מכיס",
-      "gloss": "ho tloha mmoleng"
+      "gloss": "ho tloha setlhatseng"
     },
     {
-      "surface": "וככסף",
-      "gloss": "mme silivere"
+      "surface": "וכסף",
+      "gloss": "mme sefaha"
     },
     {
       "surface": "בקנה",
-      "gloss": "ka tekanyo"
+      "gloss": "ka khoebong"
     },
     {
       "surface": "ישקלו",
       "gloss": "ba kala"
     },
     {
-      "surface": "ישקרו",
+      "surface": "ישכרו",
       "gloss": "ba hira"
     },
     {
       "surface": "צורף",
-      "gloss": "mooki wa tšepe"
+      "gloss": "mokopanyi"
     },
     {
       "surface": "ויעשהו",
-      "gloss": "mme o etsa"
+      "gloss": "mme a etsa ⟨את⟩ yona"
     },
     {
       "surface": "אל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יסגדו",
-      "gloss": "ba otlolla mahlo"
+      "gloss": "ba otlolla"
     },
     {
       "surface": "אף",
@@ -60,6 +60,6 @@
       "gloss": "ba inamisa"
     }
   ],
-  "timestamp": "2026-10-03T08:52:04.194871160Z",
+  "timestamp": "2026-10-03T20:15:47.708644541Z",
   "model": "glm-5.3"
 }

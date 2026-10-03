@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "st",
   "chapter": 6,
-  "translation": "Mme a bopa ⟨את⟩ mabote a ⟨⟨the⟩⟩ ntlo ho tloha ka hare ka diphao tsa diareze, ho tloha lefatseng la ntlo ho fihlela maboteng a sepoelo; a e apedisa ka sehlahla ka hare, mme a apesa ⟨את⟩ lefatše la ntlo ka diphao tsa diberoshe.",
+  "translation": "Mme a bopa ⟨את⟩ mabitlo a hae ho tloha ka hare, ka mapate a cedar, ho tloha mobung oa hae ho fihlela mabitlong a ⟨the⟩ sifeng, a e apara ka leshoang ho tloha ka hare; mme a apara ⟨את⟩ mobu oa hae ka mehala oa cypress.",
   "tokens": [
     {
       "surface": "ויבן",
@@ -14,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mabote a ntlo"
+      "marks": "mabitlo"
     },
     {
       "surface": "קירות",
-      "gloss": "mabote"
+      "gloss": "mabitlo"
     },
     {
       "surface": "הבית",
-      "gloss": "a ntlo"
+      "gloss": "hae"
     },
     {
       "surface": "מביתה",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "בצלעות",
-      "gloss": "ka diphao"
+      "gloss": "ka mapate"
     },
     {
       "surface": "ארזים",
-      "gloss": "tsa diareze"
+      "gloss": "a cedar"
     },
     {
       "surface": "מקרקע",
-      "gloss": "ho tloha lefatseng"
+      "gloss": "ho tloha mobung"
     },
     {
       "surface": "הבית",
-      "gloss": "la ntlo"
+      "gloss": "oa hae"
     },
     {
       "surface": "עד",
@@ -50,50 +50,50 @@
     },
     {
       "surface": "קירות",
-      "gloss": "maboteng"
+      "gloss": "mabitlong"
     },
     {
       "surface": "הספן",
-      "gloss": "a sepoelo"
+      "gloss": "a sifeng"
     },
     {
       "surface": "צפה",
-      "gloss": "a e apedisa"
+      "gloss": "a e apara"
     },
     {
       "surface": "עץ",
-      "gloss": "ka sehlahla"
+      "gloss": "ka leshoang"
     },
     {
       "surface": "מבית",
-      "gloss": "ka hare"
+      "gloss": "ho tloha ka hare"
     },
     {
       "surface": "ויצף",
-      "gloss": "a apesa"
+      "gloss": "mme a apara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lefatše la ntlo"
+      "marks": "mobu"
     },
     {
       "surface": "קרקע",
-      "gloss": "lefatše"
+      "gloss": "mobu"
     },
     {
       "surface": "הבית",
-      "gloss": "la ntlo"
+      "gloss": "oa hae"
     },
     {
       "surface": "בצלעות",
-      "gloss": "ka diphao"
+      "gloss": "ka mehala"
     },
     {
       "surface": "ברושים",
-      "gloss": "tsa diberoshe"
+      "gloss": "oa cypress"
     }
   ],
-  "timestamp": "2026-10-03T12:58:01.793779412Z",
+  "timestamp": "2026-10-03T20:12:34.087327020Z",
   "model": "glm-5.3"
 }

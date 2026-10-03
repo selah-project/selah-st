@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "st",
   "chapter": 9,
-  "translation": "Mme Tsiba a re ho morena: Joalo ka tsohle tseo monga ka morena a di laelang ⟨את⟩ mošomi wa hae, jwalo mošomi wa hao o tla di etsa; mme Mefiboshete o ja bo tafole ya ka, joalo ka e ngwe ya bana ba morena.",
+  "translation": "Mme Tsiba a re ho morena: Joalo ka tsohle tseo morena, morena, a laelang ⟨את⟩ lekgoboa la hae ka tsona, jwalo lekgoboa la hao o tla di etsa. Mme Mefiboshete o ja tafoleng ya ka, joalo ka e mong wa bana ba morena.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "יצוה",
-      "gloss": "a di laelang"
+      "gloss": "a laelang"
     },
     {
       "surface": "אדני",
-      "gloss": "monga ka"
+      "gloss": "morena"
     },
     {
       "surface": "המלך",
@@ -46,11 +46,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mošomi wa hae"
+      "marks": "lekgoboa la hae"
     },
     {
       "surface": "עבדו",
-      "gloss": "mošomi wa hae"
+      "gloss": "lekgoboa la hae"
     },
     {
       "surface": "כן",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "o tla di etsa"
+      "gloss": "o tla etsa"
     },
     {
       "surface": "עבדך",
-      "gloss": "mošomi wa hao"
+      "gloss": "lekgoboa la hao"
     },
     {
       "surface": "ומפיבשת",
@@ -74,25 +74,25 @@
     },
     {
       "surface": "על",
-      "gloss": "bo"
+      "gloss": "tafoleng"
     },
     {
       "surface": "שלחני",
-      "gloss": "tafole ya ka"
+      "gloss": "ya ka"
     },
     {
       "surface": "כאחד",
-      "gloss": "joalo ka e ngwe"
+      "gloss": "joalo ka e mong"
     },
     {
       "surface": "מבני",
-      "gloss": "ya bana ba"
+      "gloss": "wa bana"
     },
     {
       "surface": "המלך",
       "gloss": "morena"
     }
   ],
-  "timestamp": "2026-10-03T07:49:19.434128901Z",
+  "timestamp": "2026-10-03T20:12:02.110253988Z",
   "model": "glm-5.3"
 }

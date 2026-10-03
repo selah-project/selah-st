@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "st",
   "chapter": 10,
-  "translation": "Mme Šaule a araba malome wa hae: O boleletse rona ka ho hlaka hore dipoli di fumantswe; mme ⟨את⟩ taba ya borena a sa e bolella, eo Šamuele a e bolelletseng.",
+  "translation": "Mme Shaule a re ho malome wa hae: O ile a bolella ka ho hlaka hore dipolase di fumanwe; empa ⟨את⟩ taba ya borena ha a ea e mo bolella, seo Shemuele a se boletseng.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a araba"
+      "gloss": "a re"
     },
     {
       "surface": "שאול",
-      "gloss": "Šaule"
+      "gloss": "Shaule"
     },
     {
       "surface": "אל",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "הגד",
-      "gloss": "O boleletse"
-    },
-    {
-      "surface": "הגיד",
       "gloss": "ka ho hlaka"
     },
     {
+      "surface": "הגיד",
+      "gloss": "O ile a bolella"
+    },
+    {
       "surface": "לנו",
-      "gloss": "rona"
+      "gloss": "ronte"
     },
     {
       "surface": "כי",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "נמצאו",
-      "gloss": "di fumantswe"
+      "gloss": "di fumanwe"
     },
     {
       "surface": "האתנות",
-      "gloss": "dipoli"
+      "gloss": "dipolase"
     },
     {
       "surface": "ואת",
@@ -62,29 +62,29 @@
     },
     {
       "surface": "לא",
-      "gloss": "ha a"
+      "gloss": "ha"
     },
     {
       "surface": "הגיד",
-      "gloss": "bolella"
+      "gloss": "a ea e bolella"
     },
     {
       "surface": "לו",
-      "gloss": "mo-"
+      "gloss": "mo"
     },
     {
       "surface": "אשר",
-      "gloss": "eo"
+      "gloss": "seo"
     },
     {
       "surface": "אמר",
-      "gloss": "a e bolelletseng"
+      "gloss": "a se boletseng"
     },
     {
       "surface": "שמואל",
-      "gloss": "Šamuele"
+      "gloss": "Shemuele"
     }
   ],
-  "timestamp": "2026-10-03T12:53:36.433015247Z",
+  "timestamp": "2026-10-03T20:11:48.438070805Z",
   "model": "glm-5.3"
 }

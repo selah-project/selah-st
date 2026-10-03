@@ -5,40 +5,41 @@
   "book": "jeremiah",
   "lang": "st",
   "chapter": 38,
-  "translation": "Mme ba mo nkušile Yirmeyahu ka meala, mme ba mo hlahisa ⟨אתו⟩ ka sedibeng; mme Yirmeyahu o ile a dula ka tsamaisong ya tshireletso.",
+  "translation": "Mme ba mo hula ⟨את⟩ Yirimaya ka dikhabelo, mme ba mo hlahaletsa ⟨אתו⟩ hodima mongobo, mme Yirimaya a dula sebakeng sa boahelo sa balebedi.",
   "tokens": [
     {
       "surface": "וימשכו",
-      "gloss": "ba mo ntšile"
+      "gloss": "ba mo hula"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yirmeyahu"
+      "marks": "Yirimaya"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeyahu"
+      "gloss": "Yirimaya"
     },
     {
       "surface": "בחבלים",
-      "gloss": "ka meala"
+      "gloss": "ka dikhabelo"
     },
     {
       "surface": "ויעלו",
-      "gloss": "ba mo hlahisitse"
+      "gloss": "ba mo hlahaletsa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩"
+      "gloss": "⟨אתו⟩",
+      "marks": "mongobo"
     },
     {
       "surface": "מן",
-      "gloss": "ka"
+      "gloss": "hodima"
     },
     {
       "surface": "הבור",
-      "gloss": "sedibeng"
+      "gloss": "mongobo"
     },
     {
       "surface": "וישב",
@@ -46,17 +47,17 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeyahu"
+      "gloss": "Yirimaya"
     },
     {
       "surface": "בחצר",
-      "gloss": "ka tsamaisong"
+      "gloss": "sebakeng sa boahelo"
     },
     {
       "surface": "המטרה",
-      "gloss": "ya tshireletso"
+      "gloss": "balebedi"
     }
   ],
-  "timestamp": "2026-10-03T09:23:30.901746134Z",
+  "timestamp": "2026-10-03T20:16:51.219961819Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,16 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 22,
-  "translation": "Mme a etsa joalo bohlepeleng mahlong a Yahwe, mme a tsamaya tseleng eohle ya Dawide ntatae, mme a sa fetole ka ho le letšehali kapa ka ho le letona.",
+  "translation": "Mme o ile a etsa ⟨את⟩ tse lokileng mahlong a Yahwe, mme a tsamaya tseleng eohle ya Dawide ntate wa hae, mme ha a ka a fapafatsa ho ya ka ho ja hoja kapa ho ja hojane.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "mme a etsa"
+      "gloss": "a etsa"
     },
     {
       "surface": "הישר",
-      "gloss": "joalo bohlepeleng"
+      "gloss": "tse lokileng",
+      "marks": null
     },
     {
       "surface": "בעיני",
@@ -41,25 +42,25 @@
     },
     {
       "surface": "אביו",
-      "gloss": "ntatae"
+      "gloss": "ntate wa hae"
     },
     {
       "surface": "ולא",
-      "gloss": "mme a sa"
+      "gloss": "mme ha"
     },
     {
       "surface": "סר",
-      "gloss": "fetole"
+      "gloss": "a fapafatsa"
     },
     {
       "surface": "ימין",
-      "gloss": "ka ho le letona"
+      "gloss": "ho ja hoja"
     },
     {
       "surface": "ושמאול",
-      "gloss": "kapa ka ho le letšehali"
+      "gloss": "kapa ho ja hojane"
     }
   ],
-  "timestamp": "2026-10-03T08:29:25.566490607Z",
+  "timestamp": "2026-10-03T20:13:53.792849462Z",
   "model": "glm-5.3"
 }

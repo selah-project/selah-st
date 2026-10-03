@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "st",
   "chapter": 9,
-  "translation": "Mme Shemuele a nka ⟨את⟩ Shaule le ⟨את⟩ mošemane wa hae, a ba kisa ka kamoreng, a ba neha sebaka hodima ba bitlwang; mme ba ne ba le koto mashome a mararo.",
+  "translation": "Mme Shemuele a nka ⟨את⟩ Shaule le ⟨את⟩ mosenyane wa hae, a ba isa kamoreng, mme a ba fa lefelo hodima hloho ya ba bitsoang, mme ⟨ba ne ba⟩ lekana le mashome a mararo a banna.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -27,23 +27,23 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "mošemane wa hae"
+      "marks": "mosenyane wa hae"
     },
     {
       "surface": "נערו",
-      "gloss": "mošemane wa hae"
+      "gloss": "mosenyane wa hae"
     },
     {
       "surface": "ויביאם",
-      "gloss": "a ba kisa"
+      "gloss": "a ba isa"
     },
     {
       "surface": "לשכתה",
-      "gloss": "ka kamoreng"
+      "gloss": "kamoreng"
     },
     {
       "surface": "ויתן",
-      "gloss": "a ba neha"
+      "gloss": "a ba fa"
     },
     {
       "surface": "להם",
@@ -51,29 +51,29 @@
     },
     {
       "surface": "מקום",
-      "gloss": "sebaka"
+      "gloss": "lefelo"
     },
     {
       "surface": "בראש",
-      "gloss": "hodima"
+      "gloss": "hodima hloho ya"
     },
     {
       "surface": "הקרואים",
-      "gloss": "ba bitlwang"
+      "gloss": "ba bitsoang"
     },
     {
       "surface": "והמה",
-      "gloss": "mme ba ne ba le"
+      "gloss": "mme ba"
     },
     {
       "surface": "כשלשים",
-      "gloss": "koto mashome a mararo"
+      "gloss": "lekana le mashome a mararo"
     },
     {
       "surface": "איש",
-      "gloss": ""
+      "gloss": "a banna"
     }
   ],
-  "timestamp": "2026-10-03T07:35:32.551730041Z",
+  "timestamp": "2026-10-03T20:31:49.916349055Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 2,
-  "translation": "Sohanang, tsamaang, mme lo feta ⟨את⟩ molapo wa Arnone; bonang, ke ne ke fana ka ⟨את⟩ Sihone, morena wa Khešbone, wa Emori, le ⟨את⟩ lefatshe la hae — qalang ho boa, mme lo hlasela ntoa le eena.",
+  "translation": "Sohanang, le tsamae, mme le fete ⟨את⟩ molula wa Arnone; bonang, ke ne ke fileng letsohong la hau ⟨את⟩ Sihone, morena wa Kheshbone, wa Mmorei, le ⟨את⟩ lefatshe la hae; qalang ho laola, mme lo lwa le eena ntoa.",
   "tokens": [
     {
       "surface": "קומו",
@@ -13,24 +13,24 @@
     },
     {
       "surface": "סעו",
-      "gloss": "tsamaang"
+      "gloss": "le tsamae"
     },
     {
       "surface": "ועברו",
-      "gloss": "mme lo feta"
+      "gloss": "mme le fete"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "molapo wa Arnone"
+      "marks": "molula wa Arnone"
     },
     {
       "surface": "נחל",
-      "gloss": "molapo"
+      "gloss": "molula"
     },
     {
       "surface": "ארנן",
-      "gloss": "Arnone"
+      "gloss": "wa Arnone"
     },
     {
       "surface": "ראה",
@@ -38,16 +38,16 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "ke ne ke fana"
+      "gloss": "ke ne ke fileng"
     },
     {
       "surface": "בידך",
-      "gloss": "ka letsatsi la hao"
+      "gloss": "letsohong la hau"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sihone, morena wa Khešbone, wa Emori"
+      "marks": "Sihone"
     },
     {
       "surface": "סיחן",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "חשבון",
-      "gloss": "Khešbone"
+      "gloss": "wa Kheshbone"
     },
     {
       "surface": "האמרי",
-      "gloss": "wa Emori"
+      "gloss": "wa Mmorei"
     },
     {
       "surface": "ואת",
@@ -80,11 +80,11 @@
     },
     {
       "surface": "רש",
-      "gloss": "ho boa"
+      "gloss": "ho laola"
     },
     {
       "surface": "והתגר",
-      "gloss": "mme lo hlasela"
+      "gloss": "mme lo lwa le eena"
     },
     {
       "surface": "בו",
@@ -95,6 +95,6 @@
       "gloss": "ntoa"
     }
   ],
-  "timestamp": "2026-10-03T06:43:04.285767996Z",
+  "timestamp": "2026-10-03T20:08:59.334944107Z",
   "model": "glm-5.3"
 }

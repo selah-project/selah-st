@@ -5,10 +5,10 @@
   "book": "psalms",
   "lang": "st",
   "chapter": 78,
-  "translation": "Mme ba ile ba eketsa hape ho fosa ⟨lô⟩, ho hanela Elyone lehoqong.",
+  "translation": "Mme ba ile ba eketsa hape ho tshwara ⟨את⟩ liphoso ho Yahwe, ho hlotla Elyone sekakeng.",
   "tokens": [
     {
-      "surface": "ויסיפו",
+      "surface": "ויוסיפו",
       "gloss": "ba ile ba eketsa"
     },
     {
@@ -17,15 +17,15 @@
     },
     {
       "surface": "לחטא",
-      "gloss": "ho fosa"
+      "gloss": "ho tshwara liphoso"
     },
     {
       "surface": "לו",
-      "gloss": "⟨lô⟩"
+      "gloss": "ho eena"
     },
     {
       "surface": "למרות",
-      "gloss": "ho hanela"
+      "gloss": "ho hlotla"
     },
     {
       "surface": "עליון",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "בציה",
-      "gloss": "lehoqong"
+      "gloss": "sekakeng"
     }
   ],
-  "timestamp": "2026-10-03T10:43:47.158323909Z",
+  "timestamp": "2026-10-03T20:33:54.248793102Z",
   "model": "glm-5.3"
 }

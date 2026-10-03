@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "st",
   "chapter": 35,
-  "translation": "Mme ba tla, motho e mong le e mong ya neng a mo tlhotswe pelo, le e mong le e mong ya neng ruakh ya hae a mo hlahisa boithaopo, ba ile ba hlahisa ⟨את⟩ mpho ya terumá ya Yahwe bakeng sa mosebetsi wa tente ya phutheho, le bakeng sa tšebeletso ya yonaohle, le bakeng sa diaparo tsa sehalalelo.",
+  "translation": "Mme ba tla, motho e mong le e mong ya neng a hlaphohetsoe ke pelo ya hae, le motho e mong le e mong ya neng ruakh ya hae e mo hlahisitse boithaopo, ba hlahisa ⟨את⟩ mpho ya Yahwe bakeng sa mosebetsi wa ohela wa phutheho, le bakeng sa mosebetsi wa wona ohle, le bakeng sa diaparo tsa ⟨the⟩ halalelang.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "ba tla"
+      "gloss": "Mme ba tla"
     },
     {
       "surface": "כל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "נשאו",
-      "gloss": "a mo tlhotswe"
+      "gloss": "a hlaphohetsoe"
     },
     {
       "surface": "לבו",
-      "gloss": "pelo"
+      "gloss": "ke pelo ya hae"
     },
     {
       "surface": "וכל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נדבה",
-      "gloss": "a hlahisa boithaopo"
+      "gloss": "e mo hlahisitse boithaopo"
     },
     {
       "surface": "רוחו",
@@ -49,21 +49,21 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ mo",
-      "marks": "motho — aleph-tav e supa motho ya tlhotswang"
+      "gloss": "⟨את⟩",
+      "marks": "mo (motho ya boithaopo)"
     },
     {
       "surface": "הביאו",
-      "gloss": "ba ile ba hlahisa"
+      "gloss": "ba hlahisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mpho ya terumá"
+      "marks": "mpho ya Yahwe"
     },
     {
       "surface": "תרומת",
-      "gloss": "mpho ya terumá"
+      "gloss": "mpho"
     },
     {
       "surface": "יהוה",
@@ -71,33 +71,33 @@
     },
     {
       "surface": "למלאכת",
-      "gloss": "bakeng sa mosebetsi"
+      "gloss": "bakeng sa mosebetsi wa"
     },
     {
       "surface": "אהל",
-      "gloss": "tente"
+      "gloss": "ohela"
     },
     {
       "surface": "מועד",
-      "gloss": "ya phutheho"
+      "gloss": "wa phutheho"
     },
     {
       "surface": "ולכל",
-      "gloss": "le bakeng sa"
+      "gloss": "le bakeng sa ohle"
     },
     {
       "surface": "עבדתו",
-      "gloss": "tšebeletso ya yonaohle"
+      "gloss": "mosebetsi wa wona"
     },
     {
       "surface": "ולבגדי",
-      "gloss": "le bakeng sa diaparo"
+      "gloss": "le bakeng sa diaparo tsa"
     },
     {
       "surface": "הקדש",
-      "gloss": "tsa sehalalelo"
+      "gloss": "halalelang"
     }
   ],
-  "timestamp": "2026-10-03T06:00:22.071005365Z",
+  "timestamp": "2026-10-03T20:30:58.260950723Z",
   "model": "glm-5.3"
 }

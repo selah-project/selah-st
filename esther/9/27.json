@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "st",
   "chapter": 9,
-  "translation": "Bajuda ba ile ba tiisa mme ba amohela ho bona, le ho leloaro la bona, le ho bohle ba kopanang le bona: hore e se ke ea feta ho ba etsa ⟨את⟩ matšatši a mabeli ana, jwalo ka ha ho ngotsoe, le ka nako ea tsona, ka selemo se seng le se seng.",
+  "translation": "Bajuda ba netefaditse mme ba amohetse, holim'a bona le holim'a pejana ea bona le holim'a bohle ba neng ba ikopanye le bona; mme ho ke ke ha fela, hore ba be ba etsa ⟨את⟩ matsatsi a mabel ana, ka tlhaloso ea ona le ka nako ea sona, selemo le selemo.",
   "tokens": [
     {
       "surface": "קימו",
-      "gloss": "ba ile ba tiisa"
+      "gloss": "ba netefaditse"
     },
     {
       "surface": "וקבל",
-      "gloss": "mme ba amohela"
+      "gloss": "mme ba amohetse"
     },
     {
       "surface": "היהודים",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "ho bona"
+      "gloss": "holim'a bona"
     },
     {
       "surface": "ועל",
-      "gloss": "le ho"
+      "gloss": "le holim'a"
     },
     {
       "surface": "זרעם",
-      "gloss": "leloaro la bona"
+      "gloss": "pejana ea bona"
     },
     {
       "surface": "ועל",
-      "gloss": "le ho"
+      "gloss": "le holim'a"
     },
     {
       "surface": "כל",
@@ -41,40 +41,40 @@
     },
     {
       "surface": "הנלוים",
-      "gloss": "ba kopanang"
+      "gloss": "ba neng ba ikopanye le"
     },
     {
       "surface": "עליהם",
-      "gloss": "le bona"
+      "gloss": "ho bona"
     },
     {
       "surface": "ולא",
-      "gloss": "hore e se ke"
+      "gloss": "mme ho se ke"
     },
     {
       "surface": "יעבור",
-      "gloss": "ea feta"
+      "gloss": "ha fela"
     },
     {
       "surface": "להיות",
-      "gloss": "ho ba"
+      "gloss": "hore ba be"
     },
     {
       "surface": "עשים",
-      "gloss": "etsa"
+      "gloss": "ba etsa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "matšatši a mabeli ana"
+      "marks": "matsatsi a mabel ana"
     },
     {
       "surface": "שני",
-      "gloss": "a mabeli"
+      "gloss": "a mabel"
     },
     {
       "surface": "הימים",
-      "gloss": "matšatši"
+      "gloss": "matsatsi"
     },
     {
       "surface": "האלה",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "ככתבם",
-      "gloss": "jwalo ka ha ho ngotsoe"
+      "gloss": "ka tlhaloso ea ona"
     },
     {
       "surface": "וכזמנם",
-      "gloss": "le ka nako ea tsona"
+      "gloss": "le ka nako ea sona"
     },
     {
       "surface": "בכל",
-      "gloss": "ka"
+      "gloss": "selemo le selemo"
     },
     {
       "surface": "שנה",
@@ -101,6 +101,6 @@
       "gloss": "le selemo"
     }
   ],
-  "timestamp": "2026-10-03T11:49:52.013376190Z",
+  "timestamp": "2026-10-03T20:25:50.984891956Z",
   "model": "glm-5.3"
 }

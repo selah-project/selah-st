@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "st",
   "chapter": 8,
-  "translation": "Mme ba tla tswa morao ga rona, ho fihlela re ba hulile ⟨את⟩ hore ba tloe toropong; hobane ba tla re: Ba tšaba pela rona, jwaloka lekhetla la pele; mme re tla tšaba pela bona.",
+  "translation": "Mme ba tla tloha ba re latela, ho fihlela ha re ba hula ⟨את⟩ ho tloha torong; hobane ba tla re: Ba falala pale ho rona, jwalo ka qalong; mme re tla falala pale ho bona.",
   "tokens": [
     {
       "surface": "ויצאו",
-      "gloss": "mme ba tla tswa"
+      "gloss": "ba tla tloha"
     },
     {
       "surface": "אחרינו",
-      "gloss": "morao ga rona"
+      "gloss": "ba re latela"
     },
     {
       "surface": "עד",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "התיקנו",
-      "gloss": "re ba hulile"
+      "gloss": "ha re ba hula"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ba"
+      "marks": "ba (ho tloha torong)"
     },
     {
       "surface": "מן",
-      "gloss": "hore ba tloe"
+      "gloss": "ho tloha"
     },
     {
       "surface": "העיר",
-      "gloss": "toropong"
+      "gloss": "torong"
     },
     {
       "surface": "כי",
@@ -46,29 +46,29 @@
     },
     {
       "surface": "נסים",
-      "gloss": "ba tšaba"
+      "gloss": "Ba falala"
     },
     {
       "surface": "לפנינו",
-      "gloss": "pela rona"
+      "gloss": "pale ho rona"
     },
     {
       "surface": "כאשר",
-      "gloss": "jwaloka"
+      "gloss": "jwalo ka"
     },
     {
       "surface": "בראשנה",
-      "gloss": "lekhetla la pele"
+      "gloss": "qalong"
     },
     {
       "surface": "ונסנו",
-      "gloss": "mme re tla tšaba"
+      "gloss": "re tla falala"
     },
     {
       "surface": "לפניהם",
-      "gloss": "pela bona"
+      "gloss": "pale ho bona"
     }
   ],
-  "timestamp": "2026-10-03T07:06:33.305589331Z",
+  "timestamp": "2026-10-03T20:10:12.160444225Z",
   "model": "glm-5.3"
 }

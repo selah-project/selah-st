@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "st",
   "chapter": 5,
-  "translation": "Mme le ka letsatsi le le ngoe la matšatšing ao, ho bolela Yahwe, Nke ke ka etsa falang e felletseng ⟨את⟩ lona.",
+  "translation": "Mme le ka matsatseng ao, ho bolela Yahwe, nke ke ke ka etsa ⟨את⟩ ho fela ka ho lelelexa ho lona.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "Mme le ka letsatsi le le ngoe"
+      "gloss": "Mme le"
     },
     {
       "surface": "בימים",
-      "gloss": "la matšatšing"
+      "gloss": "ka matsatseng"
     },
     {
       "surface": "ההמה",
@@ -29,21 +29,22 @@
     },
     {
       "surface": "לא",
-      "gloss": "Nke ke ka"
+      "gloss": "nke"
     },
     {
       "surface": "אעשה",
-      "gloss": "etsa"
+      "gloss": "ke ke ka etsa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩ ho lona",
+      "marks": "ho lona"
     },
     {
       "surface": "כלה",
-      "gloss": "falang e felletseng"
+      "gloss": "ho fela ka ho lelelexa"
     }
   ],
-  "timestamp": "2026-10-03T13:01:46.775585037Z",
+  "timestamp": "2026-10-03T20:15:39.173630795Z",
   "model": "glm-5.3"
 }

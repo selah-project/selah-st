@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "st",
   "chapter": 7,
-  "translation": "Mme ⟨את⟩ diphio tse peli le ⟨את⟩ mafura a holim'a tsona, a leng holim'a mellala-e-mengwe, le ⟨את⟩ karolo e kaleng holim'a sebete, e kaleng hodima diphio, o tla e ntša.",
+  "translation": "le ⟨את⟩ diphio tse pedi, le ⟨את⟩ mafura a ho fetafu a tlas'a tsona, a tlas'a sesiu, le ⟨את⟩ karolo e oketsehileng hodima sebete, ho fetafu le diphio, o tla e ntsha.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "mme ⟨את⟩",
-      "marks": "diphio tse peli"
+      "gloss": "le ⟨את⟩",
+      "marks": "diphio tse pedi"
     },
     {
       "surface": "שתי",
-      "gloss": "tse peli"
+      "gloss": "tse pedi"
     },
     {
       "surface": "הכלית",
@@ -31,36 +31,36 @@
     },
     {
       "surface": "אשר",
-      "gloss": "a leng"
+      "gloss": "a"
     },
     {
       "surface": "עליהן",
-      "gloss": "holim'a tsona"
+      "gloss": "ho fetafu tlas'a tsona"
     },
     {
       "surface": "אשר",
-      "gloss": "a leng"
+      "gloss": "a"
     },
     {
       "surface": "על",
-      "gloss": "holim'a"
+      "gloss": "tlas'a"
     },
     {
       "surface": "הכסלים",
-      "gloss": "mellala-e-mengwe"
+      "gloss": "sesiu"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "karolo e kaleng"
+      "marks": "karolo e oketsehileng"
     },
     {
       "surface": "היתרת",
-      "gloss": "karolo e kaleng"
+      "gloss": "karolo e oketsehileng"
     },
     {
       "surface": "על",
-      "gloss": "holim'a"
+      "gloss": "hodima"
     },
     {
       "surface": "הכבד",
@@ -68,7 +68,7 @@
     },
     {
       "surface": "על",
-      "gloss": "hodima"
+      "gloss": "ho fetafu le"
     },
     {
       "surface": "הכלית",
@@ -76,9 +76,9 @@
     },
     {
       "surface": "יסירנה",
-      "gloss": "o tla e ntša"
+      "gloss": "o tla e ntsha"
     }
   ],
-  "timestamp": "2026-10-03T06:06:01.427079004Z",
+  "timestamp": "2026-10-03T20:07:02.850465621Z",
   "model": "glm-5.3"
 }

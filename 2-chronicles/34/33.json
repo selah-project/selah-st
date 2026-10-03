@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "st",
   "chapter": 34,
-  "translation": "Mme Yoashiahi a tlosa ⟨את⟩ ditlhahiso tsohle ho difatshe tsohle tsa bana ba Yisraele, a etsa hore ba bohle ba fumanwang Yisraele ba phethe mošomo wa ho tjanka Yahwe Elohim ya bona; ka matšatso ao ohle a hae ba ha koaohe morao ho Yahwe, Elohim ya bo-ntate bona.",
+  "translation": "Mme Yosiaha a tlosa ⟨את⟩ ditlhahiso tsohle tse nyahamisang ho tloha dibakeng tsohle tsa bana ba Yisraele, mme a etsa hore bahle ba fumanwang Yisraele ba sebeletse, ba tsamaisele ho sebeletsa ⟨את⟩ Yahwe Elohim wa bona; matsatsi a hae ohle ha ba a faloha morao ho Yahwe, Elohim wa bo-ntate bona.",
   "tokens": [
     {
       "surface": "ויסר",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Yoashiahi"
+      "gloss": "Yosiaha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ditlhahiso tsohle"
+      "marks": "ditlhahiso tsohle tse nyahamisang"
     },
     {
       "surface": "כל",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "התועבות",
-      "gloss": "ditlhahiso"
+      "gloss": "ditlhahiso tse nyahamisang"
     },
     {
       "surface": "מכל",
-      "gloss": "ho difatshe tsohle"
+      "gloss": "ho tloha dibakeng tsohle"
     },
     {
       "surface": "הארצות",
-      "gloss": "difatshe"
+      "gloss": "dibaka"
     },
     {
       "surface": "אשר",
@@ -50,16 +50,16 @@
     },
     {
       "surface": "ויעבד",
-      "gloss": "a etsa hore ba phethe"
+      "gloss": "mme a etsa hore ba tsamaisele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ba bohle"
+      "marks": "bahle ba fumanwang"
     },
     {
       "surface": "כל",
-      "gloss": "ba bohle"
+      "gloss": "bahle"
     },
     {
       "surface": "הנמצא",
@@ -71,12 +71,12 @@
     },
     {
       "surface": "לעבוד",
-      "gloss": "mošomo wa ho tjanka"
+      "gloss": "ho sebeletsa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe"
+      "marks": "Yahwe Elohim wa bona"
     },
     {
       "surface": "יהוה",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "Elohim ya bona"
+      "gloss": "Elohim wa bona"
     },
     {
       "surface": "כל",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "ימיו",
-      "gloss": "matšatso ao a hae"
+      "gloss": "matsatsi a hae"
     },
     {
       "surface": "לא",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "סרו",
-      "gloss": "koaohe morao"
+      "gloss": "ba a faloha"
     },
     {
       "surface": "מאחרי",
@@ -112,13 +112,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim ya"
+      "gloss": "Elohim wa"
     },
     {
       "surface": "אבותיהם",
       "gloss": "bo-ntate bona"
     }
   ],
-  "timestamp": "2026-10-03T12:39:39.393246125Z",
+  "timestamp": "2026-10-03T20:27:27.933994325Z",
   "model": "glm-5.3"
 }

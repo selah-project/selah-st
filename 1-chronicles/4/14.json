@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "st",
   "chapter": 4,
-  "translation": "Mme Meonotai a beletsela ⟨את⟩ Ofrate; mme Seraya a beletsela ⟨את⟩ Yoabe, ntate wa ≥ei ya Kharašime; hobane ba ne e le bahlahisi.",
+  "translation": "Mme Meonotai a tsetsa ⟨את⟩ Ofrha; mme Seraya a tsetsa ⟨את⟩ Yoabe, ntate wa ⟨the⟩ Ge-Kharashime, hobane Kharashime e ne e le bongaka jwa diatla.",
   "tokens": [
     {
       "surface": "ומעונתי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "a beletsela"
+      "gloss": "a tsetsa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ofrate"
+      "marks": "Ofrha"
     },
     {
       "surface": "עפרה",
-      "gloss": "Ofrate"
+      "gloss": "Ofrha"
     },
     {
       "surface": "ושריה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "a beletsela"
+      "gloss": "a tsetsa"
     },
     {
       "surface": "את",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "גיא",
-      "gloss": "≥ei ya"
+      "gloss": "Ge"
     },
     {
       "surface": "חרשים",
-      "gloss": "Kharašime"
+      "gloss": "Kharashime"
     },
     {
       "surface": "כי",
@@ -59,13 +59,13 @@
     },
     {
       "surface": "חרשים",
-      "gloss": "bahlahisi"
+      "gloss": "bongaka jwa diatla"
     },
     {
       "surface": "היו",
-      "gloss": "ba ne e le"
+      "gloss": "e ne e le"
     }
   ],
-  "timestamp": "2026-10-03T12:11:28.406611070Z",
+  "timestamp": "2026-10-03T20:25:03.937361897Z",
   "model": "glm-5.3"
 }

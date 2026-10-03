@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "st",
   "chapter": 29,
-  "translation": "Mme le tla hlahisa ofara, sehlabelo sa molllo, mmonwane o khutšo ho Yahwe: dipoo tse lesome-tharo tsa dikgomo, mapudu a mabela, mme dinama tsa selemo di le lesome-ne; di be tse phethahetseng.",
+  "translation": "Mme le tla hlahisa ofara ya mollo, e leng sehlabelo se se jwalo, e le mono ho Yahwe: dikgomo tsa bohaleng, tse lesome-tharo; dimapodi tse peli; dikonyana tsa selemo se le seng, tse leshome-mene; di tla ba tse phethahetseng.",
   "tokens": [
     {
       "surface": "והקרבתם",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אשה",
-      "gloss": "sehlabelo sa molllo"
+      "gloss": "ya mollo"
     },
     {
       "surface": "ריח",
-      "gloss": "mmonwane"
+      "gloss": "e le mono"
     },
     {
       "surface": "ניחח",
-      "gloss": "o khutšo"
+      "gloss": "ho Yahwe"
     },
     {
       "surface": "ליהוה",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "פרים",
-      "gloss": "dipoo"
-    },
-    {
-      "surface": "בני",
-      "gloss": "tsa"
-    },
-    {
-      "surface": "בקר",
       "gloss": "dikgomo"
     },
     {
+      "surface": "בני",
+      "gloss": "tsa bohaleng"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bohaleng"
+    },
+    {
       "surface": "שלשה",
-      "gloss": "tse"
+      "gloss": "tse lesome-tharo"
     },
     {
       "surface": "עשר",
@@ -53,31 +53,31 @@
     },
     {
       "surface": "אילם",
-      "gloss": "mapudu"
+      "gloss": "dimapodi tse peli"
     },
     {
       "surface": "שנים",
-      "gloss": "a mabela"
+      "gloss": "tse peli"
     },
     {
       "surface": "כבשים",
-      "gloss": "dinama"
+      "gloss": "dikonyana"
     },
     {
       "surface": "בני",
-      "gloss": "tsa"
+      "gloss": "tsa selemo"
     },
     {
       "surface": "שנה",
-      "gloss": "selemo"
+      "gloss": "selemo se le seng"
     },
     {
       "surface": "ארבעה",
-      "gloss": "di le"
+      "gloss": "tse leshome-mene"
     },
     {
       "surface": "עשר",
-      "gloss": "lesome-ne"
+      "gloss": "leshome-mene"
     },
     {
       "surface": "תמימם",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "di be"
+      "gloss": "di tla ba"
     }
   ],
-  "timestamp": "2026-10-03T06:37:37.487255770Z",
+  "timestamp": "2026-10-03T20:09:11.567596206Z",
   "model": "glm-5.3"
 }

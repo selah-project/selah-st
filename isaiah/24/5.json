@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "st",
   "chapter": 24,
-  "translation": "Mme lefatshe le ntšofaditswe tlasa ba dulang ho lona, hobane ba tlola Torah, ba fetola molao, ba phula selekane sa kahosafeleng.",
+  "translation": "Mme lefatshe le ntlefila ka tlase ho baahali ba lona, hobane ba fetile ⟨את⟩ Torah, ba fetola ⟨את⟩ sekele, ba phamile selekane sa kahosafeleng.",
   "tokens": [
     {
       "surface": "והארץ",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "חנפה",
-      "gloss": "le ntšofaditswe"
+      "gloss": "le ntlefila"
     },
     {
       "surface": "תחת",
-      "gloss": "tlasa"
+      "gloss": "ka tlase ho"
     },
     {
-      "surface": "ישביה",
-      "gloss": "ba dulang ho lona"
+      "surface": "יושביה",
+      "gloss": "baahali ba lona"
     },
     {
       "surface": "כי",
@@ -29,10 +29,10 @@
     },
     {
       "surface": "עברו",
-      "gloss": "ba tlola"
+      "gloss": "ba fetile"
     },
     {
-      "surface": "תורת",
+      "surface": "תורות",
       "gloss": "Torah"
     },
     {
@@ -41,11 +41,11 @@
     },
     {
       "surface": "חק",
-      "gloss": "molao"
+      "gloss": "sekele"
     },
     {
       "surface": "הפרו",
-      "gloss": "ba phula"
+      "gloss": "ba phamile"
     },
     {
       "surface": "ברית",
@@ -56,6 +56,6 @@
       "gloss": "sa kahosafeleng"
     }
   ],
-  "timestamp": "2026-10-03T08:41:33.547580439Z",
+  "timestamp": "2026-10-03T20:14:54.886777053Z",
   "model": "glm-5.3"
 }

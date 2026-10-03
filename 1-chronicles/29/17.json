@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "st",
   "chapter": 29,
-  "translation": "Mme ke tseba, Elohim ya ka, hore u hlola ⟨את⟩ pelo, le boitšoaro ba tokoloho u a bo rata; nna, ka boitšoaro ba pelo ya ka, ke ile ka ithaopa kaofela tse tele, mme hona joale sechaba sa hao se fumaneng mona ke ile ka se bona ka thabo ho iphana ho wena.",
+  "translation": "Mme ke tseja, Elohim ya ka, hore wena o hlahloba ⟨את⟩ pelo, mme o a ratahala ho toka: nna, ka toka ya pelo ya ka, ke ithaetse tsohle tse; mme jwale sechaba sa hao se fumanwang mona, ke bone ka thabo ho ithaanela ho wena.",
   "tokens": [
     {
       "surface": "וידעתי",
-      "gloss": "mme ke tseba"
+      "gloss": "Mme ke tseja"
     },
     {
       "surface": "אלהי",
@@ -21,23 +21,28 @@
     },
     {
       "surface": "אתה",
-      "gloss": "u"
+      "gloss": "wena"
     },
     {
       "surface": "בחן",
-      "gloss": "u hlola"
+      "gloss": "o hlahloba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo"
     },
     {
       "surface": "לבב",
-      "gloss": "⟨את⟩ pelo"
+      "gloss": "pelo"
     },
     {
       "surface": "ומישרים",
-      "gloss": "le boitšoaro ba tokoloho"
+      "gloss": "mme ho toka"
     },
     {
       "surface": "תרצה",
-      "gloss": "u a bo rata"
+      "gloss": "o a ratahala"
     },
     {
       "surface": "אני",
@@ -45,27 +50,27 @@
     },
     {
       "surface": "בישר",
-      "gloss": "ka boitšoaro"
+      "gloss": "ka toka"
     },
     {
       "surface": "לבבי",
-      "gloss": "ba pelo ya ka"
+      "gloss": "ya pelo ya ka"
     },
     {
       "surface": "התנדבתי",
-      "gloss": "ke ile ka ithaopa"
+      "gloss": "ke ithaetse"
     },
     {
       "surface": "כל",
-      "gloss": "kaofela"
+      "gloss": "tsohle"
     },
     {
       "surface": "אלה",
-      "gloss": "tse tele"
+      "gloss": "tse"
     },
     {
       "surface": "ועתה",
-      "gloss": "mme hona joale"
+      "gloss": "mme jwale"
     },
     {
       "surface": "עמך",
@@ -73,7 +78,7 @@
     },
     {
       "surface": "הנמצאו",
-      "gloss": "se fumaneng"
+      "gloss": "se fumanwang"
     },
     {
       "surface": "פה",
@@ -81,7 +86,7 @@
     },
     {
       "surface": "ראיתי",
-      "gloss": "ke ile ka bona"
+      "gloss": "ke bone"
     },
     {
       "surface": "בשמחה",
@@ -89,13 +94,13 @@
     },
     {
       "surface": "להתנדב",
-      "gloss": "ho iphana"
+      "gloss": "ho ithaanela"
     },
     {
       "surface": "לך",
       "gloss": "ho wena"
     }
   ],
-  "timestamp": "2026-10-03T12:21:53.913244627Z",
+  "timestamp": "2026-10-03T20:26:20.397848865Z",
   "model": "glm-5.3"
 }

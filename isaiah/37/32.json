@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "st",
   "chapter": 37,
-  "translation": "Hobane ho tloha Yerushalayime ho tla tsoa sekolah, le e sieoeng ho thaba sa Tsiyone; khutšo ea Yahwe Tsebaote e tla etsa ⟨את⟩ sena.",
+  "translation": "Hobane ho tloha Yerushalayime ho tla tsoa setsinyeha, le ba falitsweng ho tloha thabeng ya Tsiyone; kgetelo ya Yahwe Tsebaote e tla etsa ⟨את⟩ se.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "שארית",
-      "gloss": "sekolah"
+      "gloss": "setsinyeha"
     },
     {
       "surface": "ופליטה",
-      "gloss": "le e sieoeng"
+      "gloss": "le ba falitsweng"
     },
     {
       "surface": "מהר",
-      "gloss": "ho thaba sa"
+      "gloss": "ho tloha thabeng"
     },
     {
       "surface": "ציון",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "קנאת",
-      "gloss": "khutšo ea"
+      "gloss": "kgetelo"
     },
     {
       "surface": "יהוה",
@@ -53,9 +53,10 @@
     },
     {
       "surface": "זאת",
-      "gloss": "⟨את⟩ sena"
+      "gloss": "se",
+      "marks": "se"
     }
   ],
-  "timestamp": "2026-10-03T08:46:50.453502387Z",
+  "timestamp": "2026-10-03T20:14:36.959160969Z",
   "model": "glm-5.3"
 }

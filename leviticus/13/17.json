@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "st",
   "chapter": 13,
-  "translation": "Mme moprista a mo shebe, mme ao, sefofane se fetohile ho ba bošweu, mme moprista a hlokahatsa ⟨את⟩ sefofane; se hloekile ke sona.",
+  "translation": "Mme moprista a mo shebile, mme ka bona, sefofoko se fetohile ho ba bosetlha, mme moprista o tla hlakanela ⟨את⟩ sefofoko; o halalela.",
   "tokens": [
     {
       "surface": "וראהו",
-      "gloss": "a mo shebe"
+      "gloss": "a mo shebile"
     },
     {
       "surface": "הכהן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "mme ao"
+      "gloss": "mme ka bona"
     },
     {
       "surface": "נהפך",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "sefofane"
+      "gloss": "sefofoko"
     },
     {
       "surface": "ללבן",
-      "gloss": "ho ba bošweu"
+      "gloss": "ho ba bosetlha"
     },
     {
       "surface": "וטהר",
-      "gloss": "a hlokahatsa"
+      "gloss": "o tla hlakanela"
     },
     {
       "surface": "הכהן",
@@ -42,21 +42,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sefofane"
+      "marks": "sefofoko"
     },
     {
       "surface": "הנגע",
-      "gloss": "sefofane"
+      "gloss": "sefofoko"
     },
     {
       "surface": "טהור",
-      "gloss": "se hloekile"
+      "gloss": "o halalela"
     },
     {
       "surface": "הוא",
-      "gloss": "ke sona"
+      "gloss": "yena"
     }
   ],
-  "timestamp": "2026-10-03T06:10:45.830267895Z",
+  "timestamp": "2026-10-03T20:06:37.010694286Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "judges",
   "lang": "st",
   "chapter": 10,
-  "translation": "Ba tlosa ⟨את⟩ melimo ya mefuta-e-meng ho hara bona, ba šummelela ⟨את⟩ Yahwe; mme moya wa hae o ile wa khutlwa ka bokobo ba Yisraele.",
+  "translation": "Ba ile ba tlosa ⟨את⟩ melimo ya batho ba bang ho tloha hara bona, mme ba hlankela ⟨את⟩ Yahwe; mme moyao wa hae o ile wa tlokotla ka bokwetla ba Yisraele.",
   "tokens": [
     {
       "surface": "ויסירו",
-      "gloss": "Ba tlosa"
+      "gloss": "Ba ile ba tlosa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "melimo ya mefuta-e-meng"
+      "marks": "melimo ya batho ba bang"
     },
     {
       "surface": "אלהי",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "הנכר",
-      "gloss": "mefuta-e-meng"
+      "gloss": "batho ba bang"
     },
     {
       "surface": "מקרבם",
-      "gloss": "ho hara bona"
+      "gloss": "ho tloha hara bona"
     },
     {
       "surface": "ויעבדו",
-      "gloss": "ba šummelela"
+      "gloss": "mme ba hlankela"
     },
     {
       "surface": "את",
@@ -43,21 +43,21 @@
     },
     {
       "surface": "ותקצר",
-      "gloss": "o ile wa khutlwa"
+      "gloss": "mme moyao wa hae o ile wa tlokotla"
     },
     {
       "surface": "נפשו",
-      "gloss": "moya wa hae"
+      "gloss": "moyao wa hae"
     },
     {
       "surface": "בעמל",
-      "gloss": "ka bokobo ba"
+      "gloss": "ka bokwetla"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-03T07:21:34.992237963Z",
+  "timestamp": "2026-10-03T20:10:34.550760158Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "2-samuel",
   "lang": "st",
   "chapter": 22,
-  "translation": "O ile a ntša ⟨את⟩ nna ho ya sebakeng se sephara, o ile a nlokolla, hobane o ne a rate nna.",
+  "translation": "Mme o ile a ntsofatsela ho pharaletseng, a mpullolla ⟨אתי⟩, hobane o ne a nkhethea.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "o ile a ntša"
+      "gloss": "o ile a ntsofatsela"
     },
     {
       "surface": "למרחב",
-      "gloss": "ho ya sebakeng se sephara"
+      "gloss": "ho pharaletseng"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "nna"
+      "gloss": "⟨אתי⟩",
+      "marks": "mpullolla"
     },
     {
       "surface": "יחלצני",
-      "gloss": "o ile a nlokolla"
+      "gloss": "a mpullolla"
     },
     {
       "surface": "כי",
@@ -30,13 +30,13 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "o ne a rate"
+      "gloss": "o ne a nkhethea"
     },
     {
       "surface": "בי",
-      "gloss": "nna"
+      "gloss": "n-"
     }
   ],
-  "timestamp": "2026-10-03T07:59:36.457020689Z",
+  "timestamp": "2026-10-03T20:12:30.496451911Z",
   "model": "glm-5.3"
 }

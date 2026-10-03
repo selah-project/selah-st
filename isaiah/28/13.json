@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "st",
   "chapter": 28,
-  "translation": "Mme lentswe la Yahwe le tla ba lona: taelo ka mora taelo, taelo ka mora taelo; moala ka mora moala, moala ka mora moala; hanyane fano, hanyane kaele; hore ba tle ba tsamaee, ba hlole morao, ba silafale, ba tluoe, mme ba tšoareoe.",
+  "translation": "Mme lentse la Yahwe le tla ba ho lona: taelo ka taelo, taelo ka taelo, mola ka mola, mola ka mola, hanyane moo, hanyane moo; hore ba tsamaee, ba wele ka morao, ba thotloke, ba hlahlwe ke khambi, ba tsejwe.",
   "tokens": [
     {
       "surface": "והיה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "להם",
-      "gloss": "lona"
+      "gloss": "ho lona"
     },
     {
       "surface": "דבר",
-      "gloss": "lentswe"
+      "gloss": "lentse"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לצו",
-      "gloss": "ka mora taelo"
+      "gloss": "ka taelo"
     },
     {
       "surface": "צו",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "לצו",
-      "gloss": "ka mora taelo"
+      "gloss": "ka taelo"
     },
     {
       "surface": "קו",
-      "gloss": "moala"
+      "gloss": "mola"
     },
     {
       "surface": "לקו",
-      "gloss": "ka mora moala"
+      "gloss": "ka mola"
     },
     {
       "surface": "קו",
-      "gloss": "moala"
+      "gloss": "mola"
     },
     {
       "surface": "לקו",
-      "gloss": "ka mora moala"
+      "gloss": "ka mola"
     },
     {
       "surface": "זעיר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "fano"
+      "gloss": "moo"
     },
     {
       "surface": "זעיר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "kaele"
+      "gloss": "moo"
     },
     {
       "surface": "למען",
@@ -77,29 +77,29 @@
     },
     {
       "surface": "ילכו",
-      "gloss": "ba tle ba tsamaee"
+      "gloss": "ba tsamaee"
     },
     {
       "surface": "וכשלו",
-      "gloss": "ba hlole"
+      "gloss": "ba wele"
     },
     {
       "surface": "אחור",
-      "gloss": "morao"
+      "gloss": "ka morao"
     },
     {
       "surface": "ונשברו",
-      "gloss": "ba silafale"
+      "gloss": "ba thotloke"
     },
     {
       "surface": "ונוקשו",
-      "gloss": "ba tluoe"
+      "gloss": "ba hlahlwe ke khambi"
     },
     {
       "surface": "ונלכדו",
-      "gloss": "ba tšoareoe"
+      "gloss": "ba tsejwe"
     }
   ],
-  "timestamp": "2026-10-03T08:42:28.555563053Z",
+  "timestamp": "2026-10-03T20:14:40.654232780Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "job",
   "lang": "st",
   "chapter": 27,
-  "translation": "Ho se be le ho ya ho 'na ha ke ka lokisa ⟨את⟩ lona; ho fihlela ke shwela, nke ke ke ya tlosa boitšoaro bo hlakileng ba ka ho 'na.",
+  "translation": "Ha ho yo ho ya joalo ho 'na, hore ke lo ts'epeletse ⟨את⟩ ho fihlela nketsa peo; nke ke ka ntshola ts'epelelo yaaka ho tloha ho 'na.",
   "tokens": [
     {
       "surface": "חלילה",
-      "gloss": "ho se be le"
+      "gloss": "ha ho yo ho ya joalo"
     },
     {
       "surface": "לי",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "אם",
-      "gloss": "ha"
+      "gloss": "hore"
     },
     {
       "surface": "אצדיק",
-      "gloss": "ke ka lokisa"
+      "gloss": "ke lo ts'epeletse"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona",
-      "marks": "lona"
+      "gloss": "⟨את⟩",
+      "marks": "lona (are)"
     },
     {
       "surface": "עד",
@@ -34,25 +34,25 @@
     },
     {
       "surface": "אגוע",
-      "gloss": "ke shwela"
+      "gloss": "nketsa peo"
     },
     {
       "surface": "לא",
-      "gloss": "nke ke ke ya"
+      "gloss": "nke ke"
     },
     {
       "surface": "אסיר",
-      "gloss": "tlosa"
+      "gloss": "ka ntshola"
     },
     {
       "surface": "תמתי",
-      "gloss": "boitšoaro bo hlakileng ba ka"
+      "gloss": "ts'epelelo yaaka"
     },
     {
       "surface": "ממני",
-      "gloss": "ho 'na"
+      "gloss": "ho tloha ho 'na"
     }
   ],
-  "timestamp": "2026-10-03T11:27:46.716702868Z",
+  "timestamp": "2026-10-03T20:24:29.402743316Z",
   "model": "glm-5.3"
 }

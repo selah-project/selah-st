@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "st",
   "chapter": 6,
-  "translation": "Yahwe a bona hore bobe ba motho bo boholo lefatšeng, mme sebopeho sa mehopolo ya pelo ya hae se bobe feela letsatsi lohle.",
+  "translation": "Mme Yahwe a bona hore bobe ba motho bo ile ba ata lefatsheng, mme mopheto wa maikutlo a pelo ya hae bohle e bile bobe feela letsatsi lohle;",
   "tokens": [
     {
       "surface": "וירא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "רבה",
-      "gloss": "bo boholo"
+      "gloss": "bo ile ba ata"
     },
     {
       "surface": "רעת",
@@ -33,19 +33,15 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "lefatšeng"
+      "gloss": "lefatsheng"
     },
     {
-      "surface": "וכל",
-      "gloss": "mme le"
+      "surface": "ויצר",
+      "gloss": "mme mopheto wa"
     },
     {
-      "surface": "יצר",
-      "gloss": "sebopeho sa"
-    },
-    {
-      "surface": "מחשבת",
-      "gloss": "mehopolo ya"
+      "surface": "מחשבות",
+      "gloss": "maikutlo"
     },
     {
       "surface": "לבו",
@@ -53,7 +49,7 @@
     },
     {
       "surface": "רק",
-      "gloss": "feela"
+      "gloss": "feelа"
     },
     {
       "surface": "רע",
@@ -61,13 +57,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "hle"
+      "gloss": "bohle"
     },
     {
       "surface": "היום",
       "gloss": "letsatsi lohle"
     }
   ],
-  "timestamp": "2026-10-03T05:21:19.928451986Z",
+  "timestamp": "2026-10-03T20:05:50.781603842Z",
   "model": "glm-5.3"
 }

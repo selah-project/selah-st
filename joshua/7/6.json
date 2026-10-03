@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "st",
   "chapter": 7,
-  "translation": "Mme Yehoshua a qhaqha diaparo tsa hae, a wa fatšeng ho sebeloa hloho ea hae, pele ga araka ea Yahwe, ho fihlela mantsiboya; yena le baholo ba Yisraele; mme ba phahamisa mouoane hodima dihloho tsa bona.",
+  "translation": "Mme Yehoshua a leha ⟨את⟩ diaparo tsa hae, mme a wa fatshe sefahong sa hae, ka pele ga araka ya Yahwe, ho fihlela mantsiboya, yena le baholo ba Yisraele; mme ba phahamisa ⟨את⟩ mouoane hodima dihlogo tsa bona.",
   "tokens": [
     {
       "surface": "ויקרע",
-      "gloss": "a qhaqha"
+      "gloss": "a leha"
     },
     {
       "surface": "יהושע",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "ויפל",
-      "gloss": "a wa"
+      "gloss": "mme a wa fatshe"
     },
     {
       "surface": "על",
-      "gloss": "ho"
+      "gloss": "sefahong"
     },
     {
       "surface": "פניו",
-      "gloss": "sebeloa hloho ea hae"
+      "gloss": "sa hae"
     },
     {
       "surface": "ארצה",
-      "gloss": "fatšeng"
+      "gloss": "fatshe"
     },
     {
       "surface": "לפני",
-      "gloss": "pele ga"
+      "gloss": "ka pele ga"
     },
     {
       "surface": "ארון",
-      "gloss": "araka ea"
+      "gloss": "araka"
     },
     {
       "surface": "יהוה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "וזקני",
-      "gloss": "le baholo ba"
+      "gloss": "le baholo"
     },
     {
       "surface": "ישראל",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "ba phahamisa"
+      "gloss": "mme ba phahamisa"
     },
     {
       "surface": "עפר",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "ראשם",
-      "gloss": "dihloho tsa bona"
+      "gloss": "dihlogo tsa bona"
     }
   ],
-  "timestamp": "2026-10-03T12:50:54.250795971Z",
+  "timestamp": "2026-10-03T20:28:01.899891905Z",
   "model": "glm-5.3"
 }

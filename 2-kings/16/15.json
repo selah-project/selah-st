@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 16,
-  "translation": "Mme morena Akhaze a laela ⟨את⟩ Urija moprista, a re: Hodima altare e kgolo chesa ⟨את⟩ ofara ya hoseng le ⟨את⟩ minkha ya mantsiboya, le ⟨את⟩ ofara ya morena le ⟨את⟩ minkha ya hae, le ⟨את⟩ ofara ya setjhaba ka moka sa lefatshe, le minkha ya tsona le dinnseke tsa tsona; mme ⟨את⟩ madi ohle a ofara, le madi ohle a tlhabelo, o tla a hlatsoa hodima yona; mme altare ya tšepe e tla ba ya ka ho batlisisa.",
+  "translation": "Mme morena Akhaze a laela ⟨את⟩ Urija moprista, a re: Holim'a altare e kgolo, tlatsetsa ⟨את⟩ sehlabelo sa mabele sa hoseng, le ⟨את⟩ minkha ya mantsiboya, le ⟨את⟩ sehlabelo sa mabele sa morena le ⟨את⟩ minkha ya hae, le ⟨את⟩ sehlabelo sa mabele sa setjhaba sohle sa lefatshe, le minkha ya tsona le dinotshe tsa tsona; mme madi ohle a sehlabelo sa mabele le madi ohle a sehlabelo sa phofolo o tla a phalatsa holim'a sona; empha altare ya tshedu e tla ba ya ka ho hlahloba ka yona.",
   "tokens": [
     {
       "surface": "ויצוהו",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Urija moprista"
+      "marks": "Urija"
     },
     {
       "surface": "אוריה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "על",
-      "gloss": "hodima"
+      "gloss": "holim'a"
     },
     {
       "surface": "המזבח",
@@ -50,25 +50,25 @@
     },
     {
       "surface": "הקטר",
-      "gloss": "chesa"
+      "gloss": "tlatsetsa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ofara ya hoseng"
+      "marks": "sehlabelo sa mabele"
     },
     {
       "surface": "עלת",
-      "gloss": "ofara"
+      "gloss": "sehlabelo sa mabele"
     },
     {
       "surface": "הבקר",
-      "gloss": "ya hoseng"
+      "gloss": "sa hoseng"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "minkha ya mantsiboya"
+      "marks": "minkha"
     },
     {
       "surface": "מנחת",
@@ -81,15 +81,15 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "ofara ya morena"
+      "marks": "sehlabelo sa mabele"
     },
     {
       "surface": "עלת",
-      "gloss": "ofara"
+      "gloss": "sehlabelo sa mabele"
     },
     {
       "surface": "המלך",
-      "gloss": "ya morena"
+      "gloss": "sa morena"
     },
     {
       "surface": "ואת",
@@ -103,19 +103,19 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "ofara ya setjhaba"
+      "marks": "sehlabelo sa mabele"
     },
     {
       "surface": "עלת",
-      "gloss": "ofara"
+      "gloss": "sehlabelo sa mabele"
     },
     {
       "surface": "כל",
-      "gloss": "ya setjhaba ka moka"
+      "gloss": "sohle"
     },
     {
       "surface": "עם",
-      "gloss": "setjhaba"
+      "gloss": "sa setjhaba"
     },
     {
       "surface": "הארץ",
@@ -127,11 +127,11 @@
     },
     {
       "surface": "ונסכיהם",
-      "gloss": "le dinnseke tsa tsona"
+      "gloss": "le dinotshe tsa tsona"
     },
     {
       "surface": "וכל",
-      "gloss": "le madi ohle"
+      "gloss": "mme ohle"
     },
     {
       "surface": "דם",
@@ -139,11 +139,11 @@
     },
     {
       "surface": "עלה",
-      "gloss": "a ofara"
+      "gloss": "a sehlabelo sa mabele"
     },
     {
       "surface": "וכל",
-      "gloss": "le madi ohle"
+      "gloss": "le ohle"
     },
     {
       "surface": "דם",
@@ -151,23 +151,23 @@
     },
     {
       "surface": "זבח",
-      "gloss": "a tlhabelo"
+      "gloss": "a sehlabelo sa phofolo"
     },
     {
       "surface": "עליו",
-      "gloss": "hodima yona"
+      "gloss": "holim'a sona"
     },
     {
       "surface": "תזרק",
-      "gloss": "o tla a hlatsoa"
+      "gloss": "o tla a phalatsa"
     },
     {
       "surface": "ומזבח",
-      "gloss": "mme altare"
+      "gloss": "empa altare"
     },
     {
       "surface": "הנחשת",
-      "gloss": "ya tšepe"
+      "gloss": "ya tshedu"
     },
     {
       "surface": "יהיה",
@@ -179,9 +179,9 @@
     },
     {
       "surface": "לבקר",
-      "gloss": "ho batlisisa"
+      "gloss": "ho hlahloba ka yona"
     }
   ],
-  "timestamp": "2026-10-03T08:26:35.699608149Z",
+  "timestamp": "2026-10-03T20:51:31.753038391Z",
   "model": "glm-5.3"
 }

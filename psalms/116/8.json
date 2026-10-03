@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "st",
   "chapter": 116,
-  "translation": "Hobane o ntlokotse moya oa ka ho lefu, ⟨את⟩ mahlo a ka ho lilemo, ⟨את⟩ maoto a ka ho ho tšoasoa.",
+  "translation": "Hobane o ntlohotseletse ⟨את⟩ moea oa ka ho lefu, ⟨את⟩ mahlo a ka ho lile, ⟨את⟩ maoto a ka ho gocha.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "חלצת",
-      "gloss": "o ntlokotse"
+      "gloss": "o ntlohotseletse"
     },
     {
       "surface": "נפשי",
-      "gloss": "moya oa ka"
+      "gloss": "moea oa ka"
     },
     {
       "surface": "ממות",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "דמעה",
-      "gloss": "lilemo"
+      "gloss": "lile"
     },
     {
       "surface": "את",
@@ -51,9 +51,9 @@
     },
     {
       "surface": "מדחי",
-      "gloss": "ho ho tšoasoa"
+      "gloss": "ho gocha"
     }
   ],
-  "timestamp": "2026-10-03T10:57:34.685317735Z",
+  "timestamp": "2026-10-03T20:21:45.869152930Z",
   "model": "glm-5.3"
 }

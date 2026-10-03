@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "st",
   "chapter": 38,
-  "translation": "Mme morena Tsidkiyahu a romela, a nka ⟨את⟩ Yirmeyahu moporofeta, a mo isa ho yena, ho sebelo sa boraro se leng ka ntlong ya Yahwe; mme morena a re ho Yirmeyahu: Ke botsa ⟨את⟩ ho wena lentšu; se ke wa pata ho 'na letho.",
+  "translation": "Mme morena Tsidkiyahu a romela, a nka ⟨את⟩ Yirimaya moporofeta ho yena, ho moetsong wa boraro ya letlotong la ntlha ⟨ה⟩ ya Yahwe; mme morena a re ho Yirimaya: Ke bua ⟨אתך⟩ lentsoe le ka ho wena — o se ke wa utlwahala ho tsoa ho mna hore na lentsoe le leng kapa le leng.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yirmeyahu moporofeta"
+      "marks": "Yirimaya moporofeta"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeyahu"
+      "gloss": "Yirimaya"
     },
     {
       "surface": "הנביא",
@@ -46,23 +46,23 @@
     },
     {
       "surface": "מבוא",
-      "gloss": "sebelo"
+      "gloss": "moetsong"
     },
     {
       "surface": "השלישי",
-      "gloss": "sa boraro"
+      "gloss": "wa boraro"
     },
     {
       "surface": "אשר",
-      "gloss": "se leng"
+      "gloss": "ya"
     },
     {
       "surface": "בבית",
-      "gloss": "ka ntlong"
+      "gloss": "letlotong la ntlha"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "ויאמר",
@@ -78,41 +78,42 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeyahu"
+      "gloss": "Yirimaya"
     },
     {
       "surface": "שאל",
-      "gloss": "Ke botsa"
+      "gloss": "Ke bua"
     },
     {
       "surface": "אני",
-      "gloss": "'na"
+      "gloss": "ke"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩ ho wena"
+      "gloss": "⟨אתך⟩",
+      "marks": "lentsoe"
     },
     {
       "surface": "דבר",
-      "gloss": "lentšu"
+      "gloss": "lentsoe"
     },
     {
       "surface": "אל",
-      "gloss": "se ke wa"
+      "gloss": "o se ke"
     },
     {
       "surface": "תכחד",
-      "gloss": "pata"
+      "gloss": "wa utlwahala"
     },
     {
       "surface": "ממני",
-      "gloss": "ho 'na"
+      "gloss": "ho tsoa ho mna"
     },
     {
       "surface": "דבר",
-      "gloss": "letho"
+      "gloss": "lentsoe le leng kapa le leng"
     }
   ],
-  "timestamp": "2026-10-03T09:23:30.902116603Z",
+  "timestamp": "2026-10-03T20:16:51.220390680Z",
   "model": "glm-5.3"
 }

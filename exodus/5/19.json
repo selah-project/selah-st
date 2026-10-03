@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "st",
   "chapter": 5,
-  "translation": "Mme batšebedisi ba bana ba Yisraele ba bona hore ba ⟨⟨ba⟩⟩ eme mosebetsing o mpe, ha ho thoeng: Leshome la liliba tsa letsatsi le leng le le leng le se ke la fokola.",
+  "translation": "Mme balaodi ba bana ba Yisraele ba bona ⟨את⟩ hore ba le mahaneng, ba re: Le ke ke la fokotsa letho ho matlapa a lona, mosebetsi wa letsatsi ka letsatsi la wona.",
   "tokens": [
     {
       "surface": "ויראו",
@@ -13,54 +13,54 @@
     },
     {
       "surface": "שטרי",
-      "gloss": "batšebedisi ba"
+      "gloss": "balaodi"
     },
     {
       "surface": "בני",
-      "gloss": "bana ba"
+      "gloss": "ba bana"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "ba Yisraele"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ba (boemo ba bona ba mpe)"
+      "marks": "hore ba le mahaneng"
     },
     {
       "surface": "ברע",
-      "gloss": "mosebetsing o mpe"
+      "gloss": "mahaneng"
     },
     {
       "surface": "לאמר",
-      "gloss": "ha ho thoeng"
+      "gloss": "ba re"
     },
     {
       "surface": "לא",
-      "gloss": "le se ke la"
+      "gloss": "le ke ke"
     },
     {
       "surface": "תגרעו",
-      "gloss": "fokola"
+      "gloss": "la fokotsa"
     },
     {
       "surface": "מלבניכם",
-      "gloss": "liliba tsa lona"
+      "gloss": "ho matlapa a lona"
     },
     {
       "surface": "דבר",
-      "gloss": "leshome la"
+      "gloss": "mosebetsi"
     },
     {
       "surface": "יום",
-      "gloss": "letsatsi"
+      "gloss": "wa letsatsi"
     },
     {
       "surface": "ביומו",
-      "gloss": "letsatsi le leng le le leng"
+      "gloss": "ka letsatsi la wona"
     }
   ],
-  "timestamp": "2026-10-03T12:43:29.543172230Z",
+  "timestamp": "2026-10-03T20:06:29.246148839Z",
   "model": "glm-5.3"
 }

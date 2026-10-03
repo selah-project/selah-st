@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "st",
   "chapter": 6,
-  "translation": "Mme bashanyana ba lodišang ba kena, mme ba tlisitse moo ⟨את⟩ Rakabe le ⟨את⟩ ntatae le ⟨את⟩ mmae le ⟨את⟩ barwarra le ⟨את⟩ tsohle tsa hae; mme ⟨את⟩ malapa a hae ohle ba a tlisitse moo, mme ba a beha ka ntle ho sekameng sa Yisraele.",
+  "translation": "Mme bashanyana, ba iletseng, ba ile ba kena, mme ba hlahisitse ⟨את⟩ Rahabe le ⟨את⟩ ntatahae le ⟨את⟩ mmae le ⟨את⟩ borababo le ⟨את⟩ tsohle tsa hae; mme ⟨את⟩ litsapa tsa hae tsohle ba hlahisitse, mme ba li behile ka ntle ho mahannga a Yisraele.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "ba kena"
+      "gloss": "ba ile ba kena"
     },
     {
       "surface": "הנערים",
@@ -17,33 +17,33 @@
     },
     {
       "surface": "המרגלים",
-      "gloss": "ba lodišang"
+      "gloss": "ba iletseng"
     },
     {
       "surface": "ויציאו",
-      "gloss": "ba tlisitse moo"
+      "gloss": "ba hlahisitse"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Rakabe"
+      "marks": "Rahabe"
     },
     {
       "surface": "רחב",
-      "gloss": "Rakabe"
+      "gloss": "Rahabe"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ntatae"
+      "gloss": "le ⟨את⟩",
+      "marks": "ntatahae"
     },
     {
       "surface": "אביה",
-      "gloss": "ntatae"
+      "gloss": "ntatahae"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "le ⟨את⟩",
       "marks": "mmae"
     },
     {
@@ -52,16 +52,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "barwarra"
+      "gloss": "le ⟨את⟩",
+      "marks": "borababo"
     },
     {
       "surface": "אחיה",
-      "gloss": "barwarra"
+      "gloss": "borababo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "le ⟨את⟩",
       "marks": "tsohle tsa hae"
     },
     {
@@ -70,32 +70,32 @@
     },
     {
       "surface": "אשר",
-      "gloss": "tsa"
+      "gloss": "tse"
     },
     {
       "surface": "לה",
-      "gloss": "hae"
+      "gloss": "sa hae"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "malapa a hae ohle"
+      "gloss": "mme ⟨את⟩",
+      "marks": "litsapa tsa hae tsohle"
     },
     {
       "surface": "כל",
-      "gloss": "ohle"
+      "gloss": "tsohle"
     },
     {
       "surface": "משפחותיה",
-      "gloss": "malapa a hae"
+      "gloss": "litsapa tsa hae"
     },
     {
       "surface": "הוציאו",
-      "gloss": "ba a tlisitse moo"
+      "gloss": "ba hlahisitse"
     },
     {
       "surface": "ויניחום",
-      "gloss": "ba a beha"
+      "gloss": "mme ba li behile"
     },
     {
       "surface": "מחוץ",
@@ -103,13 +103,13 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "sekameng sa"
+      "gloss": "ho mahannga"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "a Yisraele"
     }
   ],
-  "timestamp": "2026-10-03T07:06:40.723969064Z",
+  "timestamp": "2026-10-03T20:32:44.727375438Z",
   "model": "glm-5.3"
 }

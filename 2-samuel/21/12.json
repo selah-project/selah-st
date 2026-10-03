@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "st",
   "chapter": 21,
-  "translation": "Mme Dawide ea ea nka ⟨את⟩ masapo a Sause le ⟨את⟩ masapo a Yonathane mora oa hae, ho tloha ho ⟨את⟩ baahi ba Yabeše ba Gileade, bao ba neng ba utsoa ⟨את⟩ teng sebakeng se seholo sa Beteseane, moo Bafilisita neng ba li kwesitseng teng, ka letsatsi la ho hlasela ha Bafilisita ⟨את⟩ Sause thabeng ya Giliboa.",
+  "translation": "Mme Dawide a ya, mme a nka ⟨את⟩ masapo a Shauole le ⟨את⟩ masapo a Yehonathane mora wa hae, ho ⟨את⟩ beng ba Yabeishe ya Gileade, ba neng ba utsoitse ⟨את⟩ tsona sebakeng se seholo sa Beti-Sheane, moo Bafeliseti ba neng ba li tlometse teng, ka letsatsi leo Bafeliseti ba neng ba hlaba ⟨את⟩ Shauole ka lona Gelboeang.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "ea ea"
+      "gloss": "a ya"
     },
     {
       "surface": "דוד",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "ea nka"
+      "gloss": "mme a nka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "masapo a Sause"
+      "marks": "masapo a Shauole"
     },
     {
       "surface": "עצמות",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Sause"
+      "gloss": "Shauole"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "masapo a Yonathane"
+      "marks": "masapo a Yehonathane"
     },
     {
       "surface": "עצמות",
@@ -43,24 +43,23 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "Yonathane"
+      "gloss": "Yehonathane"
     },
     {
       "surface": "בנו",
-      "gloss": "mora oa hae"
+      "gloss": "mora wa hae"
     },
     {
       "surface": "מאת",
-      "gloss": "ho tloha ho ⟨את⟩",
-      "marks": "baahi ba Yabeše ba Gileade"
+      "gloss": "ho ⟨את⟩"
     },
     {
       "surface": "בעלי",
-      "gloss": "baahi ba"
+      "gloss": "beng ba"
     },
     {
       "surface": "יביש",
-      "gloss": "Yabeše"
+      "gloss": "Yabeishe"
     },
     {
       "surface": "גלעד",
@@ -68,28 +67,28 @@
     },
     {
       "surface": "אשר",
-      "gloss": "bao"
+      "gloss": "ba neng ba"
     },
     {
       "surface": "גנבו",
-      "gloss": "ba utsoang"
+      "gloss": "ba utsoitse"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ tsona",
       "marks": "masapo"
     },
     {
-      "surface": "מרחב",
-      "gloss": "sebakeng se seholo sa"
+      "surface": "מרחוב",
+      "gloss": "sebakeng se seholo"
     },
     {
       "surface": "בית",
-      "gloss": "Bete"
+      "gloss": "Beti-"
     },
     {
       "surface": "שן",
-      "gloss": "seane"
+      "gloss": "Sheane"
     },
     {
       "surface": "אשר",
@@ -97,7 +96,7 @@
     },
     {
       "surface": "תלום",
-      "gloss": "ba kwesitseng"
+      "gloss": "ba neng ba li tlometse"
     },
     {
       "surface": "שם",
@@ -105,34 +104,34 @@
     },
     {
       "surface": "הפלשתים",
-      "gloss": "Bafilisita"
+      "gloss": "Bafeliseti"
     },
     {
       "surface": "ביום",
-      "gloss": "ka letsatsi la"
+      "gloss": "ka letsatsi leo"
     },
     {
       "surface": "הכות",
-      "gloss": "ho hlasela ha"
+      "gloss": "ba neng ba hlaba"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Bafilisita"
+      "gloss": "Bafeliseti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sause"
+      "marks": "Shauole"
     },
     {
       "surface": "שאול",
-      "gloss": "Sause"
+      "gloss": "Shauole"
     },
     {
       "surface": "בגלבע",
-      "gloss": "thabeng ya Giliboa"
+      "gloss": "Gelboeang"
     }
   ],
-  "timestamp": "2026-10-03T07:57:44.206693665Z",
+  "timestamp": "2026-10-03T20:28:13.050602677Z",
   "model": "glm-5.3"
 }

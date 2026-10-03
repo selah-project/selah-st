@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 31,
-  "translation": "Kopanya ⟨את⟩ setjhaba — banna le basadi, bana ba mekhutla, le moahi wa hao ya o leng masimong a hao — hore ba utlwe, hore ba ithute, hore ba tsebe ho tšoha Yahwe Elohim wa lona, le ho boloka hore ba etsе ⟨את⟩ mantswe ohle a Torah ena.",
+  "translation": "Kopanya ⟨את⟩ setjhaba, banna le basadi le bana banyane, le moahi wa hao ya loking ya meyala ya hao, hore ba utlwe, le hore ba ithute, mme ba tshabe Yahwe Elohim ya lona, mme ba hlokomelize ho etsa ⟨את⟩ mantswe ohle a Torah ena.",
   "tokens": [
     {
       "surface": "הקהל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "והטף",
-      "gloss": "bana ba mekhutla"
+      "gloss": "le bana banyane"
     },
     {
       "surface": "וגרך",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "בשעריך",
-      "gloss": "o leng masimong a hao"
+      "gloss": "loking ya meyala ya hao"
     },
     {
       "surface": "למען",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ולמען",
-      "gloss": "hore"
+      "gloss": "le hore"
     },
     {
       "surface": "ילמדו",
@@ -62,12 +62,12 @@
     },
     {
       "surface": "ויראו",
-      "gloss": "ba tsebe ho tšoha"
+      "gloss": "mme ba tshabe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe"
+      "marks": "Yahwe Elohim ya lona"
     },
     {
       "surface": "יהוה",
@@ -75,15 +75,15 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim wa lona"
+      "gloss": "Elohim ya lona"
     },
     {
       "surface": "ושמרו",
-      "gloss": "ho boloka"
+      "gloss": "mme ba hlokomelize"
     },
     {
       "surface": "לעשות",
-      "gloss": "hore ba etse"
+      "gloss": "ho etsa"
     },
     {
       "surface": "את",
@@ -96,17 +96,17 @@
     },
     {
       "surface": "דברי",
-      "gloss": "mantswe a"
+      "gloss": "mantswe"
     },
     {
       "surface": "התורה",
-      "gloss": "Torah"
+      "gloss": "a Torah"
     },
     {
       "surface": "הזאת",
       "gloss": "ena"
     }
   ],
-  "timestamp": "2026-10-03T07:02:16.765257202Z",
+  "timestamp": "2026-10-03T20:32:12.257222343Z",
   "model": "glm-5.3"
 }

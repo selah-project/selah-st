@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "st",
   "chapter": 59,
-  "translation": "Mme ba tla tšaba ⟨את⟩ lebitso la Yahwe ho tloha bophirima, le ⟨את⟩ kgalalelo ya hae ho tloha ho tlhō ea letsatsi; hobane o tla tla e le sera se tlang jwalo ka noka — ruakh ea Yahwe ea se hudisa.",
+  "translation": "Mme ba tla tshaba ho tloha bophirima ⟨את⟩ lebitso la Yahwe, le ⟨את⟩ tlotla ya hae ho tloha ho phimo ya letsatsi; hobane khatello e tla fihla joalo ka noka, ruakh ya Yahwe e e phamotsa.",
   "tokens": [
     {
       "surface": "וייראו",
-      "gloss": "ba tla tšaba"
+      "gloss": "ba tla tshaba"
     },
     {
       "surface": "ממערב",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lebitso la Yahwe"
+      "marks": "lebitso"
     },
     {
       "surface": "שם",
@@ -30,20 +30,20 @@
     },
     {
       "surface": "וממזרח",
-      "gloss": "le ho tloha ho tlhō"
+      "gloss": "le ho tloha ho phimo ya letsatsi"
     },
     {
       "surface": "שמש",
-      "gloss": "ea letsatsi"
+      "gloss": "letsatsi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kgalalelo ya hae"
+      "marks": "tlotla ya hae"
     },
     {
       "surface": "כבודו",
-      "gloss": "kgalalelo ya hae"
+      "gloss": "tlotla ya hae"
     },
     {
       "surface": "כי",
@@ -51,15 +51,15 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "o tla tla"
+      "gloss": "e tla fihla"
     },
     {
       "surface": "כנהר",
-      "gloss": "jwalo ka noka"
+      "gloss": "joalo ka noka"
     },
     {
       "surface": "צר",
-      "gloss": "sera se tlang"
+      "gloss": "khatello"
     },
     {
       "surface": "רוח",
@@ -67,17 +67,17 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "ea Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "נססה",
-      "gloss": "ea se hudisa"
+      "gloss": "e e phamotsa"
     },
     {
       "surface": "בו",
-      "gloss": ""
+      "gloss": "eona"
     }
   ],
-  "timestamp": "2026-10-03T08:57:11.080864925Z",
+  "timestamp": "2026-10-03T20:15:46.486378135Z",
   "model": "glm-5.3"
 }

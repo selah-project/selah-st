@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "st",
   "chapter": 17,
-  "translation": "Mme Saul le Yisraele kaofela ba utlula ⟨את⟩ mantswe a Mofalisete ao, ba tšoenyeha, ba ts'oha haholo.",
+  "translation": "Mme Saul le Yisraele kamoo ba utlileng ⟨את⟩ mantswe a Pelisita ao, mme ba tshosa mme ba tsaba haholo.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "ba utlula"
+      "gloss": "ba utlileng"
     },
     {
       "surface": "שאול",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "le ... kaofela"
+      "gloss": "le kamoo"
     },
     {
       "surface": "ישראל",
@@ -26,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mantswe a Mofalisete"
+      "marks": "mantswe a Pelisita ao"
     },
     {
       "surface": "דברי",
-      "gloss": "mantswe"
+      "gloss": "mantswe a"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "a Mofalisete"
+      "gloss": "Pelisita"
     },
     {
       "surface": "האלה",
@@ -42,17 +42,17 @@
     },
     {
       "surface": "ויחתו",
-      "gloss": "ba tšoenyeha"
+      "gloss": "ba tshosa"
     },
     {
       "surface": "ויראו",
-      "gloss": "ba ts'oha"
+      "gloss": "ba tsaba"
     },
     {
       "surface": "מאד",
       "gloss": "haholo"
     }
   ],
-  "timestamp": "2026-10-03T07:38:31.722289411Z",
+  "timestamp": "2026-10-03T20:11:32.311820240Z",
   "model": "glm-5.3"
 }

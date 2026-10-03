@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "st",
   "chapter": 27,
-  "translation": "Mme yena o ile a lwa le morena wa bana ba Amon, mme a hlahisa matla ho bona; mme bana ba Amon ba mo ne selemong seo matalete a lekgolo a silifere, le dikoro tse dikete tse leshome tsa koro, le tsa mochono tse dikete tse leshome; seo bana ba Amon ba se bušetile moo, ka selemo sa bobedi le sa boraro.",
+  "translation": "Mme yena a lwa le morena wa bana ba Amoni, mme a ba matlafatsa; mme bana ba Amoni ba mo neha selemong seo sekete talaente tsa selekane, le dikoro di le 10 000 tsa korong le tsa barely — bana ba Amoni ba mo busetsa seo, selemong sa bobedi le sa boraro.",
   "tokens": [
     {
       "surface": "והוא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נלחם",
-      "gloss": "o ile a lwa"
+      "gloss": "a lwa"
     },
     {
       "surface": "עם",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amon"
+      "gloss": "Amoni"
     },
     {
       "surface": "ויחזק",
-      "gloss": "mme a hlahisa matla"
+      "gloss": "mme a ba matlafatsa"
     },
     {
       "surface": "עליהם",
-      "gloss": "ho bona"
+      "gloss": "hodima bona"
     },
     {
       "surface": "ויתנו",
-      "gloss": "mme ba ne"
+      "gloss": "mme ba neha"
     },
     {
       "surface": "לו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amon"
+      "gloss": "Amoni"
     },
     {
       "surface": "בשנה",
@@ -65,23 +65,23 @@
     },
     {
       "surface": "מאה",
-      "gloss": "lekgolo"
+      "gloss": "sekete"
     },
     {
       "surface": "ככר",
-      "gloss": "matalete"
+      "gloss": "talaente"
     },
     {
       "surface": "כסף",
-      "gloss": "silifere"
+      "gloss": "selekane"
     },
     {
       "surface": "ועשרת",
-      "gloss": "le tse"
+      "gloss": "le"
     },
     {
       "surface": "אלפים",
-      "gloss": "dikete tse leshome"
+      "gloss": "10 000"
     },
     {
       "surface": "כרים",
@@ -89,19 +89,19 @@
     },
     {
       "surface": "חטים",
-      "gloss": "koro"
+      "gloss": "tsa korong"
     },
     {
       "surface": "ושעורים",
-      "gloss": "le mochono"
+      "gloss": "le tsa barely"
     },
     {
       "surface": "עשרת",
-      "gloss": "tse"
+      "gloss": "10 000"
     },
     {
       "surface": "אלפים",
-      "gloss": "dikete tse leshome"
+      "gloss": "dikoro"
     },
     {
       "surface": "זאת",
@@ -109,7 +109,7 @@
     },
     {
       "surface": "השיבו",
-      "gloss": "ba se bušetile"
+      "gloss": "ba mo busetsa"
     },
     {
       "surface": "לו",
@@ -121,11 +121,11 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amon"
+      "gloss": "Amoni"
     },
     {
       "surface": "ובשנה",
-      "gloss": "ka selemo"
+      "gloss": "selemong"
     },
     {
       "surface": "השנית",
@@ -136,6 +136,6 @@
       "gloss": "le sa boraro"
     }
   ],
-  "timestamp": "2026-10-03T12:35:09.779376900Z",
+  "timestamp": "2026-10-03T20:27:15.804239772Z",
   "model": "glm-5.3"
 }

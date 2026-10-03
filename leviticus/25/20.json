@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "st",
   "chapter": 25,
-  "translation": "Mme ha le re: Re tla ja eng selemong sa bošupa? Mona re sa jalo, re sa bokella ⟨את⟩ moketo wa rona?",
+  "translation": "Mme ha le re: Re tla ja eng selemong sa bo-supileng, bonang, re sa jale, ra sa koko ⟨את⟩ dijwa tsa rona?",
   "tokens": [
     {
       "surface": "וכי",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "בשנה",
-      "gloss": "selemong sa"
+      "gloss": "selemong"
     },
     {
       "surface": "השביעת",
-      "gloss": "bošupo"
+      "gloss": "sa bo-supileng"
     },
     {
       "surface": "הן",
-      "gloss": "mona"
+      "gloss": "bonang"
     },
     {
       "surface": "לא",
@@ -41,26 +41,26 @@
     },
     {
       "surface": "נזרע",
-      "gloss": "jalo"
+      "gloss": "jale"
     },
     {
       "surface": "ולא",
-      "gloss": "re sa"
+      "gloss": "ra sa"
     },
     {
       "surface": "נאסף",
-      "gloss": "bokella"
+      "gloss": "koko"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moketo wa rona"
+      "marks": "dijwa tsa rona"
     },
     {
       "surface": "תבואתנו",
-      "gloss": "moketo wa rona"
+      "gloss": "dijwa tsa rona"
     }
   ],
-  "timestamp": "2026-10-03T06:17:32.747497879Z",
+  "timestamp": "2026-10-03T20:07:53.089223438Z",
   "model": "glm-5.3"
 }

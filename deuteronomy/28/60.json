@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 28,
-  "translation": "mme o tla khutlisa ho wena ⟨את⟩ malwetši ohle a Mitsrayime ao o neng o tshaba a le mong le a mong, mme a tla o mamella.",
+  "translation": "Mme o tla kgutlisa ho wena ⟨את⟩ malwetshi ohle a Mitsrayime ao o neng o tshabela ona, mme a tla o mamella.",
   "tokens": [
     {
       "surface": "והשיב",
-      "gloss": "mme o tla khutlisa"
+      "gloss": "Mme o tla kgutlisa"
     },
     {
       "surface": "בך",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "malwetši ohle"
+      "marks": "malwetshi ohle a Mitsrayime"
     },
     {
       "surface": "כל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "מדוה",
-      "gloss": "malwetši"
+      "gloss": "malwetshi"
     },
     {
       "surface": "מצרים",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "יגרת",
-      "gloss": "o neng o tshaba"
+      "gloss": "o neng o tshabela"
     },
     {
       "surface": "מפניהם",
-      "gloss": "a le mong le a mong"
+      "gloss": "ona"
     },
     {
       "surface": "ודבקו",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "בך",
-      "gloss": ""
+      "gloss": "ho wena"
     }
   ],
-  "timestamp": "2026-10-03T06:58:53.262953430Z",
+  "timestamp": "2026-10-03T20:10:06.970740578Z",
   "model": "glm-5.3"
 }

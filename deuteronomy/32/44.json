@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 32,
-  "translation": "Mme Moshe a tla, a bolela ⟨את⟩ mantswe ohle a pina ena ditsebeng tsa sechaba, yena le Hošea mora wa None.",
+  "translation": "Mme Moshe a tla, mme a bua ⟨את⟩ mantswe ohle a sefoko se, ditlheng tsa setjhaba — yena le Hoshea mora wa Une.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "mme a tla"
+      "gloss": "a tla"
     },
     {
       "surface": "משה",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "a bolela"
+      "gloss": "mme a bua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mantswe ohle a pina ena"
+      "marks": "mantswe ohle"
     },
     {
       "surface": "כל",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "השירה",
-      "gloss": "a pina"
+      "gloss": "a sefoko se"
     },
     {
       "surface": "הזאת",
-      "gloss": "ena"
+      "gloss": "se"
     },
     {
       "surface": "באזני",
-      "gloss": "ditsebeng tsa"
+      "gloss": "ditlheng tsa"
     },
     {
       "surface": "העם",
-      "gloss": "sechaba"
+      "gloss": "setjhaba"
     },
     {
       "surface": "הוא",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "והושע",
-      "gloss": "le Hošea"
+      "gloss": "le Hoshea"
     },
     {
       "surface": "בן",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "נון",
-      "gloss": "None"
+      "gloss": "Une"
     }
   ],
-  "timestamp": "2026-10-03T07:01:04.553565168Z",
+  "timestamp": "2026-10-03T20:09:44.611527746Z",
   "model": "glm-5.3"
 }

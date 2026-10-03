@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "st",
   "chapter": 1,
-  "translation": "Mme Adoni-Bezekahele a baleha, mme ba mo phalla, mme ba mo tšoara, mme ba khaola ⟨את⟩ monwana wa matsoho a hae le wa maoto a hae.",
+  "translation": "Mme Adoni-Bezeka a baleha, mme ba mo sisinya ka mora hae, mme ba mo tshwara, mme ba khaola ⟨את⟩ menwana ya matsogo a hae le ⟨את⟩ ya maoto a hae.",
   "tokens": [
     {
       "surface": "וינס",
@@ -13,27 +13,28 @@
     },
     {
       "surface": "אדני",
-      "gloss": "Adoni-"
+      "gloss": "Adoni"
     },
     {
       "surface": "בזק",
-      "gloss": "-Bezek"
+      "gloss": "-Bezeka"
     },
     {
       "surface": "וירדפו",
-      "gloss": "ba mo phalla"
+      "gloss": "ba mo sisinya"
     },
     {
       "surface": "אחריו",
-      "gloss": "morao"
+      "gloss": "ka mora hae"
     },
     {
       "surface": "ויאחזו",
-      "gloss": "ba mo tšoara"
+      "gloss": "ba mo tshwara"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ mo"
+      "gloss": "⟨את⟩",
+      "marks": "o mo tshwarilweng (Adoni-Bezeka)"
     },
     {
       "surface": "ויקצצו",
@@ -42,21 +43,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "monwana"
+      "marks": "menwana ya matsogo a hae le ya maoto a hae"
     },
     {
       "surface": "בהנות",
-      "gloss": "monwana"
+      "gloss": "menwana"
     },
     {
       "surface": "ידיו",
-      "gloss": "wa matsoho a hae"
+      "gloss": "matsogo a hae"
     },
     {
       "surface": "ורגליו",
-      "gloss": "le wa maoto a hae"
+      "gloss": "maoto a hae"
     }
   ],
-  "timestamp": "2026-10-03T07:16:24.403901997Z",
+  "timestamp": "2026-10-03T20:10:19.661651544Z",
   "model": "glm-5.3"
 }

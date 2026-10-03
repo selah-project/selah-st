@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 26,
-  "translation": "Sheba fatshe ho tloha setsing sa hao se halalelang, ho tloha mahodimong, mme o thabise ⟨את⟩ sechaba sa hao, ⟨את⟩ Yisraele, le ⟨את⟩ lefatshe leo o le fang rona, jwalo ka kano eo o e noileng ho bo-ntate rona, lefatshe le ellelang mashi le linotši.",
+  "translation": "Sheba fatshe ho tloha sebakeng sa hao se halalelang, ho tloha mahodimong, mme o hloekise ⟨את⟩ setjhaba sa hao ⟨את⟩ Yisraele, le ⟨את⟩ lefatshe leo o le fang rona, jwalo ka ha o ile wa ikana ho bo-ntate rona, lefatshe le elelang lebese le jinshi.",
   "tokens": [
     {
       "surface": "השקיפה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ממעון",
-      "gloss": "ho tloha setsing"
+      "gloss": "ho tloha sebakeng sa hao"
     },
     {
       "surface": "קדשך",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "וברך",
-      "gloss": "mme o thabise"
+      "gloss": "mme o hloekise"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sechaba sa hao"
+      "marks": "setjhaba sa hao"
     },
     {
       "surface": "עמך",
-      "gloss": "sechaba sa hao"
+      "gloss": "setjhaba sa hao"
     },
     {
       "surface": "את",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "נתתה",
-      "gloss": "o fang"
+      "gloss": "o le fang"
     },
     {
       "surface": "לנו",
@@ -72,11 +72,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "jwalo ka"
+      "gloss": "jwalo ka ha"
     },
     {
       "surface": "נשבעת",
-      "gloss": "kano eo o e noileng"
+      "gloss": "o ile wa ikana"
     },
     {
       "surface": "לאבתינו",
@@ -88,17 +88,17 @@
     },
     {
       "surface": "זבת",
-      "gloss": "le ellelang"
+      "gloss": "le elelang"
     },
     {
       "surface": "חלב",
-      "gloss": "mashi"
+      "gloss": "lebese"
     },
     {
       "surface": "ודבש",
-      "gloss": "le linotši"
+      "gloss": "le jinshi"
     }
   ],
-  "timestamp": "2026-10-03T06:59:14.422746444Z",
+  "timestamp": "2026-10-03T20:09:46.946458868Z",
   "model": "glm-5.3"
 }

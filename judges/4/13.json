@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "st",
   "chapter": 4,
-  "translation": "Mme Sisera a bitsa ⟨את⟩ diteraka tsa hae tsohle — makgolo a robong a diteraka a tšepe — le ⟨את⟩ setjhaba sohle se nang le ⟨את⟩ ena, ho tloha Kharoshete ya ditjhaba ho ya hodima molapo wa Kishone.",
+  "translation": "Mme Sisera a bitla ⟨את⟩ dira tsa hae tsohle, dikoloi tse robong lekgolo tsa tshipi, le ⟨את⟩ setjhaba sohle se neng se le ⟨את⟩ ene, ho tloha Kharoshete ya ditjhaba ho ya molamong wa Kishone.",
   "tokens": [
     {
       "surface": "ויזעק",
-      "gloss": "a bitsa"
+      "gloss": "a bitla"
     },
     {
       "surface": "סיסרא",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "diteraka tsa hae tsohle"
+      "marks": "dira tsa hae tsohle"
     },
     {
       "surface": "כל",
@@ -26,23 +26,23 @@
     },
     {
       "surface": "רכבו",
-      "gloss": "diteraka tsa hae"
+      "gloss": "dira tsa hae"
     },
     {
       "surface": "תשע",
-      "gloss": "a robong"
+      "gloss": "tse robong"
     },
     {
       "surface": "מאות",
-      "gloss": "makgolo"
+      "gloss": "lekgolo"
     },
     {
       "surface": "רכב",
-      "gloss": "diteraka"
+      "gloss": "dikoloi"
     },
     {
       "surface": "ברזל",
-      "gloss": "a tšepe"
+      "gloss": "tsa tshipi"
     },
     {
       "surface": "ואת",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "se"
+      "gloss": "se neng se"
     },
     {
       "surface": "אתו",
-      "gloss": "se nang le ⟨את⟩ ena"
+      "gloss": "le ⟨את⟩ ene"
     },
     {
       "surface": "מחרשת",
@@ -75,17 +75,17 @@
     },
     {
       "surface": "אל",
-      "gloss": "ho ya hodima"
+      "gloss": "ho ya"
     },
     {
       "surface": "נחל",
-      "gloss": "molapo"
+      "gloss": "molamong"
     },
     {
       "surface": "קישון",
-      "gloss": "wa Kishone"
+      "gloss": "Kishone"
     }
   ],
-  "timestamp": "2026-10-03T07:20:13.667318307Z",
+  "timestamp": "2026-10-03T20:51:23.155076956Z",
   "model": "glm-5.3"
 }

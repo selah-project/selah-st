@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 14,
-  "translation": "Hobane Yahwe o ile a bona ⟨את⟩ bokhutšo bo botlo ba Yisraele, hobane ho ne ho se motho ea koaletsoeng kapa ea sieo, mme ho ne ho se thusi ea Yisraele.",
+  "translation": "Hobane Yahwe o ile a bona ⟨את⟩ kgokgontsho ya Yisraele, e neng e le e khutsitseng haholo; mme ho ne ho se na ya tswaletsweng le ya sieilweng, mme ho ne ho se na mohthusi bakeng sa Yisraele.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Hobane"
+      "gloss": "hobane"
     },
     {
       "surface": "ראה",
@@ -22,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bokhutšo bo botlo ba Yisraele"
+      "marks": "kgokgontsho ya Yisraele"
     },
     {
       "surface": "עני",
-      "gloss": "bokhutšo"
+      "gloss": "kgokgontsho"
     },
     {
       "surface": "ישראל",
-      "gloss": "ba Yisraele"
+      "gloss": "ya Yisraele"
     },
     {
       "surface": "מרה",
-      "gloss": "bo botlo"
+      "gloss": "e khutsitseng"
     },
     {
       "surface": "מאד",
@@ -42,33 +42,33 @@
     },
     {
       "surface": "ואפס",
-      "gloss": "ho ne ho se"
+      "gloss": "mme ho ne ho se na"
     },
     {
       "surface": "עצור",
-      "gloss": "motho ea koaletsoeng"
+      "gloss": "ya tswaletsweng"
     },
     {
       "surface": "ואפס",
-      "gloss": "kapa ho se"
+      "gloss": "le ho se na"
     },
     {
       "surface": "עזוב",
-      "gloss": "ea sieo"
+      "gloss": "ya sieilweng"
     },
     {
       "surface": "ואין",
-      "gloss": "mme ho ne ho se"
+      "gloss": "mme ho ne ho se na"
     },
     {
       "surface": "עזר",
-      "gloss": "thusi"
+      "gloss": "mohthusi"
     },
     {
       "surface": "לישראל",
-      "gloss": "ea Yisraele"
+      "gloss": "bakeng sa Yisraele"
     }
   ],
-  "timestamp": "2026-10-03T08:23:54.622823309Z",
+  "timestamp": "2026-10-03T20:13:41.083501851Z",
   "model": "glm-5.3"
 }

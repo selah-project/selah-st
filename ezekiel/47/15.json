@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "st",
   "chapter": 47,
-  "translation": "Mme ena ke mollongwane wa lefatshe, lehlakoreng la leboa: ho tloha Lêokong le Tlhahumeso, tseleng ya Khetlone, ho ea khohle ya Tsedade.",
+  "translation": "Mme ena ke mollwane wa ⟨את⟩ lefatshe: lehlakoreng la leboya, ho tloha lewatle le leholo, tseleng ya Khetlone, ho fihlela ho tsenela ho Tsedade.",
   "tokens": [
     {
       "surface": "וזה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "גבול",
-      "gloss": "mollongwane"
+      "gloss": "mollwane"
     },
     {
       "surface": "הארץ",
-      "gloss": "wa lefatshe"
+      "gloss": "⟨את⟩ lefatshe"
     },
     {
       "surface": "לפאת",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "צפונה",
-      "gloss": "leboa"
+      "gloss": "leboya"
     },
     {
       "surface": "מן",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הים",
-      "gloss": "Lêokong"
+      "gloss": "lewatle"
     },
     {
       "surface": "הגדול",
-      "gloss": "le Tlhahumeso"
+      "gloss": "le leholo"
     },
     {
       "surface": "הדרך",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "ho ea khohle ya"
+      "gloss": "ho tsenela ho"
     },
     {
       "surface": "צדדה",
       "gloss": "Tsedade"
     }
   ],
-  "timestamp": "2026-10-03T09:57:21.801147319Z",
+  "timestamp": "2026-10-03T20:33:55.081932113Z",
   "model": "glm-5.3"
 }

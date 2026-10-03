@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "st",
   "chapter": 7,
-  "translation": "Empa Faro ha a na ho mamela ho lona; mme ke tla bea ⟨את⟩ letsoho la ka hodima Mitsrayime, mme ke tla ntša ⟨את⟩ makgotla a ka, ⟨את⟩ setjhaba sa ka, bana ba Yisraele, ho tloha naheng ya Mitsrayime, ka dikahlolo tse kgolo.",
+  "translation": "Mme Parao a ke ke a mamela ho lona; mme ke tla beha ⟨את⟩ letsoho la ka hodima Mitsrayime, mme ke tla ntsha ⟨את⟩ masole a ka, ⟨את⟩ setjhaba sa ka, bana ba Yisraele, ho tloha lefatsheng la Mitsrayime, ka dikahlolo tse kholo.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ha"
+      "gloss": "mme ... a ke ke a"
     },
     {
       "surface": "ישמע",
-      "gloss": "a na ho mamela"
+      "gloss": "mamela"
     },
     {
       "surface": "אלכם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Faro"
+      "gloss": "Parao"
     },
     {
       "surface": "ונתתי",
-      "gloss": "ke tla bea"
+      "gloss": "mme ke tla beha"
     },
     {
       "surface": "את",
@@ -42,16 +42,16 @@
     },
     {
       "surface": "והוצאתי",
-      "gloss": "ke tla ntša"
+      "gloss": "mme ke tla ntsha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "makgotla a ka"
+      "marks": "masole a ka"
     },
     {
       "surface": "צבאתי",
-      "gloss": "makgotla a ka"
+      "gloss": "masole a ka"
     },
     {
       "surface": "את",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "ho tloha naheng ya"
+      "gloss": "ho tloha lefatsheng la"
     },
     {
       "surface": "מצרים",
@@ -84,9 +84,9 @@
     },
     {
       "surface": "גדלים",
-      "gloss": "tse kgolo"
+      "gloss": "tse kholo"
     }
   ],
-  "timestamp": "2026-10-03T05:45:10.687297224Z",
+  "timestamp": "2026-10-03T20:06:15.170714239Z",
   "model": "glm-5.3"
 }

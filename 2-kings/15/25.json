@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 15,
-  "translation": "Mme Pekake, mora wa Remaljahu, mošomelo wa hae wa boraro, o ile a qobana le eena, mme a mo otla ba Shomeron, harelamong ya ntlo ya morena, le ⟨את⟩ Argobe le ⟨את⟩ Arje, mme ha e le hobane le eena ho ne ho na le banna ba mashome a hlano ba Bale-Gileade; mme a mo bolaea, mme a busa sebaka sa hae.",
+  "translation": "Mme Pekakhe, mora wa Remaljahu, motho wa boraro ba hae, a qanya kgahlanong le yena, a mmola ka Shomerone, ka boholong ba ntlo ya morena, o ile a otla ⟨את⟩ Argobhe le ⟨את⟩ Arie; le hae hona jwale ho ne ho le batho ba mashome a hlano, barwa ba ba Giljade; a mo bolaea, a busa boemong ba hae.",
   "tokens": [
     {
       "surface": "ויקשר",
-      "gloss": "a qobana le eena"
+      "gloss": "a qanya kgahlanong le yena"
     },
     {
       "surface": "עליו",
-      "gloss": "le eena"
+      "gloss": "kgahlanong le yena"
     },
     {
       "surface": "פקח",
-      "gloss": "Pekake"
+      "gloss": "Pekakhe"
     },
     {
       "surface": "בן",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "שלישו",
-      "gloss": "mošomelo wa hae wa boraro"
+      "gloss": "motho wa boraro ba hae"
     },
     {
       "surface": "ויכהו",
-      "gloss": "a mo otla"
+      "gloss": "a mmola"
     },
     {
       "surface": "בשמרון",
-      "gloss": "ba Shomeron"
+      "gloss": "ka Shomerone"
     },
     {
       "surface": "בארמון",
-      "gloss": "harelamong"
+      "gloss": "ka boholong"
     },
     {
       "surface": "בית",
-      "gloss": "ya ntlo"
+      "gloss": "ba ntlo"
     },
     {
       "surface": "מלך",
@@ -54,39 +54,40 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Argobe"
+      "marks": "Argobhe"
     },
     {
       "surface": "ארגב",
-      "gloss": "Argobe"
+      "gloss": "Argobhe"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "Arie"
     },
     {
       "surface": "האריה",
-      "gloss": "Arje"
+      "gloss": "Arie"
     },
     {
       "surface": "ועמו",
-      "gloss": "mme ha e le hobane le eena"
+      "gloss": "le hae"
     },
     {
       "surface": "חמשים",
-      "gloss": "mashome a hlano"
+      "gloss": "ba mashome a hlano"
     },
     {
       "surface": "איש",
-      "gloss": "banna"
+      "gloss": "batho"
     },
     {
       "surface": "מבני",
-      "gloss": "ba Bale-"
+      "gloss": "barwa ba ba"
     },
     {
       "surface": "גלעדים",
-      "gloss": "Gileade"
+      "gloss": "Giljade"
     },
     {
       "surface": "וימיתהו",
@@ -98,9 +99,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "sebaka sa hae"
+      "gloss": "boemong ba hae"
     }
   ],
-  "timestamp": "2026-10-03T08:24:26.404437834Z",
+  "timestamp": "2026-10-03T20:13:53.116726162Z",
   "model": "glm-5.3"
 }

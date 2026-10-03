@@ -5,8 +5,65 @@
   "book": "amos",
   "lang": "st",
   "chapter": 3,
-  "translation": "Nka letsetsa teng ka toropa, 'me batho ba se ke ba tšoha? Nka bula kotsi teng ka toropa, 'me Yahwe a se ke a e etsa?",
-  "tokens": [],
-  "timestamp": "2026-10-03T10:05:17.558432795Z",
+  "translation": "Ha eba shompo e bileteditswe motsaneng, mme setjhaba se sa tsitsa le ho tshaba? Ha eba bobe bo le motsaneng, mme Yahwe o se ke wa se etsa ⟨e se yo⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha eba"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "e bileteditswe"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shompo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motsaneng"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mme setjhaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "tsitsa le ho tshaba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha eba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo le"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motsaneng"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "etsa"
+    }
+  ],
+  "timestamp": "2026-10-03T20:19:07.610382239Z",
   "model": "glm-5.3"
 }

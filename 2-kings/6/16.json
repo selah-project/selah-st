@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 6,
-  "translation": "Mme a re: Se ke wa tšaba, hobane ba bangata bao ba ⟨את⟩ le rona ho feta bao ba ⟨את⟩ bona.",
+  "translation": "Mme a re: O se ke wa tshaba, hobane ba bongata ba ⟨את⟩ rona ho feta ba ⟨את⟩ bona.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "se ke wa"
+      "gloss": "o se ke"
     },
     {
       "surface": "תירא",
-      "gloss": "tšaba"
+      "gloss": "wa tshaba"
     },
     {
       "surface": "כי",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "רבים",
-      "gloss": "ba bangata"
+      "gloss": "ba bongata"
     },
     {
       "surface": "אשר",
-      "gloss": "bao"
+      "gloss": "ba"
     },
     {
       "surface": "אתנו",
-      "gloss": "ba ⟨את⟩ le rona"
+      "gloss": "⟨את⟩ le rona"
     },
     {
       "surface": "מאשר",
-      "gloss": "ho feta bao"
+      "gloss": "ho feta ba"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ bona"
+      "gloss": "⟨את⟩ le bona"
     }
   ],
-  "timestamp": "2026-10-03T08:19:14.525620486Z",
+  "timestamp": "2026-10-03T20:14:18.192064847Z",
   "model": "glm-5.3"
 }

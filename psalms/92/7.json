@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "st",
   "chapter": 92,
-  "translation": "Monna ya tšoanang le phoofolo ha a tsebe; mme sefoolhale ha a utlwisise ⟨את⟩ se sena.",
+  "translation": "Monna ya tlwaelesitseng ha a tsebe, mme sekhohole ha a utlwisise ⟨את⟩ se.",
   "tokens": [
     {
       "surface": "איש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בער",
-      "gloss": "ya tšoanang le phoofolo"
+      "gloss": "ya tlwaelesitseng"
     },
     {
       "surface": "לא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וכסיל",
-      "gloss": "mme sefoolhale"
+      "gloss": "mme sekhohole"
     },
     {
       "surface": "לא",
@@ -38,13 +38,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "se sena"
+      "marks": "se"
     },
     {
       "surface": "זאת",
-      "gloss": "se sena"
+      "gloss": "se"
     }
   ],
-  "timestamp": "2026-10-03T10:49:36.635272955Z",
+  "timestamp": "2026-10-03T20:21:32.447118713Z",
   "model": "glm-5.3"
 }

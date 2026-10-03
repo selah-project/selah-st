@@ -5,60 +5,60 @@
   "book": "leviticus",
   "lang": "st",
   "chapter": 20,
-  "translation": "Mme le tla arohana pakeng tsa ⟨the⟩ phoofolo e hloekileng le e silafetseng, le pakeng tsa nonyana e silafetseng le e hloekileng; mme le se ke la etsa ⟨את⟩ mecha ea lona e-be lehlabaphio ka phoofolo, kapa ka nonyana, kapa ka seng le seng se phallang fatše seo ke se arohaneng ho lona e le se silafetseng.",
+  "translation": "Mme le tla a hlahlamolla ka hare ⟨את⟩ phapang pakiri tsa sehla le tse sa hlahlalelang, le pakiri tsa nonyane e sa hlahlalelang le e hlahlalelang; mme le se ke la etsa hore meea ea lona e be lekhetho ka phoofolo, kapa ka nonyane, kapa ka sfehle seo lefatshe se a phalla ka sona, seo ke se hlahlamollileng ho lona hore se se hlahlalele.",
   "tokens": [
     {
       "surface": "והבדלתם",
-      "gloss": "mme le tla arohana"
+      "gloss": "le tla a hlahlamolla"
     },
     {
       "surface": "בין",
-      "gloss": "pakeng tsa"
+      "gloss": "ka hare pakiri"
     },
     {
       "surface": "הבהמה",
-      "gloss": "phoofolo"
+      "gloss": "tsa sehla"
     },
     {
       "surface": "הטהרה",
-      "gloss": "e hloekileng"
+      "gloss": "e hlahlalelang"
     },
     {
       "surface": "לטמאה",
-      "gloss": "le e silafetseng"
+      "gloss": "ho tse sa hlahlalelang"
     },
     {
       "surface": "ובין",
-      "gloss": "le pakeng tsa"
+      "gloss": "le pakiri tsa"
     },
     {
       "surface": "העוף",
-      "gloss": "nonyana"
+      "gloss": "nonyane"
     },
     {
       "surface": "הטמא",
-      "gloss": "e silafetseng"
+      "gloss": "e sa hlahlalelang"
     },
     {
       "surface": "לטהר",
-      "gloss": "le e hloekileng"
+      "gloss": "le e hlahlalelang"
     },
     {
       "surface": "ולא",
-      "gloss": "mme le se ke"
+      "gloss": "mme le se ke la"
     },
     {
       "surface": "תשקצו",
-      "gloss": "la etsa e-be lehlabaphio"
+      "gloss": "etsa hore e be lekhetho"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mecha ea lona"
+      "marks": "meea ea lona"
     },
     {
       "surface": "נפשתיכם",
-      "gloss": "mecha ea lona"
+      "gloss": "meea ea lona"
     },
     {
       "surface": "בבהמה",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "ובעוף",
-      "gloss": "kapa ka nonyana"
+      "gloss": "kapa ka nonyane"
     },
     {
       "surface": "ובכל",
-      "gloss": "kapa ka seng le seng"
+      "gloss": "kapa ka sfehle"
     },
     {
       "surface": "אשר",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "fatše"
+      "gloss": "lefatshe"
     },
     {
       "surface": "אשר",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "הבדלתי",
-      "gloss": "ke se arohaneng"
+      "gloss": "ke se hlahlamollileng"
     },
     {
       "surface": "לכם",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "לטמא",
-      "gloss": "e le se silafetseng"
+      "gloss": "hore e se hlahlalele"
     }
   ],
-  "timestamp": "2026-10-03T06:14:18.740089242Z",
+  "timestamp": "2026-10-03T20:07:02.501578523Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "st",
   "chapter": 31,
-  "translation": "Ratang Yahwe, botele bohle ba hae ba hlōllehang; Yahwe o boloka bo-tšepe, mme o lefella ka ho feta tekano ea moka e etsang boikakaso.",
+  "translation": "Ratang ⟨את⟩ Yahwe, lichabi tsa hae bohle; Yahwe o boloka ba tsepameng, mme o lefella ka ho feteletseng ya etsang boikakabe.",
   "tokens": [
     {
       "surface": "אהבו",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "botele bohle"
+      "gloss": "bohle"
     },
     {
       "surface": "חסידיו",
-      "gloss": "ba hae ba hlōllehang"
+      "gloss": "lichabi tsa hae"
     },
     {
       "surface": "אמונים",
-      "gloss": "bo-tšepe"
+      "gloss": "ba tsepameng"
     },
     {
       "surface": "נצר",
@@ -46,21 +46,21 @@
     },
     {
       "surface": "על",
-      "gloss": "ka ho feta tekano"
+      "gloss": "ka"
     },
     {
       "surface": "יתר",
-      "gloss": "ho feta tekano"
+      "gloss": "ho feteletseng"
     },
     {
       "surface": "עשה",
-      "gloss": "ea moka e etsang"
+      "gloss": "ya etsang"
     },
     {
       "surface": "גאוה",
-      "gloss": "boikakaso"
+      "gloss": "boikakabe"
     }
   ],
-  "timestamp": "2026-10-03T10:31:02.250122381Z",
+  "timestamp": "2026-10-03T20:20:55.516807514Z",
   "model": "glm-5.3"
 }

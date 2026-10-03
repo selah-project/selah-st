@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 6,
-  "translation": "Mme monna oa Elohim a re: Haele kae? A mo bontše ⟨את⟩ sebaka; a hlaba mokopu, a o lahla moo, mme tsepe ea phalla hodima metse.",
+  "translation": "Mme motho wa Elohim a re: Kae e ile ea wa? Mme o ile a mo bontsha ⟨את⟩ sebakeng, a khaola sethala, a se lahla moo; mme tsepe e ile ea qhomela.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "monna"
+      "gloss": "motho"
     },
     {
       "surface": "האלהים",
-      "gloss": "oa Elohim"
+      "gloss": "wa Elohim"
     },
     {
       "surface": "אנה",
-      "gloss": "Haele kae?"
+      "gloss": "Kae"
     },
     {
       "surface": "נפל",
@@ -29,28 +29,28 @@
     },
     {
       "surface": "ויראהו",
-      "gloss": "a mo bontše"
+      "gloss": "o ile a mo bontsha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sebaka"
+      "marks": "sebakeng"
     },
     {
       "surface": "המקום",
-      "gloss": "sebaka"
+      "gloss": "sebakeng"
     },
     {
       "surface": "ויקצב",
-      "gloss": "a hlaba"
+      "gloss": "a khaola"
     },
     {
       "surface": "עץ",
-      "gloss": "mokopu"
+      "gloss": "sethala"
     },
     {
       "surface": "וישלך",
-      "gloss": "a o lahla"
+      "gloss": "a se lahla"
     },
     {
       "surface": "שמה",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "ויצף",
-      "gloss": "ea phalla"
+      "gloss": "e ile ea qhomela"
     },
     {
       "surface": "הברזל",
       "gloss": "tsepe"
     }
   ],
-  "timestamp": "2026-10-03T08:18:27.603015367Z",
+  "timestamp": "2026-10-03T20:12:49.503788397Z",
   "model": "glm-5.3"
 }

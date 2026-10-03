@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 28,
-  "translation": "Yahwe o tla laela ⟨את⟩ thakgiso hore e be ⟨את⟩ le wena dibakeng tsa hau tsa polokelo le ho tsohileng ka letsoho la hau tsohle; mme o tla o thakgisa lefatšeng leo Yahwe Elohim ya hau a o neang lona.",
+  "translation": "Yahwe o tla laela ⟨את⟩ mohau ⟨את⟩ ho le wena, dikokong tsa hau, le ho tsohle moo o beheang ⟨את⟩ letsoho la hau; mme o tla u hlohonolofatsa lefatsheng leo Yahwe Elohim ya hau a le fang oena.",
   "tokens": [
     {
       "surface": "יצו",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ le wena"
+      "gloss": "⟨את⟩ ho le wena"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "thakgiso"
+      "marks": "mohau"
     },
     {
       "surface": "הברכה",
-      "gloss": "thakgiso"
+      "gloss": "mohau"
     },
     {
       "surface": "באסמיך",
-      "gloss": "dibakeng tsa hau tsa polokelo"
+      "gloss": "dikokong tsa hau"
     },
     {
       "surface": "ובכל",
-      "gloss": "le ho tsohileng tsohle"
+      "gloss": "le ho tsohle"
     },
     {
       "surface": "משלח",
-      "gloss": "ka ho romelwa"
+      "gloss": "moo o beheang"
     },
     {
       "surface": "ידך",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "וברכך",
-      "gloss": "mme o tla o thakgisa"
+      "gloss": "o tla u hlohonolofatsa"
     },
     {
       "surface": "בארץ",
-      "gloss": "lefatšeng"
+      "gloss": "lefatsheng"
     },
     {
       "surface": "אשר",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "a neang"
+      "gloss": "a le fang"
     },
     {
       "surface": "לך",
-      "gloss": "lona"
+      "gloss": "oena"
     }
   ],
-  "timestamp": "2026-10-03T06:59:13.886246191Z",
+  "timestamp": "2026-10-03T20:51:03.190790864Z",
   "model": "glm-5.3"
 }

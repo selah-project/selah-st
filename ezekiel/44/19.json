@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "st",
   "chapter": 44,
-  "translation": "Mme ha ba ntse ba tšoha ba ea chotleng ea ka ntle, ho ea chotleng ea ka ntle, ho ea ho setjhaba, ba ka ntsha ⟨את⟩ diaparo tsa bona tseo ba di sebeletsang ka tsona, mme ba ⟨את⟩ li beha diphaphathing tsa se halalelang, mme ba apare diaparo tse ding; ba se ke ba halaletsa ⟨את⟩ setjhaba ka diaparon tsa bona.",
+  "translation": "Mme ha ba tswa ho ya kohareng ea ka ntle, kohareng ea ka ntle ho ya ho setjhaba, ba tlose ⟨את⟩ diaparo tsa bona tseo ba di sebeletsang ka ⟨את⟩ tsona, mme ba li behe dikamoreng tse halalelang, mme ba apese diaparo tse dingwe; mme ba se ke ba halaletsa ⟨את⟩ setjhaba ka diaparo tsa bona.",
   "tokens": [
     {
       "surface": "ובצאתם",
-      "gloss": "mme ha ba ntse ba tšoha"
+      "gloss": "Mme ha ba tswa"
     },
     {
       "surface": "אל",
-      "gloss": "ba ea"
+      "gloss": "ho ya"
     },
     {
       "surface": "החצר",
-      "gloss": "chotleng"
+      "gloss": "kohareng"
     },
     {
       "surface": "החיצונה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ho ea"
+      "gloss": "ho ya"
     },
     {
       "surface": "החצר",
-      "gloss": "chotleng"
+      "gloss": "kohareng"
     },
     {
       "surface": "החיצונה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ho ea ho"
+      "gloss": "ho ya ho"
     },
     {
       "surface": "העם",
-      "gloss": "setjhaba"
+      "gloss": "setjhabeng"
     },
     {
       "surface": "יפשטו",
-      "gloss": "ba ka ntsha"
+      "gloss": "ba tlose"
     },
     {
       "surface": "את",
@@ -74,23 +74,24 @@
     },
     {
       "surface": "והניחו",
-      "gloss": "mme ba li beha"
+      "gloss": "mme ba li behe"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ li"
+      "gloss": "⟨את⟩ tsona",
+      "marks": "dikamore tse halalelang"
     },
     {
       "surface": "בלשכת",
-      "gloss": "diphaphathing tsa"
+      "gloss": "dikamoreng"
     },
     {
       "surface": "הקדש",
-      "gloss": "se halalelang"
+      "gloss": "tse halalelang"
     },
     {
       "surface": "ולבשו",
-      "gloss": "mme ba apare"
+      "gloss": "mme ba apese"
     },
     {
       "surface": "בגדים",
@@ -98,11 +99,11 @@
     },
     {
       "surface": "אחרים",
-      "gloss": "tse ding"
+      "gloss": "tse dingwe"
     },
     {
       "surface": "ולא",
-      "gloss": "ba se ke"
+      "gloss": "mme ba se ke"
     },
     {
       "surface": "יקדשו",
@@ -119,9 +120,9 @@
     },
     {
       "surface": "בבגדיהם",
-      "gloss": "ka diaparon tsa bona"
+      "gloss": "ka diaparo tsa bona"
     }
   ],
-  "timestamp": "2026-10-03T09:57:46.037412767Z",
+  "timestamp": "2026-10-03T20:51:21.636940226Z",
   "model": "glm-5.3"
 }

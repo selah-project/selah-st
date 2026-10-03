@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "st",
   "chapter": 2,
-  "translation": "Mme a ba re: Hobaneng le etsa dintho tse tšoanang le tše, tseo ke di utlwang ka lona, molaetsa o mpe, ho tloha ho ⟨the⟩ setjhaba seohle, tše?",
+  "translation": "Mme a re ho bona: Hobaneng le etsa dintoa tse tjena, tseo ke di utlwang — ⟨את⟩ mantswe a lona a mabe ho tswa ho ⟨את⟩ setjhaba sohle sena?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Mme a ba re"
+      "gloss": "a re"
     },
     {
       "surface": "להם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "למה",
-      "gloss": "Hobaneng"
+      "gloss": "hobaneng"
     },
     {
       "surface": "תעשון",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "כדברים",
-      "gloss": "dintho tse tšoanang le"
+      "gloss": "dintoa tse tshwanang le"
     },
     {
       "surface": "האלה",
-      "gloss": "tše"
+      "gloss": "tse tjena"
     },
     {
       "surface": "אשר",
@@ -46,23 +46,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "molaetsa ka lona"
+      "marks": "mantswe a lona"
     },
     {
       "surface": "דבריכם",
-      "gloss": "molaetsa ka lona"
+      "gloss": "mantswe a lona"
     },
     {
       "surface": "רעים",
-      "gloss": "o mpe"
+      "gloss": "a mabe"
     },
     {
       "surface": "מאת",
-      "gloss": "ho tloha ho ⟨את⟩"
+      "gloss": "ho tswa ho ⟨את⟩"
     },
     {
       "surface": "כל",
-      "gloss": "seohle"
+      "gloss": "sohle"
     },
     {
       "surface": "העם",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "אלה",
-      "gloss": "tše"
+      "gloss": "sena"
     }
   ],
-  "timestamp": "2026-10-03T07:31:53.835047481Z",
+  "timestamp": "2026-10-03T20:10:42.765464394Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "st",
   "chapter": 2,
-  "translation": "Mme moromuwa wa Yahwe o ile a tloha ha Gilgale a ea ha Bokime, mme a re: Ke ile ka le hlaha ⟨אתכם⟩ ho tloha Mitsrayime, mme ka le isa ⟨אתכם⟩ lefatšeng leo ke ileng ka ikana ho bo-ntate-n lona, mme ka re: Nke ke ka felisa selekane sa ka le lona, ho fihlela ho sehlele.",
+  "translation": "Mme moemeli wa Yahwe o ile a hlahla ho tloha Gilgale ho ya Bokime, mme a re: Ke le hodisitseng ho tloha Mitsrayime, ke le tlisitseng sebakeng seo ke ile ka hlana bo-ntate ba lona; mme ka re: Ke ke ke ke tlampha selekane sa ka ⟨את⟩ le lona le lelele.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "a ile a tloha"
+      "gloss": "mme o ile a hlahla"
     },
     {
       "surface": "מלאך",
-      "gloss": "moromuwa"
+      "gloss": "moemeli"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "a ea"
+      "gloss": "ho ya"
     },
     {
       "surface": "הבכים",
@@ -41,45 +41,45 @@
     },
     {
       "surface": "אעלה",
-      "gloss": "ke ile ka le hlaha"
+      "gloss": "Ke le hodisitseng"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "lona"
+      "gloss": "⟨את⟩",
+      "marks": "le (lona)"
     },
     {
       "surface": "ממצרים",
-      "gloss": "Mitsrayime"
+      "gloss": "ho tloha Mitsrayime"
     },
     {
-      "surface": "ואביא",
-      "gloss": "mme ka le isa"
+      "surface": "ויאביא",
+      "gloss": "ke le tlisitseng"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "lona"
+      "gloss": "⟨את⟩",
+      "marks": "le (lona)"
     },
     {
       "surface": "אל",
-      "gloss": "lefatšeng"
+      "gloss": "sebakeng"
     },
     {
       "surface": "הארץ",
-      "gloss": "lefatše"
+      "gloss": "sa lefatshe"
     },
     {
       "surface": "אשר",
-      "gloss": "leo"
+      "gloss": "seo"
     },
     {
       "surface": "נשבעתי",
-      "gloss": "ke ileng ka ikana"
+      "gloss": "ke ile ka hlana"
     },
     {
       "surface": "לאבתיכם",
-      "gloss": "ho bo-ntate-n lona"
+      "gloss": "bo-ntate ba lona"
     },
     {
       "surface": "ואמר",
@@ -87,11 +87,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "nke"
+      "gloss": "ke ke ke"
     },
     {
       "surface": "אפר",
-      "gloss": "ke ka felisa"
+      "gloss": "ke tlampha"
     },
     {
       "surface": "בריתי",
@@ -99,14 +99,13 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ le lona",
-      "marks": "lona"
+      "gloss": "⟨את⟩ le lona"
     },
     {
       "surface": "לעולם",
-      "gloss": "ho fihlela ho sehlele"
+      "gloss": "le lelele"
     }
   ],
-  "timestamp": "2026-10-03T07:17:20.743841492Z",
+  "timestamp": "2026-10-03T20:51:23.554862591Z",
   "model": "glm-5.3"
 }

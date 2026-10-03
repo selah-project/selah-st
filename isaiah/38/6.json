@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "st",
   "chapter": 38,
-  "translation": "Mme ke tla o lokolla, le ⟨את⟩ toropo ena, letsohong la morena wa Ashure; mme ke tla šireletsa toropo ena.",
+  "translation": "Mme ke tla o lokolla ho tswa ho letsoho la morena wa Ashure, le ⟨את⟩ toropo ena, mme ke tla e sireletsa toropo ena.",
   "tokens": [
     {
       "surface": "ומכף",
-      "gloss": "letsohong la"
+      "gloss": "mme ... ho tswa ho letsoho la"
     },
     {
       "surface": "מלך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toropo ena"
     },
     {
@@ -38,11 +38,11 @@
     },
     {
       "surface": "וגנותי",
-      "gloss": "mme ke tla šireletsa"
+      "gloss": "mme ke tla e sireletsa"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "ho"
     },
     {
       "surface": "העיר",
@@ -53,6 +53,6 @@
       "gloss": "ena"
     }
   ],
-  "timestamp": "2026-10-03T08:47:05.553320505Z",
+  "timestamp": "2026-10-03T20:14:56.554383106Z",
   "model": "glm-5.3"
 }

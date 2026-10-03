@@ -5,39 +5,39 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 18,
-  "translation": "Hona jwale, bonang, o ithekile ho oena ho tlhorô ya kana e kroilweng ena, ho ya ho Mitsrayime, eo ha motho a ikhomela ho yona, e kena letsohong la hae mme ea mo hlaba: jwalo ke Perahoa, morena wa Mitsrayime, ho baohle ba ikhometsang ho yena.",
+  "translation": "Jwale, sheba, o itshetlehile ho ona ka thoko ena ya mokhoa o tlhotlwa, ya Mitsrayime, eo motho a ka e tshehareng, e kenela letsohong la hae, mme e mo ruma — jwalo haора Farao, morena wa Mitsrayime, ho bohle ba itshetlehang ho yena.",
   "tokens": [
     {
       "surface": "עתה",
-      "gloss": "Hona jwale"
+      "gloss": "Jwale"
     },
     {
       "surface": "הנה",
-      "gloss": "bonang"
+      "gloss": "sheba"
     },
     {
       "surface": "בטחת",
-      "gloss": "o ithekile"
+      "gloss": "o itshetlehile"
     },
     {
       "surface": "לך",
-      "gloss": "ho oena"
-    },
-    {
-      "surface": "על",
       "gloss": "ho"
     },
     {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
       "surface": "משענת",
-      "gloss": "tlhorô"
+      "gloss": "thoko"
     },
     {
       "surface": "הקנה",
-      "gloss": "ya kana"
+      "gloss": "ya mokhoa"
     },
     {
       "surface": "הרצוץ",
-      "gloss": "e kroilweng"
+      "gloss": "o tlhotlwa"
     },
     {
       "surface": "הזה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ho ya ho"
+      "gloss": "ya"
     },
     {
       "surface": "מצרים",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "יסמך",
-      "gloss": "ha motho a ikhomela"
+      "gloss": "a ka e tshehareng"
     },
     {
       "surface": "איש",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ובא",
-      "gloss": "mme e kena"
+      "gloss": "e kenela"
     },
     {
       "surface": "בכפו",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "ונקבה",
-      "gloss": "mme ea mo hlaba"
+      "gloss": "mme e mo ruma"
     },
     {
       "surface": "כן",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Perahoa"
+      "gloss": "Farao"
     },
     {
       "surface": "מלך",
@@ -97,17 +97,17 @@
     },
     {
       "surface": "לכל",
-      "gloss": "ho baohle"
+      "gloss": "ho bohle"
     },
     {
       "surface": "הבטחים",
-      "gloss": "ba ikhometsang"
+      "gloss": "ba itshetlehang"
     },
     {
       "surface": "עליו",
       "gloss": "ho yena"
     }
   ],
-  "timestamp": "2026-10-03T08:27:55.080592698Z",
+  "timestamp": "2026-10-03T20:32:03.367164114Z",
   "model": "glm-5.3"
 }

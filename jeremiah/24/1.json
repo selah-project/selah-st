@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "st",
   "chapter": 24,
-  "translation": "Yahwe o ntsebisitse, mme bonang, dira tse pedi tsa matanje a behilweng pele ga tempole ya Yahwe, kamora ho kgutliswa ha Nevukhadnetsara, morena wa Babele, ⟨את⟩ Yekonjahe mora wa Yehojakime, morena wa Yuda, le ⟨את⟩ barutebaoemeli ba Yuda, le ⟨את⟩ batsebi, le ⟨את⟩ ba tlosoletseng tšepe, ho tloha Yerushalayime, mme a ba isa Babele.",
+  "translation": "Yahwe o ntsebisitse, mme re bone, ditshetla tse pedi tsa difige tse behilweng pele ha tempele ya Yahwe, ka mora hore Nevukhadrettsare, morena wa Babele, a ngatise ⟨את⟩ Yekonyahu mora wa Yehojakime, morena wa Yuda, le ⟨את⟩ babusi ba Yuda, le ⟨את⟩ batlodi, le ⟨את⟩ balekane ba tse kgutlelisang, ho tloha Yerushalayime, mme a ba isa Babele.",
   "tokens": [
     {
       "surface": "הראני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "mme bonang"
+      "gloss": "mme re bone"
     },
     {
       "surface": "שני",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "דודאי",
-      "gloss": "dira"
+      "gloss": "ditshetla"
     },
     {
       "surface": "תאנים",
-      "gloss": "tsa matanje"
+      "gloss": "sa difige"
     },
     {
       "surface": "מועדים",
-      "gloss": "a behilweng"
+      "gloss": "tse behilweng"
     },
     {
       "surface": "לפני",
-      "gloss": "pele ga"
+      "gloss": "pele ha"
     },
     {
       "surface": "היכל",
-      "gloss": "tempole"
+      "gloss": "tempele"
     },
     {
       "surface": "יהוה",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "kamora"
+      "gloss": "ka mora hore"
     },
     {
       "surface": "הגלות",
-      "gloss": "ho kgutliswa ha"
+      "gloss": "a ngatise"
     },
     {
       "surface": "נבוכדראצר",
-      "gloss": "Nevukhadnetsara"
+      "gloss": "Nevukhadrettsare"
     },
     {
       "surface": "מלך",
@@ -70,19 +70,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yekonjahe"
+      "marks": "Yekonyahu"
     },
     {
       "surface": "יכניהו",
-      "gloss": "Yekonjahe"
+      "gloss": "Yekonyahu"
     },
     {
       "surface": "בן",
-      "gloss": "mora wa"
+      "gloss": "mora"
     },
     {
       "surface": "יהויקים",
-      "gloss": "Yehojakime"
+      "gloss": "wa Yehojakime"
     },
     {
       "surface": "מלך",
@@ -95,11 +95,11 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "barutebaoemeli ba Yuda"
+      "marks": "babusi ba Yuda"
     },
     {
       "surface": "שרי",
-      "gloss": "barutebaoemeli"
+      "gloss": "babusi"
     },
     {
       "surface": "יהודה",
@@ -108,20 +108,20 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "batsebi"
+      "marks": "batlodi"
     },
     {
       "surface": "החרש",
-      "gloss": "batsebi"
+      "gloss": "batlodi"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "ba tlosoletseng tšepe"
+      "marks": "balekane ba tse kgutlelisang"
     },
     {
       "surface": "המסגר",
-      "gloss": "ba tlosoletseng tšepe"
+      "gloss": "balekane ba tse kgutlelisang"
     },
     {
       "surface": "מירושלם",
@@ -136,6 +136,6 @@
       "gloss": "Babele"
     }
   ],
-  "timestamp": "2026-10-03T09:15:31.718654Z",
+  "timestamp": "2026-10-03T20:16:09.739406729Z",
   "model": "glm-5.3"
 }

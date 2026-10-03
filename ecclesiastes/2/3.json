@@ -5,19 +5,19 @@
   "book": "ecclesiastes",
   "lang": "st",
   "chapter": 2,
-  "translation": "Ke ile ka batla pelong ya ka ho hlabisa ⟨את⟩ nama ya ka ka veine — ka pelo ya ka e ntse e nketse ka bohlale — le ho tšoara bofoolishi, ho fihlela ke bone hore na sefe se lokileng ho bana ba batho, seo ba ka se etsang ka tlase ⟨wa⟩ mahodimo, ka palo ya matsatsi a bophelo ba bona.",
+  "translation": "Ka ne ke batla ka pelong ya ka ho dula ka veine ho ntshefatsa ⟨את⟩ mmele wa ka, mme pelong ya ka e ntata ka bohlale, le ho tshwara bofofu, ho fihlela ke bone hore na ke eng se molemo ho bana ba motho, seo ba ka se etsang ka tlase ho mahodimo, ka palo ya matsatsi a bophelo ba bona.",
   "tokens": [
     {
       "surface": "תרתי",
-      "gloss": "ke ile ka batla"
+      "gloss": "ka ne ke batla"
     },
     {
       "surface": "בלבי",
-      "gloss": "pelong ya ka"
+      "gloss": "ka pelong ya ka"
     },
     {
       "surface": "למשוך",
-      "gloss": "ho hlabisa"
+      "gloss": "ho dula"
     },
     {
       "surface": "ביין",
@@ -26,19 +26,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nama ya ka"
+      "marks": "mmele wa ka"
     },
     {
       "surface": "בשרי",
-      "gloss": "nama ya ka"
+      "gloss": "mmele wa ka"
     },
     {
       "surface": "ולבי",
-      "gloss": "ka pelo ya ka"
+      "gloss": "mme pelong ya ka"
     },
     {
       "surface": "נהג",
-      "gloss": "e ntse e nketse"
+      "gloss": "e ntata"
     },
     {
       "surface": "בחכמה",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "ולאחז",
-      "gloss": "le ho tšoara"
+      "gloss": "le ho tshwara"
     },
     {
       "surface": "בסכלות",
-      "gloss": "bofoolishi"
+      "gloss": "bofofu"
     },
     {
       "surface": "עד",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "זה",
-      "gloss": "sefe"
+      "gloss": "ke eng"
     },
     {
       "surface": "טוב",
-      "gloss": "se lokileng"
+      "gloss": "se molemo"
     },
     {
       "surface": "לבני",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "האדם",
-      "gloss": "batho"
+      "gloss": "motho"
     },
     {
       "surface": "אשר",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "ka tlase"
+      "gloss": "ka tlase ho"
     },
     {
       "surface": "השמים",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "מספר",
-      "gloss": "palo"
+      "gloss": "ka palo ya"
     },
     {
       "surface": "ימי",
@@ -113,6 +113,6 @@
       "gloss": "bophelo ba bona"
     }
   ],
-  "timestamp": "2026-10-03T11:42:52.285631450Z",
+  "timestamp": "2026-10-03T20:24:38.318056334Z",
   "model": "glm-5.3"
 }

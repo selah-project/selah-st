@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "st",
   "chapter": 4,
-  "translation": "Ka letsatsi leo Yahwe o ile a kgološa ⟨את⟩ Yehoshua mahlong a Yisraele kaofela; mme ba mo tšaba, jaaka ba neng ba tšaba ⟨את⟩ Moshe, matsatsi a bophelo ba hae kaofela.",
+  "translation": "Ka letsatsi leo, Yahwe o ile a kgabisa ⟨את⟩ Yehoshua mahlong a Yisraele kaofela; mme ba ⟨את⟩ mo tshaba, jwalo ka ba neng ba tshaba ⟨את⟩ Moshe, matsatsi ohle a bophelo ba hae.",
   "tokens": [
     {
       "surface": "ביום",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "גדל",
-      "gloss": "a kgološa"
+      "gloss": "a kgabisa"
     },
     {
       "surface": "יהוה",
@@ -46,20 +46,20 @@
     },
     {
       "surface": "ויראו",
-      "gloss": "mme ba mo tšaba"
+      "gloss": "mme ba tshaba"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hae",
+      "gloss": "⟨את⟩ mo",
       "marks": "Yehoshua"
     },
     {
       "surface": "כאשר",
-      "gloss": "jaaka"
+      "gloss": "jwalo ka"
     },
     {
       "surface": "יראו",
-      "gloss": "ba tšaba"
+      "gloss": "ba neng ba tshaba"
     },
     {
       "surface": "את",
@@ -72,17 +72,17 @@
     },
     {
       "surface": "כל",
-      "gloss": "kaofela"
+      "gloss": "ohle"
     },
     {
       "surface": "ימי",
-      "gloss": "matsatsi a"
+      "gloss": "matsatsi"
     },
     {
       "surface": "חייו",
-      "gloss": "bophelo ba hae"
+      "gloss": "a bophelo ba hae"
     }
   ],
-  "timestamp": "2026-10-03T07:03:33.602606709Z",
+  "timestamp": "2026-10-03T20:31:58.948359837Z",
   "model": "glm-5.3"
 }

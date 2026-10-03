@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "st",
   "chapter": 19,
-  "translation": "Mme morena o ile a kgutla, a fihla fihlela Yorodane; mme Yehuda o ile a tla Gilegala, hore a tle a tšoasane le morena, hore a fetise ⟨את⟩ morena ⟨את⟩ Yorodane.",
+  "translation": "Mme morena o ile a khutla, a fihla fihlela ⟨ה⟩ Yoredane; mme Yehuda a tla Gilgale, ho tla tla ho ea kopana le morena, ho fetisa ⟨את⟩ morena ⟨את⟩ Yoredane.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "mme morena o ile a kgutla"
+      "gloss": "o ile a khutla"
     },
     {
       "surface": "המלך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "Yorodane"
+      "gloss": "Yoredane"
     },
     {
       "surface": "ויהודה",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "בא",
-      "gloss": "o ile a tla"
+      "gloss": "a tla"
     },
     {
       "surface": "הגלגלה",
-      "gloss": "Gilegala"
+      "gloss": "Gilgale"
     },
     {
       "surface": "ללכת",
-      "gloss": "hore a tle"
+      "gloss": "ho tla"
     },
     {
       "surface": "לקראת",
-      "gloss": "a tšoasane le"
+      "gloss": "ho ea kopana le"
     },
     {
       "surface": "המלך",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "להעביר",
-      "gloss": "hore a fetise"
+      "gloss": "ho fetisa"
     },
     {
       "surface": "את",
@@ -67,13 +67,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yorodane"
+      "marks": "Yoredane"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yorodane"
+      "gloss": "Yoredane"
     }
   ],
-  "timestamp": "2026-10-03T07:57:29.192589750Z",
+  "timestamp": "2026-10-03T20:13:01.732349651Z",
   "model": "glm-5.3"
 }

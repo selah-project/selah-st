@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 15,
-  "translation": "Mme Menakheme o ile a ntša ⟨את⟩ selepere ho Yisraele, ho ba matla bohle ba nang le tlhaho, ho fa morena wa Ashure — masome a hlano a di-shekele tsa selepere ho motho e mong le e mong; mme morena wa Ashure o ile a khutla, mme ha a ka a dula moo naheng.",
+  "translation": "Mme Menakheme a ntsha ⟨את⟩ sebeki ho Yisraele, ho bao bohle ba matla ba mabenya, ho fana ka morena wa Ashure di-shekele tse mashome a hlano tsa sebeki ho motho a le mong; mme morena wa Ashure a kgutlela, mme a sa dule moo lefatsheng.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "Mme o ile a ntša"
+      "gloss": "a ntsha"
     },
     {
       "surface": "מנחם",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "selepere"
+      "marks": "sebeki"
     },
     {
       "surface": "הכסף",
-      "gloss": "selepere"
+      "gloss": "sebeki"
     },
     {
       "surface": "על",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "החיל",
-      "gloss": "ba nang le tlhaho"
+      "gloss": "ba mabenya"
     },
     {
       "surface": "לתת",
-      "gloss": "ho fa"
+      "gloss": "ho fana ka"
     },
     {
       "surface": "למלך",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "חמשים",
-      "gloss": "masome a hlano a"
+      "gloss": "tse mashome a hlano"
     },
     {
       "surface": "שקלים",
-      "gloss": "di-shekele tsa"
+      "gloss": "di-shekele"
     },
     {
       "surface": "כסף",
-      "gloss": "selepere"
+      "gloss": "tsa sebeki"
     },
     {
       "surface": "לאיש",
@@ -78,27 +78,27 @@
     },
     {
       "surface": "אחד",
-      "gloss": "e mong le e mong"
+      "gloss": "a le mong"
     },
     {
       "surface": "וישב",
-      "gloss": "mme o ile a khutla"
+      "gloss": "a kgutlela"
     },
     {
       "surface": "מלך",
-      "gloss": "morena wa"
+      "gloss": "morena"
     },
     {
       "surface": "אשור",
-      "gloss": "Ashure"
+      "gloss": "wa Ashure"
     },
     {
       "surface": "ולא",
-      "gloss": "mme ha a ka a"
+      "gloss": "mme a sa"
     },
     {
       "surface": "עמד",
-      "gloss": "dula"
+      "gloss": "dule"
     },
     {
       "surface": "שם",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "naheng"
+      "gloss": "lefatsheng"
     }
   ],
-  "timestamp": "2026-10-03T08:24:49.116599665Z",
+  "timestamp": "2026-10-03T20:13:49.072661149Z",
   "model": "glm-5.3"
 }

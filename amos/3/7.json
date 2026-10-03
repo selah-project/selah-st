@@ -5,8 +5,61 @@
   "book": "amos",
   "lang": "st",
   "chapter": 3,
-  "translation": "Hobane Adonai Yahwe ha a etse sephetho, ha a sa pele a hlakisa sephiri sa hae ho batšebeletsi ba hae, baporofeta.",
-  "tokens": [],
-  "timestamp": "2026-10-03T10:05:17.558597983Z",
+  "translation": "Hobane Adonai Yahwe ha a etselle ⟨se reng⟩ ntho efe kapa efe, ntle hore e se hlahlisa sephiri sa hae ho makhontha a hae, baporofeta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a etselle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ntho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ntle hore"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "גלה",
+      "gloss": "e se hlahlisa"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sephiri sa hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "makhontha a hae"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "baporofeta"
+    }
+  ],
+  "timestamp": "2026-10-03T20:19:07.610651149Z",
   "model": "glm-5.3"
 }

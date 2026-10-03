@@ -5,32 +5,32 @@
   "book": "1-kings",
   "lang": "st",
   "chapter": 20,
-  "translation": "Mme a lhabela, a ntša ⟨את⟩ phuthu ho tswa mahlong a hae, mme morena wa Yisraele a mo tseba ⟨אתו⟩, hore ke e mong wa baporofeta.",
+  "translation": "Mme o ile a ithaka ka pela, a tlosa ⟨את⟩ thepa eo e neng e patile mahlo a hae; mme morena wa Yisraele a mo tseba ⟨אתו⟩, hore e ne e le e mong wa baporofeta.",
   "tokens": [
     {
       "surface": "וימהר",
-      "gloss": "a lhabela"
+      "gloss": "a ithaka ka pela"
     },
     {
       "surface": "ויסר",
-      "gloss": "a ntša"
+      "gloss": "a tlosa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "phuthu"
+      "marks": "thepa eo e patile mahlo"
     },
     {
       "surface": "האפר",
-      "gloss": "phuthu"
+      "gloss": "thepa eo e neng e patile mahlo a hae"
     },
     {
       "surface": "מעל",
-      "gloss": "ho tswa"
+      "gloss": "holimo"
     },
     {
       "surface": "עיניו",
-      "gloss": "mahlong a hae"
+      "gloss": "mahlo a hae"
     },
     {
       "surface": "ויכר",
@@ -39,7 +39,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨אתו⟩",
-      "marks": "morena wa Yisraele a mo tseba"
+      "marks": "morena wa Yisraele mo tseba"
     },
     {
       "surface": "מלך",
@@ -55,13 +55,13 @@
     },
     {
       "surface": "מהנבאים",
-      "gloss": "e mong wa baporofeta"
+      "gloss": "wa baporofeta"
     },
     {
       "surface": "הוא",
-      "gloss": "ke"
+      "gloss": "e ne e le"
     }
   ],
-  "timestamp": "2026-10-03T08:13:33.777939078Z",
+  "timestamp": "2026-10-03T20:12:34.204368735Z",
   "model": "glm-5.3"
 }

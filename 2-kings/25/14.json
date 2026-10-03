@@ -5,38 +5,38 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 25,
-  "translation": "Le ♦⟨את⟩ dinkho, le ♦⟨את⟩ dikhafu, le ♦⟨את⟩ dimamare, le ♦⟨את⟩ dikomelo, le ♦dithuso ⟨את⟩ tsohle tsa tšepe tseo ba di direlago ka tsona, di ile tsa tsewa.",
+  "translation": "Mme ba nkile ⟨את⟩ diphahlo, le ⟨את⟩ dikhapa, le ⟨את⟩ dintsebisi, le ⟨את⟩ dikomelo, le ⟨את⟩ dithethefatsi tsohle tsa motsopa tse neng ba direla ka tsona.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ le ♦",
-      "marks": "dinkho"
+      "gloss": "⟨את⟩",
+      "marks": "diphahlo"
     },
     {
       "surface": "הסירת",
-      "gloss": "dinkho"
+      "gloss": "diphahlo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ le ♦",
-      "marks": "dikhafu"
+      "gloss": "le ⟨את⟩",
+      "marks": "dikhapa"
     },
     {
       "surface": "היעים",
-      "gloss": "dikhafu"
+      "gloss": "dikhapa"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ le ♦",
-      "marks": "dimamare"
+      "gloss": "le ⟨את⟩",
+      "marks": "dintsebisi"
     },
     {
       "surface": "המזמרות",
-      "gloss": "dimamare"
+      "gloss": "dintsebisi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ le ♦",
+      "gloss": "le ⟨את⟩",
       "marks": "dikomelo"
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ le ♦",
-      "marks": "dithuso tsohle"
+      "gloss": "le ⟨את⟩",
+      "marks": "dithethefatsi tsohle tsa motsopa"
     },
     {
       "surface": "כל",
@@ -54,19 +54,19 @@
     },
     {
       "surface": "כלי",
-      "gloss": "dithuso"
+      "gloss": "dithethefatsi tsa"
     },
     {
       "surface": "הנחשת",
-      "gloss": "tsa tšepe"
+      "gloss": "motsopa"
     },
     {
       "surface": "אשר",
-      "gloss": "tseo"
+      "gloss": "tse"
     },
     {
       "surface": "ישרתו",
-      "gloss": "ba di direlago"
+      "gloss": "ba direla"
     },
     {
       "surface": "בם",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "לקחו",
-      "gloss": "di ile tsa tsewa"
+      "gloss": "ba nkile"
     }
   ],
-  "timestamp": "2026-10-03T08:30:54.980520889Z",
+  "timestamp": "2026-10-03T20:14:20.930028523Z",
   "model": "glm-5.3"
 }

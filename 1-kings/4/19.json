@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "st",
   "chapter": 4,
-  "translation": "Gebere mora wa Urie, naheng ya Gileade — ⟨lefatše⟩ la Sihone morena wa ⟨Bajahadi⟩, le la Oge morena wa Bashane; mme ⟨go na le⟩ moemedi a le mong yo o nang le ⟨bokgoni⟩ naheng eo.",
+  "translation": "Gebera mora wa Urie, naheng ya Gileade, naheng ya Sihone morena wa Emori, le ya Oge morena wa Bashane; mme mookamedi a le mong ya neng a le naheng.",
   "tokens": [
     {
       "surface": "גבר",
-      "gloss": "Gebere"
+      "gloss": "Gebera"
     },
     {
       "surface": "בן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "⟨lefatše⟩ la"
+      "gloss": "naheng ya"
     },
     {
       "surface": "סיחון",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "⟨Bajahadi⟩"
+      "gloss": "Emori"
     },
     {
       "surface": "ועג",
-      "gloss": "le la Oge"
+      "gloss": "le ya Oge"
     },
     {
       "surface": "מלך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ונציב",
-      "gloss": "moemedi"
+      "gloss": "mme mookamedi"
     },
     {
       "surface": "אחד",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yo o nang le"
+      "gloss": "ya neng a"
     },
     {
       "surface": "בארץ",
       "gloss": "naheng"
     }
   ],
-  "timestamp": "2026-10-03T08:04:33.297611361Z",
+  "timestamp": "2026-10-03T20:12:33.532465885Z",
   "model": "glm-5.3"
 }

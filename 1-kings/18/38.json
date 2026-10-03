@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "st",
   "chapter": 18,
-  "translation": "Mme mollo wa Yahwe o ile wa oela, o ileng wa ja ⟨את⟩ ofa le ⟨את⟩ ditlhare le ⟨את⟩ majwe le ⟨את⟩ mouwane, mme ⟨את⟩ metsi a neng a le moišeng o ile oa a hlatlama.",
+  "translation": "Mme mollo wa Yahwe o ile wa wa, wa ja ⟨את⟩ mpho ya letsholo, le ⟨את⟩ dikgong, le ⟨את⟩ majwe, le ⟨את⟩ buloho, mme wa nantsha ⟨את⟩ metsi a neng a le mocheng.",
   "tokens": [
     {
       "surface": "ותפל",
-      "gloss": "mme ... o ile wa oela"
+      "gloss": "wa wa"
     },
     {
       "surface": "אש",
@@ -17,33 +17,33 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "wa Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "ותאכל",
-      "gloss": "mme o ileng wa ja"
+      "gloss": "wa ja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ofa"
+      "marks": "mpho ya letsholo"
     },
     {
       "surface": "העלה",
-      "gloss": "ofa"
+      "gloss": "mpho ya letsholo"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "ditlhare"
+      "gloss": "⟨את⟩",
+      "marks": "dikgong"
     },
     {
       "surface": "העצים",
-      "gloss": "ditlhare"
+      "gloss": "dikgong"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "majwe"
     },
     {
@@ -52,16 +52,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "mouwane"
+      "gloss": "⟨את⟩",
+      "marks": "buloho"
     },
     {
       "surface": "העפר",
-      "gloss": "mouwane"
+      "gloss": "buloho"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "metsi"
     },
     {
@@ -74,13 +74,13 @@
     },
     {
       "surface": "בתעלה",
-      "gloss": "moišeng"
+      "gloss": "mocheng"
     },
     {
       "surface": "לחכה",
-      "gloss": "oa hlatlama"
+      "gloss": "wa nantsha"
     }
   ],
-  "timestamp": "2026-10-03T08:13:40.788113280Z",
+  "timestamp": "2026-10-03T20:12:57.220470054Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "st",
   "chapter": 8,
-  "translation": "Hobane peo ya khotso ⟨is⟩ ⟨the⟩: ⟨the⟩ lonaka le tla fana ka phaello ya lona, mme lefatshe le tla fana ka ⟨את⟩ lieneli tsa lona, mme mahodimo a tla fana ka ⟨את⟩ munyu wa lona; mme ke tla etsa hore semmuso sa batho ba se nang mpho sehlotšweng se ruole ⟨את⟩ tsohle tsena.",
+  "translation": "Hobane peo ya khotso: molumo o tla fala dimela tsa lona, mme lefatshe le tla fala ⟨את⟩ kumuso ya lona, mme mahodimo a tla fala ⟨את⟩ manoko a ona; mme ke tla etsa hore sehlotshwana sa sehlooho se sa nne le ⟨את⟩ tsohle tse le teng.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "hobane"
+      "gloss": "Hobane"
     },
     {
       "surface": "זרע",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "הגפן",
-      "gloss": "lonaka"
+      "gloss": "molumo"
     },
     {
       "surface": "תתן",
-      "gloss": "le tla fana"
+      "gloss": "o tla fala"
     },
     {
       "surface": "פריה",
-      "gloss": "phaello ya lona"
+      "gloss": "dimela tsa lona"
     },
     {
       "surface": "והארץ",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "תתן",
-      "gloss": "le tla fana"
+      "gloss": "le tla fala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lieneli tsa lona"
+      "marks": "kumuso ya lona"
     },
     {
       "surface": "יבולה",
-      "gloss": "lieneli tsa lona"
+      "gloss": "kumuso ya lona"
     },
     {
       "surface": "והשמים",
@@ -54,37 +54,37 @@
     },
     {
       "surface": "יתנו",
-      "gloss": "a tla fana"
+      "gloss": "a tla fala"
     },
     {
       "surface": "טלם",
-      "gloss": "munyu wa lona"
+      "gloss": "manoko a ona"
     },
     {
       "surface": "והנחלתי",
-      "gloss": "ke tla etsa hore...se ruole"
+      "gloss": "mme ke tla etsa hore e nne le"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "semmuso sa batho ba se nang mpho sehlotšweng"
+      "marks": "sehlotshwana sa sehlooho"
     },
     {
       "surface": "שארית",
-      "gloss": "semmuso"
+      "gloss": "sehlotshwana"
     },
     {
       "surface": "העם",
-      "gloss": "sa batho"
+      "gloss": "sa sehlooho"
     },
     {
       "surface": "הזה",
-      "gloss": "ba se nang mpho sehlotšweng"
+      "gloss": "se"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tsohle tsena"
+      "marks": "tsohle tse le teng"
     },
     {
       "surface": "כל",
@@ -92,9 +92,9 @@
     },
     {
       "surface": "אלה",
-      "gloss": "tsena"
+      "gloss": "tse le teng"
     }
   ],
-  "timestamp": "2026-10-03T13:09:16.312252055Z",
+  "timestamp": "2026-10-03T20:19:37.865903203Z",
   "model": "glm-5.3"
 }

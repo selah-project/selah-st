@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "st",
   "chapter": 17,
-  "translation": "Mme Dawide a romola ⟨את⟩ letsoho la hae ho sejana, mme a nka ho tloha ho lona letlapa, mme a hlahlisa ka selepe, mme a omeletsa ⟨את⟩ Mofilistia tlase ho hloho ya hae ya pele, mme letlapa le ile la mnahana hlohong ya hae ya pele, mme a wa sefahlahong sa hae fatše.",
+  "translation": "Mme Dawide a romola ⟨את⟩ letsoho la hae ho ⟨the⟩ sejana, mme a nka moo lejwe, mme a le thula ka sejana, mme a roba ⟨את⟩ Mofilistea ho phologo ya hae, mme lejwe la tsuballa ho phologo ya hae, mme a wa sefahlong sa hae fatshe.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -38,48 +38,48 @@
     },
     {
       "surface": "משם",
-      "gloss": "ho tloha ho lona"
+      "gloss": "moo"
     },
     {
       "surface": "אבן",
-      "gloss": "letlapa"
+      "gloss": "lejwe"
     },
     {
       "surface": "ויקלע",
-      "gloss": "mme a hlahlisa ka selepe"
+      "gloss": "mme a le thula ka sejana"
     },
     {
       "surface": "ויך",
-      "gloss": "mme a omeletsa"
+      "gloss": "mme a roba"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mofilistia"
+      "marks": "Mofilistea"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Mofilistia"
+      "gloss": "Mofilistea"
     },
     {
       "surface": "אל",
-      "gloss": "tlase ho"
+      "gloss": "ho"
     },
     {
       "surface": "מצחו",
-      "gloss": "hloho ya hae ya pele"
+      "gloss": "phologo ya hae"
     },
     {
       "surface": "ותטבע",
-      "gloss": "mme e ile la mnahana"
+      "gloss": "mme le tsuballa"
     },
     {
       "surface": "האבן",
-      "gloss": "letlapa"
+      "gloss": "lejwe"
     },
     {
       "surface": "במצחו",
-      "gloss": "hlohong ya hae ya pele"
+      "gloss": "ho phologo ya hae"
     },
     {
       "surface": "ויפל",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "על",
-      "gloss": "sefahlahong"
+      "gloss": "sefahlong"
     },
     {
       "surface": "פניו",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "ארצה",
-      "gloss": "fatše"
+      "gloss": "fatshe"
     }
   ],
-  "timestamp": "2026-10-03T07:40:38.457009441Z",
+  "timestamp": "2026-10-03T20:11:35.600062252Z",
   "model": "glm-5.3"
 }

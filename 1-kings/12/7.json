@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "st",
   "chapter": 12,
-  "translation": "Mme ba bua ho eena ba re: Ha kajeno o ka ’na oa e-ba lekhanya la setjhaba sena, mme oa ba šomela, oa ba araba, mme oa bua ho bona mantswe a molemo, ba tla ’na ba e-ba batho ba hao ka matsatsi ohle.",
+  "translation": "Mme ba mo bolella, ba re: Ha kajeno o tla ba lesetjamose ya sechaba sena, mme o ba direla, mme o ba araba, mme o bua le bona mantswe a molemo, ba tla ba basetjamose ba hao matsatsi ohle.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "ba bua"
+      "gloss": "ba mo bolella"
     },
     {
       "surface": "אליו",
-      "gloss": "ho eena"
+      "gloss": "mo"
     },
     {
       "surface": "לאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "ha"
+      "gloss": "Ha"
     },
     {
       "surface": "היום",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "o e-ba"
+      "gloss": "o tla ba"
     },
     {
       "surface": "עבד",
-      "gloss": "lekhanya"
+      "gloss": "lesetjamose"
     },
     {
       "surface": "לעם",
-      "gloss": "la setjhaba"
+      "gloss": "ya sechaba"
     },
     {
       "surface": "הזה",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "mme oa ba šomela"
+      "gloss": "mme o ba direla"
     },
     {
       "surface": "ועניתם",
-      "gloss": "mme oa ba araba"
+      "gloss": "mme o ba araba"
     },
     {
       "surface": "ודברת",
-      "gloss": "oa bua"
+      "gloss": "mme o bua"
     },
     {
       "surface": "אליהם",
-      "gloss": "ho bona"
+      "gloss": "le bona"
     },
     {
       "surface": "דברים",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "והיו",
-      "gloss": "ba tla e-ba"
+      "gloss": "ba tla ba"
     },
     {
       "surface": "לך",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "עבדים",
-      "gloss": "batho ba hao"
+      "gloss": "basetjamose"
     },
     {
       "surface": "כל",
@@ -88,6 +88,6 @@
       "gloss": "matsatsi"
     }
   ],
-  "timestamp": "2026-10-03T08:09:31.844145478Z",
+  "timestamp": "2026-10-03T20:12:47.683941247Z",
   "model": "glm-5.3"
 }

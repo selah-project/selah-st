@@ -5,15 +5,15 @@
   "book": "zechariah",
   "lang": "st",
   "chapter": 3,
-  "translation": "A araba, a re ho ba bang ba emeng pele ha hae, a re: Tlosang diaparo tse silafetseng holim'a hae. A mo rialo: Bonang, ke ntšitse boitatofatso ba hao holim'a hae, mme ke tla o apesa ⟨את⟩ diaparo tse phatsime.",
+  "translation": "Mme ⟨e⟩ araba mme a bolela ho ba phelang pele ho hae, a re: Tlosang diaparo tse metsi ho tloha hodima yena. Mme a re ho yena: Bona, ke entse hore bobe ba hao bo fete ho tloha hodima wena, mme ke tla o apesa ⟨את⟩ ka diaparo tse phatsimang.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "a araba"
+      "gloss": "Mme o araba"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "mme a bolela"
     },
     {
       "surface": "אל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "העמדים",
-      "gloss": "ba bang ba emeng"
+      "gloss": "ba phelang pele ho hae"
     },
     {
       "surface": "לפניו",
-      "gloss": "pele ha hae"
+      "gloss": "(pela hae)"
     },
     {
       "surface": "לאמר",
@@ -41,50 +41,50 @@
     },
     {
       "surface": "הצאים",
-      "gloss": "tse silafetseng"
+      "gloss": "tse metsi"
     },
     {
       "surface": "מעליו",
-      "gloss": "holim'a hae"
+      "gloss": "ho tloha hodima yena"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a rialo"
+      "gloss": "mme a re"
     },
     {
       "surface": "אליו",
-      "gloss": "mo"
+      "gloss": "ho yena"
     },
     {
       "surface": "ראה",
-      "gloss": "Bonang"
+      "gloss": "Bona"
     },
     {
       "surface": "העברתי",
-      "gloss": "ke ntšitse"
+      "gloss": "ke entse hore...bo fete"
     },
     {
       "surface": "מעליך",
-      "gloss": "holim'a hae"
+      "gloss": "ho tloha hodima wena"
     },
     {
       "surface": "עונך",
-      "gloss": "boitatofatso ba hao"
+      "gloss": "bobe ba hao"
     },
     {
-      "surface": "ווהלבש",
-      "gloss": "ke tla o apesa"
+      "surface": "והלבש",
+      "gloss": "mme ke tla o apesa"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ o apesa",
-      "marks": "diaparo tse phatsime"
+      "gloss": "⟨את⟩ o",
+      "marks": "o (Yehoshua) — ka diaparo tse phatsimang"
     },
     {
       "surface": "מחלצות",
-      "gloss": "diaparo tse phatsime"
+      "gloss": "diaparo tse phatsimang"
     }
   ],
-  "timestamp": "2026-10-03T10:18:03.439793664Z",
+  "timestamp": "2026-10-03T20:51:42.915169014Z",
   "model": "glm-5.3"
 }

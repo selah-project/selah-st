@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "st",
   "chapter": 25,
-  "translation": "O se ke wa nka ⟨את⟩ molekane wa khokahano le eketselo ho eena; mme o tšabe Elohim wa hao, e le hore moraoeno a phele le uena.",
+  "translation": "O se ke wa nka ho tloha ho ena ⟨את⟩ nesheke le ⟨את⟩ tarbiti; mme o tle oike Elohim wa hao, mme moena wa hao a phle ka ho uena.",
   "tokens": [
     {
       "surface": "אל",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ molekane ho eena",
-      "marks": "molekane wa khokahano le eketselo"
+      "gloss": "ho tloha ho ena ⟨את⟩",
+      "marks": "nesheke"
     },
     {
       "surface": "נשך",
-      "gloss": "molekane wa khokahano"
+      "gloss": "nesheke"
     },
     {
       "surface": "ותרבית",
-      "gloss": "eketselo"
+      "gloss": "le tarbiti"
     },
     {
       "surface": "ויראת",
-      "gloss": "o tšabe"
+      "gloss": "mme o tle oike"
     },
     {
       "surface": "מאלהיך",
@@ -38,17 +38,17 @@
     },
     {
       "surface": "וחי",
-      "gloss": "a phele"
+      "gloss": "mme a phle"
     },
     {
       "surface": "אחיך",
-      "gloss": "moraoeno"
+      "gloss": "moena wa hao"
     },
     {
       "surface": "עמך",
-      "gloss": "le uena"
+      "gloss": "ka ho uena"
     }
   ],
-  "timestamp": "2026-10-03T06:16:58.844279912Z",
+  "timestamp": "2026-10-03T20:07:39.858464102Z",
   "model": "glm-5.3"
 }

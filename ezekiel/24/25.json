@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "st",
   "chapter": 24,
-  "translation": "Mme wena, mora wa motho, hase ka letsatsi leo, ha nka tlosa ho bona ⟨את⟩ matla a bona a ho itšireletsa, thabo ea kgalalelo ea bona, ⟨את⟩ se ratehang sa mahlo a bona, le ⟨את⟩ boima ba moya oa bona, barā bona le baroali ba bona?",
+  "translation": "Mme wena, mora wa motho, na e se ke ka letsatsi leo ke tlang ho nka ho bona ⟨את⟩ botsitso ba bona, thabo ya kgalalelo ya bona, ⟨את⟩ se mahlo a bona a se ratang, le ⟨את⟩ boima ba bophelo ba bona, barwana ba bona le barwetsana ba bona?",
   "tokens": [
     {
       "surface": "ואתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "hase"
+      "gloss": "na e se ke"
     },
     {
       "surface": "ביום",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "קחתי",
-      "gloss": "ha nka tlosa"
+      "gloss": "ke tlang ho nka"
     },
     {
       "surface": "מהם",
@@ -38,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "matla a bona a ho itšireletsa"
+      "marks": "botsitso ba bona"
     },
     {
       "surface": "מעוזם",
-      "gloss": "matla a bona a ho itšireletsa"
+      "gloss": "botsitso ba bona"
     },
     {
       "surface": "משוש",
@@ -50,25 +50,25 @@
     },
     {
       "surface": "תפארתם",
-      "gloss": "ea kgalalelo ea bona"
+      "gloss": "ya kgalalelo ya bona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "se ratehang sa mahlo a bona"
+      "marks": "se se ratang"
     },
     {
       "surface": "מחמד",
-      "gloss": "se ratehang"
+      "gloss": "se se ratang"
     },
     {
       "surface": "עיניהם",
-      "gloss": "sa mahlo a bona"
+      "gloss": "mahlo a bona"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "boima ba moya oa bona"
+      "marks": "boima ba bophelo ba bona"
     },
     {
       "surface": "משא",
@@ -76,17 +76,17 @@
     },
     {
       "surface": "נפשם",
-      "gloss": "ba moya oa bona"
+      "gloss": "ba bophelo ba bona"
     },
     {
       "surface": "בניהם",
-      "gloss": "barā bona"
+      "gloss": "barwana ba bona"
     },
     {
       "surface": "ובנותיהם",
-      "gloss": "le baroali ba bona"
+      "gloss": "le barwetsana ba bona"
     }
   ],
-  "timestamp": "2026-10-03T09:45:35.014784822Z",
+  "timestamp": "2026-10-03T20:18:07.563395920Z",
   "model": "glm-5.3"
 }

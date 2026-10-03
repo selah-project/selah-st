@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "st",
   "chapter": 26,
-  "translation": "Hape nna ke ile ka tsamaya le bona ka ho se utwane, mme ke ile ka ba tisa lefatšeng ya ba hloyang; kapa ka nako eo pelo ea bona e sa kholotsweng e tla inamisa, mme ka nako eo ba tla dumelela ⟨את⟩ melato ya bona.",
+  "translation": "Hape nna ke tla tsamaya le bona ka boitlhwaro, mme ke tla ba isa naheng ya maswelle a bona; kapa joale pelo ya bona e sa ralehang e ka ikhotsa, mme joale ba ka amohela ⟨את⟩ kotlo ya mekolofo ya bona.",
   "tokens": [
     {
       "surface": "אף",
-      "gloss": "hape"
+      "gloss": "Hape"
     },
     {
       "surface": "אני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אלך",
-      "gloss": "ke ile ka tsamaya"
+      "gloss": "ke tla tsamaya"
     },
     {
       "surface": "עמם",
@@ -25,24 +25,24 @@
     },
     {
       "surface": "בקרי",
-      "gloss": "ka ho se utwane"
+      "gloss": "ka boitlhwaro"
     },
     {
       "surface": "והבאתי",
-      "gloss": "mme ke ile ka ba tisa"
+      "gloss": "mme ke tla isa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "ba"
+      "gloss": "⟨את⟩ ba",
+      "marks": "naheng ya maswelle a bona"
     },
     {
       "surface": "בארץ",
-      "gloss": "lefatšeng"
+      "gloss": "naheng"
     },
     {
       "surface": "איביהם",
-      "gloss": "ya ba hloyang"
+      "gloss": "ya maswelle a bona"
     },
     {
       "surface": "או",
@@ -50,38 +50,38 @@
     },
     {
       "surface": "אז",
-      "gloss": "ka nako eo"
+      "gloss": "joale"
     },
     {
       "surface": "יכנע",
-      "gloss": "e tla inamisa"
+      "gloss": "e ka ikhotsa"
     },
     {
       "surface": "לבבם",
-      "gloss": "pelo ea bona"
+      "gloss": "pelo ya bona"
     },
     {
       "surface": "הערל",
-      "gloss": "e sa kholotsweng"
+      "gloss": "e sa ralehang"
     },
     {
       "surface": "ואז",
-      "gloss": "mme ka nako eo"
+      "gloss": "mme joale"
     },
     {
       "surface": "ירצו",
-      "gloss": "ba tla dumelela"
+      "gloss": "ba ka amohela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "melato ya bona"
+      "marks": "kotlo ya mekolofo ya bona"
     },
     {
       "surface": "עונם",
-      "gloss": "melato ya bona"
+      "gloss": "ya mekolofo ya bona"
     }
   ],
-  "timestamp": "2026-10-03T12:46:52.338853180Z",
+  "timestamp": "2026-10-03T20:07:50.775609064Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "st",
   "chapter": 23,
-  "translation": "Che, morena wa ka, mpolelle: tshimo ke e nehetše wena, le phapo eo e ho yona, ke e nehetše wena; mahloneng a bana ba batho ba ka ke e nehetše wena; boloka ⟨את⟩ mengwalo ya hao.",
+  "translation": "Che, monga ka, mpolelle: ⟨את⟩ sefala ke o neheletse, mme ⟨את⟩ phogorong eo e leng ho yona, ke e nehelletse wena; mahlong a bana ba setjhaba sa ka ke e nehelletse wena: boloka ⟨את⟩ mofu wa hao.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,19 +13,24 @@
     },
     {
       "surface": "אדני",
-      "gloss": "morena wa ka"
+      "gloss": "monga ka"
     },
     {
       "surface": "שמעני",
       "gloss": "mpolelle"
     },
     {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefala"
+    },
+    {
       "surface": "השדה",
-      "gloss": "tshimo"
+      "gloss": "sefala"
     },
     {
       "surface": "נתתי",
-      "gloss": "ke e nehetše"
+      "gloss": "ke o neheletse"
     },
     {
       "surface": "לך",
@@ -33,11 +38,11 @@
     },
     {
       "surface": "והמערה",
-      "gloss": "le phapo"
+      "gloss": "mme phogorong"
     },
     {
       "surface": "אשר",
-      "gloss": "eo e ho yona"
+      "gloss": "eo e leng"
     },
     {
       "surface": "בו",
@@ -49,11 +54,11 @@
     },
     {
       "surface": "נתתיה",
-      "gloss": "ke e nehetše"
+      "gloss": "ke e nehelletse"
     },
     {
       "surface": "לעיני",
-      "gloss": "mahloneng a"
+      "gloss": "mahlong a"
     },
     {
       "surface": "בני",
@@ -61,11 +66,11 @@
     },
     {
       "surface": "עמי",
-      "gloss": "batho ba ka"
+      "gloss": "setjhaba sa ka"
     },
     {
       "surface": "נתתיה",
-      "gloss": "ke e nehetše"
+      "gloss": "ke e nehelletse"
     },
     {
       "surface": "לך",
@@ -77,9 +82,9 @@
     },
     {
       "surface": "מתך",
-      "gloss": "mengwalo ya hao"
+      "gloss": "mofu wa hao"
     }
   ],
-  "timestamp": "2026-10-03T05:27:12.989919165Z",
+  "timestamp": "2026-10-03T20:05:22.666796846Z",
   "model": "glm-5.3"
 }

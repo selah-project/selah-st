@@ -5,15 +5,15 @@
   "book": "zechariah",
   "lang": "st",
   "chapter": 4,
-  "translation": "O mang wena, thaba e kholo, peling ea Zerubabele? U tla ba lefatshe le bataletseng; mme o tla ntša ⟨את⟩ lejoe la hlooho, ka mehu: mohau, mohau ho eona!",
+  "translation": "Ke mang oena, thaba e kgolo? Ka pele ga Zerubabele ⟨o tla fetoha⟩ sebakatla; mme o tla hlahisa ⟨את⟩ setone sa hlooho, ka mekokoetso e reng: Mohau, mohau ho eona!",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "o mang"
+      "gloss": "ke mang"
     },
     {
       "surface": "אתה",
-      "gloss": "wena"
+      "gloss": "oena"
     },
     {
       "surface": "הר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "e kholo"
+      "gloss": "e kgolo"
     },
     {
       "surface": "לפני",
-      "gloss": "peling ea"
+      "gloss": "ka pele ga"
     },
     {
       "surface": "זרבבל",
@@ -33,28 +33,28 @@
     },
     {
       "surface": "למישר",
-      "gloss": "lefatshe le bataletseng"
+      "gloss": "sebakatla"
     },
     {
       "surface": "והוציא",
-      "gloss": "o tla ntša"
+      "gloss": "mme o tla hlahisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lejoe"
+      "marks": "setone sa hlooho"
     },
     {
       "surface": "האבן",
-      "gloss": "lejoe"
+      "gloss": "setone"
     },
     {
       "surface": "הראשה",
-      "gloss": "la hlooho"
+      "gloss": "sa hlooho"
     },
     {
       "surface": "תשאות",
-      "gloss": "ka mehu"
+      "gloss": "mokokoetso"
     },
     {
       "surface": "חן",
@@ -69,6 +69,6 @@
       "gloss": "ho eona"
     }
   ],
-  "timestamp": "2026-10-03T10:18:18.214897309Z",
+  "timestamp": "2026-10-03T20:19:33.151418102Z",
   "model": "glm-5.3"
 }

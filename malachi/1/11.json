@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "st",
   "chapter": 1,
-  "translation": "Hobane ho tloha ho tlhaho ha letsatsi ho fihlela ho khutla ha sona, lebitso la ka le sehloho har'a merabe; mme ho sebakeng se seng le se seng mušo o tlatsoa, o hlahiswa ho lebitso la ka, le minkha e hlotsoeng; hobane lebitso la ka le sehloho har'a merabe, ho bolela Yahwe Tsebaote.",
+  "translation": "Hobane ho tloha ho tlhaho ea letsatsi ho fihlela ho ea ha lona, lebitso la ka le leholo hara dinaha; mme sebakeng se seng le se seng ho nkela mokhoa le ho tlatsoa ho lebitso la ka mpepo e hloekileng, hobane lebitso la ka le leholo hara dinaha, ho bolela Yahwe Tsebaote.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ממזרח",
-      "gloss": "ho tloha ho tlhaho ha"
+      "gloss": "ho tloha ho tlhaho ea letsatsi"
     },
     {
       "surface": "שמש",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מבואו",
-      "gloss": "ho khutla ha sona"
+      "gloss": "ho ea ha lona"
     },
     {
       "surface": "גדול",
-      "gloss": "le sehloho"
+      "gloss": "le leholo"
     },
     {
       "surface": "שמי",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "בגוים",
-      "gloss": "har'a merabe"
+      "gloss": "hara dinaha"
     },
     {
       "surface": "ובכל",
-      "gloss": "mme ho se seng le se seng sa"
+      "gloss": "mme sebakeng se seng le se seng"
     },
     {
       "surface": "מקום",
-      "gloss": "sebakeng"
+      "gloss": "sebaka"
     },
     {
       "surface": "מקטר",
-      "gloss": "mušo o tlatsoa"
+      "gloss": "ho nkela mokhoa"
     },
     {
       "surface": "מגש",
-      "gloss": "o hlahiswa"
+      "gloss": "le ho tlatsoa"
     },
     {
       "surface": "לשמי",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "ומנחה",
-      "gloss": "le minkha"
+      "gloss": "mpepo"
     },
     {
       "surface": "טהורה",
-      "gloss": "e hlotsoeng"
+      "gloss": "e hloekileng"
     },
     {
       "surface": "כי",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "גדול",
-      "gloss": "le sehloho"
+      "gloss": "le leholo"
     },
     {
       "surface": "שמי",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "בגוים",
-      "gloss": "har'a merabe"
+      "gloss": "hara dinaha"
     },
     {
       "surface": "אמר",
@@ -96,6 +96,6 @@
       "gloss": "Tsebaote"
     }
   ],
-  "timestamp": "2026-10-03T10:21:20.182891102Z",
+  "timestamp": "2026-10-03T20:19:57.724674325Z",
   "model": "glm-5.3"
 }

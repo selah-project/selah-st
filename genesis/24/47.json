@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "st",
   "chapter": 24,
-  "translation": "Mme ka botsa ⟨את⟩ eena, ka re: Ngoana oa mang ke wena? A re: Ngoana wa Betuele, mora wa Nakhore, yo Milke a mo tswetseng. Mme ka beha sebadi hodima nko ya hae, le dimpša hodima matsoho a hae.",
+  "translation": "Mme ke ile ka botsa ⟨את⟩ eena, ka re: Ke morwedi oa mang uena? Mme a re: Ke morwedi oa Betuele, mora Nakhore, eo Milka a mo tsoetseng; mme ke ile ka beha sehlabelo sekhohlong sa hae, le dikhamhanyetso diateng tsa hae.",
   "tokens": [
     {
       "surface": "ואשאל",
-      "gloss": "Mme ka botsa"
+      "gloss": "ka botsa"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "eena"
+      "gloss": "⟨את⟩ eena",
+      "marks": "eena (morwedi eo e botswang)"
     },
     {
       "surface": "ואמר",
@@ -22,23 +22,23 @@
     },
     {
       "surface": "בת",
-      "gloss": "Ngoana"
+      "gloss": "morwedi"
     },
     {
       "surface": "מי",
-      "gloss": "oa mang"
+      "gloss": "mang"
     },
     {
       "surface": "את",
-      "gloss": "ke wena"
+      "gloss": "uena"
     },
     {
       "surface": "ותאמר",
-      "gloss": "A re"
+      "gloss": "a re"
     },
     {
       "surface": "בת",
-      "gloss": "Ngoana wa"
+      "gloss": "morwedi"
     },
     {
       "surface": "בתואל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "mora wa"
+      "gloss": "mora"
     },
     {
       "surface": "נחור",
@@ -54,49 +54,49 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yo"
+      "gloss": "eo"
     },
     {
       "surface": "ילדה",
-      "gloss": "a mo tswetseng"
+      "gloss": "a mo tsoetseng"
     },
     {
       "surface": "לו",
-      "gloss": "mo"
+      "gloss": "ho eena"
     },
     {
       "surface": "מלכה",
-      "gloss": "Milke"
+      "gloss": "Milka"
     },
     {
       "surface": "ואשם",
-      "gloss": "Mme ka beha"
+      "gloss": "ka beha"
     },
     {
       "surface": "הנזם",
-      "gloss": "sebadi"
+      "gloss": "sehlabelo"
     },
     {
       "surface": "על",
-      "gloss": "hodima"
+      "gloss": "ho"
     },
     {
       "surface": "אפה",
-      "gloss": "nko ya hae"
+      "gloss": "sekhohlong sa hae"
     },
     {
       "surface": "והצמידים",
-      "gloss": "le dimpša"
+      "gloss": "dikhamhanyetso"
     },
     {
       "surface": "על",
-      "gloss": "hodima"
+      "gloss": "ho"
     },
     {
       "surface": "ידיה",
-      "gloss": "matsoho a hae"
+      "gloss": "diateng tsa hae"
     }
   ],
-  "timestamp": "2026-10-03T05:30:20.439377269Z",
+  "timestamp": "2026-10-03T20:05:40.293185523Z",
   "model": "glm-5.3"
 }

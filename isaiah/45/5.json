@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "st",
   "chapter": 45,
-  "translation": "Ke nna Yahwe, mme ha ho ⟨⟨e mong⟩⟩; ntle le nna ha ho Elohim; ke tla go ikentiša, empa o ne o sa tsebe nna.",
+  "translation": "Ke nna Yahwe, mme ha ho ⟨ho⟩ ena hape; ntle le nna ha ho Elohim. Ke ile ka ruilella ⟨את⟩ wena, mme wena ha ua ntseba.",
   "tokens": [
     {
       "surface": "אני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ואין",
-      "gloss": "mme ha ho ⟨⟨e mong⟩⟩"
+      "gloss": "mme ha ho"
     },
     {
       "surface": "עוד",
-      "gloss": "⟨e mong⟩"
+      "gloss": "hape"
     },
     {
       "surface": "זולתי",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "אאזרך",
-      "gloss": "ke tla go ikentiša"
+      "gloss": "Ke ile ka ruilella"
     },
     {
       "surface": "ולא",
-      "gloss": "empa ... sa"
+      "gloss": "mme ha ua"
     },
     {
       "surface": "ידעתני",
-      "gloss": "o ne o sa tsebe nna"
+      "gloss": "ntseba"
     }
   ],
-  "timestamp": "2026-10-03T08:52:25.435526521Z",
+  "timestamp": "2026-10-03T20:15:23.812635631Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "st",
   "chapter": 1,
-  "translation": "Mme Yahwe a ne a le le ⟨את⟩ Yehuda, mme a ba le ⟨את⟩ thaba; hobane ha a ka a khona ho felisa ⟨את⟩ ba duleng lehlakeng, hobane ba ne ba na le dikoloi tsa tšepe.",
+  "translation": "Mme Yahwe o ne a le le ⟨את⟩ Yehuda, mme ba e nka ⟨את⟩ thaba; hobane ba ne ba se ke ba kgetholla ⟨את⟩ baahi ba lehlakore, hobane ba ne ba na le dikoloi tsa tshipi.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "a ne a le"
+      "gloss": "Mme ... o ne a le"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ le",
+      "gloss": "⟨את⟩",
       "marks": "Yehuda"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "surface": "וירש",
-      "gloss": "a ba le"
+      "gloss": "mme ba e nka"
     },
     {
       "surface": "את",
@@ -43,24 +43,24 @@
     },
     {
       "surface": "לא",
-      "gloss": "ha a ka a khona ho"
+      "gloss": "ba se ke ba"
     },
     {
       "surface": "להוריש",
-      "gloss": "felisa"
+      "gloss": "kgetholla"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ba duleng lehlakeng"
+      "marks": "baahi ba lehlakore"
     },
     {
       "surface": "ישבי",
-      "gloss": "ba duleng"
+      "gloss": "baahi"
     },
     {
       "surface": "העמק",
-      "gloss": "lehlakeng"
+      "gloss": "ba lehlakore"
     },
     {
       "surface": "כי",
@@ -72,13 +72,13 @@
     },
     {
       "surface": "ברזל",
-      "gloss": "tsa tšepe"
+      "gloss": "tsa tshipi"
     },
     {
       "surface": "להם",
-      "gloss": "ba nang le tsona"
+      "gloss": "ba ne ba le le tsona"
     }
   ],
-  "timestamp": "2026-10-03T07:17:00.627975109Z",
+  "timestamp": "2026-10-03T20:10:24.504606620Z",
   "model": "glm-5.3"
 }

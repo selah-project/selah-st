@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "st",
   "chapter": 16,
-  "translation": "Ha ho leihlo le ileng la hloka mohau ho wena, ho etsa ho wena e le 'ngoe ya dintho tseo, ho ka u hlokolosa; empa o ile wa latlolwa holim'a sefathehi sa letša, ka ho hloileha ha moyao, ka letsatsi leo o tswetsweng ka lona.",
+  "translation": "Ha ho leihlo le ileng la hlokomela ⟨את⟩ wena ho etsa ho wena e le ’ngoe feela ho tsa tsona, ho ikgomotsa ho wena; mme wa otloloheloa sefahlehong sa seala, ka _go hloile_ ⟨mmele⟩ oa hao, ka letsatsi leo o tsoetsweng ka lona ⟨את⟩ wena.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "חסה",
-      "gloss": "la hloka mohau"
+      "gloss": "la hlokomela"
     },
     {
       "surface": "עליך",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "אחת",
-      "gloss": "e le 'ngoe"
+      "gloss": "e le ’ngoe"
     },
     {
       "surface": "מאלה",
-      "gloss": "ya dintho tseo"
+      "gloss": "ho tsa tsona"
     },
     {
       "surface": "לחמלה",
-      "gloss": "ho ka u hlokolosa"
+      "gloss": "ho ikgomotsa"
     },
     {
       "surface": "עליך",
@@ -49,27 +49,27 @@
     },
     {
       "surface": "ותשלכי",
-      "gloss": "empa o ile wa latlolwa"
+      "gloss": "mme wa otloloheloa"
     },
     {
       "surface": "אל",
-      "gloss": "holim'a"
+      "gloss": "ho"
     },
     {
       "surface": "פני",
-      "gloss": "sefathehi sa"
+      "gloss": "sefahlehong"
     },
     {
       "surface": "השדה",
-      "gloss": "letša"
+      "gloss": "sa seala"
     },
     {
       "surface": "בגעל",
-      "gloss": "ka ho hloileha ha"
+      "gloss": "ka go hloile"
     },
     {
       "surface": "נפשך",
-      "gloss": "moyao"
+      "gloss": "mmele oa hao"
     },
     {
       "surface": "ביום",
@@ -77,13 +77,14 @@
     },
     {
       "surface": "הלדת",
-      "gloss": "leo o tswetsweng ka lona"
+      "gloss": "la tsoetsweng"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
     }
   ],
-  "timestamp": "2026-10-03T13:04:52.344438833Z",
+  "timestamp": "2026-10-03T20:17:37.031797728Z",
   "model": "glm-5.3"
 }

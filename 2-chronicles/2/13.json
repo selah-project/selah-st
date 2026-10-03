@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "st",
   "chapter": 2,
-  "translation": "Mora mosadi, o tswang hara barwa ba Dane, mme ntatae monna wa Tsore, ya tsebang ho etsa ka gauta le ka Seleka, ka tšeng ya tongore, ka tšeleso, ka majwe le ka mehlare, ka argamane, ka tekhelete, ka butse le ka karmile; mme ho bula ponoho e nang le eohle le ho hlahisa mohopolo oohle, moo mong le mong a ka mo neang, le bahlalefi ba hao le bahlalefi ba monga ka, Dawide, ntata-hao.",
+  "translation": "Mora mosadi mongwe oa barasetsalele ba Dane, mme ntatae e ne e le monna oa Tshore, tsebang ho etsa ka gauta le ka serafi, ka tongore, ka tselesa, ka majwe le ka metse, ka poerpoere, ka tekelete, ka bousse, le ka karmile; le ho phahamisa sephahamiso se seng le se seng, le ho hlahisa mohlahiso o mong le o mong o tla mo nehiloeng, le bahlalefi ba hau le bahlalefi ba monga ka Dawide ntata-hau.",
   "tokens": [
     {
       "surface": "בן",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "o tswang hara"
+      "gloss": "oa"
     },
     {
       "surface": "בנות",
-      "gloss": "barwa ba"
+      "gloss": "barasetsalele"
     },
     {
       "surface": "דן",
-      "gloss": "Dane"
+      "gloss": "ba Dane"
     },
     {
       "surface": "ואביו",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "monna wa"
+      "gloss": "monna"
     },
     {
       "surface": "צרי",
-      "gloss": "Tsore"
+      "gloss": "oa Tshore"
     },
     {
       "surface": "יודע",
-      "gloss": "ya tsebang"
+      "gloss": "tsebang"
     },
     {
       "surface": "לעשות",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "ובכסף",
-      "gloss": "le ka Seleka"
+      "gloss": "le ka serafi"
     },
     {
       "surface": "בנחשת",
-      "gloss": "ka tšeng ya tongore"
+      "gloss": "ka tongore"
     },
     {
       "surface": "בברזל",
-      "gloss": "ka tšeleso"
+      "gloss": "ka tselesa"
     },
     {
       "surface": "באבנים",
@@ -69,19 +69,19 @@
     },
     {
       "surface": "ובעצים",
-      "gloss": "le ka mehlare"
+      "gloss": "le ka metse"
     },
     {
       "surface": "בארגמן",
-      "gloss": "ka argamane"
+      "gloss": "ka poerpoere"
     },
     {
       "surface": "בתכלת",
-      "gloss": "ka tekhelete"
+      "gloss": "ka tekelete"
     },
     {
       "surface": "ובבוץ",
-      "gloss": "ka butse"
+      "gloss": "ka bousse"
     },
     {
       "surface": "ובכרמיל",
@@ -89,15 +89,15 @@
     },
     {
       "surface": "ולפתח",
-      "gloss": "mme ho bula"
+      "gloss": "le ho phahamisa"
     },
     {
       "surface": "כל",
-      "gloss": "eohle"
+      "gloss": "se seng le se seng"
     },
     {
       "surface": "פתוח",
-      "gloss": "ponoho"
+      "gloss": "sephahamiso"
     },
     {
       "surface": "ולחשב",
@@ -105,19 +105,19 @@
     },
     {
       "surface": "כל",
-      "gloss": "oohle"
+      "gloss": "o mong le o mong"
     },
     {
       "surface": "מחשבת",
-      "gloss": "mohopolo"
+      "gloss": "mohlahiso"
     },
     {
       "surface": "אשר",
-      "gloss": "moo"
+      "gloss": "o"
     },
     {
       "surface": "ינתן",
-      "gloss": "a ka mo neang"
+      "gloss": "tla mo nehiloeng"
     },
     {
       "surface": "לו",
@@ -129,7 +129,7 @@
     },
     {
       "surface": "חכמיך",
-      "gloss": "bahlalefi ba hao"
+      "gloss": "bahlalefi ba hau"
     },
     {
       "surface": "וחכמי",
@@ -145,9 +145,9 @@
     },
     {
       "surface": "אביך",
-      "gloss": "ntata-hao"
+      "gloss": "ntata-hau"
     }
   ],
-  "timestamp": "2026-10-03T12:25:18.399964624Z",
+  "timestamp": "2026-10-03T20:26:34.896335644Z",
   "model": "glm-5.3"
 }

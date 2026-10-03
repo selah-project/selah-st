@@ -5,67 +5,67 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 9,
-  "translation": "Mme joalo ke tšere ⟨את⟩ liphoso tsa lōna, tseo le li etsitseng, ⟨את⟩ namane ea ngata, mme ke e chesitse ka molllo, mme ke e kotola, ke e fofolla haholo ho fihlela e sinyoha ho mohloli, mme ke lahla ⟨את⟩ mohloli wa yona ho nokwana e theohang ho tloha thabeng.",
+  "translation": "Mme ⟨את⟩ sepho sa lona, seo le seng la se etsa, ⟨את⟩ lenyane, ke ile ka se nka, mme ka se chesa ka mollong, mme ka se panya, ka se cheka hantle, ho fihlela se sinyeha ho ba thoro; mme ke ile ka lahla ⟨את⟩ thoro ya sona ho molapo o theohang ho tloha thabeng.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ joalo",
-      "marks": "liphoso tsa lōna"
+      "gloss": "⟨את⟩",
+      "marks": "sepho sa lona"
     },
     {
       "surface": "חטאתכם",
-      "gloss": "liphoso tsa lōna"
+      "gloss": "sepho sa lona"
     },
     {
       "surface": "אשר",
-      "gloss": "tseo"
+      "gloss": "seo"
     },
     {
       "surface": "עשיתם",
-      "gloss": "le li etsitseng"
+      "gloss": "le seng la se etsa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "namane ea ngata"
+      "marks": "lenyane"
     },
     {
       "surface": "העגל",
-      "gloss": "namane ea ngata"
+      "gloss": "lenyane"
     },
     {
       "surface": "לקחתי",
-      "gloss": "ke tšere"
+      "gloss": "ke ile ka se nka"
     },
     {
       "surface": "ואשרף",
-      "gloss": "mme ke e chesitse"
+      "gloss": "mme ka se chesa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ e",
-      "marks": "namane ea ngata"
+      "gloss": "⟨את⟩",
+      "marks": "mollo"
     },
     {
       "surface": "באש",
-      "gloss": "ka molllo"
+      "gloss": "ka mollong"
     },
     {
       "surface": "ואכת",
-      "gloss": "mme ke e kotola"
+      "gloss": "mme ka se panya"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ e",
-      "marks": "namane ea ngata"
+      "gloss": "⟨את⟩",
+      "marks": "ho cheka"
     },
     {
       "surface": "טחון",
-      "gloss": "ke e fofolla"
+      "gloss": "ka se cheka"
     },
     {
       "surface": "היטב",
-      "gloss": "haholo"
+      "gloss": "hantle"
     },
     {
       "surface": "עד",
@@ -73,28 +73,28 @@
     },
     {
       "surface": "אשר",
-      "gloss": "hore"
+      "gloss": "hoo"
     },
     {
       "surface": "דק",
-      "gloss": "e sinyoha"
+      "gloss": "se sinyeha"
     },
     {
       "surface": "לעפר",
-      "gloss": "ho mohloli"
+      "gloss": "ho ba thoro"
     },
     {
       "surface": "ואשלך",
-      "gloss": "mme ke lahla"
+      "gloss": "mme ka lahla"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mohloli wa yona"
+      "marks": "thoro ya sona"
     },
     {
       "surface": "עפרו",
-      "gloss": "mohloli wa yona"
+      "gloss": "thoro ya sona"
     },
     {
       "surface": "אל",
@@ -102,11 +102,11 @@
     },
     {
       "surface": "הנחל",
-      "gloss": "nokwana"
+      "gloss": "molapo"
     },
     {
       "surface": "הירד",
-      "gloss": "e theohang"
+      "gloss": "o theohang"
     },
     {
       "surface": "מן",
@@ -117,6 +117,6 @@
       "gloss": "thabeng"
     }
   ],
-  "timestamp": "2026-10-03T06:48:36.567897307Z",
+  "timestamp": "2026-10-03T20:51:23.682800727Z",
   "model": "glm-5.3"
 }

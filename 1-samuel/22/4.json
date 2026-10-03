@@ -5,36 +5,36 @@
   "book": "1-samuel",
   "lang": "st",
   "chapter": 22,
-  "translation": "A ba beha ⟨peling⟩ ya morena wa Moabe, mme ba dula ho yena matsatsi ohle a Dawide a neng a le bomatšope.",
+  "translation": "Mme a ba hlahisa ⟨את⟩ pele ho sefahleho sa morena wa Moabe, mme ba dula le yena matsatsi ohle a hore Dawide a le Setjha.",
   "tokens": [
     {
       "surface": "וינחם",
-      "gloss": "a ba beha"
+      "gloss": "a ba hlahisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "peling ya morena wa Moabe"
+      "marks": "sefahleho"
     },
     {
       "surface": "פני",
-      "gloss": "peling ya"
+      "gloss": "pele ho sefahleho sa"
     },
     {
       "surface": "מלך",
-      "gloss": "morena wa"
+      "gloss": "morena"
     },
     {
       "surface": "מואב",
-      "gloss": "Moabe"
+      "gloss": "wa Moabe"
     },
     {
       "surface": "וישבו",
-      "gloss": "ba dula"
+      "gloss": "mme ba dula"
     },
     {
       "surface": "עמו",
-      "gloss": "ho yena"
+      "gloss": "le yena"
     },
     {
       "surface": "כל",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "ימי",
-      "gloss": "matsatsi"
+      "gloss": "matsatsi a"
     },
     {
       "surface": "היות",
-      "gloss": "a neng a le"
+      "gloss": "a hore"
     },
     {
       "surface": "דוד",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "במצודה",
-      "gloss": "bomatšope"
+      "gloss": "a le Setjha"
     }
   ],
-  "timestamp": "2026-10-03T07:43:32.582446104Z",
+  "timestamp": "2026-10-03T20:11:31.794680483Z",
   "model": "glm-5.3"
 }

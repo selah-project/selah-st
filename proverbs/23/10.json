@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "st",
   "chapter": 23,
-  "translation": "O se ke wa tsamaisa mollô wa mehlolo ya khale, mme o se ke wa kena masimong a ditlharsedi.",
+  "translation": "O se ke wa tlosa mollong wa mehlolo, mme o se ke wa kena masimong a ba tlokelwang.",
   "tokens": [
     {
       "surface": "אל",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "תסג",
-      "gloss": "tsamaisa"
+      "gloss": "tlosa"
     },
     {
       "surface": "גבול",
-      "gloss": "mollô wa mehlolo"
+      "gloss": "mollong"
     },
     {
       "surface": "עולם",
-      "gloss": "ya khale"
+      "gloss": "wa mehlolo"
     },
     {
       "surface": "ובשדי",
-      "gloss": "mme masimong a"
+      "gloss": "mme ... masimong a"
     },
     {
       "surface": "יתומים",
-      "gloss": "ditlharsedi"
+      "gloss": "ba tlokelwang"
     },
     {
       "surface": "אל",
@@ -40,6 +40,6 @@
       "gloss": "kena"
     }
   ],
-  "timestamp": "2026-10-03T11:15:32.204683333Z",
+  "timestamp": "2026-10-03T20:33:47.343922121Z",
   "model": "glm-5.3"
 }

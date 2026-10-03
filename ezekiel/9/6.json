@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "st",
   "chapter": 9,
-  "translation": "Motswere, moshanyana, le ngwetsana, le bana ba banyane, le basadi — bolayang ho fihlela ho timetso; empa ho motho ofe kapa ofe ya nang le ⟨⟨⟩>tšoao, le se ke la atamela; mme qalang ho tloha lehalaleleng la ka. Ba qala ka banna baholo ba neng ba eme pele ga ntlo.",
+  "translation": "Moqheku, moshanyana, le ntshwananahana, le bana ba manyane, le basadi — di bolae ho fihlela ho timetso; mme ho monna ya mong le ya mong ya nang le ⟨את⟩ letshoao pele, le se ke la atamela; mme ho tloha ⟨ה⟩ tempeleng ya ka ya halalelang le qale. Ba qala ka banna ba baholo ba neng ba sebedisa pela ⟨ה⟩ ntlo.",
   "tokens": [
     {
       "surface": "זקן",
-      "gloss": "Motswere"
+      "gloss": "moqheku"
     },
     {
       "surface": "בחור",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ובתולה",
-      "gloss": "le ngwetsana"
+      "gloss": "le ntshwananahana"
     },
     {
       "surface": "וטף",
-      "gloss": "le bana ba banyane"
+      "gloss": "le bana ba manyane"
     },
     {
       "surface": "ונשים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תהרגו",
-      "gloss": "bolayang"
+      "gloss": "di bolae"
     },
     {
       "surface": "למשחית",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ועל",
-      "gloss": "empa ho"
+      "gloss": "mme ho"
     },
     {
       "surface": "כל",
-      "gloss": "ofe kapa ofe"
+      "gloss": "ya mong le ya mong"
     },
     {
       "surface": "איש",
-      "gloss": "motho"
+      "gloss": "monna"
     },
     {
       "surface": "אשר",
@@ -57,35 +57,35 @@
     },
     {
       "surface": "התו",
-      "gloss": "tšoao"
+      "gloss": "letshoao pele"
     },
     {
       "surface": "אל",
-      "gloss": "le se ke"
+      "gloss": "le se ke la"
     },
     {
       "surface": "תגשו",
-      "gloss": "la atamela"
+      "gloss": "atamela"
     },
     {
       "surface": "וממקדשי",
-      "gloss": "mme qalang ho tloha lehalaleleng la ka"
+      "gloss": "mme ho tloha tempeleng ya ka ya halalelang"
     },
     {
       "surface": "תחלו",
-      "gloss": "qalang"
+      "gloss": "le qale"
     },
     {
       "surface": "ויחלו",
-      "gloss": "Ba qala"
+      "gloss": "ba qala ka"
     },
     {
       "surface": "באנשים",
-      "gloss": "ka banna"
+      "gloss": "banna"
     },
     {
       "surface": "הזקנים",
-      "gloss": "baholo"
+      "gloss": "ba baholo"
     },
     {
       "surface": "אשר",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "לפני",
-      "gloss": "pele ga"
+      "gloss": "pela"
     },
     {
       "surface": "הבית",
       "gloss": "ntlo"
     }
   ],
-  "timestamp": "2026-10-03T09:36:40.719029934Z",
+  "timestamp": "2026-10-03T20:17:16.357620795Z",
   "model": "glm-5.3"
 }

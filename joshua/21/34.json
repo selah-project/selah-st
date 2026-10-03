@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "st",
   "chapter": 21,
-  "translation": "Mme ho malapa a bana ba Merari, baluti ba tsitsitseng, ho tswa mmateng wa Zebulune: ⟨את⟩ Yokneame le ⟨את⟩ migraša wa yona, ⟨את⟩ Kartahe le ⟨את⟩ migraša wa yona.",
+  "translation": "Mme ho malapa a bana ba Merari, Balevi ba setseng, ho tloha ho ⟨את⟩ mohumo wa Zebulune: ⟨את⟩ Yokneame le ⟨את⟩ boalo ba yona, ⟨את⟩ Kartaha le ⟨את⟩ boalo ba yona.",
   "tokens": [
     {
       "surface": "ולמשפחות",
-      "gloss": "Mme ho malapa"
+      "gloss": "mme ho malapa"
     },
     {
       "surface": "בני",
@@ -21,23 +21,24 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "baluti"
+      "gloss": "Balevi"
     },
     {
       "surface": "הנותרים",
-      "gloss": "ba tsitsitseng"
+      "gloss": "ba setseng"
     },
     {
       "surface": "מאת",
-      "gloss": "ho tswa ⟨את⟩"
+      "gloss": "ho tloha ho ⟨את⟩",
+      "marks": "mohumo wa Zebulune"
     },
     {
       "surface": "מטה",
-      "gloss": "mmate"
+      "gloss": "mohumo"
     },
     {
       "surface": "זבולן",
-      "gloss": "wa Zebulune"
+      "gloss": "Zebulune"
     },
     {
       "surface": "את",
@@ -51,31 +52,31 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "migraša wa yona"
+      "marks": "boalo ba yona"
     },
     {
       "surface": "מגרשה",
-      "gloss": "migraša wa yona"
+      "gloss": "boalo ba yona"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kartahe"
+      "marks": "Kartaha"
     },
     {
       "surface": "קרתה",
-      "gloss": "Kartahe"
+      "gloss": "Kartaha"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "migraša wa yona"
+      "marks": "boalo ba yona"
     },
     {
       "surface": "מגרשה",
-      "gloss": "migraša wa yona"
+      "gloss": "boalo ba yona"
     }
   ],
-  "timestamp": "2026-10-03T07:14:13.676775094Z",
+  "timestamp": "2026-10-03T20:11:10.671966002Z",
   "model": "glm-5.3"
 }

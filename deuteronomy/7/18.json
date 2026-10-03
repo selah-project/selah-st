@@ -5,40 +5,40 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 7,
-  "translation": "O se ke wa tšoha ho tsona; o tla hopola haholo ⟨את⟩ seo Yahwe Elohim ea hao o se entseng ho Faro le ho Mitsrayime kaofela.",
+  "translation": "O se ke wa ba tsaba; hopola ka tlhofo hore na Yahwe Elohim ya hao o enteng ⟨את⟩ se entsweng ho Faro le ho Mitsrayime kaofela.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "O se ke wa"
+      "gloss": "o se ke wa"
     },
     {
       "surface": "תירא",
-      "gloss": "tšoha"
+      "gloss": "tsaba"
     },
     {
       "surface": "מהם",
-      "gloss": "ho tsona"
+      "gloss": "ba"
     },
     {
       "surface": "זכר",
-      "gloss": "o tla hopola"
+      "gloss": "hopola"
     },
     {
       "surface": "תזכר",
-      "gloss": "haholo"
+      "gloss": "ka tlhofo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "seo Faro le Mitsrayime kaofela"
+      "marks": "se entsweng"
     },
     {
       "surface": "אשר",
-      "gloss": "seo"
+      "gloss": "hore na"
     },
     {
       "surface": "עשה",
-      "gloss": "o se entseng"
+      "gloss": "o enteng"
     },
     {
       "surface": "יהוה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim ea hao"
+      "gloss": "Elohim ya hao"
     },
     {
       "surface": "לפרעה",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "le ho kaofela"
+      "gloss": "le ho"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayime"
+      "gloss": "Mitsrayime kaofela"
     }
   ],
-  "timestamp": "2026-10-03T06:48:25.282527047Z",
+  "timestamp": "2026-10-03T20:08:58.781409978Z",
   "model": "glm-5.3"
 }

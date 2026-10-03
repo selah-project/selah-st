@@ -5,23 +5,23 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 20,
-  "translation": "Mme batsebi ba tla eketsa ho bua le setjhaba, mme ba tla re: Ke motho ofe ya tšaboang mme a nang le pelo e bokolo? A tsamaee a boele hae, hore pelo ya baetaledi ba hae e se ke ea nyamala ea ba ea ts'oana le ya hae.",
+  "translation": "Mme batsamaisi ba eketsa ho bolela ho setjhaba, mme ba re: Ke mang ya mong ka sebakeng sa motho ea tshabang le ea nang le pelo e buthali? A ee a boele hae, hore pelo ya bahae-ka e se ke ea nyamela tshwanang le pela ya hae.",
   "tokens": [
     {
       "surface": "ויספו",
-      "gloss": "mme ba tla eketsa"
+      "gloss": "ba eketsa"
     },
     {
       "surface": "השטרים",
-      "gloss": "batsebi"
+      "gloss": "batsamaisi"
     },
     {
       "surface": "לדבר",
-      "gloss": "ho bua"
+      "gloss": "ho bolela"
     },
     {
       "surface": "אל",
-      "gloss": "le"
+      "gloss": "ho"
     },
     {
       "surface": "העם",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "ואמרו",
-      "gloss": "mme ba tla re"
+      "gloss": "mme ba re"
     },
     {
       "surface": "מי",
-      "gloss": "ofe"
+      "gloss": "ke mang"
     },
     {
       "surface": "האיש",
-      "gloss": "ke motho"
+      "gloss": "motho"
     },
     {
       "surface": "הירא",
-      "gloss": "ya tšaboang"
+      "gloss": "ea tshabang"
     },
     {
       "surface": "ורך",
-      "gloss": "mme a nang le pelo e bokolo"
+      "gloss": "le ea buthala"
     },
     {
       "surface": "הלבב",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ילך",
-      "gloss": "a tsamaee"
+      "gloss": "a ee"
     },
     {
       "surface": "וישב",
@@ -65,16 +65,16 @@
     },
     {
       "surface": "ולא",
-      "gloss": "hore e se ke"
+      "gloss": "hore... e se ke"
     },
     {
       "surface": "ימס",
-      "gloss": "ea nyamala"
+      "gloss": "ea nyamela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pelo"
+      "marks": "pelo ya bahae-ka"
     },
     {
       "surface": "לבב",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "ya baetaledi ba hae"
+      "gloss": "ya bahae-ka"
     },
     {
       "surface": "כלבבו",
-      "gloss": "ea ts'oana le ya hae"
+      "gloss": "tshwanang le pelo ya hae"
     }
   ],
-  "timestamp": "2026-10-03T06:55:32.557200273Z",
+  "timestamp": "2026-10-03T20:09:55.316795809Z",
   "model": "glm-5.3"
 }

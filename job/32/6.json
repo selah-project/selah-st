@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "st",
   "chapter": 32,
-  "translation": "Mme Elihu, mora wa Barakele, Mmuzi, a araba a re: Ke monyane ka matsatsi, mme lona ke baholo; kahoo ke ile ka ts'oarelehela hle, ka tšaba ho bontša ho lona ⟨אתכם⟩ tsebo ya ka.",
+  "translation": "Mme Elihue, mora Barakele, wa Mmuzi, a araba, a re: Ke monyane ka matsatsi, mme lona ke baholo; ka moo ke ile ka tsehla, ka tsaba ho le hlalosa tsebo ya ka ⟨את⟩ lona.",
   "tokens": [
     {
       "surface": "ויען",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אליהוא",
-      "gloss": "Elihu"
+      "gloss": "Elihue"
     },
     {
       "surface": "בן",
-      "gloss": "mora wa"
+      "gloss": "mora"
     },
     {
       "surface": "ברכאל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הבוזי",
-      "gloss": "Mmuzi"
+      "gloss": "wa Mmuzi"
     },
     {
       "surface": "ויאמר",
@@ -33,18 +33,18 @@
     },
     {
       "surface": "צעיר",
-      "gloss": "Ke monyane"
+      "gloss": "monyane"
     },
     {
       "surface": "אני",
-      "gloss": "Nna"
+      "gloss": "ke"
     },
     {
       "surface": "לימים",
       "gloss": "ka matsatsi"
     },
     {
-      "surface": "ו אתם",
+      "surface": "ואתם",
       "gloss": "mme lona"
     },
     {
@@ -53,23 +53,23 @@
     },
     {
       "surface": "על",
-      "gloss": "kahoo"
+      "gloss": "ka"
     },
     {
       "surface": "כן",
-      "gloss": "kahoo"
+      "gloss": "moo"
     },
     {
       "surface": "זחלתי",
-      "gloss": "ke ile ka ts'oarelehela hle"
+      "gloss": "ke ile ka tsehla"
     },
     {
       "surface": "ואירא",
-      "gloss": "ka tšaba"
+      "gloss": "ka tsaba"
     },
     {
       "surface": "מחות",
-      "gloss": "ho bontša"
+      "gloss": "ho le hlalosa"
     },
     {
       "surface": "דעי",
@@ -77,10 +77,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "ho lona"
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
     }
   ],
-  "timestamp": "2026-10-03T11:30:07.611660740Z",
+  "timestamp": "2026-10-03T20:27:53.923663298Z",
   "model": "glm-5.3"
 }

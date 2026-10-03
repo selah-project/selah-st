@@ -5,27 +5,27 @@
   "book": "exodus",
   "lang": "st",
   "chapter": 39,
-  "translation": "Mme ho tloha ho tekhelelet, bohalibohali le tola'at bohibidu ba etsa diaparo tsa tšebediso, ho etsa mosebetsi se halaleleng; mme ba etsa ⟨את⟩ diaparo tse halalelang tsa Aharone, jwalo ka ha Yahwe a laetse ⟨את⟩ Moshe.",
+  "translation": "Mme ho tloha ho ⟨the⟩ tjhelete ya leholimo, le argamane, le tokoloho ya bosehla ba Sekene, ba etsa diaparo tsa ho direla bakeng sa ho direla sehalalelong; mme ba etsa ⟨את⟩ diaparo tsa sehalalelo tsa Aharone, jwalo ka ha Yahwe a laela ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "mme ho tloha ho"
+      "gloss": "Mme ho tloha ho"
     },
     {
       "surface": "התכלת",
-      "gloss": "tekhelelet"
+      "gloss": "tjhelete ya leholimo"
     },
     {
       "surface": "והארגמן",
-      "gloss": "le bohalibohali"
+      "gloss": "le argamane"
     },
     {
       "surface": "ותולעת",
-      "gloss": "le tola'at"
+      "gloss": "le tokoloho ya"
     },
     {
       "surface": "השני",
-      "gloss": "bohibidu"
+      "gloss": "bosehla ba Sekene"
     },
     {
       "surface": "עשו",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "diaparo tsa"
+      "gloss": "diaparo"
     },
     {
       "surface": "שרד",
-      "gloss": "tšebediso"
+      "gloss": "tsa ho direla"
     },
     {
       "surface": "לשרת",
-      "gloss": "ho etsa mosebetsi"
+      "gloss": "bakeng sa ho direla"
     },
     {
       "surface": "בקדש",
-      "gloss": "se halaleleng"
+      "gloss": "sehalalelong"
     },
     {
       "surface": "ויעשו",
@@ -54,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "diaparo"
+      "marks": "diaparo tsa sehalalelo tsa Aharone"
     },
     {
       "surface": "בגדי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "tse halalelang"
+      "gloss": "tsa sehalalelo"
     },
     {
       "surface": "אשר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "a laetse"
+      "gloss": "a laela"
     },
     {
       "surface": "יהוה",
@@ -94,6 +94,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-10-03T06:02:40.823494179Z",
+  "timestamp": "2026-10-03T20:07:13.398595920Z",
   "model": "glm-5.3"
 }

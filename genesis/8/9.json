@@ -5,19 +5,19 @@
   "book": "genesis",
   "lang": "st",
   "chapter": 8,
-  "translation": "Mme lephono la sa fumane phomolo bakeng sa lekapana la maoto a lona, mme la khutlela ho yena, ho araka, hobane metsi e ne e le hodima sefahleho sa lefatshe lohle; mme a ntša letsoho la hae, a nka ⟨את⟩ e, mme a e kgutlisa ho yena, ho araka.",
+  "translation": "Mme lekhooa le ile la hlolela ho fumana phomolo ho sefuba sa maoto a lona, mme la khutlela ho yena, ho araka, hobane metsi e ne e le hodima sefahleho sa lefatshe lohle; mme o ile a tloloa letsoho la hae, mme a e nka, mme a e kenella ho yena, ho araka, ⟨את⟩ yena.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "mme ... sa"
+      "gloss": "mme ... ha"
     },
     {
       "surface": "מצאה",
-      "gloss": "la fumane"
+      "gloss": "la hlolela ho fumana"
     },
     {
       "surface": "היונה",
-      "gloss": "lephono"
+      "gloss": "lekhooa"
     },
     {
       "surface": "מנוח",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לכף",
-      "gloss": "bakeng sa lekapana"
+      "gloss": "ho sefuba"
     },
     {
       "surface": "רגלה",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨ה⟩ lefatshe"
+      "gloss": "lefatshe"
     },
     {
       "surface": "וישלח",
-      "gloss": "mme a ntša"
+      "gloss": "mme o ile a tloloa"
     },
     {
       "surface": "ידו",
@@ -81,16 +81,16 @@
     },
     {
       "surface": "ויקחה",
-      "gloss": "a nka"
+      "gloss": "mme a e nka"
     },
     {
       "surface": "ויבא",
-      "gloss": "mme a e kgutlisa"
+      "gloss": "mme a e kenella"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "e (lephono)"
+      "marks": "yena (lekhooa)"
     },
     {
       "surface": "אליו",
@@ -105,6 +105,6 @@
       "gloss": "araka"
     }
   ],
-  "timestamp": "2026-10-03T05:20:57.709174332Z",
+  "timestamp": "2026-10-03T20:50:55.841393343Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "st",
   "chapter": 9,
-  "translation": "Ba se ke ba tloša ho yona ho fihlela hoseng, mme lentho ba se ke ba e tlola ho yona; ka molao ohle wa Paseka ba tla e etsa ⟨את⟩.",
+  "translation": "Ba se ke ba siea se seng sa sona ho fihlela hoseng, mme le makgalo a lona ba se ke a a tlodisa; ka molaohle wa Paseka ba tla etsa ⟨את⟩ yona.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Ba se ke"
+      "gloss": "ba se ke"
     },
     {
       "surface": "ישאירו",
-      "gloss": "ba tloša"
+      "gloss": "ba siea"
     },
     {
       "surface": "ממנו",
-      "gloss": "ho yona"
+      "gloss": "sa sona"
     },
     {
       "surface": "עד",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "ועצם",
-      "gloss": "mme lentho"
+      "gloss": "mme le makgalo"
     },
     {
       "surface": "לא",
-      "gloss": "ba se ke ba e tlola"
+      "gloss": "ba se ke"
     },
     {
       "surface": "ישברו",
-      "gloss": "ba e tlola"
+      "gloss": "a tlodisa"
     },
     {
       "surface": "בו",
-      "gloss": "ho yona"
+      "gloss": "a lona"
     },
     {
       "surface": "ככל",
-      "gloss": "ka ohle"
+      "gloss": "ka molaohle"
     },
     {
       "surface": "חקת",
@@ -57,14 +57,14 @@
     },
     {
       "surface": "יעשו",
-      "gloss": "ba tla e etsa"
+      "gloss": "ba tla etsa"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "e (Paseka)"
+      "marks": "yona (Paseka)"
     }
   ],
-  "timestamp": "2026-10-03T06:27:25.436873361Z",
+  "timestamp": "2026-10-03T20:07:38.375079680Z",
   "model": "glm-5.3"
 }

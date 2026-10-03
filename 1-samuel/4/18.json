@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "st",
   "chapter": 4,
-  "translation": "Mme e bile ha a bula ⟨את⟩ arekone ya Elohim, a oela setulong ka morao, ka ho ya ho le letšehali la tokelo, mme molala wa hae wa tlōleha, a ea bolawa; hobane monna e ne e se mogolo wa dilemo, e boima. Mme o ile a ahlola ⟨את⟩ Yisraele dilemo di mashome a mane.",
+  "translation": "Mme e bile ha a bolela ka ⟨את⟩ arka ya Elohim, a wela fatshe setulong, ka morao, lehlakoreng la sebakeng; mme molala wa hae a thuntsha, mme a shwa, hobane monna eo o ne o se mosala mme o boima; mme yena o ne a ahlola ⟨את⟩ Yisraele dilemo tse mashome a mane.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "כהזכירו",
-      "gloss": "ha a bula"
+      "gloss": "ha a bolela ka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arekone ya Elohim"
+      "marks": "arka ya Elohim"
     },
     {
       "surface": "ארון",
-      "gloss": "arekone"
+      "gloss": "arka"
     },
     {
       "surface": "האלהים",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "ויפל",
-      "gloss": "a oela"
+      "gloss": "a wela"
     },
     {
       "surface": "מעל",
-      "gloss": "ho tloha"
+      "gloss": "fatshe ho"
     },
     {
       "surface": "הכסא",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "בעד",
-      "gloss": "ka ho ya ho le letšehali la"
+      "gloss": "lehlakoreng la"
     },
     {
       "surface": "יד",
-      "gloss": "tokelo"
+      "gloss": "lehlakoreng"
     },
     {
       "surface": "השער",
-      "gloss": "tokelo"
+      "gloss": "sebakeng"
     },
     {
       "surface": "ותשבר",
-      "gloss": "wa tlōleha"
+      "gloss": "a thuntsha"
     },
     {
       "surface": "מפרקתו",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "וימת",
-      "gloss": "a ea bolawa"
+      "gloss": "a shwa"
     },
     {
       "surface": "כי",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "זקן",
-      "gloss": "e se mogolo wa dilemo"
+      "gloss": "o se mosala"
     },
     {
       "surface": "האיש",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "וכבד",
-      "gloss": "e boima"
+      "gloss": "mme o boima"
     },
     {
       "surface": "והוא",
-      "gloss": "Mme o ile"
+      "gloss": "mme yena"
     },
     {
       "surface": "שפט",
@@ -103,13 +103,13 @@
     },
     {
       "surface": "ארבעים",
-      "gloss": "di mashome a mane"
+      "gloss": "tse mashome a mane"
     },
     {
       "surface": "שנה",
       "gloss": "dilemo"
     }
   ],
-  "timestamp": "2026-10-03T07:33:37.401896077Z",
+  "timestamp": "2026-10-03T20:12:23.563984297Z",
   "model": "glm-5.3"
 }

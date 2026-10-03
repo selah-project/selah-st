@@ -5,24 +5,24 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 31,
-  "translation": "Laolang se buka sa Torah ena, mme e behele ka thoko ya Arone ya selekane sa Yahwe Elohim ya lona, e tla dula teng bakeng sa lona e le paki ho fihlela bosetšhaba.",
+  "translation": "Lae ⟨את⟩ puku ya Torah ena, mme e behe ⟨אתו⟩ lehlakoreng la arene ya selekane sa Yahwe Elohim ya lona; mme e tla dula moo ho lona ho sa feleng.",
   "tokens": [
     {
       "surface": "לקח",
-      "gloss": "Laolang"
+      "gloss": "Lae"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "se buka sa Torah ena"
+      "marks": "puku ya Torah ena"
     },
     {
       "surface": "ספר",
-      "gloss": "se buka"
+      "gloss": "puku"
     },
     {
       "surface": "התורה",
-      "gloss": "sa Torah ena"
+      "gloss": "ya Torah"
     },
     {
       "surface": "הזה",
@@ -30,19 +30,20 @@
     },
     {
       "surface": "ושמתם",
-      "gloss": "e behele"
+      "gloss": "mme e behe"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ e"
+      "gloss": "⟨אתו⟩",
+      "marks": "lehlakoreng la arene"
     },
     {
       "surface": "מצד",
-      "gloss": "ka thoko ya"
+      "gloss": "lehlakoreng"
     },
     {
       "surface": "ארון",
-      "gloss": "Arone"
+      "gloss": "la arene"
     },
     {
       "surface": "ברית",
@@ -58,21 +59,21 @@
     },
     {
       "surface": "והיה",
-      "gloss": "e tla dula"
+      "gloss": "mme e tla dula"
     },
     {
       "surface": "שם",
-      "gloss": "teng"
+      "gloss": "moo"
     },
     {
       "surface": "בך",
-      "gloss": "bakeng sa lona"
+      "gloss": "ho lona"
     },
     {
       "surface": "לעד",
-      "gloss": "ho fihlela bosetšhaba"
+      "gloss": "ho sa feleng"
     }
   ],
-  "timestamp": "2026-10-03T07:02:17.759701235Z",
+  "timestamp": "2026-10-03T20:09:45.429907676Z",
   "model": "glm-5.3"
 }

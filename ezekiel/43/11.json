@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "st",
   "chapter": 43,
-  "translation": "Eaba haeba ba tlotlolla ka tsohle tseo ba li entseng, sebopeho sa ntlo le tekanyo ea eona le lintlha tsa eona tse ntšoang le tse kenoang, le lipopeho tsa eona tsohle, le ⟨את⟩ melao ea eona eohle, le lipopeho tsa eona tsohle le Torah ea eona, e tsebise, mme o ngole pele maetong a bona, e be ba boloke ⟨את⟩ sebopeho sa eona sohle le ⟨את⟩ melao ea eona eohle, mme ba li sebetse.",
+  "translation": "Mme haeba ba tlotla ka tsohle tseo ba li entseng, sebopeho sa ntlo, le tekanyo ea eona, le litsoho tsa eona, le maemong a eona, le sebopeho sa eona sohle, le ⟨את⟩ melao ea eona eohle, le sebopeho sa eona sohle, le Toraha ea eona — ba tsebise, mme o ngole ka mahong a bona, e be ba boloke ⟨את⟩ sebopeho sa eona sohle le ⟨את⟩ melao ea eona eohle, mme ba se ke ba tlosa eona.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Eaba haeba"
+      "gloss": "Mme haeba"
     },
     {
       "surface": "נכלמו",
-      "gloss": "ba tlotlolla"
+      "gloss": "ba tlotla"
     },
     {
       "surface": "מכל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ומוצאיו",
-      "gloss": "le lintlha tsa eona tse ntšoang"
+      "gloss": "le litsoho tsa eona"
     },
     {
       "surface": "ומובאיו",
-      "gloss": "le tse kenoang"
+      "gloss": "le maemong a eona"
     },
     {
       "surface": "וכל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "צורתו",
-      "gloss": "lipopeho tsa eona tsohle"
+      "gloss": "sebopeho sa eona sohle"
     },
     {
       "surface": "ואת",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "eohle ya"
+      "gloss": "eohle"
     },
     {
       "surface": "חקתיו",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "צורתי",
-      "gloss": "lipopeho tsa eona tsohle"
+      "gloss": "sebopeho sa eona sohle"
     },
     {
       "surface": "וכל",
@@ -82,16 +82,15 @@
     },
     {
       "surface": "תורתו",
-      "gloss": "Torah ea eona"
+      "gloss": "Toraha ea eona"
     },
     {
       "surface": "הודע",
-      "gloss": "e tsebise"
+      "gloss": "ba tsebise"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ eona",
-      "marks": ""
+      "gloss": "⟨את⟩ eona"
     },
     {
       "surface": "וכתב",
@@ -99,7 +98,7 @@
     },
     {
       "surface": "לעיניהם",
-      "gloss": "pele maetong a bona"
+      "gloss": "ka mahong a bona"
     },
     {
       "surface": "וישמרו",
@@ -112,7 +111,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "sohle sa"
+      "gloss": "sohle"
     },
     {
       "surface": "צורתו",
@@ -125,7 +124,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "eohle ya"
+      "gloss": "eohle"
     },
     {
       "surface": "חקתיו",
@@ -133,14 +132,13 @@
     },
     {
       "surface": "ועשו",
-      "gloss": "mme ba li sebetse"
+      "gloss": "mme ba etseng"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ li",
-      "marks": ""
+      "gloss": "⟨את⟩ eona"
     }
   ],
-  "timestamp": "2026-10-03T09:55:49.819531767Z",
+  "timestamp": "2026-10-03T20:33:49.073615389Z",
   "model": "glm-5.3"
 }

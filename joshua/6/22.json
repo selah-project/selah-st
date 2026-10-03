@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "st",
   "chapter": 6,
-  "translation": "Mme ho banna ba babeli ba neng ba lodišitse ⟨את⟩ lefatshe, Yehoshua a re: Tsena lapeng la mosadi wa bohlaha, mme tlisang moo ⟨את⟩ mosadi le ⟨את⟩ tsohle tsa hae, jwalo ka ha le ile la ikana ho yena.",
+  "translation": "Mme ho banna ba babeli ba iletseng ⟨את⟩ lefatshe, Yehoshua o ile a re: Kenang ntlong ya mosadi wa bohlola, mme hlahisang moo ⟨את⟩ mosadi le ⟨את⟩ tsohle tsa hae, jwalo ka ha le ile la mo ikana.",
   "tokens": [
     {
       "surface": "ולשנים",
-      "gloss": "ho banna ba babeli"
+      "gloss": "ho ba babeli"
     },
     {
       "surface": "האנשים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המרגלים",
-      "gloss": "ba lodišitse"
+      "gloss": "ba iletseng"
     },
     {
       "surface": "את",
@@ -38,23 +38,23 @@
     },
     {
       "surface": "באו",
-      "gloss": "Tsena"
+      "gloss": "Kenang"
     },
     {
       "surface": "בית",
-      "gloss": "lapeng la"
+      "gloss": "ntlong"
     },
     {
       "surface": "האשה",
-      "gloss": "mosadi"
+      "gloss": "ya mosadi"
     },
     {
       "surface": "הזונה",
-      "gloss": "wa bohlaha"
+      "gloss": "wa bohlola"
     },
     {
       "surface": "והוציאו",
-      "gloss": "mme tlisang moo"
+      "gloss": "mme hlahisang"
     },
     {
       "surface": "משם",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "le ⟨את⟩",
       "marks": "tsohle tsa hae"
     },
     {
@@ -80,11 +80,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "tsa"
+      "gloss": "tse"
     },
     {
       "surface": "לה",
-      "gloss": "hae"
+      "gloss": "sa hae"
     },
     {
       "surface": "כאשר",
@@ -96,9 +96,9 @@
     },
     {
       "surface": "לה",
-      "gloss": "ho yena"
+      "gloss": "mo"
     }
   ],
-  "timestamp": "2026-10-03T07:06:40.723779220Z",
+  "timestamp": "2026-10-03T20:32:44.727067622Z",
   "model": "glm-5.3"
 }

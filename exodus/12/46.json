@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "st",
   "chapter": 12,
-  "translation": "Ka tlung e le nngwe e tla jelwa; o se ke wa ntša nama ntlong, o e ntše ka ntle; mme le thambo le se ke la e phanya ho eona.",
+  "translation": "Ka tlung e le nngwe e tla ja ⟨את⟩; o se ke wa ntsha ntho e le nngwe ya nama eo ka ntle ho tlwaelo; mme o se ke wa thlontsa lefatshe ka thoko, le atho ya lefatshe le ka hare.",
   "tokens": [
     {
       "surface": "בבית",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "e tla jelwa"
+      "gloss": "e tla ja"
     },
     {
       "surface": "לא",
@@ -25,45 +25,45 @@
     },
     {
       "surface": "תוציא",
-      "gloss": "ntša"
-    },
-    {
-      "surface": "מן",
-      "gloss": ""
-    },
-    {
-      "surface": "הבית",
-      "gloss": "ntlong"
+      "gloss": "ntsha"
     },
     {
       "surface": "מן",
       "gloss": "ho"
     },
     {
+      "surface": "הבית",
+      "gloss": "ntle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "le"
+    },
+    {
       "surface": "הבשר",
-      "gloss": "nama"
+      "gloss": "nama eo"
     },
     {
       "surface": "חוצה",
-      "gloss": "ka ntle"
+      "gloss": "ka thoko"
     },
     {
       "surface": "ועצם",
-      "gloss": "mme le thambo"
+      "gloss": "le atho"
     },
     {
       "surface": "לא",
-      "gloss": "le se ke la e"
+      "gloss": "o se ke wa"
     },
     {
       "surface": "תשברו",
-      "gloss": "phanya"
+      "gloss": "tlontsa"
     },
     {
       "surface": "בו",
-      "gloss": "ho eona"
+      "gloss": "ka hare"
     }
   ],
-  "timestamp": "2026-10-03T05:48:24.641360045Z",
+  "timestamp": "2026-10-03T20:31:14.102849927Z",
   "model": "glm-5.3"
 }

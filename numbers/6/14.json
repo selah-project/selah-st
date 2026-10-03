@@ -5,20 +5,20 @@
   "book": "numbers",
   "lang": "st",
   "chapter": 6,
-  "translation": "mme o tla isa ⟨את⟩ mpho ea hae ho Yahwe: pooa ea selemo sa eona, e feletseng, e le 'ngoe, bakeng sa sehole sa ho chesa; le nku ea tšeano e 'ngoe, ea selemo sa eona, e feletseng, bakeng sa sehole sa sebe; le ramu e le 'ngoe, e feletseng, bakeng sa mehole ya kagiso.",
+  "translation": "Mme o tla hlahisa ⟨את⟩ sehlabelo sa hae ho Yahwe: nku e ngoana ya selemo sa yona, e feletseng, e le nngwe, bakeng sa sehlabelo sa tjhesetso, le nku ya sehlabelo e nngwe, moradi wa selemo sa yona, e feletseng, bakeng sa sehlabelo sa sebe, le puna e le nngwe, e feletseng, bakeng sa mehlabelo ya khotso.",
   "tokens": [
     {
       "surface": "והקריב",
-      "gloss": "mme o tla isa"
+      "gloss": "o tla hlahisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mpho ea hae"
+      "marks": "sehlabelo sa hae"
     },
     {
       "surface": "קרבנו",
-      "gloss": "mpho ea hae"
+      "gloss": "sehlabelo sa hae"
     },
     {
       "surface": "ליהוה",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "כבש",
-      "gloss": "pooa"
+      "gloss": "nku e ngoana"
     },
     {
       "surface": "בן",
-      "gloss": "ea mora"
+      "gloss": "ngoana"
     },
     {
       "surface": "שנתו",
-      "gloss": "selemo"
+      "gloss": "selemo sa yona"
     },
     {
       "surface": "תמים",
@@ -42,27 +42,27 @@
     },
     {
       "surface": "אחד",
-      "gloss": "e le 'ngoe"
+      "gloss": "e le nngwe"
     },
     {
       "surface": "לעלה",
-      "gloss": "bakeng sa sehole sa ho chesa"
+      "gloss": "bakeng sa sehlabelo sa tjhesetso"
     },
     {
       "surface": "וכבשה",
-      "gloss": "le nku ea tšeano"
+      "gloss": "le nku ya sehlabelo"
     },
     {
       "surface": "אחת",
-      "gloss": "e 'ngoe"
+      "gloss": "e nngwe"
     },
     {
       "surface": "בת",
-      "gloss": "ea mora"
+      "gloss": "moradi"
     },
     {
       "surface": "שנתה",
-      "gloss": "selemo"
+      "gloss": "selemo sa yona"
     },
     {
       "surface": "תמימה",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "לחטאת",
-      "gloss": "bakeng sa sehole sa sebe"
+      "gloss": "bakeng sa sehlabelo sa sebe"
     },
     {
       "surface": "ואיל",
-      "gloss": "le ramu"
+      "gloss": "le puna"
     },
     {
       "surface": "אחד",
-      "gloss": "e le 'ngoe"
+      "gloss": "e le nngwe"
     },
     {
       "surface": "תמים",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "לשלמים",
-      "gloss": "bakeng sa mehole ya kagiso"
+      "gloss": "bakeng sa mehlabelo ya khotso"
     }
   ],
-  "timestamp": "2026-10-03T06:24:02.049205452Z",
+  "timestamp": "2026-10-03T20:31:09.188363676Z",
   "model": "glm-5.3"
 }
