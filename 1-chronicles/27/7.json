@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "st",
   "chapter": 27,
-  "translation": "Wa bone bakeng sa kgwedi ya bone, Asahuele, mmangwane wa Yoabe, mme Zebadiah mora wa hae kamora hae; mme holim'a karolo ya hae ho ne ho na le mashome a mabedi le bone dikete.",
+  "translation": "Ya bone, bakeng sa kgwedi ya bone, e ne e le Asaele, mmaarona wa Yoabe, le Zebadiya mora wa hae ka mora hae; mme ho mahlakoreng a hae ho ne ho le dikete tse mashome a mabedi le nne.",
   "tokens": [
     {
       "surface": "הרביעי",
-      "gloss": "Wa bone"
+      "gloss": "ya bone"
     },
     {
       "surface": "לחדש",
-      "gloss": "bakeng sa kgwedi"
+      "gloss": "bakeng sa kgwedi ya bone"
     },
     {
       "surface": "הרביעי",
@@ -21,11 +21,15 @@
     },
     {
       "surface": "עשה",
-      "gloss": "Asahuele"
+      "gloss": "e ne e le Asaele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asaele"
     },
     {
       "surface": "אחי",
-      "gloss": "mmangwane wa"
+      "gloss": "mmaarona wa"
     },
     {
       "surface": "יואב",
@@ -33,7 +37,7 @@
     },
     {
       "surface": "וזבדיה",
-      "gloss": "mme Zebadiah"
+      "gloss": "le Zebadiya"
     },
     {
       "surface": "בנו",
@@ -41,29 +45,29 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "kamora hae"
+      "gloss": "ka mora hae"
     },
     {
       "surface": "ועל",
-      "gloss": "mme holim'a"
+      "gloss": "mme ho"
     },
     {
       "surface": "מחלקתו",
-      "gloss": "karolo ya hae"
+      "gloss": "mahlakoreng a hae"
     },
     {
       "surface": "עשרים",
-      "gloss": "mashome a mabedi"
+      "gloss": "mashome a mabedi le"
     },
     {
       "surface": "וארבעה",
-      "gloss": "le bone"
+      "gloss": "nne"
     },
     {
       "surface": "אלף",
       "gloss": "dikete"
     }
   ],
-  "timestamp": "2026-10-03T12:21:03.268832908Z",
+  "timestamp": "2026-10-03T13:50:56.308808814Z",
   "model": "glm-5.3"
 }

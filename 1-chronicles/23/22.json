@@ -5,23 +5,15 @@
   "book": "1-chronicles",
   "lang": "st",
   "chapter": 23,
-  "translation": "Mme Elazare a hlokahala, mme ha ana le bara, empa baradi feela; mme bara ba Kishe, bo-bona bahlanka, ba ba nyal LLVM⟨e⟩.",
+  "translation": "Mme Elazare a hlokahala, mme ha ana le bashanyana, empa le leng only <错误> —",
   "tokens": [
     {
       "surface": "וימת",
-      "gloss": "Mme Elazare a hlokahala"
+      "gloss": "a hlokahala"
     },
     {
       "surface": "אלעזר",
       "gloss": "Elazare"
-    },
-    {
-      "surface": "וימת",
-      "gloss": ""
-    },
-    {
-      "surface": "אלעזר",
-      "gloss": ""
     },
     {
       "surface": "ולא",
@@ -29,15 +21,15 @@
     },
     {
       "surface": "היו",
-      "gloss": "ana le"
+      "gloss": "a ana le"
     },
     {
       "surface": "לו",
-      "gloss": "hana"
+      "gloss": "ho yena"
     },
     {
       "surface": "בנים",
-      "gloss": "bara"
+      "gloss": "bashanyana"
     },
     {
       "surface": "כי",
@@ -45,29 +37,29 @@
     },
     {
       "surface": "אם",
-      "gloss": "feela"
+      "gloss": "feelA"
     },
     {
       "surface": "בנות",
-      "gloss": "baradi"
+      "gloss": "bashanyane"
     },
     {
       "surface": "וישאום",
-      "gloss": "ba ba nyal LLVM"
+      "gloss": "ba nyala"
     },
     {
       "surface": "בני",
-      "gloss": "bara"
+      "gloss": "bana ba"
     },
     {
       "surface": "קיש",
-      "gloss": "ba Kishe"
+      "gloss": "Kishe"
     },
     {
       "surface": "אחיהם",
-      "gloss": "bo-bona bahlanka"
+      "gloss": "bahao ba bona"
     }
   ],
-  "timestamp": "2026-10-03T13:19:26.133294997Z",
+  "timestamp": "2026-10-03T13:50:45.746258938Z",
   "model": "glm-5.3"
 }

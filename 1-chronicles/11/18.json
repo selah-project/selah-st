@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "st",
   "chapter": 11,
-  "translation": "Mme ba bararo ba bula tsela ka hara kampa ya Bapalestina, ba nkile metsi ho sediba sa Betleheme, se sebakeng sa lenaneo, ba ile ba ba isa ho Dawide; empa Dawide ha a rate ho a nwa, mme a a thula ⟨את⟩ ho Yahwe.",
+  "translation": "Mme ba bararo ba bula ka makgotlong a Mafilistea, ba hula metsi a sedibeng sa Betlekheme, se se leng ka sebakeng sa setsi, mme ba a rwala, ba isa ho Dawide; mme Dawide ha a kgotsofalle ho a noa, mme a a nehelanya ⟨אתם⟩ ho Yahwe.",
   "tokens": [
     {
       "surface": "ויבקעו",
-      "gloss": "ba bula tsela"
+      "gloss": "ba bula ka"
     },
     {
       "surface": "השלשה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "במחנה",
-      "gloss": "ka hara kampa ya"
+      "gloss": "makgotlong a"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Bapalestina"
+      "gloss": "Mafilistea"
     },
     {
       "surface": "וישאבו",
-      "gloss": "ba nkile"
+      "gloss": "ba hula"
     },
     {
       "surface": "מים",
@@ -33,27 +33,31 @@
     },
     {
       "surface": "מבור",
-      "gloss": "ho sediba sa"
+      "gloss": "sedibeng sa"
     },
     {
-      "surface": "בית לחם",
-      "gloss": "Betleheme"
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lekheme"
     },
     {
       "surface": "אשר",
-      "gloss": "se"
+      "gloss": "se se leng"
     },
     {
       "surface": "בשער",
-      "gloss": "sebakeng sa lenaneo"
+      "gloss": "ka sebakeng sa setsi"
     },
     {
       "surface": "וישאו",
-      "gloss": "ba ile ba"
+      "gloss": "mme ba a rwala"
     },
     {
       "surface": "ויבאו",
-      "gloss": "isa"
+      "gloss": "ba isa"
     },
     {
       "surface": "אל",
@@ -65,11 +69,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ha a rate"
+      "gloss": "mme ha"
     },
     {
       "surface": "אבה",
-      "gloss": "empa"
+      "gloss": "a kgotsofalle"
     },
     {
       "surface": "דויד",
@@ -77,22 +81,22 @@
     },
     {
       "surface": "לשתותם",
-      "gloss": "ho a nwa"
+      "gloss": "ho a noa"
     },
     {
       "surface": "וינסך",
-      "gloss": "a a thula"
+      "gloss": "mme a a nehelanya"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "metsi (a)"
+      "gloss": "⟨אתם⟩",
+      "marks": "Yahwe"
     },
     {
       "surface": "ליהוה",
-      "gloss": "⟨את⟩ ho Yahwe"
+      "gloss": "ho Yahwe"
     }
   ],
-  "timestamp": "2026-10-03T12:14:40.514574157Z",
+  "timestamp": "2026-10-03T13:51:17.276656278Z",
   "model": "glm-5.3"
 }

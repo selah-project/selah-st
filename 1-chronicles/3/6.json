@@ -5,17 +5,21 @@
   "book": "1-chronicles",
   "lang": "st",
   "chapter": 3,
-  "translation": "le Yibhare, le Elishamae, le Elifelete;",
+  "translation": "le Yibhare, le Elishama, le Eliphalete,",
   "tokens": [
     {
-      "surface": "ואלישמע",
-      "gloss": "le Elishamae"
+      "surface": "ויבחר",
+      "gloss": "le Yibhare"
+    },
+    {
+      "surface": "ו אלישמע",
+      "gloss": "le Elishama"
     },
     {
       "surface": "ואליפלט",
-      "gloss": "le Elifelete"
+      "gloss": "le Eliphalete"
     }
   ],
-  "timestamp": "2026-10-03T12:10:35.191351286Z",
+  "timestamp": "2026-10-03T13:50:44.273512771Z",
   "model": "glm-5.3"
 }

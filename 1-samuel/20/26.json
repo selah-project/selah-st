@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "st",
   "chapter": 20,
-  "translation": "Empa Shauole a se ke a bua letho ka letsatsi leo, hobane o ile a re: Ke se ba thweleng thwasa kapa se etsahetseng kahlano le eena; a hloka tshwarelo, e seng hantle e hloka tshwarelo.",
+  "translation": "Mme Shaule ha a ka a bua se seng kapa se seng ka letsatsi leo; hobane o ile a re: Sepheo se seng se mo hwetsitse, ha a hloekile; o ne a sa hloeka ka ho tiea.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "a se ke a"
+      "gloss": "mme ha a ka a"
     },
     {
       "surface": "דבר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shauole"
+      "gloss": "Shaule"
     },
     {
       "surface": "מאומה",
-      "gloss": "letho"
+      "gloss": "se seng kapa se seng"
     },
     {
       "surface": "ביום",
@@ -41,21 +41,37 @@
     },
     {
       "surface": "מקרה",
-      "gloss": "se ba thweleng thwasa"
+      "gloss": "sephеo se seng"
     },
     {
       "surface": "הוא",
-      "gloss": "kahlano le eena"
+      "gloss": "se mo hwetsitse"
     },
     {
       "surface": "בלתי",
-      "gloss": "a hloka tshwarelo"
+      "gloss": "ha"
     },
     {
       "surface": "טהור",
-      "gloss": "e seng hantle e hloka tshwarelo"
+      "gloss": "a hloekile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka ho tiea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "hloeka"
     }
   ],
-  "timestamp": "2026-10-03T07:41:20.009864185Z",
+  "timestamp": "2026-10-03T13:51:09.201102481Z",
   "model": "glm-5.3"
 }

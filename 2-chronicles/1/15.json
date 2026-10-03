@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "st",
   "chapter": 1,
-  "translation": "Mme morena a etsa seelea le gauta hore e be Yerushalayime ⟨את⟩ joaloka majoe, mme cedar e moholo o ne a etsa joaloka mekoloane eo e leng Shephela, ka ho feta karolo.",
+  "translation": "Mme morena o ile a etsa ⟨את⟩ sekhefo le ⟨את⟩ gauta ho Yerushalayime e le jwaloka majwe, mme ⟨את⟩ diareza a li etsa jwaloka mesimi ya moo tlaseng, ka ho feta tekano.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "mme a etsa"
+      "gloss": "a etsa"
     },
     {
       "surface": "המלך",
@@ -18,62 +18,59 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "seelea"
+      "marks": "sekhefo"
     },
     {
       "surface": "הכסף",
-      "gloss": "seelea"
-    },
-    {
-      "surface": "ויהי",
-      "gloss": "⟨את⟩"
+      "gloss": "sekhefo"
     },
     {
       "surface": "ואת",
-      "gloss": "joaloka majoe"
+      "gloss": "le ⟨את⟩",
+      "marks": "gauta"
     },
     {
       "surface": "הזהב",
-      "gloss": "le gauta"
+      "gloss": "gauta"
     },
     {
       "surface": "בירושלם",
-      "gloss": "Yerushalayime"
+      "gloss": "ho Yerushalayime"
     },
     {
       "surface": "כאבנים",
-      "gloss": "⟨את⟩ joaloka majoe"
+      "gloss": "jwaloka majwe"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "cedar"
+      "gloss": "mme ⟨את⟩",
+      "marks": "diareza"
     },
     {
       "surface": "הארזים",
-      "gloss": "cedar"
+      "gloss": "diareza"
     },
     {
       "surface": "נתן",
-      "gloss": "o ne a etsa"
+      "gloss": "a li etsa"
     },
     {
       "surface": "כשקמים",
-      "gloss": "joaloka mekoloane"
+      "gloss": "jwaloka mesimi"
     },
     {
       "surface": "אשר",
-      "gloss": "eo e leng"
+      "gloss": "ya"
     },
     {
       "surface": "בשפלה",
-      "gloss": "Shephela"
+      "gloss": "moo tlaseng"
     },
     {
       "surface": "לרב",
-      "gloss": "ka ho feta karolo"
+      "gloss": "ka ho feta tekano"
     }
   ],
-  "timestamp": "2026-10-03T12:21:47.619482546Z",
+  "timestamp": "2026-10-03T13:50:49.757375601Z",
   "model": "glm-5.3"
 }

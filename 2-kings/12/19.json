@@ -5,8 +5,144 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 12,
-  "translation": "placeholder",
-  "tokens": [],
-  "timestamp": "2026-10-03T08:23:53.156227522Z",
+  "translation": "Mme Yehoashe, morena wa Yehuda, a nka ⟨את⟩ dilo tsohle tse halalelang tseo Yehoshafate le Yehorame le Ahaziahu, bo-ntatae, boraborwa ba Yehuda, di halalelitseeng, le ⟨את⟩ tse halalelang tsa hae, le ⟨את】 gauta eohle e fumanweng diberekong tsa ntlo ya Yahwe le tsa ntlo ya morena, mme a e romela ho Khazaele, morena wa Arame; mme Khazaele a hlakola ho Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Mme a nka"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoashe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tsohle tse halalelang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "dilo tse halalelang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "di halalelitseeng"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafate"
+    },
+    {
+      "surface": "ויהורם",
+      "gloss": "le Yehorame"
+    },
+    {
+      "surface": "ואחזיהו",
+      "gloss": "le Ahaziahu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntatae"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "boraborwa ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tse halalelang tsa hae"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "tse halalelang tsa hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "gauta eohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eohle"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "e fumanweng"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "diberekong tsa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "le tsa ntlo ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mme a e romela"
+    },
+    {
+      "surface": "לחזאל",
+      "gloss": "ho Khazaele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mme a hlakola"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T13:51:22.635011898Z",
   "model": "glm-5.3"
 }

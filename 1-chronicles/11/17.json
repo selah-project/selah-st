@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "st",
   "chapter": 11,
-  "translation": "Mme Dawide a lwaela, a re: Ke mang ya ka mphekang metsi ho sediba sa Betleheme, se sebakeng se ka morao ho sebakeng sa lenaneo?",
+  "translation": "Mme Dawide a ikhumamela, mme a re: Ke mang ya ka nkwesisang metsi a sedibeng sa Betlekheme, se se leng ka sebakeng sa setsi?",
   "tokens": [
     {
       "surface": "ויתאו",
-      "gloss": "a lwaela"
+      "gloss": "a ikhumamela"
     },
     {
       "surface": "דויד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "mme a re"
     },
     {
       "surface": "מי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישקני",
-      "gloss": "ya ka mphekang"
+      "gloss": "ya ka nkwisisang"
     },
     {
       "surface": "מים",
@@ -33,21 +33,25 @@
     },
     {
       "surface": "מבור",
-      "gloss": "ho sediba sa"
+      "gloss": "a sedibeng sa"
     },
     {
-      "surface": "בית לחם",
-      "gloss": "Betleheme"
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lekheme"
     },
     {
       "surface": "אשר",
-      "gloss": "se"
+      "gloss": "se se leng"
     },
     {
       "surface": "בשער",
-      "gloss": "sebakeng sa lenaneo"
+      "gloss": "ka sebakeng sa setsi"
     }
   ],
-  "timestamp": "2026-10-03T12:14:40.514158567Z",
+  "timestamp": "2026-10-03T13:51:17.276336938Z",
   "model": "glm-5.3"
 }

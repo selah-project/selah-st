@@ -5,15 +5,20 @@
   "book": "1-chronicles",
   "lang": "st",
   "chapter": 12,
-  "translation": "Mme bona ba thusa ⟨את⟩ Dawide kgahlanong le sehlopha sa bahlaseli, hobane bohle e ne e le banna ba matla ba letswalo, mme ba ba ditlhware tsa mabotho.",
+  "translation": "Mme ba thusa ⟨את⟩ Dawide kgahlanong le sehlopha sa diketsa, hobane e ne e le bahlabani ba matla bohle, mme ba ba ditlhogo ⟨ב⟩ sesole.",
   "tokens": [
     {
       "surface": "והמה",
-      "gloss": "mme bona"
+      "gloss": "Mme ba"
     },
     {
       "surface": "עזרו",
       "gloss": "ba thusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
     },
     {
       "surface": "דויד",
@@ -25,7 +30,7 @@
     },
     {
       "surface": "הגדוד",
-      "gloss": "sehlopha sa bahlaseli"
+      "gloss": "sehlopha sa diketsa"
     },
     {
       "surface": "כי",
@@ -33,11 +38,11 @@
     },
     {
       "surface": "גבורי",
-      "gloss": "banna ba matla"
+      "gloss": "bahlabani ba matla"
     },
     {
       "surface": "חיל",
-      "gloss": "ba letswalo"
+      "gloss": "ba matla"
     },
     {
       "surface": "כלם",
@@ -49,13 +54,13 @@
     },
     {
       "surface": "שרים",
-      "gloss": "ditlhware"
+      "gloss": "ditlhogo"
     },
     {
       "surface": "בצבא",
-      "gloss": "mabothong"
+      "gloss": "⟨ב⟩ sesole"
     }
   ],
-  "timestamp": "2026-10-03T12:15:18.516554412Z",
+  "timestamp": "2026-10-03T13:51:36.709722652Z",
   "model": "glm-5.3"
 }

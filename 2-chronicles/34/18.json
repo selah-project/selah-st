@@ -5,8 +5,69 @@
   "book": "2-chronicles",
   "lang": "st",
   "chapter": 34,
-  "translation": "Mme Shafane mongodi a bolella morena, a re: Mohumagatsana Hilikia moporofeta-priest... Lengolo Hilikia moprista o mmphe, mme Shafane a bala ho lona pele ga morena.",
-  "tokens": [],
-  "timestamp": "2026-10-03T12:39:56.721287526Z",
+  "translation": "Mme Shafane mongodi a bolella morena, a re: Khuime moprista o mpotseditse buka, mme Shafane a bala ho yona pele ga morena.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a bolella"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafane"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "mongodi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o mpotseditse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khuime"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafane"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    }
+  ],
+  "timestamp": "2026-10-03T13:50:54.267771872Z",
   "model": "glm-5.3"
 }

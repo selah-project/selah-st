@@ -5,8 +5,86 @@
   "book": "1-kings",
   "lang": "st",
   "chapter": 11,
-  "translation": "Mme ho ile ha etsahala ka nako eo, ha Yaroboeame a etse hore a tsoe Yerushalayime; mme Ahiya wa Shilo, moporofeta, a mo fumanella tsela, yena a iketsetsa ka salmaha e ncha; mme ba babedi ba ne ba le ba bang ba se pele ho bona sebakeng se seholo.",
-  "tokens": [],
-  "timestamp": "2026-10-03T08:10:19.021199579Z",
+  "translation": "Mme e bile ka nako eo, Yarobohame a tswa Yerushalayime, mme moporofeta Ahiya wa Shilone a mo fumana ⟨את⟩ tseleng, yena a ikabetse ka seapari se secha; mme ba babeli ba noha nosi kamorao.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "Yarobohame"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "a fumana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Yarobohame"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "wa Shilone"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moporofeta"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מתכסה",
+      "gloss": "a ikabetse"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "ka seapari"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "se secha"
+    },
+    {
+      "surface": "ושניהם",
+      "gloss": "mme ba babeli"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "ba noha nosi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kamorao"
+    }
+  ],
+  "timestamp": "2026-10-03T13:51:04.309429687Z",
   "model": "glm-5.3"
 }

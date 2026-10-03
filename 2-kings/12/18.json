@@ -5,8 +5,69 @@
   "book": "2-kings",
   "lang": "st",
   "chapter": 12,
-  "translation": "Aryame...",
-  "tokens": [],
-  "timestamp": "2026-10-03T08:23:53.155804948Z",
+  "translation": "Jwale Khazaele, morena wa Arame, a ya hodima, mme a lwa le ⟨את⟩ Gate, mme a e hapang; mme Khazaele a behe sefahleho sa hae hore a yo hodima ho Yerushalayime.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Jwale"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "a ya hodima"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Khazaele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "mme a lwa le"
+    },
+    {
+      "surface": "על",
+      "gloss": "le"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gate"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "mme a e hapang"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mme a behe"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Khazaele"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa hae"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "hore a yo hodima"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-03T13:51:22.634588206Z",
   "model": "glm-5.3"
 }

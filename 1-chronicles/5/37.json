@@ -5,8 +5,43 @@
   "book": "1-chronicles",
   "lang": "st",
   "chapter": 5,
-  "translation": "Mme Aharjaha a belega ⟨את⟩ Aharjah...",
-  "tokens": [],
-  "timestamp": "2026-10-03T12:10:32.889702441Z",
+  "translation": "Mme Azerja a begeta ⟨את⟩ Amarja, mme Amarja a begeta ⟨את⟩ Akitube;",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azerja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarja"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarja"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "mme Amarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akitube"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitube"
+    }
+  ],
+  "timestamp": "2026-10-03T13:50:44.406973182Z",
   "model": "glm-5.3"
 }
