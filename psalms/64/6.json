@@ -5,8 +5,53 @@
   "book": "psalms",
   "lang": "st",
   "chapter": 64,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T10:40:03.687351800Z",
+  "translation": "Ba tiisa ⟨את⟩ taba e mpe ho bona; ba bolela ka ho pata mekhomo, ba re: Ke mang ya tla ba bona?",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "Ba tiisa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨את⟩ taba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e mpe"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "ka ho pata"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "mekhomo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ya tla bona"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ba ona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:32:58.702493842Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 31,
+  "translation": "Mme Moshe a ea, a bolela ⟨את⟩ mantswe a kgutshwanyane a ho tla ba a tletse boikhohomosi le tokoloho ho Yisraele ho ya le ho leha e le ka hare, kaofela.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a ea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe a"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ho ya le ho leha e le ka hare, kaofela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-03T13:30:54.999876834Z",
+  "model": "glm-5.3"
+}

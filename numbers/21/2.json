@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "st",
   "chapter": 21,
-  "translation": "Mme Yisraele a ikana kanetso ho Yahwe, mme a re: Haeba o ka neha ⟨את⟩ setjhaba se sebakeng se, ho seatla sa ka, ke tla hlaola ⟨את〉 metse ya tsona.",
+  "translation": "Mme Yisraele a ikana kanetso ho Yahwe, a re: Ha o nea ka sebele ⟨את⟩ sechaba sena ka letsoho la ka, ke tla hloekisa ka ho feletseng ⟨את⟩ metse ya tsona.",
   "tokens": [
     {
       "surface": "וידר",
-      "gloss": "a ikana kanetso"
+      "gloss": "a ikana"
     },
     {
       "surface": "ישראל",
@@ -25,40 +25,40 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "mme a re"
+      "gloss": "a re"
     },
     {
       "surface": "אם",
-      "gloss": "haeba"
+      "gloss": "Ha"
     },
     {
       "surface": "נתן",
-      "gloss": "o ka neha"
+      "gloss": "ka sebele"
     },
     {
       "surface": "תתן",
-      "gloss": "o tla neha"
+      "gloss": "o nea"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "setjhaba se sebakeng se"
+      "marks": "sechaba sena"
     },
     {
       "surface": "העם",
-      "gloss": "setjhaba se"
+      "gloss": "sechaba sena"
     },
     {
       "surface": "הזה",
-      "gloss": "sebakeng se"
+      "gloss": "sena"
     },
     {
       "surface": "בידי",
-      "gloss": "ho seatla sa ka"
+      "gloss": "ka letsoho la ka"
     },
     {
-      "surface": "והחרמתי",
-      "gloss": "ke tla hlaola"
+      "surface": "ווהחרמתי",
+      "gloss": "ke tla hloekisa ka ho feletseng"
     },
     {
       "surface": "את",
@@ -70,6 +70,6 @@
       "gloss": "metse ya tsona"
     }
   ],
-  "timestamp": "2026-10-03T06:32:54.077003601Z",
+  "timestamp": "2026-10-03T13:31:11.191435055Z",
   "model": "glm-5.3"
 }

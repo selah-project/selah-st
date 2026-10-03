@@ -5,8 +5,54 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 8,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T06:50:06.281398885Z",
+  "translation": "e bile pelo ya hao e phahame, mme o tloha o lebala ⟨את⟩ Yahwe Elohim ya hao, Ya o ntshitseng lefatsheng ya Mitsrayime, ntlong ya bokgobokoni;",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "e bile e phahame"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya hao"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "mme o tloha o lebala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya hao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "Ya o ntshitseng"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefatsheng ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bokgobokoni"
+    }
+  ],
+  "timestamp": "2026-10-03T13:31:39.062995425Z",
   "model": "glm-5.3"
 }

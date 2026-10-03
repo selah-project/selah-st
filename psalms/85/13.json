@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "st",
   "chapter": 85,
-  "translation": "Ruri, Yahwe o tla neha ⟨את⟩ se lokileng, mme lefatshe la rona le tla neha sejala sa lona.",
+  "translation": "Ruri Yahwe o tla neha ⟨את⟩ se lokileng, mme lefatshe la rona le tla fana kumo ya lona.",
   "tokens": [
     {
       "surface": "גם",
@@ -16,10 +16,26 @@
       "gloss": "Yahwe"
     },
     {
-      "surface": "יהוה",
-      "gloss": ""
+      "surface": "יתן",
+      "gloss": "o tla neha"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "se lokileng"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "mme lefatshe la rona"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "le tla fana"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "kumo ya lona"
     }
   ],
-  "timestamp": "2026-10-03T10:46:46.711694188Z",
+  "timestamp": "2026-10-03T13:33:07.621660648Z",
   "model": "glm-5.3"
 }

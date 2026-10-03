@@ -5,37 +5,37 @@
   "book": "numbers",
   "lang": "st",
   "chapter": 31,
-  "translation": "Mme ⟨את⟩ metse ya bona yohle moo ba neng ba dulua ho yona, le ⟨את〉 matlo a bona ohle, ba a chesa ka mollo.",
+  "translation": "Mme ⟨את⟩ metse ya yona kaofela, ho merafeng ya yona, le ⟨את⟩ matlo a yona kaofela, ba a chesa ka mollo.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Mme ⟨את⟩",
-      "marks": "metse ya bona yohle"
+      "gloss": "⟨את⟩",
+      "marks": "metse ya yona kaofela"
     },
     {
       "surface": "כל",
-      "gloss": "yohle"
+      "gloss": "kaofela"
     },
     {
       "surface": "עריהם",
-      "gloss": "metse ya bona"
+      "gloss": "metse ya yona"
     },
     {
       "surface": "במושבתם",
-      "gloss": "moo ba neng ba dulua ho yona"
+      "gloss": "ho merafeng ya yona"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "matlo a bona ohle"
+      "gloss": "⟨את⟩",
+      "marks": "matlo a yona kaofela"
     },
     {
       "surface": "כל",
-      "gloss": "ohle"
+      "gloss": "kaofela"
     },
     {
       "surface": "טירתם",
-      "gloss": "matlo a bona"
+      "gloss": "matlo a yona"
     },
     {
       "surface": "שרפו",
@@ -46,6 +46,6 @@
       "gloss": "ka mollo"
     }
   ],
-  "timestamp": "2026-10-03T06:39:12.786772873Z",
+  "timestamp": "2026-10-03T13:31:11.497715931Z",
   "model": "glm-5.3"
 }

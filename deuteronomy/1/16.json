@@ -5,8 +5,78 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 1,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T06:42:47.214061396Z",
+  "translation": "Mme ka laela ⟨את⟩ baahlodi ba lona ka nako eo, ho re: Mamelang dikhohlano tse pakeng tsa bana ba bana ba lona, mme le ahlole tsedeke pakeng tsa motho le moholoane wa hae, le moahi wa mafatshe a mang.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "mme ka laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baahlodi ba lona"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "baahlodi ba lona"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mamelang"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "bana ba bana ba lona"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "mme le ahlole"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "moholoane wa hae"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "moahi wa mafatshe a mang"
+    }
+  ],
+  "timestamp": "2026-10-03T13:31:44.425054612Z",
   "model": "glm-5.3"
 }

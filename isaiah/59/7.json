@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 59,
+  "translation": "Maoto a bona a mathela boseneng, mme a hakanneha ho tlosa madi a nehlano; mehopolo ea bona ke mehopolo ya bosenyetsi; tshenyo le phoko di teng metsing ea bona.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "maoto a bona"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "boseneng"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "a mathela"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "mme a hakanneha"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "ho tlosa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "a nehlano"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "mehopolo ea bona"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mehopolo"
+    },
+    {
+      "surface": "און",
+      "gloss": "ya bosenyetsi"
+    },
+    {
+      "surface": "שד",
+      "gloss": "tshenyo"
+    },
+    {
+      "surface": "וושבר",
+      "gloss": "le phoko"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "metsing ea bona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:33:24.569964795Z",
+  "model": "glm-5.3"
+}

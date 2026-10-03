@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 26,
+  "translation": "Mme o tla etsa ⟨את⟩ Mishkane ka dikarolo tse leshome, tsa linene e tshweu e hlabohilweng, le botala, le boputsoa, le senaole; ka dikerube, mosebetsi wa moqapi, o tla ⟨את⟩ li etsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme o tla etsa ⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tse leshome"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linene e tshweu"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "e hlabohilweng"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "le botala"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "le boputsoa"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "le senaole"
+    },
+    {
+      "surface": "שני",
+      "gloss": "senaole"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "dikerube"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "wa moqapi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla li etsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "li (dikarolo)"
+    }
+  ],
+  "timestamp": "2026-10-03T13:31:03.558357764Z",
+  "model": "glm-5.3"
+}

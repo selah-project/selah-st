@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "st",
   "chapter": 5,
-  "translation": "Ba romela mme ba bokella <את> bohle ba neng ba le borikhong ba Plisitia ho bona, mme ba re: Re tla etsa eng ho arekene ya Elohim ya Yisraele? Mme ba re: E yeng Gathe; arekene ya Elohim ya Yisraele e ke ke ya dula mona. Ba beha <את> arekene ya Elohim ya Yisraele hore e tsamaye.",
+  "translation": "Ba ile ba romella mme ba bokella ⟨את⟩ barena bohle ba Ba-Pelishtite ho bona, mme ba re: Re ka etsa eng ka arka ya Elohim ya Yisraele? Mme ba re: A arka ya Elohim ya Yisraele e sisoe ho ya Gathe. Mme ba sisa ⟨את⟩ arka ya Elohim ya Yisraele.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "Ba romela"
+      "gloss": "ba ile ba romella"
     },
     {
       "surface": "ויאספו",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bohle ba neng ba le borikhong ba Plisitia"
+      "marks": "barena bohle"
     },
     {
       "surface": "כל",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "סרני",
-      "gloss": "ba neng ba le borikhong ba"
+      "gloss": "barena"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Plisitia"
+      "gloss": "ba Ba-Pelishtite"
     },
     {
       "surface": "אליהם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ba re"
+      "gloss": "mme ba re"
     },
     {
       "surface": "מה",
@@ -46,66 +46,66 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "re tla etsa"
+      "gloss": "re ka etsa"
     },
     {
       "surface": "לארון",
-      "gloss": "ho arekene ya"
+      "gloss": "ka arka"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim ya"
+      "gloss": "ya Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "ya Yisraele"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ba re"
+      "gloss": "mme ba re"
     },
     {
       "surface": "גת",
-      "gloss": "E yeng Gathe"
+      "gloss": "Gathe"
     },
     {
       "surface": "יסב",
-      "gloss": "arekene... e tsamaye"
+      "gloss": "a e sisoe"
     },
     {
       "surface": "ארון",
-      "gloss": "arekene"
+      "gloss": "arka"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim ya"
+      "gloss": "ya Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "ya Yisraele"
     },
     {
       "surface": "ויסבו",
-      "gloss": "Ba beha"
+      "gloss": "mme ba sisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arekene"
+      "marks": "arka"
     },
     {
       "surface": "ארון",
-      "gloss": "arekene"
+      "gloss": "arka"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim ya"
+      "gloss": "ya Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "ya Yisraele"
     }
   ],
-  "timestamp": "2026-10-03T07:33:54.647973410Z",
+  "timestamp": "2026-10-03T13:31:21.529403784Z",
   "model": "glm-5.3"
 }

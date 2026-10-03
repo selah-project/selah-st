@@ -5,8 +5,62 @@
   "book": "1-samuel",
   "lang": "st",
   "chapter": 5,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T07:33:45.051386670Z",
+  "translation": "Mme Bapelisti ba nka ⟨את⟩ arona ya Elohim, ba e isa ntlong ya Dagon, ba e beha haufi le Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ba nka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arona"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arona"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ba e isa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ba e beha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "haufi le"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-10-03T13:31:14.274208266Z",
   "model": "glm-5.3"
 }

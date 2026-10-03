@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "Pele ho yena ba dulang lehoatata ba tla khunama, mme dira tsa hae lefufa la tla lekela.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "Pele ho yena"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ba tla khunama"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "ba dulang lehoatata"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "mme dira tsa hae"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lefufa"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "la tla lekela"
+    }
+  ],
+  "timestamp": "2026-10-03T13:33:30.158627349Z",
+  "model": "glm-5.3"
+}

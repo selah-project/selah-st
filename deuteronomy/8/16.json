@@ -5,8 +5,61 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 8,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T06:50:06.281800505Z",
+  "translation": "Ya o fotseng ka mane bohole ba hodimo, se ileng sa tsejwa ke bo-ntate ba hao, hore a o thotse, mme hore a o leke, ho iketsetsa molemo ho qetello ya hao.",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "Ya o fotseng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka mane"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bohole ba hodimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "sa tsejwa"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ke bo-ntate ba hao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "a o thotse"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "mme hore"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "a o leke"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "ho iketsetsa molemo"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "ho qetello ya hao"
+    }
+  ],
+  "timestamp": "2026-10-03T13:31:39.063417441Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 6,
+  "translation": "Mme ⟨את⟩ botlaswe ba ntlo o ile bo apara ka gauta, ka hare le ka ntle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "botlaswe ba ntlo"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "botlaswe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ba ntlo"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "o ile bo apara"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ka hare"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "le ka ntle"
+    }
+  ],
+  "timestamp": "2026-10-03T13:30:54.269072076Z",
+  "model": "glm-5.3"
+}

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "st",
   "chapter": 10,
-  "translation": "Empa lona, se emeng; latedisang <את> lira tsa lona, le hlabe ka morao; se ke la ba lumella ho kena <את> ditoropo tsa tsona; hobane Yahwe Elohim wa lona o bile a fana ka <את> bona ka letsoho la lona.",
+  "translation": "Empa lona, se emeng; llatlang mora dibata tsa lona, le hlabolle morao ho tsona; se di lokolleng hore di tsosoa dikahare tsa tsona: hobane Yahwe Elohim ya lona o di fileng letsohong la lona.",
   "tokens": [
     {
       "surface": "ואתם",
@@ -21,35 +21,36 @@
     },
     {
       "surface": "רדפו",
-      "gloss": "latedisang"
+      "gloss": "llatlang"
     },
     {
       "surface": "אחרי",
-      "gloss": "ka morao ho"
+      "gloss": "mora"
     },
     {
       "surface": "איביכם",
-      "gloss": "lira tsa lona"
+      "gloss": "dibata tsa lona"
     },
     {
       "surface": "וזנבתם",
-      "gloss": "le hlabe ka morao"
+      "gloss": "le hlabolle morao"
     },
     {
       "surface": "אותם",
-      "gloss": "<את> bona"
+      "gloss": "⟨את⟩",
+      "marks": "tsona (dibata)"
     },
     {
       "surface": "אל",
-      "gloss": "se ke la ba lumella"
+      "gloss": "se"
     },
     {
       "surface": "תתנום",
-      "gloss": "ho kena"
+      "gloss": "di lokolleng"
     },
     {
       "surface": "לבוא",
-      "gloss": "ho kena <את>"
+      "gloss": "hore di tsosoa"
     },
     {
       "surface": "אל",
@@ -57,7 +58,7 @@
     },
     {
       "surface": "עריהם",
-      "gloss": "ditoropo tsa tsona"
+      "gloss": "dikahare tsa tsona"
     },
     {
       "surface": "כי",
@@ -65,7 +66,7 @@
     },
     {
       "surface": "נתנם",
-      "gloss": "o bile a fana ka"
+      "gloss": "o di fileng"
     },
     {
       "surface": "יהוה",
@@ -73,13 +74,13 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim wa lona"
+      "gloss": "Elohim ya lona"
     },
     {
       "surface": "בידכם",
-      "gloss": "ka letsoho la lona"
+      "gloss": "letsohong la lona"
     }
   ],
-  "timestamp": "2026-10-03T07:06:45.186530530Z",
+  "timestamp": "2026-10-03T13:31:29.636155833Z",
   "model": "glm-5.3"
 }

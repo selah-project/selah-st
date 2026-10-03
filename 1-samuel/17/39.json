@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "st",
   "chapter": 17,
-  "translation": "Mme Dawide a hapanya 〈את〉 ⟨את⟩ sehlanya sa hae hodima diaparo tsa hae, mme a leka ho tsamaea, hobane a sa a le ka eona. Mme Dawide a re ho Shaule: Nkea ke se ke ke ka tsamaea ka tseo, hobane ha kea di leka. Mme Dawide a di tlosa ho eena.",
+  "translation": "Mme Dawide a khiba ⟨את⟩ sehlora sa hae hodima diaparo tsa hae, mme a ikemisetse ho tsamaya, hobane a sa a leka; mme Dawide a re ho Shaulе: Nka ke ke ka tsamaya ka tsena, hobane ha ke a leka; mme Dawide a di tlosa hodima hae.",
   "tokens": [
     {
       "surface": "ויחגר",
-      "gloss": "a hapanya"
+      "gloss": "a khiba"
     },
     {
       "surface": "דוד",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sehlanya sa hae"
+      "marks": "sehlora sa hae"
     },
     {
       "surface": "חרבו",
-      "gloss": "sehlanya sa hae"
+      "gloss": "sehlora sa hae"
     },
     {
       "surface": "מעל",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ויאל",
-      "gloss": "a leka"
+      "gloss": "a ikemisetse"
     },
     {
       "surface": "ללכת",
-      "gloss": "ho tsamaea"
+      "gloss": "ho tsamaya"
     },
     {
       "surface": "כי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "נסה",
-      "gloss": "a e ka"
+      "gloss": "a leka"
     },
     {
       "surface": "ויאמר",
@@ -66,23 +66,23 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shaule"
+      "gloss": "Shaulе"
     },
     {
       "surface": "לא",
-      "gloss": "Nkea ke se ke"
+      "gloss": "ha"
     },
     {
       "surface": "אוכל",
-      "gloss": "ke"
+      "gloss": "Nka ke ke ka"
     },
     {
       "surface": "ללכת",
-      "gloss": "tsamaea"
+      "gloss": "ho tsamaya"
     },
     {
       "surface": "באלה",
-      "gloss": "ka tseo"
+      "gloss": "ka tsena"
     },
     {
       "surface": "כי",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "נסיתי",
-      "gloss": "kea di leka"
+      "gloss": "ke a leka"
     },
     {
       "surface": "ויסרם",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "מעליו",
-      "gloss": "ho eena"
+      "gloss": "hodima hae"
     }
   ],
-  "timestamp": "2026-10-03T07:40:17.360335466Z",
+  "timestamp": "2026-10-03T13:32:00.136431634Z",
   "model": "glm-5.3"
 }

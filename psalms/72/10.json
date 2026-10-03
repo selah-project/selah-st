@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 72,
+  "translation": "Marena a Tarshishe le a ditlhaketlhake di tla romela minkha; marena a Sheba le a Seba di tla kenya dinekhto tsa bohlokwa.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Marena a"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishe"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "le a ditlhaketlhake"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "di tla romela"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "marena a"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "le a Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "dinekhto tsa bohlokwa"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "di tla kenya"
+    }
+  ],
+  "timestamp": "2026-10-03T13:33:30.158896469Z",
+  "model": "glm-5.3"
+}

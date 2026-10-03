@@ -5,8 +5,47 @@
   "book": "2-chronicles",
   "lang": "st",
   "chapter": 34,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T12:39:56.721416394Z",
+  "translation": "Mme e bile, ha morena a utloa ⟨את⟩ mantswe a Torah, a lehaha ⟨את⟩ diaparo tsa hae.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ha a utloa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe a Torah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe a"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a lehaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa hae"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "diaparo tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-03T13:34:43.449429686Z",
   "model": "glm-5.3"
 }

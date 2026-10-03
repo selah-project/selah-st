@@ -5,19 +5,19 @@
   "book": "lamentations",
   "lang": "st",
   "chapter": 1,
-  "translation": "Mme ho tsoile mora wa Tsiyone 〈ka〉 〈tlotla〉 eohle ya hae; barutuwa ba hae ba bile jwalo ka ditlhare tse sa fumaneng diofisi, mme ba tsamaile ba sena matla pele le mojalefa.",
+  "translation": "Mme ho tswa ho moradi wa Tsiyone ho tsoile boholohe ba hae bahle; badielwa ba hae ba bile bjalo ka dithutlwa tse sa fumaneng bodiba, mme ba tsamaea ntle le matla pela mojadi.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "mme ho tsoile"
-    },
-    {
-      "surface": "מן",
       "gloss": "ho tsoile"
     },
     {
+      "surface": "מן",
+      "gloss": "ho tswa ho"
+    },
+    {
       "surface": "בת",
-      "gloss": "mora wa"
+      "gloss": "moradi"
     },
     {
       "surface": "ציון",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "eohle"
+      "gloss": "bolohe"
     },
     {
       "surface": "הדרה",
-      "gloss": "tlotla ya hae"
+      "gloss": "boholohe ba hae bahle"
     },
     {
       "surface": "היו",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "שריה",
-      "gloss": "barutuwa ba hae"
+      "gloss": "badielwa ba hae"
     },
     {
       "surface": "כאילים",
-      "gloss": "jwalo ka ditlhare"
+      "gloss": "bjalo ka dithutlwa"
     },
     {
       "surface": "לא",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "מרעה",
-      "gloss": "diofisi"
+      "gloss": "bodiba"
     },
     {
       "surface": "וילכו",
-      "gloss": "mme ba tsamaile"
+      "gloss": "mme ba tsamaea"
     },
     {
       "surface": "בלא",
-      "gloss": "ba sena"
+      "gloss": "ntle le"
     },
     {
       "surface": "כח",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "לפני",
-      "gloss": "pele le"
+      "gloss": "pela"
     },
     {
       "surface": "רודף",
-      "gloss": "mojalefa"
+      "gloss": "mojadi"
     }
   ],
-  "timestamp": "2026-10-03T11:41:03.343772277Z",
+  "timestamp": "2026-10-03T13:34:01.951969181Z",
   "model": "glm-5.3"
 }

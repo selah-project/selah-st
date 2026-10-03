@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 25,
+  "translation": "Mme ba mo isa ka hara dipere, mme ba mo pata ⟨אתו⟩ le bo-ntatae toropong ya Yehuda.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "mme ba mo isa ka hara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka hara"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "dipere"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "mme ba mo pata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "eena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntatae"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-03T13:34:38.764411560Z",
+  "model": "glm-5.3"
+}

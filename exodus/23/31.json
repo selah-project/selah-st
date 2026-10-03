@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "st",
   "chapter": 23,
-  "translation": "Mme ke tla beha ⟨את⟩ meeli ea hau ho tloha莱 Sea of Reeds ho ea ho lewatle la Ba-Pelishte, le ho tloha sekakeng ho ea ho molapo: hobane ke tla neha ⟨את⟩ baahi ba lefatshe letsohong la lona, 'me le tla ba gurufatsa pele ho lona.",
+  "translation": "Mme ke tla beha ⟨את⟩ meeli ya hau ho tloha lewatle la Suf ho fihlela lewatle la Ba-Pelishte, le ho tloha tengwaneng ho fihlela nokeng, hobane ke tla nehelana ⟨את⟩ baahi ba lefatshe ho tletse letsoho la lona, mme le tla ba tlola pele ho lona.",
   "tokens": [
     {
       "surface": "ושתי",
@@ -14,23 +14,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "meeli ea hau"
+      "marks": "meeli ya hau"
     },
     {
       "surface": "גבלך",
-      "gloss": "meeli ea hau"
+      "gloss": "meeli ya hau"
     },
     {
       "surface": "מים",
-      "gloss": "ho tloha lewatleng"
+      "gloss": "ho tloha lewatle"
     },
     {
       "surface": "סוף",
-      "gloss": "ea Ditafo"
+      "gloss": "la Suf"
     },
     {
       "surface": "ועד",
-      "gloss": "ho ea ho"
+      "gloss": "ho fihlela"
     },
     {
       "surface": "ים",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "וממדבר",
-      "gloss": "le ho tloha sekakeng"
+      "gloss": "le ho tloha tengwaneng"
     },
     {
       "surface": "עד",
-      "gloss": "ho ea ho"
+      "gloss": "ho fihlela"
     },
     {
       "surface": "הנהר",
-      "gloss": "molapo"
+      "gloss": "nokeng"
     },
     {
       "surface": "כי",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "אתן",
-      "gloss": "ke tla neha"
+      "gloss": "ke tla nehelana"
     },
     {
       "surface": "בידכם",
-      "gloss": "letsohong la lona"
+      "gloss": "ho tletse letsoho la lona"
     },
     {
       "surface": "את",
@@ -79,13 +79,13 @@
     },
     {
       "surface": "וגרשתמו",
-      "gloss": "'me le tla ba gurufatsa"
+      "gloss": "mme le tla ba tlola"
     },
     {
       "surface": "מפניך",
       "gloss": "pele ho lona"
     }
   ],
-  "timestamp": "2026-10-03T05:53:49.557501061Z",
+  "timestamp": "2026-10-03T13:31:05.350531108Z",
   "model": "glm-5.3"
 }

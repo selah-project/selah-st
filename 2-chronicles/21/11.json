@@ -5,8 +5,63 @@
   "book": "2-chronicles",
   "lang": "st",
   "chapter": 21,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T12:33:00.257937011Z",
+  "translation": "Hape yena o ile a etsa diphahamo thabeng tsa Yuda, mme a qhekella ⟨את⟩ ba dulang Yerushalayime, mme a hatella ⟨את⟩ Yuda.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hape"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "במות",
+      "gloss": "diphahamo"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "thabeng tsa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ויזן",
+      "gloss": "mme a qhekella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba dulang Yerushalayime"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba dulang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "וידח",
+      "gloss": "mme a hatella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-10-03T13:34:31.820406511Z",
   "model": "glm-5.3"
 }

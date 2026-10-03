@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "st",
   "chapter": 26,
-  "translation": "Bana ba Yisraele ba badilweng ke <את> bana ba Yisraele ba badilweng ke <את> — tsenyo: Ba balehilweng bana ba Yisraele e bile dikete tse tsheletseng tsa sekete le sekete le dikete tse supileng le mashome a mararo.",
+  "translation": "Bana ke ba balwang ba bana ba Yisraele: dikete tse dintsi tse letho le le mong le dikete tse supileng le mashome a supileng a mashome a motso o mong le mashome a mararo.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Bana ba"
+      "gloss": "Bana"
     },
     {
       "surface": "פקודי",
-      "gloss": "ba badilweng"
+      "gloss": "ba balwang"
     },
     {
       "surface": "בני",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "שש",
-      "gloss": "tse tsheletseng"
+      "gloss": "tse ennang"
     },
     {
       "surface": "מאות",
-      "gloss": "dikete tse"
+      "gloss": "dikete tse ntho"
     },
     {
       "surface": "אלף",
-      "gloss": "sekete"
+      "gloss": "le letho le le mong"
     },
     {
       "surface": "ואלף",
-      "gloss": "le sekete"
+      "gloss": "le dikete tse ntho"
     },
     {
       "surface": "שבע",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "מאות",
-      "gloss": "dikete"
+      "gloss": "le mashome a supileng"
     },
     {
       "surface": "ושלשים",
       "gloss": "le mashome a mararo"
     }
   ],
-  "timestamp": "2026-10-03T12:47:52.252095311Z",
+  "timestamp": "2026-10-03T13:30:32.192027113Z",
   "model": "glm-5.3"
 }

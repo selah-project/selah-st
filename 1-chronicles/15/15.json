@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 15,
+  "translation": "Mme barwa ba balevi ba ile ba roala ⟨את⟩ arone ya Elohim, jwaloka Moshe a laetse, ka mantswe a Yahwe, ka meqhaka ya bona, ka dikhuru holim'a tsona.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ba ile ba roala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arone ya Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arone"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ka mantswe a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "ka meqhaka ya bona"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "ka dikhuru"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "holim'a tsona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:34:51.287852714Z",
+  "model": "glm-5.3"
+}

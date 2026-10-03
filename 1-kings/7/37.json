@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 7,
+  "translation": "Ka mokhoa ona o ile a etsa ⟨את⟩ ditheo tse leshome; ho eiswa ho le ho le nngwe, tekanyo e le nngwe, sebopeho se le seng ho tsona tsohle.",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "ka mokhoa ona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditheo tse leshome"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tse leshome"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ditheo"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ho eiswa ho le ho le nngwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "tekanyo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "sebopeho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se le seng"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "ho tsona tsohle"
+    }
+  ],
+  "timestamp": "2026-10-03T13:31:04.455054620Z",
+  "model": "glm-5.3"
+}

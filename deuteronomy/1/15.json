@@ -5,8 +5,95 @@
   "book": "deuteronomy",
   "lang": "st",
   "chapter": 1,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T06:42:47.213730042Z",
+  "translation": "Mme ka nka ⟨את⟩ ditlhogo tsa mehleko ya lona, banna ba hlalephi, ba tsebahalang, mme ka ba beha e le ditlhogo hodima lona, barutehi ba dikete, barutehi ba makgolo, barutehi ba masome a hlano, barutehi ba leshome, le basebeletsi bakeng sa mehleko ya lona.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "mme ka nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhogo tsa mehleko ya lona"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ditlhogo"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "tsa mehleko ya lona"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ba hlalephi"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "ba tsebahalang"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mme ka beha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "e le ditlhogo"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ditlhogo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "hodima lona"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "barutehi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ba dikete"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le barutehi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ba makgolo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le barutehi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ba masome a hlano"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le barutehi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ba leshome"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "le basebeletsi"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "bakeng sa mehleko ya lona"
+    }
+  ],
+  "timestamp": "2026-10-03T13:31:44.424771243Z",
   "model": "glm-5.3"
 }

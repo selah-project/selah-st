@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "st",
   "chapter": 26,
-  "translation": "Hobane bonang, Yahwe o tla tswa moluleng wa hae ho etela {{עון}} ya dulo ya lefatshe, mme lefatshe le tla senola ⟨את⟩ madi a lona, mme le ke ke la ka la iphelosa ba bolailweng ba lona ha ho sa le kantle.",
+  "translation": "Hobane bonang, Yahwe o tla ho tswa sebakeng sa hae, ho etela mabele a ba dulang lefatshe holim'a bona; mme lefatshe le tla senola ⟨את⟩ madi a lona, mme le ke ke la koahala hape boleng ba ba bolailweng ba lona.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יצא",
-      "gloss": "o tla tswa"
+      "gloss": "o tla ho tswa"
     },
     {
       "surface": "ממקומו",
-      "gloss": "moluleng wa hae"
+      "gloss": "sebakeng sa hae"
     },
     {
       "surface": "לפקד",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "עון",
-      "gloss": "laheso"
+      "gloss": "mabele"
     },
     {
       "surface": "ישב",
-      "gloss": "ya dulo"
+      "gloss": "ba dulang"
     },
     {
       "surface": "הארץ",
-      "gloss": "ya lefatshe"
+      "gloss": "lefatshe"
     },
     {
       "surface": "עליו",
-      "gloss": "hodima oena"
+      "gloss": "holim'a bona"
     },
     {
       "surface": "וגלתה",
-      "gloss": "mme o tla senola"
+      "gloss": "mme le tla senola"
     },
     {
       "surface": "הארץ",
@@ -70,21 +70,21 @@
     },
     {
       "surface": "תכסה",
-      "gloss": "la iphelosa"
+      "gloss": "koahala"
     },
     {
       "surface": "עוד",
-      "gloss": "ha ho sa le kantle"
+      "gloss": "hape"
     },
     {
       "surface": "על",
-      "gloss": "hodima"
+      "gloss": "boleng ba"
     },
     {
       "surface": "הרוגיה",
       "gloss": "ba bolailweng ba lona"
     }
   ],
-  "timestamp": "2026-10-03T08:40:08.458488713Z",
+  "timestamp": "2026-10-03T13:33:53.416130117Z",
   "model": "glm-5.3"
 }

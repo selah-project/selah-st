@@ -5,8 +5,37 @@
   "book": "2-chronicles",
   "lang": "st",
   "chapter": 31,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-10-03T12:37:04.462727765Z",
+  "translation": "Mme Hizkiyahu a botsa baprista le Balevi ka masakana.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "a botsa"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "le Balevi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "masakana"
+    }
+  ],
+  "timestamp": "2026-10-03T13:34:28.863138640Z",
   "model": "glm-5.3"
 }
