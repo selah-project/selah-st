@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 24:4",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "להסך את רגליו",
+      "rationale": "Mongolo o re 'ho ipokella maoto' — puo ya Sesotho e hlakile; mongodi o ngotse 'ho itlhodisa'\/'ho etsa bonnyofolo'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בירכתי",
+      "rationale": "Mefuta e meng ya 'mekhahleo' — litoko tse ka hare ya toro"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רגליו",
+      "rationale": "Maoto — Seheberu se sebelisa mafoko a pene e kgontshweng ka eona"
+    }
+  ],
+  "translation": "Mme a fihla dihoreng tsa dinku, hodima tsela, mme moo ho ne ho le toro; mme Shaule a kena ho ipokella ⟨את⟩ maoto a hae; mme Dawide le banna ba hae ba ne ba dutse mekhahleleng ya toro.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "64c33ac778aae5fb923dfd3902a867c01ec503aec15a9479e83914ddf4fd577e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-samuel\/24\/4-4.1791265177327.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "גדרות",
+      "gloss": "dihoreng"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tsa dinku"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme moo"
+    },
+    {
+      "surface": "מערה",
+      "gloss": "toro"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "להסך",
+      "gloss": "ho ipokella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maoto a hae"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maoto a hae"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mme Dawide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba hae"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "mekhahleleng"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "ya toro"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "ba dutse"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:37.343551644Z",
+  "model": "glm-5.3"
+}

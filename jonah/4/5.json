@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 4:5",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מקדם",
+      "rationale": "qedem e bolela 'pele' kapa 'bochabela'; Sesotho a nkile 'bochabela' joaloka ditumeliso tse ding"
+    },
+    {
+      "kind": "addition",
+      "subject": "eena",
+      "rationale": "sehlomathiso לו se hlahisitswe ka ⟨eena⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "מה",
+      "rationale": "potso ya 'mahofe' e hatisitswe ho 'seo se tlang ho etsahala'"
+    }
+  ],
+  "translation": "Mme Yona a tswa motseng, a dula ka bochabela ho motse, mme a etsela ⟨eena⟩ sebakeng seo fora, a dula ka tlasa yona moriting, ho fihlela a bonne seo se tlang ho etsahala motseng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "65aa42dae216ae996fc1cdc60a595b3e98bca34fcba4599ce772b882cc868606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jonah\/4\/5-5.1791265456244.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ka bochabela"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ho motse"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a etsela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨eena⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sebakeng seo"
+    },
+    {
+      "surface": "סכה",
+      "gloss": "fora"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ka tlasa yona"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "moriting"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "a bonne"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tlang ho etsahala"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:16.246847320Z",
+  "model": "glm-5.3"
+}

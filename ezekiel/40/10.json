@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 40:10",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "diphapo le majareteng",
+      "rationale": "Ho balwa diphapo tharo ka lehlakore le leng, le tekanyo e le 'ngoe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מפה ומפו",
+      "rationale": "Kgetho ya 'mona le mona' (moo le moo) — mokgwa wa papiso wa Sesotho bakeng sa phetišo ya Seheberu."
+    }
+  ],
+  "translation": "Mme diphapo tsa ponto, ka tsela e ya bochabela, tharo mona le tharo mona; tekanyo e le 'ngoe bakeng sa tse tharo tsa tsona; mme tekanyo e le 'ngoe bakeng sa majareteng, mona le mona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/40\/9-12.1791265454703.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאי",
+      "gloss": "mme diphapo"
+    },
+    {
+      "surface": "השער",
+      "gloss": "tsa ponto"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela e ya"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "bochabela"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "mme tharo"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "tekanyo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le 'ngoe"
+    },
+    {
+      "surface": "לשלשתם",
+      "gloss": "bakeng sa tse tharo tsa tsona"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "mme tekanyo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le 'ngoe"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "bakeng sa majareteng"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "ומפו",
+      "gloss": "le mona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:14.706539669Z",
+  "model": "glm-5.3"
+}

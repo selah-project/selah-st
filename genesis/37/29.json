@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 37:29",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ho roba diaparo",
+      "rationale": "Ho roba diaparo ke mokgoa wa Seheberu wa majalelo a bohloko le tshwenyo; ho sa ngolwe hore ke hobaneng."
+    },
+    {
+      "kind": "addition",
+      "subject": "ha a le",
+      "rationale": "Seheberu se ntše se re 'ayin' (ha ho letho); Sesotho se hloka sebopeho se felletseng."
+    }
+  ],
+  "translation": "Mme Reubene a khutlela ho lehole, mme bona, Yosefa ha a le leholeng; mme a robe ⟨את⟩ diaparo tsa hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "7612c196911c0f04a24b23807fb5c809eaf3bdf8071831706bb550d388c9d8e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/37\/28-29.1791264795306.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a khutlela"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "lehole"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha a le"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "leholeng"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a robe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa hae"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "diaparo tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:15.335001229Z",
+  "model": "glm-5.3"
+}

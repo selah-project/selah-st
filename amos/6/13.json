@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 6:13",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ללא דבר \/ קרנים",
+      "rationale": "Setsebi se pare e le mabitso a dibaka — Lo-Debar le Karnaim (BSB); kapa 'se se nang letho' le 'dikonne' ka moelelo o tloaelehileng (KJV, JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikonne tse peli",
+      "rationale": "קרנים ke phahamiso-pedi (dual) sa קרן; Sesotho se hloka mantswe a mabedi 'dikonne tse peli' ho boloka sebopeho sa dual."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ללא דבר",
+      "rationale": "Ka Seheberu se ka balwa e le 'hae ya Lodebara' kapa 'se se nang letho' — dipapadi tsa mantswe tse lahlegang ka Sesotho."
+    },
+    {
+      "kind": "you",
+      "subject": "baetapele ba Yisraele",
+      "rationale": "Moeletso o tobang bakeng sa bahlahlami ba Yisraele ba pharalletseng lebnong la Yisraele."
+    }
+  ],
+  "translation": "Ba ntseng ba thabela se se nang letho, ba reng: Na ha se ka matla a rona ha re ile ra nka ⟨את⟩ dikonne tse peli bakeng sa rona?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "a66ea2bb913cad1bf506593fd108f41efa1f3d3e0977c75f737cf568b235a53a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/amos\/6\/13-13.1791265859161.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "ba ntseng ba thabela"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "se se nang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "letho"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ba reng"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "בחזקנו",
+      "gloss": "ka matla a rona"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "ha re ile ra nka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bakeng sa rona"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "dikonne tse peli"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:59.163879079Z",
+  "model": "glm-5.3"
+}

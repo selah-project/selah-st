@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 7:7",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba bang",
+      "rationale": "Seheberu se hlalosa karolo e itseng feela; Sesotho se hloka ho hlakisa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "selemong sa supileng",
+      "rationale": "Nako e balwa: selemo sa bosupa sa morena"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הנתינים",
+      "rationale": "Ba-Netinime — lebitso la setjhaba se filweng tempele; le bolokwa jwalo ka lebitso"
+    }
+  ],
+  "translation": "Mme ba nyoloha ⟨ba bang⟩ ba bana ba Yisraele, le ba bang ba baprista, ba Levi, ba bini, ba lilekane la lemantlha, le Ba-Netinime, ho ea Yerushalayime, selemong sa supileng ha Artakhashaseta morena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2c5e8d56578db2c5739d366844dc5a188c19db2a1c7ba89aa363dbe484f6d826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezra\/7\/6-7.1791265711624.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Mme ba nyoloha"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ba bang ba bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le ba bang ba"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ba Levi"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "ba bini"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "ba lilekane la lemantlha"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "le Ba-Netinime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ea"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "selemong sa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "supileng"
+    },
+    {
+      "surface": "לארתחשסתא",
+      "gloss": "ha Artakhashaseta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:31.631651918Z",
+  "model": "glm-5.3"
+}

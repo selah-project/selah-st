@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "matla a ka",
+      "rationale": "מעוזי ke 'botepe le tiiso ya ka' (fortified place); 'matla a ka' ke khutso e theolelang"
+    },
+    {
+      "kind": "alternative",
+      "subject": "botepe ba ka",
+      "rationale": "Moeli wa bobeli wa מעוזי — 'fortified place' ka moelelo oa ditirong"
+    }
+  ],
+  "translation": "O ntshitse ho serese sena seo ba se patitseng ho nna; hobane uena ke matla a ka.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5f6b1af8ad70c8fd2283359760ec9c06fb93b874cb4b7dce7edc1abebcc92150",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/31\/5-5.1791265531747.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "O ntshitse"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ho serese"
+    },
+    {
+      "surface": "זו",
+      "gloss": "sena"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ba se patitseng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uena"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "matla a ka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:31.748246705Z",
+  "model": "glm-5.3"
+}

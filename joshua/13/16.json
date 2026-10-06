@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 13:16",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sekgutlo sa sekgahla",
+      "rationale": "Tiragatso ya ho lekanya meelelo ya lefatshe la Ruebene — mela ya sekgutlo le mabitso a dibaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "molelwane",
+      "rationale": "שפת ke 'sefofa\/mollelo' ka boomo — 'molelwane' ke moelelo o tsoang ho sona, sesotho se se sebelisa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sekgahla se tletseng",
+      "rationale": "המישר ke 'sekgahla se papalatseng' — e le lebitso la sebaka hodima Medeba."
+    }
+  ],
+  "translation": "Mme sekgutlo sa bona se ile sa ba ho tloha ho Aroere eo e leng hodima molelwane wa nokana ya Arnone, le toropo eo e leng ka hare ho nokana, le boholo ba sekgahla se tletseng hodima Medeba.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "cff2b3445402fe33946d1bf7475d99d2a6d955107240257fd903fcb3f3f0fcb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/13\/16-16.1791265114885.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e ile sa ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa bona"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "sekgutlo"
+    },
+    {
+      "surface": "מערוער",
+      "gloss": "ho tloha ho Aroere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e leng"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "nokana"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "ya Arnone"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "le toropo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e leng"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "nokana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le boholo ba"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "sekgahla se tletseng"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Medeba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:34.890893816Z",
+  "model": "glm-5.3"
+}

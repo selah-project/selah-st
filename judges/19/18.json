@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 19:18",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בית יהוה",
+      "rationale": "'ntlo ya Yahwe': bangoli ba bang ba re 'Beit-El' kapa 'lelapa la Yahwe' (Shilo); mongolo o re 'ntlo ya Yahwe' ka ho tolleta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ירכתי",
+      "rationale": "'mafehle' bakeng sa motso wa 'lehlango' — karolo e ka thoko ea thaba."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עברים",
+      "rationale": "participle 'ba fetang' e neha bothati ba moeti; Sesotho 're ya mahare' e tsosolosa tsela ena."
+    }
+  ],
+  "translation": "Mme a mo re: Re ya mahare, re tswa Betleheme ya Yudha, ho ya mafehleng a thaba ya Efrayime; ho tloha moo ke sona, mme ke ile Betleheme ya Yudha, mme ⟨את⟩ ntlo ya Yahwe ke e ya ho yona, mme ha ho motho ya nkgobotsang hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5516f60c91f8997f4c5601332dc9320336d6beaaf25abfb0b85116f0440f6855",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/19\/18-18.1791265115229.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a mo re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "re ya mahare"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "re tswa Betleheme"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betleheme"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yudha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "mafehleng"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ho tloha moo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke sona"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "mme ke ile"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betleheme"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betleheme"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ke e ya ho yona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מאסף",
+      "gloss": "ya nkgobotsang"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ nna"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:35.239309914Z",
+  "model": "glm-5.3"
+}

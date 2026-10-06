@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bona",
+      "rationale": "Sephethelelo se hlophisitsweng se bolela 'ba' — Sesotho se hloaka sephethelelo"
+    },
+    {
+      "kind": "crux",
+      "subject": "השבתם",
+      "rationale": "KJV 'ye make them rest' kgahlanong le JPS potso 'will ye make them rest?' — puo ya Seheberu e ka ba bolelo kapa potso"
+    }
+  ],
+  "translation": "Mme Farao a re: Bonang, sechaba sa lefatshe se se sehloohong se le bongata, mme le etsa hore ba phomole ⟨את⟩ bona ho mosebello wa bona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4b8416635bb04eb89c4ada1cab1d993c55dcefb353b1bc7f25f6f863809f841b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/5\/5-5.1791264743318.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "se le bongata"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "se se sehloohong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "le etsa hore ba phomole"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "ho mosebello wa bona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:23.333139027Z",
+  "model": "glm-5.3"
+}

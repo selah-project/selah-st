@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ sebaka ⟩",
+      "rationale": "Seheberu se re feela 'O ile wa fetola sebopeho pele ho yona' — 'sebaka' se ekeditswe ho hlalosa"
+    },
+    {
+      "kind": "crux",
+      "subject": "פנית",
+      "rationale": "'O ile wa fetola sebopeho' e bolela 'wa hloekisa, wa bula tsela' (KJV 'preparedst room') kgahlanong le YLT 'wa shebisa' — pono ya 'ho hloekisa' e kgethilwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותשרש \/ שרשיה",
+      "rationale": "Tiriso ya motso o mošošoani ka hara lentsoe le le leng — ho hlahlama ka metla; se amohelwa ka dikarolo tse pedi ka Sesotho"
+    }
+  ],
+  "translation": "O kondositse ⟨ sebaka ⟩ pele ho yona, mme ya hlahlama ka metla, ya tlatsa lefatshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8742d99330ab9867a80e421502b103038645ca0af4134e9c04b16bfa348b88ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/80\/9-10.1791265604322.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "O kondositse"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "pele ho yona"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "mme ya hlahlama ka metla"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "metla"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ya tlatsa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:44.324258279Z",
+  "model": "glm-5.3"
+}

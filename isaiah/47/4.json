@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Mmopi",
+      "rationale": "גֹּאֲלֵנוּ ke 'ramokopi wa rona' — mmopi wa kamanong, molaodi wa malapa; 'Mmopi' o lokile ka Sesotho empa o nyefola tlhaku ya bong,” ”kind”: ”wrong-kind-fix”, ”fix”: ”substitution”, ”subject”: ”Mmopi”, ”rationale”: ”גֹּאֲלֵנוּ 'mmopi wa kamano' — go-i-redime ya lelapa; mongolo wa Sesotho o fokotsa tlhaku ya bong"
+    },
+    {
+      "kind": "addition",
+      "subject": "e ... wa",
+      "rationale": "Sesotho se hloka kopula le sehlomathiso; Seheberu se li hlapanya"
+    }
+  ],
+  "translation": "Mmopi wa rona, Yahwe Tsebaote ke lebitso la hae, ⟨e⟩ halalelang ⟨wa⟩ Yisraele.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "26f6f5732bdf8971258b6f956398f3e029057eac34aca6a91181ebf03ae79d5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/47\/4-4.1791265294687.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גֹּאֲלֵ֕נוּ",
+      "gloss": "Mmopi wa rona"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "שְׁמ֑וֹ",
+      "gloss": "lebitso la hae"
+    },
+    {
+      "surface": "קָד֖וֹשׁ",
+      "gloss": "e halalelang"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:34.688764896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 15:1",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mo e neng e le",
+      "rationale": "Sesotho e hloka sepheo se hlakileng bakeng sa sehlomathiso לו, Seheberu se se se na"
+    },
+    {
+      "kind": "elision",
+      "subject": "לו (ya pele)",
+      "rationale": "sehlomathiso se nelitswe ka 'hae' ka hara lentsoe la 'matlo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a hlamella boreledi",
+      "rationale": "ויט ke 'ho phalla \/ ho tlamalla hore e phalle' — ka Sephetheke se seng se bolela 'ho penta tenetele'"
+    }
+  ],
+  "translation": "Mme Dawide a etsa ⟨mo e neng e le⟩ matlo hae motseng wa Dawide, mme a lokisa sebakeng sa ⟨את⟩ arka ya Elohim, mme a hlamella boreledi ⟨mo e neng e le⟩ tenetele.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ca3429200aaa6d7fe71a80f983a06d6a2f13d7bedb517abc7e4f2bff60404e6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/15\/1-1.1791265725582.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hae"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "matlo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ויכן",
+      "gloss": "a lokisa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sa arka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "a hlamella boreledi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo e neng e le"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenetele"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:45.585934160Z",
+  "model": "glm-5.3"
+}

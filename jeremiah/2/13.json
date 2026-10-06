@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 2:13",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בארות בארת",
+      "rationale": "Peto-peto ya 'dihaheng, dihaheng' — boima bo bopele ba pheletso ya lefoko, bo timetse ka Sesotho."
+    },
+    {
+      "kind": "addition",
+      "subject": "ea boela",
+      "rationale": "Sehlangwanedi se keneng ho kopanya liketso tse peli, Seheberu se se sena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יכלו",
+      "rationale": "כול ke 'ho bolaka\/ho ts'ehetsa' ka hare — 'ho kgoneng ho bolaka' boloka mofuta oa lentsoe."
+    }
+  ],
+  "translation": "Hobane mabosi a mabeli sefofane sa batho ba ka: ba tlohotse ⟨את⟩ nna, mohlodi wa metsi a phelang, ba ea boela ba ikhatlare dihaheng, dihaheng tse thotsoeng, tse sa kgoneng ho bolaka metsi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "60b5f9e0edae036ba42d06b8f49805b34255f529be7d163635600bb2a5b33d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/2\/13-13.1791265291188.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "a mabeli"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "mabosi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sefofane sa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "batho ba ka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ba tlohotse"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "mohlodi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a phelang"
+    },
+    {
+      "surface": "לחצב",
+      "gloss": "ba ikhatlare"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בארות",
+      "gloss": "dihaheng"
+    },
+    {
+      "surface": "בארת",
+      "gloss": "dihaheng"
+    },
+    {
+      "surface": "נשברים",
+      "gloss": "tse thotsoeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgoneng ho bolaka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:31.190321654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bona",
+      "rationale": "Seheberu se na le sehlomathiso feela; pronoun e ngotsoe ka ⟨…⟩ moo e hlokahalang"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויערך...ויערך",
+      "rationale": "phetoko ya lefela-pheletso: ho hlokahletsa ho boeledwa habelo ho boela ho tsebahala, ho theoha ka tsela e ntle ka Sesotho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sethaleng sa ntoa",
+      "rationale": "pego ya mela ea botho: ho bopa le ho hlokahletsa masole kgahlanong le Se-Arame"
+    }
+  ],
+  "translation": "Mme ho bolelwa ho Dawide; mme a qobella ⟨את⟩ Yisraele kaofela, mme a feta Yoredene, mme a fihla ho bona, mme a ba hlokahletsa kgahlanong le bona; mme Dawide a hlokahletsa ntoa ho dula le Arame, mme ba lwa le ena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "960f19798649dda6ae571bdcc3aef410f10efe59436df440e515ec0103520edd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/19\/17-17.1791265723603.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ho bolelwa"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ho Dawide"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "a qobella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele kaofela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "a hlokahletsa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "a hlokahletsa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ho dula le"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le ena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:43.607396888Z",
+  "model": "glm-5.3"
+}

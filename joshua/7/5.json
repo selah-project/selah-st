@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 7:5",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וימס לבב העם ויהי למים",
+      "rationale": "Pelo e qhibiliha eba metsi — mofuta oa Seheberu oa ho tshaba haholo; sesotho se boloka sesupo sa metsi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "כשלשים וששה איש",
+      "rationale": "Palo e hlakileng ea ba bolailoeng: mashome a mararo a metso e tsheletseng ea banna."
+    },
+    {
+      "kind": "addition",
+      "subject": "e tshwana le",
+      "rationale": "Seheberu se re feela 'eaba e ba metsi'; se sesotho se hloka lentsoe la ho bapisa."
+    }
+  ],
+  "translation": "Mme batho ba Hai ba ba otla ka hara bona ho ka bang mashome a mararo a metso e tsheletseng ea banna, mme ba ba phalla pele ho sebatla ho fihlela Shebarime, mme ba ba otla thoko-hodimo; mme pelo ea sechaba e ile ea qhibiliha, eaba e ba ⟨e tshwana le⟩ metsi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "7c7456f9070f41d1dea3f8c060d57506dd622a94e544d64af02bac7641892208",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/7\/5-5.1791265092163.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ba ba otla"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka hara bona"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "batho ba"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Hai"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "ho ka bang mashome a mararo"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "a metso e tsheletseng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "וירדפום",
+      "gloss": "ba ba phalla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sebatla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "השברים",
+      "gloss": "Shebarime"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ba ba otla"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "thoko-hodimo"
+    },
+    {
+      "surface": "וימס",
+      "gloss": "ea qhibiliha"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo ea"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "eaba e ba"
+    },
+    {
+      "surface": "למים",
+      "gloss": "metsi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:12.167336025Z",
+  "model": "glm-5.3"
+}

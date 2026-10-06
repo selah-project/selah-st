@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ho etse",
+      "rationale": "Seheberu se se na bolelo boo ka tlhamalalo; se fanoa ho qeta poleloana"
+    }
+  ],
+  "translation": "Mme o theohela sebakeng sa ho tlama maja, mme a etsa tsohle tseo mosadi wa moholo wa hae, `mè wa mona, a laelang hore a di etse.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fc69ce4494221a2b63eb714e0804c0c782c34d220eef9f39b068eb110ba76181",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ruth\/3\/6-6.1791265637532.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "mme o theohela"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "sebakeng sa ho tlama maja"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "a laelang"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mosadi wa moholo wa hae, `mè wa mona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:17.532777673Z",
+  "model": "glm-5.3"
+}

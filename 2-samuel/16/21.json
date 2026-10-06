@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 16:21",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נבאשת",
+      "rationale": "Tlhaku e re 'ho nkha bosula' — Sesotho 'o muntshitse' — mmelele wa.bohle o latehana."
+    }
+  ],
+  "translation": "Mme Ahitofele a re ho Abeshalome: Kena ho dinkanele tsa ntata hao, tseo a li sieileng hore li boloke ntlo; mme Yisraele hohle a tla utlwa hore o muntshitse ⟨את⟩ ntata hao; mme matsogo a bohle ba ⟨את⟩ le uena a tla matlafala.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "3df8a19dd92b0b8e5a2c1060f2531b5aff6fc595ddb6cd587eec9b7c6ea2bb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-samuel\/16\/21-22.1791265198256.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ahitofele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abeshalome"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פלגשי",
+      "gloss": "dinkanele tsa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ntata hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "a li sieile"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "hore li boloke"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "mme a tla utlwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hohle ha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "נבאשת",
+      "gloss": "o muntshitse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntata hao"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ntata hao"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "mme a tla matlafala"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matsogo a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le uena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:58.262170682Z",
+  "model": "glm-5.3"
+}

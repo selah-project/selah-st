@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 8:29",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פיו",
+      "rationale": "Kammele 'molomo wa hae' kapa 'taelo ya hae' — kajeno baphetoleli bongata ba pheta 'molao\/taelo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חקו",
+      "rationale": "חק ke 'molao o behiloeng, moedi' — 'mollao' o amohetse tsebedi ya moedi le ya taelo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "moedi wa lewatle",
+      "rationale": "Sebakana sena se bala ka ho beha moedi le meamelo — pontsho ya tekano."
+    },
+    {
+      "kind": "you",
+      "subject": "ha ho",
+      "rationale": "Tlhahiso ena e bua ka Yahwe ka borutehi, eseng e bitsetse mobadi."
+    }
+  ],
+  "translation": "Ha a behela lewatle mollao wa lona, mme meetle e sa ke ke ea feta molao wa hae; ha a hlahlamisa ⟨את⟩ meamelo ya lefatshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "273e7a9704dbea2d9b0b7d71d00fa9bb9c8034694891145f60d23ada8e1c8ce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/proverbs\/8\/29-29.1791265589694.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשומו",
+      "gloss": "ha a behela"
+    },
+    {
+      "surface": "לים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "mollao wa lona"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "mme meetle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ea feta"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molao wa hae"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "ha a hlahlamisa"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "meamelo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:29.694591081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 9:33",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פטירים",
+      "rationale": "Sebaka se se fokolang se bolelang 'se se bulehileng, se se nang sehoe' — 'ba lokolohileng' ke moelelo, eseng sebaka sa motheo."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי יומם ולילה עליהם במלאכה",
+      "rationale": "Bafetoledi ba sa utlwisisana: 'mosebetsi o bohaleng ba bona' (ba thusa ba bang) kgahlanong le 'ba o etsa' (ba o sebetsa) — motheo o re 'upon them in the work'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ditlhogo",
+      "rationale": "ראשׁ (tlhogo) e somiswa e le 'etapele, moetapele' — Sesotho se boloka sebopeho sa 'tlhogo'."
+    }
+  ],
+  "translation": "Mme bana ke ba-binang, ditlhogo tsa bontate ba Malivi, ba dulang diphaposing, ba lokolohileng ⟨ho tswa mosebetsing o mong⟩; hobane ka motsheare le bosiu mosebetsing o bohaleng ba bona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "6050e9a311053876f393356970d727c9c00ad6f1dafe64960ae5d4d9429bc106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/9\/33-33.1791265742354.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְאֵ֣לֶּה",
+      "gloss": "mme bana"
+    },
+    {
+      "surface": "הַ֠מְשֹׁרְרִים",
+      "gloss": "ba-binang"
+    },
+    {
+      "surface": "רָאשֵׁ֨י",
+      "gloss": "ditlhogo tsa"
+    },
+    {
+      "surface": "אָב֧וֹת",
+      "gloss": "bontate"
+    },
+    {
+      "surface": "לַלְוִיִּ֛ם",
+      "gloss": "ba Malivi"
+    },
+    {
+      "surface": "בַּלְּשָׁכֹ֖ת",
+      "gloss": "diphaposing"
+    },
+    {
+      "surface": "פטירים",
+      "gloss": "ba lokolohileng"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יוֹמָ֥ם",
+      "gloss": "ka motsheare"
+    },
+    {
+      "surface": "וָלַ֛יְלָה",
+      "gloss": "le bosiu"
+    },
+    {
+      "surface": "עֲלֵיהֶ֖ם",
+      "gloss": "bohaleng ba bona"
+    },
+    {
+      "surface": "בַּמְּלָאכָֽה",
+      "gloss": "mosebetsing"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:02.356345970Z",
+  "model": "glm-5.3"
+}

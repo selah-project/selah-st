@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ha se 'moya' ka tlhoahoane; ke phefumoloho\/mohohomedi\/bophelo — 'bophelo' ke karolo e le 'ngoe feela ya sela sena"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדרש",
+      "rationale": "hudu ya lebitso la דרש e tšoaroang habeli-pele: thwii ya semela e bontša tlameho ya molao wa madi"
+    },
+    {
+      "kind": "you",
+      "subject": "ho Noa le bana ba hae",
+      "rationale": "molao ona o bolelwa ho Noa le ban'aabo ka bobedi ('lona' bo boholo)"
+    }
+  ],
+  "translation": "Mme hoo e bile ⟨את⟩ madi a lona, a bophelo ba lona, ke tla a batla; ho tswa letsohong la se phelang se seng le se seng ke tla a batla; mme ho tswa letsohong la motho, ho tswa letsohong la motho — mor'ae — ke tla batla ⟨את⟩ bophelo ba motho.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "158f5a39ab872ae4a1c2dcdecd27de4b1e796ae641ebbf68e4f2c93abf8dfba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/9\/5-5.1791264698126.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "hoo e bile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a lona"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "madi a lona"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "bakeng sa bophelo ba lona"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ke tla a batla"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ho tswa letsohong la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se seng le se seng"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "se phelang"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "ke tla a batla"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "mme ho tswa letsohong la"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ho tswa letsohong la"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mor'ae"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ke tla batla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo ba motho"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ba motho"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:38.139349167Z",
+  "model": "glm-5.3"
+}

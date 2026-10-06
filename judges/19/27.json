@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 19:27",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "filigesho",
+      "rationale": "פילגש ke mofuta o itseng wa mosadi — e bolokwa ka modumo, eseng ho fetola ho 'mosadi wa bobeli'"
+    },
+    {
+      "kind": "crux",
+      "subject": "o o lahletse",
+      "rationale": "נפלת — 'o lahletse' kapa 'a OE lahletse'; Seheberu se sa bolele hore a hlokahetse, se bontsha boemo feela"
+    },
+    {
+      "kind": "crux",
+      "subject": "הסף",
+      "rationale": "סף — 'mochele' wa lengelong kapa 'thekho' ya setsi sa molao; KJV 'threshold'"
+    }
+  ],
+  "translation": "Mme monga hae a hlaha hoseng, a bula ditloko tsa ntlo, a tswa ho ya tsela ya hae; mme bonang, mosadi, filigesho ya hae, o o lahletse phatlalatsi ya ntlo, mme matsoho a hae hodima mochele.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4706b42a03f22093bc69c529f82329d10315f202ab29615de3eb31e4446c008c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/19\/27-27.1791265109111.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a hlaha"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "monga hae"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "a bula"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ditloko"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tsa ntlo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a tswa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "tsela ya hae"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "filigesho ya hae"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "o o lahletse"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "phatlalatsi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "mme matsoho a hae"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "mochele"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:29.119443113Z",
+  "model": "glm-5.3"
+}

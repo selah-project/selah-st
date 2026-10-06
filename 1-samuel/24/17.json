@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 24:17",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sefala hore e le",
+      "rationale": "Sehapo sa potso sa Seheberu se hlahisitswe ka mantswe a Sesotho"
+    },
+    {
+      "kind": "idiom",
+      "subject": "a ntsha lentswe la hae",
+      "rationale": "נשא קול — ho phahamisa lentswe; Sesotho se re 'ho ntsha lentswe'"
+    }
+  ],
+  "translation": "Mme e bile, Dawide a qetela ho bua ⟨את⟩ mantswe ana ho Shauile, mme Shauile a re: Na sefala hore e le lentswe la hao, mora ka Dawide? Mme Shauile a ntsha lentswe la hae, mme a lla.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "56c7ad596ffec70e57abba36c31fd79e5632a8dfa8b7d261cce1fb0a7b47d1b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-samuel\/24\/17-17.1791265184686.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "a qetela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho bua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe ana"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauile"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauile"
+    },
+    {
+      "surface": "הקלך",
+      "gloss": "lentswe la hao"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mora ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "a ntsha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauile"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "lentswe la hae"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "mme a lla"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:44.690296622Z",
+  "model": "glm-5.3"
+}

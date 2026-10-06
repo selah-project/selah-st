@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 38:21",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "numberings",
+      "rationale": "The verse is an inventory census of the Mishkan's materials, counted at Moshe's command."
+    },
+    {
+      "kind": "crux",
+      "subject": "pekudei",
+      "rationale": "פקודי 'numberings\/inventory' vs 'sum' (KJV) vs 'accounts' (JPS) — all from one verb 'to count'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "by the mouth of",
+      "rationale": "על פי literally 'upon the mouth of' = according to the command of."
+    }
+  ],
+  "translation": "These are the numberings of the Mishkan, ⟨tabernacle⟩ of the testimony, which were numbered by the mouth of Moshe, the work of the Levites, by the hand of Itamare, the son of Aharone, the priest.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f559b5ad7d977f9d9898bbcb85c2469014965dc7909f31122deb949a46695942",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/38\/21-21.1791264810065.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "These"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "are the numberings of"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "the Mishkane"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "tabernacle"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "of the testimony"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "were numbered"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "פי",
+      "gloss": "the mouth of"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "the work of"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "the Levites"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by the hand of"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamare"
+    },
+    {
+      "surface": "בן",
+      "gloss": "the son of"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "the priest"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:30.069976993Z",
+  "model": "glm-5.3"
+}

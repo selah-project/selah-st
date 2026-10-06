@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעצר",
+      "rationale": "'koallo' kapa 'pelo-bohata' — ba fetoleli ba fapana: oppression (KJV) kgahlanong le restraint (YLT)"
+    }
+  ],
+  "translation": "Mme ba fokola, ba ikhohomosa, ka ho koalloa ha hloihlo le kutlwello-hloko.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/107\/37-40.1791265617421.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "ba fokola"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "ba ikhohomosa"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "ho koalloa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hloihlo"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "kutlwello-hloko"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:57.424157405Z",
+  "model": "glm-5.3"
+}

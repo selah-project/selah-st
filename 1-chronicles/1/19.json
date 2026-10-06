@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 1:19",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פלג\/נפלגה",
+      "rationale": "Lebitso Felege le tswa ho tlhaku e tšoanang le e sebelisoang ho ntlha ya hae lefatshe la arohana — kamano ea e senyehile ka ho pheta ka Sesotho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "bara babedi",
+      "rationale": "Palo ya bara ba Evere — bongata bo dula jwalo ka ha mongolo o re"
+    }
+  ],
+  "translation": "Mme ho Evere ho tswaletšwe bara babedi; lebitso la mong e bile Felege, hobane matsatsing a hae lefatshe la arohana, mme lebitso la morwarrao e bile Yoktane.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "18b1f9ff8290b830dafef51addfac7b0b57fc759b880c295302354d1513eeae3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/1\/19-19.1791265718911.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "ho Evere"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ho tswaletšwe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "babedi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "la mong"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Felege"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "matsatsing a hae"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "la arohana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme lebitso"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "la morwarrao"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktane"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:38.915306469Z",
+  "model": "glm-5.3"
+}

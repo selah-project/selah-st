@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 26:18",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ho Uziahau",
+      "rationale": "Baporofeta ba buisana le morena ka ho mo bitsa ka lebitso — kopo e tobileng hore a tlose tempeleng."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mokoko",
+      "rationale": "להקטיר ke ho futhumatsa mokoko\/ntswa; mantswe a mengata a re 'incense' ka lekunutu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sehloloriso",
+      "rationale": "מעלת (ho sekereha) — ho tswelela ka bonkene bo sa dumellanang le selekane."
+    },
+    {
+      "kind": "crux",
+      "subject": "וְלֹא־לְךָ לְכָבוֹד",
+      "rationale": "'Ha ho uena sehloriso' (BSB\/ASV: 'you will not receive honor') kgahlanong le mongolo wa Septuagint o reng 'e ke ke ya ehlakolla' (Wycliffe); Moheberu o kgutswehile."
+    }
+  ],
+  "translation": "Mme ba ema khahlanong le Uziahau morena, mme ba mo re: E se ke ea ea ho uena, Uziahau, ho futhumatsa mokoko ho Yahwe; hobane ho baporofeta ba Aharone, barui ba Aharone ba hlaheleditsweng, ho futhumatsa mokoko. Tsoa ho tempele; hobane o ile wa sekereha; mme ebile ha ho uena sehloriso ho tswa ho Yahwe Elohim.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4079e448f3be04cf4a40e2bf4f88a351191311cbfc30ebcd0dad070b29cc45d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/26\/18-18.1791265820923.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "Mme ba ema"
+    },
+    {
+      "surface": "על",
+      "gloss": "khahlanong le"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziahau"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "E se ke ea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziahau"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "ho futhumatsa mokoko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ho baporofeta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barui"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "ba hlaheleditsweng"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "ho futhumatsa mokoko"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Tsoa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "tempele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "o ile wa sekereha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ebile ha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "sehloloriso"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ho tswa ho Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:20.927518284Z",
+  "model": "glm-5.3"
+}

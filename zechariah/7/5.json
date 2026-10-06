@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 7:5",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וספוד",
+      "rationale": "'Ho lala mekhatlo' — Sesotho idiom ya mello ya ho lla ho emisa moelelo wa Seheberu wa ho kgwathola moriri le ho otlesa sehuba."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dilemo tse supileng tse leshome",
+      "rationale": "Palo ya dilemo tse 70 e hlalosa nako ya tshokollo."
+    },
+    {
+      "kind": "you",
+      "subject": "ho batho ba lefatshe le baprista",
+      "rationale": "Boitsebiso bo tobileng ho batho bohle ba lefatshe le ho baprista, mme potso e tobile ho bona."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי",
+      "rationale": "Kamoo e hlalositsweng kateng 'ha' e ka boela e ba 'na' e hlatholang potso; moelelo wa lentsoe o pharaletseng haholo."
+    }
+  ],
+  "translation": "Ea bolela ho batho bohle ba lefatshe, le ho baprista, ea re: Ha le ne le itshokolle le lala mekhatlo ka kgwedi ya bohlano le ya bosupela, le mo e le dilemo tse supileng tse leshome, na le itshokolle ⟨את⟩ tshokollo eo ho nna, nna?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "404072115299ad9b4e6e47599917ee006c1a5a73ee696900d3f2eaea3d946faf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/zechariah\/7\/5-5.1791265516661.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ea bolela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ea re"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "צמתם",
+      "gloss": "le itshokolle"
+    },
+    {
+      "surface": "וספוד",
+      "gloss": "le lala mekhatlo"
+    },
+    {
+      "surface": "בחמישי",
+      "gloss": "ka kgwedi ya bohlano"
+    },
+    {
+      "surface": "ובשביעי",
+      "gloss": "le ya bosupela"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "le mo e le"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tse supileng tse leshome"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "הצום",
+      "gloss": "tshokollo"
+    },
+    {
+      "surface": "צמתני",
+      "gloss": "le itshokolle"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:16.662000350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 15:18",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותסיתהו",
+      "rationale": "setho se bolelang 'ho khotlifatsa\/hlokomatsa' — diphetolelo di fapana: 'a mo khothaletsa' kgahlanong le 'a mo fila'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמור",
+      "rationale": "חמור ke phoofolo ya moea; Sesotho se na le lentswe le le tee 'pere ya moea'."
+    },
+    {
+      "kind": "elision",
+      "subject": "שדה",
+      "rationale": "'letamo' e filelwe ka ⟨…⟩ hobane temana ea e hlalosa ka buoy 15:19 feela."
+    },
+    {
+      "kind": "you",
+      "subject": "to Aksa",
+      "rationale": "Kalebe o botsa moradi wa hae ka ho koa: 'O batlang?'"
+    }
+  ],
+  "translation": "Mme e bile ha a fihla ho yena, a mo khothaletsa hore a kope ho etlelle ⟨את⟩ papa wa hae ⟨letamo⟩; mme a theoha hodima pere ya moea, mme Kalebe a re ho yena: O batlang?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "123a27c9f601eb6c71c18e310aeb4a0bc64d5a3f24efa8db7359e17573e606dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/15\/18-18.1791265091848.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "ha a fihla"
+    },
+    {
+      "surface": "ותסיתהו",
+      "gloss": "a mo khothaletsa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "hore a kope"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho etlelle ⟨את⟩"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "papa wa hae"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "⟨letamo⟩"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "mme a theoha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "pere ya moea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "O batlang"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:11.854015785Z",
+  "model": "glm-5.3"
+}

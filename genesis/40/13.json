@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 40:13",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ישא את ראשך",
+      "rationale": "Idiom ya Seheberu 'ho hlahlama hloho' — ho bontsha tlhohorelo kapa ho hatswa; ka Sesotho 'ho hosola hloho' e tlosa melaetsa ya kgotsa e sa lebelloang."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כנך",
+      "rationale": "'Setulo' bakeng sa kên — e leng tafole ya taolo kapa setulo sa boahlaodi, eseng setulo sa borena feela."
+    },
+    {
+      "kind": "measurement",
+      "subject": "matsatsing a mararo",
+      "rationale": "Palo e sa tswa: matsatsi a mararo a lebisang tlhaho ya toro (ditlanka tse tharo)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמשפט",
+      "rationale": "mishpat mona ha se 'kahlolo' e le 'tlwaelo\/taelo ya boahlaodi' — leobo le le leng le na le mehlaedi e mebedi."
+    }
+  ],
+  "translation": "Ho ntse ho le matsatsing a mararo Faro o tla hosola ⟨את⟩ hloho ya hao, mme a o busetse setulong sa hao, mme o behe kelenge ya Faro letsohong la hae, ka tlwaelo ya pele eo o neng e le mohobi wa hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9055bf6cfbfc90747bbf2239542e2c2aeac9bfc66f177404a9dcaf9ebc8c5b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/40\/13-13.1791264767147.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "ho ntse ho le"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsing"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "o tla hosola"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho ya hao"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "hloho ya hao"
+    },
+    {
+      "surface": "והשיבך",
+      "gloss": "mme a o busetse"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כנך",
+      "gloss": "setulong sa hao"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o behe"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kelenge"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Faro"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "letsohong la hae"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ka tlwaelo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya pele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "o neng e le"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "mohobi wa hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:47.152524620Z",
+  "model": "glm-5.3"
+}

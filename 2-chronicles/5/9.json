@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 5:9",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על פני הדביר",
+      "rationale": "'ka pela pele ho Debire' — Hebrew literally 'upon the face of the Debir'"
+    },
+    {
+      "kind": "addition",
+      "subject": "di ile tsa dula",
+      "rationale": "Sesotho past narrative requires a helper verb for ויהי שם 'and it was there'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויראו \/ יראו",
+      "rationale": "root ראה 'seen \/ not seen' repeated twice — visible before the shrine, invisible outside"
+    }
+  ],
+  "translation": "Mme dibatle di ile tsa enwa haholo, hore hloho ya dibatle di bonahala ho tloha ⟨moring> lefatshe, ka pela ⟨pele ho⟩ Debire; empa tsa sa bonahale ka ntle. Mme di ile tsa dula moo ho fihlela letsatsi lena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "3a62e61927aac6c9c9fab7cf37103ae1fdeb731bfea8c8cfbe743accbff4026c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/5\/9-9.1791265740441.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאריכו",
+      "gloss": "di ile tsa enwa haholo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dibatle"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "di bonahala"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hloho ya"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dibatle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "moring"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka pela"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa tsa sa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bonahale"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "di ile tsa dula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi lena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:00.445810714Z",
+  "model": "glm-5.3"
+}

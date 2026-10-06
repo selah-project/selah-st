@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 42:15",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se sebakeng se tletseng",
+      "rationale": "פניו (sefahleho sa sona) — Sesotho se hloka sebopeho se pharalletseng"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב",
+      "rationale": "phetišo ya 'ho potoloha ka ho potoloha' — mokgotla wa Sephuthi o bolokilwe"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tekanyo",
+      "rationale": "moelelo o moholo wa molao wa tekanyo ya tempele"
+    },
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "sezumelo sa Sesotho se hloka sesupa-apeng sebakeng sa הוציאני"
+    }
+  ],
+  "translation": "Mme a qetela ⟨את⟩ tekanyo ya ntlo ya ka hare, a ntsehetse ka tsela ya seba se sebakeng se tletseng bochabela, mme a e lekanya ho potoloha ka ho potoloha.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ff44a691ddf58d831e02a3632a6770bf03c3ca4e23a21e2c8b8c69d8a64139d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/42\/15-15.1791265411409.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "mme a qetela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tekanyo ya ntlo ya ka hare"
+    },
+    {
+      "surface": "מדות",
+      "gloss": "tekanyo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "ya ka hare"
+    },
+    {
+      "surface": "והוציאני",
+      "gloss": "a ntsehetse"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ya seba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "se sebakeng se tletseng"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "bochabela"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "mme a e lekanya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka ho potoloha"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:31.410324465Z",
+  "model": "glm-5.3"
+}

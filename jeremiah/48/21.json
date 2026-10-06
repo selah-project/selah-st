@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "setjhaba sa lefala",
+      "rationale": "המישר ke lebitso la lefala la Moabo, 'naha ea plana' — kaofela e phetoloa ho e na le ho tsejoa e le lebitso"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dibaka",
+      "rationale": "Tahlelo ya mabitso a dibaka tsa Moabo — lenane la ditoropo tse tla ahlolelwa"
+    }
+  ],
+  "translation": "Mme kahlolo e fihlile sebakeng sa setjhaba; ho Kholone, le ho Yakhatsa, le hodima Mofeatha,",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "7aa2119ef38448fda11c257540df2ab5a51d0e85c26ba2886bfcb6bf631e0776",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/48\/21-21.1791265342379.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "Mme kahlolo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e fihlile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "sa lefala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Kholone"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yakhatsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le hodima"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "Mofeatha"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:22.381311268Z",
+  "model": "glm-5.3"
+}

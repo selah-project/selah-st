@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 23:10",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "באות מדבר",
+      "rationale": "נאות e bolela matlo\/masapo a fepang — meraka ya naha; KJV 'pleasant places' e bile kgetho e fapaneng."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא כן",
+      "rationale": "Seheberu se re 'ha jwalo' — phetolelo e hlahisitswe e le 'a sa lokahala'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מפני אלה",
+      "rationale": "Kopa: 'ka baka la maledikto' kgahlanong le YLT 'ka baka ha tsona' (ba-adultere)."
+    }
+  ],
+  "translation": "Hobane lefatshe le tlala ke ba-adultere; hobane ka baka la maledikto lefatshe le ile la lla, meraka ya naha e omile; mme metsamao ya bona e mpe, matla a bona a sa ⟨lokahala⟩.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f9d3a77637cbd16499a4ca16caa799451fe9b794d711662d1a8935dd3db1cc3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/23\/10-10.1791265297512.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "ba-adultere"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tlala ke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "maledikto"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "e ile la lla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "e omile"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "meraka"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ya naha"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mme e bile"
+    },
+    {
+      "surface": "מרוצתם",
+      "gloss": "metsamao ya bona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e mpe"
+    },
+    {
+      "surface": "וגבורתם",
+      "gloss": "le matla a bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨lokahala⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:37.514019307Z",
+  "model": "glm-5.3"
+}

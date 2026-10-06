@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לך",
+      "rationale": "'What (is) to you?' — Heb idiom for 'what business have you there?'; rendered as 'o batla eng' (what do you seek)"
+    },
+    {
+      "kind": "crux",
+      "subject": "Shikhore",
+      "rationale": "שׁיחוֹר: Nile branch \/ 'black water' of Egypt vs 'the River' (Euphrates) for Assyria — most read both as the great rivers of the two powers"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisraele\/Jerusalem",
+      "rationale": "Yahwe o botsa setjhaba ka kotloloho"
+    },
+    {
+      "kind": "elision",
+      "subject": "לך (ya bobeli)",
+      "rationale": "Moeti wa bobeli o phuthetsoe ho 'Le o batla eng' — ha o ngotwe hape"
+    }
+  ],
+  "translation": "Mme jwale, o batla eng tsela ya Mitsrayime, hore o noe metsi a Shikhore? Le o batla eng tsela ya Ashure, hore o noe metsi a noka?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9dee0af06c03a743e9b416523ba14b229b2c12ab090af2e8fd9cd3268d5e6181",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/2\/18-18.1791265287352.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mme jwale"
+    },
+    {
+      "surface": "מה",
+      "gloss": "o batla eng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o batla eng"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "tsela ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "hore o noe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi a"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "Shikhore"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Le o batla eng"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "tsela ya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "hore o noe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi a"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "noka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:27.354308281Z",
+  "model": "glm-5.3"
+}

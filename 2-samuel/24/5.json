@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנחל",
+      "rationale": "KJV 'river' vs JPS\/ASV 'valley' — nachal ke sela se tletseng metsi kapa lehlakore la omileng."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba lapa",
+      "rationale": "ויחנו e bolela 'ha ba lapa' — setsi sa sesole, eseng ho lula nako e telele."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ho lehono",
+      "rationale": "yamin e ka boela ya bolela 'leboya' (ka mahlakore a Baltic) empa 'ho lehono' ke e tloaelehileng."
+    }
+  ],
+  "translation": "Mme ba feta ⟨את⟩ Yoredene, mme ba lapa ho Aroere, ho lehono la toro eo e leng ka hare ho lehlakore la Lageade, mme ho ya ho Yaezere.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "7e83ba227eab3baa999a3008c0f109d93cae0bf6eb211fcfe20f3672525bc2e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-samuel\/24\/5-5.1791265156198.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ba feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba lapa"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "ho Aroere"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ho lehono"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la toro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e leng"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "lehlakore"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "la Lageade"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme ho ya ho"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezere"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:16.227502072Z",
+  "model": "glm-5.3"
+}

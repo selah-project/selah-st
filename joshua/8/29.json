@@ -1,0 +1,175 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 8:29",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a mo tela",
+      "rationale": "Seheberu se re feela 'o tela' — semorao se fokotsitsoe, Sesotho se hloka sona"
+    },
+    {
+      "kind": "crux",
+      "subject": "מן העץ",
+      "rationale": "'hodima sefateng' — e ka 'nyehileng sefateng' (min) kapa 'tlohileng sefateng'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העי \/ העיר",
+      "rationale": "Ai le 'toropo' (ha-ir) di utloahala di tshwana ka mokgwa wa lentšu, tse lahlehileng ka Sesotho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד היום הזה",
+      "rationale": "Palo ya nako: 'ho fihlela lehono enwa' — palo ya dintho e sa feleng"
+    }
+  ],
+  "translation": "Mme ⟨את⟩ morena wa Ha-Ayi o ile a mo tela hodima sefate ho fihlela mokheteng wa mantsiboya; mme ka ho kenya letsatsi, Yehoshua a laela, mme ba theola setopo sa hae hodima sefateng, mme ba se hlahisa molemong wa sebakeng sa sefate sa toropo, mme ba hlahisa hodima sona galwa ya majwe a makhulu, ho fihlela lehono.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0fff7d9306733ff771684d21d47a8ad064a46168c590f2db08e1384fe5a019d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/8\/29-29.1791265093249.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "morena wa Ha-Ayi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "העי",
+      "gloss": "wa Ha-Ayi"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "a tela"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "עת",
+      "gloss": "mokheteng"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "wa mantsiboya"
+    },
+    {
+      "surface": "וכבוא",
+      "gloss": "mme ka ho kenya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וירידו",
+      "gloss": "mme ba theola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setopo sa hae"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "setopo sa hae"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sefateng"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "mme ba se hlahisa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "molemong wa sebakeng sa sefate sa toropo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "molemong"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa toropo"
+    },
+    {
+      "surface": "ויקימו",
+      "gloss": "mme ba hlahisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hodima sona"
+    },
+    {
+      "surface": "גל",
+      "gloss": "galwa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ya majwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "a makhulu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨enwa⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:13.255870512Z",
+  "model": "glm-5.3"
+}

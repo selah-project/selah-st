@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 5:8",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קנינו",
+      "rationale": "qetello ya 'ra reka' (YLt) kgahlanong le 'ra lokolosa ka ho reka' (KJV\/JPS) — Seheberu se re 'ra reka' feela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכר",
+      "rationale": "kgutliso ya motso 'rekisa\/rekilwe\/rekiloa' — maru a mantshi a mošutu, a bolokilweng ka Sesotho ka motso o mong 'reka'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כדי בנו",
+      "rationale": "'ho tsamaisana le hoo e leng ho rona' — kapa 'ho tsamaisana le matla a rona' (KJV 'after our ability')"
+    }
+  ],
+  "translation": "Mme ka re ho bona: Rona re ile ra reka ⟨את⟩ booomu ba rona Bajuda, bao ba neng ba rekilwe ho ditjhaba, ho tsamaisana le hoo e leng ho rona; mme le lona le rekisa ⟨את⟩ booomu ba lona, mme ba rekiloa ho rona! Mme ba chimomela, mme ba sa fumane lentswe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "945204cef4cb2f57f7c2c0f9d17b5c4f0dd991e04f7907bdc6d33fc50955081a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/nehemiah\/5\/7-8.1791265706141.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "mme ka re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "rona"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "re ile ra reka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "booomu ba rona"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "booomu ba rona"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Bajuda"
+    },
+    {
+      "surface": "הנמכרים",
+      "gloss": "bao ba neng ba rekilwe"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ho ditjhaba"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "ho tsamaisana le"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hoo e leng ho rona"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "le rekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "booomu ba lona"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "booomu ba lona"
+    },
+    {
+      "surface": "ונמכרו",
+      "gloss": "mme ba rekiloa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "ויחרישׁוּ",
+      "gloss": "mme ba chimomela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "fumane"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:26.149822859Z",
+  "model": "glm-5.3"
+}

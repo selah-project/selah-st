@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 15:2",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Baitise",
+      "rationale": "הבית: lebitso la lefela (Bayith) kapa 'ntlo\/tempele' — KJV\/ASV e le lebitso, BSB 'tempele'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tsona",
+      "rationale": "Seheberu se na le bobedi bo pharaletseng ('-av'), Sesotho se hloka sesupo sa bongata."
+    }
+  ],
+  "translation": "Ho Baitise o ile hodima, le Dibone, libakeng tse phahameng, ho lla; holimo Nebone le holimo Meideba Moabe o tla lla; dihloho tsa yona tsohle di tla hloeka, mosehle ohle o tla tloswa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "454b7d296cdcb3330af09ad7828aaf2ae68d34b9f1374f3df6efa25e9dc1355b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/15\/2-3.1791265325253.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "o ile hodima"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Baitise"
+    },
+    {
+      "surface": "ודיבן",
+      "gloss": "le Dibone"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "libakeng tse phahameng"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "ho lla"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nebone"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le holimo"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Meideba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "o tla lla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ראשיו",
+      "gloss": "dihloho tsa yona tsohle"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "di tla hloeka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mosehle"
+    },
+    {
+      "surface": "גרועה",
+      "gloss": "o tla tloswa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:05.255796125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ונתעודד",
+      "rationale": "Hitpolel ya עוד — 'ho ipolosa ho fihlela ho itjama'; 're itjamile ka maoto' ke sereti sa maemo a maoto, eseng tlhaho ya lentswe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרעו\/נפלו kgahlanong le קמנו\/ונתעודד",
+      "rationale": "Kgutlaniso ya bonwele: ho khunama-ho wa kgahlanong le ho tsuha-ho itjama; mekhahlelo ena ya bobedi e latelana"
+    }
+  ],
+  "translation": "Ba entswe ba khunama mme ba wa; empa rona re ile re tsuha mme re itjamile ka maoto.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c09fa73098bc9a5d19247dcbf754ef8b67a6f9381d3f287f583e2a99697bed25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/20\/9-9.1791265532495.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ba"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ba khunama"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "mme ba wa"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "empa rona"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "re ile re tsuha"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "mme re itjamile ka maoto"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:32.496090239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 37:21",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הגוים",
+      "rationale": "Seheberu se re 'melimo ya ditjhaba' — ditjhaba tsa kantle ho Yisraele; 'ditjhaba' ke moelelo o hlalosang."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם \/ אותם",
+      "rationale": "Aleph-tav e amahanwang le sebopeho sa lentsoe la Sesotho ka hare ho lentsoe la boitšoaro; e bolokwa e le ⟨את⟩ feela."
+    }
+  ],
+  "translation": "Mme u bolelle bona, jwalo: ho bolela Adonai Yahwe: Bonang, ke nna ke nka ⟨את⟩ bana ba Yisraele hara ditjhaba moo ba ileng teng, mme ke ba bokella ho tloga mabapi, mme ke ba isa ho arable ya bona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "57dd8009ed1f6d1d2d535a8016990ad3eec39ed404539d5986d731d55fc3ad5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/37\/21-21.1791265406812.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "Mme u bolelle"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ke nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "hara"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba ileng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "mme ke ba bokella"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba (bokella)"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ho tloga mabapi"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "mme ke ba isa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ba (isa)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "arable ya bona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:26.815049799Z",
+  "model": "glm-5.3"
+}

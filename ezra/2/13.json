@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "lekgutubane",
+      "rationale": "Hebrew lacks a conjunction\/verb phrase; Sesotho requires a linking word before the number"
+    }
+  ],
+  "translation": "Bana ba Adonikame, dikete tse tsheletseng ⟨את⟩... ",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d5c79b6e3db1915b71c8c4b398439029369b4bdda84ebf20ce581ec15430b02d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezra\/2\/13-13.1791265667109.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "Adonikame"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tse tsheletseng"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgoa"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "masome a tsheletseng"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "le tsheletseng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:47.114118622Z",
+  "model": "glm-5.3"
+}

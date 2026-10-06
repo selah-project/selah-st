@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "linku",
+      "rationale": "מקנה ke thoto e phelang — dihoope, dikgomo, linku kaofela; 'linku' ke karolo ya sela se se phelang"
+    },
+    {
+      "kind": "crux",
+      "subject": "מדברה",
+      "rationale": "מדבר ka boikemisetso (he locative) — naha e holimo ya borelese kapa lefifing; kahlolo pakisteng tsa 'desert' le 'wilderness' le 'pasture'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mokhoa oo⟩",
+      "rationale": "Seheberu se hlakisa 'ho kena' ntleng ya seea se neng se le teng; Sesotho se hloka sesupa-kgolo"
+    }
+  ],
+  "translation": "Mme ba dula ka bochabela ho fihlela ho ⟨mokhoa oo⟩ o kena ho naha e holimo ya borelese, ho tloha moleng wa Perețe, hobane linku tsa bona di ile tse eketseha naheng ya Gileade.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2e1c49a0ca1421f0d3a1048b06a17dd7ba9f96d21cf04248c46968aa4a628614",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/5\/9-9.1791265727255.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "mme ka bochabela"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ho kena"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ho naha e holimo ya borelese"
+    },
+    {
+      "surface": "למן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "moleng"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perețe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "linku tsa bona"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "di ile tse eketseha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileade"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:47.259651778Z",
+  "model": "glm-5.3"
+}

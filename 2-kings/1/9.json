@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 1:9",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elia",
+      "rationale": "moetapele o bitela Elia ka boomo: 'Mona, motho wa Elohim'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hloho ya thaba",
+      "rationale": "ראש ההר — 'hloho ya thaba', sebopeho sa 'letlaalo' sa Sesotho se ka lahlwa."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨you⟩",
+      "rationale": "Seheberu se ngola 'motho wa Elohim' ka boyona; Sesotho se hloka sebitso sa kgetho."
+    }
+  ],
+  "translation": "Mme a romella ho yena moetapele wa ba mashome a hlano le ba mashome a hlano ba hae; mme a ya hodima ho yena, mme bonang, o duloḍuloḍulo — o dula hodima hloho ya thaba; mme a mo bulella moo a re: Mona ⟨you⟩ motho wa Elohim, morena o ile a bua, a re: Theha.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "bd25b47a5785e030dfd47a662d54e80da3d02a347e7b9ed884de620e93e3bbeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-kings\/1\/9-9.1791265214551.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romella"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "שר",
+      "gloss": "moetapele"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ba mashome a hlano"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "le ba mashome a hlano ba hae"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a ya hodima"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o dula"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ya thaba"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a buela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o ile a bua"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "theha"
+    }
+  ],
+  "timestamp": "2026-10-06T05:40:14.557029995Z",
+  "model": "glm-5.3"
+}

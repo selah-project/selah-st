@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 8:3",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba makgolo a mararo, batho ba",
+      "rationale": "שלשים אלף ke 'thirty thousand' — Sesotho se bala ka makgolo"
+    },
+    {
+      "kind": "elision",
+      "subject": "איש",
+      "gloss_note": "איש אחר אלף — ho Sesotho 'batho ba' e phethahalletse",
+      "rationale": "איש e ka 'nthoeng ho Sesotho ka ho feletseng"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבורי החיל",
+      "gloss_note": "'mighty ones of valor'",
+      "rationale": " גבורי החיל — Sesotho 'ba matla, ba matla' bolosa boiled-construct structure"
+    }
+  ],
+  "translation": "Mme Yahoshua a tsuama, le sechaba sohle sa ntoa, ho ea hodima ⟨את⟩ Hayi; mme Yahoshua a kgetha batho ba makgolo a mararo, banna ba matla, mme a ba romela bosiu.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "68632465f525b8923052d23ee7ba80e59891806f305291d0c48e60533c2faf16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/8\/3-3.1791265090405.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a tsuama"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le sohle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sa ntoa"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ho ea hodima"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Hayi"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "mme a kgetha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahoshua"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba makgolo a mararo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "batho ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ba matla"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ba matla"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "mme a ba romela"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosiu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:10.408811337Z",
+  "model": "glm-5.3"
+}

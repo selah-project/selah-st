@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 5:7",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המנכם",
+      "rationale": "Ho tswa ho המון: 'le ile la fetisa\/ho feta' kgahlanong le 'tumult' ya ASV; ba-fetoleli ba sa utlwana"
+    },
+    {
+      "kind": "you",
+      "subject": "Yerushalayime",
+      "rationale": "Puo ena e bolela ka ho tobile ho Jerusalem (sefela sa 'lona')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "dikahlolo",
+      "rationale": "משפטי\/חקותי di pheta-phetoa hamoho ka bomoelelo bo bonyane"
+    }
+  ],
+  "translation": "Kahoo, ke jwalo ha ho bolela Adonai Yahwe: Hobane le fetisitse ditjhaba tse di potoloha ha lona, hobane le melao ya ka le sa e tsamaya, le ⟨את⟩ dikahlolo tsa ka le sa di etsa, le tsa ditjhaba tse di potoloha ha lona le sa di etsa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "53bbfa9b79e7cf2aca8b87f6978c662c7a67f817e15e623e98dc0165d6417f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/5\/5-8.1791265394154.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Kahoo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ke jwalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ha ho bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "המנכם",
+      "gloss": "le fetisitse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "di potoloha ha lona"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "melao ya ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le sa e"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "tsamaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikahlolo tsa ka"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo tsa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le sa di"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "וכמשפטי",
+      "gloss": "le tsa dikahlolo tsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "di potoloha ha lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le sa di"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "etsa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:14.157082966Z",
+  "model": "glm-5.3"
+}

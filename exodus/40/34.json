@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kgalalelo",
+      "rationale": "כבוד ke boima le kganya hotho; Sesotho 'kgalalelo' e lahlega boima ba lentsoe"
+    }
+  ],
+  "translation": "Mme leru le ile la putla ⟨את⟩ ohle ya phutheho, mme kgalalelo ya Yahwe e ile ya tlatsa ⟨את⟩ Mishkane.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9f3a652aec463f31a8271c7a924f62f3542e8541878e2a74360ac3c7552d7180",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/40\/33-36.1791264847908.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "la putla"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "leru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohle ya phutheho"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phutheho"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "mme kgalalelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e ile ya tlatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:07.927424894Z",
+  "model": "glm-5.3"
+}

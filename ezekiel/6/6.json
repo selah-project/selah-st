@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 6:6",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יחרבו...יאשמו \/ ונשברו...ונשבתו",
+      "rationale": "Dintlha tsa mahlakore-pedi: חרב\/ישם (ho shoa-medi) le שבר\/שבת (phatlalala\/ema) di hlahisa mediane ya pele, e timetswang ka Sesotho."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חמניכם",
+      "rationale": "חמן (motswatse wa letsatsi) — lentswe le sieo, le hlalosa ditshwantsho tsa letsatsi, eseng altaraha tsa mokoko."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גלוליכם",
+      "rationale": "גלול le tswa ho 'log' (tshipi e tonya) — 'digululi' boloka sehwahla sa Seheberu sa 'log-ids'."
+    }
+  ],
+  "translation": "Ho dula mafelong a lona ohle, dibaka tsa lona di tla shoa-medi, mme maemo a hodimo a tla shoa-medi; hore altaraha tsa lona di shoa-medi le ho nyahama, mme digululi tsa lona di phatlalale le ho ema, mme matswatse a letsatsi a lona a kgaoloe, mme mesebetsi ya lona e phimotsoe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "55a748df5c1cdd709dbd8d62992828be726c0a0871b133c32537f5e8808cb26b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/6\/6-6.1791265368542.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "מושבותיכם",
+      "gloss": "mafeng a ho dula a lona"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "dibaka tsa lona"
+    },
+    {
+      "surface": "תחרבנה",
+      "gloss": "di tla shoa-medi"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "mme maemo a hodimo"
+    },
+    {
+      "surface": "תישמנה",
+      "gloss": "a tla shoa-medi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "di shoa-medi"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "le ho nyahama"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "altaraha tsa lona"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "di phatlalale"
+    },
+    {
+      "surface": "ונשבתו",
+      "gloss": "le ho ema"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "digululi tsa lona"
+    },
+    {
+      "surface": "ונגדעו",
+      "gloss": "a kgaoloe"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "matswatse a letsatsi a lona"
+    },
+    {
+      "surface": "ונמחו",
+      "gloss": "e phimotsoe"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "mesebetsi ya lona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:48.543797844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morena",
+      "rationale": "וימליכהו ke ho bopa morena — ho busa; 'morena' fa ho bolela mopresidente wa borena, eseng Lebitso"
+    }
+  ],
+  "translation": "Mme setjhaba sa lefatshe se ile sa nka ⟨את⟩ Yehoakhaze, mora wa Yoshiahu, mme sa mo etsa morena sebakeng sa ntatae, Yerushalayime.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "38046274f5be9a0eb807e97ad145b0eee2bd7cfea65bd8d0199f5525274f5527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/36\/1-1.1791265788225.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "se ile sa nka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoakhaze"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoakhaze"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "wa Yoshiahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "mme sa mo etsa morena"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntatae"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:48.227338353Z",
+  "model": "glm-5.3"
+}

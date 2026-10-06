@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרב",
+      "rationale": "Seheberu se bolela ka ho foufala kapa sefofane; meputso e meng e sebedisa 'ckaaro'. Tlhopho ke 'sefofane' ho boloka sebopeho sa ho futhumala."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שכל לפענוח",
+      "rationale": "שכל e bolela 'ho tlosa bana' (ho lahlehelwa ke bana), eseng feela 'ho bolaea'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חוץ\/חדרים",
+      "rationale": "Phapano pakeng tsa ntle le ka hare — mafeloa a ka thoko le a ka hare a tletse kotsi."
+    }
+  ],
+  "translation": "Ntle ho ⟨הַבַּיִת⟩ sefofane se tla ba sitolla, mme ka diphapoosing — tshabo: banna ba bashanyana le bomme ba bashanyana, le ngwana ya ntsa metsi hammoho le monna wa mahlahare.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8d1b1549e239f3380cd48fafebfae17d476469fb90b7d3f5f3e2b986e774c252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/32\/25-28.1791265082958.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "ntle"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "se tla ba sitolla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sefofane"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "mme ka diphapoosing"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "tshabo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "banna ba bashanyana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "bomme ba bashanyana"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ngwana ya ntsa metsi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hammoho le"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "wa mahlahare"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:02.973793680Z",
+  "model": "glm-5.3"
+}

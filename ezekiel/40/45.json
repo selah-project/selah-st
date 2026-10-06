@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 40:45",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lishkala",
+      "rationale": "Karolo ya tekanyo ya tempele: kgetho ya dishkala le ba di ruang lefkhitšeng."
+    },
+    {
+      "kind": "idiom",
+      "subject": "פניה דרך הדרום",
+      "rationale": "Bokapele ba Seheberu bo bolela 'sefahleho sa yona se lebohang ka borwa'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמרי משמרת",
+      "rationale": "Papiso ya motso o le mong wa šireletso: 'basireledi ba tšireletso', polokedwe puong ea Sesotho."
+    }
+  ],
+  "translation": "Mme a mpara: Lishkala ena, eo sefahleho sa yona se lebohang ka borwa, ke ya baprista, basireledi ba tšireletso ya ntlo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c3eeba73351c259d3cf3d3d052d02c0e6b3615d6c581c7708decc1d7152e16ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/40\/45-45.1791265399416.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mme a mpara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "Lishkala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sefahleho sa yona"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka ho leboha ho"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ya baprista"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "basireledi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tšireletso"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ntlo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:19.418513607Z",
+  "model": "glm-5.3"
+}

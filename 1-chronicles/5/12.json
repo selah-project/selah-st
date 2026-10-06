@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Sesotho e hloka kopula; Seheberu se e sena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ya bobeli",
+      "rationale": "המשנה bolela 'kopi\/kgethilwe ya bobedi'; 'ya bobeli' ke moelelo wa boemo, eseng sebopeho sa lentsoe"
+    }
+  ],
+  "translation": "Yoeli ⟨e ne e le⟩ hlooho, mme Shafame ⟨e ne e le⟩ ya bobeli, le Yaanai le Shafate, ba Bashaneng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ea8fb16b83938ed535993243e9db2930eef2949d263d4546e4cfaa0d106fed28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/5\/12-12.1791265724582.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Yoeli"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hlooho"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "mme Shafame"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ya bobeli"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "le Yaanai"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "le Shafate"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ba Bashaneng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:44.586546862Z",
+  "model": "glm-5.3"
+}

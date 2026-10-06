@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "phefumoloho",
+      "rationale": "קטרת ke mosesi wa dinamane; phefumoloho e boloka sebopeho sa moya, eseng 'incense' ya tlwaelo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "marogo",
+      "rationale": "מסך ke sephaphathi se putswang monyakong; 'marogo' sesotho se bolela sethala se phaphathilweng"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenane la disebediwa",
+      "rationale": "ke karolo ya lenane la disebediwa tsa bokgalaleli tse hlaloswang ka tatelano"
+    }
+  ],
+  "translation": "le ⟨את⟩ aletare ya kgauta, le ⟨את⟩ mafura a lotso, le ⟨את⟩ phefumoloho ya dinamane, le ⟨את⟩ marogo a monyako wa tolwana;",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "42683091eabbfefa4b6c022bfd8a56997c59c7a21abeea8ee8231694efc9fb8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/39\/38-38.1791264820198.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "aletare ya kgauta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya kgauta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a lotso"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a lotso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phefumoloho ya dinama"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "phefumoloho"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya dinamane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "marogo a monyako"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "marogo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a monyako"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wa tolwana"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:40.204645304Z",
+  "model": "glm-5.3"
+}

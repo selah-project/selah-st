@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 4:1",
+  "book": "ruth",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פלני אלמני",
+      "rationale": "Seheberu se hlalosa motho ka lebitso la sehlaha — 'so-and-so' — mme Sesotho se hloka mokgwa o mong wa ho pata lebitso"
+    },
+    {
+      "kind": "addition",
+      "subject": "sebaka sa",
+      "rationale": "Seheberu se re feela 'hodima sebakala' — sehlomathiso se hlahisa sebaka se fano ka Sesotho"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אלמני",
+      "rationale": "Lentswe lena le hlaha mona feela ho Tanakh"
+    },
+    {
+      "kind": "you",
+      "subject": "to the goel (molokolla)",
+      "rationale": "Boaze a bitela molokolla ka ho mo laela hore a fokele le ho dula"
+    }
+  ],
+  "translation": "Mme Boaze a ya hodima ⟨sebaka sa⟩ sebakala, a dula moo; mme bonang, molokolla ya Boaze a bueng ka yena a feta, mme a re: Fokella, dula mona, ⟨wena⟩ ya bitsoang ⟨ka lebitso la hae⟩. Mme o ile a fokella, a dula.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0f9a6961da44dc1aa31fdcdcf1b6df5257c2e774a561c76ee3b5613790391725",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ruth\/4\/1-1.1791265648879.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Mme Boaze"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a ya hodima"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sebakala"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "molokolla"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bueng ka yena"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaze"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "סורה",
+      "gloss": "fokella"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "dula"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "ya bitsoang ka lebitso la hae"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "ya sa tsejweng lebitso"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "a fokella"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:28.881863853Z",
+  "model": "glm-5.3"
+}

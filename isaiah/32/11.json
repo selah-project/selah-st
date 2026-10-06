@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 32:11",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sehlaho sa kotlhoho",
+      "rationale": "'Sackcloth' ha se ka Seheberu moeleele; mongolo o bua feela ka ho ikgarilla — liphetolelo tse ngata di eketsa sehlaho"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאננות\/בטחות",
+      "rationale": "Kgethollo pakeng tsa 'ba phomotseng' le 'ba tshepeng' — mehopolo e mmedi e tshwanang, e thehilweng ho Isa 32:9-10"
+    },
+    {
+      "kind": "you",
+      "subject": "basali ba Judaea",
+      "rationale": "Taelo e tobileng ho basali ba phomotseng — ditaolo tsa sesotho ka bomang"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mealane",
+      "rationale": "חלצים ke 'sehla sa matla' — 'mealane' kapa 'mothaladi'; mealane e kgethwa bakeng sa sebaka sa ho ikgarilla"
+    }
+  ],
+  "translation": "Tshabang, lona basali ba phomotseng; tsamaiswang ke tshabo, lona ba tshepeng: apolang hlole, mme heolang hlole, mme ikgarille ⟨sehlaho sa kotlhoho⟩ holimo ga mealane.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "e9e3d989b98af9e253271c70f6e2ff128a8d8ef3afde742e13c886dd3e908d3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/32\/11-11.1791265302263.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרדו",
+      "gloss": "Tshabang"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "lona basali ba phomotseng"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "tsamaiswang ke tshabo"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "lona ba tshepeng"
+    },
+    {
+      "surface": "פשטה",
+      "gloss": "apolang hlole"
+    },
+    {
+      "surface": "וערה",
+      "gloss": "mme heolang hlole"
+    },
+    {
+      "surface": "וחגורה",
+      "gloss": "mme ikgarille"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo ga"
+    },
+    {
+      "surface": "חלצים",
+      "gloss": "mealane"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:42.264534816Z",
+  "model": "glm-5.3"
+}

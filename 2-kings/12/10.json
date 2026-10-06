@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 12:10",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yona",
+      "rationale": "Seheberu se na le אתו fela; sebopeho sa puo se hloka sesupo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sefahleho sa yona",
+      "rationale": "דלתו ke lemati\/tlhako ya kotse; Sesotho se hlalosa ka sefahleho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "chelete yohle e kenang",
+      "rationale": "ketso ya ho pata chelete e kenang ntlong ya Yahwe — palo ya mabenkele"
+    }
+  ],
+  "translation": "Mme Yehoyadake moprista a nka ⟨את⟩ kotse e le nngwe, a oma sebaka ⟨את⟩ yona a e bea ka ho le letshehali ha motho a kena ntlong ya Yahwe; mme baprista ba bolong la kgoro ba neela kaharona chelete yohle e kenang ntlong ya Yahwe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ac5b40b7f32731e047be5575a8506a553cbf8d7045742dff1f61b9f65bab5d4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-kings\/12\/10-10.1791265229570.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyadake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kotse"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "a oma"
+    },
+    {
+      "surface": "חר",
+      "gloss": "sebaka"
+    },
+    {
+      "surface": "בדלתו",
+      "gloss": "ka sefahleho sa yona"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a e bea"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "kotse e le nngwe"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ka ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "ka ho le letshehali"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "ha a kena"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mme ba neela"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kaharona"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ba bolong"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "la kgoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chelete yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "chelete"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "e kenang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:40:29.576607787Z",
+  "model": "glm-5.3"
+}

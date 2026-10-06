@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 22:30",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעודך",
+      "rationale": "'Ho tloha ha u ile wa ntshala' (KJV\/ylt) kgahlano le 'bophelo ba hau bohle' (asv\/jps); le bitsoa ka tsela e tshwanang."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ההסכן הסכנתי",
+      "rationale": "Poeletso ya motso o le mong (sakan) — potso e ipolelang; e timetse ka ho feletseng Sesothong."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הלוא",
+      "rationale": "Potso e hlahlamang ya Seheberu e hlokang 'Na ... che' ho Sesotho."
+    }
+  ],
+  "translation": "Mme pere e ile ea re ho Bileame: Na ha ke e-na le pere ea hao, eo o ntseng o e sebelisa ho fihlela kajeno? Na ke kaholimo-toeba e ile ea tlohela ho etsa ho uena joalo? Mme a re: Che.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fae40eb59d629dc064f7605b956cc5b982010abe0b057494841d81361a431503",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/22\/30-30.1791264958157.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Mme ... ea re"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "pere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileame"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Na ... che"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "pere ea hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "o e sebelisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מעודך",
+      "gloss": "kaholimo-toeba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "ההסכן",
+      "gloss": "e ile ea"
+    },
+    {
+      "surface": "הסכנתי",
+      "gloss": "tlohela"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "כה",
+      "gloss": "joalo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Che"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:58.162056126Z",
+  "model": "glm-5.3"
+}

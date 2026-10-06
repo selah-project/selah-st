@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 12:13",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moqhoko",
+      "rationale": "בדק ke sekhahla kapa moqhoko oa setofo, eseng 'phoko' feela"
+    },
+    {
+      "kind": "crux",
+      "subject": "יצא על",
+      "rationale": "'tse tlang holim'a' — idiom ea chelete e sekisitsoeng bakeng sa ntlo; ba ling ba fetolela 'e sebelitsoeng'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "chelete ea nakong",
+      "rationale": "lenane la bokae ba chelete le mosebeti oa ho lokisa tempole"
+    }
+  ],
+  "translation": "Mme ho bakeng sa bahoemedi le ba kgobotsweng setone, le ho reka lifate le majwe a kgobotsweng, ho matlafatsa ⟨את⟩ moqhoko oa ntlo ea Yahwe, le bakeng sa tsohle tse tlang holim'a ntlo, ho e matlafatsa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "20cbdd412b0345163510ea7d0b0e2184dfde19ae526d9abfd0bb5853d5ce0870",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-kings\/12\/13-13.1791265242218.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולגדרים",
+      "gloss": "ho bakeng sa bahoemedi"
+    },
+    {
+      "surface": "ולחצבי",
+      "gloss": "le ba kgobotsweng"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "setone"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "le ho reka"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "lifate"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "le majwe"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "a kgobotsweng"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "ho matlafatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moqhoko"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "moqhoko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le bakeng sa tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "tlang"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "לחזקה",
+      "gloss": "ho e matlafatsa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:40:42.222398355Z",
+  "model": "glm-5.3"
+}

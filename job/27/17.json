@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 27:17",
+  "book": "job",
+  "lang": "st",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדיק e phetolwa ka 'tsedeke' ho ya ka molao wa D2, eseng 'ya lokileng' feela"
+    },
+    {
+      "kind": "elision",
+      "subject": "ya hlokolihang",
+      "rationale": "נקי 'ya hlokolihang' — sefaha se aroloa ke ya hlokolihang, eseng mmopi wa sona"
+    },
+    {
+      "kind": "alternative",
+      "subject": "o tla arola",
+      "rationale": "יחלק bolela 'ho arola\/ho aha dihlotse'; KJV 'shall divide', mme mehlala ya bohale e ka 'ho aha' — ho arola ke ho tlwaelehileng"
+    }
+  ],
+  "translation": "A ka e lokisa, mme ya tsedeke o tla e apara, mme ya hlokolihang o tla arola ⟨את⟩ sefaha.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2538ecc72600770dff347e95fdcc06b940e1a65b8ea5b63dbc14b9d000778d36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/27\/17-17.1791265641440.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכין",
+      "gloss": "A ka e lokisa"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "mme ya tsedeke"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "o tla e apara"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "mme sefaha"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ya hlokolihang"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "o tla arola ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:21.440923101Z",
+  "model": "glm-5.3"
+}

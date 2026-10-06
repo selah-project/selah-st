@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 23:4",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨e le⟩",
+      "rationale": "Seheberu se sena copula seitseng; Sesotho se e hlokahalisa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Aholaha \/ Aholaba",
+      "rationale": "mabitso a mahano: 'ohola' (hema ha hae) le 'ohaliba' (hema ha hae ha moholo); bothata bo tlolohetse ka Sesotho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mabitso",
+      "rationale": "lenane la mabitso: Aholaha = Shomrone, Aholaba = Yerushalayime"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגדולה",
+      "rationale": "'ya gagolo' (ya moholo) kgahlanong le 'ea kgolo' — kahlolo e tloaelehileng ke ya moholo"
+    }
+  ],
+  "translation": "Mme mabitso a tsona: Aholaha ya gagolo, le Aholaba kgaetšedi ya hae; mme ba ba ⟨e le⟩ ba ka, mme ba belela banana le barwetsana. Mme mabitso a tsona: Shomrone ke Aholaha, mme Yerushalayime ke Aholaba.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "956f7cbca5f8dadc6e626d839588e7b110872874b8f8cd3e8acc08b3cbe20a17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/23\/4-4.1791265396372.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמותן",
+      "gloss": "mme mabitso a tsona"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Aholaha"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ya gagolo"
+    },
+    {
+      "surface": "ואהליבה",
+      "gloss": "le Aholaba"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "kgaetšedi ya hae"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "mme ba ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ba ka"
+    },
+    {
+      "surface": "ותלדנה",
+      "gloss": "mme ba belela"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "banana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "le barwetsana"
+    },
+    {
+      "surface": "ושמותן",
+      "gloss": "mme mabitso a tsona"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomrone"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Aholaha"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "mme Yerushalayime"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "Aholaba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:16.373496117Z",
+  "model": "glm-5.3"
+}

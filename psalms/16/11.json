@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבע שמחות",
+      "rationale": "Ho tletsa ha mehlaka — hlopho e hlabang, e loste ka Sesotho"
+    },
+    {
+      "kind": "crux",
+      "subject": "נצח",
+      "rationale": "' Sepheo sa leeto' kapa 'ho ya le nakong e sa felong' — mefuta e fapaneng dikgetheng"
+    },
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Seheberu se se na sebopeho sa 'e ho' — se sebeditswe ka Sesotho"
+    }
+  ],
+  "translation": "O tla mpontsha ⟨את⟩ tsela ya bophelo: khotsofalo ya mehlaka e ho sefahleho sa hao, dintho tse monate di ka letsohong la hao la ho ja — ho ya le nakong e sa felong.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b200eb6d72d988c1a307082c8973cd46f74ced701b8c49bb366ffa24bdde604b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/16\/11-11.1791265532501.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "O tla mpontsha"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "khotsofalo ya mehlaka"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "mehlaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela ya bophelo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa hao"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "dintho tse monate"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ka letsohong la hao la ho ja"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ho ya le nakong e sa felong"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:32.502004740Z",
+  "model": "glm-5.3"
+}

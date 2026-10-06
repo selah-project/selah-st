@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "la",
+      "rationale": "Sesotho e hloka thuso ya 'la' ho aba ketso ho letsatsi; Seheberu se e se na"
+    },
+    {
+      "kind": "elision",
+      "subject": "—",
+      "rationale": "Seheberu se se na `את` mehlaleng ena; ⟨את⟩ e kentsoe bakeng sa modupi wa letsatsi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יככה",
+      "rationale": "נכה ho bina ka kgwedi le letsatsi — modumo o phethehare, o timetse ka Sesotho"
+    }
+  ],
+  "translation": "Motsheare letsatsi le ke ke la oa hloko ⟨את⟩ — mme kgwedi bosiu.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "dae8130322d530e7806f5f5960a3bc125f9489fa57a23be0dd3ea528f5e9e1ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/121\/6-6.1791265568957.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "motsheare"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "la oa hloko"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "mme kgwedi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bosiu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:08.957946194Z",
+  "model": "glm-5.3"
+}

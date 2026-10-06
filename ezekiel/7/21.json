@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 7:21",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "object suffix ו in ונתתיו",
+      "rationale": "Seheberu se na le segalo (o) se bolelang sebona sa setshwantsho sa sepakeng 20; Sesotho se se kopantse le leetsi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבז \/ לשלל",
+      "rationale": "phetaretso ea mantswe a mabeli a bolotsana (plunder\/booty), e lahlehileng ka Sesotho"
+    }
+  ],
+  "translation": "Mme ke tla e fa ⟨את⟩ ka letsohong la bajaki bakgethwa, le ba lonya ba lefatshe hore ba e tshwara e le sehlapa, mme ba e hlekefatsa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1f0a2133a8d7f72229a8cf8ac5054c0df7c2cdd5b875680f1e09408c3e02fd2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/7\/21-21.1791265354194.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתיו",
+      "gloss": "ke tla e fa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsohong"
+    },
+    {
+      "surface": "הזרים",
+      "gloss": "bakgethwa"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "hore ba e tshwara e le sehlapa"
+    },
+    {
+      "surface": "ולרשעי",
+      "gloss": "le ba lonya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "e le sehlapa"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "ba e hlekefatsa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:34.195449194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 5:9",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "koloi ya ntwa",
+      "rationale": "רכב ke sesebe sa ntwa, eseng koloi ya tlwaelo"
+    },
+    {
+      "kind": "elision",
+      "subject": "ל לאלישע",
+      "rationale": "ל־ e hlalosa \"ya Elisha\" — ntlo ke ya hae"
+    }
+  ],
+  "translation": "Mme Naamane a fihla ka hodi ya hae le ka koloi ya ntwa ya hae, mme a ema mongwaneng wa ntlo ya Elisha.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0cd4a6701a0a8e42b9e725ce4e927cbb51334282dcafdf993e48286531dfe8a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-kings\/5\/9-9.1791265241168.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mme a fihla"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamane"
+    },
+    {
+      "surface": "בסוסו",
+      "gloss": "ka hodi ya hae"
+    },
+    {
+      "surface": "וברכבו",
+      "gloss": "le ka koloi ya ntwa ya hae"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "mme a ema"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mongwaneng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "לאלישע",
+      "gloss": "ya Elisha"
+    }
+  ],
+  "timestamp": "2026-10-06T05:40:41.172638716Z",
+  "model": "glm-5.3"
+}

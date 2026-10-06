@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 4:13",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "libne",
+      "rationale": "לבנה sefapano sa mehlala: 'storax' kapa 'phofofo ea lichaba' — mofuta oa sefate se sesoeu, sa peli."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bofetsi le ho boshola",
+      "rationale": "זנה le נאף di arohana ka Sesotho: bofetsi (ho etsa bofetsi) le boshofo (ho boshola) — tse peli tsa Seheberu di a boloka karohano ea tsona."
+    },
+    {
+      "kind": "you",
+      "subject": "ho batho ba Yisraele",
+      "rationale": "Pale e bua ka bobeli 'ba lona' — baradi le barekadi ba batho ba utloang."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צלה",
+      "rationale": "צֵל (moru) le אֵלָה (elaha) — sefate se sa lefifing ho feta Elohim; pale ea letsatsi le moru ea latetsoe ke bofetsi, e lahileho ka Sesotho."
+    }
+  ],
+  "translation": "Hodima ditlhoretso tsa lithaba ba eketse diphulo, mme hodima dithabana ba phefumolla mmaru; ka tlase ha aloni, le libne, le elaha, hobane moru wa yona o molemo; ka baka leo baradi ba lona ba tla etsa bofetsi, le barekadi ba lona ba tla boshola.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "519c4449abe9e5a7c893d54bf7d554cc4b01ce328e1b8be6374350175f2e0e1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/hosea\/4\/13-13.1791265499435.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ditlhoretso"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "tsa lithaba"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "ba eketse diphulo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mme hodima"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "dithabana"
+    },
+    {
+      "surface": "יקטרו",
+      "gloss": "ba phefumolla mmaru"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ha"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "aloni"
+    },
+    {
+      "surface": "ולבנה",
+      "gloss": "le libne"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "le elaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o molemo"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "moru wa yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "leo"
+    },
+    {
+      "surface": "תזנינה",
+      "gloss": "ba tla etsa bofetsi"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "baradi ba lona"
+    },
+    {
+      "surface": "וכלותיכם",
+      "gloss": "le barekadi ba lona"
+    },
+    {
+      "surface": "תנאפנה",
+      "gloss": "ba tla boshola"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:59.440262426Z",
+  "model": "glm-5.3"
+}

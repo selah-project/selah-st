@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ho lwa",
+      "rationale": "יריב ke goa merabele; ho lwa ha e tle goa thhaseng ka pela, esita le thhaseng ka pela ke khethollo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "lanetsakh \/ leolame",
+      "rationale": "mantswe a mabeli a nako a tshwanang haholo; sebopeho sa sephetho ke sehlomathiso sa mantswe a mabeli a kopaneng"
+    }
+  ],
+  "translation": "Ha a ke ke a lwa ka ho sa felise, kaha e tla boloka haele ka ho sa felise.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c49d9c8adcc03caba324c12fbc1f3984de796c27bec1342cc64cc4b8c458f953",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/103\/9-9.1791265863930.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka ho sa felise"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "a lwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kaha e tla"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka ho sa felise"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "boloka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:03.931730869Z",
+  "model": "glm-5.3"
+}

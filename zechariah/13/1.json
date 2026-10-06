@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 13:1",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mohlodi wa metsi",
+      "rationale": "מקור ke sengodiwa\/sediba sa metsi; 'mohlodi wa metsi' boloka sebopeho sa sengodiwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחטאת ולנדה",
+      "rationale": "'bakeng sa sebe le ts'ilaho' (KJV\/ASV) kapa 'bakeng sa ho hloekisa' (JPS) — נדה e bolela ho hlotsoa\/ho hloekomalla"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa metsi",
+      "rationale": "Seheberu se re מקור feela; Sesotho se hloka ho hlakisa"
+    }
+  ],
+  "translation": "Ka letsatsi leo ho tla ba le mohlodi wa metsi o butswitsweng bakeng sa ntlo ea Dawide le bakeng sa ba dulang Yerushalayime, bakeng sa sebe le bakeng sa ts'ilaho.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c1dc363ece2857c650bec69e030cc8c8ffe1ae3cef0268123a5180c778b3def8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/zechariah\/13\/1-1.1791265512294.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho tla ba le"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "mohlodi wa metsi"
+    },
+    {
+      "surface": "נפתח",
+      "gloss": "o butswitsweng"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bakeng sa ntlo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ולישבי",
+      "gloss": "le bakeng sa ba dulang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bakeng sa sebe"
+    },
+    {
+      "surface": "ולנדה",
+      "gloss": "le bakeng sa ts'ilaho"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:12.294998177Z",
+  "model": "glm-5.3"
+}

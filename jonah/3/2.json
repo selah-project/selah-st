@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקריאה",
+      "rationale": "Baqapotleli ba fapana: 'mopolelo' kapa 'tlhokomelo eo ke e laelang ho wena' — 'mopolelo' ke karolo ea pele."
+    },
+    {
+      "kind": "invitation",
+      "subject": "tokomane",
+      "rationale": "Mea e mengata ea Tsoha, ya — tlamo e lebelletsweng Jonase."
+    }
+  ],
+  "translation": "Tsoha, ya Nineve, motse o mogolo, mme o bolelle ⟨את⟩ mopolelo oo ke o bolelang ho wena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "36b8dfa544d46fc0b3e44bda74194662e34f2253b405458ce0bd14df46f7b3bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jonah\/3\/2-2.1791265454930.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tsoha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "mme o bolelle"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mopolelo"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "mopolelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o bolelang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:14.931939504Z",
+  "model": "glm-5.3"
+}

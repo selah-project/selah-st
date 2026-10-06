@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 65:23",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tshabo",
+      "rationale": "לבהלה bolela tshabo e kgolo\/kahlolo; ditlhahiso tse ngwe di re 'for trouble', 'for calamity'"
+    },
+    {
+      "kind": "addition",
+      "subject": "bana",
+      "rationale": "Seheberu se re feela 'ba bebe' — 'bana' se ekeditswe hore moelelo o hlake"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברוכי יהוה",
+      "rationale": "Poe 'e tshehetsweng ke Yahwe' kapa 'poe ya bahloekisi ba Yahwe' — sehlomathiso se ka hlalosa botho"
+    }
+  ],
+  "translation": "Ba ke ke ba tshwara ka ho lejwana, mme ba ke ke ba beba bana ba tswang ka tshabo; hobane bona ke poe ya ba tshehetsweng ke Yahwe, le ditloholo tsa bona ⟨את⟩ le bona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "31684d889c7b3c76d7b4df6392ff7d432ecb6069ccbb01b4989d98ef63eadca6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/65\/23-23.1791265294608.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba ke ke ba"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "tshwara"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ka ho lejwana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ke ke ba"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "beba bana"
+    },
+    {
+      "surface": "לבהלה",
+      "gloss": "ba tswang ka tshabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "poe"
+    },
+    {
+      "surface": "ברוכי",
+      "gloss": "ya ba tshehetsweng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "le ditloholo tsa bona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "le bona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:34.609735172Z",
+  "model": "glm-5.3"
+}

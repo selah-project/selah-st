@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 17:17",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "setoreng",
+      "rationale": "Seheberu se na le sehlopha sa hlahelamiso se tsamaisang lediri; Sesotho se hloka sehlomathiso sa sebopeho"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רגל",
+      "rationale": "Lebitso la lefelo En Rogele le tswa moamong wa 'regele' — tshusumetso e timetse thutong"
+    }
+  ],
+  "translation": "Mme Yehonathane le Achiimats ba ne ba ema En Rogele; mme mohlanka wa mosadi o ile a ea mme a ba bolelela; mme ba ea mme ba bolelela morena Dawide; hobane ba ne ba ke ke ba bonahala ⟨ho⟩ kena setoreng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "dc9a03ca7e5778e6c12ac4723ac87e085d78bd5005c42723ad066b15e0e82e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-samuel\/17\/17-17.1791265142921.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהונתן",
+      "gloss": "Mme Yehonathane"
+    },
+    {
+      "surface": "ואחימעץ",
+      "gloss": "le Achiimats"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ba ne ba ema"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "En"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "Rogele"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "mme o ile a ea"
+    },
+    {
+      "surface": "השפחה",
+      "gloss": "mohlanka wa mosadi"
+    },
+    {
+      "surface": "והגידה",
+      "gloss": "mme a bolelela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba ea"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "mme ba bolelela"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ba ke ke ba"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "bonahala"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kena"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "setoreng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:02.927440627Z",
+  "model": "glm-5.3"
+}

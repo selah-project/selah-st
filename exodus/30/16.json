@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 30:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "Sesotho e hloka sereti — הכפרים ke sehlomathiso sa sebopeho, Sesotho e se eketsa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "difeela",
+      "rationale": "נפש ke moya\/boitshoaro\/bophelo — hase molemo feela; difeela ke khetho e lebisa bophelong"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכפרים \/ לכפר",
+      "rationale": "motso o mong wa kaphar (ho apara\/ho fiphatsa) o tlase le hodimo ya temana — temano e latelana"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sekhele",
+      "rationale": "temana e ka hara tlhokomelo ya shekele — tekanyo ya mokoko"
+    }
+  ],
+  "translation": "Mme o tla nka ⟨את⟩ sekhele sa dikaphollo ho tswa ho bana ba Yisraele, mme o tla se fa ho sebetseng satente ya phutheho; mme se tla ba bana ba Yisraele seketso pele ga Yahwe, ho kapholla difeela tsa lona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ddd46e40fea0815559b9a4f2e49d587d0bf11e2b269c5eea15f1dc0cdfe9f595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/30\/16-16.1791264808596.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mme o tla nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekhele sa dikaphollo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sekhele"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "sa dikaphollo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho tswa ho ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mme o tla se fa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ se"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "sebetseng sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya phutheho"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme se tla ba"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "seketso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ho kapholla"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "difeela tsa lona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:28.612851185Z",
+  "model": "glm-5.3"
+}

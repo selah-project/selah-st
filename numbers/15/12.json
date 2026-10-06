@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "palo",
+      "rationale": "Boitshupo bo boholo ba kabelo ka palo — le bufang bo bongata ba diphoofolo"
+    }
+  ],
+  "translation": "Sesoha ka palo eo le e kang ho e etsa, jwalo ha jwalo le tla e etsa ho e le nngwe le e nngwe, ho latela palo ea tsona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "6cc536ac4fdff24196fd86a631f3253c273d4d54a5527620e9f99c20d25b7b24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/15\/9-12.1791264976757.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "Sesoha ka palo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo le e kang"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ho e etsa"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "jwalo ha jwalo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "le tla e etsa"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ho e le nngwe le e nngwe"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "ho latela palo ea tsona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:36:16.769059250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 2:3",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "belele",
+      "rationale": "אף le בחרי bobedi bo bua ka pela ya hae ya pele — 'bekele\/bohare ba pela' e le mokgwa wa Sesotho."
+    },
+    {
+      "kind": "crux",
+      "subject": "korna",
+      "rationale": "קרן: 'korna' (matla) kgahlanong le 'phahamo' — matla a Yisraele a feditswe."
+    },
+    {
+      "kind": "addition",
+      "subject": "o ile a",
+      "rationale": "Seheberu se na le dira tsa je\/wayyiqtol feela; Sesotho se hlokwa 'o ile a' bakeng sa nakong e fetileng."
+    },
+    {
+      "kind": "substitution",
+      "subject": "a ja",
+      "rationale": "אכלה 'e ja' — e ja ka mollo, Sesotho se ne se ka re 'a futhumatsa' empa 'a ja' e boloka sebopeho sa Seheberu."
+    }
+  ],
+  "translation": "O ile a khaola ka tlhaselo ya belele kaofela korna ya Yisraele; o ile a busetsa morao letsoho la hae le letona ho tloha pele ya mong a ntseng a le khahlano; mme o ile a tutubetsetsa ka hare ho Yaakobo jwaloka mollo wa lelabo, o ile a ja ka mokoting ho fihlela hole.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ce1112d0f986647ff57651f0e628ecd5e1226f034051b48d8162b4eed1cb34af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/lamentations\/2\/3-3.1791265628058.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדע",
+      "gloss": "o ile a khaola"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "ka tlhaselo ya belele"
+    },
+    {
+      "surface": "אף",
+      "gloss": "belele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "korna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "o ile a busetsa morao"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morao"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "letsoho la hae le letona"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ho tloha pele"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ya mong a ntseng a le khahlano"
+    },
+    {
+      "surface": "ויבער",
+      "gloss": "mme o ile a tutubetsetsa"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ka hare ho Yaakobo"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "jwaloka mollo"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "wa lelabo"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "o ile a ja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka mokoting ho fihlela hole"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:08.059528267Z",
+  "model": "glm-5.3"
+}

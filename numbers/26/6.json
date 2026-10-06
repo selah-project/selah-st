@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "morafo",
+      "rationale": "Tsohelopalo e tswelang pele ya merafo ya Reyubene"
+    }
+  ],
+  "translation": "Ketsrone, merafo ya Baketsrone; Karmi, merafo ya Bakarmi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "91fddd110e2f1741e648507beebff92283ed0b6088cae51f39bb2d85e9477edc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/26\/5-7.1791264969550.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "Ketsrone"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "merafo ya"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "Baketsrone"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "Karmi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "merafo ya"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "Bakarmi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:36:09.557658662Z",
+  "model": "glm-5.3"
+}

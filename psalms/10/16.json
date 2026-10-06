@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is\/morena",
+      "rationale": "Seheberu se se na le copula; sebopeho sa Morena se hlahisa ⟨e⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "מלך",
+      "rationale": "Seheberu se se na sehlomathiso; 'morena wa' se kenyeletsoe ho hlahisa boemo ba Yahwe"
+    }
+  ],
+  "translation": "Yahwe ⟨e⟩ morena wa kahosafeleng le ho feta; ditjhaba di ile tsa timela ho tloha lefatsheng la hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8448973965d4d08ee0bfb1eba2ca6d17eda158cc0bc313ebdc3fb35459d884b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/10\/16-16.1791265505594.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahosafeleng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho feta"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "di ile tsa timela"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ho tloha lefatsheng la hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:05.595687952Z",
+  "model": "glm-5.3"
+}

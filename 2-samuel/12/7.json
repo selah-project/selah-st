@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 12:7",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨na le⟩",
+      "rationale": "Seheberu se se na le copula; Sesotho se e hlokahala"
+    },
+    {
+      "kind": "you",
+      "subject": "u",
+      "rationale": "Natanе o buisana le Dawide ka kotloloho: \"U motho eo\""
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתה האישׁ",
+      "rationale": "Puisano ya kgethi: poleloana ya nako e le nngwe e bontsha Dawide e le monna wa boithati"
+    },
+    {
+      "kind": "substitution",
+      "subject": "letlhohonolang la Shaule",
+      "rationale": "מיד שאול ke \"letsatsi la Shaule\" — ho lokolotswa ho tswa matlong a Shaule"
+    }
+  ],
+  "translation": "Mme Natanе a re ho Dawide: U ⟨na le⟩ motho eo. Ho bolela jwalo Yahwe, Elohim wa Yisraele: Nna ke ile ka lota ⟨את⟩ uena hore e be morena hodima Yisraele, mme nna ke ile ka lokolotsa uena letlhohonolang la Shaule.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "04042ceb0c56716cb80ee2e2baab01132577c3ba48f908f54969c747d85cf7d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-samuel\/12\/7-7.1791265156041.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho eo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "ke ile ka lota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uena"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "hore e be morena"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "הצלתיך",
+      "gloss": "ke ile ka lokolotsa uena"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "letlhohonolang la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:16.061293614Z",
+  "model": "glm-5.3"
+}

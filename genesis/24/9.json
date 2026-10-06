@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mohlankana",
+      "rationale": "העבד ke mohlankana wa motebelesi; 'servant' ea Seith"
+    },
+    {
+      "kind": "crux",
+      "subject": "letsoho ka tlase ho lerame",
+      "rationale": "ketso ea hlapiso ka tlase ho lerame — poleloana ea Seheberu, sebopeho sa kanoke sa boholo-holo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "monga hae",
+      "rationale": "אדניו wa motho, eseng 'Morena' — Adonai ha e sowetsoe ho motho"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ho hlapisitsoa",
+      "rationale": "וישבע e bolela 'ho isa ho supileng' — ho ikana ka boithati, phetolelo e tloaelehileng"
+    }
+  ],
+  "translation": "Mme mohlankana oa monga hae Abrahame o ile a beha ⟨את⟩ letsoho la hae ka tlase ho lerameng la Abrahame, monga hae, mme a hlapisitsoe ho ya ka taba ena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "46f52bd2c9bcbdcae939e0279ea2db33141322b7a4af009ea95ce7d29fe5d320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/24\/9-9.1791264710299.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "mohlankana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la hae"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lerameng"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "monga hae"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "a hlapisitsoe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ya ka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:50.304290855Z",
+  "model": "glm-5.3"
+}

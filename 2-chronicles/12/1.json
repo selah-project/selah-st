@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bo ne",
+      "rationale": "Seheberu se na le karolo ya nako feela; Sesotho se hloka thuso"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Torah",
+      "rationale": "תורה e ntse e le Torah, eseng 'molao', ho latela D2"
+    }
+  ],
+  "translation": "Mme e bile, ha borena ba Rehabeame bo ne bo hlomilwe, mme a matlafala, a tlohela ⟨את⟩ Torah ya Yahwe, le Yisraele ohle le ena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4b0da7392e099a15400fd52f145a25a0e930f52af3c691b46efce197c4d434b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/12\/1-1.1791265788955.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "ha bo hlomilwe"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "borena"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeame"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "mme a matlafala"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "a tlohela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah ya Yahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le … ohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le ena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:48.955821332Z",
+  "model": "glm-5.3"
+}

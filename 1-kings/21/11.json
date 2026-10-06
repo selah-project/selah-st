@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 21:11",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Setswana-Sesotho relative 'ba\/a' e kopantshwe le pele kapa morao; Seheberu se na le karolo e ikemetseng."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בספרים",
+      "rationale": "Bongata ba Seheberu 'dibuka' bo nehetsoe ka 'mangolong' (mangolo) — tlwaelo ya Sesotho ya mangolo a romeloang."
+    },
+    {
+      "kind": "addition",
+      "subject": "ho bona",
+      "rationale": "Sehlahiswa se phethang 'ho bona' se ekeditswe moo Seheberu se sebetsang ka 'elihem' e le karolo ya temaneng e le nngwe."
+    }
+  ],
+  "translation": "Mme banna ba toro ya hae, baholo le bahlotsohali ba dulang torong ya hae, ba etsa jwaloka ha Izebele a ba rometseng, jwaloka ha ho ngotsoe mangolong a mo rometseng ho bona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c14b090760515edd5ca2e03375428d4a8dc7d699062197dc0d3db212d427927c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-kings\/21\/11-11.1791265244508.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "toro ya hae"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "baholo"
+    },
+    {
+      "surface": "והחרים",
+      "gloss": "le bahlotsohali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "dulang"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "torong ya hae"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka ha"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "a rometseng"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka ha"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "ho ngotsoe"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "mangolong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "mo rometseng"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho bona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:40:44.513620110Z",
+  "model": "glm-5.3"
+}

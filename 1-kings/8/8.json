@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 8:8",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויארכו",
+      "rationale": "KJV e re 'ba di hula mose' (causative ya ho hula) ha e bapetswe le YLT 'di atasea' (habeli habadi di ile tsa nka boemo boo)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הדביר",
+      "rationale": "Debire — sebetheo sa ka hare sa tempele; lentsoe le ntse le le Sesotho joalo ka lebitso."
+    },
+    {
+      "kind": "elision",
+      "subject": "הזה",
+      "rationale": "'lena' le hlalositsoe ka ho 'letsatsi lena' — le kopantswe le Lentsoe le fetileng."
+    }
+  ],
+  "translation": "Mme habadi di ile tsa atasea, hlobo ea habadi di ile tsa bonahala ho tloha sebakeng se halalelang, pela ⟨sebetheong sa⟩ hlooho ea Debire, empa di sa bonahale ka ntle; mme di ile tsa dula ho fihlela letsatsi lena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "de04d33f7d06494a1b09a5b6172011f564d30ba2f4b40c1e2d90783117b056f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-kings\/8\/8-8.1791265857931.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויארכו",
+      "gloss": "di ile tsa atasea"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "habadi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "di ile tsa bonahala"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlobo ea"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "habadi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sebakeng se halalelang"
+    },
+    {
+      "surface": "על",
+      "gloss": "pela"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sebetheong sa"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "hlooho ea Debire"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "empa di sa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bonahale"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "di ile tsa dula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi lena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:57.936117951Z",
+  "model": "glm-5.3"
+}

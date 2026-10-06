@@ -1,0 +1,190 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 35:15",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "melimo",
+      "rationale": "אלהים אחרים ke melimo ya ditjhaba, ka ditlhaku tse nyane ho ya ka D1, eseng Elohim"
+    },
+    {
+      "kind": "invitation",
+      "subject": "khutlang",
+      "rationale": "Melaetsa ea Yahwe e bitela batho ho khutlela, mafoko a taolo"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahuda le Jerusalema",
+      "rationale": "Puo ena e a lebella batho ba Judaea"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ho fapamolola tsebe",
+      "rationale": "הטיתם אזן — sesupo sa Seheberu sa ho mamela; ho Sesotho 'fapamolola tsebe' boetse bo sebelisoa"
+    }
+  ],
+  "translation": "Mme ke ile ka romella ho lona ⟨את⟩ balebeli ba ka baporofeta bopharwa, ba phakahlang le ho romelloa, ho re: Khutlang, ke kopa, mong le mong a tlohe tsela ea hae e mpe, le lokise liketso tsa lona, 'me le se ke la tsamaea morao ea melimo e meng ho e sebetsa, le dule lefatsheng leo ke le fileng lona le bo-ntate oa lona; empa le ile la fapamolola ⟨את⟩ tsebe ea lona, ebile le ne le sa mamele ho 'na.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d7c1ba775ce89477ff94c87bb1eea43525bc987023d22cd6595de9c6a3028783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/35\/15-15.1791265356158.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ke ile ka romella"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balebeli ba ka baporofeta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bopharwa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "balebeli ba ka"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "baporofeta"
+    },
+    {
+      "surface": "השכים",
+      "gloss": "ba phakahlang"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "le ho romelloa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "khutlang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "tsela ea hae"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "e mpe"
+    },
+    {
+      "surface": "והיטיבו",
+      "gloss": "le lokise"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "liketso tsa lona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "'me le se ke"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "la tsamaea"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morao ea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "melimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e meng"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "ho e sebetsa"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "'me le dule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke le fileng"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ולאבתיכם",
+      "gloss": "le bo-ntate oa lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "empa le"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "la fapamolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsebe ea lona"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "tsebe ea lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ebile le sa"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "mamele"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:36.160668168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 13:9",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ho tloha ho",
+      "rationale": "Hebrew opens with a place name; Sesotho needs 'from' to mark the range"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שפת",
+      "rationale": "literally 'lip'; rendered as mocheng (bank\/edge)"
+    }
+  ],
+  "translation": "Ho tloha ho Aroere e leng sehleng sa mocheng wa noka ya Arnone, le toropo e leng ka hare ho ⟨e⟩ noka, le pheisfatshe yohle ya Medeba ho fihlela Dibone;",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "59ef515b45b2be58a97755116e9fcd36a5ebb3feec3bbcc1091d8cfd672b384a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/13\/9-12.1791265126907.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מערוער",
+      "gloss": "Ho tloha ho Aroere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e leng"
+    },
+    {
+      "surface": "על",
+      "gloss": "sehleng sa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "mocheng"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "noka"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnone"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "le toropo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e leng"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "noka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le yohle"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "pheisfatshe"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "ya Medeba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Dibone"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:46.924283648Z",
+  "model": "glm-5.3"
+}

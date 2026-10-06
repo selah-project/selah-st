@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 20:17",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sehlomathiso sa botlalo",
+      "rationale": "לבד ho bolela 'a le mong\/kgotsong ka yena'; Sesotho se hloka mantswe a mangata ho tlatsa moelelo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "palo ya sesole",
+      "rationale": "seko sa banna ba dikete tse makgolo a mane ba ntšang pela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pela",
+      "rationale": "חרב ke sehloma sa ntwa; 'pela' e emela sehloma sa Sesotho sa ntwa"
+    }
+  ],
+  "translation": "Mme banna ba Yisraele ba ipalle ka botlalo, ntle le Benjamine, banna ba dikete tse makgolo a mane ba ntšang pela, bohle banna ba ntwa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "05d14cb6fca662addfe3f842cf6897e3bca4bbe41421f3e894c29f4fd2276c8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/20\/17-17.1791265106443.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "mme banna ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "ba ipalle"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ka botlalo ntle le"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "Benjamine"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "mane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ba ntšang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ba ntwa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:26.448419202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezekiel 40:49",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "porokisi",
+      "rationale": "Dikama tse leshome le pedi ka bophara, tse leshome le nngwe ka bophahamo — tekanyo ya tempele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "porokisi",
+      "rationale": "האולם — sebakeng se kenang se hlomathisitsoeng ntlong; porokisi ke lentswe le tlang."
+    },
+    {
+      "kind": "crux",
+      "subject": "dikolomo",
+      "rationale": "עמודים אל האילים — YLT\/ASV 'by the posts'; KJV 'by the posts' hape; moelelo o sa hlakahala."
+    }
+  ],
+  "translation": "Bophara ba porokisi e ne e le dikama tse leshome le pedi, mme bophahamo ba yona dikama tse leshome le nngwe; mme ka mehatong eo ba neng ba ea hodima ho yona: mme ho ne ho na le ditsha pole haholo-hodimo ho aisi, e le nngwe mona, e le nngwe mona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d553a30713804156c1689898375e6aed72c6e9e002a071973d2b4d6c910db980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/40\/49-49.1791265399734.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Bophara"
+    },
+    {
+      "surface": "האלם",
+      "gloss": "ba porokisi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tse leshome le pedi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dikama"
+    },
+    {
+      "surface": "וּבַֽמְּעָלוֹת ובמעלות",
+      "gloss": "mme ka mehatong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ba neng ba ea hodima"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "ועמודים",
+      "gloss": "mme ho na le dikolomo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ho aisi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "mona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:19.736335268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dihlapa",
+      "rationale": "צאן ke lentswe la sehlopha se kopaneng — diphuphu le dibodi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tse sa ka tsa baloa kapa tsa nkuwa",
+      "rationale": "palo e sa kenyeleleng — ho bala le ho nka palo ka bobedi di hana palo"
+    }
+  ],
+  "translation": "Mme morena Selomone le phutheho ya Yisraele yohle, ba bilelang ho yena, ba le ⟨את⟩ le ena pele ha arke, ba hlabela dihlapa le dikgomo tse sa ka tsa baloa kapa tsa nkuwa ka bongata.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-kings\/8\/5-8.1791265272751.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "mme morena"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomone"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le yohle"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "phutheho ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "ba bilelang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ena"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ha"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arke"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ba hlabela"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dihlapa"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "le dikgomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa ka tsa"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "baloa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapa tsa"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "nkuwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ka bongata"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:12.755338869Z",
+  "model": "glm-5.3"
+}

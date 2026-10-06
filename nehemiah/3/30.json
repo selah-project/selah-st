@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 3:30",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הששי",
+      "rationale": "'wa borataro' — e ka ba mora wa botshela wa Tsalafe, kapa mohlomong mosebetsi wa hae wa borataro; KJV 'sixth son', YLT 'the sixt'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "מדה שני",
+      "rationale": "Karolo ya bobedi ya serethe — leloo la ho bala dipalo tsa dibaka tsa serethe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "החזיק",
+      "rationale": "'o ile a matlafatsa' — tlhaku e bolela 'ho tswelela ka matla', e se ntle feela 'ho lokisa'."
+    }
+  ],
+  "translation": "Ka mora hae Hananjah, mora wa Shelemjah, le Hanune, mora wa Tsalafe, wa borataro, o ile a matlafatsa karolo ya bobedi. Ka mora hae Meshullame, mora wa Berekjah, o ile a matlafatsa pele le kamore ya hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f4d07a55f12188a91406aac4e1f8f60209f6d4d11aa1c8df96b226b3d941e52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/nehemiah\/3\/30-31.1791265686945.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ka mora hae"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "o ile a matlafatsa"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "שלמיה",
+      "gloss": "Shelemjah"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "le Hanune"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "צלף",
+      "gloss": "Tsalafe"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "wa borataro"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya bobedi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka mora hae"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "o ile a matlafatsa"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshullame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "Berekjah"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele le"
+    },
+    {
+      "surface": "נשכתו",
+      "gloss": "kamore ya hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:06.950762047Z",
+  "model": "glm-5.3"
+}

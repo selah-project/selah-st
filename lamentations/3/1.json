@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "motho",
+      "rationale": "הגבר ke geber — monna ya matla, mohlabani; Sesotho se bolela 'motho' ya tloaelehileng, botho ba matla bo timetse"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשבט עברתו",
+      "rationale": "'ka sekgutlwa sa khalefo ya hae' — 'ya hae' ke ya Elohim, Lebitso le sa bolelwa mothong ona; ba fetoleli ba bang ba ngola 'Molimo' ka ho hlakisa"
+    }
+  ],
+  "translation": "Ke nna motho — <ya matla> — ya bonile ⟨את⟩ manyoafalo ka sekgutlwa sa khalefo ya hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "89533b3f324d764a05f99b1f30a94f44004ea7280f89ab3c4ad4dca193555af7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/lamentations\/3\/1-1.1791265629942.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ke nna"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "motho — <ya matla>"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ya bonile"
+    },
+    {
+      "surface": "עני",
+      "gloss": "manyoafalo"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ka sekgutlwa sa"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "khalefo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:09.943368445Z",
+  "model": "glm-5.3"
+}

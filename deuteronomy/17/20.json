@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 17:20",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "molaetseng",
+      "rationale": "המצוה e bolela 'tsela eo e laetsweng'; 'molaetseng' — kapa 'taelong' — ke lentswe le haufi la Sesotho"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ka letona kapa ka lehono",
+      "rationale": "ימין ושמאול: 'ho ja ka letona kapa lehono' — pontsho ya Sesotho ya ho tloha tseleng"
+    },
+    {
+      "kind": "you",
+      "subject": "morena",
+      "rationale": "Taelo ena e ya ho morena wa Yisraele, ka ponahalo e sa boleloang"
+    }
+  ],
+  "translation": "Etlelle hore pelo ya hae e se ke ya phahama hodima boahalane ba hae, le hore a se ke a tloha molaetseng, ka ho ja ka letona kapa ka lehono, etlelle hore a nke nako e telele hodima borena ba hae, yena le bana ba hae, bohareng ba Yisraele.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5f67dc006294804d331e342ba13839c8b1b887e0fbb424149d67c67906a254f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/17\/20-20.1791265051966.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבלתי",
+      "gloss": "etlelle hore a se ke"
+    },
+    {
+      "surface": "רום",
+      "gloss": "ya phahama"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "hodima boahalane ba hae"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "le hore a se ke"
+    },
+    {
+      "surface": "סור",
+      "gloss": "a tloha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tswa"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "molaetseng"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ka letona"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "kapa ka lehono"
+    },
+    {
+      "surface": "למען",
+      "gloss": "etlelle hore"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "a nke nako e telele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "masiu"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "borena ba hae"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba hae"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "bohareng ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:31.978028087Z",
+  "model": "glm-5.3"
+}

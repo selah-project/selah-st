@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 8:13",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחרונים",
+      "rationale": "'Ba mafeleng' (the last\/later ones) kgahlanong le 'ba batjha' (younger, YLT) — sehlogo se sa hlakang."
+    },
+    {
+      "kind": "measurement",
+      "subject": "seko",
+      "rationale": "Palo ya batho: mashome a tsheletseng a banna."
+    }
+  ],
+  "translation": "Mme hara bana ba Adonikame, ba mafeleng; mme leina la bona ke tsena: Elifelete, Yeiele le Shemaya; mme le bona mashome a tsheletseng a banna.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "360d21d8ae8c5c5370d6728f5839599ab8ab7642bb9dab4b256dbfbf7d2fe24f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezra\/8\/13-13.1791265673224.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "Mme hara bana ba"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "Adonikame"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ba mafeleng"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mme tsena"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "leina la bona"
+    },
+    {
+      "surface": "אליפלט",
+      "gloss": "Elifelete"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Yeiele"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "le Shemaya"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "mme le bona"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "mashome a tsheletseng"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "a banna"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:53.228727989Z",
+  "model": "glm-5.3"
+}

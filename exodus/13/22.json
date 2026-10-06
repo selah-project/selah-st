@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יומם",
+      "rationale": "Hebereo e re 'ka letsatsi' (yo-mam, ka ho pheta-pheta); Sesotho se hlalosa ka 'mosebetsing o mong le o mong'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kapa",
+      "rationale": "Sehokwanyana se seholo sa 'waw' se hlokahala ho Sesotho ho hokahanya mehuta e mmedi"
+    }
+  ],
+  "translation": "O ile a sa tlose sekhutla sa lehodi mosebetsing o mong le o mong, kapa sekhutla sa mollong bosiu, pele ho setjhaba.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5f67a0364468f6849bfc15c35b50de363f93718d359394d263d3b17c2fee961d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/13\/22-22.1791264753149.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha a"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "a tlose"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "sekhutla"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "sa lehodi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mosebetsing o mong le o mong"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "le sekhutla"
+    },
+    {
+      "surface": "האש",
+      "gloss": "sa mollong"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:33.156787848Z",
+  "model": "glm-5.3"
+}

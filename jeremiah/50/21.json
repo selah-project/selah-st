@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 50:21",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Merathayime",
+      "rationale": "מרתים dual ya מרה ('khohlehano'): lebitso la sesupo la Babilone — 'ba-khohlehang-babeli'; ba fetoleli bang ba bolela 'baetapele' (Wycliffe)"
+    },
+    {
+      "kind": "crux",
+      "subject": "Pekode",
+      "rationale": "פקוד lebitso la sesupo le tshwanang le 'pekudah' (tlhokomeso\/kahlolo) — papatleho ya Babilone"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרתים \/ פקוד",
+      "rationale": "Merathayime ('khohlehano e beli') le Pekode ('tlhokomeso\/kahlolo') — maina a sesupo a sesosa thwii, a phelang ka bomong ho Sesotho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "והחרם",
+      "rationale": "cherem ke thwaelo ya ho rulula ka botlalo bakeng sa Molimo; Sesotho 'rululohanye' e ka sehloohong e hlalosa sebopeho, e siea bokgoni ba sedikhuwa"
+    },
+    {
+      "kind": "you",
+      "subject": "to mabotho a Yisraele a kwelang Babilone",
+      "rationale": "Taello ya tobile: 'kena', 'senya', 'o ete' — Lebitso le bitsa mabotho"
+    }
+  ],
+  "translation": "Ho fathe lefatsheng la Merathayime, kena holim'a lona, le ho ba duleng Pekode: senya mme o rululohanye ka mora bona, ho bolela Yahwe, mme o ete tsohle tseo ke di laetseng hao.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1e4fca2f7a02a2472e239efbaefd21b4cb1849d8b2cc7c12adefd89268c70664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/50\/21-21.1791265347881.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ho fathe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "מרתים",
+      "gloss": "la Merathayime"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kena"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "holim'a lona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba duleng"
+    },
+    {
+      "surface": "פקוד",
+      "gloss": "Pekode"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "senya"
+    },
+    {
+      "surface": "והחרם",
+      "gloss": "mme o rululohanye"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ka mora bona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme o ete"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "ke di laetseng hao"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:27.882335234Z",
+  "model": "glm-5.3"
+}

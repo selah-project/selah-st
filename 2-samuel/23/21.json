@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 23:21",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ponahalo",
+      "rationale": "מראה (appearance): 'mona wa ponahalo' (ya ponahalo e kgolo) kgahlanong le 'mosholoane' kapa 'ya bohlale' — dikgetho tsa ba fetolelang"
+    },
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Seheberu se sena copula — se ekeditswe bakeng sa 'mme setsing... lerumo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a utla",
+      "rationale": "ויגזל ke 'a utla ka dikgoka \/ a thwele' — ho nka ka dikgoka, eseng ho utla ho tloha"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ponahalo",
+      "rationale": "Setshwantsho sa bohlano sa motho — bophara bo bongata ba mojaki bo bala mong"
+    }
+  ],
+  "translation": "Mme yena o ile a thula ⟨את⟩ motho wa Mitsrayime, mona wa ponahalo; mme setsing sa mojaki e ne e le lerumo, mme o ile a theohela ho yena ka koto, mme a utla ⟨את⟩ lerumo setsong sa mojaki, mme a mo bolaea ka lerumo la hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "93d969ecd1ed7aa03bd41ab65bfe9dbd2f0c5f26fa76fbd41b111b74faa92c1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-samuel\/23\/21-21.1791265177333.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "mme yena"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a thula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho wa Mitsrayime"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "wa Mitsrayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ponahalo"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "mme setsing"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "sa mojaki"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "lerumo"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a theoha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ka koto"
+    },
+    {
+      "surface": "ויגזל",
+      "gloss": "a utla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerumo"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "lerumo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "setsong"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "sa mojaki"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "a mo bolaea"
+    },
+    {
+      "surface": "בחניתו",
+      "gloss": "ka lerumo la hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:37.339439755Z",
+  "model": "glm-5.3"
+}

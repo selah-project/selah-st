@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 44:7",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ho se etsahale hle",
+      "rationale": "חלילה ke ho hana ka tsela e tsositseng — 'e se e le se thibelweng'; 'God forbid' ya KJV e kgetolla"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כדבר...הזה",
+      "rationale": "'ka mantswe a' le 'ka ntho e' — dabolodi tse pedi tsa דבר; Sesotho se hlalosa ka 'mantswe' le 'ntho'"
+    },
+    {
+      "kind": "you",
+      "subject": "morena wa ka",
+      "rationale": "Baene ba Yaakobo ba bua le Yosefa, ba sa tsebe hore ke kgaitsedi ya bona"
+    }
+  ],
+  "translation": "Mme ba mo re: Hobaneng morena wa ka a bua mantswe a tshwanang le a? Ho se etsahale hle hore makgotsoane a ka etsa ntho e tshwanang le ena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "58ad29bf57171ad8dcb53ab26f60914c0b323d33421ed32743f5f3c0faa61e81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/44\/7-7.1791264764982.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mme ba re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "a bua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "mantswe a tshwanang le"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Ho se etsahale hle"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "hore makgotsoane a ka"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ntho e tshwanang le"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:44.985827938Z",
+  "model": "glm-5.3"
+}

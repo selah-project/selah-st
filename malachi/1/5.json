@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "st",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hodimo",
+      "rationale": "מעל לגבול: 'hodimo mollong' (beyond the border) kgahlanong le 'hodima mollong' (upon\/over the border); KJV e re 'from', JPS 'beyond'"
+    },
+    {
+      "kind": "you",
+      "subject": "ho Yisraele",
+      "rationale": "Yahwe o bolelela batho ba Yisraele ka mahlo a lona, le tla re"
+    }
+  ],
+  "translation": "Mme mahlo a lona a tla bona, mme lona le tla re: Yahwe a atleha hodimo mollong wa Yisraele.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8f12214879eb98507ff69b8a1c755bdc06f531605ed325c2f1e5dc319fb7afa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/malachi\/1\/5-5.1791265533257.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "Mme mahlo a lona"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "a tla bona"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme lona"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "le tla re"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "a atleha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "mollong wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:33.257970567Z",
+  "model": "glm-5.3"
+}

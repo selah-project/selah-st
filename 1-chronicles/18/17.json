@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 18:17",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Seheberu se se na copula; Sesotho se e hloka"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכרתי והפלתי",
+      "rationale": "Bakereiti le Bapeleti: mabotho a Dawide kapa mabitso a ditjhaba — Ba-Peleseta (Kereiti) le ba ikgethileng (Peleti)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ליד המלך",
+      "rationale": "'ka letsohong la morena' — temana ya Seheberu e bolelang 'ka thoko ho morena \/ mererong ya morena'"
+    }
+  ],
+  "translation": "Mme Benajahu mora wa Yehojada e ne e le hodima Bakereiti le Bapeleti; mme bara ba Dawide ba pele ba ne ba le ka letsohong la morena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "e521c17634f9877c4c711908cd9b1d5b5961892825b05424f8a14564db15574f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/18\/17-17.1791265715541.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Mme Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehojada"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "Bakereiti"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "le Bapeleti"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mme bara ba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ba pele"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ka letsohong la"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:35.544949989Z",
+  "model": "glm-5.3"
+}

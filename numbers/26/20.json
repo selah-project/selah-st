@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e bile",
+      "rationale": "Seheberu se na le ויהיו feela; kopula e ekelitsoe bakeng sa Sesotho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "palo ya malapa",
+      "rationale": "Mohala wa census wa malapa a Yehuda"
+    }
+  ],
+  "translation": "Mme bana ba Yehuda ka malapa a bona e bile: wa Shelaha, lelapa la ba-Shelani; wa Perese, lelapa la ba-Parzi; wa Zeraḵ, lelapa la ba-Zarḵi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8e7e3f23325610283a280dc2da8f466d6e9aeb5e9c9841f6c67388d9b4969cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/26\/20-20.1791264951012.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka malapa a bona"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "wa Shelaha"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "ba-Shelani"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "wa Perese"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "ba-Parzi"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "wa Zeraḵ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ba-Zarḵi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:51.015874077Z",
+  "model": "glm-5.3"
+}

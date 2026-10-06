@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moshe and Aharone",
+      "rationale": "Faro o bua ka ho toba ho Moshe le Aharone ka laela la ho lahlela meriano."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lahleleng merianong",
+      "rationale": "זבחו ke ho riala litho tse phelang bakeng sa peleho; 'lahlela merianong' ke mokgwa oa Sesotho, seswantsho sa madi se timetse."
+    }
+  ],
+  "translation": "Mme Faro a bitsa Moshe le Aharone, a re: Tlohang, lahleleng merianong ⟨את⟩ Elohim ya lona lefatsheng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "716aa9f16be5d5f5fa52bb4595f30f8a8a0fa5d9d48da15e02dbff90119fd83e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/8\/21-21.1791264762895.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "tlohang"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "lahleleng merianong"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:42.899417450Z",
+  "model": "glm-5.3"
+}

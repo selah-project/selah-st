@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 2:6",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mmedi",
+      "rationale": "פשתי העץ — 'ditala tsa setlhare': העץ ke 'mmedi\/setlhare', sesupo sa hore phaephe e hlaha ho mmedi oa eona."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגגה ... הגג",
+      "rationale": "Phetišo ea lentsoe 'tlako' ka hannotho — tlhaku e tšoanang e khutla ka mora ditala, e theoha haholo."
+    }
+  ],
+  "translation": "Mme yena o ile a ba hlahaletsa hodima tlako, mme a ba pata hara ditala tsa phaephe tse behiloeng ho eena hodima tlako.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "458e6e2b249887303a60778305e072482fe7a4c743088afabcad4efb3276d919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/2\/5-6.1791265081055.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "Mme yena"
+    },
+    {
+      "surface": "העלתם",
+      "gloss": "o ile a ba hlahaletsa"
+    },
+    {
+      "surface": "הגגה",
+      "gloss": "hodima tlako"
+    },
+    {
+      "surface": "ותטמנם",
+      "gloss": "mme a ba pata"
+    },
+    {
+      "surface": "בפשתי",
+      "gloss": "hara ditala tsa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "mmedi"
+    },
+    {
+      "surface": "הערכות",
+      "gloss": "tse behiloeng"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "tlako"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:01.063889647Z",
+  "model": "glm-5.3"
+}

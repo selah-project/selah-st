@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 23:19",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מתחולל \/ יחול",
+      "rationale": "Both are from the same root חול (ho tshikinya, ho sesiusa); sefufu se sesiuetseng se tla sesiusa — motsotso o mong o qetile ka sehlooho se le seng, o sieo ka ho Sesotho"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחול",
+      "rationale": "Radikaleng: ho tshikinyetsa, ho itlhahloba; Sephetolelo sa KJV 'it shall fall grievously', sa JPS 'it shall whirl' — 'se tla sepelisa mahlonoko'"
+    },
+    {
+      "kind": "you",
+      "subject": "bahopedi ba ntseng ba palama",
+      "rationale": "הנה e bitela mobadi hore a bone sefufu se tlang"
+    }
+  ],
+  "translation": "Bonang, sefufu sa Yahwe — tlolo e ntse e tsoha; mme sefufu se sesiuetseng se tla sepelisa mahlonoko hodima dihlogo tsa bahlwefutsi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "35081dbd9b4e331f6e0ce5ccad464ab14a319ae3e4f821baea4dae8b4309dbd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/23\/19-19.1791265288882.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "סערת",
+      "gloss": "sefufu sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "tlolo"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "e ntse e tsoha"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "mme sefufu"
+    },
+    {
+      "surface": "מתחולל",
+      "gloss": "se sesiuetseng"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "dihlogo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tsa bahlwefutsi"
+    },
+    {
+      "surface": "יחול",
+      "gloss": "se tla sepelisa mahlonoko"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:28.884388314Z",
+  "model": "glm-5.3"
+}

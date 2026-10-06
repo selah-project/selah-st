@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 33:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונפלינו",
+      "rationale": "Niphal ya פלה: 'ho fapana \/ ho arohana \/ ho hlakanoha' — KJV 'separated', JPS 'distinguished'."
+    },
+    {
+      "kind": "addition",
+      "subject": "hore",
+      "rationale": "Seheberu se se na boleodi kamora 'ידע'; Sesotho se se hloka."
+    },
+    {
+      "kind": "elision",
+      "subject": "אפוא",
+      "rationale": "Sehlahisoa sa potso se kopantswe le 'ka eng' — se sa fetolehe ka bomong."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חן",
+      "gloss_note": "",
+      "rationale": "חן e fetoletsoe e le 'hesede' ho latela molao wa D2, le hoja motso o bolela mohau\/khotsofatso."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Moshe o buang le Yahwe",
+      "rationale": "Potsopotso ya moeti e lebisitswe ho Yahwe ka boomo."
+    }
+  ],
+  "translation": "Mme ka eng e tla tsejwa hore ke fumanne hesede mahlonong a hao — nna le sechaba sa hao? Ana eseng ka ho tsamaea hau le rona, hore re fapane — nna le sechaba sa hao — ho sechaba sohle se dulang hodima sefahleho sa lefatshe?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fe0e603e7bfa03b8d4a632c812120a57cbe6eb3f63cb6d740bb5f8b44a94dbbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/33\/16-16.1791264826934.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמה",
+      "gloss": "Mme ka eng"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "e tla tsejwa"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "hore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ke fumanne"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mahlonong a hao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "le sechaba sa hao"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ana eseng"
+    },
+    {
+      "surface": "בלכתך",
+      "gloss": "ka ho tsamaea hao"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "le rona"
+    },
+    {
+      "surface": "ונפלינו",
+      "gloss": "hore re fapane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "le sechaba sa hao"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho sechaba sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:46.941422656Z",
+  "model": "glm-5.3"
+}

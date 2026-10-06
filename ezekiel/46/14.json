@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 46:14",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה e bolokwa jaaka lentswe le le leng; eseng 'mpho' kapa 'lekgetho' (D2)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "efa · hine",
+      "rationale": "Ditekanyo tsa Seheberu di bolokwa ka mabitso a tsona (D3)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "Poeletso 'hoseng le hoseng' e bontša phetoho ya mehla; e bolokilwe"
+    },
+    {
+      "kind": "addition",
+      "subject": "sehlanong sa",
+      "rationale": "Seheberu o šupa karolo ka lefoko la maemo fela (ששית, שלישית); Sesotho se hloka 'karolo'"
+    }
+  ],
+  "translation": "Mme o tla etsa minkha holim'a yona hoseng le hoseng, sehlanong sa efa, mme oli, sehlanong sa boraro sa hine, ho mpesta ⟨את⟩ molele o mosesane — minkha ho Yahwe, melao-e menehelo ya ho sa feleng, ka mehla.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fd02ac9c9760f69f733d3a607c88c318510165bc6ebcef8dc83b5845f9322cb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/46\/14-14.1791265420323.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחה",
+      "gloss": "Mme minkha"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "holim'a yona"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le hoseng"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "sehlanong sa bone"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "mme oli"
+    },
+    {
+      "surface": "שלישית",
+      "gloss": "sehlanong sa boraro"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hine"
+    },
+    {
+      "surface": "לרס",
+      "gloss": "ho mpesta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molele o mosesane"
+    },
+    {
+      "surface": "הסלת",
+      "gloss": "molele o mosesane"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "melao-e menehelo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya ho sa feleng"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka mehla"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:40.324891287Z",
+  "model": "glm-5.3"
+}

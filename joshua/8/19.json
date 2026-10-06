@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 8:19",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba-le-teronoko",
+      "rationale": "האורב ke 'ba le teronoko' — ba-belehisang; Sesotho se hlopha ka mokhoa o fokolang, ka hona hyphen"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bosele ba bona",
+      "rationale": "ממקומו ke 'bohalo ba hae' (ha ba le mong); Sesotho se hloka pronoun"
+    },
+    {
+      "kind": "elision",
+      "subject": "letsoho la hae",
+      "rationale": "ידו ke 'letsoho la hae' — moahi ke Yosue, o hlakileng mabapi le puo"
+    }
+  ],
+  "translation": "Mme ba-le-teronoko ba ile ba tswa ka potlako haufi le bosele ba bona, mme ba matha haufi le ho atolloa ha letsoho la hae, mme ba kena toropong, mme ba e thapa, mme ba potlakisa, mme ba chesa ⟨את⟩ toropo ka molllo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "936169c63257a88b3c9a20b3b902d9f0a17c733e76402fc11d2a997a7aeaa593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/8\/19-19.1791265095672.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאורב",
+      "gloss": "mme ba-le-teronoko"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ba tswa"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ka potlako"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "bosele ba bona"
+    },
+    {
+      "surface": "וירוצו",
+      "gloss": "mme ba matha"
+    },
+    {
+      "surface": "כנטות",
+      "gloss": "haufi le ho atolloa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mme ba kena"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "וילכדוה",
+      "gloss": "mme ba e thapa"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "mme ba potlakisa"
+    },
+    {
+      "surface": "ויציתו",
+      "gloss": "mme ba chesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka molllo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:15.675950913Z",
+  "model": "glm-5.3"
+}

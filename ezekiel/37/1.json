@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Seheberu se na le היתה ea nako e fetileng; Sesotho se hloka mongodi wa nako"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e fetohile ruakh, eseng 'moya', ho latela tafole D2"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ponahalo ya bikoeng bo tletse mafita",
+      "rationale": "Pono ya sephiri e qalang — Yahwe a hlahisa sephiri ho Ezekiele"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨the⟩",
+      "rationale": "Sesotho se hloka sengoloa sebakeng sa bikoeng bo itseng"
+    }
+  ],
+  "translation": "Letsoho la Yahwe le ne le le hodima ka, mme Yahwe o ntsohile ka ruakh, mme a mponta hare ho ⟨the⟩ bikoeng, mme e ne e tletse mafita.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "a16d7345247638663a7865b0279f7eaaaf6c36e75a765ab7b70c9300acd1d10d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/37\/1-1.1791265406364.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima ka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "mme o ntsohile"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ka ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "mme a mponta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hare ho"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "bikoeng"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mme e"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tletse"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mafita"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:26.366311265Z",
+  "model": "glm-5.3"
+}

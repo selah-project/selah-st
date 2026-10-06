@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 4:43",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hore ba iphetse",
+      "rationale": "bocha bo kopantswe, mehala e thakgileng"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lefala",
+      "rationale": "המישר ke lefata le fodileng, fela e ne e lebitsodi bakeng sa Bašan"
+    }
+  ],
+  "translation": "⟨את⟩ Betseremoo bocha, hore ba iphetse, le ⟨את⟩ Ramote moo bocha, hore ba iphetse, le ⟨את⟩ Golane moo bocha, hore ba iphetse",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "857208e03d7795dd4785ea37071c5b9386fee11d67b65538da07fd59c5f67e5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/4\/43-45.1791265073981.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "bocha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "naheng"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ya lefala"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "bakeng sa Bareubene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ramote"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Ramote"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gilcwadeng"
+    },
+    {
+      "surface": "לגדי",
+      "gloss": "bakeng sa Bagade"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Golane"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golane"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Bašaneng"
+    },
+    {
+      "surface": "למנשי",
+      "gloss": "bakeng sa Bamanase"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:53.995110265Z",
+  "model": "glm-5.3"
+}

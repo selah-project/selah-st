@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 35:13",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמשפט",
+      "rationale": "'ka tlwaelo' (custom\/ordinance) kgahlanong le 'ka kahlolo' (verdict) — moo D2 e bontshang kahlolo e le khetho ya pele"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשל \/ ויבשלו",
+      "rationale": "boselamo ba Paseka 'ba pheha ka mollo' mphanya-phinya le Deuteronomi 16:7 'u e phehe' — baprista ba fapana: ho baka kapa ho pheha ka mollo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba li",
+      "rationale": "Seheberu se sena sehlomathiso sa object; Sesotho se hloka 'li' ho bopaSetsi"
+    }
+  ],
+  "translation": "Mme ba pheha ⟨את⟩ Paseka ka mollo, ka tlwaelo; mme dintho tse halalelang ba li pheha dipitseng, le ditankong, le diplateng, mme ba li isa ka potlako ho bana bohle ba setjhaba.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "3e261a363d64b4718c24f0fb2a27b516096b713f226047ac362e6f03cdc8d9a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/35\/13-14.1791265833393.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבשלו",
+      "gloss": "ba pheha"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ka tlwaelo"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "mme dintho tse halalelang"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "ba li pheha"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "dipitseng"
+    },
+    {
+      "surface": "ובדודים",
+      "gloss": "le ditankong"
+    },
+    {
+      "surface": "ובצלחות",
+      "gloss": "le diplateng"
+    },
+    {
+      "surface": "ויריצו",
+      "gloss": "ba li isa ka potlako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho bana bohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:33.399443189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 38:17",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Seheberu se senyeletse sehlangwa, Sesotho se se hlokahalsa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tshope",
+      "rationale": "נחשת ke tshope\/koperi, eseng 'bras'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשוקים\/מחשקים",
+      "rationale": "phetoso ya motso o mong ka ho boela-boela ho fihlela qetellong ya temane"
+    },
+    {
+      "kind": "measurement",
+      "subject": "thehelo ya serale",
+      "rationale": "temane e hlalosa ditho tsa kagiso ya serale ka dithokeho"
+    }
+  ],
+  "translation": "Mme metheo ya dimmila e ne e le tshope, meqolo ya dimmila le disele tsa tsona e ne e le sekwele, mme boepi ba ditlhogo tsa tsona sekwele, mme tsona di ne di hoketsoe ka sekwele, dimmila tsohle tsa seraleng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "76bd4f814101898f24389baa4b565f735eabefcead4ca45e1977863cd564fe26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/38\/17-18.1791264836248.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאדנים",
+      "gloss": "mme metheo ya"
+    },
+    {
+      "surface": "לעמדים",
+      "gloss": "dimmila"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tshope"
+    },
+    {
+      "surface": "והוי",
+      "gloss": "meqolo ya"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "dimmila"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "le disele tsa tsona"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sekwele"
+    },
+    {
+      "surface": "וצפוי",
+      "gloss": "mme boepi ba"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ditlhogo tsa tsona"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sekwele"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme tsona"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "di hoketsoe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ka sekwele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "dimmila tsa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "seraleng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:56.254094715Z",
+  "model": "glm-5.3"
+}

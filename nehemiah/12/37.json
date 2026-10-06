@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 12:37",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "motšoare",
+      "rationale": "העין ke 'leihlo', e bolela mokhoa 'leihlo la lefatshe' — sesotho se re motšoare."
+    },
+    {
+      "kind": "crux",
+      "subject": "במעלה לחומה",
+      "rationale": "'hodimong ho mmaraka' kapa 'ho nyoloha ho ya mmaraka' — ba-fetoleli ba fapana ka kamoo tsela e bapang le mmaraka ka oena."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tsela ya mokgota",
+      "rationale": "Lenane la leeto la mahahla-puo: mafelo a hlaloswa ka ntlha-e-'ngoe — lemong, mokgota, ntlo, lemong, bochabela."
+    }
+  ],
+  "translation": "Mme ho sebakeng sa lemong ya motšoare ⟨le⟩ ntlo ya Dawide, le ho fihlela lemong ya metsi, ka bochabela.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d39df473b13cd82ab1b0be252efdda151e2e68a47995967744d5e6755f842031",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/nehemiah\/12\/37-37.1791265673564.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "mme ho"
+    },
+    {
+      "surface": "שער",
+      "gloss": "lemong"
+    },
+    {
+      "surface": "העין",
+      "gloss": "ya motšoare"
+    },
+    {
+      "surface": "ונגדם",
+      "gloss": "mme pel'a bona"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ba ile ba nyoloha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "mokgota"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "במעלה",
+      "gloss": "hodimong"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "ho mmaraka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le ho fihlela"
+    },
+    {
+      "surface": "שער",
+      "gloss": "lemong"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ya metsi"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ka bochabela"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:53.568177973Z",
+  "model": "glm-5.3"
+}

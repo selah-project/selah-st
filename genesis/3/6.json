@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 3:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תאוה\/נחמד",
+      "rationale": "takatso le ho ratwa — dipuiso tse pedi tsa takatso di tswalanwa, motho o ka di bona ka ho arohana ha Sesotho"
+    },
+    {
+      "kind": "crux",
+      "subject": "להשכיל",
+      "rationale": "'ho fihlela bohlale' kgahlano le 'ho hlalefala' — motso o bolela ho leba ka hlale, ho sebelike"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפריו",
+      "rationale": "'sefating sa sona' — Heberu o re 'ho fofung ba sona', bongata bo mong bo filwe ka bomong"
+    }
+  ],
+  "translation": "Mme mosadi a bona hore sefate se molemo ho ja, mme hore se takatso mahlonong, mme hore sefate se ratwang ho fihlela bohlale; mme a nka sefating sa sona mme a ja, mme a neha hape ho monna wa hae ya nang le eena, mme o ile a ja.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "46e27ed36fc64050308e15a6727510430b397b8234e55eab7fa4ee5d8bb267b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/3\/6-6.1791264693702.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se molemo"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "ho ja"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mme hore"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "takatso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke eona"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "mahlonong"
+    },
+    {
+      "surface": "ונחמד",
+      "gloss": "mme se ratwang"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "ho fihlela bohlale"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "mme a nka"
+    },
+    {
+      "surface": "מפריו",
+      "gloss": "sefating sa sona"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mme a ja"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "mme a neha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hape"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "ho monna wa hae"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ya nang le eena"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "mme o ile a ja"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:33.719420341Z",
+  "model": "glm-5.3"
+}

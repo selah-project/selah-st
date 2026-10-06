@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kamehla",
+      "rationale": "תמיד e bolela 'tswelopele, ho sa felloe' — 'kamehla' ke moedi o atileng, e se moelelo o tlwaelehileng"
+    },
+    {
+      "kind": "you",
+      "subject": "mojale",
+      "rationale": "Taelo e eletsa baprista ba Aharone: molelo oo o se ke wa tima"
+    }
+  ],
+  "translation": "Mollo o tla tuka hodima aletare kamehla; o se ke wa tima.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ec0dba52fe44089fe90053fbf8abf1474f181430d68d3e2ab000a6436b118b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/6\/6-7.1791265876450.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kamehla"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "o tla tuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "wa tima"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:16.455719518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברד \/ ברדת",
+      "rationale": "paronomasia: barad (kapetla) le beredet (ho theoha) — modumo o tshwanang, o latlhahile ka Sesotho"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשפלה \/ תשפל",
+      "rationale": "paronomasia: shefela (sefahleho-hodimo) le tishpol (e theoha) — motsotso o tshwanang oa motso, o latlhahile"
+    },
+    {
+      "kind": "crux",
+      "subject": "ha sefaha se wa",
+      "rationale": "diphopholetso di fapana: 'downfall of the forest' (KJV) vs 'hail levels the forest' (BSB) vs 'city descends into the valley' (JPS)"
+    }
+  ],
+  "translation": "Mme go tla na le kapetla ha sefaha se wa, mme sefahleho-hodimo sa toropo se tla theoha se ea tlase.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4b0cbaca64193b94915661b6c61b046a1d6bed11225c727efeeeaeac59c8f006",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/32\/19-19.1791265292789.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "mme go tla na le kapetla"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "ha e theoha"
+    },
+    {
+      "surface": "היער",
+      "gloss": "sefaha"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "mme sefahleho-hodimo"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "e tla theoha ea tlase"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:32.792654867Z",
+  "model": "glm-5.3"
+}

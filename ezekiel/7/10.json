@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצפרה",
+      "rationale": "'tshefo ya dikahare' kapa 'phetoho ya merero' — ba-fetoleli ba fapana: KJV 'the morning', JPS 'the turn', ASV 'thy doom'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צץ\/פרח",
+      "rationale": "Mantsoe a mabeli a bontshang ho tsutsuma le ho tswala a latelana — sesupo sa peo e hlahang se sa bonahale Sesothong."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨letsatsi⟩",
+      "rationale": "Seheberu se na le sehlopha se le seng; Sesotho se hloka sebapadi le sehlomathiso."
+    },
+    {
+      "kind": "invitation",
+      "subject": "בonang",
+      "rationale": "הנה e bitsa mobadi hore a shebe — tlamo ya kutlo sebakeng sa prophete."
+    }
+  ],
+  "translation": "Bonang, ⟨letsatsi⟩, bonang, le fihlile; e tswile tshefo, mme molamu o tsutsumetse, mme boikhantsbo bo tswaletse.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8d7c6dc33b69649899fbc66e54a5c53b8a9e58e755511c64dea567b983c2c6c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/7\/10-10.1791265360770.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨letsatsi⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "באה",
+      "gloss": "le fihlile"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "e tswile"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "tshefo"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "o tsutsumetse"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "molamu"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "bo tswaletse"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "boikhantsbo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:40.771732261Z",
+  "model": "glm-5.3"
+}

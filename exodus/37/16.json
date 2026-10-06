@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקשות",
+      "rationale": "KJV e hlalosa e le 'covers' (dikgetheisi) ho tloha qhaqhoheng ya 'pour'; JPS\/ASV e bolela 'jugs\/flacons' — sesupo se tsoang sebopeho sa dintja."
+    },
+    {
+      "kind": "addition",
+      "subject": "tsa yona",
+      "rationale": "Seheberu se na le botsenyanane (construct) feela; Sesotho se hloka sereti se hlalosang."
+    }
+  ],
+  "translation": "Mme a etsa ⟨את⟩ didiriswa tse welang hodima tafole: ⟨את⟩ dijana tsa yona, le ⟨את⟩ dikgotso tsa yona, le ⟨את⟩ dikhomare tsa yona, le ⟨את⟩ dintja tsa yona, tse ho eang ho tlasetswa ka tsona, gauta e halalelang.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2949cb813874f1c14fd6f6b7430dd801c3796650c11ef0c19c55b0d2b41acd78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/37\/16-16.1791264805769.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didiriswa"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dijana tsa yona"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "dijana tsa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgotso tsa yona"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "dikgotso tsa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikhomare tsa yona"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "dikhomare tsa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dintja tsa yona"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "dintja tsa yona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ho tlasetswa"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ka tsona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e halalelang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:25.774909674Z",
+  "model": "glm-5.3"
+}

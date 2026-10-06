@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 28:14",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "hafu · tharo · ya bone ya hine",
+      "rationale": "Kgutlo ya dintho: hafu, tharo, ya bone ya hine bakeng sa nmune e ntjha e ntjha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "namane ya bo-ngomu",
+      "rationale": "פר ke namane ya bo-ngomu (paru); 'bullock' ya Senyesemane e bolela ya ntjha feela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sehlabelo se sekoahalang",
+      "rationale": "עלha e bolela 'ho phahama'; 'sehlabelo se sekoahalang' ke tlwaelo ya Sesotho, moya wa ho phahama o lahlehile."
+    }
+  ],
+  "translation": "Mme dinkho tsa tsona — hafu ya hine ya veine e tla ba bakeng sa namane ya bo-ngomu, mme tharo ya hine bakeng sa ramu, mme ya bone ya hine bakeng sa lekhutshwana; ena ke sehlabelo se sekoahalang sa kgwedi, ka kgwedeng ya yona, ho dikgwedi tsa selemo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b3d72f5f82089fa15001d2748c62d8fa40298bc1dabf688f2f76f153acd475b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/28\/14-14.1791264952264.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסכיהם",
+      "gloss": "Mme dinkho tsa tsona"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "hafu"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ya hine"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "bakeng sa namane ya bo-ngomu"
+    },
+    {
+      "surface": "ושלישת",
+      "gloss": "mme tharo"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ya hine"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "bakeng sa ramu"
+    },
+    {
+      "surface": "ורביעת",
+      "gloss": "mme ya bone"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ya hine"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "bakeng sa lekhutshwana"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ya veine"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ena"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sehlabelo se sekoahalang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sa kgwedi"
+    },
+    {
+      "surface": "בחדשו",
+      "gloss": "ka kgwedeng ya yona"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "ho dikgwedi"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tsa selemo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:52.268052894Z",
+  "model": "glm-5.3"
+}

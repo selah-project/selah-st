@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 12:33",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בדא",
+      "rationale": "Verbe le ruwang haholo — 'ho qapa ka boithaopo', boholo ba diphetholelo di bo pepesitswe e le 'a e qapotseng ka pelong ya hae'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מלבד",
+      "rationale": "Ketiv מלבד (ho ngotsoeng) phapanyong le qere מלבדו; diphetholelo di hlalosa e le 'ho tswa pelong ya hae'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka pelong ya hae",
+      "rationale": "Seheberu se ngola feela מלבד 'ho tloha leqelong'; 'pelo' e tswa qereng מלבדו."
+    },
+    {
+      "kind": "measurement",
+      "subject": "hlahelelo ya letsatsi",
+      "rationale": "Pale ea mokete: la bohlano le lesome, kgwedi ya bo robeli — palo e sa tsamaisaneng le Sukote ya Juda (kgwedi ya bo supileng)."
+    }
+  ],
+  "translation": "Mme a hodima altareng eo a eentseng Bethele, ka la bohlano le lesome letsatsing la kgwedi ya bo robeli, kgweding eo a e qapotseng ka pelong ya hae; mme a etsa mokete ho bana ba Yisraele, mme a hodima altareng ho nkela mofuthu.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "31ad513648da502029c8cf3713d6fdb70ceb1fddc3e7baa3cd3843d3fee5d14c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-kings\/12\/33-33.1791265237924.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "mme a hodima"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a eentseng"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bethele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bethel"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "ka la bohlano"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le lesome"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsing"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kgweding"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ya bo robeli"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kgweding"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בדא",
+      "gloss": "a e qapotseng"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ka pelong ya hae"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mme a etsa"
+    },
+    {
+      "surface": "חג",
+      "gloss": "mokete"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mme a hodima"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareng"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "ho nkela mofuthu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:40:37.928710639Z",
+  "model": "glm-5.3"
+}

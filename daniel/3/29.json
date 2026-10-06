@@ -1,0 +1,186 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "daniel 3:29",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הדמין",
+      "rationale": "Aramaic 'made into pieces\/limbs' — rendered 'segetwe dibitsong' (cut in pieces); dikgutlwana kapa ditoko tse hlakang e le mesebetsi e meng."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נולי",
+      "rationale": "Lentswe le rarahaneng, le nka e le 'sehapara' (dunghill) — mothofatso wa mocheng, e seng kotlo ya kamora lefu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elaha",
+      "rationale": "אלהה le bolokwa ka modumo wa lona — eseng 'Molimo' — hobane mobadi o tlameha ho bona Seheberu\/Aramaic se itse eng."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sechaba le setjhaba le puo",
+      "rationale": "Palo-palo ya maemo a batho kaofela — sechaba, setjhaba, puo — molaong wa morena."
+    },
+    {
+      "kind": "you",
+      "subject": "ho sechaba le setjhaba le puo tsohle",
+      "rationale": "Kaelo ya morena e arolelwa ho setjhaba sohle ka botlalo."
+    }
+  ],
+  "translation": "Mme ka bomong ba ka, ke bea ⟨את⟩ kaelo ya hore sechaba le setjhaba le puo e ngoe le e ngoe e tlang ya bolela seng se fosahetseng ka Elaha ya Shadrakh, Meyshakh le Abed-Nego, e tla be e segetwe dibitsong, mme ntlo ya yona e etsoe sehapara, hobane ha ho na Elaha e mong ya khonang ho lokolla jwalo ka moo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "95b2701b996269d8f30d9e6433aec3c2652250323fd1437d3bd4b339b418dc09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/daniel\/3\/29-29.1791265705325.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומני",
+      "gloss": "ka bomong ba ka"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ke bea"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "kaelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaelo"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya hore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e ngoe le e ngoe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ולשן",
+      "gloss": "le puo"
+    },
+    {
+      "surface": "די",
+      "gloss": "e tlang"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ya bolela"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "seng se fosahetseng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אלההון",
+      "gloss": "Elaha"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "le Abed-"
+    },
+    {
+      "surface": "נגוא",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "הדמין",
+      "gloss": "e tla be e segetwe dibitsong"
+    },
+    {
+      "surface": "יתעבד",
+      "gloss": "e tla etswa"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "mme ntlo ya yona"
+    },
+    {
+      "surface": "נולי",
+      "gloss": "sehapara"
+    },
+    {
+      "surface": "ישתוה",
+      "gloss": "e tla etswa e le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "די",
+      "gloss": "hore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ho na"
+    },
+    {
+      "surface": "איתי",
+      "gloss": "e teng"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elaha"
+    },
+    {
+      "surface": "אחרן",
+      "gloss": "e mong"
+    },
+    {
+      "surface": "די",
+      "gloss": "e"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "ya khonang"
+    },
+    {
+      "surface": "להצלה",
+      "gloss": "ho lokolla"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:25.330691325Z",
+  "model": "glm-5.3"
+}

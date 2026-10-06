@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 5:2",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elaha",
+      "rationale": "Aramaic אלהא ya selemo la bophetwa; e hlaloswa jwalo ka Elaha, eseng Molimo, ho boloka mokgwa wa Semitic wa polelo e itseng"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושריו",
+      "rationale": "Aramaic שרי 'ho qala'; barabolere ba bang ba bolela 'ho hlahisa' kapa 'ho lokolla' — kgwetlho e tlwaelehileng puong ya Aramaic"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mora wa",
+      "rationale": "Aramaic בר (bar) e na le tlhaku e le 'nngwe le Sebere 'ben'; e ntse e hlaloswa e le 'mora wa' ho boloka sebopeho sa yona sa Aramaic"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מסעדין",
+      "rationale": "Se סעד 'ho thusa\/ho tshehetsa' se bontshwa feela mona le Ezra 5:32 karolong ya Tanakh; boholo ba diphetholelo di bolela 'ba ba thusang'"
+    }
+  ],
+  "translation": "Ka nako eo Zerubabele mora wa Shealtiele le Yeshua mora wa Yotsadake a ba a tswa, a qala ho aha ntlo ya Elaha eo e leng Yerushalayime; mme le bona baporofeta ba Elaha ba ne ba le lehae, ba ba sireletsa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "6b7ea0c853da7e5dce9b29950772518c03da8fe319d45dfd235498cfe346e224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezra\/5\/2-2.1791265698971.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "ka nako eo"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "a ba a tswa"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabele"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Shealtiele"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "le Yeshua"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "יוצדק",
+      "gloss": "Yotsadake"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "a qala"
+    },
+    {
+      "surface": "למבנא",
+      "gloss": "ho aha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elaha"
+    },
+    {
+      "surface": "די",
+      "gloss": "eo e leng"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ועמהון",
+      "gloss": "mme le bona"
+    },
+    {
+      "surface": "נביאיא",
+      "gloss": "baporofeta"
+    },
+    {
+      "surface": "די",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elaha"
+    },
+    {
+      "surface": "מסעדין",
+      "gloss": "ba ba sireletsa"
+    },
+    {
+      "surface": "להון",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:18.976051263Z",
+  "model": "glm-5.3"
+}

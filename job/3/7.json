@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גלמוד",
+      "rationale": "'Sterile\/barren' (ASV, BSB) kgahlanong le 'solitary\/desolate' (KJV, JPS) — mohala wa pale o nyamela Sesothong"
+    },
+    {
+      "kind": "substitution",
+      "subject": "se nang bophelo",
+      "rationale": "גלמוד e bolela se sa tswalang, se se nang letho; Sesotho se hlahisa sebopeho ka mantswe a mmedi"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa thabo",
+      "rationale": "רננה ke mminoa wa thabo; 'thabo' e ekeditswe ho hlakisa mohuta wa mminoa"
+    }
+  ],
+  "translation": "Bonang, bosiu boo bo be bo se nang bophelo, a se ke a tla mminoa wa thabo ho lona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "50c52277f0ff224828df1e06b48ad1eb9d40120897a886d3b251381536356d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/3\/7-7.1791265624551.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "boo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bo be"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "bo se nang bophelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "mminoa wa thabo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:04.552687086Z",
+  "model": "glm-5.3"
+}

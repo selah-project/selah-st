@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "I halaletseng",
+      "rationale": "hitqaddeshu ke ho iphahamisa hore o halalele; Sesotho se sebelisa motso o mong wa -halalela ka moo e ka bang teng"
+    },
+    {
+      "kind": "alternative",
+      "subject": "diphemohelo tse makatsang",
+      "rationale": "niflaot e bolela tse kgakala le tletlebo ya letsatsi le letsatsi; 'ditshepo tse makatsang' ke khetho ya bobeli"
+    },
+    {
+      "kind": "you",
+      "subject": "ho setjhaba sa Yisraele",
+      "rationale": "Yehoshua a bua ka ho toba le setjhaba"
+    }
+  ],
+  "translation": "Mme Yehoshua a bolelela setjhaba, a re: I halaletseng, hobane hosasa Yahwe o tla etsa ditshepo tse makatsang hara lona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "adfed289e40266bd159cfef1969b1cb1718ac8d0a6fe5326a12a9d4ecf43d3ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/3\/5-5.1791265065341.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bolelela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "I halaletseng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "hosasa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o tla etsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "hara lona"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ditshepo tse makatsang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:45.345787017Z",
+  "model": "glm-5.3"
+}

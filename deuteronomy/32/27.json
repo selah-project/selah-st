@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 32:27",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אגור",
+      "rationale": "גור: 'ho thibela' (KJV 'ho thibela'), 'ho hlokomela' (ASV), kapa 'ho khotlofatsa' — bophara ba maano a farologaneng."
+    },
+    {
+      "kind": "crux",
+      "subject": "ינכרו",
+      "rationale": "נכר: 'ho tseba ba hlaselang' kapa 'ho hlahloba' — KJV e re 'ho feta molao oa sefapano'."
+    },
+    {
+      "kind": "you",
+      "subject": "ye enemyes",
+      "rationale": "Serodumo se sa bonahalang se bolela ka sera se ka bolelang ka hae."
+    }
+  ],
+  "translation": "Ha e sa ntheka khalefo ya sera, ke tla ba hlokomeletse moo ba ka fihlelang teng, hore ba se ke ba tseba le ba re: Seatla sa rona se phahame, ebile hase Yahwe o entseng tsohle tse ntseng jwalo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8d1b1549e239f3380cd48fafebfae17d476469fb90b7d3f5f3e2b986e774c252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/32\/25-28.1791265082958.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ha e sa ntheka"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "khalefo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ya sera"
+    },
+    {
+      "surface": "Аגור",
+      "gloss": "ke tla ba hlokomeletse moo ba ka fihlelang teng"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hore ba se ke"
+    },
+    {
+      "surface": "ינכרו",
+      "gloss": "ba tseba"
+    },
+    {
+      "surface": "צרימו",
+      "gloss": "ba hlaselang"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hore ba se ke"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "seatla sa rona"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "se phahame"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ebile hase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "o entseng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tse ntseng jwalo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:02.982319684Z",
+  "model": "glm-5.3"
+}

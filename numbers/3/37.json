@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 3:37",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "letoto la didiriswa",
+      "rationale": "Seripa sena se ntse se bala didiriswa tsa Mishkane — karolo ya lenane la Merari."
+    }
+  ],
+  "translation": "le dipilare tsa ⟨ha⟩ chata kamora ho potoloha, le metheo ya tsona, le diphego tsa tsona, le meqamelo ea tsona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0c1e8ffec5a9e7fd15659158bc2d8949ae6c36026a88db9f0ed9f38329512f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/3\/37-37.1791264874686.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדי",
+      "gloss": "le dipilare tsa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "chata"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kamora ho potoloha"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "le metheo ya tsona"
+    },
+    {
+      "surface": "ויתדתם",
+      "gloss": "le diphego tsa tsona"
+    },
+    {
+      "surface": "ומיתריהם",
+      "gloss": "le meqamelo ea tsona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:34.692953082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "menahano ea merabe",
+      "rationale": "Lenane la merabe ea Kanane e mehlano e halalelitsoeng ka lebitso — karolo ea maqhubu a 'nete a Kanane."
+    }
+  ],
+  "translation": "Hobane morumuwa wa ka o tla tsamaya pele ho wena, mme o tla o isa ho Baemori, le Baheti, le Baperizi, le Bakenaane, Bahiwi le Bayebusi; mme ke tla ba hlakola.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "7b58685c96f3d40db16a28667d432c331e5a65df302ff68a880983a0b2eed616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/23\/23-23.1791264760651.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "o tla tsamaya"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "morumuwa wa ka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ho wena"
+    },
+    {
+      "surface": "והביאך",
+      "gloss": "mme o tla o isa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "le Baheti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "le Baperizi"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "le Bakenaane"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Bahiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le Bayebusi"
+    },
+    {
+      "surface": "והכחדתיו",
+      "gloss": "mme ke tla ba hlakola"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:40.658666992Z",
+  "model": "glm-5.3"
+}

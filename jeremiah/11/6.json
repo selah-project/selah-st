@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 11:6",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ho Jeremia",
+      "rationale": "Yahwe o buisana le Jeremia ka botlalo, a mo laela ho bolella sechaba."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Mamelang",
+      "rationale": "Taelo ya ho mamela e bitsa sechaba sa Yuda le Yerushalayime ho seke ha hlakorela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mebileng",
+      "rationale": "חצות e bolela 'dikarolo tse ka ntle' tsa toropo, ha Sesotho se na le lentswe le le leng feela la mehla."
+    }
+  ],
+  "translation": "Mme Yahwe a re ho 'na: Bolella kholo ⟨את⟩ mantswe ohle a ditoropong tsa Yehuda le mebileng ya Yerushalayime, o re: Mamelang ⟨את⟩ mantswe a selekane sena, mme a eteng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d41583e26e65ca8d0caddabb6e84ad722fb56e47fef05d210e25c7f7d6ba70dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/11\/6-6.1791265317431.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Bolella kholo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ditoropong tsa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "le mebileng"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Mamelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe a selekane sena"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe a"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme a eteng"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ a"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:57.433936966Z",
+  "model": "glm-5.3"
+}

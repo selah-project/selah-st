@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "riathe",
+      "rationale": "d\/3407 e 'hanging e tetemang' — 'riathe' (kapa 'lerathe') e boloka sebopeho sa sela se tsiteletseng"
+    },
+    {
+      "kind": "addition",
+      "subject": "sefahleho",
+      "rationale": "פני (mahlonah) e hlalosoa e le 'sefahleho' — Sesotho se hloka lentswe la karolo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "hlano le tsheletseng",
+      "rationale": "Palo ya diriata di hlakile: hlano ka bomong, tsheletseng ka bomong"
+    },
+    {
+      "kind": "invitation",
+      "subject": "moetapele wa Mishkane",
+      "rationale": "Taelo ya 'o tla kopanya' — mafelelo a aromeletsweng ho Moshe"
+    }
+  ],
+  "translation": "Mme o tla kopanya ⟨את⟩ diriata tse hlano ka bomong, le ⟨את⟩ diriata tse tsheletseng ka bomong, mme o tla phutha kabane ⟨את⟩ riathe ya botsheletseng pele ho sefahleho sa tenthe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "6441b9560261a807fbddacdaa604cde3ac13ead6dcaaab5db6859bf8dd0fe117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/26\/9-9.1791264769936.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "mme o tla kopanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diriata tse hlano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "diriata"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ka bomong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diriata tse tsheletseng"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tse tsheletseng"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "diriata"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ka bomong"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "mme o tla phutha kabane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riathe ya botsheletseng"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "riathe"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "ya botsheletseng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sebakeng se pele"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sa tenthe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:49.951704173Z",
+  "model": "glm-5.3"
+}

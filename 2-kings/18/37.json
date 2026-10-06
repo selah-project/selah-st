@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 18:37",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba apere",
+      "rationale": "Seheberu se bolela feela 'ba ile ba fihla... ka diaparo tse segilweng'; ho apara ho ekeditswe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mopotolotsi",
+      "rationale": "המזכיר ke 'mohopolosi\/motlaleletsi wa dikhopo'; 'mopotolotsi' ke karolo ya tiro feela."
+    },
+    {
+      "kind": "crux",
+      "subject": "רב שקה",
+      "rationale": "Ravshake: lebitso la sekala sa Asiria (rab-šāqê) — le ngolwa jaaka lebitso, eseng ho fetowa (KJV 'chief cupbearer' ya YLT)."
+    }
+  ],
+  "translation": "Mme Eljakime mora wa Khilkiyaha, ya neng a le hodima ntlo, le Shebna mongodi, le Joaḣe mora wa Asafe, mopotolotsi, a fihla ho Khizkiyahu ba apere diaparo tse segilweng, mme ba mo bolelela mantsoe a Ravshake.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "63dc32c057d6c0f91b018284bc58cb48912c052f0ac354be088b6e5dc3215102",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-kings\/18\/37-37.1791265249816.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakime"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Khilkiyaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "le Shebna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mongodi"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "le Joaḣe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafe"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "mopotolotsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "קרועי",
+      "gloss": "tse segilweng"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "ba bolelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantsoe a"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shake"
+    }
+  ],
+  "timestamp": "2026-10-06T05:40:49.821077761Z",
+  "model": "glm-5.3"
+}

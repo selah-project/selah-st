@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 20:2",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מארם",
+      "rationale": "Balaodi a fapana: 'Arame' (Syria), kapa ba bang ba bal'a 'Edome' (BSB) — mafoko a Seheberu a ka senyehang."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המון",
+      "rationale": "Lentswe le bolela modumo, tshebedisano, bongata — 'mokgutla' o tsea karolo ea bongata feela."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Yehoshafata",
+      "rationale": "Tlaleho e mo amogetse ka kotloloho: 'ho wena'."
+    }
+  ],
+  "translation": "Mme ba tla, ba bolella ⟨את⟩ Yehoshafata, ba re: Mokgutla o moholo o tlile ho wena, ho tloha mollong oa lewatle, ho tloha ho Arame; mme bonang, ba Khatseseone-Tamare — eona ke Eni-Geti.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "511f30a8dd499535ce93db5e1115c084724202f7c22892cd863bb1de6fadda2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/20\/2-2.1791265804100.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ba bolella"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "Yehoshafata"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tlile"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "המון",
+      "gloss": "mokgutla"
+    },
+    {
+      "surface": "רב",
+      "gloss": "o moholo"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ho tloha mollong"
+    },
+    {
+      "surface": "לים",
+      "gloss": "oa lewatle"
+    },
+    {
+      "surface": "מארם",
+      "gloss": "ho tloha ho Arame"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "בחצצון",
+      "gloss": "Khatseseone"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamare"
+    },
+    {
+      "surface": "היא",
+      "gloss": "eona"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eni"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Geti"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:04.101862806Z",
+  "model": "glm-5.3"
+}

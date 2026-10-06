@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עמדות",
+      "rationale": "ʿomdot ke popego e thehilweng ya 'ho ema' e emisitswe hore e hlalose maoto, e seng sebapadi se itseng."
+    },
+    {
+      "kind": "elision",
+      "subject": "היו",
+      "rationale": "hebrew haya e nyametse ka ho se felletseng mme e hatelletsoe ho feta kopu e bonolo."
+    },
+    {
+      "kind": "crux",
+      "subject": "עמדות היו",
+      "rationale": "lianane tse ngata li bala 'a ntse a eme'; ylt e bala 'a ile a ba a eme' — pilel e sa feleng kgahlano le e phethahetseng."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירושלים",
+      "rationale": "lebitso la toropo le bitsoa ka boeona e le bitso, e tsejwa ka Sesotho e le Yerushalayime, e seng Jerusalema."
+    }
+  ],
+  "translation": "Maoto a rona a eme ⟨a rona⟩ ka lehlakoreng, a khona ho ema kapa ho tsamaya, ka ⟨את⟩ mendueng ya hao, Yerushalayime.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "526109b723891fb5d1378d2302f7f55212bbc03cd62884812c81e2b0c4bb3871",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/122\/2-2.1791265571821.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "a eme"
+    },
+    {
+      "surface": "היו",
+      "gloss": "a ile a ba"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "maoto a rona"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ka mendueng ya hao"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:11.822358539Z",
+  "model": "glm-5.3"
+}

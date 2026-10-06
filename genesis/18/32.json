@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 18:32",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל נא יחר",
+      "rationale": "'A se ke a tukela' — litshwao ya Sesotho bakeng sa modumo wa kopelo wa Seheberu, e bolelang 'a se ke a futhumala\/mutsa ka tlhaho'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba",
+      "rationale": "Seheberu se se na sehlomathiso sa bongata; Sesotho se hloka 'ba' ho ba leshome"
+    },
+    {
+      "kind": "measurement",
+      "subject": "leshome",
+      "rationale": "Palo e theohileng ho mashome a le mane ho ya ho leshome — palo e itseng ya tshebediso"
+    }
+  ],
+  "translation": "Mme a re: Adonai a se ke a tukela, ke tla bua feela nakong ena: mohlomong ba leshome ba ka fumanwa teng. Mme O ile a re: Nke ke ke ya e senya ka baka la ⟨ba⟩ leshome.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d950601dc7aee2df3fb2afabc099474e2bd77ca616a3ea3521217d797c21d34f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/18\/31-32.1791264721494.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke a"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "tukela"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ke tla bua"
+    },
+    {
+      "surface": "אך",
+      "gloss": "feelа"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "nakong ena"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "mohlomong"
+    },
+    {
+      "surface": "ימצאון",
+      "gloss": "ba ka fumanwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ba leshome"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme O ile a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nke ke ke ya"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "e senya"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "העשרה",
+      "gloss": "⟨ba⟩ leshome"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:01.520955223Z",
+  "model": "glm-5.3"
+}

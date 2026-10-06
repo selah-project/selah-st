@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 6:8",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bohaleng",
+      "rationale": "נפש e atamela 'throat\/moya wa bophelo' — 'bohaleng ba hae' ke mokhoa oa Sesotho oa qapelo ka boitšoaro"
+    },
+    {
+      "kind": "crux",
+      "subject": "גאון",
+      "rationale": "'boholo' khahlanong le 'phahamiso' kapa 'setšo' — mehlala e fapaneng ea liphetolelo"
+    },
+    {
+      "kind": "elision",
+      "subject": "אנכי",
+      "gloss": "nna e hlakotsoe ka hara qeto ea 'ke hloile'"
+    }
+  ],
+  "translation": "Adonai Yahwe o qapetse ka bohaleng ba hae, ho bolela Yahwe, Elohim wa Tsebaote: Ke hloile ⟨את⟩ boholo ba Yaakobo, mme diqhomong tsa hae ke di hloile; mme ke tla neha setseke le tsohle tse ho sona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f18f3bc8acb3e7973a0ebaeb9802b52bcf17baa9b7eedb07e56b47b4b8ca25c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/amos\/6\/8-8.1791265454252.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "o qapetse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ka bohaleng ba hae"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "מתאב",
+      "gloss": "ke hloile"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boholo ba Yaakobo"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boholo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "וארמנתיו",
+      "gloss": "mme diqhomong tsa hae"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke di hloile"
+    },
+    {
+      "surface": "והסגרתי",
+      "gloss": "mme ke tla neha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "setseke"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "le tsohle tse ho sona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:14.254312468Z",
+  "model": "glm-5.3"
+}

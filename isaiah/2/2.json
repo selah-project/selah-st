@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 2:2",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונהרו",
+      "rationale": "'Ho malla' (flow\/stream) kgahlanong le 'ho pharalla' — ponahalo ya metsi a phallang, e tloaelehileng hodima ditjhaba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נכון יהיה",
+      "rationale": "Seheberu se re 'e tla ba e emISEjoa' — Sesotho se hlophisa pontsho ka tsela e fapaneng."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הר\/ההרים\/מגבעות",
+      "rationale": "Tlhatlogo ya thaba—dithaba—mekotlana: kgethollo ya maemo, e bolokilweng ka tatellano e tshwanang."
+    }
+  ],
+  "translation": "Mme e tla etsahala mafelong a matsatsi, hore thaba ya ntlo ya Yahwe e tla emisoa hloho ya dithabeng, mme e tla phahamiswa hodima mekotlana; mme ditjhaba tsohle di tla malla ho yona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d92df1cf47e5bb44730fe1c138de52178c31f85450d2ef6287a1b361b3bd5d15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/2\/2-2.1791265281824.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mme e tla etsahala"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "mafelong a"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e tla emisoa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "hloho ya"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dithabeng"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mme e tla phahamiswa"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "hodima mekotlana"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "mme di tla malla"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:21.826292225Z",
+  "model": "glm-5.3"
+}

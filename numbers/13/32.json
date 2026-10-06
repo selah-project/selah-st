@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 13:32",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dibeletso",
+      "rationale": "דבת ke 'dibeletso kapa polelo e mpe' — phetolelo e tloaelehileng ke 'pheha ditaba tse mpe'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אנשי מדות",
+      "rationale": "'banna ba mekoloko' — ba bang ba re 'banna ba bolele'; מדות e bolela tekanyo\/mekoloko ya mmele"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ארץ אכלת יושביה",
+      "rationale": "'lefatshe le jang ba dulang ho lona' — sesupo sa ntho e bolaiyang baahi, eseng ho ja ka tlwaelo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תרו \/ לתור",
+      "rationale": "phetolelo ya 'tela' e khutla ka kotloloho — ho bolela hore baetaledi ba ile ba le tela habeli"
+    }
+  ],
+  "translation": "Mme ba ntshitse dibeletso tsa lefatshe leo ba le tileng, ho bana ba Yisraele, ba re: Lefatshe leo re ileng ra feta ka lona ho le tela, ke lefatshe le jang ba dulang ho lona; mme batho bohle bao re ba boneng ka hare ho lona ke banna ba bolele ba mekoloko.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4f5abefdd966478214f466b869e9d2831f9394891adb44c74764f6273e290bc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/13\/32-32.1791264939027.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוציאו",
+      "gloss": "ba ntshitse"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "dibeletso tsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "תרו",
+      "gloss": "ba tileng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "ra feta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "ho tela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "le jang"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "ba dulang ho lona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme bohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "re ba boneng"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ka hare ho lona"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "מדות",
+      "gloss": "bolele ba mekoloko"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:39.032870445Z",
+  "model": "glm-5.3"
+}

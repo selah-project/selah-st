@@ -1,0 +1,162 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 6:13",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sefala",
+      "rationale": "Ditekanyo tse hlankahleng: di ama tse hlano ka bolelele, tse hlano ka bophara, tse tharo ka bohodimo."
+    },
+    {
+      "kind": "crux",
+      "subject": "כיור",
+      "rationale": "Lentswe le bolela sela se se nang sekwere kapa sefala sa meketla; diphetholelo di fapana: 'sefala', 'sethala', 'tabernakele-ya-tlolipa'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויברך",
+      "gloss": "a thokoloha",
+      "rationale": "Motso o bolela 'ho thlokolla\/horosa'; moelelo wa pele wa sithalaho o nweshitsoe ke temaneng ena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כפיו",
+      "gloss": "majoe",
+      "rationale": "כף ke sefuba sa letsogo kapa letshwao; 'majoe' ke karolo ea sona feela."
+    }
+  ],
+  "translation": "Hobane Solomone o ile a etsa sefala sa tolipa mme a se bea bogareng ba lekapeng — bolelele ba lona di ama tse hlano, bophara di ama tse hlano, mme bohodimo di ama tse tharo; a eme holim'a sona, a thokoloha ka mangole a hae pele ho kereke yohle ya Yisraele, mme a phatlalatsa majoe a hae a le mahodimong.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "33b4aaf36ab1d0eee6ab8cc77b11cece529460320181eab17221fa02173abdcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/6\/13-13.1791265721050.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "sefala"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sa tolipa"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "mme a se bea"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "bogareng ba"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "lekapeng"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "di ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bolelele ba lona"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "mme tse hlano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "di ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara ba lona"
+    },
+    {
+      "surface": "ואמות",
+      "gloss": "mme di ama"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tse tharo"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "bohodimo ba lona"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "a eme"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "holim'a sona"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a thokoloha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "mangole a hae"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle ya"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kereke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "mme a phatlalatsa"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "majoe a hae"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "a le mahodimong"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:41.055330981Z",
+  "model": "glm-5.3"
+}

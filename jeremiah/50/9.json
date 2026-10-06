@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 50:9",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משכיל",
+      "rationale": "'e se nang bohlale' (skilful) kgahlanong le JPS 'that maketh childless' (ho fellisa bana) — mabapi le škl kapa škl."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חציו",
+      "rationale": "חץ ke 'se robang' — methopo e ntse e phetha sehooho sa lentsoe."
+    },
+    {
+      "kind": "elision",
+      "subject": "בבל",
+      "rationale": "Lebitso Bhabhylone ha le fetolelwe."
+    }
+  ],
+  "translation": "Hobane bonang, ke tla hlokomela le ho hlahisa khahlanong le Bhabhylone kgobokano ya ditjhaba tse khoholo, ho tloha lehatong la leboa; mme di tla ipholosa khahlanong le eona; ho tloha moo e tla tsejoa; methopo ya tsona e tla ba jwaloka sebahi se se nang bohlale, e keke ea khutla e se na sepe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0bb1af7836d1a2b6b58e2a898dc703a1242d26ddcebe91db10d480eb3e6fe3ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/50\/9-9.1791265345453.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ke tla hlokomela"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "le ho hlahisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "khahlanong le"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bhabhylone"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kgobokano"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "tse khoholo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lehatong"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "la leboa"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "mme di tla ipholosa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "khahlanong le eona"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ho tloha moo"
+    },
+    {
+      "surface": "תלכד",
+      "gloss": "e tla tsejoa"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "methopo ya tsona"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "jwaloka sebahi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "se se nang bohlale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e keke"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ea khutla"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "e se na sepe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:25.454232996Z",
+  "model": "glm-5.3"
+}

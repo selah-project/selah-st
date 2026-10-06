@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואנוהו",
+      "rationale": "Crux: 'ke tla mo tlotlisa' (LXX\/ASV) kgahlanong le 'ke tla mo ahabela bonwapele' (KJV, ka motheo wa navah)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tokoloho",
+      "rationale": "ישועה ke 'tokoloho\/kaloso' — se bapilweng le 'salvation' se fokotse makhabiso."
+    },
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Seheberu se se na sebopeho sa 'ke'; Sesotho se e hlokahala."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "anvahu\/ve'anvehu",
+      "rationale": "Tlhahiso e ka hare: v'ananveihu v'aromemenhu — mantswe a a tsamayang mmoho a timetswe ka Sesotho."
+    }
+  ],
+  "translation": "Matla a ka le koetliso ya ka ke Yah, mme o ile a became ⟨o fetoha⟩ tokoloho ya ka; yena ke El ya ka, mme ke tla mo tlotlisa, Elohim ya ntata-ka, mme ke tla mo phahamisa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "baf2b7abc3bfd8aaa7d989afa53c77bf2022f3b0599554c273a822bebe6c0e0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/15\/2-3.1791264781854.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "le koetliso ya ka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme o ile a became"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ka"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "tokoloho"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ya ka"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "mme ke tla mo tlotlisa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntata-ka"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "mme ke tla mo phahamisa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:01.859654251Z",
+  "model": "glm-5.3"
+}

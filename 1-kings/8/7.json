@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 8:7",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a mabeli",
+      "rationale": "כנפים dual — palo ya bobedi e bolokwa ka boomo"
+    },
+    {
+      "kind": "addition",
+      "subject": "a ne",
+      "rationale": "participle ya Seheberu e hlokaka thuso ya nako ho Sesotho"
+    }
+  ],
+  "translation": "Hobane machtsherube a ne a phatlalalitse mapheho a mabeli ho sebakeng sa arka; mme machtsherube a koahetse arka le mebara ya yona hodima.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ce93a2b6a66db9c61bf06e5da8f0b221b5474d800c625f9ea6d91d7bf463d0ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-kings\/8\/6-7.1791265877873.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "machtsherube"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "a phatlalalitse"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "mapheho a mabeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sa arka"
+    },
+    {
+      "surface": "ויסכו",
+      "gloss": "a koahetse"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "machtsherube"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le holim'a"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mebara ya yona"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "hodima"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:17.891258297Z",
+  "model": "glm-5.3"
+}

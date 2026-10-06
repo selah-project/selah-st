@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 13:6",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ho Moshe",
+      "rationale": "Elohim o bua a laela Moshe ka ga karohano ya lefatshe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "e oele",
+      "rationale": "הפלה (hiphil ya נפל) ke 'e oese karo' — ho laela hore karohano ea le karo; Sesotho 'e oele ho ... e le selekane'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba turusa",
+      "rationale": "אורישם ke 'ke tla ba tlosa baeng' — ho tlosa baahi ba pele; 'ho turusa' ke sebopeho se atileng"
+    }
+  ],
+  "translation": "baahi ba thaba kaofela, ho tloha Lebanone ho fihlela Mishrefote-Mayime, batagwa ba Tsidone kaofela: nna ke tla ba turusa pele ga bana ba Yisraele; ha e le hore, e oele ho Yisraele e le selekane, jwaloka ha ke ileng ka laela wena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0a7fd93d9c9b686390727d49ede921a4b4322da3319b039e6e541d01763858af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/13\/5-6.1791265124575.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baahi ba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "משרפת",
+      "gloss": "Mishrefote-"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Mayime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "צידנים",
+      "gloss": "batagwa ba Tsidone"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אורישם",
+      "gloss": "ke tla ba turusa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ha e le hore"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "e oele"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho Yisraele"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "e le selekane"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "ha ke ileng ka laela wena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:44.586170647Z",
+  "model": "glm-5.3"
+}

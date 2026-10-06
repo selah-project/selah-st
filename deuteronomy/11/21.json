@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 11:21",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lefatshe bakeng sa האדמה",
+      "rationale": "Seheberu se hlakisa mohloli o mubisi (adama); Sesotho se na le lentswe le le leng feela la mobu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kajeno bakeng sa נשבע",
+      "rationale": "Seheberu: ho iketlalla ka supilwe (sheva); Sesotho: ho noha kotswalliso"
+    },
+    {
+      "kind": "crux",
+      "subject": "כימי השמים על הארץ",
+      "rationale": "KJV: 'matsatsi a mahodimo hodima lefatshe'; mehlala e meng: 'kamelohore hodima lefatshe' (e kang Geneva\/BSB)"
+    }
+  ],
+  "translation": "Hore matsatsi a lona a mpefale, le matsatsi a bana ba lona, hodima lefatshe leo Yahwe a hlalositseng kotswalliso ho bo-ntate ba lona hore o tla le fa ⟨את⟩ lona, jwalo ka matsatsi a mahodimo hodima lefatshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "224f5146913ea60b03cee473773dd0a8367c938367488d10f540aa2733f84b59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/11\/21-21.1791265049283.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "a mpefale"
+    },
+    {
+      "surface": "ימיכם",
+      "gloss": "matsatsi a lona"
+    },
+    {
+      "surface": "וימי",
+      "gloss": "le matsatsi a"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana ba lona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a hlalositseng kotswalliso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "ho bo-ntate ba lona"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hore o tla le fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lefatshe leo Yahwe a hlalositseng kotswalliso ho bo-ntate ba lona"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "jwalo ka matsatsi a"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:29.292154174Z",
+  "model": "glm-5.3"
+}

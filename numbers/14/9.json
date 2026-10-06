@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 14:9",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na le copula pele ho הם; Sesotho se e hlokahala"
+    },
+    {
+      "kind": "crux",
+      "subject": "moriti (צל)",
+      "rationale": "צל ke 'moriti' ka boomo; diphetholelo tse ding di re 'tshireletso' kapa 'tshehare' — mmele wa lentsoe o bolokwa"
+    },
+    {
+      "kind": "you",
+      "subject": "ho Yisraele",
+      "rationale": "Kalebe o bua le setjhaba sa Yisraele ka ditaelo tsa ho se tshabe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "את ... אתנו",
+      "rationale": "סור צלם \/ Yahwe אתנו: ⟨את⟩ ya pele e baka setjhaba, ya bobedi e baka Yahwe o le bokgabane le rona"
+    }
+  ],
+  "translation": "Fela le se ke la qalla khahlanong le Yahwe, mme le lona le se tshabe ⟨את⟩ setjhaba sa lefatshe, hobane ⟨ke⟩ boroeso ba rona; moriti wa tsona o tloha hodima tsona, mme Yahwe ⟨את⟩ rona; le se ke la ba tshaba.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "99ae9474752b69290907e6198f90a76459780ff32b6b4924fc8aa7538dc4728a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/14\/9-9.1791264943803.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "khahlanong le Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke la"
+    },
+    {
+      "surface": "תמרדו",
+      "gloss": "qalla"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mme le lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke la"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tshabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba sa lefatshe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "boroeso ba rona"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ke⟩ bona"
+    },
+    {
+      "surface": "סר",
+      "gloss": "o tloha"
+    },
+    {
+      "surface": "צלם",
+      "gloss": "moriti wa tsona"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "hodima tsona"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ rona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke la"
+    },
+    {
+      "surface": "תיראם",
+      "gloss": "ba tshaba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:43.807852500Z",
+  "model": "glm-5.3"
+}

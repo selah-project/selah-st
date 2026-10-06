@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 8:33",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ימלא את ידכם",
+      "rationale": "'O tla a tlatsa letsoho la lona' — idiom ea Seheberu bakeng sa ho kenela\/ho tlotsa; KJV le JPS di e fetolela 'he shall consecrate you', ho senya setshwantsho sa letsoho."
+    },
+    {
+      "kind": "measurement",
+      "subject": "שבעת ימים",
+      "rationale": "Palo ea matsatsi a supileng e phetoletsoe habeli motswanong."
+    },
+    {
+      "kind": "you",
+      "subject": "bahlabani ba Bahlahare",
+      "rationale": "Taelo e tobileng ho Aharone le barapeli ba hae (bahlabani ba Bahlahare) eo e reng le se tloang ka sebakeng se itseng, le se tloang."
+    }
+  ],
+  "translation": "Mme ho tloha moleng waohle oa boipolelo le se tloang ka sebakeng se itseng, le se tloang, ka matsatsi a supileng, ho fihlela letsatsi la ho phetha matsatsi a milu ea lona; hobane matsatsi a supileng o tla a tlatsa ⟨את⟩ letsoho la lona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "73f753c652ce905a2ee85762e9c141819b1ca8e953dd63983eb2dc1907582c79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/8\/33-33.1791264864431.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומפתח",
+      "gloss": "Mme ho tloha moleng wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohle oa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "boipolelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se tloang"
+    },
+    {
+      "surface": "תצאu",
+      "gloss": "ka sebakeng se itseng, le se tloang"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ka matsatsi a supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi la"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ho phetha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "מלאיכם",
+      "gloss": "milu ea lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "matsatsi a supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "o tla a tlatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la lona"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "letsoho la lona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:24.436779268Z",
+  "model": "glm-5.3"
+}

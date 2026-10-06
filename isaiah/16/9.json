@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 16:9",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הידד",
+      "rationale": "Mohlolo wa hlaba (war-shout) kgahlanong le mohlolo wa nyaleho ya ketelo; ASV\/JPS 'battle shout', BSB 'triumphant shouts'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ארייך",
+      "rationale": "'Ke tla nosetsa' — Seheberu se re 'ke tla metsa khomaretsong ya hau' (רוה ho nosetsa), meralo ya maholo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבכה בבכי",
+      "rationale": "Poeletso ya motso ona ona: ho lla ka ho lla — e bolokilwe ka Sesotho."
+    }
+  ],
+  "translation": "Ka hona ke tla lla ka ho lla ha Yaazere, mme ka sefate sa dinamune sa Sibmaha; ke tla nosetsa ka maholo a ka, O Kheshbone le Eleale: hobane hodima sehare sa hau sa selemo le hodima kotulo ya hau, mohlolo wa ho hlaba o ile wa wa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fc28585a843e7f69588842704fd9d7eacc658312b3a32a7dd0f31c4c582220e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/16\/9-9.1791265283066.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hona"
+    },
+    {
+      "surface": "אבכה",
+      "gloss": "ke tla lla"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ka ho lla ha"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazere"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "sefate sa dinamune"
+    },
+    {
+      "surface": "שבמה",
+      "gloss": "Sibmaha"
+    },
+    {
+      "surface": "אריוך",
+      "gloss": "ke tla nosetsa"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "ka maholo a ka"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Kheshbone"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "le Eleale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "קיצך",
+      "gloss": "sehare sa hau sa selemo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le hodima"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "kotulo ya hau"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "mohlolo wa ho hlaba"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "o ile wa wa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:23.066979103Z",
+  "model": "glm-5.3"
+}

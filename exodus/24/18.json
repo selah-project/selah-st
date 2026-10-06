@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "matsatsi a mashome a mane le malapa a mane",
+      "rationale": "Counting of forty days and forty nights."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויהי",
+      "rationale": "'a dula' — Hebrew 'he was\/became', rendered as remaining."
+    }
+  ],
+  "translation": "Mme Moshe a kena sebakeng se hare sa maru, a ea hodima thabeng; mme Moshe a dula ⟪thabeng⟫ matsatsi a mashome a mane le malapa a mane.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1a8d08e05752c4adec1953d80a772a10852a5739bb1184d2c9cc1f8f1ddd7903",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/24\/17-18.1791264777807.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mme a kena"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sebakeng se hare sa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "maru"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a ea hodima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme a dula"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "a mashome a mane"
+    },
+    {
+      "surface": "יום",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "le a mashome a mane"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malapa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:57.844626897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 3:13",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ale masome-pedi",
+      "rationale": "Palohara ea maphiko e hlalosoa hape."
+    },
+    {
+      "kind": "crux",
+      "subject": "ופניהם לבית",
+      "rationale": "KJV\/JPS re 'mahlong a na le ka hare' — Seheberu se re 'mahlong a lebeletse ntlo', e leng sebopeho sa 'ho lebeletsa' (ela hloko)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨se lebane le⟩",
+      "rationale": "Seheberu se bolela feela 'mahlong a tsona—ntlong' kapa 'ho ntlo'; kopu e eketsoe."
+    }
+  ],
+  "translation": "Maphiko a kerubime tsena a phalla ale masome-pedi; mme tsona di eme maotong a tsona, mme sefahleho sa tsona ⟨se lebane le⟩ ntlo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9c466077d51c693ae2820688a8ea86e6f7e51da60f54184d70734bd10ed35abe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/3\/10-13.1791265759492.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנפי",
+      "gloss": "maphiko"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "a kerubime"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "a phalla"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ale"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masome-pedi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mme tsona"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "di eme"
+    },
+    {
+      "surface": "על",
+      "gloss": "maotong"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "a tsona"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "mme sefahleho sa tsona"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨se lebane le⟩ ntlo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:19.498616363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 22:17",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברך אברכך \/ הרבה ארבה",
+      "rationale": "Poeletso ya infinitive-absolute e feletseng: ho hlohonolofatsa ke tla o hlohonolofatsa, ho atisa ke tla atisa — tlhodiso ya Sesotho e e tlosa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שפת הים",
+      "rationale": "Seheberu se re 'sefofane' (mothalo) sa lewatle; Sesotho se se fetotse hore 'lethathamo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וירש",
+      "rationale": "'Ho nna' bakeng sa ho gapa ka ho hlohlella ba dulang; Sesotho se na le se-bopeho sa 'ho gapa' ka ho toba."
+    }
+  ],
+  "translation": "Hobane ke tla o hlohonolofatsa ka sebele, mme ke tla atisa ka sebele ⟨את⟩ poelo ya hao, jwalo ka dinaledi tsa mahodimo le jwalo ka mohlabana o hlolohetseng pele ho lethathamo la lewatle; mme poelo ya hao e tla nna ⟨את⟩ matau ya dira tsa yona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "256be4f2c47348661275477d4cae0c302188bda7d24d2a53287351d0190ab475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/22\/17-17.1791264704821.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ho hlohonolofatsa"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ke tla o hlohonolofatsa ka sebele"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "mme ke tla atisa"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ka sebele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poelo ya hao"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "poelo ya hao"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "jwalo ka dinaledi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa mahodimo"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "le jwalo ka mohlabana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "על",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lethathamo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la lewatle"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "mme e tla nna"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "poelo ya hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matau ya dira tsa yona"
+    },
+    {
+      "surface": "שער",
+      "gloss": "matau"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ya dira tsa yona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:44.834511011Z",
+  "model": "glm-5.3"
+}

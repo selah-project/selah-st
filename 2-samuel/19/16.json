@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mme",
+      "rationale": "Sesotho e hloka kopuoa pele ho ditirwa tse latelanang; Seheberu se e se na"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Yaratane",
+      "rationale": "molao o hlalosa ho feta noka — mojaro wa sebaka se le seng"
+    }
+  ],
+  "translation": "Mme morena a kgutlela, a fihla ho Yaratane; mme Yuda a tla ho Gilegale, ho ya ho fihlela morena, ho baka morena <את> ho feta <את> Yaratane.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c24ee5395e9b442d745cc7c6d4561b0e6acde13694833383abd92b4ed9f7d732",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-samuel\/19\/16-16.1791265142113.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a kgutlela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yaratane"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ho Gilegale"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ho baka ho feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaratane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yaratane"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:02.120751469Z",
+  "model": "glm-5.3"
+}

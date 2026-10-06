@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 15:10",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ריח ניחח",
+      "rationale": "'Bo-phodumo bo ntle' — bolelo ke bo-phodumo bo phumolang; Sesotho se hlopha ka tsela e nngwe"
+    },
+    {
+      "kind": "measurement",
+      "subject": "halofo ya hine",
+      "rationale": "Mekhahlelo ya beine e hlaloswa ka hine"
+    }
+  ],
+  "translation": "Mme beine o tla e hlahisa e le neseke, halofo ya hine, e le mofuta-oahlaung wa bo-phodumo bo ntle ho Yahwe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "6cc536ac4fdff24196fd86a631f3253c273d4d54a5527620e9f99c20d25b7b24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/15\/9-12.1791264976757.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "Mme beine"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "o tla e hlahisa"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "e le neseke"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "halofo ya"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hine"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mofuta-oahlaung"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bo-phodumo bo ntle"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "bo ntle"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:36:16.765363162Z",
+  "model": "glm-5.3"
+}

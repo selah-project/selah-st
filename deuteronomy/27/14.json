@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ba tla araba",
+      "rationale": "ענו 'araba'; KJV\/JPS e bitša 'ba bolela' — 'ho araba' e boloka sebopeho sa potoloho ya litlameho tse latellanang"
+    },
+    {
+      "kind": "elision",
+      "subject": "קול רם",
+      "rationale": "Seheberu se re 'mohala wa hodimo' (keloho) — Sesotho se hloka mokgwa o ntseng o hlaka, kahoo 'o moholo'"
+    }
+  ],
+  "translation": "Mme balivi ba tla araba, mme ba bolelela banna bohle ba Yisraele ka mohala o moholo,",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "63264168702f6cc475429c85f1281206283e13ecbecf7148f080f37128f2d334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/27\/14-14.1791265058423.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ba tla araba"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balivi"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ba bolelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mohala"
+    },
+    {
+      "surface": "רם",
+      "gloss": "o moholo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:38.427105179Z",
+  "model": "glm-5.3"
+}

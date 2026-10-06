@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dilemo",
+      "rationale": "Verse numbers the famine years: two past, five remaining."
+    },
+    {
+      "kind": "addition",
+      "subject": "mehla ena mabelo a lehodimo",
+      "rationale": "Hebrew says 'this two years'; Sesotho adds locative frame 'a lehodimo'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ho sa bego",
+      "rationale": "אין חריש literally 'there is no ploughing'; rendered with negative construction."
+    }
+  ],
+  "translation": "Hobane mehla ena mabeli a lehodimo le tlala e le ka hare ho lefatshe, mme ho a saleho dilemo tse hlano, moo ho sa bego ⟨ho⟩ hojwa le ho khotla.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "81660f08ae8acb7d37d7d3549af9c01c15222228b73ce0a1ee35e81f0b47dd1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/45\/6-6.1791264772851.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "mehla mabeli"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "mme ho a saleho"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dilemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ho sa bego"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "hojwa"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "le ho khotla"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:52.858085772Z",
+  "model": "glm-5.3"
+}

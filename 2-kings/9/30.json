@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בפוך",
+      "rationale": "meriana oa mahlo — Sesotho hase lentswe le le leng, tlhaku ya Seheberu e hlalosa peo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותיטב את ראשה",
+      "rationale": "'a hlakanya hlooho ea hae' kapa 'a kgahla hlooho ea hae' — ba-fetoleli ba sa utlwane"
+    },
+    {
+      "kind": "you",
+      "subject": "Izebele",
+      "rationale": "kaofela ha ena e ikemisetsa ho ya ho Yehue ka ho fensetere"
+    }
+  ],
+  "translation": "Mme Yehue a fihla Yizreele, mme Izebele a utlwa, mme a behe meriana oa mahlo a hae, mme a hloekisе ⟨את⟩ hlooho ea hae, mme a sekaseka ka ho tsela ea fensetere.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c46ead29322430f576f2e04594112c3a7fac54da62e506c21c766fc765919652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-kings\/9\/30-33.1791265264630.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehue"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreele"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "mme Izebele"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "mme a behe"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "meriana oa mahlo"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "mahlo a hae"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "mme a hloekise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlooho ea hae"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "hlooho ea hae"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "mme a sekaseka"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ka ho tsela ea"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fensetere"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:04.632885733Z",
+  "model": "glm-5.3"
+}

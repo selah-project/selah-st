@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 20:19",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי האדם עץ השדה",
+      "rationale": "Dikgohlano: 'motho ke sefate sa tshimo' (polelo, YLT) kgahlanong le potso 'na sefate sa tshimo ke motho?' (JPS\/ASV) kgahlanong le 'sefate sa tshimo ke bophelo ba motho' (KJV, o eketsa 'bophelo')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לנדח",
+      "rationale": "Lentswe le bolelang 'ho otlolla\/humenya ka maatla' le fanowe e le 'ho ralalla sekgabi' — pontsho ea tsela e sa feleng."
+    },
+    {
+      "kind": "you",
+      "subject": "moeti \/ Yisraele",
+      "rationale": "Taelo ea toba ho Yisraele ka litsela tsa tolo ea motse, e hlalosa maemo a ntoa."
+    }
+  ],
+  "translation": "Ha o siea setsi sa nako e telele, letsatsi le le ngata, ho loana le sona ho se ts'oara, o se ke wa senya ⟨את⟩ ditlhare tsa lona ka ho ralala ka sekgabi holim'a tsona; hobane ho tsona o jang, mme ⟨את tsona⟩ o se ke wa li rala — hobane motho ke sefate sa tshimo, hore se tle ho tswa pele ho haufi le uena mots'okoong.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "81eb9d00e6952be0598d45b06297ebcab93ee1720f287827c194fcf4dd4ccfaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/20\/19-19.1791265057551.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תצור",
+      "gloss": "o siea setsi sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a ngata"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ho loana"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "le sona"
+    },
+    {
+      "surface": "לתפשה",
+      "gloss": "ho se ts'oara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "senya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhare tsa lona"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ditlhare tsa lona"
+    },
+    {
+      "surface": "לנדח",
+      "gloss": "ka ho ralalla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "holim'a tsona"
+    },
+    {
+      "surface": "גרזן",
+      "gloss": "sekgabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "o jang"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "mme ⟨את tsona⟩",
+      "marks": "ditlhare tsa lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "li rala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa tshimo"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "hore se tle"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "pele ho haufi le uena"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "mots'okoong"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:37.582604725Z",
+  "model": "glm-5.3"
+}

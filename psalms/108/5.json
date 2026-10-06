@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maru",
+      "rationale": "שחקים ke dual — 'maru a mabeli a sefahleho', sesupo sa dual se timetse ho Sesotho"
+    },
+    {
+      "kind": "addition",
+      "subject": "e fihlela",
+      "rationale": "Seheberu se sa bolele sefapano — 'nete e fihla; tlhaho ho Sesotho e se hlokahala"
+    }
+  ],
+  "translation": "Hobane hesede ya hao e kgolo hodima mahodimo, mme 'nete ya hao e fihlela ho maru.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b8ae1caea7773007d576a01b7313b9d98d88b79acbaf0f2fdd1a6118f680158f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/108\/5-5.1791265578255.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya hao"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme e fihlela ho"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "'nete ya hao"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:18.256245542Z",
+  "model": "glm-5.3"
+}

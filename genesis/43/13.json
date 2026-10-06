@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "האיש",
+      "rationale": "Seheberu se re 'motho eo'; Sesotho se hloka lentswe le hlakileng — 'molombehi' (motho ya kgethang) — hase selemo sa Ismaele."
+    },
+    {
+      "kind": "addition",
+      "subject": "ea",
+      "rationale": "Sesotho se hloka moemeli ea hlakileng bakeng sa tlhaho ya boela-bolelo — mme ea nka."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Yaakobo le bara ba hae",
+      "rationale": "Taello e tobetseng ho bara ba Yaakobo — mehato ea bokgoni."
+    }
+  ],
+  "translation": "Mme ea ⟨את⟩ monga ka lona, mme mo nang, khutlelang ho ⟨molombehi⟩ eo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "643429b95650d5f4f07dbba1f3c9dce8379ca3e42eee7a0b697416bdb664b032",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/43\/13-13.1791264773022.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "monga ka lona"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "monga ka lona"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ea"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "mo nang"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "khutlelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨molombehi⟩ eo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:53.032104769Z",
+  "model": "glm-5.3"
+}

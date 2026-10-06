@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חקות",
+      "rationale": "'melao ya mehla' bakeng sa חקה — sekao se hlophisitsweng, eseng molao feela"
+    }
+  ],
+  "translation": "Mme le tla etsa ⟨את⟩ melao ya ka ya mehla, le ⟨את⟩ dikahlolo tsa ka le tla li hlokomela, mme le tla li etsa; mme le tla dula holimo lefatshe ka polokeho.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "568b7a5e8069464cd48b8ff03b328664f7ffdb5af8c3cf09a9a1a4d2ea592f96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/25\/18-18.1791264863317.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme le tla etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya ka ya mehla"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melao ya ka ya mehla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ le",
+      "marks": "dikahlolo tsa ka"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo tsa ka"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "le tla hlokomela"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme le tla etsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ li",
+      "marks": "melao le dikahlolo tse"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "mme le tla dula"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka polokeho"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:23.321564133Z",
+  "model": "glm-5.3"
+}

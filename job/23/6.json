@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "st",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "matla",
+      "rationale": "Seheberu sa ישם בי se bolela feela 'o tla bea ho nna'; 'matla' se ekeditswe ho latela ponahalo ya KJV"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישם בי",
+      "rationale": "KJV: 'o tla bea matla ho nna'; ASV\/JPS: 'o tla ela nna hloko' — sefela se se nang letho se filweng"
+    },
+    {
+      "kind": "alternative",
+      "subject": "o tla ela nna hloko",
+      "rationale": "Ponahalo ya bobedi ya ישם בי (JPS\/ASV), hobane mabapi le sebaka se latelang sa tsheko"
+    }
+  ],
+  "translation": "Na ka bongata ba matla o tla bapalla le nna? Che; empa oena o tla bea ⟨matla⟩ ho nna.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0d36b9ecee05036cd0f2428a6b6605ef18244ed701a96b97e85b65c1bc4029b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/23\/6-6.1791265630116.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "ka bongata ba"
+    },
+    {
+      "surface": "כח",
+      "gloss": "matla"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "o tla bapalla"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "che"
+    },
+    {
+      "surface": "אך",
+      "gloss": "empa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "oena"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "o tla bea"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ho nna"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:10.117624615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o na le",
+      "rationale": "Seheberu se se na sebopeho; Sesotho se hloka sebapali — se ekeditswe mme se tshwerwe ka ⟨…⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול יהוה",
+      "rationale": "Phetoho ea bobedi ea 'modumo wa Yahwe' — mokgoa o hlahlamang oa psalme oohle (moea oa bo29), o tsejoa ka boikemiso"
+    }
+  ],
+  "translation": "Modumo wa Yahwe ⟨o na le⟩ matla; modumo wa Yahwe ⟨o na le⟩ bonahalo e kgolo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c9faeafcab659bfa218186073b83770b0b950050d8f3f174ff5ca4d64ba1e3e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/29\/3-4.1791265547295.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "matla"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "bonahalo e kgolo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:47.296932522Z",
+  "model": "glm-5.3"
+}

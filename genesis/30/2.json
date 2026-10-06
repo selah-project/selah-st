@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף ויחר",
+      "rationale": "Idiom ea Seheberu 'e tukile sefofu' — ha e na sefofu ho Sesotho."
+    },
+    {
+      "kind": "crux",
+      "subject": "התחת אלהים אנכי",
+      "rationale": "'Na ke bakeng sa Elohim' — kapa 'na ke moemeli wa Elohim'; potso ya Yaakobo, eseng boikene."
+    },
+    {
+      "kind": "you",
+      "subject": "to Rakhela",
+      "rationale": "Yaakobo a arabela Rakhela ka potso e tobileng."
+    }
+  ],
+  "translation": "Mme bohale bo tukile ho Yaakobo kgahlanong le Rakhela, mme a re: Na ke bakeng sa Elohim, ao a sititseng ho u wesa sehloho sa mpa?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "e7760b7dc9cd874e83e8532c6059c26fb840171ee2b3c28abf2cd37647a32eea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/30\/2-2.1791264694260.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "bo tukile"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bohale"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "kgahlanong le Rakhela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "ke bakeng sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "a sititseng"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ho u"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "sehloho"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "sa mpa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:34.267573707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Sheba",
+      "rationale": "הביט ימין: poleloana e ka balwa e le 'o ile a sheba' (KJV) kapa taaelo ya bobedi 'sheba' (ASV\/JPS); ke latetse taaelo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pelo ea ka",
+      "rationale": "נפש ke throat\/moea\/bophelo, eseng 'pelo' ka boomo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכיר \/ אבד",
+      "rationale": "tlhahiso-bopele: 'ha ho ya ntsebang... o timetse' — ho nyamela ha botho bo hirilwe ka lipolelo tse peli."
+    }
+  ],
+  "translation": "Sheba letsohong la ka la ho ja, mme u bone: ha ho na ya ntsebang ho 'na; mapholoso o timetse ho tloha ho 'na; ha ho na ya batlang pelo ea ka.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d1f01786dd0d9de6ddce136efd646763f0bbbf302953b61047cc8cc2d3be3e56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/142\/5-6.1791265613645.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "letsohong la ka la ho ja"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mme u bone"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ho na"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ya ntsebang"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "o timetse"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "mapholoso"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho tloha ho 'na"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho na"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "ya batlang"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pelo ea ka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:53.647335092Z",
+  "model": "glm-5.3"
+}

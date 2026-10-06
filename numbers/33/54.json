@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 33:54",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "khorale",
+      "rationale": "Kaba ya lefatshe ka khorale, ho ya ka bongata le bonyane ba lapa — palo le tekano."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחלה\/התנחלתם\/תתנחלו",
+      "rationale": "Motso o le mong wa bojabela o boelela kajeno (qetello le ho qala); khutliso e boutswa ka bojabela ka ho le letona."
+    },
+    {
+      "kind": "addition",
+      "subject": "ba bona",
+      "rationale": "Sehlomathiso sa Sesotho se kentsoeng ho bojabela; Seheberu se na le sehlomathiso -ו feela."
+    }
+  ],
+  "translation": "Mme le tlaabela ⟨את⟩ lefatshe ka khorale ho lapa la lona; ho ba bongata le tla eketsa ⟨את⟩ bojabela ba bona, mme ho ba nyane le tla fokotsa ⟨את⟩ bojabela ba bona; ho ya moo khorale e tlang ho tswa ho yena, sehlotshwana se tla ba sa hae; ho ya ka makgotla a bo-ntate ba lona le tlaabela.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9adff5cc1e52ba9b74e42bfdfa8571e28805b1e90b710812a33c9217e9acdf4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/33\/54-54.1791264960801.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתנחלתם",
+      "gloss": "le tlaabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ka khorale"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "ho lapa la lona"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ho ba bongata"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "le tla eketsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojabela ba bona"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "bojabela ba bona"
+    },
+    {
+      "surface": "ולמעט",
+      "gloss": "mme ho ba nyane"
+    },
+    {
+      "surface": "תמעיט",
+      "gloss": "le tla fokotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojabela ba bona"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "bojabela ba bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e tlang ho tswa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sehlottshwana sa hae"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "khorale"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "למטות",
+      "gloss": "ho ya ka makgotla"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "a bo-ntate ba lona"
+    },
+    {
+      "surface": "תתנחלו",
+      "gloss": "le tlaabela"
+    }
+  ],
+  "timestamp": "2026-10-06T05:36:00.806409494Z",
+  "model": "glm-5.3"
+}

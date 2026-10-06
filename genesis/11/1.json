@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sefole",
+      "rationale": "שפה ke 'lefole' ka botlalo; mona e bolela puo — mofuta o mong wa lentswe lena le le leng"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחת\/אחדים",
+      "rationale": "phetelelo ya 'e le nngwe' (bong bo tšehali) le 'a le mong' (bong bo tšhehadi, bongata) — kamano e phahameng"
+    },
+    {
+      "kind": "addition",
+      "subject": "le ne le na le",
+      "rationale": "Seheberu se se na sehlomathiso 'ho ba le'; Sesotho se se hlokahala"
+    }
+  ],
+  "translation": "Mme lefatshe lohle le ne le na le sefole se le seng, le mantswe a le mong.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "24494d983fd7acde36ebc1b18d36db2f992485d12faf08df049128651d7a9641",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/11\/1-1.1791264690272.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme le ne le le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "sefole"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "se le seng"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "le mantswe"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "a le mong"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:30.283107477Z",
+  "model": "glm-5.3"
+}

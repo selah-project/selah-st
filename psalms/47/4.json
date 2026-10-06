@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידבר",
+      "rationale": "Lemma דבר 'arrange\/speak'; here figurative 'subdue' (KJV\/JPS) vs 'leadeth' (YLT) — Sesotho e latela 'ho tlisa ka tlase'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחתינו \/ תחת",
+      "rationale": "Poelelo ya 'ka tlase' habeli, e hlahelletseng, e bolokilwe ka ho boha mafoko."
+    }
+  ],
+  "translation": "Ya tlisang batho ka tlase ho rona, mme mafatshe ka tlase ho maoto a rona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0f5872216f4492979ddc500cf90e128f5e91265b6ca288cebd6bbcd07b986a6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/47\/4-4.1791265522018.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Ya tlisang ka tlase"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "batho"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "ka tlase ho rona"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "mme mafatshe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ho"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "maoto a rona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:22.019553501Z",
+  "model": "glm-5.3"
+}

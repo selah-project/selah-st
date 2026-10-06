@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "st",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o robala",
+      "rationale": "ילין e bolela ho lula bosiu; Sesotho se hloka mohlala o hlakileng"
+    },
+    {
+      "kind": "crux",
+      "subject": "dodi",
+      "rationale": "דודי: 'dodi ya ka' (mohloamedi) kgahlanong le 'ya ratahang'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דודי\/הדוד",
+      "rationale": "dodi le dodim — mantswe a tshwanang a bontsha kamanoso, a timetse ka Sesotho"
+    }
+  ],
+  "translation": "Tshese ya mora, ya dodi ⟨ya ka⟩ — o dula ⟨o robala⟩ mahareng a matshedi a ka.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1af257a22e783788b4d1e32e26cdcb151e10a0b0852864dc1f76f08b5d72991d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/song-of-songs\/1\/13-13.1791265646644.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "tshese ya mora"
+    },
+    {
+      "surface": "המר",
+      "gloss": "mora"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "dodi ⟨ya ka⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mahareng"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "a matshedi a ka"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "o dula ⟨o robala⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:26.650868854Z",
+  "model": "glm-5.3"
+}

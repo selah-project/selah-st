@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 44:23",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "chesa mokoko",
+      "rationale": "קטר — ho fufunoa ho mollo jwaloka mokoko; Sesotho se na sebopeho se tsotehang"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפני אשר",
+      "rationale": "'ka boka ya se' — 'hobane' feela; מפני ke 'ka boka ya sefatsheng' ka lekunutu"
+    },
+    {
+      "kind": "crux",
+      "subject": "קראת אתכם",
+      "rationale": "'bo le kopantse' — qarah e bolela ho kopana, eseng ho etsahala ka boona; KJV 'is happened' kgahlanong le 'met you'"
+    }
+  ],
+  "translation": "Hobane le ile la chesa mokoko, mme hobane le ile la etsa diphoso ho Yahwe, mme le sa utloe lentswe la Yahwe, mme la se tsamae ka Torah ya hae, ka melao ya hae le ka bopaki ba hae, ka baka leo bobe bona bo le kopantse, jwaloka letsatsi le.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "79b37198ce18951baf31dc54295efc8d69e16b3fcd233d907e32821bdab60697",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/44\/23-23.1791265348225.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "קטרתם",
+      "gloss": "la chesa mokoko"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mme se"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "la etsa diphoso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme le sa"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "utloe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentswe la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובתרתו",
+      "gloss": "ka Torah ya hae"
+    },
+    {
+      "surface": "ובחקתיו",
+      "gloss": "ka melao ya hae"
+    },
+    {
+      "surface": "ובעדותיו",
+      "gloss": "le ka bopaki ba hae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "la se"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "tsamae"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka leo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka baka leo"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "bo le kopantse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bobe bona"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bona"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jwaloka letsatsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:28.225797553Z",
+  "model": "glm-5.3"
+}

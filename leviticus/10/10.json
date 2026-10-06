@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בין ... ובין",
+      "rationale": "Pakeng tsa e phethahatswang ka mokgwa o mongwe le o mongwe — mokgwa wa Seheberu wa ho bolela kgetho, o bolokilweng ka \"pakeng tsa ... le pakeng tsa\"."
+    },
+    {
+      "kind": "substitution",
+      "subject": "se sa halalelang",
+      "rationale": "החל ke seng mabapi le se halalelang, eseng feela \"se fositseeng\"; Sesotho se hlalosa ka ho latela sedidiwa sa halalela."
+    }
+  ],
+  "translation": "Le ho kgonahala ho hlalosa pakeng tsa se halalelang le pakeng tsa se sa halalelang, le pakeng tsa se hloekileng ho tshwanang le se hloekang hase ho tshwane le se ditjhabeleng tsa hloeko.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9b6febe9e4820c71b049997ef0d1a820bf84dfc84f3f1227f15972e2d1c45582",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/10\/10-10.1791264873129.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "le ho kgonahala ho hlalosa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "se halalelang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "se sa halalelang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "se hloekileng ho tshwanang le se ditjhabeleng tsa hloeko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "se hloekileng ho tshwanang le se hloekang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:33.133520225Z",
+  "model": "glm-5.3"
+}

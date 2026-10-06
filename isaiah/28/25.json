@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 28:25",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Sehlahisoa sa sehlangwa sa Seheberu se bontshwa ka ⟨את⟩ feela, se senyeletswe ho gloss ya lentswe la pejana"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קצח",
+      "rationale": "ketshane (black cumin) — lentsoe lena le hlaha mona feela ho Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "נסמן",
+      "rationale": "ho kgetha\/khetha kgahlanong le 'ho bea'; KJV 'the appointed barley'"
+    },
+    {
+      "kind": "addition",
+      "subject": "gloss-merge",
+      "rationale": "וכסמת le גבלתו di kopilwe ho gloss e le nngwe bakeng sa ho alahana; lentswe la ho qetela le na le gloss e se nang letho"
+    }
+  ],
+  "translation": "Ha e sa hlaha a se a tlatsa sefahleho sa yona, a sa hlahisa ka ho qhobosa ⟨את⟩ ketshane le ka ho phalla ⟨את⟩ kemone, a beha koro ka mela, mabele a kgethilweng, le spelta moleleng wa yona?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1e52cbf7bfd4e2fa90f72201aa9167645a76a34a22347fa4661f881f10384440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/28\/25-25.1791265299045.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ha e sa hlaha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "a tlatsa"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sefahleho sa yona"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "a hlahisa ka ho qhobosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketshane"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "ketshane"
+    },
+    {
+      "surface": "וכמן",
+      "gloss": "le ka ho phalla"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "kemone"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "koro"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "ka mela"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "נסמן",
+      "gloss": "a kgethilweng"
+    },
+    {
+      "surface": "וכסמת",
+      "gloss": "le spelta moleleng wa yona"
+    },
+    {
+      "surface": "גבלתו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:39.049088945Z",
+  "model": "glm-5.3"
+}

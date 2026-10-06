@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 3:17",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכן",
+      "rationale": "Poleloana le tletseng — 'ba hlomphetse \/ ba hahaletse' — babupelli ba fapana: bang ba e kopanya le 'ba ema', bang ba e tlohela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרבה",
+      "rationale": "'Sephara' — seheberu se bolela mobu o omileng, lehlakore la leoatle le ommeng, eseng thota ka kakaretso."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר\/לעבר",
+      "rationale": "Phetoho ea lentsoe 'ho feta' e hlakanela mararong a Setsheberu; moea oa sehlabelo sa Yordane o bolokehileng ka ho e khutlisa."
+    }
+  ],
+  "translation": "Mme baprista, batali ba arke ya selekane sa Yahwe, ba ema molomong oa sephara mahareng a Joredane, ba hlomphetse; mme Yisraele ohle a feta sepharang, ho fihlela setjhaba sona se phethela ho feta ⟨את⟩ Joredane.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "93277d7ccb9607ca3ea51a5d35810890bee283867e46230009dcca3845aef5ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/3\/17-17.1791265065599.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "ba ema"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "batali ba"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arke"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "molomong oa sephara"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mahareng a"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Joredane"
+    },
+    {
+      "surface": "הכן",
+      "gloss": "ba hlomphetse"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme Yisraele ohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "sepharang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "se phethela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sona"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joredane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Joredane"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:45.603753556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 38:22",
+  "book": "job",
+  "lang": "st",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אוצרות",
+      "rationale": "Tafole: 'tutuongwang' (storehouse) kgahlanong le 'dithoto' (treasures); papiso ke polokelo ya sefoko le bathlapa."
+    },
+    {
+      "kind": "addition",
+      "subject": "di",
+      "rationale": "Sebopeho sa Sesotho se hloka serumi 'di' ho 'bona' ho hlalosa tutuongwang."
+    },
+    {
+      "kind": "you",
+      "subject": "Jobo",
+      "rationale": "Potso ya ka ho tobile ho Jobo, karolo ya potso e itseng ya Yahwe."
+    }
+  ],
+  "translation": "Na o kene tutuongwang wa sefoko, kapa tutuongwang wa bathlapa, o a di bona?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c7fd8fac6e5d540f251929113678e81dda1f29d849f363126273939defd89fa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/38\/22-22.1791265645090.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבאת",
+      "gloss": "Na o kene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "tutuongwang"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "wa sefoko"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "kapa tutuongwang"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "wa bathlapa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o a di bona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:25.094464746Z",
+  "model": "glm-5.3"
+}

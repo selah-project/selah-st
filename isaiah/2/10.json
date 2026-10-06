@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "'Ka pelaelo ya' — Hebrew idiom 'from the face of', rendered as 'because of\/before' in Sesotho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בוא",
+      "gloss": "'Tsenang' (enter) for Hebrew 'come\/go' — imperative summons"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the proud of Judah",
+      "rationale": "Imperative commands addressing the hearer to flee and hide"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאון",
+      "rationale": "'Boholo' (pride\/exaltation) — the pride of man (v.9) contrasts with Yahwe's own ga'on, which humbles it (v.11)"
+    }
+  ],
+  "translation": "Tsenang sebakeng sa lefika, le itlule letsatsing, ka pelaelo ya tsabo ya Yahwe, le ka pelaelo ya kgalalelo ya boholo ba hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4c6ab70b262d880699ff53ebbbe07fea30789642d528adede54e44caea10e357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/2\/10-10.1791265286522.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "Tsenang"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sebakeng sa lefika"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "le itlule"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "letsatsing"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka pelaelo ya"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tsabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "le ka pelaelo ya kgalalelo"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "boholo ba hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:26.523700354Z",
+  "model": "glm-5.3"
+}

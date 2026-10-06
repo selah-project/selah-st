@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 26:33",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא היו לו בנים",
+      "rationale": "Seheberu: 'ha ho na bana ho yena' — ho ba teng ho seng teng; Sesotho se hloka mokgwa wa ho fa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בנות",
+      "gloss_note": "",
+      "rationale": "בנות ke 'bassadi' feela, eseng 'bana ba basadi'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mabitso a bassadi",
+      "rationale": "Pale ya mabitso — karolo ya palo ya machaba a Manase."
+    }
+  ],
+  "translation": "Mme Tselofekhade mora wa Khefere ha ho na ⟨ha⟩ bana ba bashanyana ho yena, empa bassadi feela; mme mabitso a bassadi ba Tselofekhade ke: Makhala, le Noa, Khogala, Malka, le Tirtsaa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ad0e86e97195406c984c658d6b14697f90183951ebb18e31c535a2068379fe0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/26\/33-33.1791264955623.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצלפחד",
+      "gloss": "Mme Tselofekhade"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Khefere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ho na"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨ho na⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana ba bashanyana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "empa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "feelà"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bassadi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme mabitso a"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bassadi ba"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofekhade"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Makhala"
+    },
+    {
+      "surface": "ונעה",
+      "gloss": "le Noa"
+    },
+    {
+      "surface": "חגלה",
+      "gloss": "Khogala"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Malka"
+    },
+    {
+      "surface": "ותרצה",
+      "gloss": "le Tirtsaa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:55.625984683Z",
+  "model": "glm-5.3"
+}

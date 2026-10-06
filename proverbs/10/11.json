@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "e pata dikgoka",
+      "rationale": "KJV\/ASV: dikgoka di apara molomo wa ba hlahlamoleng (חמס semesa); JPS\/BSB: molomo o patolla dikgoka — hlobo ya sebopeho se ka sefahleho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mokgoro",
+      "rationale": "מקור ke sengwe seikerilweng — metsi a tswang teng; 'mokgoro wa metsi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פי...ופי",
+      "rationale": "phetišo ea 'molomo' ka bobedi metong e mebedi, tlhaho ea liproverb tsa Proverbs 10"
+    }
+  ],
+  "translation": "Motho ya tsedeke, molomo wa hae ke mokgoro wa bophelo, mme molomo wa ba hlahlamoleng e pata dikgoka.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "781ed1a9da5864ffa0d1e682cde00db506961fbd0a3b01363db8ce91fb94ba3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/proverbs\/10\/11-11.1791265584769.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "mokgoro"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wa bophelo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya tsedeke"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mme molomo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa ba hlahlamoleng"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "e pata"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dikgoka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:24.770646637Z",
+  "model": "glm-5.3"
+}

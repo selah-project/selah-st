@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 6:21",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lengau",
+      "rationale": "גובא ke sekele sa diphoofolo tse hlahang; 'sekele sa ditau' e ka ba e nepahetseng haholo"
+    },
+    {
+      "kind": "you",
+      "subject": "to Daniele",
+      "rationale": "morena o bitela Daniele ka boomo, potso e tobileng ho ena"
+    },
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "potso e hlokaka sekalanyana sa Sesotho; Seheberu se bolela feela 'היכל'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זעק עציב",
+      "rationale": "khoebo ya mahlakore mmele ka hara sekoahelo; ho phetolela ho bolosa kopana ya modumo"
+    }
+  ],
+  "translation": "Mme ha a atamela sebakeng sa lengau, ho Daniele, ka modumo wa bohloko a llela. Morena a araba mme a re ho Daniele: Daniele, motho wa setsa wa Eloha ya phelang, na Eloha wa hao, ya o mo sebeletsang kamehla, o matla ho o lokolla ho ditau?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2ba2141d136a23d7c30b82abd4c645ec70dd2ead7c68cc1e0d8cec6dd6414bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/daniel\/6\/21-21.1791265699818.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכמקרבה",
+      "gloss": "ha a atamela"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "sebakeng sa lengau"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "ho Daniele"
+    },
+    {
+      "surface": "בקל",
+      "gloss": "ka modumo"
+    },
+    {
+      "surface": "עציב",
+      "gloss": "wa bohloko"
+    },
+    {
+      "surface": "זעק",
+      "gloss": "a llela"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Morena"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "ho Daniele"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniele"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "motho wa setsa"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "חיא",
+      "gloss": "ya phelang"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "Eloha wa hao"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אנתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "mo sebeletsang"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בתדירא",
+      "gloss": "kamehla"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "o matla"
+    },
+    {
+      "surface": "לשיזבותך",
+      "gloss": "ho o lokolla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "ditau"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:19.823739309Z",
+  "model": "glm-5.3"
+}

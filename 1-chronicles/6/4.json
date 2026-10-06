@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 6:4",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le kopula; Sesotho se e hloka"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenane la malapa",
+      "rationale": "Tsebo ya moloko le malapa a Balevi — peakanyo ya metlobo"
+    }
+  ],
+  "translation": "Bana ba Merari: Makhli le Mushi; mme tsena ke ⟨ke⟩ malapa a Balevi ho ya ka bo-ntate bona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ddfac65de8fd6cdc8dc713158e8924532964869f208f0d304d9fd2b98b003c48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/6\/4-4.1791265712465.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Makhli"
+    },
+    {
+      "surface": "ומשי",
+      "gloss": "le Mushi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mme tsena"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "a Balevi"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "ho ya ka bo-ntate bona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:32.467370084Z",
+  "model": "glm-5.3"
+}

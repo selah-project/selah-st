@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 3:17",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mollomong wa yona",
+      "rationale": "גבול ke sebopeho se hlomathisitsweng; sehlomathiso «wa yona» se ekeditswe"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mollomong",
+      "rationale": "Enele e hlalosa meeli ya lefatshe ka makgetlo a mabeleng le mabitso a dibaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשדות הפסגה",
+      "rationale": "KJV e kopantse «Ashdoth-pisgah»; ASV\/JPS «mekotleng ya Pisgae» — motso o bolela phahamo kapa mochini wa meetse"
+    }
+  ],
+  "translation": "Le ⟨lefapha⟩ la Arabe, le Yaridene le mollomong wa yona, ho tloha Kinerete ho ya fihlela lewatleng la Arabe, lewatle la muncu, ka tlasa mekotleng ya Pisgae, ka bochabela.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "03b306aaf9681d4ddf401b4126dfb2732582badd3920fc5469a6562584cc359c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/3\/17-17.1791265046805.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והערבה",
+      "gloss": "le ⟨lefapha⟩ la Arabe"
+    },
+    {
+      "surface": "והירדן",
+      "gloss": "le Yaridene"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "le mollomong wa yona"
+    },
+    {
+      "surface": "מכנרת",
+      "gloss": "ho tloha Kinerete"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho ya fihlela"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "la Arabe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "la muncu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlasa"
+    },
+    {
+      "surface": "אשדות",
+      "gloss": "mekotleng"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "ya Pisgae"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ka bochabela"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:26.811602485Z",
+  "model": "glm-5.3"
+}

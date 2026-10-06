@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אבד עצות",
+      "rationale": "Seheberu: 'naga ea eang meelelong' — setjhaba se nang le meelelo e sileng."
+    }
+  ],
+  "translation": "Hobane ke setjhaba se sitilweng meelelo, ebile ha ho na tlhaloganyo ho bona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8d1b1549e239f3380cd48fafebfae17d476469fb90b7d3f5f3e2b986e774c252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/32\/25-28.1791265082958.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "se sitilweng"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "meelelo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ha ho na"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "tlhaloganyo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:02.984832358Z",
+  "model": "glm-5.3"
+}

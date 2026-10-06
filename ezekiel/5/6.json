@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 5:6",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "a hanela",
+      "rationale": "ותמר: 'a hanela\/hanya' kgahlanong le 'a fetola' (KJV); lentšu le bolela ho telusa jwalo ka pere"
+    },
+    {
+      "kind": "addition",
+      "subject": "di",
+      "rationale": "Seheberu se se na sehlahiswa sa 'they'; Sesotho se hloka sona"
+    }
+  ],
+  "translation": "Mme o ile a hanela ⟨את⟩ dikahlolo tsa ka ho ya bo-boshola, ho feta ditjhaba, le ⟨את⟩ melao ya ka ho feta dinaha tse di potoloha ha yena; hobane dikahlolo tsa ka di a di hloile, mme melao ya ka ha ba ea e tsamaya ho tsona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "53bbfa9b79e7cf2aca8b87f6978c662c7a67f817e15e623e98dc0165d6417f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/5\/5-8.1791265394154.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Mme o ile a hanela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikahlolo tsa ka"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo tsa ka"
+    },
+    {
+      "surface": "לרשעה",
+      "gloss": "ho ya bo-boshola"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "melao ya ka"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "melao ya ka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho feta"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "dinaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "di potoloha ha yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "dikahlolo tsa ka"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "di a di hloile"
+    },
+    {
+      "surface": "וחקותי",
+      "gloss": "mme melao ya ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ba ea"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "e tsamaya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho tsona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:14.156627913Z",
+  "model": "glm-5.3"
+}

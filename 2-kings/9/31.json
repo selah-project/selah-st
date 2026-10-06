@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 9:31",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השלום זמרי הרג אדניו",
+      "rationale": "potso kapa tlhako: 'Ho khotsofala, Zimri, eo bolaeang monga hae?' — Izebele o bapisa Yehue le Zimri"
+    },
+    {
+      "kind": "you",
+      "subject": "Yehue",
+      "rationale": "Izebele o bua le Yehue a kena kgorong"
+    },
+    {
+      "kind": "idiom",
+      "subject": "השלום",
+      "rationale": "potso ea khotso e Sesothong: 'Ho khotsofala?' — potso ea sephetho, eseng potso ea boitumelo"
+    }
+  ],
+  "translation": "Mme Yehue a kena sebakeng sa mong wa kgoro, mme a re: Ho khotsofala, Zimri, eo bolaeang monga hae?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c46ead29322430f576f2e04594112c3a7fac54da62e506c21c766fc765919652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-kings\/9\/30-33.1791265264630.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "mme Yehue"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sebakeng sa mong wa kgoro"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Ho khotsofala"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "bolaeang"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "monga hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:04.633757283Z",
+  "model": "glm-5.3"
+}

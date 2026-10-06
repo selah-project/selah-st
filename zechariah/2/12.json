@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 2:12",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sea sa leihlo la hae",
+      "rationale": "עינו — 'leihlo la hae': la Yahwe kapa la moealetsi? Ba-fetoleli ba fapana; moealetsi o bitlilela Yahwe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגע ... נגע",
+      "rationale": "Boitlhaloso joa-joa (a-b-a): 'eo a le amang o ama' — ho toba ha boitshwaro bo sieo ho Sesotho ka ho tshwana."
+    }
+  ],
+  "translation": "Hobane jwalo ha a bolela Yahwe Tsebaote: Kamora kgalalelo o ntsehetsile ho ditjhaba tse le tlweleditseng ⟨את⟩ lona; hobane eo a le amang o ama sea sa leihlo la hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1473416ae3f67e32a5b0d45a2cc57959362cb6a3885c7638c348daf6aa6fdabb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/zechariah\/2\/9-12.1791265510929.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jwalo ha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Kamora"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "o ntsehetsile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba tse"
+    },
+    {
+      "surface": "השללים",
+      "gloss": "le tlweleditseng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "eo a amang"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "o ama"
+    },
+    {
+      "surface": "בבבת",
+      "gloss": "sea sa"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "leihlo la hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:10.933424006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "O ntshitse",
+      "rationale": "תסיע ke 'ho hula ka hare, ho ntsha diphaotha tenteng' — sesupo sa ho fallisa; 'ntsha' e boloka sebopeho sa ho hula"
+    },
+    {
+      "kind": "alternative",
+      "subject": "wa o jala",
+      "rationale": "ותטעה e bolela 'ho tloma, ho kgoma ka hare' — 'wa e tloma' e ka ba pono e nngwe"
+    }
+  ],
+  "translation": "Molala O ntshitse ho tloha Mitsrayime; O tloditse dinaha, mme wa o jala.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8742d99330ab9867a80e421502b103038645ca0af4134e9c04b16bfa348b88ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/80\/9-10.1791265604322.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "molala"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho tloha Mitsrayime"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "O ntshitse"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "O tloditse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dinaha"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "mme wa o jala"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:44.323602067Z",
+  "model": "glm-5.3"
+}

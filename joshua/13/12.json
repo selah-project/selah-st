@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 13:12",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hlasimolla",
+      "rationale": "וירשם is 'dispossess\/drive out and possess'; single Sesotho verb compresses both halves"
+    },
+    {
+      "kind": "substitution",
+      "subject": "madimaba",
+      "rationale": "הרפאים kept as Refaime, a proper name; traditional versions say 'giants' — substitution avoided"
+    }
+  ],
+  "translation": "Bossohle ba buso bja Oge Bashaneng, ya busitseng Ashtarote le Edrei — yena e ile ya sala e le botsitsi ba Refaime; mme Moshe o ile ba otla mme a ba hlasimolla.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "59ef515b45b2be58a97755116e9fcd36a5ebb3feec3bbcc1091d8cfd672b384a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/13\/9-12.1791265126907.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bossohle"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ba buso"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oge"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Bashaneng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "busitseng"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "Ashtarote"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "le Edrei"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "e ile ya sala"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "botsitsi"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "Refaime"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "o ile ba otla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וירשם",
+      "gloss": "a ba hlasimolla"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:46.943917899Z",
+  "model": "glm-5.3"
+}

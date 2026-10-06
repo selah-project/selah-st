@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "haggai 2:19",
+  "book": "haggai",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במגורה",
+      "rationale": "E ka bolela 'kamora ea poone' kapa 'letsatsi' — KJV\/JPS ea nka e le granary; moelelo oa sefahleho e babeli ka polelong e le 'ngoe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשא",
+      "rationale": "Seheberu se re 'ho hlahisa' (ho phahamisa); Sesotho se se nka e le 'ho beha' pele."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hore⟩",
+      "rationale": "Seheberu se bōha potso ka ⟨העוד⟩ feela; Sesotho se hloka 'hore' ho etsa potso."
+    },
+    {
+      "kind": "crux",
+      "subject": "העוד",
+      "rationale": "Potso: 'na pele e ntse e le kamoreng?' — baphetoli ba sa utlwisisane hore na e potso kapa a re 'e sa le teng'."
+    }
+  ],
+  "translation": "Na ⟨hore⟩ pele e ntse e le kamoreng ea poone? Mme ho fihlela joale morara, le sefifu, le monokotsoai, le sefatshe sa olive ha se a sa beha — ho tloha letsatsing le, ke tla le hlohonolofatsa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1050f0fce0481cc2001b1b89c314c7c04739379f3f99aa8c42fe71ac72f99b47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/haggai\/2\/19-19.1791265489080.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "pele"
+    },
+    {
+      "surface": "במגורה",
+      "gloss": "kamoreng ea poone"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme ho fihlela"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "morara"
+    },
+    {
+      "surface": "והתאנה",
+      "gloss": "sefifu"
+    },
+    {
+      "surface": "והרמון",
+      "gloss": "monokotsoai"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "sefatshe"
+    },
+    {
+      "surface": "הזית",
+      "gloss": "sa olive"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsing"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ke tla le hlohonolofatsa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:49.084723468Z",
+  "model": "glm-5.3"
+}

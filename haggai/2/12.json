@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "haggai 2:12",
+  "book": "haggai",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הן",
+      "rationale": "'ha' e bolela potso ya mehlala — Sesotho se hloka sebopeho sa potso, Seheberu se se sena."
+    },
+    {
+      "kind": "crux",
+      "subject": "היקדש",
+      "rationale": "'e tla halaletswa' — kapa 'e halalela?' (boemo, eseng phetoho); baprista ba araba 'che', holiness e ka sa fetisa ka ho khothoma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "borelo",
+      "rationale": "לחם ke 'borelo\/koro' ka kakaretso; 'bread' ya Senyesemane e tshesane haholo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tokomane ea khalo",
+      "rationale": "Sebeleseme sa khalo: potso ea baprista ka hore na bokaholimo bo fetisa joang."
+    }
+  ],
+  "translation": "Ha motho a jara nama e halalelang ka sehlahleng sa diaparo tsa hae, a ka thoko ea sehlahleng seo ho borelo, kapa ho setero, kapa ho veine, kapa mafura, kapa ho ljoho ka lijo tsohle, na e tla halaletswa? Mme baprista ba araba, ba re: Che.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b4bf6d94caf7381198e5252696b1e478c100abfb2f8d21fd7c2c30dadf03dc83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/haggai\/2\/12-12.1791265480896.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "a jara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e halalelang"
+    },
+    {
+      "surface": "בכנף",
+      "gloss": "ka sehlahleng"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "sa diaparo tsa hae"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "a ka thoko"
+    },
+    {
+      "surface": "בכנפו",
+      "gloss": "ea sehlahleng seo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "borelo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kapa ho"
+    },
+    {
+      "surface": "הנזיד",
+      "gloss": "setero"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kapa ho"
+    },
+    {
+      "surface": "היין",
+      "gloss": "veine"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kapa ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "lijo"
+    },
+    {
+      "surface": "היקדש",
+      "gloss": "na e tla halaletswa"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "ba araba"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "che"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:40.897609787Z",
+  "model": "glm-5.3"
+}

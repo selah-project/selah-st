@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 7:22",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e ne e",
+      "rationale": "Seheberu se se na sekopu sa nakong; Sesotho se se hlokela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "baromuwa",
+      "rationale": "מלאכים ke baromuwa ba motho, eseng manyeloi mona"
+    }
+  ],
+  "translation": "Mme Yehoshua a romella baromuwa, mme ba mathela setenteng; mme bonang, e ne e patilwe letenteng la hae, mme selefere ka tlase ha yona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4984f48edbbf8ab08abc4f9f3970a086f30e72d76efe5f135d13e53a80e9c5ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/7\/22-22.1791265096892.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romella"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "baromuwa"
+    },
+    {
+      "surface": "וירצו",
+      "gloss": "ba mathela"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "setenteng"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "טמונה",
+      "gloss": "e ne e patilwe"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "letenteng la hae"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "mme selefere"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ka tlase ha yona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:16.894372259Z",
+  "model": "glm-5.3"
+}

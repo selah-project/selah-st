@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שטנה",
+      "rationale": "Lebitso la letamo le tswa ho motso wa ho hloka-tumellano (sitnah), le tswelang tekano le Eseke ya pele."
+    }
+  ],
+  "translation": "Mme ba kletha metsi ka letamo le leng, mme ba lahleka ka lona hape; mme a bitse lebitso la lona Sitnahe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4484f6255a6b05e94a21ab599d40bfcb4f507babb1078a1c933c2c60b7c0f720",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/26\/21-21.1791264687380.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "ba kletha metsi ka letamo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "letamo"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "le leng"
+    },
+    {
+      "surface": "ויריבו",
+      "gloss": "ba lahleka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hape"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitse"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lebitso la lona"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "Sitnahe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:27.387851223Z",
+  "model": "glm-5.3"
+}

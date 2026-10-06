@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וטמא",
+      "rationale": "Hobane o hlotse — verb 'to declare unclean' (ho hloka\/ho loka ha moprista), eseng ho bontsha bohlale bo boholo feela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשה תפשה",
+      "rationale": "Infinitive absolute + finite verb ya motso o le mong (פשה\/תפשה): 'ha e phalla tlhaho' — tswelelopele e phahamitseng e phelwang ka ho pheta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נגע",
+      "rationale": "'Negae' — motho o tlotsweng kapa tlelase; 'infection' kapa 'plague' ha e boloke sebopeho sa motho o tlotsweng."
+    }
+  ],
+  "translation": "Mme ha e phalla haholo letlalong, moprista a tla mo tlwaetsa hore o hlotse: e le negae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0a3ad79e654d045dfe1bdbf5580bec755f3a0df5babc7533e83da636da7966ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/13\/22-22.1791264871942.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme ha"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "phalla"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "phalla"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "letlalong"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "a mo tlwaetsa hore o hlotse"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "negae"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "negae"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e le"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:31.950167048Z",
+  "model": "glm-5.3"
+}

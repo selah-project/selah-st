@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ho fihlela ho",
+      "rationale": "Seheberu se se na le lentswe la 'fihlela'; sehlomathiso sa 'm' se bolella moedi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על פני מצרים",
+      "rationale": "ya bolela 'hodima sefahleho sa Mitsrayime' — 'pela' e ntša setshwantsho"
+    },
+    {
+      "kind": "crux",
+      "subject": "בואך שׁוּר",
+      "rationale": "'ha o kena Shure' (ya bolelang pele ho mobadi) kgahlanong le 'ho fihlela ho Shure' (moedi wa lefatshe)"
+    }
+  ],
+  "translation": "Mme Shauole o ile a otla ⟨את⟩ Amaleke, ho tloha Khavila, ho fihlela ho ⟨ya⟩ kena ho Shure, eo e leng pela Mitsrayime.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "024660ea73c11074ae6feb84aef888c4f326d341961782cca7b42a8fa1a6c504",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-samuel\/15\/7-7.1791265141253.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "o ile a otla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleke"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "ho tloha Khavila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ho ⟨ya⟩ kena ho"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e leng"
+    },
+    {
+      "surface": "על",
+      "gloss": "pela"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pela"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:01.259121135Z",
+  "model": "glm-5.3"
+}

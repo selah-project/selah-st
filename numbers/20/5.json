@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sefate sa pelelo",
+      "rationale": "זרע literally 'seed\/sowing' — rendered as a place-of-sowing expression; the Hebrew says 'not a place of seed, fig, vine, pomegranate', a bare list without 'tree of'"
+    },
+    {
+      "kind": "elision",
+      "subject": "וּמַיִם אַיִן",
+      "rationale": "'and water there is none' — existential אַיִן has no clean Sesotho equivalent, rendered as 'ha ho a lee'"
+    },
+    {
+      "kind": "addition",
+      "subject": "oa",
+      "rationale": "Sesotho needs 'of' after 'none' — 'ha ho a lee oa ho noa' — which the Hebrew lacks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מְקוֹם...מָקוֹם",
+      "rationale": "Repetition of 'place' (this evil place \/ no place of seed) — preserved with 'sebakeng sena' \/ 'sefate sa', though the echo is weakened"
+    }
+  ],
+  "translation": "Mme hobaneng ha le re hisetse ho tloha Mitsrayime, hore le re ise sebakeng sena se mpe? Ha se sefate sa pelelo, kapa sa motoho, kapa sa dimonamone, mme metsing ha ho a lee oa ho noa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f92e53c857b1faf1f14eac005caee37f50f7d41329208fd1131816950a42807f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/20\/5-5.1791264936701.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Mme hobaneng"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ha le re hisetse"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ho tloha Mitsrayime"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "hore le re ise"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ re",
+      "marks": "re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sebakeng sena"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "se mpe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ha se"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sefate sa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pelelo"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "kapa sa motoho"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "kapa sa dimonamone"
+    },
+    {
+      "surface": "ורימון",
+      "gloss": "kapa sa marara"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "mme metsing"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho a lee"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "oa ho noa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:36.708674316Z",
+  "model": "glm-5.3"
+}

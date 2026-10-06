@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na copula; Sesotho se e hlokahala"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "המנחha ke minkha — phaello ea mofuta oa mobu, eseng mpho kapa lekgetho ka kakaretso"
+    },
+    {
+      "kind": "you",
+      "subject": "bana ba Aharone",
+      "rationale": "Taelo e eletsa baprista: hlahisang minkha pele ho Yahwe"
+    }
+  ],
+  "translation": "Mme sena ke ⟨Torah ya⟩ minkha: hlahisang ⟨את⟩ eona bana ba Aharone pele ho Yahwe, ho sefahleho sa aletare.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ec0dba52fe44089fe90053fbf8abf1474f181430d68d3e2ab000a6436b118b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/6\/6-7.1791265876450.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "mme sena"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah ya"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "hlahisang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:16.459154104Z",
+  "model": "glm-5.3"
+}

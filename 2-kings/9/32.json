@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי אתי מי",
+      "rationale": "'Ke mang ⟨את⟩ nna? ke mang?' kapa 'Ke mang ea nang le nna?' — hore na אתי ke POS 'le' kapa POTSO"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ke mang ⟨את⟩ nna?",
+      "rationale": "Yehue o bitsetsa bahloedi ba fensetereng"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סריסים",
+      "rationale": "'bahloeki' — Seheberu se bolela botho ba tlhaho; Sesotho se latela taba, eseng botho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ba babedi ba bararo",
+      "rationale": "pallo e sa hlakang ea bahloeki ba shebileng"
+    }
+  ],
+  "translation": "Mme a phahamisa sefahleho sa hae ho fensetere, mme a re: Ke mang ⟨את⟩ nna? ke mang? Mme ba ne ba shebile ho yena ba babedi, ba bararo, bahloeki.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c46ead29322430f576f2e04594112c3a7fac54da62e506c21c766fc765919652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-kings\/9\/30-33.1791265264630.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "mme a phahamisa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fensetere"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "mme ba ne ba shebile"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ba bararo"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "bahloeki"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:04.634488162Z",
+  "model": "glm-5.3"
+}

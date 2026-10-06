@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "nehemiah 7:69",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikabelo tsa tempole",
+      "rationale": "Lenesa la dintho: khauta, didareke, dipale le dikamiso tsa baprista, ka palo e hlakileng."
+    },
+    {
+      "kind": "crux",
+      "subject": "שלשים וחמש מאות",
+      "rationale": "'Mashome a mararo a mahlano le makholo a hlano' (530); Esera 2:69 e ngola ka tarti e nngwe ( dikamiso di le leshome le metso e mmedi ho feta), phapang e tummang pakeng tsa dipalo tsa Esera le Nehemia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tirshata",
+      "rationale": "התרשתא ke lebitso la maemo ya Moperisia; le bolokwa ka modumo, eseng 'musa' kapa 'tona'."
+    }
+  ],
+  "translation": "Mme karolo ya ditlhogo tsa bo-ntate ba ile ba neha mosebetsing; Tirshata o ile a neha polokong khauta, didareke di le sekete, dipale tse masome a hlano, dikamiso tsa baprista di le mashome a mararo a mahlano le makholo a hlano.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5e8ffeceab30b068c418ab0db0524ef5cd3d8f4620df09cfdbb399402f5066cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/nehemiah\/7\/69-70.1791265698723.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומקצת",
+      "gloss": "mme karolo ya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ditlhogo tsa"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "bo-ntate"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba ile ba neha"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "mosebetsing"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "Tirshata"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o ile a neha"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "polokong"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "khauta"
+    },
+    {
+      "surface": "דרכמנים",
+      "gloss": "didareke"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "di le sekete"
+    },
+    {
+      "surface": "מזרקות",
+      "gloss": "dipale"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "tse masome a hlano"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "dikamiso"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "tsa baprista"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "di le mashome a mararo a mahlano"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makholo a hlano"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:18.739285261Z",
+  "model": "glm-5.3"
+}

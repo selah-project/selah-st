@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joel 4:14",
+  "book": "joel",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hekharus",
+      "rationale": "חרוץ: 'e kgaotseng\/e bileditsweng' (jekhara, ho ja ka potlako) kgahlanong le 'tokomiso\/kahlolo' — lebitso la lefatshe le sa hlakang"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mehleng-haholo, mehleng-haholo",
+      "rationale": "Poelelo ya המונים המונים, e feteletseng maikutlo, e bolokilwe ka boikakaso"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "sekhalong sa hekharutse",
+      "rationale": "Sephetho se boeledwang habelo se koahela moelelo kaofela oa sefoko sa setteng"
+    }
+  ],
+  "translation": "Mehleng-haholo, mehleng-haholo sekhalong sa hekharutse! Hobane letsatsi la Yahwe le haufi sekhalong sa hekharutse.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "88cb85acb39326091c5bb4345783e1aecf2683120936199fa6d8842a0f5d462b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joel\/4\/14-14.1791265462726.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המונים",
+      "gloss": "mehleng-haholo"
+    },
+    {
+      "surface": "המונים",
+      "gloss": "mehleng-haholo"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sekhalong sa"
+    },
+    {
+      "surface": "החרוץ",
+      "gloss": "hekharutse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "le haufi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sekhalong sa"
+    },
+    {
+      "surface": "החרוץ",
+      "gloss": "hekharutse"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:22.727119852Z",
+  "model": "glm-5.3"
+}

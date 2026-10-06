@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 1:14",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "a mo hlohleletsa",
+      "rationale": "ותסיתהו: Aksa a hlohleletsa monna; mokgwa wa Sesotho o hlakisa hore ke eena ya hlohletswang."
+    },
+    {
+      "kind": "you",
+      "subject": "Ho wena ho ntho e fe kapa eng?",
+      "rationale": "Potsiso ea Kalebe e bitlang Aksa ka kotloloho — maה לך ke puo ya pota."
+    }
+  ],
+  "translation": "Mme e bile ha Aksa a fihla ho yena, a mo hlohleletsa hore a kope ho ⟨את⟩ ntatae seala; mme a theoha holima sesole, mme Kalebe a re ho eena: Ho wena ho ntho e fe kapa eng?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d8f944775a505d6cca9c625a24d29d229d14fd7f7ce7e8befbb3f132f0563490",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/1\/14-15.1791265130456.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme e bile"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "ha a fihla"
+    },
+    {
+      "surface": "ותסיתהו",
+      "gloss": "a mo hlohleletsa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "hore a kope"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ho ⟨את⟩"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ntatae"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "seala"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "a theoha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "holima"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:50.463781994Z",
+  "model": "glm-5.3"
+}

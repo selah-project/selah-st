@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 31:6",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצרים",
+      "rationale": "Bahlodi ba fapana: 'batlwasisi' (watchmen) kgahlanong le 'balimi' (ba tlodisang mindi, ho tswa motsong wa ugaritik ntr); ke khetho ya pele ka KJV\/JPS."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Tsohang, mme re esohe re ya Tsiyone",
+      "rationale": "Mantswe a bitsoang a mengata a sheba batho ho tloha thabeng ya Efrayime — mamello e tsamaisang batho."
+    },
+    {
+      "kind": "addition",
+      "subject": "ba re",
+      "rationale": "Seheberu se buisana ka tsela e tobileng; seholo sa puo se ekeditswe ho bontsha hore mantswe a latelang ke puo ya batlwasisi."
+    },
+    {
+      "kind": "you",
+      "subject": "Tsohang",
+      "rationale": "Taelo e tobileng ho Yisraele ba pholohang, e buiswang ke batlwasisi."
+    }
+  ],
+  "translation": "Hobane ho teng letsatsi leo batlwasisi ba tlang ho bina ka lona thabeng ya Efrayime, ba re: Tsohang, mme re esohe re ya Tsiyone, ho Yahwe Elohim wa rona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "05a44f030fcf69fecb86d54bd607631da880a73d80cd9724151ab7aca5b5554d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/31\/6-6.1791265335728.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ho teng"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ba tlang ho bina"
+    },
+    {
+      "surface": "נצרים",
+      "gloss": "batlwasisi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efrayime"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "tsohang"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "mme re esohe re ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:15.730140464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 21:22",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kopo ea ho feta",
+      "rationale": "Mola o bua ka mokhoa oa kopo — Yisraele o kopa Sihone tumelelo ea ho feta."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Sihone",
+      "rationale": "Mola o lebisa polelo ea kopo ho morena Sihone oa Baamore."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מי באר",
+      "rationale": "Seheberu se bolela metsi a sediba e le 'ngoe (bongata); baqapi ba bang ba ngola 'lisediba' ka bongata."
+    }
+  ],
+  "translation": "A re fete ka lefatshe la hau: re ke ke ra sesefella ka tsimong kapa ka mofeng oa morara, re ke ke ra noa metsi a sediba; re tla tsamaea tsela ea morena, ho fihlela re feta moeli oa hau.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "225b637c012cddfacc1441069fbadfa0d71ab6c66615699115f19d69ba991032",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/21\/22-22.1791264974683.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "a re fete"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ka lefatshe la hau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "re ke ke ra"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "sesefella"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ka tsimong"
+    },
+    {
+      "surface": "ובכרם",
+      "gloss": "kapa ka mofeng oa morara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "re ke ke ra"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "noa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "metsi a"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sediba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ea morena"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "re tsamaea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נעבר",
+      "gloss": "re feta"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "moeli oa hau"
+    }
+  ],
+  "timestamp": "2026-10-06T05:36:14.687540049Z",
+  "model": "glm-5.3"
+}

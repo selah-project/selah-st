@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומוקש אין לה",
+      "rationale": "Lit. 'mme selodi ha ho sa eona' — diphetho tsa kajeno di fapana: 'selodi' (mokeli), 'leseli' (JPS), 'ntho e hodileng' (BSB)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לכוד\/ילכוד",
+      "rationale": "Phetoho ea lentsoe le le leng le phetaletsoe: 'ho tshwara \/ se tshware' — moralo o timetse ka Sesotho"
+    },
+    {
+      "kind": "invitation",
+      "subject": "dipotso",
+      "rationale": "Mongodi o botsa mobadi ka dipotso tse peli tse tsamaisang molato oa hore kotlo e latela libe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האדמה",
+      "rationale": "'lefatsheng' — Hebrew e bolela mobu o mokhibidu, ho fapana le הארך 'lefatše' e holimo"
+    }
+  ],
+  "translation": "Na e tla wa tshepe e phahameng holim'a sefutha sa ⟨את⟩ lefatshe, mme selodi se se na letho bakeng sa eona? Na sefutha se tla phahamoha ho tloha ⟨מן⟩ lefatshe, mme se sa tshware letho?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "04540ea56e176bcd7d011b662c55c487ea542efaef919637450054d4e157b10d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/amos\/3\/5-5.1791265443966.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "Na e tla wa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "tshepe"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "פח",
+      "gloss": "sefutha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "mme selodi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "se se na letho"
+    },
+    {
+      "surface": "לה",
+      "gloss": "bakeng sa eona"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "se tla phahamoha"
+    },
+    {
+      "surface": "פח",
+      "gloss": "sefutha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "mme ho tshwara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha se"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "tshware"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:03.967442633Z",
+  "model": "glm-5.3"
+}

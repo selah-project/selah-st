@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 10:18",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחל",
+      "rationale": "חלל ya bolela 'ho bula\/ho qala' — diqeto tse ngwe di re 'ho qala' (KJV) kapa 'ho hlasela' (BSB); 'ho qala' e bolokile sebopeho sa lentsoe."
+    },
+    {
+      "kind": "alternative",
+      "subject": "העם שרי גלעד",
+      "rationale": "YLT e arola: 'setjhaba — barekisi ba Gileade'; qeto e tjee e bolela hore barekisi ke setjhaba se itseng."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלעד",
+      "rationale": "Lebitso Gileade le feta makgetlo a mmedi hopletse — sefoko se boetse se hlaha qetellong ya predika, se hlahisang tekano."
+    }
+  ],
+  "translation": "Mme setjhaba, barekisi ba Gileade, ba re mong le e mong ho mogaudi wa hae: Ke motho ofe ya tlang ho qala ho lwa le bana ba Ammone? Yena o tla ba hlooho ya baahi bohle ba Gileade.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "dc4d556d80a8c03067ea1443e0921adb01e06e9bd7cf57d6b3bb5c2615bb6ae0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/10\/18-18.1791265106177.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "barekisi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileade"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le e mong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mogaudi wa hae"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ofe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "tlang ho qala"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ho lwa"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammone"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "hlooho ya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bohle ba"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baahi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileade"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:26.183625874Z",
+  "model": "glm-5.3"
+}

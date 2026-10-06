@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hohle",
+      "rationale": "Seheberu se na le כל feela; sebopeho sa Sesotho se hloka sehlomathiso"
+    },
+    {
+      "kind": "crux",
+      "subject": "ליש",
+      "rationale": "Seheberu se na le mabitso a tau a mane: לישׁ ke tau e moholo\/e thata; diphetholelo di fapana ('strongest' kgahlanong le 'old lion')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dibeoa",
+      "rationale": "בהמה ke phoofolo efe kapa efe e kgolo, eseng feela 'beast' ka boemo bo bobe"
+    }
+  ],
+  "translation": "Tau — e matla hara dibeoaaa, mme ha e sokololele sefatong sa ⟨hohle⟩.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "e46ea96e9ee668703da85e735a1a581a49ea374a02e662f63afe8f9991a64db9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/proverbs\/30\/30-30.1791265624563.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "tau"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "e matla"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "hara dibeoaaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "e sokololele"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sefatong sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hohle"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:04.564117472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 39:23",
+  "book": "job",
+  "lang": "st",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leseli la lerumo",
+      "rationale": "להב ke 'kganya e phalla' — e fetotswe ho 'leseli la lerumo', tlhaho ea lentswe e bolokilwe ka karolo ea 'leseli'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תרנה",
+      "rationale": "Tiriso e sa tlwaelehang ea רנה — ho etsa modumu o mobo, oa 'ho retla' bakeng sa sehlaha"
+    }
+  ],
+  "translation": "Hodima yena sehlaha sa dipopo se retla; leseli la lerumo, le thollo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ec74c4c8b07f960337a631d7fa7faee2066975f41f516756c8852117966e55e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/39\/23-24.1791265657877.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "hodima yena"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "se retla"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "sehlaha sa dipopo"
+    },
+    {
+      "surface": "להב",
+      "gloss": "leseli la"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "lerumo"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "le thollo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:37.880807905Z",
+  "model": "glm-5.3"
+}

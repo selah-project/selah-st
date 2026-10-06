@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "le",
+      "rationale": "Sesotho e hloka lihlapa tsa kopanyo tseo Seheberu se di senang"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sekhutlofole",
+      "rationale": "רקיע ke 'tse botlang' — Sesotho se se na lentswe le le leng; mme ke sengolo sa Sesotho, eseng transliteration"
+    },
+    {
+      "kind": "crux",
+      "subject": "ha di eme, di ne di tlositse",
+      "rationale": "KJV 'had let down' (pele) kgahlanong le ASV\/JPS 'when they stood, they let down' (kamora); nako ya Seheberu e sa hlaka"
+    }
+  ],
+  "translation": "Mme ho ile ha ba ⟨le⟩ lentswe ho tloha hodima sekhutlofole sa hodimo dihlogong tsa tsona; ha di eme, di ne di tlositse mariba tsa tsona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "6e9751fd119ea7f2bc37580107c11980560f66263199e888e65615cf89435706",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/1\/25-25.1791265363640.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ho ile ha ba"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ho tloha hodima"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sekhutlofole sa hodimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "dihlogong tsa tsona"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "ha di eme"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "di ne di tlositse"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "mariba tsa tsona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:43.641799856Z",
+  "model": "glm-5.3"
+}

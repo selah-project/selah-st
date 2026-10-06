@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 51:6",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמו כן",
+      "rationale": "כֵּן e ka bolela 'menotlwe' (gnat, jwaloka YLT le BSB) kapa 'jwalalo' feela (KJV, JPS); moelelo wa seroma o tlameha ho bolokwa."
+    },
+    {
+      "kind": "hapax",
+      "subject": "כן",
+      "rationale": "כֵּן jaaka 'menotlwe' e hlaha mona feela ho Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נמלחו",
+      "rationale": "מלח ha e 'bolelwa ka letswai' mona; e bolela ho phatloha le ho nyamela jwaloka mosi."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Lloleng mahodimong maso a lona",
+      "rationale": "Taello e tobileng ho basebeletsi ba Yahwe ba phofutsitsweng (Isaiah 51:7 ba latela)."
+    },
+    {
+      "kind": "you",
+      "subject": "ba dulang ho lona",
+      "rationale": "Sehlomathiso se ekeditsweng bakeng sa sebopeho sa Seheberu וישביה (ba dulang ho lona)."
+    }
+  ],
+  "translation": "Lloleng mahodimong maso a lona, mme le tlale lefatsheng fatshe; hobane mahodimo a tla nyamela jwaloka mosi, mme lefatshe le tla bola jwaloka diaparo, mme ba dulang ho lona ba tla swa jwaloka menotlwe; empa tolokolo ya ka e tla ba ho ya ho sa feleng, mme tsedeke ya ha e ke ke ya otsela.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "7869a242e274182fef486ce06452ce04116a61d8a99cea7776e92212bb37c050",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/51\/6-6.1791265303543.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Lloleng"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "maso a lona"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "mme le tlale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "fatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "כעשן",
+      "gloss": "jwaloka mosi"
+    },
+    {
+      "surface": "נמלחו",
+      "gloss": "a tla nyamela"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mme lefatshe"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "jwaloka diaparo"
+    },
+    {
+      "surface": "תבלה",
+      "gloss": "le tla bola"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "mme ba dulang ho lona"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "menotlwe"
+    },
+    {
+      "surface": "ימותון",
+      "gloss": "ba tla swa"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "empa tolokolo ya ka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho ya ho sa feleng"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "mme tsedeke ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "otsela"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:43.544821801Z",
+  "model": "glm-5.3"
+}

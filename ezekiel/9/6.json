@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 9:6",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחלו \/ ויחלו",
+      "rationale": "Matšoao a a ipoeletsa a motso o mong (חלל): 'qala' le 'ho hlekehleka' — Sesotho se latolla papadi ena"
+    },
+    {
+      "kind": "crux",
+      "subject": "למשחית",
+      "rationale": "'ho timetso' — kapa moeameli wa timetso (mongodi) jwalo ka ha a entswe Setjhabeng"
+    },
+    {
+      "kind": "you",
+      "subject": "ba bolai",
+      "rationale": "Tafole ena e laela ba rometsweng ho bolaea ka ho toba"
+    },
+    {
+      "kind": "substitution",
+      "subject": "letshoao",
+      "rationale": "התו — letshoao la tav, thwii; ba bang ba bona e le tlhaku ya feletseng ya alefube"
+    }
+  ],
+  "translation": "Moqhelekane, mocha le motsallana, le bana ba nyane le basadi — bolaelang ⟨ba bolae⟩ ho timetso; empa ho motho ofe kapa ofe ya nang le letshoao hodima ea, le se ke la mo atamela; mme qalang ho tloha sehalalelong sa ka. Mme ba qala ka banna ba baholo ba neng ba eme pele ga ntlo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "01d6e593afcd590c2a2ae0e2e976b7f7503d661f58c1933e2a6ade63c6815f1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/9\/6-6.1791265376959.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "moqhelekane"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "mocha"
+    },
+    {
+      "surface": "ובתולה",
+      "gloss": "le motsallana"
+    },
+    {
+      "surface": "וטף",
+      "gloss": "le bana ba nyane"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "le basadi"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "bolaelang"
+    },
+    {
+      "surface": "למשחית",
+      "gloss": "ho timetso"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "empa ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ofe kapa ofe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hodima ea"
+    },
+    {
+      "surface": "התו",
+      "gloss": "letshoao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "la mo atamela"
+    },
+    {
+      "surface": "וממקדשי",
+      "gloss": "mme ho tloha sehalalelong sa ka"
+    },
+    {
+      "surface": "תחלו",
+      "gloss": "qalang"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "mme ba qala"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "ka banna"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ba baholo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:56.960981399Z",
+  "model": "glm-5.3"
+}

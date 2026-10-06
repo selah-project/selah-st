@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 44:27",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "<a>",
+      "rationale": "Sesotho se hloka seshwathiswa; Seheberu se na le ha e feela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mosebetsi oa likhoka",
+      "rationale": "חטאת e bolela botho kapa mesebetsi oa likhoka ka bobedi; khethollo e timetse"
+    },
+    {
+      "kind": "crux",
+      "subject": "החצר הפנימית",
+      "rationale": "'sehalalelang sa ka hare' — hare feta felo; חצer ke 'lesire' kapa 'ho lokeloa' feela, eseng sehalalelang ka boeona"
+    }
+  ],
+  "translation": "Mme ka letsatsi la ho kena hae ha sehalalelang, ho <a> sehalalelang sa ka hare, ho tumela sehalalelong, o tla hlahisa mesebetsi wa hae oa likhoka, ho bolela Adonai Yahwe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0371cc4905a6a13bf09259e071868c0b9f021f110472e09d6246a0a23fb72936",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/44\/27-27.1791265392313.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Mme ka letsatsi la"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ho kena hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "<a> sehalalelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sehalalelang sa ka hare"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "sa ka hare"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ho tumela"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sehalalelong"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "o tla hlahisa"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "mosebetsi wa hae oa likhoka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:12.314890519Z",
+  "model": "glm-5.3"
+}

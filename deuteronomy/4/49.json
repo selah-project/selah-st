@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "meo ya mobu",
+      "rationale": "Moelelo o ntsha meelo ya mobu: ho tloha Yaratane ho ya lewatle la Bochahele, ho fihlela Piseka."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשדת",
+      "gloss_check": "אֲשֵׁדָה",
+      "rationale": "KJV 'springs' kgahlanong le 'slopes' (ASV\/JPS); lentsoe le bolela mehlaba kapa melambo ea thoko."
+    }
+  ],
+  "translation": "le Bochahele bohle bongata, bo fatheheng bja Yaratane, ka bochabela, ho fihlela lewatle la Bochahele, tlasa mehlaba ya Piseka.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b0aae1d560b7461da2acbdb04026c4c42f23b2b49c82b0fa1f3f8d2a8fb9e1c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/4\/49-49.1791265052231.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "le ... bohle"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Bochahele"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "bo fatheheng"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "bja Yaratane"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ka bochabela"
+    },
+    {
+      "surface": "וועד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "la Bochahele"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlasa"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "mehlaba"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "ya Piseka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:32.236621566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 34:8",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨the⟩",
+      "rationale": "Seheberu se na le sehlopha se tsamaelanang; Sesotho se hloka senotlolo pele ga ntlo ya bobedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "לטהר",
+      "rationale": "ho hlatsoa (ha e sa phethahala) kgahlanong le ho hlatsoa e phethahetseng — sebaka sa tshebediso"
+    },
+    {
+      "kind": "measurement",
+      "subject": "boleshome-pedi le robedi",
+      "rationale": "ho balwa ha dilemo tsa puso ya morena"
+    }
+  ],
+  "translation": "Mme selemong sa boleshome-pedi le robedi ya pusong ya hae, hore a hlatsoetse lefatshe le ⟨the⟩ ntlo, o ile a romella ⟨את⟩ Shafane mora wa Atsaliahu, le ⟨את⟩ Maaseiahu mookamedi wa toropo, le ⟨את⟩ Yoakhe mora wa Yoakhaze mogakolodi, hore ba tiise ⟨את⟩ ntlo ya Yahwe Elohim ya hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9f7794851d84a98d3620b86d42b2e7c3ad1c9ffc17bca9a4ed8d2459a41277be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/34\/8-9.1791265825780.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "Mme selemong sa"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "robedi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "boleshome-pedi"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "ya pusong ya hae"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "hore a hlatsoetse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "le ntlo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o ile a romella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shafane"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "אצליהו",
+      "gloss": "Atsaliahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Maaseiahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseiahu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa toropo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yoakhe"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Yoakhe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yoakhaze"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "mogakolodi"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "hore ba tiise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim ya hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:25.813066269Z",
+  "model": "glm-5.3"
+}

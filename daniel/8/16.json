@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hara tse pedi tsa Ulai",
+      "rationale": "bein ulai: 'between the Ulai' kapa 'between the banks of the Ulai' — KJV eketsa 'banks', YLT siea feela 'hara Ulai'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sebono",
+      "rationale": "hamar'eh ke 'ponahalo\/sethingo' — ponahalo eo e bonweng, eseng 'toro'."
+    },
+    {
+      "kind": "elision",
+      "subject": "להלז",
+      "rationale": "'ya mong le mong' — lentswe la Sesotho le hlokahala; Seheberu le tshwere ka lentswe le le leng feela."
+    },
+    {
+      "kind": "addition",
+      "subject": "tse pedi",
+      "rationale": "bein ke 'hara' ka bobedi — 'tse pedi tsa Ulai' ho hlalosa 'hara mekokoana' eo KJV e eentseng; Sesotho se hloka ho hlakisa."
+    }
+  ],
+  "translation": "Mme ke utlile modumo wa motho hara tse pedi tsa Ulai, mme a bitsa, mme a re: Gavriyele, utlwisisa ⟨את⟩ sebono sena ho ya mong le mong.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "54a3b849134fbc565bab75a6732dfa355680f5a8e3a015baea8e566aff2e4c45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/daniel\/8\/16-16.1791265695925.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "mme ke utlile"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hara"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Ulai"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mme a bitsa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gavriyele"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "utlwisisa"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "ho ya mong le mong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebono sena"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "sebono sena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:15.928125547Z",
+  "model": "glm-5.3"
+}

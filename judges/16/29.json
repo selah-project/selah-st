@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 16:29",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dipilare tsa mahare",
+      "rationale": "התוך: 'tsa mahare' (middle) kgahlanong le 'tsa bohareng' — dipilare tse bedi tse tsamaisang ntlo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a tshwara ka matla",
+      "rationale": "וילפת ka boomo e re 'ho kgotloloha\/hapaanya' — 'tshwara ka matla' ke tlhaloso ya ka hara taba"
+    }
+  ],
+  "translation": "Mme Shimshone a tshwara ka matla ⟨את⟩ dipilare tse pedi tsa mahare, tseo ntlo e neng e eme hodima tsona, mme a ikhantsha hodima tsona, e nngwe ka letsogo la hae la ja mmoho, mme e nngwe ka la molema.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "017c640f65879d52b46ea83675e29abbbd1a9c52b9c4062751962753fa0b026b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/16\/29-30.1791265108036.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילפת",
+      "gloss": "a tshwara ka matla"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipilare tse pedi tsa mahare"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "dipilare"
+    },
+    {
+      "surface": "התוך",
+      "gloss": "tsa mahare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e neng e eme"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hodima tsona"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "mme a ikhantsha"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hodima tsona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "ka letsogo la hae la ja mmoho"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "mme e nngwe"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "ka la molema"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:28.046348047Z",
+  "model": "glm-5.3"
+}

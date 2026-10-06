@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 25:33",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morara-hape",
+      "rationale": "לְדֹמֶן ke 'morara' — sela se bolang-hape; phetolelo e latela sebopeho sa lentswe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקצה...קצה",
+      "rationale": "pheto ya 'qetella...qetellong' e tswela pele ka Sesotho e le mokgwa wa boholo"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לדמן",
+      "rationale": "lentswe lena le hlaha mona feela ho Tanakh"
+    }
+  ],
+  "translation": "Mme ba tlotsweng-kahoo ba tla ba ba ba bolailweng ke Yahwe ka letsatsi leo, ho tloha ho qetella ya lefatshe ho fihlela qetellong ya lefatshe; ba ke ke ba lla bao ba tlhotsweng, ba ke ke ba bokelwa, ba ke ke ba hlomphwa ka phutheho; ba tla ba le morara-hape ka ho etsa sebaka sa lehlabaphio le fatse.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b99f9308ed86a098efa6461239b0a5f3c026c8755939184fc7ac2d5596405c81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/25\/33-35.1791265379921.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "mme ba tla ba"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ba bolailweng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ho tloha ho qetella"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "qetellong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba ke ke"
+    },
+    {
+      "surface": "יספדו",
+      "gloss": "ba lla bao ba tlhotsweng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ke ke"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "ba bokelwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba ke ke"
+    },
+    {
+      "surface": "יקברו",
+      "gloss": "ba hlomphwa ka phutheho"
+    },
+    {
+      "surface": "לדמן",
+      "gloss": "morara-hape"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ho etsa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sebaka sa lehlabaphio"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "le fatse"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba tla ba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:59.922838767Z",
+  "model": "glm-5.3"
+}

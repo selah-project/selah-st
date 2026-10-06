@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 7:1",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "meaha e supileng",
+      "rationale": "Sebaka sena se bala meaha e supileng ka lebitso — palo e sa feleng."
+    },
+    {
+      "kind": "you",
+      "subject": "o",
+      "rationale": "Sebaka se sebisetswa Yisraele ka bobedi — o isa, o eang, ka pel'a hao."
+    },
+    {
+      "kind": "crux",
+      "subject": "לרשתה",
+      "rationale": "ריש\/ירש: ho nka kapa ho hlahisa moaha ka ho mmalla — 'ho ba monga hae' kgahlanong le 'ho rua joalo ka ka tlhaho'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גוים...גוים רבים...רבים",
+      "rationale": "Phetoho ea meaha ka Bobedi ka meaha le e mengata — mokgwa o tšoanang, o bontšang meaha e tšeletseng."
+    }
+  ],
+  "translation": "Ha Yahwe Elohim wa hao a o isa lefatsheng leo o eang ho e ⟨את⟩ nka kapa ho e hlahisa, mme a ntsha meaha e mengata ka pel'a hao — Mohiti, le Mogerageshi, le Moamori, le Mokenana, le Moperizi, le Mohivi, le Mojebusi — meaha e supileng, e mengata mme e matla ho feta wena:",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4cff1d02f0412d71024108d28b3846eafd8fd676b17f3e2a43c78cec438b5701",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/7\/1-1.1791265046437.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "a o isa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eang"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ho e"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "⟨את⟩ nka kapa ho e hlahisa",
+      "marks": "moaha kapa lefatshe"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "mme a ntsha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "meaha"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "e mengata"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ka pel'a hao"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mohiti"
+    },
+    {
+      "surface": "והגרגשי",
+      "gloss": "le Mogerageshi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "le Moamori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "le Mokenana"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "le Moperizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "le Mohivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le Mojebusi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "e supileng"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "meaha"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "e mengata"
+    },
+    {
+      "surface": "ועצומים",
+      "gloss": "mme e matla"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ho feta wena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:26.444072404Z",
+  "model": "glm-5.3"
+}

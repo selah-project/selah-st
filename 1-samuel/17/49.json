@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-samuel 17:49",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "phahamo",
+      "rationale": "מצח ke sefahleho sa phahamo (halahallo ya mahlo), eseng 'phahamo' ka ho feletseng; Sesotho se na le lentswe le lecha"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקלע",
+      "rationale": "ho lofo ka thele — 'sling' e bolela ho thunya ka thele; ba fetoleli bang ba re 'a e lofo', ba bang 'a e hlahisa ka thele'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על פניו ארצה",
+      "rationale": "putlama fatshe — litshwalehang: 'a wa ho sefahleho sa hae ho lefatshe'"
+    }
+  ],
+  "translation": "Mme Dawide a romolla ⟨את⟩ letsoho la hae ho sesepa, mme a nka moo lejoe, mme a le lofo ka thele, mme a otla ⟨את⟩ Mofiletse hodima phahamong ya hae; mme lejoe le nyamela ho phahamo ya hae, mme a wa o putlama fatshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9e2f4dc7c1f7bdf9e3c6969c992e806eed6e5720c7828221aafad85a13cdce60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-samuel\/17\/49-49.1791265187049.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romolla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsoho la hae"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "sesepa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mme a nka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "lejoe"
+    },
+    {
+      "surface": "ויקלע",
+      "gloss": "mme a lofo ka thele"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mme a otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mofiletse"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Mofiletse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מצחו",
+      "gloss": "phahamong ya hae"
+    },
+    {
+      "surface": "ותטבע",
+      "gloss": "mme le nyamela"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "lejoe"
+    },
+    {
+      "surface": "במצחו",
+      "gloss": "ho phahamo ya hae"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "mme a wa"
+    },
+    {
+      "surface": "על",
+      "gloss": "o putlama"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ho sefahleho sa hae"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "fatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:47.055593583Z",
+  "model": "glm-5.3"
+}

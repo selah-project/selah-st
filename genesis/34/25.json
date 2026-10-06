@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 34:25",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בטח",
+      "rationale": "KJV\/BSB 'boldly' kgahlanong le JPS\/ASV 'unawares' — Sesotho 'ka tshireletso' boloka tlhaho ya lentsoe (polokeho\/botlhaho)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "banna",
+      "rationale": "זכר ke 'botsana' (male), eseng 'banna' ka kakaretso — bophara bo timetse ka tsela e nyenyane."
+    },
+    {
+      "kind": "addition",
+      "subject": "motho mongwe le mongwe",
+      "rationale": "איש חרבו ke sephetho se arohaneng ('motho hlaha ya hae'); Sesotho o hloka mantse a mangata ho boalwa."
+    }
+  ],
+  "translation": "Mme e bile ka letsatsi la boraro, ha ba ntse ba le bohlokong, barwa ba Yaakobo ba babeli, Shimeone le Leivi, bokhaitsedi ba Dina, ba ile ba nka motho mongwe le mongwe hlaha ya hae, ba tla hodima toropo ka tshireletso, mme ba bolaya banna bohle.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "66d211ac221147462d12068c748016afb2daa2f7a55e8fbe044bb97443cc4b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/34\/25-25.1791264719979.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "la boraro"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "ha ba ntse ba le"
+    },
+    {
+      "surface": "כאבים",
+      "gloss": "bohlokong"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ba ile ba nka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ba babeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeone"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "le Leivi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bokhaitsedi"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho mongwe le mongwe"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "hlaha ya hae"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ka tshireletso"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "ba bolaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "banna"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:59.993428503Z",
+  "model": "glm-5.3"
+}

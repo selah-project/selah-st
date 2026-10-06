@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 4:1",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Mamelang",
+      "rationale": "Puo e bula ka kopa ho mamela: 'Mamelang lentswe le' — mosebetsi wa ho bitsha mobadi."
+    },
+    {
+      "kind": "you",
+      "subject": "dinama tsa Bashane",
+      "rationale": "Tlhahlobo e tobile ho basadi ba maemo a hodimo ba Shomrone, ba bitsoang 'dinama' ka tshwantshiso."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשן \/ Bashane",
+      "rationale": "Bashane e ne e le sebaka sa dinama tse nonneng; tshwantshiso e tobile ebile e nyatsa — 'dinama tsa Bashane' eseng 'basadi ba Shomrone' ka ho toba."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרות",
+      "rationale": "Boima bja puo: basadi ba bitsoa dinama tse nonneng tse jeleng bokgotsi bja dimilione tse nyabotswang — setshwantshiso se se nang thobalano, se sieang Sesothong."
+    }
+  ],
+  "translation": "Mamelang lentswe le, lona dinama tsa Bashane tse dile thabeng ya Shomrone, tse khotsokeletsang ba fokolang, tse phatlohang ba hlokang, tse reng ho beng tsa tsona: Isa mme re noe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "cc68cbc83675aa4345853d9519aab90b4254fdee06efed5d00e9dc789498ad38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/amos\/4\/1-2.1791265473012.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mamelang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "dinama"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "tsa Bashane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomrone"
+    },
+    {
+      "surface": "העשקות",
+      "gloss": "tse khotsokeletsang"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ba fokolang"
+    },
+    {
+      "surface": "הרצצות",
+      "gloss": "tse phatlohang"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ba hlokang"
+    },
+    {
+      "surface": "האמרת",
+      "gloss": "tse reng"
+    },
+    {
+      "surface": "לאדניהם",
+      "gloss": "ho beng tsa tsona"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "Isa"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "mme re noe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:33.014529499Z",
+  "model": "glm-5.3"
+}

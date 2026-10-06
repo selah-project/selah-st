@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "‹ka›",
+      "rationale": "Seheberu se na le אלי (hobosongoa ho ka) se nang le sereti se hlokahalang ho Sesotho"
+    },
+    {
+      "kind": "you",
+      "subject": "mathubi le mafatshe",
+      "rationale": "Tumelano e tobileng le batho ba hole, e bitsa ba mamelang"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Mameleng... le re keleng",
+      "rationale": "Meela ya tumelano e mocheng, e bitsa ba mamelang"
+    }
+  ],
+  "translation": "Mameleng, O mathubi, ho ‹ka›; mafatshe a hole, le re keleng: Yahwe o ntsebitse ho tloha mminong; ho tloha maleng a mme oa ka o ile a nkgopotsa lebitso la ka.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "dd65de30e2a418008d66ca94f6afe41b7938581dffe52fe482e459e90150ea7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/49\/1-2.1791265317239.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mameleng"
+    },
+    {
+      "surface": "איים",
+      "gloss": "O mathubi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho ‹ka›"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "le re keleng"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mafatshe"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "a hole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ho tloha mminong"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "o ntsebitse"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ho tloha maleng"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "a mme oa ka"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "o ile a nkgopotsa"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "lebitso la ka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:57.241630299Z",
+  "model": "glm-5.3"
+}

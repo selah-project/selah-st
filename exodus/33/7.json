@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 33:7",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "והיה",
+      "rationale": "'mme ho ile ha etsahala hore' — seheberu se bolela 'mme e bile', mokgwa wa ho qala o tlwaelehileng"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבקש יהוה",
+      "rationale": "'ya batlang Yahwe' — ba bang ba balwa 'ya botsetsang Yahwe' (ho botsisisa ka potso); botebo ba puo bo se nang sehlomathiso"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אהל מועד",
+      "rationale": "'Tenta ya Kopano' — moelelo o tlwaelehileng wa 'ohel moʿed', tenta ya nako ya ho kopana"
+    },
+    {
+      "kind": "addition",
+      "subject": "o ne a",
+      "rationale": "imperfect ya mehla (yiqtol ya mokgwa) — KJV\/ASV 'used to take'; Sesotho e hlahisa boemo ka 'o ne a'"
+    }
+  ],
+  "translation": "Mme Moshe o ne a nka ⟨את⟩ tenta, a e hlahisa bakeng sa hae ka ntle ho motsing, hole le motsing, mme a e bitsa Tenta ya Kopano; mme ho ile ha etsahala hore mong le mong ya batlang Yahwe o tswa a ea Tenta ya Kopano, eo e neng e le ka ntle ho motsing.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "041fe44cc4b733932a04b22c844c4830d7449c3b08f95c157ea5560504edbe55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/33\/7-8.1791264853494.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Mme Moshe"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o ne a nka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenta"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tenta"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "a e hlahisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bakeng sa hae"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ho motsing"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "hole"
+    },
+    {
+      "surface": "מן",
+      "gloss": "le"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "motsing"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "a e bitsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yona"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tenta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kopano"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme ho ile ha etsahala hore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ya batlang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tswa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a ea"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tenta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kopano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "e neng e le ka ntle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ho motsing"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:13.501503918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 17:2",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "list of clans",
+      "rationale": "Tlhoko ya maina a malapa — ho bala ho tlohabakeng sa kgetho ya lefatshe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני ... בני",
+      "rationale": "Phetiso e boeledwa: 'ho bana ba' habelo-6, mokgoa wa Seheberu wa ho boloka sebopeho, o bolokwa ka ho boeledwa."
+    },
+    {
+      "kind": "addition",
+      "subject": "banna",
+      "rationale": "הזכרים ke lentswe la Seheberu; ⟨banna⟩ ka masakana hobane Sesotho se hloka mokgwa o tlwaelehileng."
+    }
+  ],
+  "translation": "Mme ho bana ba Menashe ba setseng ho tloha bakeng sa malapa a bona: ho bana ba Abi'ezere, le ho bana ba Kheleke, le ho bana ba Asri'ele, le ho bana ba Shekeme, le ho bana ba Khefere, le ho bana ba Shemida; bana ke bana ba Menashe, mora wa Yosefe, ⟨banna⟩ ka malapa a bona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "889e42422b905bf236d47ef45f771aa607f60cd2929683624aadf0341f647efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/17\/1-2.1791265127861.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho ne ho na le"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "ba setseng"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ho tloha bakeng sa malapa a bona"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho bana ba"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abi'ezere"
+    },
+    {
+      "surface": "ו לבני",
+      "gloss": "le ho bana ba"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "Kheleke"
+    },
+    {
+      "surface": "ו לבני",
+      "gloss": "le ho bana ba"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Asri'ele"
+    },
+    {
+      "surface": "ו לבני",
+      "gloss": "le ho bana ba"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekeme"
+    },
+    {
+      "surface": "ו לבני",
+      "gloss": "le ho bana ba"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Khefere"
+    },
+    {
+      "surface": "ו לבני",
+      "gloss": "le ho bana ba"
+    },
+    {
+      "surface": "שמידע",
+      "gloss": "Shemida"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ke bana ba"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka malapa a bona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:47.879947344Z",
+  "model": "glm-5.3"
+}

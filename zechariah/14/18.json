@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "zechariah 14:18",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא עליהם",
+      "rationale": "Hebrew is elliptical: 'not on them' — KJV supplies 'rain', JPS 'overflow (the Nile)', others 'plague'; Sesotho renders it elliptically with a supplied hinge."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מגפה\/יגף",
+      "rationale": "Noun and verb from the same root נגף (plague\/to smite) — the plague that plagues; Sesotho 'sefehla\/hlasela' loses the root echo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "חג הסכות",
+      "rationale": "Verse names a fixed festival (Khag ya Sukothe) as the appointed time of pilgrimage."
+    }
+  ],
+  "translation": "Mme haeba lelapa la Mitsrayime le sa hoele, mme le sa tlo, mme e se be ⟨hohle⟩ ho tsona: e tla ba sefehla seo Yahwe a tla hlasela ka sona ⟨את⟩ ditjhaba tse sa holog ho tletsa ⟨את⟩ khag ya Sukothe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2dda89d9499294c3f12bb579c14806eb38e16d98f25c8748189cc67ddf69ac12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/zechariah\/14\/18-20.1791265562889.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme haeba"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le sa"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "hoele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme le sa"
+    },
+    {
+      "surface": "באה",
+      "gloss": "tlo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme e se be"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "sefehla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "a tla hlasela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditjhaba"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "holog"
+    },
+    {
+      "surface": "לחג",
+      "gloss": "ho tletsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khag"
+    },
+    {
+      "surface": "חג",
+      "gloss": "khag"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "ya Sukothe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:02.892071294Z",
+  "model": "glm-5.3"
+}

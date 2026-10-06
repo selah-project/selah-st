@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שרף ... ישרף",
+      "rationale": "E-bileana ho qala le ho qetela ha temana ka motsotsana o mong le o mong wa ho chesa (śaraf ... yiśarof), seke se le se ntho e le 'ngoe"
+    },
+    {
+      "kind": "crux",
+      "subject": "על פרשה",
+      "rationale": "'hodima maswi a yona' (KJV\/ASV) kgahlanong le 'ka ntle ho maswi a yona' (YLT, melaong ea Seheberu ea mmuso)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "moalo",
+      "rationale": "Temane ena e hlalosa mokhoa oa bhilika 'ngoe le 'ngoe ea setšo sa phoofolo ea holimo, e le kholo ea semolumo"
+    }
+  ],
+  "translation": "Mme a chesa ⟨את⟩ phofu mahlong a hae: ⟨את⟩ letlalo la yona, le ⟨את⟩ nama ya yona, le ⟨את⟩ madi a yona — hodima maswi a yona o tla e chesa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "287d10184d0e64f52543b67ca3791fd52f08a35a2b4017c98b881a6746a5b37f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/19\/5-6.1791264972692.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "mme a chesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phofu"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "phofu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "mahlong a hae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letlalo la yona"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "letlalo la yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "nama ya yona"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "nama ya yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "madi a yona"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "madi a yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "maswi a yona"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "o tla e chesa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:36:12.697133843Z",
+  "model": "glm-5.3"
+}

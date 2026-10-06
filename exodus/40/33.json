@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jwale",
+      "rationale": "Seheberu se hlalosa kaereo ya 'vayikal'; Sesotho se hloka motjhasi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "altare",
+      "gloss": null,
+      "rationale": "מזבח — lentsoe la Setswana le amohelwang; hape mantsoe a mabedi a Sesotho a hlalosa sehlabelo"
+    }
+  ],
+  "translation": "Mme o ile a emisa ⟨את⟩ lefahla ho dikala Mishkane le altare, mme a beha ⟨את⟩ thekethe ya sebakala sa lefahla; jwale Moshe o qetile ⟨את⟩ mosebetsi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9f3a652aec463f31a8271c7a924f62f3542e8541878e2a74360ac3c7552d7180",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/40\/33-36.1791264847908.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefahla"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lefahla"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho dikala"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "le altare"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thekethe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "thekethe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sa sebakala"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sa lefahla"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "o qetile"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosebetsi"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "mosebetsi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:07.915939621Z",
+  "model": "glm-5.3"
+}

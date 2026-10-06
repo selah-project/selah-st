@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 41:6",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "makgetha a mararo le mashome a mararo",
+      "rationale": "Palo ea mesele e hlalosoa: mahare a mararo, mashome a mararo a mesele."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובאות \/ אחוזים",
+      "rationale": "Ba-fetoleli ba fapana: KJV 'they entered into the wall' (di kenela mokong) khahlanong le JPS 'cornices' (dikgarapa); ahuzim — 'tshwarwe\/kgomaretsweng' kapa 'e nang le tšhwaro'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צלע אל צלע",
+      "rationale": "Kgutliso ea lentsoe sele ho fihlela sele e bontša hore mesele e aparetse ebe e kaofela."
+    }
+  ],
+  "translation": "Mme mesele, sele ho fihlela sele, makgetha a mararo le mashome a mararo; mme di kenela mokong o bakeng sa ntlo, bakeng sa mesele, ho potoloha, ho potoloha, hore di tle di tshwarwe, mme di se ke tsa tshwarwa mokong wa ntlo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "04ad95018e2c381c5f43c1258c1fa3ce05c1c4746a15f829e08b993858162ee3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/41\/5-6.1791265429712.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצלעות",
+      "gloss": "mme mesele"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "sele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "sele"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "le mashome a mararo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "makgetha"
+    },
+    {
+      "surface": "ובאות",
+      "gloss": "mme di kena"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "mokong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bakeng sa ntlo"
+    },
+    {
+      "surface": "לצלעות",
+      "gloss": "bakeng sa mesele"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "hore di tle di"
+    },
+    {
+      "surface": "אחוזים",
+      "gloss": "tshwarwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di ka"
+    },
+    {
+      "surface": "אחוזים",
+      "gloss": "tshwarwa"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "mokong"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wa ntlo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:49.714180288Z",
+  "model": "glm-5.3"
+}

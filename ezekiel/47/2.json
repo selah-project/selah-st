@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 47:2",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "bohlale ba tempele",
+      "rationale": "Seripa sena se karolo ya pepenenolwalo ya matlo a Tempele (Ezekiele 40–47) a nang le tekanyo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lehlakoreng",
+      "rationale": "הכתף ke 'setlhako\/kehlano' ya mmele; Sesotho se sebelisa lehlakore (hlakore) ho feta Lentsoa la 'setlhako'."
+    },
+    {
+      "kind": "crux",
+      "subject": "metsi a thulang",
+      "rationale": "מפכים (participle ya פכה): 'ho thula\/ho tlatsa metsi' — YLT\/JPS 'trickled' kgahlanong le 'ran out' ya KJV; tekanyetso ya metsi ke yona e itsosang."
+    }
+  ],
+  "translation": "Mme o ile a nkisa ka tsela ya sefate ka leboya, mme a nkgutulela ka tsela ya ntle ho sefate sa ntle, tsela e lebehang bochabela; mme, bonang, metsi a thulang ho tloha ka lehlakoreng la ho ja letshehadi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9db7cb3d5c094a742f69151303d73999c4b66ff799ecb3be78c908bdf825255c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/47\/2-2.1791265448391.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצאני",
+      "gloss": "a nkisa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ya sefate"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ka leboya"
+    },
+    {
+      "surface": "ויסבני",
+      "gloss": "a nkgutulela"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ya ntle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "sa ntle"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "הפונה",
+      "gloss": "e lebehang"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "bochabela"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme, bonang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "מפכים",
+      "gloss": "a thulang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "lehlakoreng"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "la ho ja letshehadi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:08.393992360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 43:30",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa hae",
+      "rationale": "נכמרו רחמיו:_boleloa_ka_mokgwa_o_tlang_o_tswellaneng — 'seedi sa hae se mo kgotsofetse' ho ea ho monga hae"
+    },
+    {
+      "kind": "addition",
+      "subject": "ea hae",
+      "rationale": "Seheberu se na le setshwantshiso sa hae se bolelang se kamoreng; Sesotho se hloka sehlomathiso, se entsoe"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויבקש לבכות",
+      "rationale": "'a batla ho lla' kapa 'a batla sebaka sa ho lla' (KJV 'sought where to weep')"
+    }
+  ],
+  "translation": "Mme Yosefe a ihesa, hobane moya wa hae o mo hlahelletse ho ea ho monga hae, mme a batla ho lla; mme a kena ⟨kamoreng⟩ ea hae, mme a lla moo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "653de11cdf19c2dec0a6c3ad538e5146900f64f65c3b61cc8474d0b87fbba622",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/43\/30-30.1791264756246.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "a ihesa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "o mo hlahelletse"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "moya wa hae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ea ho"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "monga hae"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "a batla"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ho lla"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "kamoreng"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "a lla"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:36.250400005Z",
+  "model": "glm-5.3"
+}

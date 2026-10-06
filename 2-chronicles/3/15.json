@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikholomo",
+      "rationale": "Bo bophara bo ka ama: mashome a mararo le metso e hlano, sefepeho ama tse hlano."
+    },
+    {
+      "kind": "crux",
+      "subject": "sefepeho",
+      "rationale": "הצפת: 'sefepeho' (capital) kgahlanong le 'hloho' kapa 'sekgabisow'; 1 Marena 7:15 e hlalosa ka botlalo."
+    }
+  ],
+  "translation": "Mme a etsa ka pele ga ntlo dikholomo tse pedi, ama tse mashome a mararo le metso e hlano bolelele, mme sefepeho se se holimo ga hloho ya yona, ama tse hlano.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ffeda3d66222815ae3da735f062d660c1d551e232d86a31f9a5be54c474d00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/3\/15-17.1791265757683.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka pele ga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "dikholomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama tse"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mashome a mararo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "le metso e hlano"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bolelele"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "mme sefepeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo ga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hloho ya yona"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama tse"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "hlano"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:17.686175785Z",
+  "model": "glm-5.3"
+}

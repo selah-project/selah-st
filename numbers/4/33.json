@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 4:33",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "'ka letsohong la' — setshwantsho sa Seheberu sa bothati, eseng taolo ka moya."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עבדדה",
+      "rationale": "עבודה e 'tirelo' — koetliso ya motheo, eseng molato."
+    },
+    {
+      "kind": "elision",
+      "subject": "הכהן",
+      "rationale": "sehlomathiso sa artikele se hlahisitswe ka 'moprista' ka bomong, Sesotho se se sena."
+    }
+  ],
+  "translation": "Ena ke tirelo ya merafo ya bana ba Merari, bakeng sa tirelo ya bona yohle ohle ya ⟨ם⟩ paleleng, ka letsohong la Itamare, mora wa Aharone, moprista.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0be992254a32cfd12874a933af972749d54e088b3d88363f852d91764f993b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/4\/33-33.1791264869894.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ena"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tirelo ya"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "merafo ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa yohle"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "tirelo ya bona"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ohle paleleng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsohong la"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamare"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:29.898725879Z",
+  "model": "glm-5.3"
+}

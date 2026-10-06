@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יחר אף",
+      "rationale": "'letswele le fufumoha' — Seheberu: 'af e ka harara', puo ya letswele-lerato ya tswalelo."
+    },
+    {
+      "kind": "crux",
+      "subject": "אדני",
+      "rationale": "Aharone o bua le Moshe, motho — 'monga ka', eseng Adonai ya Molimo."
+    },
+    {
+      "kind": "crux",
+      "subject": "ברע הוא",
+      "rationale": "Ya litlhaku: 'boemong ba bobe ke sona'; KJV 'set on mischief' e bontsha boikemiso, YLT e dula e le ya ka nngwe."
+    }
+  ],
+  "translation": "Mme Aharone a re: A se ke a fufumoha letswele la monga ka; oena o tseba ⟨את⟩ sechaba, hore se hakane holimong bobe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fe4aff9c2455f06957cbfb967484ae84cbaa5fae33e8cb653ba8e8e104558e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/32\/22-22.1791264817941.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "A se ke"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "a fufumoha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "letswele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "monga ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "oena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sechaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "holimong bobe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:37.951716192Z",
+  "model": "glm-5.3"
+}

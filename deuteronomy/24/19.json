@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 24:19",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "omere",
+      "rationale": "עמר e bolela thollo kapa tekanyo — e bolokwa jaaka lentswe la Seheberu (D3)"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraele",
+      "rationale": "Taelo e lebella motho ka bowena — molao wa ho siea katla morao"
+    },
+    {
+      "kind": "addition",
+      "subject": "sa hao \/ ea hao",
+      "rationale": "Sehlomathiso -ך se fetoletsoe jaaka \"sa hao\" moo Sesotho se se hlokang"
+    }
+  ],
+  "translation": "Ha o keteka katla ya hau sehlaseng sa hao, mme o lebella omere sehlaseng, o se ke wa khutlela ho se tsea; ho moputso, ho hlohonolofalitsoeng le ho mofellehali e tlaaba; e le hore Yahwe Elohim ea hao a o halalelise ho mosebti ohle wa matswele a hao.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1eb9b3b3e39ff3e672733ef0c0f6ee17afd1615825fef5649a771ed02c5c9615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/24\/19-20.1791265072773.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "o keteka"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "katla ya hau"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "sehlaseng sa hao"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "mme o lebella"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omere"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sehlaseng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wa khutlela"
+    },
+    {
+      "surface": "לקחתו",
+      "gloss": "ho se tsea"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "ho moputso"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "ho hlohonolofalitsoeng"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "le ho mofellehali"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tlaaba"
+    },
+    {
+      "surface": "למען",
+      "gloss": "e le hore"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "a o halalelise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ea hao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebti ohle"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "wa matswele a hao"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:52.780415375Z",
+  "model": "glm-5.3"
+}

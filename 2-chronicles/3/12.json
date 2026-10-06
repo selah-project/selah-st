@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 3:12",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ale hlano",
+      "rationale": "Palo e tsoelang pele ea sekoto sa kerubime."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דבקה",
+      "rationale": "E bolela 'ho tsamaea le'\/'ho kopana' — Sesotho 'ho hokahantsoe' boloka mebala ea ho phalla ho fihlela."
+    }
+  ],
+  "translation": "Mme lefiko la kerubime e le nngwe la ale hlano, le ama lebota la ntlo; mme lefiko le leng la ale hlano, le hokahantsoe le lefiko la kerubime e nngwe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9c466077d51c693ae2820688a8ea86e6f7e51da60f54184d70734bd10ed35abe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/3\/10-13.1791265759492.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנף",
+      "gloss": "mme lefiko"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "la kerubime"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ale"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "hlano"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "le ama"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "lebota"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la ntlo"
+    },
+    {
+      "surface": "והכנף",
+      "gloss": "mme lefiko"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "le leng"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ale"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "hlano"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "le hokahantsoe"
+    },
+    {
+      "surface": "לכנף",
+      "gloss": "le lefiko"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "la kerubime"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "e nngwe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:19.497681392Z",
+  "model": "glm-5.3"
+}

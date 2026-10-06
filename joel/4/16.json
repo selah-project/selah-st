@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joel 4:16",
+  "book": "joel",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "goma",
+      "rationale": "ישאג ke modumo wa tau — goma ha o phethe sebopeho sa leo, empa ke lentswe le atileng la pokello"
+    },
+    {
+      "kind": "addition",
+      "subject": "e tla ba",
+      "rationale": "Seheberu se se na copula; Sesotho se e hloka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישאג \/ קולו \/ ורעשו",
+      "rationale": "Ketso ya modumo (goma, lentswe, go thuthumba) e hlahisa modumo o tswellanang oa kahlolo"
+    }
+  ],
+  "translation": "Mme Yahwe o tla goma ho tloha Tsiyone, mme a fana ka lentswe la hae ho tloha Yerushalayime, mme mahodimo le lefatshe li tla thuthumba; mme Yahwe e tla ba sheltelo bakeng sa batho ba hae, le matla a tsireletsong bakeng sa bana ba Yisraele.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "15c4a060dc5ff7f806fe937c5150be4d8e859f96bba31e7c334214297b91d669",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joel\/4\/16-16.1791265468938.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ho tloha Tsiyone"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "o tla goma"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "mme ho tloha Yerushalayime"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a fana ka"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "lentswe la hae"
+    },
+    {
+      "surface": "ורעשו",
+      "gloss": "mme li tla thuthumba"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "le lefatshe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mme Yahwe"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "sheltelo"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "bakeng sa batho ba hae"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "le matla a tsireletsong"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bakeng sa bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:28.939115561Z",
+  "model": "glm-5.3"
+}

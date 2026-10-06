@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משנה",
+      "rationale": "'mokopelo' (copy\/duplicate) kgahlanong le 'poeletso' (repetition) — KJV 'copy', LXX 'duplicated copy'; motso o bolela ntho e meraro kapa mokopelo wa tokomane."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ho ngolwa ha Torah",
+      "rationale": "Tiragalo ena e bala mokopelo wa Torah — ho bala le ho ngola joalo ka taelo ya Deuteronomoma 27."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כתב...כתב",
+      "rationale": "phetolelo e pheta lebitso la 'ho ngola' haufi le ho ea lentsweng — tsela ya Sesotho e arola. Sesotho se pheta 'ngola': a ngola \/ a e ngotseng."
+    }
+  ],
+  "translation": "Mme a ngola moo hodima matje ⟨את⟩ mokopelo wa Torah ya Moshe, ya neng a e ngotseng pele ho bana ba Yisraele.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "272057721814ff1802df04c6f6fdaae4650c4fcedc0775ef29c52b63525983c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/8\/32-32.1791265082589.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "a ngola"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "matje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokopelo wa Torah ya Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mokopelo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "a e ngotseng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:02.595371993Z",
+  "model": "glm-5.3"
+}

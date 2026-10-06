@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הדברים\/דבר",
+      "rationale": "Poeletso ya mantswe (ha bopelelwa) — tlhaku e tshwanang ya d\/h\/b\/r, e sieo ka botlalo ka Sesotho."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "די זהב",
+      "rationale": "Lebitso la lefelo Di-Zahab le utlwahala e le 'ya gauta' — sesupo sa sebopeho sa lebitso le lefellang."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעבר הירדן",
+      "rationale": "'Ka ho feta Yoretane' — ka lehlakore lefe ho ise khothwe; bao ba buang 'ka lehlakore lena' ba kgetha lehlakore la bona."
+    },
+    {
+      "kind": "crux",
+      "subject": "מול סוף",
+      "rationale": "'Sufe' — e ka ba lebitso la lefelo kapa 'leoatle la Dikolokolo'; phetolelo ya moelelo e lahlehetse ke sesupo sa lefelo."
+    }
+  ],
+  "translation": "Mantswe ana ke a Moshe a bolelletsweng ho Yisraele yohle ka ho feta Yoretane, mabaleng, lebatleng, pelaelana le Sufe, pakeng tsa Parane le pakeng tsa Tofele le Labane le Khatsarote le Di-Zahahe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "475da664c92bc95921ac01fb04b0cb19557d23bbecd48016681ac91cbdd076e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/1\/1-1.1791264975544.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bolelletsweng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ka ho feta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoretane"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "mabaleng"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "lebatleng"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pelaelana le"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parane"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofele"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "Khatsarote"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "Di-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahahe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:36:15.549133706Z",
+  "model": "glm-5.3"
+}

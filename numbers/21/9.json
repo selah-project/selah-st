@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 21:9",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחש \/ נחשת",
+      "rationale": "paronomasia: nneha (sehlaha) le ttšepe (nentso) di tshwana ka moko wa lentswe — ditsela tse tharo mo voorong."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ttšepe",
+      "rationale": "נחושת ke ttšepe\/koperere, eseng 'brass' tjalo ka ditlhopho tsa kgale."
+    }
+  ],
+  "translation": "Mme Moshe o ile a etsa nneha ya ttšepe, a e beha hodima sefahleho-sefela, mme ho ile ha etsahala hore haeba nneha e loma ⟨את⟩ monna, a shebella nneha ya ttšepe, a tla phela.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "874599b7216d3d264cabe9ca01011205a8a763c1e46a1993afc12d4e67fe7a5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/21\/9-9.1791264934342.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o ile a etsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nneha"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya ttšepe"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "a e beha"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הנס",
+      "gloss": "sefahleho-sefela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mme ho ile ha etsahala hore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "e loma"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "nneha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "והביט",
+      "gloss": "a shebella"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nneha"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya ttšepe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a tla phela"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:34.346139935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 10:4",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עירים\/עירים",
+      "rationale": "Consonants identical: עֲיָרִים (ass-colts) le עָרִים (cities) — pheti e tsamaisa phapang ena; diphalane le metse, mme bothata bo timetse Sesothong."
+    },
+    {
+      "kind": "crux",
+      "subject": "עירים",
+      "rationale": "Ba fetoleli ba ngata ba bala 'metse' ka bobedi; lemma ya pele e bolela 'diphalana tsa phalla', ka mokgwa wa baahi ba nang le maatla."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "להם להם",
+      "rationale": "Poeletso ya 'ya bona \/ ho eona' — e hlahisitse eng? e hlophisitse lethathamo la mashome a mararo; Sesotho se boloka palelo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mashome a mararo",
+      "rationale": "Palo e hlakileng: bana ba 30, diphalane tse 30, metse e 30 — palo ya bo-(ya ntwa) ya moahloli."
+    }
+  ],
+  "translation": "Mme ba ne a na le bana ba bang mashome a mararo, ba namelang ho diphalane tse mashome a mararo; mme metse e mashome a mararo ⟨e ne e le⟩ ya bona; ho eona ho bitswa Havota Yaire ho fihlela lehono lena, eo e leng sebakeng sa Gileade.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f18be30f55e846410dfdefa6194fb4c0778607b0c0bc57a406b06fa1f37b7d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/10\/4-4.1791265112444.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme ba ne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a na le"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "mashome a mararo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "ba namelang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tse mashome a mararo"
+    },
+    {
+      "surface": "עירים",
+      "gloss": "diphalane"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mme metse e mashome a mararo"
+    },
+    {
+      "surface": "עירים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ya bona"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho eona"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ho bitswa"
+    },
+    {
+      "surface": "חות",
+      "gloss": "Havota"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yaire"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e leng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileade"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:32.455571893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בער",
+      "rationale": "Motso o bolela 'ho ja' kapa 'phoofolo' — 'ya tswetseng peo' kapa 'phoofolo e sa ntseng peo'; litlhaku tsa kamehla di bolela 'phoofolo e tswetseng peo'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב...אהב",
+      "rationale": "Phetoho e boeleditsweng (o rata...o rata) — boitšoaro bo boeleloa, se sieo ka Sekhohya"
+    },
+    {
+      "kind": "elision",
+      "subject": "ס",
+      "rationale": "Sehlopha sa semmušo se sieo; se hlahisitšwe e le 'e tswetseng peo'"
+    }
+  ],
+  "translation": "Ya ratang kahlolo o rata tsebo; mme ya hloyang teko e mpe oa bua sesotho <sese>.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8bb3404939b875dd2e2751ebce37feeae7550094a2acc5719fa562b4c04df1c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/proverbs\/12\/1-1.1791265595278.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ya ratang"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o rata"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "mme ya hloyang"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "teko e mpe oa bua sesotho"
+    },
+    {
+      "surface": "בער",
+      "gloss": "sese"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:35.279245021Z",
+  "model": "glm-5.3"
+}

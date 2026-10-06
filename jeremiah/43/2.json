@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 43:2",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ho yona",
+      "rationale": "Seheberu se na le ⟨שם⟩ 'ho yona'; sehlomathiso se fumanwa se ntse se le teng"
+    },
+    {
+      "kind": "you",
+      "subject": "ho Yirimiahu",
+      "rationale": "Dipolelo tse tobileng ho Yirimiahu — banna ba bolella Yirimiahu hore o bua leshano"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba ditlhaku-tse-kgolo",
+      "rationale": "הזדים: 'ba ho ipona hlokahala' — ba nang le tlhoafalo e kgahlanong le Yahwe"
+    }
+  ],
+  "translation": "Mme Azarjaha mora wa Hoshajaha, le Yohananane mora wa Kareakh, le banna bohle ba ditlhaku-tse-kgolo, ba re ho Yirimiahu: Leshano o a bolela; Yahwe Elohim wa rona ha a a o roma ho re: Le se ke la kena Mitsrayime ho ba yaahong ho yona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "861f4b1be0446e46e6693d9c0166bbd4112fe0c51b84436b60a2ba522cad3813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/43\/2-2.1791265343313.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... ba re"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "Hoshajaha"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "le Yohananane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareakh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le bohle ba"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "הזדים",
+      "gloss": "ba ditlhaku-tse-kgolo"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirimiahu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "Leshano"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "a o romile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Le se ke la"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "kena"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ho ba yaahong"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ho yona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:23.314371036Z",
+  "model": "glm-5.3"
+}

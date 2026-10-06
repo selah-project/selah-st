@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "numbers 7:85",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "shekele",
+      "rationale": "Seheberu se bolela 'mashome a supileng' feela — shekele e nkile e le karolo ya tekanyo ya pejana."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dikete tse pedi le makgolo a mane",
+      "rationale": "Boima bo baloa ka shekele ya sehalalelo: 130×12 + 70×12 = 2400."
+    }
+  ],
+  "translation": "Lekgolo le mashome a mararo phae e le nngwe ya sekere, mme sekoere se le seng mashome a supileng; sekere seohle sa didiriswa e ne e le dikete tse pedi le makgolo a mane shekele, ka shekele ya sehalalelo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "14d831160a3d5f5c7bfb4d4057d56c4e180e18a9b6e5d88e0cf46c1845e79dcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/7\/84-87.1791265033206.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלשים",
+      "gloss": "mashome a mararo"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "le lekgolo"
+    },
+    {
+      "surface": "הקערה",
+      "gloss": "phae"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya sekere"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "mme mashome a supileng"
+    },
+    {
+      "surface": "המזרק",
+      "gloss": "sekoere"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "se le seng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seohle sa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sekere"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "didiriswa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete tse pedi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le mane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ka shekele ya"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sehalalelo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:13.220704604Z",
+  "model": "glm-5.3"
+}

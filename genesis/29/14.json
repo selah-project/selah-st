@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 29:14",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mafoko a ka le nama ya ka",
+      "rationale": "עצמי ובשרי — mafoko le nama, idiom ya bo-ntate e bolelang botswaedi ba madi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "khoeli ya malatsi",
+      "rationale": "חדש ימים — khoeli ya malatsi, palo ea nako"
+    }
+  ],
+  "translation": "Mme Labane a re ho yena: Ruri, o mafoko a ka le nama ya ka. Mme a dula le yena khoeli ya malatsi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "924a1f67906849a81a4414c15576f7aac2eeb2d0b2a751c3b6f13df36d3c6423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/29\/14-15.1791264719294.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mafoko a ka"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "le nama ya ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le yena"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "khoeli"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya malatsi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:59.301641596Z",
+  "model": "glm-5.3"
+}

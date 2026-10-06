@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 4:16",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחת e bolokwa e le minkha ya Seheberu, eseng 'mpho' kapa 'lekgetho'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩ ... ⟨את⟩",
+      "rationale": "Sesotho se hloka ⟨את⟩ hlaloswa e le sesupa sebakeng sa boikarabello"
+    },
+    {
+      "kind": "elision",
+      "subject": "בו",
+      "rationale": "'אשר בו' — 'sebakeng sona' se amohela moelelo wa בו, bo e mmedi ba nyeletsoa"
+    }
+  ],
+  "translation": "Mme boikarabello ba Elazare, mora wa Aharone moprista, ke mafura a lesedi, molora wa dintho tse monate, le minkha ya tshwelopele, le mafura a lotso; boikarabello ba ⟨את⟩ Mishkane ohle le ⟨את⟩ tsohle sebakeng sona, se halalelang le dithoara tsa sona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8774a8614aa7d47415e297890fb41af5b4a31421f49b9921966683f14a1e00f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/4\/15-16.1791264907231.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקדת",
+      "gloss": "Mme boikarabello"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ba Elazare"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "a lesedi"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "molora"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "wa dintho tse monate"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "le minkha"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ya tshwelopele"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "le mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a lotso"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "boikarabello"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sebakeng sona"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "se halalelang"
+    },
+    {
+      "surface": "ובכליו",
+      "gloss": "le dithoara tsa sona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:07.239243634Z",
+  "model": "glm-5.3"
+}

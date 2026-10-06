@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 38:3",
+  "book": "job",
+  "lang": "st",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אזר חלציך",
+      "rationale": "'Go kgetha mariba' — Sesotho idiom bakeng sa ho ikemisa ka matla, Sesotho se buisang ka maoto ho fihlela selemo sa Seheberu sa mariba."
+    },
+    {
+      "kind": "addition",
+      "subject": "hajoale",
+      "rationale": "נא e bolela kopo e bonolo; e phetotsoe ka 'hajoale' ka hara masakana."
+    },
+    {
+      "kind": "addition",
+      "subject": "wena",
+      "rationale": "Seheberu se na le pronoun e hokahanetseng (-ך) e seng e ikemetseng; 'wena' e ekeditswe."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Yob",
+      "rationale": "Yahwe a buisana le Yob ka ho bitsa ka kotloloho."
+    },
+    {
+      "kind": "invitation",
+      "subject": "boitshwaro ba monna",
+      "rationale": "Taello ya ho itokisa jwalo ka monna pele ho potso — sehotho se mametseng."
+    }
+  ],
+  "translation": "Kgetha ⟨hajoale⟩ thusa ya ka, e le monna, maoto a hao a mariba; mme ke tla ke botsa ⟨wena⟩, mme o tla ntsebisa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d2ff0cbcd2d4d41d8860da8f2fc7922910ddf845d2c8cd470bf3915b2490a616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/38\/3-3.1791265626219.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזר",
+      "gloss": "Kgetha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨hajoale⟩"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "e le monna"
+    },
+    {
+      "surface": "חלציך",
+      "gloss": "maoto a hao a mariba"
+    },
+    {
+      "surface": "ואשאלך",
+      "gloss": "ke tla ke botsa ⟨wena⟩"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "o tla ntsebisa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:06.220418578Z",
+  "model": "glm-5.3"
+}

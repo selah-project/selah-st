@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lenane la mabitso",
+      "rationale": "Mongolo o ngola mabitso a malapa a Kanaane — lenane, eseng tlhaloso."
+    },
+    {
+      "kind": "addition",
+      "subject": "Mmala wa",
+      "rationale": "Seheberu se na le lebitso feela; Se-sotho se hloka lentswe la sehlopha ho hlalosa sebopeho sa -i."
+    }
+  ],
+  "translation": "Le ⟨את⟩ Mmala wa Khivi, le ⟨את⟩ Mmala wa Areki, le ⟨את⟩ Mmala wa Sini.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "bd2e68d5c47bbf57c19b837f17c044c7ce71d1e706c56abd382fb210d4b43a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/10\/17-17.1791264687482.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mmala wa Khivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mmala wa Khivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mmala wa Areki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Mmala wa Areki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mmala wa Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Mmala wa Sini"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:27.493081151Z",
+  "model": "glm-5.3"
+}

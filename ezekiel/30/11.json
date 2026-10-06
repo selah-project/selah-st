@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 30:11",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Hebrew חלל alone; Sesotho needs 'ka' to attach the slain to the filling"
+    },
+    {
+      "kind": "crux",
+      "subject": "עריצי גוים",
+      "rationale": "'the terrible of the nations': tyrants\/fierce ones vs ruthless ones; kept as 'matla-ahlolo a ditjhaba'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלל",
+      "rationale": "'slain\/pierced' vs YLT 'wounded'; rendered 'ba bolailweng' (those killed)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "והריקו",
+      "rationale": "'pour out\/empty' their swords, idiom for drawing; rendered 'ba tla ntsha' (draw out)"
+    }
+  ],
+  "translation": "Yena le sechaba sa hae ⟨את⟩ le ena, matla-ahlolo a ditjhaba, ba tla hlahiswa ho timetsa lefatshe; mme ba tla ntsha\/\/qhobosa malibe a bona hodima Mitsrayime, mme ba tla tjatsa ⟨את⟩ lefatshe ka ba bolailweng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0c2e072279f40dc457f41029b4a1f2acddd7b3b6b612c8423403932ffd5a292b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/30\/11-11.1791265398810.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Yena"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "le sechaba sa hae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le ena"
+    },
+    {
+      "surface": "עריצי",
+      "gloss": "matla-ahlolo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a ditjhaba"
+    },
+    {
+      "surface": "מובאים",
+      "gloss": "ba tla hlahiswa"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ho timetsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "והריקו",
+      "gloss": "mme ba tla ntsha"
+    },
+    {
+      "surface": "חרבותם",
+      "gloss": "malibe a bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mme ba tla tjatsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ka ba bolailweng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:18.813494961Z",
+  "model": "glm-5.3"
+}

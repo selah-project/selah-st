@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 24:6",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ho Yehoyadake",
+      "rationale": "Morena o buisana le Yehoyadake ka ho toba, potso ya hae e tahlehela ho ena."
+    },
+    {
+      "kind": "crux",
+      "subject": "משאת",
+      "rationale": "Lipheto tse fapaneng: 'tlhokomelo\/khokahano' (letsholo) kgahlanong le 'mokhoa\/mpho e behilweng' — KJV 'collection', ASV 'tax'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tentele ya bopaki",
+      "rationale": "אהל העדות — 'tentele ya bopaki', e se 'tabernakele' (Lingua franca ea boralitlholo)."
+    }
+  ],
+  "translation": "Mme morena a bitsetsa Yehoyadake ya neng e le hloho, mme a mo re: Hobaneng ha oa ka wa batla holima balevite ho hapa ho tloha Yudua le ho tloha Yerushalayime ⟨את⟩ tlhokomelo ya Moshe, lekhodu la Yahwe, le ya khahano ya Yisraele, bakeng satentele ya bopaki?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "858f2e5698d503009de360dcc757e178bbd9bdd88b92eda0c9efdc595482aa34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/24\/6-6.1791265793603.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsetsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ליהוידע",
+      "gloss": "Yehoyadake"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "oa ka wa batla"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevite"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ho hapa"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "ho tloha Yudua"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "le ho tloha Yerushalayime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tlhokomelo ya Moshe"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "tlhokomelo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "lekhodu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "le ya khahano"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "bakeng satentele"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ya bopaki"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:53.604842667Z",
+  "model": "glm-5.3"
+}

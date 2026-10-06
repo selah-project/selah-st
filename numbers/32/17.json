@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 32:17",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נחלץ",
+      "rationale": "Verb means to pull off\/strip off, here reflexive: to arm oneself; Sesotho 'itseantle' captures the arming sense."
+    },
+    {
+      "kind": "addition",
+      "subject": "אם",
+      "rationale": "אשר אם is a compound 'until that if'; the אם is nearly pleonastic and rendered as a bracketed connector."
+    },
+    {
+      "kind": "substitution",
+      "subject": "טפנו",
+      "rationale": "טף is a collective 'little ones\/children' (literally family, quickly-moving); rendered 'e nyane ea rona'."
+    }
+  ],
+  "translation": "Empa rona re tla itseantle ka potlako pele ho bana ba Yisraele, ho fihlela re ba tisetsa sebakeng sa bona; mme e nyane ea rona ea dula metse ea mabotho a matla, ka baka la ba duleng lefatsheng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "06efb725d98fae802bd48c2cb1a4225652f3ed34348a99e91ba5003eb32de8b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/32\/17-17.1791264935244.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "empa rona"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "re tla itseantle"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "ka potlako"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ha e le hore⟩"
+    },
+    {
+      "surface": "הביאנם",
+      "gloss": "re ba tisetsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "sebakeng sa bona"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme ... ea dula"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "e nyane ea rona"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "metse ea"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "mabotho a matla"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba duleng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:35.249001361Z",
+  "model": "glm-5.3"
+}

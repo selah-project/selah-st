@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 4:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ו לקחת",
+      "rationale": "Sepiri sefeletse se hlahisa sephetho ('o tla nka'), empa Baheberu ba bang ba a sebelisa e le taoso: 'ke nke'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשה \/ יבשת",
+      "rationale": "Phetoho ya mokgwa wa lentswe 'lefatsheng le omileng' e hlaha ka bobedi, e tsamaisang sefoko; Sesotho se e boloka ka ho boeledisa tlhamo e tshwanang."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יאמינו",
+      "rationale": "'ba lumele' bakeng sa moeli wa Seheberu a-man (ho tshehetsoa, ho tiiseha); tumelo ke moelelo o tswang ho motho ya mamelang."
+    }
+  ],
+  "translation": "Mme e tla etsahala, ha ba sa lumele esita le ditswao tsena tse pedi, mme ba sa mamelle lentsweng la hao, o tla nka ho metsing a Nule, mme wa o omeletsa lefatsheng le omileng, mme meetse ao o o nwileng ho Nule a tla ba madi lefatsheng le omileng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "42cc04f7e1b7e10d84d60392675e013188736e10421c30c57ddd83fa9a4447ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/4\/9-9.1791264787567.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mme e tla etsahala"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "ba lumele"
+    },
+    {
+      "surface": "גם",
+      "gloss": "esita le"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ditswaong tse pedi"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "ditswao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "ba mamelle"
+    },
+    {
+      "surface": "לקלך",
+      "gloss": "lentsweng la hao"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "o tla nka"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "ho metsing a"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nule"
+    },
+    {
+      "surface": "ושפכת",
+      "gloss": "mme o omeletse"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "lefatsheng le omileng"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme a tla ba"
+    },
+    {
+      "surface": "המים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "o o nwang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nule"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme a tla ba"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ביבשת",
+      "gloss": "lefatsheng le omileng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:07.577753065Z",
+  "model": "glm-5.3"
+}

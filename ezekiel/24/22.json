@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lefahla la hodimo",
+      "rationale": "שפם ke 'sephahlo se hodimo' — karolo ya sefahla e hodimo, eseng sefahla kaofela; phetolelo e bolositse ponahalo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ea apara",
+      "rationale": "תעטו e bolela 'ho apara\/ho kenela' — Sesotho se hloka lentswe la sesupo"
+    },
+    {
+      "kind": "crux",
+      "subject": "boroho ya batho",
+      "rationale": "לחם אנשים: 'boroho ya balekane ba mafu' (JPS\/BSB) kgahlanong le 'boroho ya batho' (KJV) — lintlha tsa mafu"
+    }
+  ],
+  "translation": "Mme le tla etsa jwaloka ha ke ntse ke etsile; lefahla la hodimo le ke ke la ea apara ⟨את⟩, mme le ka ja boroho ya batho.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b0e653f6cdbf212fc52eefeb1a0b9c6025da9b342f9f1d2a5cb403f5e867e17d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/24\/22-22.1791265387427.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "mme le tla etsa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwaloka"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ha ke ntse ke etsile"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "lefahla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le ke ke la"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "ea apara"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "mme boroho"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ya batho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le ke ke la"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ja"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:07.429062884Z",
+  "model": "glm-5.3"
+}

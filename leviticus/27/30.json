@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tenth",
+      "rationale": "מעשר ke tenth e le nngwe ya poelo; 'tenth' e boloka boima ba motala, eseng 'lekgetho' feela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ליהוה ... ליהוה",
+      "rationale": "Lebitso la Yahwe le boeleloa ka bobedi — hampe le qetellong ya lefatshe, sebolokwa phetolelong"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke ... e",
+      "rationale": "Seheberu se na leהוא e metlae feela; copula ya Sesotho e ekeditswe"
+    }
+  ],
+  "translation": "Mme tenth eohle ya lefatshe, ya poelo ya lefatshe le ya lethamo la sehlare, ke ya Yahwe; e halalelang ho Yahwe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c4d17966085a0ad6d0488876603e6b3d45df2220ab2d6aa516031a74a369fe8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/27\/30-30.1791264860951.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mme eohle"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "tenth"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ya poelo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ya lethamo"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "la sehlare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ke ya Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "halalelang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:20.954921131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפאר אחריך",
+      "rationale": "'go ralolla maqephe morao' (KJV\/ASV) kgahlanong le 'go hlahloba thollo e setseng' (YLt) — botho ba lentsoe la פאר"
+    },
+    {
+      "kind": "substitution",
+      "subject": "morara wa oli",
+      "rationale": "זית ke sehlare sa oli; Sesotho se hloka mantswe a mabedi"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraele",
+      "rationale": "Taelo e lebella motho ka bowena — tselana ya moputso, hlohonolofalitsoeng le mofellehali"
+    }
+  ],
+  "translation": "Ha o otula morara wa oli ya hao, o se ke wa boela morao ho o hlahloba; ho moputso, ho hlohonolofalitsoeng le ho mofellehali e tlaaba.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1eb9b3b3e39ff3e672733ef0c0f6ee17afd1615825fef5649a771ed02c5c9615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/24\/19-20.1791265072773.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "o otula"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "morara wa oli ya hau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "wa boela ho hlahloba"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "morao"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "ho moputso"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "ho hlohonolofalitsoeng"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "le ho mofellehali"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tlaaba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:52.784415438Z",
+  "model": "glm-5.3"
+}

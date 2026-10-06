@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sesotho e hloka copula; Seheberu se e sena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "phoofolo e tshelang",
+      "rationale": "החיה ke 'se tshelang' — e bolela sela se phelang kapa phoofolo; 'phoofolo e tshelang' e boloka ponahalo ya maphodisa."
+    },
+    {
+      "kind": "you",
+      "subject": "ho bara ba Yisraele",
+      "rationale": "Taolo e tobile ho bara ba Yisraele ka boitshwarelo bja bo-pela-peli (diphehelo tsa dijo)."
+    }
+  ],
+  "translation": "Bolelang ho bara ba Yisraele, ho re: Ena ke ⟨e⟩ phoofolo e tshelang eo le ka jang yona, ho tloha ho ⟨e⟩ bohle ba diphoofolo tse ⟨zenna⟩ hodima lefatshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "30c5dd16a9272aec05c8c68c63ef38965f17a2412edbf5d6b2b0a2478c2114e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/11\/2-2.1791264880861.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Bolelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ena"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "phoofolo e tshelang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le ka jang yona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tloha ho bohle ba"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "diphoofolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:40.867629463Z",
+  "model": "glm-5.3"
+}

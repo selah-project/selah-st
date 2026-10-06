@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 39:24",
+  "book": "job",
+  "lang": "st",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "o metsha lefatshe",
+      "rationale": "גמא ארץ — 'ho metsa lefatshe' — Sesotho 'o metsha ⟨את⟩ lefatshe' boloka ponahalo ea Sesheberu"
+    },
+    {
+      "kind": "crux",
+      "subject": "ha a dumele",
+      "rationale": "יאמין: 'ha a dule a tsitsê' (YLt\/BSB) khahlanong le 'ha a dumele' (KJV\/JPS) — karolo ea letlaelo e tsebahala haholo"
+    }
+  ],
+  "translation": "Ka modumu o moholo le tlhahlobo o metsha ⟨את⟩ lefatshe, mme ha a dumele hore ke modumu wa shofara.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ec74c4c8b07f960337a631d7fa7faee2066975f41f516756c8852117966e55e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/39\/23-24.1791265657877.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברעש",
+      "gloss": "ka modumu o moholo"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "le tlhahlobo"
+    },
+    {
+      "surface": "יגמא",
+      "gloss": "o metsha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "a dumele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "wa shofara"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:37.883407050Z",
+  "model": "glm-5.3"
+}

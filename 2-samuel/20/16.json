@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 20:16",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמעו",
+      "rationale": "Poelelo ya ho bitsa: 'Mamelang, mamelang' — pheletso e bolokwa ka ho e boella."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "gloss": "ya ka letshwalo — seka sa boipelelo se fetotsweng hore se tsele ka boretlehali"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Mamelang, mamelang",
+      "rationale": "Tletlebo e tobileng ho batlamedi — sefokodi se bitsetsang."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Yoabe",
+      "rationale": "Puo e tobetswe ho Yoabe ka botsitsi, e kopa hore a atamelle."
+    }
+  ],
+  "translation": "Mme mosadi ya hlalefile a bitsa hodima lentwu ho tloha torong: Mamelang, mamelang; mo rengo Ya ka letshwalo ho Yoabe: Atamela ho ya mona, hore ke tle ke bule le wena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "956a147fb123f70f27aab65dbc29f9d585cb901c1712df27acb1b18cbdadc9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-samuel\/20\/16-16.1791265152110.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "a bitsa hodima lentwu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ya hlalefile"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "torong"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Mamelang"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mamelang"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mo rengo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ya ka letshwalo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "Atamela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "hore ke tle ke bule"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "le wena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:12.114600288Z",
+  "model": "glm-5.3"
+}

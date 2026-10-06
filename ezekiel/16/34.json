@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 16:34",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הפך ... להפך",
+      "rationale": "Pelela e boleloa hape qetellong — dikgutwana tse pedi di bopa kgutumela; se latelwa ka ho pheta 'moputso ... moputso'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואחריך לא זונה",
+      "rationale": "Ba fetoleli ba fapana: KJV 'ha ho ya latehang o hloloha' kgahlanong le JPS 'o ne o sa kopuwa' — hodima Seheberu se sa hlakahaleng hantle."
+    },
+    {
+      "kind": "substitution",
+      "subject": "se-sa-tshwaneng",
+      "rationale": "הפך ke 'phapano, se lokileng ho ba ka thoko' — Sesotho se hlopha ka mantswe a mangata."
+    }
+  ],
+  "translation": "Mme ho bile se-sa-tshwaneng ho wena, ho fapana le basadi, ka bohlola ba hao, mme ka mora hao ha ho a hloloha; mme ka ho fa ha hao moputso, mme moputso ha o a fanwa ho wena, mme o bile ⟨se-sa-tshwaneng⟩.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4990ae62acb073f03c5e04dd7428175191fa37865d3a5c08879cba1d768d347e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/16\/34-34.1791265368889.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme ho bile"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "se-sa-tshwaneng"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho fapana le"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "בתזנותיך",
+      "gloss": "ka bohlola ba hao"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "mme ka mora hao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "hloloha"
+    },
+    {
+      "surface": "ובתתך",
+      "gloss": "mme ka ho fa ha hao"
+    },
+    {
+      "surface": "אתנן",
+      "gloss": "moputso"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "mme moputso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a fanwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mme o bile"
+    },
+    {
+      "surface": "להפך",
+      "gloss": "se-sa-tshwaneng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:48.890067600Z",
+  "model": "glm-5.3"
+}

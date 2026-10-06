@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 4:13",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dinako",
+      "rationale": "Aramaic עִדָּנִין ke 'nako e behilweng', e ka bolelang selemo; 'dinako' e boloka bophara, e seng 'selemo' ka tlaelo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ya⟩ motho",
+      "rationale": "Seheberu (Aramaic) se re feela 'ho tloha motho'; sehlomathiso se hlokahala ho Sesotho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tse supa dinako",
+      "rationale": "Palo e hlakileng ya nako — supa dinako tse tlang ho feta hodima morena"
+    }
+  ],
+  "translation": "A fetolwe pelo ya hae ho tloha ⟨ya⟩ motho, mme pelo ya phoofolo e fuoe eena, mme dinako tse supa di fete hodima hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fe187bed73d8f8bb6c44eee217be4160e7704ff842c114c9af6df24eeb35b7c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/daniel\/4\/13-13.1791265680053.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבבה",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "אנושא",
+      "gloss": "⟨ya⟩ motho"
+    },
+    {
+      "surface": "ישנון",
+      "gloss": "a fetolwe"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "mme pelo ya"
+    },
+    {
+      "surface": "חיוה",
+      "gloss": "phoofolo"
+    },
+    {
+      "surface": "יתיהב",
+      "gloss": "e fuoe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "eena"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "mme tse supa"
+    },
+    {
+      "surface": "עדנין",
+      "gloss": "dinako"
+    },
+    {
+      "surface": "יחלפון",
+      "gloss": "di fete"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "hodima hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:00.056875789Z",
+  "model": "glm-5.3"
+}

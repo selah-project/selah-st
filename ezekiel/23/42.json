@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 23:42",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סובאים",
+      "rationale": "KJV\/Geneva ba bala jaaka 'banna ba Sabaea' (sechaba), ASV\/JPS jaaka 'ba nweletseng' ho tloha motso oa ho nwa ho khotofatseha — motso o bolela ho nwa ho isa boikokobetseng."
+    },
+    {
+      "kind": "elision",
+      "subject": "o ne o le",
+      "rationale": "Sesotho se hloka kopula eo Seheberu se e sieang."
+    },
+    {
+      "kind": "crux",
+      "subject": "ידיהן\/ראשיהן",
+      "rationale": "Pronoun ya bongata ya sesadi e bolela basadi ba mabeli (Ahole le Oholiba), empa 'banna ba Sabaea' ba hlaloswa e le banna ba sehlopha."
+    }
+  ],
+  "translation": "Mme modumo wa bongata bo nang le boiketlo o ne o le ho yona; le ho banna, ka bongata ba batho, ho ne ho hlahisitswe ba nweletseng ba tloha sekakeng; mme ba neha ditshebetso hodima matsoho a tsona, le korone e mosesane hodima mahloho a tsona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "94b09215b32ee69bdd720bbbe3e133a214eca043fd7b8b4acb78d36a6ed12bdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/23\/42-42.1791265429939.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקול",
+      "gloss": "Mme modumo"
+    },
+    {
+      "surface": "המון",
+      "gloss": "wa bongata"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "bo nang le boiketlo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ka bongata"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba batho"
+    },
+    {
+      "surface": "מובאים",
+      "gloss": "ho hlahisitswe"
+    },
+    {
+      "surface": "סובאים",
+      "gloss": "ba nweletseng"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ba tloha sekakeng"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mme ba neha"
+    },
+    {
+      "surface": "צמידים",
+      "gloss": "ditshebetso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ידיהן",
+      "gloss": "matsoho a tsona"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "le korone"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "e mosesane"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ראשיהן",
+      "gloss": "mahloho a tsona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:49.940596320Z",
+  "model": "glm-5.3"
+}

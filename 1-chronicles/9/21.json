@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Seheberu se se na copula; Sesotho se e hloka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tente ya kopano",
+      "rationale": "מועד ke 'nako e behilweng\/kopano' — ohel moed ketente ya kopano"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mohlokomeli",
+      "rationale": "שוער ke 'mongodi wa sebakeng sa kena' — motho a hlokomela kena"
+    }
+  ],
+  "translation": "Zekarjaha, mora wa Meshelemjaha, e ne e le mohlokomeli wa sebakeng sa kena satente ya kopano.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8ec262e97ceec8a9bd16891671b5ebce4940b989f304b6e6e360dbdbb2d04c1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/9\/21-21.1791265730221.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "Zekarjaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "Meshelemjaha"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mohlokomeli"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sebakeng sa kena"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tente ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:50.224070114Z",
+  "model": "glm-5.3"
+}

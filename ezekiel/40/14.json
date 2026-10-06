@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 40:14",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikama tse mashome a tsela",
+      "rationale": "Tekanyo ya mitsi ya sebakanyana: dikama tse mashome a tsela."
+    },
+    {
+      "kind": "crux",
+      "subject": "mitsi",
+      "rationale": "אילים: matlapa a mabapi a sebakanyana kapa mefuta ya dikubo tse mashome a tsela; ba-fetoleli ba fapana — KJV 'posts', JPS 'posts of the court', BSB 'gateposts high'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב",
+      "rationale": "Phetiso e hapilweng habeli (saviv saviv) bakeng sa ho potoloha ho feletseng; boima bo timetse ka Sesotho."
+    }
+  ],
+  "translation": "Mme a etsa ⟨את⟩ mitsi — dikama tse mashome a tsela — le ho fihlela motsi wa seraleng, sebakanyana se potoloha ka ho feletseng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "257d2cb55a4fe45b9ba72f9002170e82567123455847857903ec3566e746e906",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/40\/13-14.1791265434361.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitsi"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "mitsi"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "dikama tse mashome a tsela"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kama"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho fihlela"
+    },
+    {
+      "surface": "איל",
+      "gloss": "motsi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wa seraleng"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sebakanyana"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "se potoloha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka ho feletseng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:54.363449338Z",
+  "model": "glm-5.3"
+}

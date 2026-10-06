@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 43:14",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikubita tsa aletare",
+      "rationale": "Seterekeng sena ho balwa dipalo tse hlakileng: diama tse pedi, e le nngwe, tse nne, e le nngwe — mepeho ya aletare."
+    },
+    {
+      "kind": "crux",
+      "subject": "חיק",
+      "rationale": "'Sehube' (mocheso\/khamuhle) kgahlanong le 'motheo' (KJV) kapa 'moqopi' (BSB); peo e bolokilwe ka ho ea ka sebopeho sa yona."
+    },
+    {
+      "kind": "crux",
+      "subject": "עזרה",
+      "rationale": "Liphetolelo li fapana: 'teratere' (border\/ledge), 'settle' (KJV), 'mothathelesi' — lentsoe le bolela sekwere se koahetseng, eseng boapelele ba tempele."
+    },
+    {
+      "kind": "addition",
+      "subject": "e tla ba",
+      "rationale": "Seheberu se se na sephoso; palo e hlakile, sephoso se fane ka ponahalo ea tlhaho ea Sesotho."
+    }
+  ],
+  "translation": "Mme ho tloha sehubeng sa lefatshe ho fihlela ho ⟨את⟩ teratere ya ka tlase, e tla ba diama tse pedi, mme bophara bo le boima ba ama e le nngwe; mme ho tloha ho ⟨את⟩ teratere e nyenyane ho fihlela ho ⟨את⟩ teratere e kgolo, diama tse nne, mme bophara ba ama.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "25f986800024761cef42809e7356e6fa84f752642665d7ae837b6a376e432bd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/43\/14-14.1791265403912.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומחיק",
+      "gloss": "mme ho tloha sehubeng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela ho"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "teratere"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ya ka tlase"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "diama"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "mme bophara"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "ומהעזרה",
+      "gloss": "mme ho tloha ho"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "teratere e nyenyane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela ho"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "teratere"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tse nne"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "diama"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "mme bophara"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ba ama"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:23.913794361Z",
+  "model": "glm-5.3"
+}

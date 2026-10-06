@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "matsatsi leshome",
+      "rationale": "Palo e nepe: matsatsi leshome a lekeho."
+    }
+  ],
+  "translation": "Mme o ile a mamella ho bona, ho lentsoe lena, mme a ba leka matsatsi leshome.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "52b254b8eb7824c55bad2b70b864e07612ff3f9e09e763f2e3a0f3a393e48834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/daniel\/1\/14-14.1791265686361.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "o ile a mamella"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ho lentsoe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "mme a ba leka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "leshome"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:06.368642315Z",
+  "model": "glm-5.3"
+}

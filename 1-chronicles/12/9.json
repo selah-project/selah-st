@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 12:9",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וכצבאים",
+      "rationale": "E ngotswe joalo ka 'ditshwadi' empa lintlha li ka bua ka 'mabotho' (צבאים); meputso e mengata e bala 'ditshwadi' (צביים) — lephallelo ka potlako."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ופני ... פניהם",
+      "rationale": "Puiso ya 'fahleho' (פני\/פניהם) ka hare ho paleiso e le nngwe — pale ya Sesotho e boloka phetoho ka 'fahleho tsa bona fahleho tsa tau'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צנה",
+      "gloss": "Sebetsi se sebetsang joalo ka tlhaho; Sesotho se se nang lentswe le hlakileng la sone."
+    }
+  ],
+  "translation": "Mme ba bang ba Gadite ba ile ba arohana ho ya ho Dawide setsing sa naha e omileng — banna ba matla a maholo, banna ba mabotho a ntoa, ba hlokometseng sebetsi le lere; mme fahleho tsa bona e le fahleho tsa tau, ba lephallela jwalo ka ditshwadi hodima dithaba.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f3298850b9a517756c4e73c989a743d9489a5a4a009b03a74393e245fb7f683b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/12\/9-12.1791265782999.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Mme ba bang ba"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "Gadite"
+    },
+    {
+      "surface": "נבדלו",
+      "gloss": "ba ile ba arohana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "setsing sa"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "naha e omileng"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "banna ba matla"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "a maholo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mabotho"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "a ntoa"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "ba hlokometseng"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "sebetsi"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "lere"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "mme fahleho tsa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "tsa bona"
+    },
+    {
+      "surface": "וכצבאים",
+      "gloss": "jwalo ka ditshwadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "ba lephallela"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:43.002658252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 15:9",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עשרנים",
+      "rationale": "'Isson di omere — tekanyo ya sehlaha, e ngotsweng ka lentsoe la Sesotho la tekanyo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "di-omere tse tharo, halofo ya hine",
+      "rationale": "Direkoto tsa mekhahlelo ya minkha le mafura"
+    },
+    {
+      "kind": "addition",
+      "subject": "sehlekeng sa kolobe",
+      "rationale": "בן הבקar — 'morwana wa kgomo' ha o ngolwe ka ho qeta; 'kolobe' e kgetwa"
+    }
+  ],
+  "translation": "Mme o tla hlahisa minkha ho sona sehlekeng sa kolobe: sorgho-tholoana sa di-omere tse tharo, bo mebeditsweng ka mafura, e le halofo ya hine.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "6cc536ac4fdff24196fd86a631f3253c273d4d54a5527620e9f99c20d25b7b24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/15\/9-12.1791264976757.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "o tla hlahisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho sona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sehlekeng sa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kolobe"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sorgho-tholoana"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tse tharo"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "di-omere"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "bo mebeditsweng"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "halofo ya"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hine"
+    }
+  ],
+  "timestamp": "2026-10-06T05:36:16.763140773Z",
+  "model": "glm-5.3"
+}

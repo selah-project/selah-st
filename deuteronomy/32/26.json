@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפאיהם",
+      "rationale": "פאה e bolela 'ho fufumolla kapa ho phalla' — KJV e re 'ho phalla dikonthong', JPS 'ho ba fedisa'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "moral purpose",
+      "rationale": "Sebolelo se se ka boela sa bolela 'Ke ne ke nahana hore ke tla ba fedisa' — taelo e sa phethahatseng ya ikemetseng."
+    }
+  ],
+  "translation": "Ke ne ke re: Ke tla ba fufumolla, ke tla etsa hore ho hopolofole ha bona ho fedile ho batho.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8d1b1549e239f3380cd48fafebfae17d476469fb90b7d3f5f3e2b986e774c252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/32\/25-28.1791265082958.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ke ne ke re"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "ke tla ba fufumolla"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "ke tla etsa hore ho fedile"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "ho batho"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ho hopolofolela ha bona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:02.978646155Z",
+  "model": "glm-5.3"
+}

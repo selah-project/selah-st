@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mabala a senyehileng",
+      "rationale": "ערות e bolela 'a senyehileng' (pele 'a hlobotse') — KJV e re 'paper reeds', ASV 'meadows'; ke polediso eseng sebopeho sa lentswe."
+    },
+    {
+      "kind": "crux",
+      "subject": "Yeore",
+      "rationale": "יאור ke molambo wa Egepeta (Nile); balatedi ba fapana: 'brooks', 'Nile', 'canals'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "YeoreYeoreYeore",
+      "rationale": "גSeheberu se pheta 'yeor' makgetlo a mararo sebopeng; phepiso e tsamaisang e nyamela ka Sesotho."
+    }
+  ],
+  "translation": "Mabala a senyehileng hodima Yeore, hodima molomo wa Yeore; mme sonotheho sohle sa Yeore se tla omella, se phatloha, mme se se sa leo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "803aedce64c4c9a42058526a58c404818c83ba07e1e9d31f824c8a66386fed7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/19\/7-7.1791265305760.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "mabala a senyehileng"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "Yeore"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "Yeore"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme sonotheho sohle sa"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "sehlwe se hlaletsweng"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "Yeore"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "se tla omella"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "se phatloha"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "mme se se sa leo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:45.761296401Z",
+  "model": "glm-5.3"
+}

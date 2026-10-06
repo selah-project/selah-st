@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 21:37",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Seheberu se na le setshwantshiso feela se kopantsweng le lentsoe la 'bolaea' le 'reka'; Sesotho se hloka tatswalo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dietsele tse hlano le nama tse nne",
+      "rationale": "Phetisetso e ka tekanyo e hlakileng — meputso ya kganyetlo ya toro"
+    },
+    {
+      "kind": "substitution",
+      "subject": "namane",
+      "rationale": "שׂה e kanna ya be ntho ea bohlokwa kapa namane; lentsoe le le leng le kentswe"
+    }
+  ],
+  "translation": "Ha motho a utsoe ⟨את⟩ nomoro ya kgomo kapa ⟨את⟩ namane, a e bolae kapa a e rekise, o tla lefala ka dietsele tse hlano tsa kgomo sebakeng sa kgomo, le ka nama tse nne sebakeng sa namane.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "afcf93f0ea526ec85e5e6a9434ce17b66acffb57707532c6f4f28d19f09f3a1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/21\/37-37.1791264770062.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "a utsoe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nomoro ya kgomo"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "namane"
+    },
+    {
+      "surface": "אוטבחו",
+      "gloss": "a e bolae"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "a e rekise"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dietsele tsa kgomo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla lefala"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "השור",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le ka nama tse nne"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nama"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "השה",
+      "gloss": "namane"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:50.077685707Z",
+  "model": "glm-5.3"
+}

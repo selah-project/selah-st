@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mehöle",
+      "rationale": "עדניך ke 'mehöle ya hao' — ka Sesotho ha ho na lentswe le le mong le amanang ka botlalo le Eden\/pleasure"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדניך\/עדן",
+      "rationale": "Lentswe le tshwana le Eden ya Genese — tshwaro e laeditswe, mme e timetse ho Sesotho"
+    }
+  ],
+  "translation": "Ba tla khotlufala ka mafura a ntlo ya hao, mme o tla ba fetoletsa ho noa mora wa mehöle ya hao.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "04556530a71ee17491f0907cfff108e8e3738eb703c8a34629b0e6566f5b0c18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/36\/9-9.1791265504283.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "ba tla khotlufala"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya hao"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "mme mora"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "mehöle ya hao"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "o tla ba fetoletsa ho noa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:04.285732928Z",
+  "model": "glm-5.3"
+}

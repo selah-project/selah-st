@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 12:30",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikete tse tharo",
+      "rationale": "pal ya banna ba Binjamine e balewa."
+    },
+    {
+      "kind": "crux",
+      "subject": "boloka tshireletso",
+      "rationale": "mishmeret 'tshireletso\/kamohelo': JPS 'allegiance' (kamohelo) kgahlanong le 'keep the charge\/guard' (boloka tshireletso); tlhokomelo e kgetwa e le ea boitšoaro (šomisa Sesotho)."
+    }
+  ],
+  "translation": "Mme ho tswa ho bara ba Binjamine, bana-baholo ba Shaule, ba le dikete tse tharo; hobane ho fihla jwale, bongata ba bona bo ne bo ntse bo boloka ⟨את⟩ tshireletso ya ntlo ya Shaule.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "6b786a9778eb434457d2beef363d1e49a4ea77b5b631a45f190c9596289efcfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/12\/30-30.1791265743370.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "mme ho tswa ho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara ba"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamine"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bana-baholo ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba le dikete tse"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hobane ho fihla"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "מרביתם",
+      "gloss": "bongata ba bona"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "bo ne bo ntse bo boloka"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tshireletso ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:03.373109666Z",
+  "model": "glm-5.3"
+}

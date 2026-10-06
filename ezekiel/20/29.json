@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 20:29",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "במה \/ במה",
+      "rationale": "Puntlo ya Seheberu: potso ya 'babah' (lefifing) e arabelwa ke lebitso la sebakeng Bamah — papadi e lostwang ka Sesotho, ka hona e hlokometsoe ka mongolo o fapaneng."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Yisraele",
+      "rationale": "Potso ya kahare e bitela Yisraele ka kotloloho."
+    },
+    {
+      "kind": "invitation",
+      "subject": "potso",
+      "rationale": "Potso 'Ke eng babah?' e kopa karabo ho mobadi."
+    }
+  ],
+  "translation": "Mme ya re ho bona: Ke eng ha e le babah — moo le yang teng? Mme lebitso la yona le ile la bitsoa Bamah, ho fihlela lehono.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c9df312a7f701c155e08ffefce2ad9502b9841c1d7c773c3bd6833b68044e072",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/20\/29-29.1791265358858.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וָאֹמַר",
+      "gloss": "Mme ya re"
+    },
+    {
+      "surface": "אֲלֵהֶם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "מָה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "הַבָּמָה",
+      "gloss": "babah"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אַתֶּם",
+      "gloss": "le"
+    },
+    {
+      "surface": "הַבָּאִים",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "teng"
+    },
+    {
+      "surface": "וַיִּקָּרֵא",
+      "gloss": "le ile la bitsoa"
+    },
+    {
+      "surface": "שְׁמָהּ",
+      "gloss": "lebitso la yona"
+    },
+    {
+      "surface": "בָּמָה",
+      "gloss": "Bamah"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "letsatsi le"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "lehono"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:38.861704940Z",
+  "model": "glm-5.3"
+}

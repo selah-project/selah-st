@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 1:50",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bohaleng ba",
+      "rationale": "מפני e bolela 'sefahleho sa' — 'bohaleng ba' ke moelelo wa tlwaelo wa ho tshaba 'ka baka la'"
+    }
+  ],
+  "translation": "Mme Adonija a tshaba bohaleng ba Solomone, a ema, a tsamaea, a tshwara ka dinoka tsa althara.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "a6c8119a14838cf3ab293c1e5779fa579264a03befe3b46b1dbc36265e47ea84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-kings\/1\/50-50.1791265147104.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדניהו",
+      "gloss": "Mme Adonija"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "a tshaba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "bohaleng ba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a tsamaea"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "a tshwara ka"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "dinoka tsa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "althara"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:07.113162733Z",
+  "model": "glm-5.3"
+}

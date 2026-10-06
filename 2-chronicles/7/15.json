@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פתחות",
+      "rationale": "'Mahlo a butswe' — Sesotho se hlalosa tlhaku ya ho bula; 'a butsoang hantle' e ka ba e nepahetseng haholoanyane."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Solomone le batho ba Yisraele",
+      "rationale": "Yahwe a bolela ka mahlo a hae le ditsebe tsa hae sebakeng sa tempele, a tee le mantsoe a heso a 7:14."
+    }
+  ],
+  "translation": "Jwale mahlo a ka a tla ba a butswe, mme ditsebe tsa ka tla mamela hantle, ho thapelo ya sebakeng sena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "cc4b07aa4d9070104ec6a8d5f1247fcddaeff9369ee19ef2527325c3b67bb37c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/7\/15-15.1791265789410.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Jwale"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "a tla ba"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "a butswe"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "mme ditsebe tsa ka"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "tla mamela hantle"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "ho thapelo ya"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:49.411041787Z",
+  "model": "glm-5.3"
+}

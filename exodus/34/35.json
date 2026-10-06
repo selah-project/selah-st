@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 34:35",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרן",
+      "rationale": "'ho ntsha meno-horn' kgahlanong le 'ho khanya': Vulgate e ile ya fetolela 'horned' (ya nang le meno-horn), baphetoli ba bangata ba kgetha 'ho khanya'"
+    },
+    {
+      "kind": "addition",
+      "subject": "o ne a",
+      "rationale": "Moumeli wa nakwana oa Sesotho, Seheberu se mo sena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "le ne le khanya",
+      "rationale": "קרן e bolela ka tlhaho 'ho ntsha horn\/rays' — seswantsho sa khanya se se nang teko e thata ho Sesotho"
+    }
+  ],
+  "translation": "Mme bana ba Yisraele ba ne ba bona ⟨את⟩ sefahleho sa Moshe, hobane letlalo la sefahleho sa Moshe le ne le khanya; mme Moshe o ne a busetsa ⟨את⟩ sefokotsi hodima sefahleho sa hae, ho fihlela a kena hore a mmonye.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d20b32e6ab197588eb0baae6630168182d4be4507f8d9a018836908c929748b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/34\/34-35.1791264835589.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "mme ba ne ba bona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa Moshe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "le ne le khanya"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo la"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "mme o ne a busetsa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefokotsi"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "sefokotsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa hae"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "באו",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "hore a bolele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:55.604663097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 30:6",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Bana ba Yisraele",
+      "rationale": "Boeledi bo tobileng ho bana ba Yisraele ka mekgwato ya setjhaba oohle."
+    },
+    {
+      "kind": "invitation",
+      "subject": "khutlelang ho Yahwe",
+      "rationale": "Taelo ea ho khutlela — mokoalla o hodimileng ho bao ba balang mangolo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שובו \/ וישוב",
+      "rationale": "'Khutlelang' le 'o tla khutlela' — phetišano ea motso o mong, sephetha se le sehlakoreng sa Sesotho."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרצים",
+      "rationale": "Seheberu se re 'ba sisibohang' (runners); Sesotho se hlalosa 'barumuoa ba sisibohang'."
+    }
+  ],
+  "translation": "Mme barumuoa ba ile ka mangolo, ho tswa ho morena le baholo ba hae, ho Yisraele oohle le Yuda, jwalo ka taelo ea morena, e re: Bana ba Yisraele, khutlelang ho Yahwe, Elohim ea Abrahame, ea Yitshake le ea Yisraele, mme o tla khutlela ho sepholohile se setseng ho lona, ho tswa letsong la bomorena ba Ashure.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "02fcc297e4357012474274384c0aaf0d6b7dff70955ecaab5522785b27c0105c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/30\/5-6.1791265839262.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ba ile"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "barumuoa ba sisibohang"
+    },
+    {
+      "surface": "באגרות",
+      "gloss": "ka mangolo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ho tswa ho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "le baholo ba hae"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele oohle"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le Yuda"
+    },
+    {
+      "surface": "וכמצות",
+      "gloss": "jwalo ka taelo ea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "e re"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "khutlelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ea"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "le Yisraele"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme o tla khutlela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הפליטה",
+      "gloss": "sepholohile"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "se setseng"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "letsong la"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bomorena ba"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:39.276476415Z",
+  "model": "glm-5.3"
+}

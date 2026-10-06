@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 31:21",
+  "book": "job",
+  "lang": "st",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אראה בשער עזרתי",
+      "rationale": "'ha ke ne ke bona thuso ya ka kgolong' (KJV\/JPS) kgahlanong le 'ha ke bona mothuso' kgahlanong le YLT e sa hlakang; Sesotho se latela ho bala ha KJV\/JPS."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הניפותי",
+      "rationale": "נוף e bolela ho thunyela\/ho hlahla — seatla se hlahlisitsoeng joalo ka thwii ya tlase, sesupo sa kahlolo; mmele o timetse ka tsela e itseng."
+    }
+  ],
+  "translation": "Haeba ke ile ka hlahla seatla sa ka holima kgodisedi, hobane ke ne ke bona thuso ya ka kgolong:",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "e024edc2a1efcfab0a3a84bf14cbf4839cbe99241495b0fd798392c98401a815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/31\/21-21.1791265858197.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "haeba"
+    },
+    {
+      "surface": "הניפותי",
+      "gloss": "ka hlahla seatla"
+    },
+    {
+      "surface": "על",
+      "gloss": "holima"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "kgodisedi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kgolong"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "thuso ya ka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:58.199673221Z",
+  "model": "glm-5.3"
+}

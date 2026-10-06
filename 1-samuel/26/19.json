@@ -1,0 +1,173 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 26:19",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "a nkohe minkha",
+      "rationale": "ירח מנחה: 'let him smell the offering' (literal, geneva\/ylt) vs 'let him accept an offering' (kjv\/jps); Sesotho keeps the literal picture of smelling."
+    },
+    {
+      "kind": "substitution",
+      "subject": "monga ka",
+      "rationale": "אדני is human (Saul), so 'monga ka' not Adonai."
+    },
+    {
+      "kind": "crux",
+      "subject": "ho hokahala",
+      "rationale": "מהסתפח (hapax of ספח): 'be joined\/associated with' (jps\/asv) vs 'share in' (bsb); rendered as joining."
+    },
+    {
+      "kind": "you",
+      "subject": "to Saul, morena",
+      "rationale": "David's direct address to the king throughout the verse."
+    }
+  ],
+  "translation": "Mme jwale, ke kopa, a utlwe monga ka morena ⟨את⟩ mantswe a motlhanka oa hae: ha Yahwe o go hlohleletse ka nna, a nkohe minkha; mme ha e le bana ba batho, ba rohakiloe ba pele ga Yahwe, hobane ba ntlositse kajeno ho hokahala le boswa ba Yahwe, ho re: Tsamaya, dire Elohim a bang.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1e73860dbadf215b9175dbc5cf4f534787f796458c2bd31fffff77645eb464c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-samuel\/26\/19-19.1791265198761.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "a utlwe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "monga ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "a motlhanka oa hae"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הסיתך",
+      "gloss": "o go hlohleletse"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "a nkohe"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ba batho"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "ba rohakiloe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "גרשוני",
+      "gloss": "ba ntlositse"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kajeno"
+    },
+    {
+      "surface": "מהסתפח",
+      "gloss": "ho hokahala"
+    },
+    {
+      "surface": "בנחלת",
+      "gloss": "le boswa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ba Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ho re"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tsamaya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "dire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "a bang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:58.768685928Z",
+  "model": "glm-5.3"
+}

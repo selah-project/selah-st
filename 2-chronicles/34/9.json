@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 34:9",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הסף",
+      "rationale": "'lemati' kgahlanong le 'mošomo\/threshold' — bahlolang ba mošomo wa tempele"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וישבי",
+      "rationale": "KJV\/JPS e bala 'ba boela Yerushalayime'; mongolo o ka bolela 'ba dulang Yerushalayime' joalo ka ASV\/BSB"
+    },
+    {
+      "kind": "measurement",
+      "subject": "selefera",
+      "rationale": "go ka ga bokotla le ho nehanwa ha madi a tempele"
+    }
+  ],
+  "translation": "Mme ba fihla ho Khilkiiahu moprista mogolo, mme ba neha ⟨את⟩ selefera eo e neng e kentsoe ntlong ya Elohim, eo balevite, bahlolang ba lemati, e neng e ba e bokotlile ho tloha letsong la Menashe le Efereime, le ho tloha ho seng se setseng sa Yisraele, le ho tloha ho Yuda le Benjamine, le ho tloha ho ba dulang Yerushalayime.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9f7794851d84a98d3620b86d42b2e7c3ad1c9ffc17bca9a4ed8d2459a41277be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/34\/8-9.1791265825780.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Mme ba fihla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khilkiiahu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mme ba neha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selefera"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selefera"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "eo e neng e kentsoe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "e neng e ba e bokotlile"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevite"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "bahlolang"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ba lemati"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ho tloha letsong la"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "le Efereime"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "le ho tloha ho"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "seng se setseng sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "le ho tloha ho"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "le Benjamine"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "le ho tloha ho ba dulang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:25.825410185Z",
+  "model": "glm-5.3"
+}

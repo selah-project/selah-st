@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 39:40",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Mishkane",
+      "rationale": "המשכן ha ho fetohe: Mishkane, eseng 'tabernakele' (melao D2)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "khema ea phutheho",
+      "rationale": "אהל מועד — 'tent of meeting'; Sesotho: khema ea phutheho."
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenane la didiriswa",
+      "rationale": "Setshwantsho sena ke lenane la didiriswa tsa Mishkane — bopelelele ba 'bophara' ba ho bala."
+    }
+  ],
+  "translation": "⟨את⟩ dilekane tsa lekalabari, ⟨את dikolomo tsa lona⟩ le ⟨את meala ea lona⟩, le ⟨את leru la sebaka sa kalabari⟩, ⟨את menaheng ea lona⟩ le ⟨את melamu ea lona⟩, le ⟨את⟩ dithulusi tsohle tsa mosebeti oa Mishkane, ea khema ea phutheho.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8a3af6a4b46587b9c2142f43ef6e7baf9a2e2a6e0d5f00fa1daa6b2c92d3baee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/39\/40-40.1791264814058.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilekane tsa lekalabari"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "dilekane"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tsa lekalabari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikolomo tsa lona"
+    },
+    {
+      "surface": "עמדיה",
+      "gloss": "dikolomo tsa lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "meala ea lona"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "meala ea lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "leru la sebaka sa kalabari"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "leru"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "la sebaka sa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kalabari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menaheng ea lona"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "menaheng ea lona"
+    },
+    {
+      "surface": "ויתדתיה",
+      "gloss": "le melamu ea lona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithulusi tsohle tsa mosebeti oa Mishkane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dithulusi"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tsa mosebeti oa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ea khema ea"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "phutheho"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:34.065333103Z",
+  "model": "glm-5.3"
+}

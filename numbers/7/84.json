@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "numbers 7:84",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "Seheberu se bolela 'ho tswa ho' (H854), se ne se le sehlabelo feela; ⟨את⟩ e bolokwa jwaloka ha melaodi e re."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dikotoana di leshome le pedi",
+      "rationale": "Lenane la didiriswa: 12 + 12 + 12, karolo ya kakaretso ya dinehelo tsa baholo."
+    }
+  ],
+  "translation": "Sena ke phethiso ya aultarea, ka letsatsi la ho lotsa ⟨את⟩ yona, ho tswa ho baholo ba Yisraele ⟨את⟩: dikotoana tsa sekere di leshome le pedi, dikoere tsa sekere di leshome le pedi, dikhato tsa gauta di leshome le pedi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "14d831160a3d5f5c7bfb4d4057d56c4e180e18a9b6e5d88e0cf46c1845e79dcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/7\/84-87.1791265033206.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "sena"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "phethiso"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya aultarea"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "ho lotsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "aultarea"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "baholo ba Yisraele"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "baholo ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "dikotoana"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tsa sekere"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "leshome le"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "מזרקי",
+      "gloss": "dikoere"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tsa sekere"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "leshome le"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "dikhato"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tsa gauta"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "leshome le"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pedi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:13.216895153Z",
+  "model": "glm-5.3"
+}

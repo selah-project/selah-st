@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 9:19",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משמרת",
+      "rationale": "‘taelo’ — משמרת e bolela ‘thwesyo\/mmisele’; motso o le mong wa שמר, ‘ho boloka’"
+    }
+  ],
+  "translation": "Mme ha leru le neng le tahlehodima Mishkane matsatsi a menehang, bana ba Yisraele ba ne ba boloka ⟨את⟩ taelo ya Yahwe, mme ba se ke ba tla.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5b4317e2f11da8bf2ae02187120cc6d963ae5268a285d5e209b5bf492733aa5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/9\/17-20.1791264983921.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהאריך",
+      "gloss": "mme ha ... le neng le tahela"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "leru"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a menehang"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ba ne ba boloka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo ya Yahwe"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ke"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "ba tla"
+    }
+  ],
+  "timestamp": "2026-10-06T05:36:23.935482253Z",
+  "model": "glm-5.3"
+}

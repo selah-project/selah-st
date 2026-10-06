@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sehalahala",
+      "rationale": "הגג ke maru a fapaaneng a malapa a Seheberu; 'sehalahala' ke karolo e bonahalang, mmele o felletseng ha o na lentse le tshwanang"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלתה עליהם על",
+      "rationale": "phetoko ya 'al — 'a ya hodima ho bona hodima' — thrice 'al in Seheberu, boima bo itseng ka Sesotho"
+    }
+  ],
+  "translation": "Mme ba sa ntse ba sa robale, yena a ya hodima ho bona, hodima sehalahala.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "cb3f936ccb26edfbbc9bed2337df4052471511cd6616b4d6c7ec89e7d84936f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/2\/8-8.1791265058615.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Mme ba"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ba sa ntse ba sa"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "robale"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "a ya hodima"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "sehalahala"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:38.639323938Z",
+  "model": "glm-5.3"
+}

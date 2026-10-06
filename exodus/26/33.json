@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 26:33",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "patakethe",
+      "rationale": "פרוכת ke sehlaho sa ho arola se halalelang; Sesotho se sa tlwaelehang sa lentswe lena"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש \/ קדש הקדשים",
+      "rationale": "phetišo ya motso o le mong: sehalalelo sa dihalalelo — sebopeho sa Seheberu se bolokilwe"
+    },
+    {
+      "kind": "measurement",
+      "subject": "peakanyo ya tlhore",
+      "rationale": "verse e hlalosa moaho wa tlhore — kamoo dilo di beilweng kateng"
+    }
+  ],
+  "translation": "Mme o tla bea ⟨את⟩ patakethe tlasa ho dikekereng, mme o tla isa teng, ka hare ho patakethe, ⟨את⟩ arone ya bopaki; mme patakethe e tla arola bakeng sa lona pakeng tsa sehalalelo le pakeng tsa sehalalelo sa dihalalelo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0d118d447bc0b5786b4bce5b7d7c065a1a11d00d51cabb625c1af25530f278b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/26\/33-33.1791264817915.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "o tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patakethe"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "patakethe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlasa"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "ho dikekereng"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "mme o tla isa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "teng"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "patakethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arone ya bopaki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arone"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ya bopaki"
+    },
+    {
+      "surface": "והבדילה",
+      "gloss": "mme e tla arola"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "patakethe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bakeng sa lona"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sehalalelo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le pakeng tsa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sehalalelo"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sa dihalalelo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:37.926728332Z",
+  "model": "glm-5.3"
+}

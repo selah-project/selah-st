@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 11:31",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "H854 'with them' (ba tswa le bona) kgahlanong le ho bala e le H853 'them' — Terake esita a ba tswa le bona."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כלתו",
+      "rationale": "כלה ke 'ngwetehali' — mosadi wa mora — e seng morali wa Terake ka botsong."
+    }
+  ],
+  "translation": "Mme Terake a nka ⟨את⟩ Abrahame mora wa hae, le ⟨את⟩ Lothe mora wa Harane, mora wa mora wa hae, le ⟨את⟩ Sarai ngwetehali ya hae, mosadi wa Abrahame mora wa hae; mme ba tswa ⟨את⟩ le bona ho tloha Ur ya Bakasde, ho ya lefatsheng la Kenaane; mme ba fihla ho fihlela Harane, mme ba dula teng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1636846ca60f0d236c8e06b5b9b3c595dda25b0973324bbd7b4dc4d98bd150eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/11\/31-32.1791264732889.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahame"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Lothe"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lothe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Sarai"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ngwetehali ya hae"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ba tswa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ le bona"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ho tloha Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Bakasde"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "lefatsheng la"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaane"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harane"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:12.896591799Z",
+  "model": "glm-5.3"
+}

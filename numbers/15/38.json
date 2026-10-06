@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 15:38",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Moshe, bakeng sa bana ba Yisraele",
+      "rationale": "Taelo ya ho buoa: bala e bitela setjhaba ho etsa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsitsith",
+      "rationale": "ציצת ke lentsoe la Seheberu la ntho e jelweng — le bolotswe, ha ho a fetolelwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "תכלת",
+      "rationale": "Mmala o tswang mokoko oa khomo: 'tala-tala', 'mmedi' kapa 'halahala' — mohlala o mong le o mong o khethea."
+    },
+    {
+      "kind": "measurement",
+      "subject": "maloko a tsona",
+      "rationale": "Taelo e tselletseng moloko le moloko — nako e baloa."
+    }
+  ],
+  "translation": "Buoa le bana ba Yisraele, mme o re le bona hore ba etselle eona tsitsith hodima maqephe a diaparo tsa bona, bakeng sa maloko a tsona, mme ba be hodima tsitsith ya qephe sengolwa se tala-tala.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b0eaa192438e30e00313e0fd97da53c0157de25ae0228a247351c6ff14f12b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/15\/38-38.1791264953335.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Buoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "mme o re le bona"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ba etselle"
+    },
+    {
+      "surface": "להם",
+      "gloss": "eona"
+    },
+    {
+      "surface": "ציצת",
+      "gloss": "tsitsith"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "maqephe"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "a diaparo tsa bona"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "bakeng sa maloko a tsona"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mme ba be"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ציצת",
+      "gloss": "tsitsith ya"
+    },
+    {
+      "surface": "הכנף",
+      "gloss": "qephe"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "sengolwa"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "se tala-tala"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:53.338924660Z",
+  "model": "glm-5.3"
+}

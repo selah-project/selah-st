@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצנות",
+      "rationale": "צנות: 'menontwana' (dikuku tse bopang dinama) kgahlanong le 'dishilde' kapa 'dintho tse hlaba' — kgetho e tsejwa hara bafetoledi."
+    },
+    {
+      "kind": "crux",
+      "subject": "בסירות דוגה",
+      "rationale": "'dinepe tsa tlhapi' (fishhooks) kgahlanong le 'dikuku tsa fish' (pots, KJV 'fishhooks' vs 'boiling pots') — סירות e ka bolela nepa kapa sekepe."
+    },
+    {
+      "kind": "you",
+      "subject": "ho lona",
+      "rationale": "Tlhahlobo e tobile ho basadi ba Shomrone ka boona ('lona', 'ba lona' ka bongatsa ba basadi)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bosalela bo se nang letho",
+      "rationale": "ואחריתכן e bolela 'bofelo ba lona' kapa 'lokaseho ea lona' — peo ya morao, eseng feela tlokotloko."
+    }
+  ],
+  "translation": "Adonai Yahwe o ikannetse ka bohalaleli ba hae: hobane bonang, matsatsi a tla ho lona, mme ba tla lo ntsha ka menontwana, mme bosalela bo se nang letho ba lona ka dinepe tsa tlhapi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "cc68cbc83675aa4345853d9519aab90b4254fdee06efed5d00e9dc789498ad38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/amos\/4\/1-2.1791265473012.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "o ikannetse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ka bohalaleli ba hae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mme ba tla lo ntsha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona (dinama tsa Bashane)"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "ka menontwana"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "mme bosalela bo se nang letho ba lona"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "ka dinepe"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "tsa tlhapi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:33.026544643Z",
+  "model": "glm-5.3"
+}

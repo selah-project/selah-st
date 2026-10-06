@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "jeremiah 51:41",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Sheashake",
+      "rationale": "ששך ke lebitso la bokgonothi la Babele (atbash: ש↔ב, ך↔ל); diphetholelo tse ding di boloka lebitso kapa di fetola ho Babele."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איך ... איך",
+      "rationale": "Poeletso ya 'Joang' habelo e bopa tlhokomelo ya lengolo; e bolokwa ka Sesotho."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sekgopisa mahlong",
+      "rationale": "לשמה e bolela phemohalo e bakang tshisinyo; 'sekgopisa mahlong' ke tsamaiso e atlehileng."
+    }
+  ],
+  "translation": "Joang ha Sheashake e tsewa, mme thoriso ya lefatshe lohle e tshwarwa! Joang ha Babele e fetohile sekgopisa mahlong among dikgwedi!",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2c0918898f866253b0a773a9e0a6161dfdfdcd2be1d5e74b768d29e8ae64735d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/51\/41-41.1791265350337.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Joang"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "e tsewa"
+    },
+    {
+      "surface": "ששך",
+      "gloss": "Sheashake"
+    },
+    {
+      "surface": "ותתפש",
+      "gloss": "mme ... e tshwarwa"
+    },
+    {
+      "surface": "תהלת",
+      "gloss": "thoriso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Joang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e fetohile"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "sekgopisa mahlong"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "among dikgwedi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:30.338271069Z",
+  "model": "glm-5.3"
+}

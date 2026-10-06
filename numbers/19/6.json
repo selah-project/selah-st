@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 19:6",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shenye-tola",
+      "rationale": "שני תולעת ke 'phooko ea khalebo' (tola ea mmala oa khalebo); Sesotho se hloka mantsoe a mabeli ho 'ngoe ea Seheberu"
+    },
+    {
+      "kind": "addition",
+      "subject": "li",
+      "rationale": "Seheberu se na le praemane ea setšo ho השליך; Sesotho se hloka 'li' ho hlalosa hore ke linepe tše tharo"
+    }
+  ],
+  "translation": "Mme moprista o tla nka sefate sa sedare, le aezobo, le shenye-tola, mme a li lahla hare ho tšoaetsong ea phoofolo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "287d10184d0e64f52543b67ca3791fd52f08a35a2b4017c98b881a6746a5b37f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/19\/5-6.1791264972692.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mme o tla nka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sa sedare"
+    },
+    {
+      "surface": "ואזוב",
+      "gloss": "le aezobo"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "le shenye"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "-tola"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "mme a li lahla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "hare"
+    },
+    {
+      "surface": "שרפת",
+      "gloss": "tšoaetsong ea"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "phoofolo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:36:12.699273254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 35:21",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוחו e lokisoa ka 'ruakh' ka mokhoa o tsotehang, eseng 'moya' feela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשאו לבו \/ נדבה רוחו",
+      "rationale": "phetheho e lekanang: pelo e tsosa, ruakh e tataisa — lipakane tse pedi tse tsamaellanang"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "aleph-tav e amahanngwang le motho ya tataisitsoeng, e hlalositswe ka ⟨את⟩"
+    }
+  ],
+  "translation": "Mme ba tla, motho e mong le e mong ya neng a mo tsosa pelo ya hae, le motho e mong le e mong ya neng ruakh ya hae e mo tataisitse, ba hlahisa ⟨את⟩ mpho ya Yahwe bakeng sa mosebetsi wa tende ya kopano, le bakeng sa tšebeletso ya yona kaofela, le bakeng sa diaparo tsa sehalalelo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8fa2d4ce9da6725d628ed0b00e993cfd0b48b72b9fbd85991548d499cb38d459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/35\/21-21.1791264824130.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "mme ba tla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e mong le e mong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "a mo tsosa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le e mong le e mong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "e mo tataisitse ka boithaopo"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh ya hae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "motho ya tataisitsoeng"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ba hlahisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpho ya Yahwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "bakeng sa mosebetsi wa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kopano"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le bakeng sa kaofela"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "tšebeletso ya yona"
+    },
+    {
+      "surface": "ולבגדי",
+      "gloss": "le bakeng sa diaparo tsa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sehalalelo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:44.171770831Z",
+  "model": "glm-5.3"
+}

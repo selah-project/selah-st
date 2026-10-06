@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הספן",
+      "rationale": "Mefuta e fapaneng: 'wainscot' (dikota tsa khoeli), 'seiling' kapa 'dikopano tsa seiling' (JPS); ke sela se sa hlakahaleng sa Seheberu."
+    },
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "Beroshi: KJV 'fir', JPS 'cypress' — mofuta oa mokota o sa tsejeng hantle; ke lentsou la Seheberu le bolokilweng."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צלעות",
+      "rationale": "Tlhaloso ea 'mahlahare' (dikota) bakeng sa 'tsela' (letheka, sehlaha) — sebopeho sa 'motho' se lahilehetse Sesotho."
+    },
+    {
+      "kind": "measurement",
+      "subject": "templi",
+      "rationale": "E hlalosa kaho ea templi — bopara le ho apara, karolo ea tekanyo ea ntlo ea Yahwe."
+    }
+  ],
+  "translation": "Mme o ile a haha ⟨את⟩ diala tsa ntlo ka hare ka mahlahare a sedare, ho tloha phaphatheng ea ntlo ho fihlela dialeng tsa seiling, a di apara ka pente ka hare; mme o ile a apara ⟨את⟩ phaphathe ea ntlo ka mahlahare tsa beroshi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0657c1f4bb59a9584de912625b8ef294f1fd7bd8f3afe5b64459ca027dda226b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-kings\/6\/15-15.1791265183077.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "o ile a haha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diala tsa ntlo"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "diala"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tsa ntlo"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "ka hare"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "ka mahlahare"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "a sedare"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "ho tloha phaphatheng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ea ntlo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "dialeng"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "tsa seiling"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "a apara"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ka pente"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ka hare"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "mme o ile a apara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phaphathe ea ntlo"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "phaphathe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ea ntlo"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "ka mahlahare"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "tsa beroshi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:43.081957164Z",
+  "model": "glm-5.3"
+}

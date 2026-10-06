@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 5:7",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וימלך לבי עלי",
+      "rationale": "Sesotho: 'pelo ya ka ya busa hodima □' — pelo e 'busa', sesupo sa ho hlakanya, eseng 'ka hlakanya le nna' jwalo ha KJV"
+    },
+    {
+      "kind": "crux",
+      "subject": "משא",
+      "rationale": "Lentswe le ra 'mokoloto\/kamoo ea mokoloto' — phapanyetsano: 'usura' (KJV) kgahlanong le 'ho nka ka tshepiso' (JPS)"
+    }
+  ],
+  "translation": "Mme pelo ya ka ya busa hodima □, mme ke ile ka loantshana le ⟨את⟩ bahlorisi le ⟨את⟩ basegani, mme ka re ho bona: Mokoloto wa motho ka moomu wa hae le oona le a nka; mme ke ile ka beha khokano e kgolo khahlanong le bona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "945204cef4cb2f57f7c2c0f9d17b5c4f0dd991e04f7907bdc6d33fc50955081a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/nehemiah\/5\/7-8.1791265706141.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ya busa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hodima □"
+    },
+    {
+      "surface": "ואריבה",
+      "gloss": "ke ile ka loantshana le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahlorisi"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "bahlorisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "basegani"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "basegani"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "mme ka re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "משא",
+      "gloss": "mokoloto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "ka moomu wa hae"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le oona"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "le a nka"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mme ke ile ka beha"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "khahlanong le bona"
+    },
+    {
+      "surface": "קהלה",
+      "gloss": "khokano"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e kgolo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:26.146842698Z",
+  "model": "glm-5.3"
+}

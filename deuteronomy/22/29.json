@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 22:29",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "shekele",
+      "rationale": "Seheberu se re 'mashome a mane ha feela wa selekane' — 'shekele' se ekeditswe ho ⟨…⟩ ka molao wa ditekanyo (D3)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "o mo sotletse",
+      "rationale": "ענה ke 'ho sotla, ho otla fatshe' — phetolelo ya 'ho nyefotsa' e boima ho feta tekano"
+    },
+    {
+      "kind": "measurement",
+      "subject": "shekele tse mashome a mane",
+      "rationale": "Tekanyo ya sekhahla e hlaloswa ka botlalo"
+    }
+  ],
+  "translation": "Mme monna ya robekang le eena o tla fana ka sekhahla sa shekele tse mashome a mane a selekane ho ntata ngoana, mme eena o tla ba mosadi wa hae, hobane o mo sotletse; a ke ke a mo lahla metsotso eohle ya matsatsi a hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f4f013ef082782703f145225bea70fbe9fcaf7df4c4d123500544406c7779d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/22\/29-29.1791265060726.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "mme o tla fana ka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "ya robekang"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "ho ntata"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ngoana"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mashome a mane"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "mme ho eena"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mosadi wa hae"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "o mo sotletse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ke ke a"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kgona"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "a mo lahla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "metsotso eohle"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ya matsatsi a hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:40.733649250Z",
+  "model": "glm-5.3"
+}

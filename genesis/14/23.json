@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "העשרתי",
+      "rationale": "Hebri 'he-esarti' — ho etsa hore motho a be le maruo; Sesotho 'ka hlomathisa' boetse bo hlalosa thuso, 'ka etsa hore o be moshoele' e ka boela e sebetse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשר\/העשרתי",
+      "rationale": "Puisano pakind tsa 'asher' (tseo) le 'he-esarti' (ka hlomathisa) — puo ya Sesotho e e lahlela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מחוט ועד שרוך נעל",
+      "rationale": "'Ho tloha mothating ho fihlela kgetsi ya seeta' — botho ba ho sa nka letho le ho nyane haholo; pollelo e bolokilwe ka ho lokana"
+    }
+  ],
+  "translation": "Ha eba ke tla nka se seng sa hao, ho tloha mothating ho fihlela kgetsi ya seeta, hore o se ke wa re: Nna ke ile ka hlomathisa ⟨את⟩ Abrame.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "85393aa2b5c7eabebb3c9bd1ec6ea351395e18e68adcd79237c99b42ae1b85cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/14\/23-23.1791264708031.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha eba"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "ho tloha mothating"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "kgetsi"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "ya seeta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hape ha eba"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ke tla nka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tloha ho tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsa hao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hore o se ke wa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "ke ile ka hlomathisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrame"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrame"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:48.049352707Z",
+  "model": "glm-5.3"
+}

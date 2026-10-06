@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 25:35",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מנוס",
+      "rationale": "Lentswe le bolela 'ho baleha'; phetolelo e ntse e bopa sebopeho sa lentswe le le leng"
+    }
+  ],
+  "translation": "Mme ho tla lebella-phahamiso ho tloha ho balisa, le sephetho-se-seng-hae ho tloha ho ba matla ba nku.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b99f9308ed86a098efa6461239b0a5f3c026c8755939184fc7ac2d5596405c81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/25\/33-35.1791265379921.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "mme ho tla lebella"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "phahamiso"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha ho"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "balisa"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "le sephetho-se-seng-hae"
+    },
+    {
+      "surface": "מאדירי",
+      "gloss": "ho tloha ho ba matla"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ya nku"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:59.923781212Z",
+  "model": "glm-5.3"
+}

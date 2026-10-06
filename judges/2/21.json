@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 2:21",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ho tlosa",
+      "rationale": "להוריש ke 'ho tlosa ba dulang ho ba fa setsu' — ho ba tlosa le ho ba fa lefatshe, eseng feela ho tlosa"
+    },
+    {
+      "kind": "crux",
+      "subject": "a sa shwele",
+      "rationale": "וימות: KJV 'when he died' (morao) kgahlanong le YLT 'when he dieth' (ya nang le teng) — nako ya Seheberu e buisana ka mokgwa o mong le o mong"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם אני",
+      "rationale": "'Le nna' e araba boitlatso ba Setjhaba se bolelwang ka morao — polelo e tsamaisanang le e sa fetoheng"
+    },
+    {
+      "kind": "elision",
+      "subject": "איש",
+      "rationale": "'motho ka mong' ho fa bongata ho איש yo a le mong, kaha Sesotho se hloka bongata mona"
+    }
+  ],
+  "translation": "Le nna ha ke sa tla eketsa ho tlosa ⟨את⟩ motho ka mong ho tloha pele ho bona, ho tloha hara ditjhaba tseo Yehoshua a li tlogetseng a sa o tsosa a sa shwele.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "92d976baee69e3f41079fd722145d7ccb712477f8d47ded1a2e9157f96d945d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/2\/21-21.1791265106892.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ke sa tla eketsa"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "ho tlosa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho ka mong"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ho tloha pele ho bona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha hara"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "a li tlogetseng"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a sa shwele"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:26.895834302Z",
+  "model": "glm-5.3"
+}

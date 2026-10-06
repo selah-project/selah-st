@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebopeho",
+      "rationale": "יצר ke 'foromo, sebopeho' — e fetohetse 'mehopolo' ho diphetolelo ding, sesotho se boloka sebopeho"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעת\/רע",
+      "rationale": "phetolelo ya mantsoe a 'bolotsana' le 'mpe' — Seheberu se pheta motso o mong fela"
+    }
+  ],
+  "translation": "Mme Yahwe a bona hore ho feteletseng bolotsana ba motho hodimong lefatshe, le hore sebopeho sa mehopolo ea pelo ya hae se mpe feela letsatsi lohle.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1171a7762d5e0033fd1faf06141ae038190e167903d19bffb87ee8c6bfd02a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/6\/5-5.1791264696587.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ho feteletseng"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "bolotsana ba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hodimong lefatshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le hore sebopeho se seng le se seng"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "sebopeho"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "sa mehopolo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ea pelo ya hae"
+    },
+    {
+      "surface": "רק",
+      "gloss": "feelа"
+    },
+    {
+      "surface": "רע",
+      "gloss": "se mpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:36.594518312Z",
+  "model": "glm-5.3"
+}

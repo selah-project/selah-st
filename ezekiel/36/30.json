@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 36:30",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Mokgatledi o hlophisitsweng le למען; ha o na tekanyetso e hlakileng ya Sesotho."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעב \/ הרביתי",
+      "rationale": "Kgutla ya רעב (29 le 30) le הרביתי (29 le 30) e bopa khang: tlala e kahare, kabo e hodima."
+    }
+  ],
+  "translation": "Mme ke tla atisa ⟨את⟩ sejoalo sa sehlare le tlaleho ya tshimo, hore le se ke la nka hape tlotla ya tlala har'a ditjhaba.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "57ad52ab3e5c0cde3b381904507720e047df7309944b5768fbb07a90980c4671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/36\/29-30.1791265433249.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "mme ke tla atisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sejoalo sa sehlare"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "sejoalo"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sa sehlare"
+    },
+    {
+      "surface": "ותנובת",
+      "gloss": "le tlaleho"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya tshimo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ke ya"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "la nka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hape"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "tlotla"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ya tlala"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "har'a ditjhaba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:53.253861776Z",
+  "model": "glm-5.3"
+}

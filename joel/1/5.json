@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 1:5",
+  "book": "joel",
+  "lang": "st",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "tsohang",
+      "rationale": "Verse e bulwa ka mehato ya boikuelo e bitsang babadi ba tahilweng — hooks e kwahlolisang moemedi."
+    },
+    {
+      "kind": "you",
+      "subject": "lona balahlegilweng ke tomo",
+      "rationale": "Puo e totobetseng ho ba ntseng ba nwa jwale, ba bitswang ka botsomaine."
+    },
+    {
+      "kind": "crux",
+      "subject": "עסיס",
+      "rationale": "Asise: mofi o motjha o ntse o tswa ho meroho — phapanyetso ke 'jwale e monate' (KJV) le 'mofi' (YLT)."
+    }
+  ],
+  "translation": "Foalletse hore tsohang, lona balahlegilweng ke tomo, mme le lle, mme le llelela, lona batlang mofufutsoohle ba ntseng ba nwa jwale, ka lebaka la asise, hobane le kgethilwe ho molomo wa lona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "6e3fbd428f3bcf7d7665eadd94230c37958b6e3bd48cc325375bbad9d26ae88b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joel\/1\/5-5.1791265460625.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקיצו",
+      "gloss": "tsohang"
+    },
+    {
+      "surface": "שכורים",
+      "gloss": "lona ba tahileng"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "mme le lle"
+    },
+    {
+      "surface": "והיללו",
+      "gloss": "mme le llelela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ba ntseng ba nwa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "jwale"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "עסיס",
+      "gloss": "asise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "le kgethilwe"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "ho molomo wa lona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:20.626988333Z",
+  "model": "glm-5.3"
+}

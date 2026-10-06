@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרך…דרך",
+      "rationale": "Ho pheta-pheta ho tshwanang ha 'tsela' (mmela wa kgalalelo le bohlano ba sebakeng) ho siea mohala o tiileng; phetolelo e boloka mekhoa e mmedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "se shebang",
+      "rationale": "פניו 'bohaheng ba yona' — Sesotho se hlokometse sebopeho se tshwanang sa 'ho sheba'."
+    }
+  ],
+  "translation": "Mme kgalalelo ya Yahwe e ile ya kena ntlong, ka tsela ya sebakeng seo se Sepakiding hoo se shebang ka ho ya bochabela.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2a41d481e7e5d81f58ba2704b0827c16a6403b1d2d3ede707daf6234dadc18e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/43\/4-4.1791265405811.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "Mme kgalalelo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e ile ya kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela ya"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "se shebang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka ho ya"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "bochabela"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:25.813655619Z",
+  "model": "glm-5.3"
+}

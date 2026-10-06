@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Yakhine",
+      "rationale": "יכין = 'o tla theha' (motheo o tiileng); lebitso la kholomo le bolela seng mme ha se lebitso feela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Boaze",
+      "rationale": "בעז bo-'az = 'ka matla ho eena' — mabitso a mabeli a kholomo a etsa puo e tletseng: theho le matla."
+    }
+  ],
+  "translation": "Mme a emisa ⟨את⟩ dikholomo ka pele ga tempole, e nngwe ka ho le letona le e nngwe ka ho le leshotlela; mme a bitsetsa lebitso la ya ka ho le letona Yakhine, mme lebitso la ya ka ho le leshotlela Boaze.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ffeda3d66222815ae3da735f062d660c1d551e232d86a31f9a5be54c474d00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/3\/15-17.1791265757683.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikholomo"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "dikholomo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "tempole"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ka ho le letona"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "le e nngwe"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "ka ho le leshotlela"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsetsa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ya ka ho le letona"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhine"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "ya ka ho le leshotlela"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaze"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:17.689232498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 24:18",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a hlokahala",
+      "rationale": "תמת 'a shwe' e ngotsoe 'a hlokahala' ka tlwaelo ya Sesotho bakeng sa lefu, lentsoe la Seheberu le re 'a shwe' ka ho toba."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר...בבקר",
+      "rationale": "Phetišo ea hoseng: ya bolella setjhaba hoseng, mosadi a hlokahala mantsiboea, a etsa hape hoseng — kamoo eahanyang pipelletso."
+    }
+  ],
+  "translation": "Mme ka hoseng ke ile ya bolelela setjhaba, mme mosadi wa ka a hlokahala mantsiboea; mme ka hoseng ke ile ya etsa jwalokaha ke ne ke laetswe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "a46f7d3234b4175b54b9fbb20d9dc0dda6117e0886d7144c1e17c2ae3b9dcdeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/24\/18-19.1791265419314.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "ke ile ya bolelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka hoseng"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "a hlokahala"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mosadi wa ka"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mantsiboea"
+    },
+    {
+      "surface": "ואעש",
+      "gloss": "ke ile ya etsa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka hoseng"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalokaha"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ke ne ke laetswe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:39.316154152Z",
+  "model": "glm-5.3"
+}

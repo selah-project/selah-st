@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גנב גנבתי",
+      "rationale": "Puo-puo ea infinitive le perfect e sebetsanang — 'utswiloe ka utswiloe' — e bolokiloe ka ho pheta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בבור",
+      "rationale": "בור ke sekgoba\/mokotla; 'bodiba' e ka sehloohong ea Sekreste, e sieang setšoanyane sa pitle."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Yaosefa ho mookameli",
+      "rationale": "Puo ea Yaosefa e tobane le mookameli oa borotho."
+    }
+  ],
+  "translation": "Ke utswiloe, ka utswiloe, ho tloha lefatsheng la Bahebere; mme le mona ha kea etsa sepe hore ba ka ntsenya ⟨את⟩ bodibeng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "97d4b1e60a3b5f0b277d7a52426b7f81b80ff599ff7eeccfdd8715c5d081cd99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/40\/15-15.1791264748368.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ke utswiloe"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "ka utswiloe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lefatsheng"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "la Bahebere"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kea etsa"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ba ka ntsenya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "bodibeng"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "bodibeng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:28.385889772Z",
+  "model": "glm-5.3"
+}

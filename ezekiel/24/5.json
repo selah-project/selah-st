@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 24:5",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דור",
+      "rationale": "'Mokgutla\/pile' (KJV 'burn', JPS 'pile of bones') kgahlanong le 'poele ya mokolo' (ASV 'pile of wood') — potso e sa tswalanang."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רתח רתחיה",
+      "rationale": "Poeletso ya motso o le mong (boil\/its-boiling) — thorasetho ya Sesotho 'e bise haholo' e fodisa boima ba eona."
+    },
+    {
+      "kind": "addition",
+      "subject": "haholo",
+      "rationale": "Seheberu se re 'rathach ritchahah' feela; 'haholo' se ekeditswe bakeng sa tatelwana."
+    }
+  ],
+  "translation": "Nka khetho ya leru la lipoli, mme o behe hape mokgutla wa masopo ka tlase ho lona; e bise haholo, mme pheke hape masopo a lona ka hare ho lona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "feee2cdac2f74bd65db3c98dd9cda936c2a7c3d6fa931b6b3cab9bd20651a6af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/24\/5-5.1791265407387.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבחר",
+      "gloss": "khetho"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ya leru la lipoli"
+    },
+    {
+      "surface": "לקוח",
+      "gloss": "nka"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mme hape"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mokgutla"
+    },
+    {
+      "surface": "העצמים",
+      "gloss": "wa masopo"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ka tlase ho lona"
+    },
+    {
+      "surface": "רתח",
+      "gloss": "e bise"
+    },
+    {
+      "surface": "רתחיה",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hape"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "pheke"
+    },
+    {
+      "surface": "עצמיה",
+      "gloss": "masopo a lona"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ka hare ho lona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:27.388811868Z",
+  "model": "glm-5.3"
+}

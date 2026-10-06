@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 39:1",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגדי שרד",
+      "rationale": "serade: 'diaparo tsa tirelo' (KJV) kgahlanong le 'diaparo tse biloeng ka bohare' (JPS) — lentsoe le rare, mohlomong 'ho roala ka lerumo', le tloaelehileng haholo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרד \/ לשרת",
+      "rationale": "sekopantswe sa mantswe pakeng tsa serade le ho sebetsetsa (leshared\/mesharet) — tshusumetso e hodimo e timetse thutong."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שרד",
+      "rationale": "lentsoe le rarahaneng haholo; pontsho e nyane feela ho Tanakh (Ex 31:10, 35:10 le mona)."
+    }
+  ],
+  "translation": "Mme ho tloha ho tekhelete, le ⟨ha⟩-argamane, le tolaat ⟨ha⟩-shani, ba etsa diaparo tsa serade, ho sebetsetsa seketeng se halalelang; mme ba etsa ⟨את⟩ diaparo tsa ho halalela tsa Aharone, jwalo ka ha Yahwe a laetse ⟨את⟩ Moshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c52be88d1db1758e9bc4c3ef03b6baec48069c2c48cfadfbad5c4b2a2d0e17da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/39\/1-2.1791264850449.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "mme ho tloha ho"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekhelete"
+    },
+    {
+      "surface": "והארגמן",
+      "gloss": "le argamane"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "le tolaat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "שרד",
+      "gloss": "serade"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ho sebetsetsa"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "seketeng se halalelang"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mme ba etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tsa ho halalela"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tsa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ho halalela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tsa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:10.456376806Z",
+  "model": "glm-5.3"
+}

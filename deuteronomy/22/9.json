@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תקדש",
+      "rationale": "Maqheku a fapana: 'be defiled\/forfeited' (KJV, ASV, JPS) kgahlanong le tlhaho ya tlotso ya motso קדש — 'e halaletsoa kapa e tlosehwa'; Sephetolelo se boloka motso wa halaletsa."
+    },
+    {
+      "kind": "crux",
+      "subject": "כלאים",
+      "rationale": "Bokabo: 'mefuta e mmedi' (dintlha tse pedi tse fapetseng) kgahlanong le 'mebala e fapaneng' ya KJV; lekoka 'mefuta e mmedi' bo boholo."
+    },
+    {
+      "kind": "addition",
+      "subject": "the",
+      "rationale": "Sesotho se hloka sengoloa pele ga 'popo e tletseng'; Seheberu se na le sengoloa sa lona הַ."
+    }
+  ],
+  "translation": "O se ke wa jala sefala sa hao mefuta e mengata e mmedi, e le hore e se ke ya halaletsoa ⟨the⟩ popo e tletseng, poeo eo o e jalang, le kumo ya sefala.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "01469d11c3decbe415f5fc39764f51158b3e9060ad63fc61968a875f9b888ec3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/22\/9-9.1791265058492.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "wa jala"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "sefala sa hao"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "mefuta e mmedi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "e le hore e se ke ya"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "ya halaletsoa"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "popo e tletseng"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "poeo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "o e jalang"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "le kumo"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "ya sefala"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:38.504865126Z",
+  "model": "glm-5.3"
+}

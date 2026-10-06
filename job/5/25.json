@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morara",
+      "rationale": "עשב ke morara kapa sehlare se se nang metsi; 'grass of the earth' e bolela bongata bo sa baleheng"
+    },
+    {
+      "kind": "measurement",
+      "subject": "bongata ba poeletso",
+      "rationale": "poeletso le tse tswang ho motho di baleha — sehlomathiso sa kgalalelo"
+    }
+  ],
+  "translation": "Mme o tla tseba hore poeletso ya hao e tla ba menehelo, mme tse tswang ho wena jwalo ka morara wa lefatshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0eb39214583324cd423cebbc23f74c4ce0b33b4d29609fef4036aad21f27ef97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/5\/25-25.1791265641039.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Mme o tla tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "רב",
+      "gloss": "menehelo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "poeletso ya hao"
+    },
+    {
+      "surface": "וצאצאיך",
+      "gloss": "mme tse tswang ho wena"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "jwalo ka morara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:21.040504194Z",
+  "model": "glm-5.3"
+}

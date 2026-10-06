@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 38:21",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדשה",
+      "rationale": "Mokatofi wa tempele wa Bakanane (motso wa qdsh, 'ho halaletsa') — kgahlanong le זונה ya tlwaelehileng; KJV 'harlot', BSB 'shrine prostitute'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעינים",
+      "rationale": "Lebitso la lefatshe (Enayime) kapa 'mahlo' — 'ya neng a bonahala moleng o mong le o mong' (KJV 'openly') kgahlanong le lebitso (ASV, JPS 'at Enaim')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איה...הוא",
+      "rationale": "Potso ya 'moo ke...eo' e hlahisa temoho — mokatofi eo haele a sa bonahala, ho bontsha kutumelo ya patlo."
+    }
+  ],
+  "translation": "Mme a botsa ⟨את⟩ banna ba lefatshe leo, a re: Moo ke mokatofi eo, eo neng a le Enayime, hodima tsela? Mme ba re: Ha ho ka ba hona mokatofi mona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2d4a7ba000a000ea2e20473f418710350dcb5389a86c83bec9b0635e103897bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/38\/21-21.1791264768436.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "a botsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna ba lefatshe leo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "מקמה",
+      "gloss": "ba lefatshe leo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "איה",
+      "gloss": "moo ke"
+    },
+    {
+      "surface": "הקדשה",
+      "gloss": "mokatofi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בעינים",
+      "gloss": "Enayime"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "a ka ba a hona"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "mokatofi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:48.441577014Z",
+  "model": "glm-5.3"
+}

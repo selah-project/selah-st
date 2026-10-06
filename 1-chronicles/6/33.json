@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 6:33",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "balevi",
+      "rationale": "הלוים e ngolwa ka modumo wa Seheberu, e seng 'baperesite kapa bakgethi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Mishkane",
+      "rationale": "משכן e bolokwa jaaka lebitso, e seng 'tabernakele'"
+    }
+  ],
+  "translation": "Mme bana ba bona ba bang, balevi, ba ne ba filwe ho mosebeti ohle wa Mishkane, wa ntlo ya Elohim.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "470b53036ff3c28a3cf8a8a5cee92fedb8469e9d1d6b61496458073405dcdae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/6\/33-33.1791265711230.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "Mme bana ba bona ba bang"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "נתונים",
+      "gloss": "ba ne ba filwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho ohle"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "mosebeti wa"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:31.233650189Z",
+  "model": "glm-5.3"
+}

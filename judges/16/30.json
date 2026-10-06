@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 16:30",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nafsi",
+      "rationale": "נפשי e atametse 'mofu\/thoho\/mafi a bophelo' — 'moya' kapa 'mele' ke phetolelo e boholo"
+    },
+    {
+      "kind": "crux",
+      "subject": "barahu",
+      "rationale": "סרנים: 'barahu ba Bapalisiti' — lentswe le bolelang balaodi ba dibaka tse hlano tsa Bapalisiti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המית\/במותו\/בחייו",
+      "rationale": "phetaano ya motso wa מות le kgahlanong le חיים — lefu le bophelo di hlahiswa ka boomo, se bolokehileng ka ho hlakana"
+    }
+  ],
+  "translation": "Mme Shimshone a re: A mofu wa nafsi e shwe le Bapalisiti. Mme a ikokobatsa ka matla ohle, mme ntlo e wa hodima barahu le hodima setjhaba sohle se neng se le ho yona; mme ba neng ba shwile, bao a ileng a ba bolaisa ka lefu la hae, e ile ya ba bongata ho feta bao a ileng a ba bolaisa bophelong ba hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "017c640f65879d52b46ea83675e29abbbd1a9c52b9c4062751962753fa0b026b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/16\/29-30.1791265108036.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme ... a re"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshone"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "A e shwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi ya ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapalisiti"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "mme a ikokobatsa"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ka matla ohle"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "mme ... e wa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הסרנים",
+      "gloss": "barahu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le hodima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se neng se le"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mme ... e ile ya ba"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ba neng ba shwile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "המית",
+      "gloss": "a ileng a ba bolaisa"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "ka lefu la hae"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bongata"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ho feta bao"
+    },
+    {
+      "surface": "המית",
+      "gloss": "a ileng a ba bolaisa"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "bophelong ba hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:28.051293629Z",
+  "model": "glm-5.3"
+}

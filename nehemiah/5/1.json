@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨e le⟩",
+      "rationale": "Seheberu se se na sekopanyi; Sesotho se se hloka"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל",
+      "rationale": "'ho' kapa 'kgahlanong le': sekhohoso se ile se lebella (ho) bara-bo-bona — ditlhopho tsa kgahlanong le tsa ho bolella ho fapana ho ditlhophiso tsa khale"
+    }
+  ],
+  "translation": "Mme ho ile ha ba ⟨e le⟩ sekhohoso se seholo sa setjhaba le basali ba bona, se ile se lebella bara-bo-bona Bajuda.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "41c7cb2d199a140aece41a9fed4c5fcdb1f2021cecc9338559fc7a6d9d26eb29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/nehemiah\/5\/1-1.1791265661159.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ho ile ha ba"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "sekhohoso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa setjhaba"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "le basali ba bona"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "se seholo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ile se lebella"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "bara-bo-bona"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Bajuda"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:41.162794167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 28:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meetshe",
+      "rationale": "יארים ke metjhatjhisi kapa meetshe; e ile ya fetoha 'dinoka' ho mehlala e meng"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sehleng sena",
+      "rationale": "Sehleng sa Job 28 se bala tsela ya moedi — tekanyo le tlhatlhobo ya diminerale le dithabo"
+    }
+  ],
+  "translation": "O bula meetshe mahareng a majwe; mme leihlo la hae le bone ⟨את⟩ tsohle tse tlang hlobo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f46f7521ed45975b875418525e7fad757dda4ed0450439afafda501848828c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/28\/9-10.1791265654009.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצורות",
+      "gloss": "mahareng a majwe"
+    },
+    {
+      "surface": "יארים",
+      "gloss": "meetshe"
+    },
+    {
+      "surface": "בקע",
+      "gloss": "o bula"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "tse tlang hlobo"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "le bone"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "leihlo la hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:34.016904275Z",
+  "model": "glm-5.3"
+}

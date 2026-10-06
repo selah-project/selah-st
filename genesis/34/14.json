@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 34:14",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ערלה",
+      "rationale": "'tlhaku ya ka pele' (foreskin); lit. the prepuce — a concrete body term, not 'uncircumcised'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ho bona",
+      "rationale": "אליהם rendered with locative preposition required by Sesotho verb 're'"
+    },
+    {
+      "kind": "you",
+      "subject": "ho Shekeme le Hamore",
+      "rationale": "direct address to Shechem's party in the negotiation"
+    }
+  ],
+  "translation": "Mme ba ba re: Ha re khone ho etsa selemo sena, ho fana ka ⟨את⟩ khaitsedi ya rona ho monna ya nang le tlhaku ya ka pele, hobane e tlhotsa rona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8b65caaea07f72d40b2e1477caf6edd35861ad506f507588b46c0907806c02c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/34\/14-14.1791264710458.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mme ba ba re"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "re khone"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ho fana ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khaitsedi ya rona"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "khaitsedi ya rona"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ho monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a nang le eona"
+    },
+    {
+      "surface": "ערלה",
+      "gloss": "tlhaku ya ka pele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "e tlhotsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:50.463745906Z",
+  "model": "glm-5.3"
+}

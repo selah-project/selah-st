@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka tokelo",
+      "rationale": "טובה (molemo) e boelelwa habeli; e seng ka tsela e ntle feela — phetolelo ya bobedi e tshwanetseng ho tshwana le ya pele."
+    },
+    {
+      "kind": "idiom",
+      "subject": "a o lefelle",
+      "rationale": "ישלמך go tswa moongong wa shalom — ho lefola\/ho phethahatsa, eseng kotlo."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Seheberu se na le טובה feela; sehlomathiso se hlokahala ho Sesotho."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Dawide",
+      "rationale": "Saulo o bua ka ho kopaletsana ho Dawide ka ho itsa directly — ישלמך e lekisa 'o' wa sehlooho."
+    }
+  ],
+  "translation": "Mme ha motho a fumana ⟨את⟩ sera sa hae, a mo romola ka tsela e ntle, Yahwe a o lefelle ka tokelo bakeng sa seo o se entseng ho nna letsatsi lena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "91b0ec8f62157e1bfa55b4e25b966085995296b9607c45664528c59cd94452e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-samuel\/24\/20-20.1791265177340.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "a fumana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sera sa hae"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "sera sa hae"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "a mo romola"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "e ntle"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "a o lefelle"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ka tokelo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "o se entseng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho nna"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:37.345562817Z",
+  "model": "glm-5.3"
+}

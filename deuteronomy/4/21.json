@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 4:21",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "התאנף",
+      "rationale": "Hebree 'om a haema ka tshwaro' — Sesotho: 'a halefa'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "el fatsheng",
+      "rationale": "אל + הארץ 'ho' + 'lefatshe' — Sesotho e sebelisa 'lefatsheng' ho tlosa 'ho le'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka eona",
+      "rationale": "Sebopeho sa Sesotho se hloka sehlomathiso ho bopha 'lefatsheng leo... le le fang ka eona lefa'."
+    }
+  ],
+  "translation": "Mme Yahwe o ile a halefa ka nna ka baka la mantswe a lona, mme a ikana hore nke ke ka feta ⟨את⟩ Yoredene, le hore nke ke ka kena lefatsheng le letle leo Yahwe Elohim wa hao a o fang ka eona lefa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b33cacebd7be5f374bde148d981e2f3c4191a342ac24fabfba8ef6b2e206e0c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/4\/21-21.1791265061158.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mme Yahwe"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "o ile a halefa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "mantswe a lona"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "mme a ikana"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hore nke ke ka"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "le hore nke ke ka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "le le"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "letle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a o fang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka eona"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "lefa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:41.164997913Z",
+  "model": "glm-5.3"
+}

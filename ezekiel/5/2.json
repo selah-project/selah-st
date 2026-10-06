@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 5:2",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "לרוח ke ruakh — moya\/phefo, ho phaella feela ho 'moya' ha ho dumellwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "המצור",
+      "rationale": "tsamaiso\/sephahlo: 'matsatsi a tsamaiso' — mme 'tsamaiso' e ka boela e be 'ho lula ho koaletsoe'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אריק",
+      "rationale": "'ho nkela sefoka hore se late' — מ lit. 'ho chesa\/ho tlosa ka hare'; 'ho khutlisa'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sehlekeng",
+      "rationale": "karolo e arohanang ka tharo: thobalano ya moriri e a hlakanela"
+    }
+  ],
+  "translation": "Sehlekeng ho ea mollo o tla e tlosa ka hara toropo, ha matsatsi a tsamaiso a phethahala; mme o tla nka ⟨את⟩ sehlekeng seo, o se rothe ka sefoka potlakela toropo; mme sehlekeng sa boraro o tla se phatlalatsa ho ruakh, mme sefoka Nka se khutlisa ka mora bona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "97c5daabe449b0d4efd5813f52b8c34d5d6b24a34fe4ec1953d3af688a92ffca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/5\/2-2.1791265371818.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שְׁלִשִֽׁית",
+      "gloss": "sehlekeng"
+    },
+    {
+      "surface": "בָּא֖וּר",
+      "gloss": "ho ea mollo"
+    },
+    {
+      "surface": "תַּבְעִ֣יר",
+      "gloss": "o tla e tlosa"
+    },
+    {
+      "surface": "בְּת֣וֹךְ",
+      "gloss": "ka hara"
+    },
+    {
+      "surface": "הָעִ֔יר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "כִּמְלֹ֖את",
+      "gloss": "ha ... a phethahala"
+    },
+    {
+      "surface": "יְמֵ֣י",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "הַמָּצֽׂוֹר",
+      "gloss": "tsamaiso"
+    },
+    {
+      "surface": "וְלָקַחְתָּ֣",
+      "gloss": "mme o tla nka"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sehlekeng seo"
+    },
+    {
+      "surface": "הַשְּׁלִשִׁ֗ית",
+      "gloss": "sehlekeng seo"
+    },
+    {
+      "surface": "תַּכֶּ֥ה",
+      "gloss": "o se rothe"
+    },
+    {
+      "surface": "בַּחֶ֨רֶב",
+      "gloss": "ka sefoka"
+    },
+    {
+      "surface": "סְבִיבֹתֶ֔יהָ",
+      "gloss": "potlakela toropo"
+    },
+    {
+      "surface": "וְהַשְּׁלִשִׁ֖ית",
+      "gloss": "mme sehlekeng sa boraro"
+    },
+    {
+      "surface": "תִּזְרֶ֣ה",
+      "gloss": "o tla se phatlalatsa"
+    },
+    {
+      "surface": "לָר֣וּחַ",
+      "gloss": "ho ruakh"
+    },
+    {
+      "surface": "וְחֶ֨רֶב",
+      "gloss": "mme sefoka"
+    },
+    {
+      "surface": "אָרִ֣יק",
+      "gloss": "Nka se khutlisa"
+    },
+    {
+      "surface": "אַחֲרֵיהֶֽם",
+      "gloss": "ka mora bona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:51.821305295Z",
+  "model": "glm-5.3"
+}

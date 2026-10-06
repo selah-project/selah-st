@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יכרתו ברית",
+      "rationale": "Seheberu se re 'ba ka selekane' — ho ka (ho khaola) ka hare ho ho etsa selekane; Sesotho se boloka ponahalo ya ho khaola."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Seheberu se na le 'לב' feela; 'ka' e ekeditswe ho hokahanya pelo le ho rerisana."
+    }
+  ],
+  "translation": "Hobane ba ile ba rerisana ka pelo mmoho; kgahlanong le wena selekane ba ka.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0f694d53d6509b2f0e622832d2a13c4ce18ce4cd73a0ec05dffa8e1b6ba9482e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/83\/6-6.1791265571226.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ba rerisana"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ka pelo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmoho"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kgahlanong le wena"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ba ka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:11.227133116Z",
+  "model": "glm-5.3"
+}

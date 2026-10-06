@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 44:26",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני האיש",
+      "rationale": "'Sefahleho sa motho eo' — sefahleho se bolela boemo le botho; e se sehlomathiso feela sa 'moeti'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואחינו...איננו אתנו",
+      "rationale": "Seheberu se re feela 'moraabo yo mnyane ha a le le rona'; ditlhopho tse ngata di eketsa 'reke' kapa 'eele' ho tlatsa moelelo."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתנו (H854)",
+      "rationale": "Ke 'et H854 'le', eseng aleph-tav ya pontsho ya sehlongwa; e bolokilwe ka ⟨את⟩ jwalo ka ha molao o ea."
+    }
+  ],
+  "translation": "Mme re ile re re: Ha re kgone ho theoha; ha moraabo yo mnyane a le ⟨את⟩ rona, re tla theoha; hobane ha re kgone ho bona sefahleho sa motho eo, ha moraabo yo mnyane a se le ⟨את⟩ rona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b9b99c9153474764ea31843b3e8de51b2810e7f322ed981186fbc5a14e4dd0bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/44\/26-26.1791264756237.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Mme re ile re re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "re kgone"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ho theoha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יש",
+      "gloss": "a le"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "moraabo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yo mnyane"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "le rona ⟨את⟩"
+    },
+    {
+      "surface": "וירדנו",
+      "gloss": "re tla theoha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "re kgone"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho eo"
+    },
+    {
+      "surface": "ואחינו",
+      "gloss": "ha moraabo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yo mnyane"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "a se"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "le rona ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:36.242737944Z",
+  "model": "glm-5.3"
+}

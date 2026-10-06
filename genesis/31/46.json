@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "genesis 31:46",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sephahloa",
+      "rationale": "גַּל ke 'sengwe rolled, sephahloa sa majwe' — mmele wa 'rolled' o timetse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גל\/הגל",
+      "rationale": "phetolelo e boeledisa sephahloa kathatkai jwaloka Seheberu"
+    }
+  ],
+  "translation": "Mme Yaakobo a re ho bana baena hae: Khothaganyang majwe. Mme ba khothaṱa majwe, mme ba etsa sephahloa, mme ba ja moo hodima sephahloa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b814d5e1066590723e3d65be2f445dbb1525c0b80ba20e8d77019ae198d315b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/31\/46-46.1791264711192.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ho bana baena hae"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "Khothaganyang"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "majwe"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ba khothaṱa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "majwe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "גל",
+      "gloss": "sephahloa"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "sephahloa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:51.196842942Z",
+  "model": "glm-5.3"
+}

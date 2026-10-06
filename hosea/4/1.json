@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 4:1",
+  "book": "hosea",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kahlolo",
+      "rationale": "ריב ke 'ngongorelo kapa kgethang ya bommeli; 'kahlolo' e pheta sebopeho sa tsheko seo Yahwe a nang le sona le setjhaba"
+    },
+    {
+      "kind": "elision",
+      "subject": "הארץ ... בארץ",
+      "rationale": "'lefatshe' hlalosa haele le ya bohle; 'naheng' e ka ba ya Yisraele feela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמת \/ חסד \/ דעת",
+      "rationale": "thlaro ea mantsoe a maholo a sephetho (tsedepe, hesede, tsebo) e hlahlamang ka 'ha ho' — sebopeho sa boraro se sa hapiloe ka ho feletseng"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Yisraele",
+      "rationale": "Mamellang — taoso e tobileng ho bana ba Yisraele, mosebetsi o mocha wa moporofeta"
+    },
+    {
+      "kind": "addition",
+      "subject": "e ntse e le",
+      "rationale": "Seheberu se se na sebopeho sa 'to be'; Sesotho se se hloka"
+    }
+  ],
+  "translation": "Mamellang lentswe la Yahwe, bana ba Yisraele, hobane kahlolo e ntse e le ya Yahwe le ba dulong ba lefatshe, hobane ha ho tsedepe, mme ha ho hesede, mme ha ho tsebo ya Elohim kahare lefatshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "183aae54e332b5d7b8e0409d51efda390a8db00416514db9e7ad67554f687740",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/hosea\/4\/1-1.1791265480980.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mamellang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba dulong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ba lefatshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ha ho"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tsedepe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kahare lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:40.981093597Z",
+  "model": "glm-5.3"
+}

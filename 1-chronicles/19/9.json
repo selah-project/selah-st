@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 19:9",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morena-moholo",
+      "rationale": "מלכים 'dikgosi' — Sesotho e le bongata, 'morena-moholo' ho bontsha boholo; hase Lebitso la Molimo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba bona",
+      "rationale": "לבדם 'bo-bong ba bona' — sehlomathiso se kentsoeng"
+    }
+  ],
+  "translation": "Mme bana ba Amono ba ile ba tswa, ba hlopha nto pele ga monyako wa toropo; mme morena-moholo bao ba neng ba tla, ba le bomong ba bona sebakeng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "92c4b17df00a681561cee2bf68154862f5076c3a46b6a22791b5cc1e624f8c28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/19\/9-9.1791265717548.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba ile ba tswa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amono"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "ba hlopha"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "nto"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pele ga monyako"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa toropo"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "mme morena-moholo bao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba neng ba"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tla"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "ba le bomong ba bona"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sebakeng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:37.551898276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a futhumatsa ka mollo",
+      "rationale": "ויקטר bolela ho futhumatsa hore ho be monko — ho chesa ho sebeletsa pele Yahwe"
+    },
+    {
+      "kind": "addition",
+      "subject": "hodima",
+      "rationale": "He ya bopelelo ho המזבחה (he ya lebellelo) e bontsha ho elella hodima altarong; Sesotho se hloka sehlapatha"
+    }
+  ],
+  "translation": "Mme ba beya ⟨את⟩ mafura hodima matjhefong, mme o ile a futhumatsa ka mollo mafura hodima altarong.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d70be5a21d2646fbbf0d3f13c64384ad053b426cc4a1358a0cb19f392c3a6a1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/9\/20-20.1791264873896.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ba beya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "matjhefong"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "o ile a futhumatsa ka mollo"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarong"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:33.904478237Z",
+  "model": "glm-5.3"
+}

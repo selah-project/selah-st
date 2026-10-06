@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 2:9",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yerushalayime",
+      "rationale": "Ehitsoang ha ho la mora wa Yerushalayime, ya sa bonahaleng haeba mongolo o letsoa."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kgalalelo",
+      "rationale": "ולכבוד e ka boela ea bolela 'bakeng sa tumelo' — ke 'bakeng sa kgalalelo' eo ke khethileng e mong."
+    }
+  ],
+  "translation": "Mme nna, ho bolela Yahwe, ke tla ba mutla wa mollo ho dikologa, mme bakeng sa kgalalelo ke tla ba bohareng ba yona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1473416ae3f67e32a5b0d45a2cc57959362cb6a3885c7638c348daf6aa6fdabb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/zechariah\/2\/9-12.1791265510929.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mme nna"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke tla ba"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho yona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mutla wa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho dikologa"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "mme bakeng sa kgalalelo"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke tla ba"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "bohareng ba yona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:10.931439374Z",
+  "model": "glm-5.3"
+}

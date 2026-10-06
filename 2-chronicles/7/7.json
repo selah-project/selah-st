@@ -1,0 +1,168 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 7:7",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diphelano tse jeang mollo",
+      "rationale": "ha-olot ke diphelano tse phahamiswang ka mollo, 'burnt offering' — mosebetsi, eseng selo se boleloang ka tlwaelo"
+    },
+    {
+      "kind": "addition",
+      "subject": "e ne e",
+      "rationale": "Seheberu se na le negation e bonahalang feela; Sesotho se hloka kopula ya nako e fetileng"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "minkha e bolokwa jwaloka lentswe la Seheberu, eseng 'mpho' kapa 'lekgetho' (D2)"
+    }
+  ],
+  "translation": "Mme Shelomone a halaletsa ⟨את⟩ bohareng ba serala se pele ga ntlo ya Yahwe, hobane o ile a etsa moo diphelano tse jeang mollo le ⟨את⟩ mafura a diphelano tsa kagisano, hobane aletare ya tetebeko eo Shelomone a e entseng e ne e sa kgone ho tshwara ⟨את⟩ phelano e jeang mollo le ⟨את⟩ minkha le ⟨את⟩ mafura.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ee7b79773f0a08c9c54e750978081d2186cb3abe9ffdd1bd0434151b6d12a1d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/7\/7-7.1791265814929.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקדש",
+      "gloss": "a halaletsa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohareng ba serala"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "bohareng ba"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "serala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "diphelano tse jeang mollo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a diphelano tsa kagisano"
+    },
+    {
+      "surface": "חלבי",
+      "gloss": "mafura a"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "diphelano tsa kagisano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare ya"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tetebeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a e entseng"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "kgone"
+    },
+    {
+      "surface": "להכיל",
+      "gloss": "ho tshwara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phelano e jeang mollo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "phelano e jeang mollo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafura"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:14.933808388Z",
+  "model": "glm-5.3"
+}

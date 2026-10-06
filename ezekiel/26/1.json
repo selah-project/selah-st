@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "date",
+      "rationale": "Dating formula: eleventh year, first day of the month."
+    },
+    {
+      "kind": "crux",
+      "subject": "eleventh year",
+      "rationale": "BSB reads 'eleventh month of the twelfth year'; the Hebrew says eleventh year, first day of the month."
+    }
+  ],
+  "translation": "Mme e bile ka selemo sa bolesome-le-ngongogo, ka letsatsi la pele la kgwedi, lentswe la Yahwe le ile la tla ho ya ho nna, le re:",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2df48506a953731664fba90ec457c4ef73b0ab17aa1be8931aecb9fee2b6b1ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/26\/1-1.1791265384823.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mme e bile"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "ka bolesome-le-ngongogo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ka la pele"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho ya ho nna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "le re"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:04.826566390Z",
+  "model": "glm-5.3"
+}

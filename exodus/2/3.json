@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lebokose",
+      "rationale": "תבה ke lentsoe la arke ya Noe; 'lebokose' e bolokile sebopeho, hase 'arke' e kholo"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חמר",
+      "rationale": "chamare — mofuta oa bitumen o nyane oa lentsoe le ka hara Tannakh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ntle",
+      "rationale": "היאר ke 'noka' — e bolela Ntle ka boomo; Sesotho ha se na lentsoe le ikgethang"
+    }
+  ],
+  "translation": "Mme ha a sa ⟨e⟩ kgona ho mo pata, o ile a nka ⟨את⟩ lebokose la gomme le eena, a le khotha ka chamare le ka zafeta, a beisa ⟨את⟩ ngwana ka hare ho lona, mme a beisa hara dithlaka sebakeng sa mollong wa Ntle.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "3637594373f1e3ccd66461c15b16a3527f6a72e9dc11561a302f2d98488bc968",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/2\/3-3.1791264755782.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ha a sa"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "kgona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "ho mo pata"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "o ile a nka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "lebokose la"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "a le khotha"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "ka chamare"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "le ka zafeta"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "a beisa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka hare ho lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "mme a beisa"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "hara dithlaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "mollong wa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Ntle"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:35.786551742Z",
+  "model": "glm-5.3"
+}

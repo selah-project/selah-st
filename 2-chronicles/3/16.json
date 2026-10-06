@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 3:16",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ka Debiring",
+      "rationale": "בדביר: 'ka Debiring' (ka hare ga kgoro ya sehalalelo) kgahlanong le 'jwaloka ka Debiring' — KJV 'as in the oracle' e bala שרשרות joalo ka 1 Marena 7:17."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dinamune",
+      "rationale": "Palo e hlakileng: dinamune lekgolo."
+    }
+  ],
+  "translation": "Mme a etsa dikhohlo ka Debiring, mme a di bea holimo ga ditlhaku tsa dikholomo; mme a etsa dinamune lekgolo, mme a di bea hara dikhohlo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ffeda3d66222815ae3da735f062d660c1d551e232d86a31f9a5be54c474d00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/3\/15-17.1791265757683.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "שרשרות",
+      "gloss": "dikhohlo"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "ka Debiring"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a di bea"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo ga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ditlhaku"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "dikholomo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "dinamune"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a di bea"
+    },
+    {
+      "surface": "בשרשרות",
+      "gloss": "hara dikhohlo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:17.687669812Z",
+  "model": "glm-5.3"
+}

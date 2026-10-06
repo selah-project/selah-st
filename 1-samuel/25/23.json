@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 25:23",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לאפי דוד",
+      "rationale": "'ho sefahlehong sa Dawide' — Sesotho se se nang 'af' (leihlo); Seheberu se sebedisa 'kananelo' e le 'pelasana'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותשתחו ארץ",
+      "rationale": "'a phutholoha fatshe' — sebopeho sa hashtakhavah le erets; 'fatshe' ho tloha ho ארץ."
+    }
+  ],
+  "translation": "Mme Abigaele a bona ⟨את⟩ Dawide, a potlaka, a theoha holima para, a oa sefahlehong sa Dawide, a phutholoha fatshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9bdbe83b6a1299645d746f9eafef132e8268f89f1ec69ab433b1aff6daac57bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-samuel\/25\/23-23.1791265141719.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "אביגיל",
+      "gloss": "Abigaele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "a potlaka"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "a theoha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "holima"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "para"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "a oa"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "sefahlehong sa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "על",
+      "gloss": "sefahlehong"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sa eena"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "a phutholoha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "fatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:01.914919760Z",
+  "model": "glm-5.3"
+}

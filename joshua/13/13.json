@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ho fihlela letsatsi lena",
+      "rationale": "Hebrew 'ad hayom hazeh' rendered as 'ho fihlela letsatsi lena' — copulative 'ke' needed in Sesotho supplied inside ⟨…⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ho fenya",
+      "rationale": "הורישו is 'dispossess by driving out previous tenants' — Sesotho 'ho fenya' (conquer) is approximate; the dispossession nuance has no single Sesotho word"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ad hayom hazeh",
+      "rationale": "'Until this day' — temporal marker anchoring the verse to the writer's present"
+    }
+  ],
+  "translation": "Mme bana ba Yisraele ha ba a <span style=\"text-decoration:underline\">fenya<\/span> — ba se ke ba: mme bana ba Yisraele ba sa ntse ba <span style=\"text-decoration:underline\">fumane<\/span> ⟨את⟩ Bagshure le ⟨את⟩ Bamaakhate; mme Gshure le Maakhate ba dula ka hare ho Yisraele ho fihlela letsatsi lena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1f74d69d09c9cdb5a4657259bf275d4968fc3ab106239da04d5608db2ffa9942",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/13\/13-13.1791265097425.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ba fenye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bagshure"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Bagshure"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Bamaakhate"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "Bamaakhate"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mme ba dula"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Gshure"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "le Maakhate"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:17.427830312Z",
+  "model": "glm-5.3"
+}

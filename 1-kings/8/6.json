@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Debire",
+      "rationale": "דביר (oracle\/innermost shrine) ke lebitso la sebopeho — le bolokwa ka modumo, eseng 'kamore ea ka hare' feela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sehalalelo sa dihalalelo",
+      "rationale": "qodesh ha-qodashim — bopeho ba katleho (construct) bo bolokwa: 'halalelo ya dihalalelo'"
+    }
+  ],
+  "translation": "Mme baprista ba kenya ⟨את⟩ arka ya selekane sa Yahwe sebakeng sa yona, ho Debire ya ntlo, ho sehalalelo sa dihalalelo, hodima tlase ho mapheho a machtsherube.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ce93a2b6a66db9c61bf06e5da8f0b221b5474d800c625f9ea6d91d7bf463d0ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-kings\/8\/6-7.1791265877873.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ba kenya"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka ya selekane sa Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "sebakeng sa yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debire"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sehalalelo"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "dihalalelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlase ho"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapheho"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "a machtsherube"
+    }
+  ],
+  "timestamp": "2026-10-06T05:51:17.887846691Z",
+  "model": "glm-5.3"
+}

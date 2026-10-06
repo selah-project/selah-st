@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Mme",
+      "rationale": "Copula\/palindromic waw e hlokang ho Sesotho, e kang 'Mme' qalong"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Monguti o kopantsoe le 'e shehang'; ha o na lentswe le itseng ka boona"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השער שער",
+      "rationale": "Poeletso ya 'kgoro, kgoro' — bohlale ba Seheberu bo bolokwa ka ho boela ha lentswe"
+    }
+  ],
+  "translation": "Mme a nkgisa ho kgoro, kgoro e shehang ka bochabela.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "a698c2843e64e8458425763c572a1a71ebca948f01031436a046bce492d1cdbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/43\/1-1.1791265411478.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "a nkgisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "השער",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "shehang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "bochabela"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:31.479453393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 28:9",
+  "book": "job",
+  "lang": "st",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lejoe le thata",
+      "rationale": "חלמיש ke lejoe le thata la tlhaho; mehlala e meng e re 'flint' kapa 'rock'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "O romola letswele la hae",
+      "rationale": "'O otla ka letswele' — KJV 'putteth forth his hand'; moedi wa meea ke ya sebeleng letswele"
+    }
+  ],
+  "translation": "O romola letswele la hae hodima setheo sa lejoe le thata; o sutuhetsa dithaba ho tloha metjeng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f46f7521ed45975b875418525e7fad757dda4ed0450439afafda501848828c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/28\/9-10.1791265654009.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחלמיש",
+      "gloss": "hodima setheo sa lejoe le thata"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o romola"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letswele la hae"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "o sutuhetsa"
+    },
+    {
+      "surface": "משרש",
+      "gloss": "ho tloha metjeng"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:34.014363451Z",
+  "model": "glm-5.3"
+}

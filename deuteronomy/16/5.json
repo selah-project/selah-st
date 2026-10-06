@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באחד שעריך",
+      "rationale": "mokgoa oa Seheberu 'ka ho eena wa mehleke ya hao' — 'ka ho eena leha e le sehlekeng sa hao'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Paseka",
+      "rationale": "הפסח ke lebitso la letsatsi la Paseka; ha ho mpho feela"
+    }
+  ],
+  "translation": "Ha o ke ke wa khonahala ho bolaetsa ⟨את⟩ Paseka ka ho eena leha e le sehlekeng sa hao, seo Yahwe Elohim ya hao a se fileng ho wena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ce5ed2223dabaa40c8ce34e814236936866ab2ff0a6dbd18ab501733697770c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/16\/5-5.1791265044980.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "o ke ke wa khonahala"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ho bolaetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ka ho eena leha e le"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "sehlekeng sa hao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya hao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a se fileng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:24.985831366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלו",
+      "rationale": "Root חול: 'they were not sick\/writhed' — versions split between 'grieved' (KJV) and 'felt no pain' (BSB)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מסלע",
+      "rationale": "Hebrew is comparative 'from rock', rendered 'harder than stone'."
+    },
+    {
+      "kind": "addition",
+      "subject": "sefate sa majwe",
+      "rationale": "Hebrew says only 'rock' (סלע); Sesotho needs 'slab of stones' to say a stone mass."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאנו...מאנו",
+      "rationale": "Refusal repeated twice — 'refused correction… refused to return' — rhetoric of double refusal, kept by repetition."
+    }
+  ],
+  "translation": "Yahwe, mahlo a hau, a ha a le ho tumelo? O ile wa ba tlhasela ⟨את⟩ bona, mme ha ba a belaelwa; o ile wa ba qeta, mme ba ile ba hana ho amohela kahlolo; ba ile ba matlafatsa meriti ea bona ho feta sefate sa majwe, ba ile ba hana ho khutlela.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "385100b3e17a485f9c1b27fb5e760406791aed37179d0c36796bdccc1b51f6a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/5\/3-3.1791265301247.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a hau"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ha"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "ho tumelo"
+    },
+    {
+      "surface": "הכיתה",
+      "gloss": "o ile wa tlhasela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "ba a belaelwa"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "o ile wa ba qeta"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba ile ba hana"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ho amohela"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ba ile ba matlafatsa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "meriti ea bona"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ho feta sefate sa majwe"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba ile ba hana"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ho khutlela"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:41.249434895Z",
+  "model": "glm-5.3"
+}

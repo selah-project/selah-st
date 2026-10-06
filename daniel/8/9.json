@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצבי",
+      "rationale": "'Sebaka se khanyang' (splendor) kgahlanong le 'lefatse la boithabiso' (pleasant land, KJV) kapa 'lefatse le talapatsa' (glorious, ASV); moelelo wa motheo ke 'kganya\/sebaka se hlabang'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מצעירה",
+      "rationale": "Motsotsana ona o hlaha mona feela fela mo Tanakh; o bolela 'ho nyenyane'."
+    },
+    {
+      "kind": "elision",
+      "subject": "יתר",
+      "rationale": "Mantswe a 'ho feta tekano' a kopantsoe le 'la hodima' — heberu o na le lebitso le ikemetseng la ho feta tekano."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dikhutlotharo",
+      "rationale": "Kgutla e hlalosa hodimo ya lenaole ho ya dikhutlotharong tse tharo — tokomane ya sebaka."
+    }
+  ],
+  "translation": "Mme ho tloha ho e 'ngoe ya tsona ho ile ha tsoa lenaole le tee, le nyenyane haholo, mme le ile la hodima ho feta tekano ho ya ho leboya, le ho ya bochabela, le ho ya lefatsheng le khanyang.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "a5d1ce1d8a9d88bed8c71634d702f5f4adff705715377eb716a5f6748bf4d1bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/daniel\/8\/9-9.1791265691935.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "mme ho tloha ho"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e 'ngoe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ya tsona"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ho ile ha tsoa"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "lenaole"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "le tee"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "le nyenyane haholo"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "mme le ile la hodima ho feta tekano"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ho feta tekano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "leboya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho ya"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "bochabela"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho ya"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "lefatsheng le khanyang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:11.940088886Z",
+  "model": "glm-5.3"
+}

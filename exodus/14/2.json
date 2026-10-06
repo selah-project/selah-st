@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 14:2",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פי החירת",
+      "rationale": "Lebitso le le tantšitšoeng le qala ka 'molomo' — karolo ya pele e tšoanang le puo ya Molimo ya 'Bua' (דבר) temaneng e ka pele."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובין",
+      "rationale": "Seheberu se pheta 'pakeng tsa' ka bobedi mafoko; Sesotho se tlameha ho se pheta—'le' feela."
+    },
+    {
+      "kind": "addition",
+      "subject": "mmé",
+      "rationale": "Sehlanga se kopanyang se hlokeha Sesothong bakeng sa mekhahlelo ea litaelo."
+    }
+  ],
+  "translation": "Bua le bana ba Yisraele, ba khutlele mme ba tle ba phele pele ha Pi-HaKhirothe, pakeng tsa Migdole le lewatle, pele ha Baale Tsefone; pel’a hae le tla phela hodima lewatle.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "e68ec9e30adee21026aa2c2301564d31cbbb1264871b467d8d0df6ac2765a24a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/14\/2-2.1791264745669.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "bua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba khutlele"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba tle ba phele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ha"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Pi"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "HaKhirothe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "Migdole"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ha"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baale"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefone"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "pel’a hae"
+    },
+    {
+      "surface": "תחנו",
+      "gloss": "le tla phela"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:25.689376238Z",
+  "model": "glm-5.3"
+}

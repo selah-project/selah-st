@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 7:1",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וימעלו ... מעל ... בחרם ... החרם",
+      "rationale": "Verb and noun from the same root repeated (ma'al ma'al ba-kherem ... min ha-kherem), a chiastic doubling lost in Sesotho"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף יהוה",
+      "rationale": "Literally 'the nose of Yahwe burned' — Hebrew anger idiom rendered as Sesotho idiom 'tlhotlollo e thaboha'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרם",
+      "rationale": "'Devoted thing' (set apart for destruction or for the sanctuary) vs 'accursed thing' (KJV); rendered as 'se hlaheletseng ho timetsoa'"
+    }
+  ],
+  "translation": "Mme bara ba Yisraele ba ile ba ipoka ka ho iketsetsa ka sengwe se hlaheletseng ho timetsoa; mme Akane, mora wa Karmi, mora wa Zabdi, mora wa Zera, wa merafale ya Yehuda, o ile a nka sengwe se hlaheletseng ho timetsoa; mme tlhotlollo ya Yahwe e ile ea thaboha kgahlanong le bara ba Yisraele.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "03c3402f41b5abd00581c683df0577ad561e3a41cc2c77c7f2a0ac313d152c52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/7\/1-1.1791265069693.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימעלו",
+      "gloss": "ba ile ba ipoka ka ho iketsetsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ka ho iketsetsa"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "ka sengwe se hlaheletseng ho timetsoa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ile a nka"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "Karmi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zabdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zera"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "wa merafale ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sengwe"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "se hlaheletseng ho timetsoa"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "e ile ea thaboha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tlhotlollo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "kgahlanong le bara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:49.701591514Z",
+  "model": "glm-5.3"
+}

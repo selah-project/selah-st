@@ -1,0 +1,162 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ruth 4:11",
+  "book": "ruth",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tshepahalo",
+      "rationale": "חיל e bolela matla, moruo, botho — 'do worthily' ya KJV; Sesotho se kgetha tshepahalo e le moelelo o tsamaisang"
+    },
+    {
+      "kind": "crux",
+      "subject": "וקרא שם",
+      "rationale": "'ho bitsoa lebitso' (ya nang le lebitso) kgahlanong le 'ho bita lebitso' — makgetlo a mabeli a sehlabelo"
+    },
+    {
+      "kind": "addition",
+      "subject": "Re bopaki",
+      "rationale": "עדים ke lentswe le le leng; Sesotho se hloka seriti sa 're' ho bopaki"
+    },
+    {
+      "kind": "you",
+      "subject": "ho Boaze",
+      "rationale": "parole ea ngata ea setjhaba e lebella Boaze ka tlhohelong"
+    }
+  ],
+  "translation": "Mme setjhaba sohle se neng se le ka sebakeng, le baholo, ba re: Re bopaki. A nehe Yahwe ⟨את⟩ mosali yo mohlang a tseng ha ntlo ya hao, jwalo ka Rakhela le jwalo ka Lea, ba babeli ba ileng ba aha ⟨את⟩ ntlo ya Yisraele; mme o etse φ tshepahalo Efratahа, mme o be le lebitso Betleheme.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "517f8edef4beababbe4326bf34d101439cb80627435befd8678c0f4fcd2f6e09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ruth\/4\/11-11.1791265650032.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se neng se le"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ka sebakeng"
+    },
+    {
+      "surface": "והזקנים",
+      "gloss": "le baholo"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a nehe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosali"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "הבאה",
+      "gloss": "yo mohlang a tseng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya hao"
+    },
+    {
+      "surface": "כרחל",
+      "gloss": "jwalo ka Rakhela"
+    },
+    {
+      "surface": "וכלאה",
+      "gloss": "le jwalo ka Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ba ileng ba aha"
+    },
+    {
+      "surface": "שתיהם",
+      "gloss": "ba babeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yisraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mme o etse"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tshepahalo"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "Efratahа"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "mme o be le"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leheme"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:30.037698606Z",
+  "model": "glm-5.3"
+}

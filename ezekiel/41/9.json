@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 41:9",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "diphiko tse hlano",
+      "rationale": "Karolo ya tekanyo ya tempole: bophara ba koti bo hlaloswa ka diphiko tse hlano."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikamore tsa lehlakore",
+      "rationale": "צלע ke 'lehlakore\/thotho'; ka hare ho tempole e bolela kamore ya lehlakore — sebopeho sa lentsou se bolotsweng ka ho bolela 'lehlakore' ka ho toba."
+    },
+    {
+      "kind": "crux",
+      "subject": "בית צלעות",
+      "rationale": "Ba-fetoleli ba fapana: 'ntlo ya dikamore tsa lehlakore' (construct) kgahlanong le 'eo e setseng ke sebaka sa dikamore' (KJV\/ASV, ba balang מונח e le sebaka se sieoeng)."
+    }
+  ],
+  "translation": "Bophara ba koti eo e nang le dikamore tsa lehlakore, e le ka ntle, ke diphiko tse hlano; mme seo se setileng ke sebaka sa ntlo ya dikamore tsa lehlakore, ya ntlo eo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5e4966a989817e0001938796e901927be006677f05ea0ef547465e6d8552a00c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/41\/9-9.1791265408811.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ba koti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo e nang le"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "dikamore tsa lehlakore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e le ka"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ntle"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tse hlano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "diphiko"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mme seo"
+    },
+    {
+      "surface": "מנח",
+      "gloss": "se setileng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "dikamore tsa lehlakore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ntlo eo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:28.814132503Z",
+  "model": "glm-5.3"
+}

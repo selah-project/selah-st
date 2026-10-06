@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 8:5",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "le",
+      "rationale": "Sesotho e hloka sehlomathiso sa botlang pele ho leutu; Seheberu se na le sebopeho sa kgethollo (construct) qern khazut — 'leutu la pontsho'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חזות",
+      "rationale": "'le hlakileng' (kgethi) kgahlanong le 'la ponahalo' kapa 'la tlhokomelo' — khazut e bolela se se bonahalang haholo, se se kgahlisang mahlo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tshepe",
+      "rationale": "tsafir ke tshepe ya dipodi e phallahang (e tlolang); Sesotho se se na lentsoe le ikgethang, kahoo tshepe ya dipodi"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ponahalo",
+      "rationale": "Ponahalo ena e patilwe — tshepe e tsamaya e sa tsamaise lefatshe, se seng sa tlhaho, se supang sephuthuwana sa ponahalo"
+    }
+  ],
+  "translation": "Mme ha ke ne ke utlwisisa, ao, tshepe ya dipodi e tswa bodikela, holim'a sefahleho sa lefatshe lohle, mme ha ho ea e tsamaisa lefatshe; mme tshepe eo e na le ⟨leutu⟩ le hlakileng pakeng tsa mahlo a yona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b6ec3cf6f0ce7992b495496f55c080d58f17ba20714aa4f7d660d28d1e5aa783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/daniel\/8\/5-5.1791265696736.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mme ke"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ne ke"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "utlwisisa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "צפיר",
+      "gloss": "tshepe"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ya dipodi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "e tswa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tswa"
+    },
+    {
+      "surface": "המערב",
+      "gloss": "bodikela"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho ea"
+    },
+    {
+      "surface": "נוגע",
+      "gloss": "e tsamaisang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "והצפיר",
+      "gloss": "mme tshepe eo"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "leutu"
+    },
+    {
+      "surface": "חזות",
+      "gloss": "le hlakileng"
+    },
+    {
+      "surface": "בין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a yona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:16.739044539Z",
+  "model": "glm-5.3"
+}

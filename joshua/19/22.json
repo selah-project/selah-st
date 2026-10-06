@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 19:22",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "metse e leshome le tse tshela",
+      "rationale": "Palo ya metse ya boima ba Yisakhare e balwa."
+    },
+    {
+      "kind": "elision",
+      "subject": "ערים",
+      "rationale": "Sebopeho sa Seheberu se se nang lenane la bongata se fanoe ka mona ho Sesotho ka 'metse' ka bomoelelo bo akaretsang."
+    }
+  ],
+  "translation": "Mme mollao o fihlela Tabora, le Shakhatsoma, le Beti-Semeshhe; mme ditlamellong tsa mollao wa tsona e be Yoredene; metse e leshome le tse tshela, le masakaneng a tsona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1b3d4519a34f2354f1d3b10c8ce318461cd2593727486076a50a4430b580f0f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/19\/22-22.1791265081454.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופגע",
+      "gloss": "o fihlela"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "mollao"
+    },
+    {
+      "surface": "בתבור",
+      "gloss": "Tabora"
+    },
+    {
+      "surface": "ושחצומה",
+      "gloss": "le Shakhatsoma"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "le Beti-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Semeshhe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme ... e be"
+    },
+    {
+      "surface": "תצאות",
+      "gloss": "ditlamellong tsa"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "mollao wa tsona"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tse tshela"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "e leshome"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "le masakaneng a tsona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:01.458847523Z",
+  "model": "glm-5.3"
+}

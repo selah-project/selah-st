@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 8:5",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Ezekiel",
+      "rationale": "Mafoko a 'Mora wa motho' a bitsetsa Ezekiela ka ho kopa a shebile ka leboya."
+    },
+    {
+      "kind": "crux",
+      "subject": "סמל הקנאה",
+      "rationale": "'Setshwantsho sa hlōlong' — ba fetolelang ba re 'setshwantsho sa khotso'; Leheberu le hlōlla (qenea)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "alletare",
+      "rationale": "Leheberu המזבח (mizbeakh) le feta ka lentswe la Sesotho 'alletare', le sa ngoloa ka modumo wa Seheberu."
+    }
+  ],
+  "translation": "Mme a re ho morena, Mora wa motho, tshwara homo kele ho leboya, ke ya kopa. Mme ke tshwara mahlo a ka ka ho leboya, mme mona! ka leboya, ka sebakeng sa sefala sa alletare, sеtswantsho sa khotso e bile teng — se sa hlōlong — ⟨мона⟩ kokong e kenyang.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d2d80d8f625056657e17622034155172c7d4da251f6da7c64f4ea6f5bbd5cb17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/8\/5-5.1791265366307.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re ho morena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho morena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Mora"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "שא",
+      "gloss": "tshwara homo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke ya kopa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a hao"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela ea"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ho leboya"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "Mme ke tshwara"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela ea"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ho leboya"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme mona"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ho tloha leboya"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ho sefala sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alletare"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "setshwantsho"
+    },
+    {
+      "surface": "הקנאה",
+      "gloss": "sa hlōlong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "senа"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "kokong e kenyang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:46.308138919Z",
+  "model": "glm-5.3"
+}

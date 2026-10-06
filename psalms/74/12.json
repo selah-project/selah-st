@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le copula; Sesotho se e hlokela"
+    },
+    {
+      "kind": "crux",
+      "subject": "מקדם",
+      "rationale": "'ho tloha qalong' (ka nako) kapa 'bohlabane' (moo); mehlala e ngata e kgetha nako"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ditloloho",
+      "rationale": "ישועות ke bongata: 'dipholoho\/ditloloho', eseng lehlakore le le leng"
+    }
+  ],
+  "translation": "Mme Elohim ke morena wa ka ⟨ho tloha qalong⟩, ya etsang ditloloho bohareng ba lefatshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2f14f5f83151a470e144381592d2c14b1b5532eeb0326ef74a1b36b593081ce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/74\/12-12.1791265507231.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Mme Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "⟨ho tloha qalong⟩"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ya etsang"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ditloloho"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "bohareng ba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:07.233261616Z",
+  "model": "glm-5.3"
+}

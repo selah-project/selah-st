@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mme",
+      "rationale": "Sesotho e hloka kopanyo pakeng tsa dikarolo tse pedi tsa pale; Seheberu se e hana"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רומה ... על ... על",
+      "rationale": "phetišo ya 'hodima' e neetseng pale, ho bontša kgalalelo godimo"
+    }
+  ],
+  "translation": "Ewa hodima, Elohim, hodima mahodimong, mme kgalalelo ya hao hodima lefatshe lohle.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "64e65fd972cb4762fa38f3a3dd611546a89c2f8a405e17900b1c491dfff0b473",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/57\/6-6.1791265519827.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ewa hodima"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kgalalelo ya hao"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:19.828374197Z",
+  "model": "glm-5.3"
+}

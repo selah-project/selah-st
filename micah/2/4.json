@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 2:4",
+  "book": "micah",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדוד\/נשדנו",
+      "rationale": "Poelelo ya motso o mong — shadad — e hapileng ka bobedi, e timetswe ka tlhaloso e kholo Sesothong."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלק\/יחלק",
+      "rationale": "chelek (karolo) le chalaq (ho arola ka masele) — mantswe a tshwanang ka lentswe, ka bobedi a na le maikutlo a ho arola le ho khaola lefatshe."
+    },
+    {
+      "kind": "crux",
+      "subject": "לשובב",
+      "rationale": "Lishovav: 'moputsoothi\/moqheketsi' (ASV, YLT) kgahlano le 'ho busetsa' (JPS: 'ho se buse masimo') kgahlano le 'moqheketsi' (BSB: 'mahlahana')."
+    },
+    {
+      "kind": "crux",
+      "subject": "שדוד נשדנו",
+      "rationale": "Tekano e sa feleng: 're sotloa ka ho felletseng' kgahlano le 're sotloa' feela; masale a mabedi a Seheberu a hlakang ho tiisa taba."
+    }
+  ],
+  "translation": "Ka letsatsi leo ba tla nosa holimo ea lona masale, mme ba lla taolelo ya lico, ba re: Re sotloa ka ho felletseng; o fetotse karolo ea setjhaba sa ka; o ntlohotlisa joang! Ho moputsoothi o arola masimo a rona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b883ae67d33a2507e4a5cba18718ada095d21dace8303b267945623a6e8768e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/micah\/2\/4-4.1791265470871.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ba tla nosa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "holimo ea lona"
+    },
+    {
+      "surface": "משל",
+      "gloss": "masale"
+    },
+    {
+      "surface": "וונהה",
+      "gloss": "mme ba lla"
+    },
+    {
+      "surface": "נהי",
+      "gloss": "lico"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "taolelo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "ho sotloa"
+    },
+    {
+      "surface": "נשדנו",
+      "gloss": "re sotloa"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setjhaba sa ka"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "o fetotse"
+    },
+    {
+      "surface": "איך",
+      "gloss": "joang"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "o ntlohotlisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho 'na"
+    },
+    {
+      "surface": "לשובב",
+      "gloss": "moputsoothi"
+    },
+    {
+      "surface": "שדינו",
+      "gloss": "masimo a rona"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "o arola"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:30.872120086Z",
+  "model": "glm-5.3"
+}

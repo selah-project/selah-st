@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "tlosa-ba-tlosa",
+      "rationale": "Infinitive-absolute + yiqtol (הוריש יוריש) — ho tiisa polelo ka ho e boela; e lositse ho Sesotho se tlwaelehileng"
+    },
+    {
+      "kind": "addition",
+      "subject": "le",
+      "rationale": "Sesotho e hloha kopanywa ya mainane; Seheberu se e hlahisa ka hiri"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraele",
+      "rationale": "Yehoshua o bolelela bana ba Yisraele ka ho toba ('lona', 'har'a lona', 'ka pel'a lona')"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ka se o tla tseba",
+      "rationale": "Polelo e biletse batho ho teba ka bosupa bo tlang — sefapano sa Joradane"
+    }
+  ],
+  "translation": "Mme Yehoshua a re: Ka se o tla tseba hore El ya phelang o le har'a lona, mme o tla tlosa-ba-tlosa ka pel'a lona ⟨את⟩ Mokanaane, ⟨את⟩ Mokete, ⟨את⟩ Mokhive, ⟨את⟩ Moperize, ⟨את⟩ Mogirgashe, le Moamore, le Mojebuse.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8b735615da09ede8f6cf65e7d73982132d9462f200a395b864eafdf79a5fb9ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/3\/10-10.1791265070968.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ka se"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "o tla tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ya phelang"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "o le har'a lona"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "mme o tla tlosa"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "ba-tlosa"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ka pel'a lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mokanaane"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanaane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mokete"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mokete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mokhive"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mokhive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Moperize"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Moperize"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Mogirgashe"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Mogirgashe"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "le Moamore"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le Mojebuse"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:50.986830531Z",
+  "model": "glm-5.3"
+}

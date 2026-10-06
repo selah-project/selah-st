@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 3:8",
+  "book": "zephaniah",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעד",
+      "rationale": "קומי לעד: 'ho tsoha bakeng sa kapa' (KJV\/ASV, lemma 'booty') kgahlanong le 'ho tsoha ho paka' (BSB, lemma 'testimony') — mabitso a mabedi a tshwanang."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "Seheberu se bolela 'sefofuha sa ka' (dintho tsa sefofuhe); Sesotho se behile 'bogale ba ka'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תאכל",
+      "rationale": "'ho ja' ea fetotsoe eba 'ho tla jalwa' — Sesotho se sa sebelise 'ho ja lefatshe'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ha ka",
+      "rationale": "Sehlomathiso sa `-i` (qomoi) se hlokahala Sesothong; Yahwe ha e fetohe."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Yuda",
+      "rationale": "Taelo ya ho emela e lebisa setjhabeng sa Yuda, se sa hlakang ka tlontlollo mme se utloahala."
+    }
+  ],
+  "translation": "Kahoo, le mphelele mona, ho bolela Yahwe, ho ya ho letsatsi la ho tsoha ha ka bakeng sa kapa; hobane kahlolo ya ka ke ho bokella dinaha, ho kgoboketsa mabuso, ho tsehela ho tsona tlolo ya ka, sehlekelele sohle sa bogale ba ka; hobane ka mollong wa qenehelo ya ka ho tla jalwa lefatshe lohle.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "db7db4ee71e468fa9675573cb2fad821464baa20fa1de198f508744d3ed13997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/zephaniah\/3\/8-8.1791265477347.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "kahoo"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "le mphelele mona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mphelele"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ho ya ho letsatsi"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ho tsoha ha ka"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "bakeng sa kapa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kahlolo ya ka"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ho bokella"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dinaha"
+    },
+    {
+      "surface": "לקבצי",
+      "gloss": "ho kgoboketsa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mabuso"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "ho tsehela"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "tlolo ya ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "sehlekelele"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "bogale ba ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollong"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "qenehelo ya ka"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ho tla jalwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:37.347836655Z",
+  "model": "glm-5.3"
+}

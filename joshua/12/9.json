@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lenane la dikgosi",
+      "rationale": "Seripa sena ke karolo ya palo ya dikgosi tse di latofaditsweng — 'a le mong' e pheta-peta habelo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "morena",
+      "gloss": "מלך feta e le 'morena' wa motho, eseng Lebitso — ho latela D1."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחד",
+      "rationale": "Phetišo ya 'a le mong' (ngoe) ho bontša ka botlalo kamoo sengolo sa Seheberu se se pheta-phetaang karolong e nang le lenane."
+    }
+  ],
+  "translation": "Morena wa Yerikhoo, a le mong; morena wa ⟨ha⟩ Hayi, eo a leng ka mokotleng wa Bethele, a le mong;",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f61bc98c9a268ea8256d9908019749987076d38ccc79701d702c8526494e6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/12\/9-9.1791265081002.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikhoo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "morena wa"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Hayi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ka mokotleng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mong"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:01.007653515Z",
+  "model": "glm-5.3"
+}

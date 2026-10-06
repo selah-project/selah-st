@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 8:13",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירבין \/ ירבה \/ ירבה",
+      "rationale": "Root רבה repeated three times — escalation rhythm, kept by repeating 'ho eketseha' in Sesotho."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ho eketseha ka ho tlotlega",
+      "rationale": "Verse counts increase of herds, flocks, silver, gold, all possessions."
+    }
+  ],
+  "translation": "Mme dikgomo tsa hao le ditshiu tsa hao di atiswe, mme selefera le gauta di eketsehe ho wena, mme tsohle tse ho wena di eketsehe;",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8e91536e3b02327375f204fc2807f1163bc6f6d23e9386115225e72d20b05374",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/8\/13-13.1791265041297.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקרך",
+      "gloss": "le dikgomo tsa hao"
+    },
+    {
+      "surface": "וצאנך",
+      "gloss": "le ditshiu tsa hao"
+    },
+    {
+      "surface": "ירבין",
+      "gloss": "di atiswe"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "mme selefera"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "di eketsehe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "di eketsehe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:21.302091605Z",
+  "model": "glm-5.3"
+}

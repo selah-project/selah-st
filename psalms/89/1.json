@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seboka se rutang",
+      "rationale": "משכיל ke lentswe la sebopeho sa pesa e rutang; 'seboka se rutang' e boloka sebopeho, eseng pooma e teng"
+    },
+    {
+      "kind": "hapax",
+      "subject": "האזרחי",
+      "rationale": "Lebitso la lelapa le hlahang feela mona le ho 1 Din. 15:17 le 15:19 bakeng sa Eytane"
+    }
+  ],
+  "translation": "Seboka se rutang, sa Eytane wa haezrakhahi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "08f6372088cf5cc68482872cc2854a8e068d73337a559a7950fe06f91305ca45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/89\/1-1.1791265590922.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מַ֝שְׂכִּ֗יל",
+      "gloss": "seboka se rutang"
+    },
+    {
+      "surface": "לְאֵיתָ֥ן",
+      "gloss": "sa Eytane"
+    },
+    {
+      "surface": "הָֽאֶזְרָחִֽי",
+      "gloss": "wa haezrakhahi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:30.922578193Z",
+  "model": "glm-5.3"
+}

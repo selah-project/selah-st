@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "shafane",
+      "rationale": "השפן: hyrax\/koni\/rock-badger — phoofolo e sa tsejweng hlaka; mabitso a fapane ho diphetolelo tsohle"
+    },
+    {
+      "kind": "crux",
+      "subject": "o hlahisa geraha",
+      "rationale": "hyrax ha e je geraha ka 'nete; Baheberu ba ne ba e hlalosa ka tsela eo, phetolelo e lula e le 'aanela' se mongolo o se reng"
+    },
+    {
+      "kind": "elision",
+      "subject": "yena",
+      "rationale": "הוא go bolelwa hape bakeng sa kgetho; Sesotho se se se hloka ka dinako tse ding"
+    }
+  ],
+  "translation": "Mme ⟨את⟩ shafane, hobane o hlahisa geraha, empa pharasa ha a e arohanya — o hlotse ho lona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "6b4461c6bb1017a1f45c81c4b1adb7019f58ae2788bc83419ca6e1b62c01fb0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/11\/5-5.1791264877188.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "shafane"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "shafane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "o hlahisa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geraha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "empa pharasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "a e arohanya"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "o hlotse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:37.192744814Z",
+  "model": "glm-5.3"
+}

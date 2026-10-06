@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המונה",
+      "rationale": "Hemona e tshwana le Hemone-goge (molemo wa direto, she 39:11,15) — lebitso la toropo le bontsha bongata ba bahule, se senyehang ka ho Sesotho"
+    },
+    {
+      "kind": "addition",
+      "subject": "e tla ba",
+      "rationale": "Seheberu se se na sehlomathiso 'ke'; se ile sa ekeditswa hore phoso e hlake"
+    }
+  ],
+  "translation": "Mme lebitso la toropo e tla ba Hamona; mme ba tla hlatsoa lefatshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "10b1e6eafffcf3a6ae972736b4c952e7df10bd3963af687838a89eb23698fa2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/39\/16-16.1791265390372.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mme le"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lebitso"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "Hamona"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "ba tla hlatsoa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:10.373725291Z",
+  "model": "glm-5.3"
+}

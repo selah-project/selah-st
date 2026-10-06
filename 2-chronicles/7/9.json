@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 7:9",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "matsatsi a supileng",
+      "rationale": "Verse counts the days: seven for the dedication, seven for the festival."
+    },
+    {
+      "kind": "substitution",
+      "subject": "atsaret",
+      "rationale": "עצרת is a technical festival term for a concluding solemn assembly; Sesotho has no single word, so the Hebrew is kept alongside 'phutheho'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנכת",
+      "rationale": "Same root as the later festival name Chanukah (dedication); a plain rendering 'tlholeho' loses that echo."
+    }
+  ],
+  "translation": "Mme ka letsatsi la bohlano ho feta, ba etsa phutheho ya atsaret, hobane tlholeho ya altare ba e entshe matsatsi a supileng, mme mokete matsatsi a supileng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c00dae7c229666157de8de2133bef910018b5551864614d245c317bc9911d0ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/7\/9-9.1791265801090.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba etsa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "la bohlano ho feta"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "phutheho ya atsaret"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "tlholeho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya altare"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba e entshe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "והחג",
+      "gloss": "mme mokete"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a supileng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:01.092379721Z",
+  "model": "glm-5.3"
+}

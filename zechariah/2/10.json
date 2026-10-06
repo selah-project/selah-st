@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 2:10",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוי הוי",
+      "rationale": "Peleho-pedi ya hoo! hoo! — seko sa puo se sieang mmele o le mong."
+    },
+    {
+      "kind": "you",
+      "subject": "bahalaledi ba Yuda",
+      "rationale": "Taelo e tobileng ho ba hapotsitsweng ba Babylona, e bitsang ba lokolle lefatshe."
+    }
+  ],
+  "translation": "Hoo, hoo! Batlehang ho tloha lefatsheng la leboya, ho bolela Yahwe; hobane jwalo ka diruakh tse nne tsa mahodimo ke ile ka le phatlalatsa ⟨את⟩ lona, ho bolela Yahwe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1473416ae3f67e32a5b0d45a2cc57959362cb6a3885c7638c348daf6aa6fdabb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/zechariah\/2\/9-12.1791265510929.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoo"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hoo"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "batlehang"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lefatsheng"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "la leboya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "jwalo ka tse nne"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "diruakh"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa mahodimo"
+    },
+    {
+      "surface": "פרשתי",
+      "gloss": "ke ile ka phatlalatsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:10.932301006Z",
+  "model": "glm-5.3"
+}

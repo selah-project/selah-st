@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דעה",
+      "rationale": "Tsebo ya Yahwe — dithuto tsa Sekreste di lumela hore ke Selogo-se-Phethahatseng; selah eseng phetolelo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כמים לים מכסים",
+      "rationale": "Sesotho: ho tjalela lefatshe ka tsebo, jwalo ka metsi a kwahlang lethabo; moelelo o itseng hore ke ona e hlalositseng taba ena"
+    }
+  ],
+  "translation": "Ha ba ya ontsha, mme ha ba ya senya ho thoko ho feta ⟨tlhare⟩ ⟨halalelang⟩ ha ka; hobane lefatshe le tla a tjalelwa ke tsebo ya ⟨את⟩ Yahwe, jwalo ka metsi a kwahlang lethabo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "75fba2790cfbd534bbedd9d0e7e9b53f6574b485b18e453b6b1b4cc3a3137b25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/11\/9-9.1791265291255.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ba ya ontsha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "ba ya senya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ho thoko ho feta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tlhareng"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "halalelang ha ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tla a tjalelwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jwalo ka metsi"
+    },
+    {
+      "surface": "לים",
+      "gloss": "lethabong"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "a kwahlang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:31.257567150Z",
+  "model": "glm-5.3"
+}

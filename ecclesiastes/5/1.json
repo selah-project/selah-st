@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 5:1",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨u le⟩",
+      "rationale": "Seheberu se ntse se se na copula ho ואתה על הארץ; Sesotho se e hloka"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kopo ea moruti",
+      "rationale": "Pooho e bua le mogudi ka ho mo kopa ka molomo le pelo"
+    },
+    {
+      "kind": "you",
+      "subject": "ho mogudi",
+      "rationale": "O buisitswe ka bobedi ba motho wa le mong (פיך, ולבך, דבריך)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ha ho האלהים",
+      "rationale": "Ba fetoleli ba bang ba ngola 'Molimo' kapa 'Modimo'; tokomane ena e boloka Elohim"
+    }
+  ],
+  "translation": "O se ke wa tshanela ka molomo wa hao, mme pelo ya hao e se ke ya liesa ho ntsha lentswe pele ga Elohim; hobane Elohim o mahodimong, mme oena u ⟨u le⟩ lefatshe; kahoo mantswe a hao a be mannyane.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "77f96cc7dbb052ae0575dff01c60ffe0f7b51f6ebc8d054f37bc5b6a147b8bbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ecclesiastes\/5\/1-1.1791265683030.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "wa tshanela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "molomo wa hao"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "mme pelo ya hao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e se ke"
+    },
+    {
+      "surface": "ימהר",
+      "gloss": "ya liesa"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ho ntsha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "o mahodimong"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme oena"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kahoo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "a be"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "mantswe a hao"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "mannyane"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:03.036322461Z",
+  "model": "glm-5.3"
+}

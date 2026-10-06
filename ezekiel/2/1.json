@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mme ... le wena",
+      "rationale": "copula le sehlomathiso se hlokahalang ho Sesotho, Seheberu se se na tsona"
+    },
+    {
+      "kind": "you",
+      "subject": "Ezekiele",
+      "rationale": "puo e tobile ho Ezekiele — mora motho, ema"
+    }
+  ],
+  "translation": "Mme o ile a re ho ena: Mora motho, ema ho maoto a hao, mme ke tla bua le wena ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1208947d39df8de795bf44c3e5102de71d0b8b40a5c61bdd0ca142e7a4ae907f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/2\/1-1.1791265350217.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme o ile a re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho ena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Mora"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ema"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "maoto a hao"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "mme ke tla bua le wena"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:30.218463503Z",
+  "model": "glm-5.3"
+}

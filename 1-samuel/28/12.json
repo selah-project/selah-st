@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רמיתני",
+      "rationale": "motso רמה o bolela 'ho lahla\/hohlema'; 'o ntshositse tsela' kgahlanong le 'o nkholotse' kapa 'o ntshitle'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "molodi o moholo",
+      "rationale": "בקול גדול ke 'ka lentsoe le letle' — 'molodi' o neareile feela, sesupo sa lla."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואתה שאול",
+      "rationale": "boitlhamo bo halalelang: 'mme uena — u Shaule'; mongolo o boela ka lebitso habeli ka hara vese e le nngwe."
+    }
+  ],
+  "translation": "Mme ha mosadi a bona ⟨את⟩ Shamuele, a llelela ka molodi o moholo, mme mosadi a bolelela ho Shaule, a re: Hobanefa o ntshitse tsela e fosahetseng? Mme uena u ⟨u⟩ Shaule.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b5060e604b4caaa7e30d62bf0de0cbf229e6c7ba5b89b2cc5b4c10a61a56d14b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-samuel\/28\/12-12.1791265177337.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shamuele"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shamuele"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "a llelela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka molodi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "o moholo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a bolelela"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobanefa"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "o ntshitse tsela e fosahetseng"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "uena u"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:37.344707331Z",
+  "model": "glm-5.3"
+}

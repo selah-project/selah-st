@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 36:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tekanyo ya thekiso",
+      "rationale": "Direkoto tsa Mishkane di ka bola ka difa: bolelele 28, bophara 4, tekanyo e le nngwe."
+    },
+    {
+      "kind": "addition",
+      "subject": "bo ne bo le",
+      "rationale": "Seheberu se se na sehlomathiso sa 'ho ba'; Sesotho se se hloka."
+    }
+  ],
+  "translation": "Bophara bo le letona jwa thekiso e le nngwe bo ne bo le mashome a mabeli a metso e robedi ka efa, mme bophara jwa thekiso e le nngwe bo ne bo le metao e mane ka efa; tekanyo e le nngwe bakeng sa thekiso tsohle.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d137da9e87cba2f82ff9eec6785f0d5b08d83a145b4c7573ea7666fbdb145328",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/36\/9-9.1791264822538.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "bophara bo le letona"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "jwa thekiso"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "metso e robedi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mashome a mabeli"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka efa"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "mme bophara"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "metao e mane"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka efa"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "thekiso"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "tekanyo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa tsohle"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "thekiso"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:42.556302295Z",
+  "model": "glm-5.3"
+}

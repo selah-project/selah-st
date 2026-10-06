@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paretse",
+      "rationale": "הפרכת ke paretse ya sekgethe se halalelang; lentsoe la Sesotho le hlalosa feela sebopeho, eseng tlhohonolofatso"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mabitso a ka a halalelang",
+      "rationale": "מקדשי ke bongata — mabitso a halalelang, eseng lebitso le lekgarebe"
+    },
+    {
+      "kind": "addition",
+      "subject": "a se ke",
+      "rationale": "Hebheru e ngula ha a hlorise ka tekanyetso; Sesotho se hloka sebopeho sa taello e hanang"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקדשי \/ מקדשם",
+      "rationale": "phetoho ya moedi (a ka \/ ba) — bongata bo tsamaisanang le batho ba tlotsitsweng"
+    }
+  ],
+  "translation": "Empa ho paretse ha a tla kena, le ho altare ha a tla atamela, hobane sekhopo se ho yena; a se ke a hlorisa ⟨את⟩ mabitso a ka a halalelang, hobane ke Yahwe ya ba halaletsang.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "50875e4c8d2cc2b8117930708cfc6fc6728f48b7ffd2913a01c9134282d18be6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/21\/23-23.1791264883066.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "empa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "paretse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a tla"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kena"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha a tla"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "atamela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מום",
+      "gloss": "sekhopo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "a hlorisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabitso a ka a halalelang"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mabitso a ka a halalelang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ya ba halaletsang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:43.071440359Z",
+  "model": "glm-5.3"
+}

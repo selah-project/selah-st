@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 33:8",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "והביטו אחרי",
+      "rationale": "'ba shebella' — seheberu 'ba lebelela ka morao' ho Moshe; Sesotho e hlalosa tshebetso e tshwanang"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Ha ho ya ekeditsweng — 'mong le mong a eme' ke morphological recapitulation ya 'איש', e leng teng sehberung"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mosako-oahlwa",
+      "rationale": "'mosako-oahlwa' — פתח ke 'mokgoa' kapa 'moaho-oahlwa' — entrara ya tenta, Sesotho e hloka mantswe a mabedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האהל \/ האהלה",
+      "rationale": "sefela sa directive sa qetello (האהלה) — thoko e ikgethileng, thibela tlhaku-e le nngwe feela"
+    }
+  ],
+  "translation": "Mme ho ile ha etsahala hore, ha Moshe a tswa a ya teng-tenta, baetapele-botlhe ba ntsha — batho ohle ba ema, mong le mong a eme mosako-oahlwa wa tenta ya hae, mme ba shebella Moshe, ho fihlela a kena teng-tenta.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "041fe44cc4b733932a04b22c844c4830d7449c3b08f95c157ea5560504edbe55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/33\/7-8.1791264853494.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mme ho ile ha etsahala hore"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "ha a tswa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teng-tenta"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ba ntsha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "ונצבו",
+      "gloss": "ba ema"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mong le mong"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mosako-oahlwa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tenta ya hae"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "ba shebella"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "באו",
+      "gloss": "a kena"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "teng-tenta"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:13.506774913Z",
+  "model": "glm-5.3"
+}

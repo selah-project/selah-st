@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפש ke moya\/bophelo ya motho ya ho phefumola, eseng 'soul' ya tlwaelo"
+    },
+    {
+      "kind": "crux",
+      "subject": "na ha jwale u ntlokotse maoto a ka",
+      "rationale": "הלא e ka bolela potso ('na ha jwale?') kapa boitšoaro ('ha ho jwale') — KJV e bala potso, BSB boitšoaro"
+    },
+    {
+      "kind": "elision",
+      "subject": "הלא",
+      "rationale": "tshwao ya lebodi, e ka se fetolelwe ka lentswe le le leng la Sesotho"
+    }
+  ],
+  "translation": "Hobane u ntlokotse moya wa ka ho lefu; na ha jwale u ntlokotse maoto a ka ho putlama, hore ke tsamaye pele ga Elohim, khanyeng ya bophelo?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "098d8e15d3cef2d415d26b18fe89ceb1d30b996c29031ad7db1a12441e73b8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/56\/14-14.1791265535277.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "u ntlokotse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ho lefu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na ha jwale"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ho putlama"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "hore ke tsamaye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באור",
+      "gloss": "khanyeng"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ya bophelo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:35.278430019Z",
+  "model": "glm-5.3"
+}

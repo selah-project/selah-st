@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ho na le",
+      "rationale": "Seheberu se a hlokomela feela — 'ke mokgoa'; Sesotho se hloka ho re 'ho na le'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maidifu",
+      "rationale": "חרבות ke bongata ba חרב — 'maidifu'; mongodi o bapisa meno le dihlabelo tsa njara."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרבות",
+      "rationale": "ם lemma e bolela kapele 'omiso\/kala'; bafetoledi ba bangata ba nkile e le 'maidifu' ka bophara bo (sword-knives)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דור",
+      "rationale": "Poeletso ya 'mokgoa' ho matsatsi a Agure (30:11-14) — mokgoa o mong le o mong o hlalosa bothata bo bong."
+    }
+  ],
+  "translation": "⟨Ho na le⟩ mokgoa — mano a bona e le maidifu, le dithipa e le ⟨את⟩ meno a bona a ka hare, ho ja ⟨את⟩ batho ba hlokang ho tloha lefatsheng, le ⟨את⟩ ba hlokang ho tloha hara batho.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "7b4304aec58622e73c20897966cb4c3a48cd34584772a55316d2f21f51d54a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/proverbs\/30\/14-14.1791265594011.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "mokgoa"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "maidifu"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "mano a bona"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "le dithipa"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "meno a bona a ka hare"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ho ja"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "batho ba hlokang"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ho tloha lefatsheng"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "le ba hlokang"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ho tloha hara batho"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:34.012503526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 15:7",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "E bala e le 'e se hore' (ketso e sa feleng) kgahlanong le 'ha le etsa jwalo' ya KJV\/ASV; pare e dueletsweng ka utlwisiso wa ho ikana."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Sebopeho sa Seheberu sa ho hana-hana se fetotswe hore e be polelo ya Sesotho; haholo-holo 'כי' e 'empa' mona, eseng 'hobane'."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Bafilisita",
+      "rationale": "Shimshone o bua ka ho toba ho Bafilisita ('ho bona', 'ka lona')."
+    }
+  ],
+  "translation": "Mme Shimshone a re ho bona: Ha le etsa jwalo, ke tlameha ho ipuela ka lona, mme ka mora moo nka khaola.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d4d283ba68c790428385583710117ebffc10da4bb37d1a6c05bfeb11e68dfa20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/15\/7-7.1791265109896.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshone"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "le etsa"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "jwalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ke tlameha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נקמתי",
+      "gloss": "ipuela ka lona"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ka lona"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mme ka mora moo"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "nika khaola"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:29.900630134Z",
+  "model": "glm-5.3"
+}

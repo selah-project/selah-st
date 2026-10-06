@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 27:18",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lilemo",
+      "rationale": "Palo ya mokgethi e balwa ho ya ka palo ya lilemo tse setseng ho fihlela Yobile."
+    },
+    {
+      "kind": "substitution",
+      "subject": "על פי",
+      "rationale": "Sefapano sa Seheberu 'ka molomo wa' se fetohilwe 'ho ya ka' — tlwaelo ya Sesotho."
+    },
+    {
+      "kind": "hapax",
+      "subject": "Yobile",
+      "rationale": "Lebitso la selemo sa היבל le ngolwa ka tsela e le nngwe ho latela molao wa mabitso a Seheberu."
+    }
+  ],
+  "translation": "Mme ha a halaletse ⟨את⟩ polasing ya hae ka mora Yobile, moporofeta o tla mo bala ⟨את⟩ mokgethi ho ya ka lilemo tse setseng, ho fihlela selemong sa Yobile, mme ho tla tloswa ho tekanyetso ya hao.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "e42d7e7eea33628bee208e504d50c8b7f59d4c95db04580f8ff0cf081c7264b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/27\/18-18.1791264881490.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yobile"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "a halaletse"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "polasing ya hae"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "o tla bala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moporofeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokgethi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "mokgethi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ya ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "phihlello ya"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "lilemo"
+    },
+    {
+      "surface": "הנותרת",
+      "gloss": "tse setseng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "selemong sa"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yobile"
+    },
+    {
+      "surface": "ונגרע",
+      "gloss": "mme ho tla tloswa"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "ho tekanyetso ya hao"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:41.504413921Z",
+  "model": "glm-5.3"
+}

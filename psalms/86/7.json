@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke tla",
+      "rationale": "Seheberu se bontsha nako e tlang ka sebopeho se seng mme Sesotho se hloka molemo oa nako"
+    },
+    {
+      "kind": "crux",
+      "subject": "o mponta",
+      "rationale": "תענני: 'o mponta' (ha joale) kgahlano le 'o tla mponta' (nakong e tlang) — mongolo wa Ketile, e khothalelitsoeng ke Ketile bo-Bootstrap bakeng sa sebopeho sa yena"
+    },
+    {
+      "kind": "invitation",
+      "subject": "poeletso ea ke tla go bitsa",
+      "rationale": "Pale e ntša pele ho Adonai, kamoo ea khothalelitsoeng kateng ho phetolelo ea sibapeliwa sa palesa"
+    }
+  ],
+  "translation": "Ka letsatsi la bothatathing ya ka ke tla go bitsa, hobane o mponta.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "46880765fcb5d18dbba4765446936fe4f53cc3e894f375698f66ca50ce394792",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/86\/7-7.1791265570650.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi la"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "bothatathing ya ka"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ke tla go bitsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "o mponta"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:10.651891956Z",
+  "model": "glm-5.3"
+}

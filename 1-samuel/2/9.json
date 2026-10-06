@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידמו",
+      "rationale": "boima pakeng tsa 'ba duma' (ba nkuoa ke tshabo) le 'ba timetse' — KJV 'be silent', BSB 'perish'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חסידו",
+      "rationale": "hasidimo: ba lokileng ka tumelo — eseng 'bahlalefi' ka botlalo."
+    },
+    {
+      "kind": "elision",
+      "subject": "Yahwe",
+      "rationale": "sehlopha sa sufikso (‑o hae, ‑o boloka) se hlalosa modiredi; Lebitso le hlahisitswe ka Sesotho, seheberu se se na lentswe le itseng."
+    }
+  ],
+  "translation": "Yahwe o boloka maoto a hasidimo hae, mme bahloli ba duma lefifing; hobane ka matla motho ha a ke ke a hlola.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "17d0f3f7379b9e47eba0ac71eaf3bb91eb2d01020df85d61737d39203a75bc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-samuel\/2\/9-9.1791265142225.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "maoto"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "a hasidimo hae"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "o boloka"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "mme bahloli"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "lefifing"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ba duma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ka matla"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "a hlola"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:02.229776171Z",
+  "model": "glm-5.3"
+}

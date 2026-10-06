@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-kings 8:53",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בונה הבדלתם — bongata",
+      "rationale": "Seheberu se re 'o ile wa arohanya bona' — bongata ba sehlopha bo ntse bo le teng; Sesotho se bo ahlahisisa ka 'bona' se seng se kwadilweng."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביד משה",
+      "rationale": "'Ka letsoho la Moshe' — sebopeho sa Seheberu sa 'ka taelo ya'; se bolokwa ka ho hlaka."
+    },
+    {
+      "kind": "you",
+      "subject": "Adonai Yahwe",
+      "rationale": "Puo e tjella Adebona Yahwe ka boeledi, Morena Salomone a bua le Yahwe ka boomo."
+    }
+  ],
+  "translation": "Hobane wena o ile wa arohanya ⟨את⟩ bona ho wena e le kabelo ya hao, ho tloha meralong yohle ya lefatshe, jwalo ka ha o boletse ka letsoho la Moshe mohlanka wa hao, ha o ntse o hatisa ⟨את⟩ bo-ntate rona ba tloha Mitsrayime, Adonai Yahwe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "33acb3c263ea236342ed4325507504712a764b3c655d1fbb14ebc627cf6e8cec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-kings\/8\/53-53.1791265209364.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הבדלתם",
+      "gloss": "o ile wa arohanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "e le kabelo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ho tloha yohle"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "meralong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya lefatshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "o boletse"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa hao"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "ha o ntse o hatisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bo-ntate rona"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bo-ntate rona"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:40:09.369802659Z",
+  "model": "glm-5.3"
+}

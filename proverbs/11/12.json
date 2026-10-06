@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסר לב",
+      "rationale": "'o senngwe ke pelo' (lacking heart) kgahlanong le 'o sena bohlale' — KJV\/JPS bolella 'lacking understanding\/wisdom', YLT\/JPS e dula haufi le lentsoe-sejwale 'lacking heart'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "o senngwe ke pelo",
+      "rationale": "Seheberu se re 'חסר לב' — ya senang pelo; 'pelo' ke lehlakore la Seheberu la maikutlo le bohlale, eseng thupelo feela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בז \/ חסר",
+      "rationale": "Khutliso ya mafoko makhutshwane a mabedi a nang le menyetla e mmedi (buz\/khasar) — sa tswelwa ka Sesotho"
+    }
+  ],
+  "translation": "Ya nyatsa mogwake wa hae o senngwe ke pelo; empa mona wa kutlwisiso o ile a thoma.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5fa590a310565b1cb45264e14c0fe9f284940deb657af8a6a3bdb2b5787f2121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/proverbs\/11\/12-13.1791265607743.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "ya nyatsa"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "mogwake wa hae"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "o senngwe ke"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "empa mona"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "wa kutlwisiso"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "o ile a thoma"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:47.744201616Z",
+  "model": "glm-5.3"
+}

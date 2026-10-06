@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 4:17",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעשות רע",
+      "rationale": "'ho etsa bobe' (ya bophara) kgahlanong le 'ho etsa phoso' — ba sa tsebeng hore ba etsa bobe."
+    },
+    {
+      "kind": "invitation",
+      "subject": "tsamaya ka dinao tsa hao hlokolosi",
+      "rationale": "Taelo e tobileng e bitseang mobadi, 'shmor raglekha'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רגליך",
+      "rationale": "Seheberu se re 'tlohela dinao' — Sesotho se hlokahalla hlokolosi bakeng sa taelo ea tsamaea."
+    },
+    {
+      "kind": "elision",
+      "subject": "האלהים",
+      "rationale": "Seheberu se na le artikole ('bet haElohim'), Sesotho ha se hloke artikole, kahoo ha ho ya eketswa."
+    }
+  ],
+  "translation": "Tsamaya ka dinao tsa hao hlokolosi ha o ea ka ntlong ya Elohim, mme ho ba kgauswi ho utloa ho fana ha bahlahlamphase setjheso, hobane ba se na tsebo ya ho etsa phoso.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c4c40bfc66b7e8e7dd4175a5c71ccfeea7371971a9eea5a61070d695542db2b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ecclesiastes\/4\/17-17.1791265705653.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "tsamaya ka hlokolosi"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "dinao tsa hao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "o ea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "mme ho ba kgauswi"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ho utloa"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ho fana ha"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "bahlahlamphase"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "setjheso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ba se na"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "tsebo ya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "phoso"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:25.657733979Z",
+  "model": "glm-5.3"
+}

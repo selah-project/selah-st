@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 8:15",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "motho",
+      "rationale": "Seheberu se re feela 'ha ke a fumana moo'; 'motho' se ekeditsoe hore Sesotho se bue hantle."
+    },
+    {
+      "kind": "measurement",
+      "subject": "matsatsi a mararo",
+      "rationale": "Palo ya matsatsi a phomolo e balwa."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ra phomola hoo",
+      "rationale": "ונחנה e ka bo e bolela 'ra tshwarela matŝoeu' (ho hanela), kaha 'ho phomola moo'."
+    }
+  ],
+  "translation": "Mme ka ba bokaletsela nokong e yang Ahava, mme ra phomola hoo motseng oo matsatsi a mararo; mme ka hlahloba setjhaba le baprista, mme hara barwa ba Levi ha ke a fumana motho ⟨moo⟩.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c07ef62bc3012e0074075ed90f47656003ef40470c0849f828bd0e0de8b14fa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezra\/8\/15-15.1791265688902.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקבצם",
+      "gloss": "mme ka ba bokaletsela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "nokong"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "e yang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אהוא",
+      "gloss": "Ahava"
+    },
+    {
+      "surface": "ונחנה",
+      "gloss": "mme ra phomola hoo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "motseng oo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "mme ka hlahloba"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "ובכהנים",
+      "gloss": "le baprista"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "hara barwa ba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ke a fumana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:08.905297904Z",
+  "model": "glm-5.3"
+}

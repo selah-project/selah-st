@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 52:1",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sekhala le lilemo tsa bobusa",
+      "rationale": "Pale e bala lilemo tsa morena le nako ya bobusa ba hae, mokgwa wa ditlhaku tsa melamo ya meloko ya dimusumusu."
+    },
+    {
+      "kind": "crux",
+      "subject": "Yirmeiyahu",
+      "rationale": "Yirmeiyahu mona ke motho ea fapaneng le moporofeta Yirmeiyahu ka lintho tse ngata tsa bophelo; mabitso a tšoanang a ka baka tšekamelo."
+    }
+  ],
+  "translation": "Moradi wa mashome a mabedi le e mong wa lilemo Tsidkiyahu nakong ya ho busa ha hae; mme o busitse lilemo di le lesome le e mong ho Yerushalayime; mme lebitso la mmae ke Khamutale, moradi wa Yirmeiyahu, wa Livna.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ab67506b4f925ea77599ee209c254dfabd5d908f36d16e4818341521c44fd726",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/52\/1-1.1791265351699.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "moradi wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mashome a mabedi"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "le e mong"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wa lilemo"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "nakong ya ho busa ha hae"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "mme"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "le e mong lilemo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o busitse"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ho Yerushalayime"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mme lebitso"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "la mmae"
+    },
+    {
+      "surface": "חמיטל",
+      "gloss": "Khamutale"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi wa"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeiyahu"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "wa Livna"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:31.700966353Z",
+  "model": "glm-5.3"
+}

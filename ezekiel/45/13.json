@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 45:13",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le copula; Sesotho se e hlokahala"
+    },
+    {
+      "kind": "measurement",
+      "subject": "efa le omere",
+      "rationale": "Ezekiele 45:13 e hlalosa ditekanyo tsa terumah: karolo ya bošelela ya efa ho omere e le ngoe"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ששית",
+      "rationale": "E ka boela ea bolela 'tokomane' (karolo ya borethla) — 'bošelela' ke karolo ya botlhano ho ya hodimo"
+    }
+  ],
+  "translation": "Ena ke terumah yeo le tla e hlahisang: karolo ya bošelela ya efa e le ngoe, ho tloha ho omere ya ngoloe, le karolo ya bošelela ya efa e le ngoe, ho tloha ho omere ya borone.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "811874ee2bcd4aa0964e74743e9a19e5c376cc3509be7831cfebc15ae8db226f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/45\/13-13.1791265397824.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ena"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "terumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "le tla e hlahisang"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "karolo ya bošelela"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ya efa"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "ho tloha ho omere"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "ya ngoloe"
+    },
+    {
+      "surface": "וששיתם",
+      "gloss": "le karolo ya bošelela"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ya efa"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "ho tloha ho omere"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ya borone"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:17.826368984Z",
+  "model": "glm-5.3"
+}

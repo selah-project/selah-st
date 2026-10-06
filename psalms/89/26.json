@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leohele",
+      "rationale": "בים ke leholo la metsi a mabapi; 'leohele' bolela metsi a mabapi a Seheberu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "metsebotwane",
+      "rationale": "נהרות bolela metse e mabapi; e ka ba 'dinoka' bakeng sa sena se hlalosang sebakeng sa puso"
+    }
+  ],
+  "translation": "Mme ke tla beha letsoho la hae leoholong, le letsoho la hae la ho ja letshehadi metsebotwaneng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "98af1e17432cb263366fbb7a01152507d44ed543d84d40437fe678a7b26e8cec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/89\/26-26.1791265582606.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Mme ke tla beha"
+    },
+    {
+      "surface": "בים",
+      "gloss": "leoholong"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "metsebotwaneng"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "letsoho la hae la ho ja letshehadi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:22.606710060Z",
+  "model": "glm-5.3"
+}

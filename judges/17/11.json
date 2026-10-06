@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויואל",
+      "rationale": "'a ikemisetsa\/a dumella' — diphetho tse ngwe: 'a dumelela' (KJV) kgahlanong le 'a batla ka boithati' ho tsoa ho motso wa ho inehela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "את האיש",
+      "rationale": "את mona ke preposition ya 'le\/nhle', eseng mosa wa moeletso; hangata e hetloa e le 'le monna' feela."
+    }
+  ],
+  "translation": "Mme Molevi a ikemisetsa ho dula le ⟨את⟩ monna eo; mme mosha a ba motho wa hae, e le mong wa bana ba hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5ad49d82aa2f8a705d56bc6cd959342db22ec23f6629fc6d2959ad07f4605a10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/17\/11-12.1791265119352.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "a ikemisetsa"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Molevi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ho dula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna eo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna eo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "motho wa hae"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "e le mong"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "wa bana ba hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:39.357541109Z",
+  "model": "glm-5.3"
+}

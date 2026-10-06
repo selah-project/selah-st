@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joel 2:17",
+  "book": "joel",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למשל בם",
+      "rationale": "'ho busa' (ho busa ditjhaba) kgahlanong le 'papiso\/sekalemo' (byword, jwalo ka JPS) — למשל e bolela ka bobedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kabelo",
+      "rationale": "נחלתך ke 'bojalive\/karolo ya boholo-holo'; kabelo ke karolo, e sa bontshang botlalo ba lefatshe la kajeno."
+    },
+    {
+      "kind": "you",
+      "subject": "thapelo ya baprista ho Yahwe",
+      "rationale": "Mongolo o bitela Yahwe ka ho tobile: Tshwarela, Yahwe — sechaba sa hau se bitseloa mafoko ana."
+    },
+    {
+      "kind": "elision",
+      "subject": "האולם",
+      "rationale": "'poroko' ke lentswe la kajeno la tempele; Sesotho se senyeletse sebopeho sa tempele."
+    }
+  ],
+  "translation": "Pakeng tsa poroko le aletare baprista, batabeli ba Yahwe, ba lule ba lla, mme ba re: Tshwarela, Yahwe, sechaba sa hau, mme o se ke wa fa kabelo ya hau ho nyediswa, hore ditjhaba di tle di e buse. Hobaneng ba tla re hara ditjhaba: Elohim ba bona ke kae?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fbbb9c46c494ba41b501d8ec80572150ca48b0be42140340e42d2a467913fe2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joel\/2\/17-17.1791265477506.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בין",
+      "gloss": "Pakeng tsa"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "poroko"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "le aletare"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "ba lule ba lla"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baprista"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "batabeli ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mme ba re"
+    },
+    {
+      "surface": "חוסה",
+      "gloss": "Tshwarela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pela"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sechaba sa hau"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme o se ke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wa fa"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "kabelo ya hau"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "ho nyediswa"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ho busa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "eona"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hobaneng"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba tla re"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "hara ditjhaba"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ke kae"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ba bona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:37.507319824Z",
+  "model": "glm-5.3"
+}

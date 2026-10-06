@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 17:6",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Seheberu se bontsha potso ka ⟨ה⟩ ya potso ho הדבר; Sesotho se hloka na"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dicedar",
+      "rationale": "ארזים ke bongata; 'ntlo ea sefaha sa dicedar' — mongolo o le mong o ile wa kgetha"
+    },
+    {
+      "kind": "crux",
+      "subject": "הדבר דברתי",
+      "rationale": "'a word have I spoken' — KJV\/ASV e behe potso e hanetsoeng, BSB e e bale joalo ka tlammo: 'have I ever asked'"
+    },
+    {
+      "kind": "you",
+      "subject": "baahloli ba Yisraele",
+      "rationale": "Puiso e lebella baahloli ka 'hobaneng ha le...'"
+    }
+  ],
+  "translation": "Ho tshwenyeha moo ke ntseng ke tsamaya hara Yisraele ohle, na ke boletse lentswe le ⟨את⟩ e mong ba baahloli ba Yisraele, bao ke laotseng hore ba fulletse ⟨את⟩ setjhaba sa ka, ka re: Hobaneng ha le a mpaha ntlo ea dicedar?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "7476cf471f86a3f020d185251ffcfe01358b70f0fd072cb0f9c249c94cdd45ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/17\/6-6.1791265740630.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ho tshwenyeha moo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ke ntseng ke tsamaya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hara ohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentswe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "na ke boletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e mong ba baahloli ba Yisraele"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e mong"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "ba baahloli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ke laotseng"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "hore ba fulletse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setjhaba sa ka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setjhaba sa ka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka re"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hobaneng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בניתם",
+      "gloss": "le a mpaha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ea"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "dicedar"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:00.633834012Z",
+  "model": "glm-5.3"
+}

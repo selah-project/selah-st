@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 33:49",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ho tshwara ha",
+      "rationale": "Seheberu se re 'ba loma ho Yaridene' — sebopeho se hlolehileng se ekeditswe"
+    },
+    {
+      "kind": "measurement",
+      "subject": "moo ba lulang teng",
+      "rationale": "Seripa sena se ela bolelele ba kanoko: ho tloha Bet-ha-Yeshimoth ho fihlela Abele ha-Shitim"
+    }
+  ],
+  "translation": "Mme ba loma ho tshwara ha Yaridene, ho tloha Bet-ha-Yeshimoth ho fihlela Abele ha-Shitim, dileweng tsa Moabe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "cacee5c728d7609482a22dfadf0a534c24abaa143f7f738ad55bef431571a372",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/33\/49-49.1791264941700.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "ba loma ho tshwara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yaridene"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ho tloha Bet-"
+    },
+    {
+      "surface": "הישמת",
+      "gloss": "ha-Yeshimoth"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Abele"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "ha-Shitim"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "dileweng tsa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:41.704002013Z",
+  "model": "glm-5.3"
+}

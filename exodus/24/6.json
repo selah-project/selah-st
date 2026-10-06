@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "altarre",
+      "rationale": "המזבח (mizbeakh) — Sesotho se sena lentswe la Sesotho; e ngolwa ka modumo wa Seheberu"
+    },
+    {
+      "kind": "crux",
+      "subject": "a e phalla",
+      "rationale": "זרק: 'phalla' (sprinkle) kgahlanong le JPS 'a e ontsha ka matla' (dashed) — merero e mmedi"
+    }
+  ],
+  "translation": "Mme Moshe o ile a nka halofo ya madi, a e beha dija tse kgolo; mme halofo ya madi o ile a e phalla holim'a altarre.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "16c6aa7c6ff2bc3b236a526c83360d4025f0c4493aece013161a6f16df925693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/24\/6-6.1791264751712.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "halofo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ya madi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a e beha"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "dija tse kgolo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "mme halofo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ya madi"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "a e phalla"
+    },
+    {
+      "surface": "על",
+      "gloss": "holim'a"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarre"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:31.716865327Z",
+  "model": "glm-5.3"
+}

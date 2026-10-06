@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 37:9",
+  "book": "job",
+  "lang": "st",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kamoreng",
+      "rationale": "החדר: 'kamore' (chamber) vs KJV 'south' — sesotho se latela mongolo wa kamore."
+    },
+    {
+      "kind": "hapax",
+      "subject": "וממזרים",
+      "rationale": "מזרים ha e hlaha feela mona (peo e le bongata); bohaleng 'ba phallasang' — moya o ka leboya o phallasang maru."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moya o ka leboya",
+      "rationale": "מזרים ke 'ba phallasang' ka bohaleng; Sesotho se hlalosa e le moya wa leboya."
+    }
+  ],
+  "translation": "Ho tloha ⟨ho⟩ kamoreng e tla mokolo, mme ho tloha ho moya o ka leboya ho tla tsereho.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8fa732f6cefa97f5d911063d8ab8ab8593115d3119778417f7f12ce072f6801c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/37\/9-9.1791265641290.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "kamoreng"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "e tla"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "וממזרים",
+      "gloss": "mme ho tloha ho moya o ka leboya"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "tsereho"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:21.290732214Z",
+  "model": "glm-5.3"
+}

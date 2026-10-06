@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 22:28",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bolo",
+      "rationale": "Hebrew future ya bolaela ho hlakisa nako; Sesotho se hloka mofuta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ho sisolla",
+      "rationale": "עולה ke sehlabelo se sisang kahoohle; Sesotho se sena lentswe le le leng"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא",
+      "rationale": "ho nehoeng bobedi ho hlahisoa ka 'kapa' feela, 'eseng... kapa'"
+    }
+  ],
+  "translation": "Mme ha re re: e tla ba ha ba re bopaki bolo ho rona kapa ho meloko ya rona kamohlang, re tla re: Lebang ⟨את⟩ sebopeho sa alatara ya Yahwe, eo bo-ntate rona ba e entseng, eseng bakeng sa ho sisolla kapa sa sehlabelo, hobane ke paki pakeng tsa rona le lona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5c09d1d8964521a750af19bdb9e5642a476367502b054b56868e858eedfb26a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/22\/28-28.1791265099111.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ha re re"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba re bolo"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ho rona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kapa ho"
+    },
+    {
+      "surface": "דרתינו",
+      "gloss": "meloko ya rona"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "kamohlang"
+    },
+    {
+      "surface": "ואמרנו",
+      "gloss": "re tla re"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Lebang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebopeho sa alatara ya Yahwe"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "sebopeho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sa alatara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba e entseng"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bo-ntate rona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eseng"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "bakeng sa ho sisolla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "sa sehlabelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "paki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "pakeng tsa rona"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "le lona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:19.116486166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 27:9",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "particle of entreaty rendered as softener 'kapa', its pleading force reduced"
+    },
+    {
+      "kind": "addition",
+      "subject": "di-",
+      "rationale": "Sesotho object concord on 'di etsa' supplied for the Hebrew object suffix in ואעשה"
+    }
+  ],
+  "translation": "Eya kapa tshepeseng, mme nkwelle moo dinyamatsane tse pedi tse lokileng tsa dibue, mme ke tla di etsa ⟨את⟩ dilaleli bakeng sa ntata-hao, tseo a di ratang.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5e43b178140352eaf82e552f8c3c1d9003845e08a85993681cb807e6cc2d2b0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/27\/9-9.1791264704008.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Eya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tshepeseng"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tshepe"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "mme nkwelle"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nkelle"
+    },
+    {
+      "surface": "משם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "dinyamatsane"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "tsa dibue"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "tse lokileng"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "mme ke tla di etsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dilaleli"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "dilaleli"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "bakeng sa ntata-hao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "a di ratang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:44.015892115Z",
+  "model": "glm-5.3"
+}

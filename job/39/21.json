@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 39:21",
+  "book": "job",
+  "lang": "st",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "maoto",
+      "rationale": "Seheberu se re 'o khubeka' feela; 'ka maoto' se ekeditswe ho hlalosa tsela ya haresa"
+    },
+    {
+      "kind": "addition",
+      "subject": "a hae",
+      "rationale": "bokgacheng ha ho na sehlomathiso 'wa hae'; se ekeditswe ka Sesotho"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחפרו",
+      "rationale": "חפר e bolela 'ho bopa\/ho hlahlola'; KJV 'he paweth' (haresa) kgahlanong le YLT 'they dig' (bongata)"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשק",
+      "rationale": "'dibetsa' kapa 'ba entsweng dibetsa' (ba nang le dibetsa, jwalo ka KJV\/ASV)"
+    }
+  ],
+  "translation": "O khubeka ka ⟨maoto⟩ sephatlalathing, mme a ikgantsha matleng a hae; o tswa ho ya kopana le dibetsa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4c6913a520daf689e9b135915773f802d48d3603fd34ec41609addafdd51dd02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/39\/21-21.1791265635139.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחפרו",
+      "gloss": "o khubeka ka"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sephatlalathing"
+    },
+    {
+      "surface": "וישיש",
+      "gloss": "mme a ikgantsha"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "matleng a hae"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tswa"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ho ya kopana le"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "dibetsa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:15.141441154Z",
+  "model": "glm-5.3"
+}

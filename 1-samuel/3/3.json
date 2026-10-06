@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "heikale",
+      "rationale": "היכל ke ntlo e kholo ya borena kapa tempele; 'heikale' e boloka mmele wa lentsoe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "setlakele",
+      "rationale": "נר ke laesepa ya tempele e neng e tukile bosiu bohle; 'molora' o ka lahlwa."
+    },
+    {
+      "kind": "measurement",
+      "subject": "nako",
+      "rationale": "טרם e bala nako — pele laesepa e fifala, e neng e tukiswa mantsiboya."
+    }
+  ],
+  "translation": "Mme setlakele sa Elohim se sa fifala, mme Shamouele a robetse heikaleng ya Yahwe, moo ⟨ moo ⟩ arona ya Elohim e neng e le kono.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ac4c3b876491bc3935de4daf4c01a233ec72ec8d1b1b32a0652149d5905b749c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-samuel\/3\/3-3.1791265148931.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "mme setlakele sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "fifala"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "mme Shamouele"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "a robetse"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "heikaleng ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:08.935769222Z",
+  "model": "glm-5.3"
+}

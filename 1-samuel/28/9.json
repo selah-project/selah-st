@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 28:9",
+  "book": "1-samuel",
+  "lang": "st",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפש ke 'moya\/bophelo' — seripa sa moya, eseng 'moea' ka tsela ya Testamente e Ntjha"
+    },
+    {
+      "kind": "idiom",
+      "subject": "a ralalla",
+      "rationale": "הכרית 'ho khaola' — idiom ya Sesotho 'ho ralalla' e ntse e phetha setshwantsho sa ho khaola"
+    },
+    {
+      "kind": "crux",
+      "subject": "ba-oba",
+      "rationale": "האוב: 'motho ya buang le meng ya mafu' kgahlano le 'moya wa mofu' ka boona — diphetho tsa mantlha a se nang bohlale"
+    },
+    {
+      "kind": "you",
+      "subject": "mosali o bua le Shaule",
+      "rationale": "karolo ea potso e tobileng ho motho ea bitsiloeng"
+    }
+  ],
+  "translation": "Mme mosali a mo re: Bonwe, o tseba hore na Shaule o entse eng, hore o ile a ralala ⟨את⟩ ba-oba le ⟨את⟩ ba-tsebahali ho tloha lefatsheng; ke hobaneng ha o kenya khobo moyeng wa ka, ho mpolaea?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4c753ca0af1047fdf33731e703a6e77e733411f45a69cc8a7a2207660b461b8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-samuel\/28\/9-9.1791265177328.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hore na Shaule o entse eng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o entse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hore"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "a ralalla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba-oba"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ba-oba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-tsebahali"
+    },
+    {
+      "surface": "הידעני",
+      "gloss": "ba-tsebahali"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ke hobaneng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "מתנקש",
+      "gloss": "kenya khobo"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "moyeng wa ka"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "ho mpolaea"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:37.343381636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רמותך",
+      "rationale": "רָמוּת (mokoko wa mehlolo) e hlaha mona feela ho Tanakh; ba fetolelli ba bang ba ngola 'boholo ba hao' kgahlanong le 'dintlha tsa hao'."
+    },
+    {
+      "kind": "crux",
+      "subject": "רמותך",
+      "rationale": "KJV 'thy height' kgahlanong le JPS 'thy foulness' — lentsoe le bolela mokoko wa mehlolo, eseng boholo."
+    }
+  ],
+  "translation": "Mme ke tla bea ⟨את⟩ nama ya hao hodima dithaba, mme ke tla tlatsa mekhechwa ka mokoko wa hao.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2b1c3d1c17f8ee4735ca2cf2b11fa5e4a68510b2182eac0b69da14b4951ef9ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/32\/5-6.1791265425291.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mme ke tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama ya hao"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "nama ya hao"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "mme ke tla tlatsa"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "mekhechwa"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "mokoko wa hao"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:45.293236905Z",
+  "model": "glm-5.3"
+}

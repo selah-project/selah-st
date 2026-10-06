@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בשלש",
+      "rationale": "'ka tharo' (a triple measure) — the Hebrew leaves the instrument unnamed; KJV 'in a measure', BSB 'in a basket'"
+    },
+    {
+      "kind": "crux",
+      "subject": "וכל",
+      "rationale": "lemma כלל 'to measure\/comprehend' — KJV 'comprehended' vs BSB 'held'; Sesotho 'a boka' (gathered in)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "isaiah 40:12",
+      "rationale": "the whole verse is a chain of measuring acts — waters, heavens, dust, mountains, hills — rhetorically unanswerable questions"
+    },
+    {
+      "kind": "invitation",
+      "subject": "rhetorical questions",
+      "rationale": "five 'who?' questions draw the hearer to admit that no one but Yahwe measures creation"
+    }
+  ],
+  "translation": "Ke mang ya lekanyetsang metsi ka sefubjeng sa letswele la hae, mme o lekanya mahodimo ka phapanyetsano, mme a boka ⟨⟨את⟩⟩ mongobo wa lefatshe ka tharo, mme a bata lithaba ka sekala, le dithabana ka mekaleng?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fdfd066acf896246cd52afb4d5d0a83dd7471d5fb4860a7965ce6027926e86f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/40\/12-12.1791265281611.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ya lekanyetsang"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "ka sefubjeng sa letswele"
+    },
+    {
+      "surface": "מים",
+      "gloss": "metsi"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "mme mahodimo"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "ka phapanyetsano"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "o lekanya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mme a boka"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "ka tharo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mongobo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa lefatshe"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "mme a bata"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "ka sekala"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "lithaba"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "le dithabana"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "ka mekaleng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:21.613351382Z",
+  "model": "glm-5.3"
+}

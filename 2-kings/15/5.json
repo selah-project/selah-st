@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החפשית",
+      "rationale": "Lentswe le sa tlwaelehang: 'ntlo ea tokoloho\/khaello' — li-phetoelo tse ngwe li re 'house of separation' kapa 'house of freedom'; moelelo oa mochi o sa hlakang."
+    },
+    {
+      "kind": "hapax",
+      "subject": "החפשית",
+      "rationale": "E hlaha mono le ho 2 Dintho tsa Mehla 26:21 feela ho Tanakh."
+    },
+    {
+      "kind": "elision",
+      "subject": "o ne a le",
+      "rationale": "Seheberu se se na kopula; Sesotho se e hloka."
+    }
+  ],
+  "translation": "Mme Yahwe o ile a otla ⟨את⟩ morena, mme a ba mokhohlane ho fihlela letsatsi la lefu la hae, mme a dula ntlong ea hlahlamolao; mme Yotame, mora ea morena, o ne a le hodima ntlo, a kahlola ⟨את⟩ sechaba sa lefatshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "bd3668e1d08cd1a654fa09c6c276267140526c56cb78648a73de6b1f20d53e24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-kings\/15\/5-5.1791265248280.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "o ile a otla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "mokhohlane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "la lefu la hae"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ntlong ea"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "hlahlamolao"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "mme Yotame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora ea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "a kahlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sechaba sa lefatshe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefatshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:40:48.285506091Z",
+  "model": "glm-5.3"
+}

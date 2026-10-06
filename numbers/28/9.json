@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 28:9",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikarolo tse leshome",
+      "rationale": "Di-efaha tse pedi tsa leshome — tekanyo ea minkha le neseke ea Shabata."
+    },
+    {
+      "kind": "substitution",
+      "subject": "neseke",
+      "rationale": "נסך ke mofuta oa minkha o fetiselitseng ho neseke — senotlelo se totobetseng se hlahisang boemo ba sona ba sesiu."
+    },
+    {
+      "kind": "addition",
+      "subject": "ya lona",
+      "rationale": "Sehlomathiso sa ונסכו se hlokahala ho Sesotho; Lebitso ha le na moqoqo mona."
+    }
+  ],
+  "translation": "Mme ka letsatsi la Shabata, diputi tse pedi tsa ngwetsi e le nngwe, tse phethahetseng, le di-efaha tse pedi tsa 10 tsa mofufune oa minkha e tsoakaneng mafura, le neseke ya lona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b02373404582b6ab8bfd1e06927de19e37ff4b25588d653c736148f9fff8c85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/28\/9-9.1791264949860.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Mme ka letsatsi la"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "diputi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "tse phethahetseng"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "le tse pedi"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "dikarolo tse leshome"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "mofufune"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "e tsoakaneng"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "ונסכו",
+      "gloss": "le neseke ya lona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:49.863974951Z",
+  "model": "glm-5.3"
+}

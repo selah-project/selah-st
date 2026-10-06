@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 29:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכי אחי אתה",
+      "rationale": "'Na hobale o moholoake ka bomong?' — potso e kgetlang: na bo-ntate bo hloka moputso, kapa polelo ya nnete fela"
+    },
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "gloss": "e kopantswe le 'mpolelle' — moelelo o tletse mona"
+    }
+  ],
+  "translation": "Mme Labane a re ho Yaakobo: Na hobane o moholoake ka bomong, o tla nkela mesebetsi mahala? Mpolelle sefe seholelo sa hao.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "924a1f67906849a81a4414c15576f7aac2eeb2d0b2a751c3b6f13df36d3c6423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/29\/14-15.1791264719294.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labane"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ho Yaakobo"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "na hobane"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "o moholoake ka bomong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "ועבדתני",
+      "gloss": "o tla nkela mesebetsi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "mpolelle"
+    },
+    {
+      "surface": "לי",
+      "gloss": "<nke>"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sefe"
+    },
+    {
+      "surface": "משכרתך",
+      "gloss": "seholelo sa hao"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:59.305807751Z",
+  "model": "glm-5.3"
+}

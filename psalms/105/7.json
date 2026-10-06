@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "di le",
+      "rationale": "Seheberu se se na le copula; Sesotho se e hloka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכל־הארץ ... משפטיו",
+      "rationale": "Taolo ya sesupa: karolo e qala ka Elohim wa rona, e qetela ka dikahlolo tsa hae lefatsheng ho soyohile"
+    }
+  ],
+  "translation": "Ke yena Yahwe, Elohim wa rona; dikahlolo tsa hae di le lefatsheng ho soyohile.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "16fbddff8f9e9ac867ba795805a21e560d7135f93f00ba88ea78c75abb8c38d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/105\/7-7.1791265576486.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ke yena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rona"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ho soyohile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "dikahlolo tsa hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:16.487288950Z",
+  "model": "glm-5.3"
+}

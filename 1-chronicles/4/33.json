@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 4:33",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בעל",
+      "rationale": "Mo e le lebitso la sebaka, eseng lerato la modimo wa Mofenishia; Sesotho: Baale."
+    },
+    {
+      "kind": "measurement",
+      "subject": "והתיחשם",
+      "rationale": "Pekelo ya leloko — ngoliso ya meloko, karolo ya lenane la Madi Chronika."
+    }
+  ],
+  "translation": "Mme ditopo tsohle tsa tsona tse dikologileng metsana ena, ho fihlela ho Baale. Tsena ke matsibo a tsona, mme ba ngola botloko-ba-loko bja tsona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "dfa1f10324790c4c5759649cd2dea773c599bfde1d4d85f10299a4b80722508c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/4\/33-33.1791265722117.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mme tsohle"
+    },
+    {
+      "surface": "חצריהם",
+      "gloss": "ditopo tsa tsona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tse"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "dikologileng"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "metsana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela ho"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baale"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "מושבתם",
+      "gloss": "matsibo a tsona"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "mme ba ngola botloko-ba-loko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bja tsona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:42.120908200Z",
+  "model": "glm-5.3"
+}

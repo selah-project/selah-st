@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "leshe",
+      "rationale": "דשנו e bolela ho tlosa mafura\/leshe; Sesotho hloka lentswe la leshe ho hlalosa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba tlwaela",
+      "rationale": "c\/1878 e bolela 'ho mafura\/ho tlotsa' — 'ho tlosa leshe' ke moelelo wa letshwao feela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דשנו\/בגד ארגמן",
+      "rationale": "motheo wa 'mafura' kgahlanong le seapari sa merabe — ditho tsa altare di apara jwalo ka motho"
+    }
+  ],
+  "translation": "Mme ba tlwaela ⟨את⟩ altare ka leshe, mme ba phalla ka holima eona seapari sa argamane:",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b0ef50f6fc5e92a4c4f025a79dbc99af896845fe1abe213cc05d9b2233f0021b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/4\/13-13.1791264866596.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "ba tlwaela leshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ba phalla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka holima eona"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "seapari"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "sa argamane"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:26.601801501Z",
+  "model": "glm-5.3"
+}

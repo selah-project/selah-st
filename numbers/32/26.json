@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 32:26",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bana ba manyenyane",
+      "rationale": "טפנו ke 'bana ba manyenyane' kapa 'lehlapa' — mokgwa wa ho bitosa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקננו\/בהמתנו",
+      "rationale": "Lentswe le hlalosa phapang pakeng tsa diphulofo le diphofolo tsohle; Sesotho se hloka mantse a mabeli"
+    }
+  ],
+  "translation": "Bana ba rona basenyana, basadi ba rona, linku tsa rona, le ho feta: mehleng ya rona ya mehla, e tla ba teng ditoropong tsa Gilеade,",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c8d7798c4872a25d7799b5f95065163be4eca52a974d9702e40e0499f2a8af1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/32\/26-26.1791264932445.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טפנו",
+      "gloss": "bana ba rona ba manyenyane"
+    },
+    {
+      "surface": "נשינו",
+      "gloss": "basadi ba rona"
+    },
+    {
+      "surface": "מקננו",
+      "gloss": "diphulofo tsa rona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsohle"
+    },
+    {
+      "surface": "בהמתנו",
+      "gloss": "diphofolo tsa rona"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di tla ba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ditoropong"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ya Gilеade"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:32.450369140Z",
+  "model": "glm-5.3"
+}

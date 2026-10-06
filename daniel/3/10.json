@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 3:10",
+  "book": "daniel",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morena",
+      "rationale": "מלכא ke morena wa motho, kapa morena wa Nahabukadnetsara — e lokile mme e se Lebitso"
+    },
+    {
+      "kind": "hapax",
+      "subject": "וסיפניה",
+      "rationale": "symphonia (sefela sa mahodi a mabedi) e hlaha mona feela ho Tanakh"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ya tla wa o inamisa",
+      "rationale": "יפל ויסגד ke tshebetso e tsweletseng; mongodi a ka boela a ngole 'a wa, a khumama'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenane la ditsu tse tsheletseng",
+      "rationale": "tatelano ya ditsu e balwa ka lebitso — lenaka, seferefere, qithara, sambuka, psalteria, symphonia"
+    }
+  ],
+  "translation": "Wena morena, o beile ⟨את⟩ toloko ya hore motho feela ya tla utlwang modumo wa lenaka, wa seferefere, wa qithara, wa sambuka, wa psalteria, wa symphonia, le mofuta ohle wa mmino, o tla wa o inamisa, a khumamele setshwantshong sa gauta.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "27ac72e84c8c8da3d434949fc210d0defc708831e9dea05a52fff304cc93cdbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/daniel\/3\/10-10.1791265680785.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "morena"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "o beile"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "toloko"
+    },
+    {
+      "surface": "די",
+      "gloss": "hore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "feel(a)"
+    },
+    {
+      "surface": "אנש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "a tla utlwang"
+    },
+    {
+      "surface": "קל",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "קרנא",
+      "gloss": "lenaka"
+    },
+    {
+      "surface": "משרקיתא",
+      "gloss": "seferefere"
+    },
+    {
+      "surface": "קיתרס",
+      "gloss": "qithara"
+    },
+    {
+      "surface": "שבכא",
+      "gloss": "sambuka"
+    },
+    {
+      "surface": "פסנתרין",
+      "gloss": "psalteria"
+    },
+    {
+      "surface": "וסיפניה",
+      "gloss": "symphonia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ohle"
+    },
+    {
+      "surface": "זני",
+      "gloss": "mofuta"
+    },
+    {
+      "surface": "זמרא",
+      "gloss": "mmino"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "o tla wa"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "a khumamele"
+    },
+    {
+      "surface": "לצלם",
+      "gloss": "setshwantshong"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "sa gauta"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:00.788756851Z",
+  "model": "glm-5.3"
+}

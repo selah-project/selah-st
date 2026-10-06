@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "st",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי פקד עליו",
+      "rationale": "Eliud's rhetorical question: 'who appointed HIM over the earth?' (i.e., over El) vs. 'who inspected the earth FOR himself' — kjv\/jps read it as a charge over earth, ylt reads the earth as object"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מי ... ומי",
+      "rationale": "parallel 'who... who...' rhetorical questions framing the two cola"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "gloss rationale": "rare word for inhabited world rendered 'lefatshe le nang le batho', its moist\/inhabited nuance lost"
+    }
+  ],
+  "translation": "Ke mang ya mo beileng hodima ⟨את⟩ lefatshe? Kapa ke mang ya beileng ⟨sefathe⟩ sehlekehleke sehle? — ke mang ya beileng lefatshe lohle?",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "18dce8c49bf3f8f4f216b79f580cffc66da4f017ced9e37104ddd08d8734671d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/34\/13-13.1791265634291.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ya mo beileng"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hodima eena"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kapa ke mang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ya beileng"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefatshe le nang le batho"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "lohle"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:14.293760825Z",
+  "model": "glm-5.3"
+}

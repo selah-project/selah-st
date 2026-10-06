@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "foro ya sekgoba sa Monghadi",
+      "rationale": "מסך הפתח ke Setswaiso: foro\/sekguba sa monyako — ho hlahloba lentswe la Sesotho le nepahetseng (foro kapa sekguba)"
+    },
+    {
+      "kind": "addition",
+      "subject": "sa",
+      "rationale": "Seheberu se na le sehlaganyi se tsamaisang מסך le הפתח; Sesotho se hloka sengolwa sa bopaki"
+    }
+  ],
+  "translation": "Mme o ile a bea ⟨את⟩ foro ya sekgoba sa Monghadi ho Mishkane.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8add72f3068e03a63b5c7762aec469d6c6686b0a070b26e7af97458f258be4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/40\/28-28.1791264800799.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Mme o ile a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "foro ya sekgoba sa Monghadi"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "foro ya sekgoba"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "sa Monghadi"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ho Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:20.806114564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 21:9",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "dikoloi tsa nto",
+      "rationale": "הרכב e ka boela e bolela banna ba dikoloi (cavalry); 'dikoloi' e bolokile sebopeho sa konthinente."
+    },
+    {
+      "kind": "crux",
+      "subject": "a hlahlama bosiu",
+      "rationale": "קם לילה: KJV\/JPS 'a hlahlama bosiu' kgahlanong le BSB e bala hore Edome e ile ya mo dikologa pele, a hlasela bosiu."
+    }
+  ],
+  "translation": "Mme Yehorame a feta le balaodi ba hae le dikoloi tsohle tsa hae; mme a hlahlama bosiu, a otla ⟨את⟩ Edome ya mo dikologileng, le ⟨את⟩ balaodi ba dikoloi tsa nto.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "21f8d1697b8ad15333953564d5ce73f05945d0bfd04037a7e73619bb7f45f4be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/21\/9-9.1791265799821.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorame"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "balaodi ba hae"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tsohle"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "dikoloi tsa hae"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le eena"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme e ba"
+    },
+    {
+      "surface": "קם",
+      "gloss": "a hlahlama"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edome"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ya mo dikologileng"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho eena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "balaodi ba dikoloi tsa nto"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "dikoloi tsa nto"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:59.824330890Z",
+  "model": "glm-5.3"
+}

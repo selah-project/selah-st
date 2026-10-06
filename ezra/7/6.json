@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 7:6",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Seheberu se se na copula; Sesotho e e hlokahala"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa Persia",
+      "rationale": "המלך ka boyona ha se bolele morena ofe; ho hlakisa hore ke Artakhashaseta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ho latoka letsoho",
+      "rationale": "כיד יהוה ke popeleho; 'letsoho la Yahwe' e bolela matla a hae a sebetsang"
+    },
+    {
+      "kind": "crux",
+      "subject": "מהיר",
+      "rationale": "'phallang' (ya potlakileng) kgahlanong le 'hlahanotsi' — baphetoleli ba fapana"
+    }
+  ],
+  "translation": "Eena Ezrara o ile a nyoloha ho tloha Bobelone, mme eena e ne e le mo-ngodi ya phallang ka ho Tokomane ya Moshe, eo Yahwe Elohim wa Yisraele a neng a e file; mme morena wa Persia o ile a mo fa ⟨selekaneng⟩ seo a se kopotlang sohle, ho latoka letsoho la Yahwe Elohim wa hae leo le neng le le hodima hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2c5e8d56578db2c5739d366844dc5a188c19db2a1c7ba89aa363dbe484f6d826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezra\/7\/6-7.1791265711624.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Eena"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezrara"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "o ile a nyoloha"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ho tloha Bobelone"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme eena"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "mo-ngodi"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "ya phallang"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "ka ho Tokomane ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a neng a e file"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mme o ile a fa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "ho latoka letsoho la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wa hae"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hodima hae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "בקשתו",
+      "gloss": "seo a se kopotlang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:31.629262034Z",
+  "model": "glm-5.3"
+}

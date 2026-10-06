@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 11:2",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן אדם",
+      "rationale": "'Mora motho' — sefoko sa Sesotho sa kgetho ya porofeta, eseng lebitso la motho a le mong."
+    },
+    {
+      "kind": "substitution",
+      "subject": "החשבים",
+      "rationale": "חשב ke 'ho bala\/hopola'; 'ho hlahlama boikutlo' ho isa boima ba etso bo hlahisisang bo bobe."
+    },
+    {
+      "kind": "addition",
+      "subject": "banna",
+      "rationale": "אלה e bolela 'bana', 'banna' bo ekeditswe hore sefoko se be sesotho."
+    }
+  ],
+  "translation": "Mme o ile a re hoena: Mora motho, banna ke bana ba hlahlamang boikutlo bo bobe, ba pehellang selekane se se mobe motseng ono.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fe23090079b44b546869eb6a252238d7c579517c360a6ee26e4895aaffa551cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/11\/2-2.1791265355076.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme o ile a re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hoena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Mora"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "banna ke bana"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "החשבים",
+      "gloss": "ba hlahlamang boikutlo"
+    },
+    {
+      "surface": "און",
+      "gloss": "bo bobe"
+    },
+    {
+      "surface": "והיעצים",
+      "gloss": "ba pehellang"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "רע",
+      "gloss": "se se mobe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ono"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:35.077738483Z",
+  "model": "glm-5.3"
+}

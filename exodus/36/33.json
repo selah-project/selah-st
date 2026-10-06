@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בריח\/לברח",
+      "rationale": "Pun between the noun 'bolt' and the verb 'to bolt through' (same root as 'to flee'), lost in Sesotho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ho tloha qetellong ho ya ho qetello",
+      "rationale": "Repetition of 'extremity' measures the bar's span end to end"
+    }
+  ],
+  "translation": "Mme a etsa ⟨את⟩ borikh bo bohareng, ho phunyetsa ka hare ho dikhoshe, ho tloha qetellong ho ya ho qetello.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4549219c69abae07e63677a168d566b78084ff34a1b5f9feab97bbd711d55cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/36\/33-33.1791264801933.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borikh bo bohareng"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "borikh"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "bo bohareng"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "ho phunyetsa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "dikhoshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "qetellong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "qetello"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:21.939161180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Yakhine le Boaze",
+      "rationale": "Mabitso a mediu a tempole — ‘o tla tiisa’ (Yakhine) le ‘ka matla ho eena’ (Boaze); a sa fetolelwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tempole",
+      "rationale": "ההיכל ke ntlo e kholo kapa lehae; ‘tempole’ ke lentswe le tlwaelehileng."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mediu ea mmediu",
+      "rationale": "Karolo ya tekanyo ya tempele — mediu ea mmediu a bitsoang ka mabitso."
+    }
+  ],
+  "translation": "Mme a emisa ⟨את⟩ mediu勒 lekgetla la tempole; mme a emisa ⟨את⟩ modiu wa ka ho ja letsatsi, a bitsha lebitso la wona Yakhine; mme a emisa ⟨את⟩ modiu wa ka ho ts’eletseng, a bitsha lebitso la wona Boaze.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "e9b86c62211dedf562d5a2587d7d1230700f41acffc2eb878c6d6cae4d5b8a4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-kings\/7\/21-21.1791265207646.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mediu"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "mediu"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "lekgetla la"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "tempole"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modiu wa ka ho ja letsatsi"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "modiu"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "wa ka ho ja letsatsi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la wona"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la wona"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhine"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modiu wa ka ho ts’eletseng"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "modiu"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "wa ka ho ts’eletseng"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la wona"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la wona"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaze"
+    }
+  ],
+  "timestamp": "2026-10-06T05:40:07.655764679Z",
+  "model": "glm-5.3"
+}

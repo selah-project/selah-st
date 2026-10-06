@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 10:6",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moprista",
+      "rationale": "כהן e hlalositsoe e le 'moprista' — lentsoe le le leng lentlheng la Sesotho, eseng transliteration."
+    },
+    {
+      "kind": "crux",
+      "subject": "מוסרה",
+      "rationale": "Mabitso a dibaka tse sekameng — mokhoa wa ho ngola: Motsereha kgahlanong le Mosera."
+    },
+    {
+      "kind": "addition",
+      "subject": "e le",
+      "rationale": "Seheberu se sena copula papatso; e eketsoe bakeng sa Sesotho."
+    }
+  ],
+  "translation": "Mme barwa ba Yisraele ba namaletse ho tloha Beerothe ya barwa ba Yaakane, ba ya Motsereha; moo Aharone a ile a swa, mme a patile moo, mme Elazare mora wa hae a ile a sebeletsa e le moprista motsing wa hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "e22729f94d7cce8cd30ff30da320b93b80fb803eb8965ec95c080ddbdc08e6cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/10\/6-6.1791265043405.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mme barwa ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ba namaletse"
+    },
+    {
+      "surface": "מבארת",
+      "gloss": "ho tloha Beerothe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba barwa ba"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Yaakane"
+    },
+    {
+      "surface": "מוסרה",
+      "gloss": "Motsereha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a ile a swa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mme a patile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ויכהן",
+      "gloss": "mme a ile a sebeletsa e le moprista"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazare"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "motsing wa hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:23.411271956Z",
+  "model": "glm-5.3"
+}

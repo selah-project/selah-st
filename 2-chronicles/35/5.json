@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 35:5",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e mong le e mong",
+      "rationale": "Seheberu se re 'karolo ea lelapa la ntate' ka bongata; Sesotho se hloka sehlomathiso bakeng sa ho hlakisa"
+    },
+    {
+      "kind": "crux",
+      "subject": "בני העם",
+      "rationale": "'bana ba sechaba': KJV e utlwisisa e le baahi ka bolokolohi (batho ba tloaelehileng), YLT e dula e le 'bana ba sechaba'"
+    }
+  ],
+  "translation": "Mme le eme sebakeng se halalelang, ho ya ka dikarolo tsa malapa ya bontata ba bana ba lona ba bang, bana ba sechaba, le ho ya karolong ea ⟨e mong le e mong⟩ ya lelapa la ntata mong le mong oa balevi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "60093cc68d0f7fcf76e0c7171367152681da528aa4ee17f632dc4f34eef0e4d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/35\/5-5.1791265797748.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "Mme le eme"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sebakeng se halalelang"
+    },
+    {
+      "surface": "לפלגות",
+      "gloss": "ho ya ka dikarolo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya malapa"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ya bontata"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ba bana ba lona ba bang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sechaba"
+    },
+    {
+      "surface": "וחלקת",
+      "gloss": "le ho ya karolong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya lelapa la"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ntata mong le mong"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "oa balevi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:57.749667205Z",
+  "model": "glm-5.3"
+}

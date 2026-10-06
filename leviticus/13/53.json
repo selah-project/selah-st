@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lefe kapa lefe",
+      "rationale": "Sesotho hloka pontsho ya bongata bakeng sa בכל כלי עור"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sefofane",
+      "rationale": "הנגע ke thlakiso\/kutu; 'sefofane' ke karolo ya Sesotho e lebelletseng kutu e tshwanang"
+    }
+  ],
+  "translation": "Mme haeba moprista a ka sheba, mme ona, sefofane ha se a phatlalala ⟨0⟩ seapong, kapa ho shethi, kapa ho thethiso, kapa ho se seng sa letlalo lefe kapa lefe;",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c0759d1e11af3ae75dceb30fc469e2ea6e2ae29f4863860292093a20d6546489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/13\/53-53.1791264876817.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mme haeba"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "a ka sheba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moprista"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme ona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "a phatlalala"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "sefofane"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "seapong"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ho shethi"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ho thethiso"
+    },
+    {
+      "surface": "או",
+      "gloss": "kapa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ho se seng sa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": ""
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:36.827704505Z",
+  "model": "glm-5.3"
+}

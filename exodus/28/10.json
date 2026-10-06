@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tshelela",
+      "rationale": "Mabitso a bala — tshelela letlapeng le leng, tshelela letlapeng le bobedi, ka mokgwa wa tswalo."
+    },
+    {
+      "kind": "crux",
+      "subject": "כתולדתם",
+      "rationale": "Karolo e ka boea e le 'midikhutlo ya tsona' (mitsieno\/meloko) kapa 'tswalo ea tsona'; KJV le JPS di re 'according to their birth'."
+    }
+  ],
+  "translation": "Tshelela ea mabitso a tsona hodima letlapa le leng, mme ⟨את⟩ mabitso a tshelela a setseng hodima letlapa le bobedi, ho ya ka tswalo ea tsona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "27ab8f6f8c20d295daabf887add33ea8338cdcc5c2eb1c22db1215ffcac431dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/28\/10-10.1791264821348.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "tshelela"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "ea mabitso a tsona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "letlapa"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "le leng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mme ⟨את⟩",
+      "marks": "mabitso"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mabitso"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "a tshelela"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "a setseng"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "letlapa"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "le bobedi"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "ho ya ka tswalo ea tsona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:41.353576568Z",
+  "model": "glm-5.3"
+}

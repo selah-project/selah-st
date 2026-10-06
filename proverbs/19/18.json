@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא נפש",
+      "rationale": "'Ho phahamisa nefesh' — ho bolela ho beha kelello kapa takatso ho seng se leng teng; sesotho se boloka sebopeho sa 'ho phahamisa bophelo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ho mo bulaela",
+      "rationale": "KJV e bala 'for his crying' (e latela mongolo o fapaneng); YLT le JPS di bala 'hore o mo bulae' joaloka mongolo wa Masoret"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש e atametse ho 'morumo\/bophelo\/boithati' — eseng 'moya' feela"
+    }
+  ],
+  "translation": "Hlolesea mora wa hao, hobane ho na le tshepo, mme e seng ho mo bulaela — o se ke wa phahamisa ⟨bophelo ba hao⟩.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "03048fcb0a1648443cbcbd9bed29a95e68bccfe3f2ecb5f2c9f834b4819d5fea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/proverbs\/19\/18-18.1791265590950.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "hlolesea"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mora wa hao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ho na le"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "tshepo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mme e seng"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ho mo bulaela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "phahamisa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bophelo ba hao"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:30.951466060Z",
+  "model": "glm-5.3"
+}

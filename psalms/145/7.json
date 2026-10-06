@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדקה e dula e le tsedeke ka ho latela molao oa puo, eseng 'toka' feela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יביעו",
+      "rationale": "tlhaho: ho phunyeletsa ntho e metsi; Sesotho 'phatlalatsa' — sehla sa metsi se timetse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר רב",
+      "rationale": "kakaretso ea sepetla se moholo — bobeli ba lentswe le le mong ba Sesotho 'o moholo'"
+    }
+  ],
+  "translation": "Sepetla sa mohau oa hao o moholo ba tla se phatlalatsa, mme tsedeke ea hao ba tla e opela ka thabo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1ce9fb7713a569611832b0bfd059986175d9130555ba7a95327d9849b4ac1014",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/145\/6-7.1791265600485.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "sepetla"
+    },
+    {
+      "surface": "רב",
+      "gloss": "o moholo"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "mohau oa hao"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "ba tla se phatlalatsa"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "tsedeke ea hao"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ba tla e opela ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:40.486627511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "shekele tsa gauta tshela dimethara-di-lekgolo",
+      "rationale": "Boima bo balwa ka bongobo: shekele tse tshela di lekgolo tsa gauta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dimethara-di-lekgolo",
+      "rationale": "Seheberu se re 'me-ah' (lekgolo); Sesotho se hloka mantswe a mmedi bakeng sa palo e bolelang 'makgolo a mararo-palo'."
+    }
+  ],
+  "translation": "Mme Dawide o ile a fana ka shekele tsa gauta ho Aornane, bakeng sa sebaka seo, boima bo le tshela dimethara-di-lekgolo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f05afef55e279556441e756cbfc53a92b4d3d41bd19baaee3b347683be287bf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/21\/25-25.1791265718762.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o ile a fana ka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "ho Aornane"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "bakeng sa sebaka"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "shekele tsa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "boima"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tshela"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dimethara-di-lekgolo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:38.766431772Z",
+  "model": "glm-5.3"
+}

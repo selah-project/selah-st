@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 17:1",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "allotment by lot",
+      "rationale": "Kgetho ya loso e arola lefatshe ka setjhaba — ho ka, ho bala, ho arola."
+    },
+    {
+      "kind": "crux",
+      "subject": "אבי הגלעד",
+      "rationale": "'Ntate ba-Gileade': mona ke Makhire ntate wa baahi ba Gileade, eseng Makhire e le 'Gileade' ka bomong."
+    }
+  ],
+  "translation": "Mme kgetho ya loso e ile ya tla ho setjhaba sa Menashe, hobane eena o ne a le motswaling wa pele wa Yosefe; ho Makhire, motswaling wa pele wa Menashe, ntate ba-Gileade, hobane eena o ne a le monna wa ntoa, mme Gileade le Bashane e ile ya ba ha hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "889e42422b905bf236d47ef45f771aa607f60cd2929683624aadf0341f647efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/17\/1-2.1791265127861.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme ... e ile ya tla"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "kgetho ya loso"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ho setjhaba sa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "motswaling wa pele"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "wa Yosefe"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "ho Makhire"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "motswaling wa pele"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "wa Menashe"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntate ba"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eena"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o ne a le"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wa ntoa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mme e ile ya ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ha hae"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileade"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "le Bashane"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:47.869727341Z",
+  "model": "glm-5.3"
+}

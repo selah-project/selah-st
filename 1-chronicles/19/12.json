@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 19:12",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "le-sebeletsi-sa-pholoho",
+      "rationale": "לתשועה ke 'bakeng sa pholoho'; Sesotho se hloka lentswe la 'bakeng' leo Seheberu se se nang sona ka ho feletseng"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חזק מן",
+      "rationale": "'ho ba matla ho tloha ho' — Seheberu se bolela 'haeba Arame a ka ntshepa hakana ho feta nna'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחזק\/יחזקו",
+      "rationale": "tumello e tsitsitseng ya motso o mong (חזק) ka bobeli bohleng, e thehilweng ka har'a tumello ya Joabe ho Abishai"
+    },
+    {
+      "kind": "you",
+      "subject": "ho Abishai",
+      "rationale": "Joabe a bua ka kotloloho le mora'e Abishai, pele ho ntwa le Amona"
+    }
+  ],
+  "translation": "Mme a re: Haeba Arame a ka ntshepa hakana ho feta nna, o tla be o le ⟨sebeletsi sa⟩ pholoho ea ka; empa haeba bana ba Amon ba ka be ba matla ho feta wena, ke tla u pholosa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "29ca514bb7c2f7ed6cc02c84e6ad4cbb5d5a61744f668a8b938b57ba8a3b2a8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/19\/12-12.1791265720482.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Haeba"
+    },
+    {
+      "surface": "תחזק",
+      "gloss": "a ka ntshepa hakana"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ho feta nna"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "o tla be o le"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa ea ka"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "pholoho"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "empa haeba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "ba ka be ba matla"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ho feta wena"
+    },
+    {
+      "surface": "והושעתיך",
+      "gloss": "ke tla u pholosa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:40.488555290Z",
+  "model": "glm-5.3"
+}

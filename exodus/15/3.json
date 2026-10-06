@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "motho wa ntwa",
+      "rationale": "איש מלחמה hase 'morusi wa ntwa' hape hase 'senepe' — motho ya lwanang, sehlogologolo sa motho."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Yahwe … Yahwe",
+      "rationale": "Peko: lebitso le phetoa habeli ho hlaka boteng ba wona; peko e phetoa ka Sesotho."
+    }
+  ],
+  "translation": "Yahwe ke motho wa ntwa, Yahwe ke ⟨sebakeng sa⟩ lebitso la hae. Yahwe ke lebitso la hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "baf2b7abc3bfd8aaa7d989afa53c77bf2022f3b0599554c273a822bebe6c0e0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/15\/2-3.1791264781854.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho wa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:01.862334345Z",
+  "model": "glm-5.3"
+}

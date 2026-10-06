@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 34:28",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Josiah",
+      "rationale": "E se ntse e bolella morena Josia ka boomo — lentswe la Hulda le tlisetsoe ho yena."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ke tla o bokella ho bo-ntatao",
+      "rationale": "אסף אל אבות — papiso ya 'bokella ho bo-ntate', e bolelang lefu; ho tlwaelwa jwalo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אספך \/ ונאספת",
+      "rationale": "Phetiši ya motso o mong (אסף) ka kabong le kabellwa — boitshepehi boo bo phelang ka Sesotho ka 'bokella\/bokellwa'."
+    },
+    {
+      "kind": "addition",
+      "subject": "sena (sebakeng sena)",
+      "rationale": "Sesotho se hloka senopeho se seng ka 'mokoko' — 'הזה' o fana ka 'sena' hammareng, mme 'המקום' e phethilwe hanyane."
+    }
+  ],
+  "translation": "Bonang, ke tla o bokella ho bo-ntatao, mme o tla bokellwa ho mafao ao ka khotso, mme mahlo a hao a ke ke a bona ⟨את⟩ bosle bo bohle boo ke tlang bo tlisa sebakeng sena le hodima ba phelahang sona. Mme ba busetsa ⟨את⟩ morena lentswe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "68a940061ca0bcd55d863ee0288850865cd5b83fdb1435b8a681177aba7f0ec2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/34\/28-28.1791265812669.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "אספך",
+      "gloss": "ke tla o bokella"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bo-ntatao"
+    },
+    {
+      "surface": "ונאספת",
+      "gloss": "mme o tla bokellwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "קברתיך",
+      "gloss": "mafao ao"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ka khotso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a ke ke a"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a hao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bosle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "boo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "tlang bo tlisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le hodima"
+    },
+    {
+      "surface": "ישביו",
+      "gloss": "ba phelahang sona"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "Mme ba busetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentswe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:12.673743369Z",
+  "model": "glm-5.3"
+}

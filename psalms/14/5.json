@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פחדו פחד",
+      "rationale": "Seheberu se bolela ka ho pheta letshwao: 'ba tshabile tshabo'; sesotho se bolotse boima bo le bong feela."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mo⟩",
+      "rationale": "Seheberu se na le mongodi wa boemo b\/ti; Sesotho se hloka sesebedisi se boalang 'sechabeng'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בדור צדיק",
+      "rationale": "E ka ba 'sechaba sa ba lokileng' kapa 'sehleng sa ba lokileng' — dor e bolela lehleng le sechaba ka bobeli."
+    }
+  ],
+  "translation": "Moo ba tshotshotse ka tshabo, hobane Elohim o teng ⟨mo⟩ sechabeng sa ba lokileng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "eee0e1a610afd569d69fb9617e9df13ed451aca9f2c88fa32679ec3ab4c61477",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/14\/5-5.1791265525657.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Moo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ba tshotshotse"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ka tshabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "mo sechabeng"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa ba lokileng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:25.658601311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השבע",
+      "rationale": "'ho lala haholo' — seheberu se re 'kotula' kapa 'boekelo', karolo e tlameha ho ipapiswa le kgutu"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחמש",
+      "rationale": "sebopeho se bolela 'ho ja karolo ya bohlano' — moelelo wa tekanyo, eseng feela ho phaella"
+    },
+    {
+      "kind": "measurement",
+      "subject": "karolo ya bohlano",
+      "rationale": "polesano ya tekanyo ya lefatshe — karolo ya bohlano ya letshodi"
+    }
+  ],
+  "translation": "A etseng Faro, mme a behle bakoki hodima lefatshe, mme a nke karolo ya bohlano ya ⟨את⟩ lefatshe la Mitsrayime ho selemo sa supileng sa ho lala haholo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "7351072e401ac69ab9ce65e42dfee8ef2917e3cab1cccb81478fb3feed8ea2e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/41\/34-34.1791264772401.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "a etseng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mme a behle"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "bakoki"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "mme a nke karolo ya bohlano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefatshe la Mitsrayime"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefatshe la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "ho selemo sa supileng"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sa selemo"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "sa ho lala haholo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:52.413859003Z",
+  "model": "glm-5.3"
+}

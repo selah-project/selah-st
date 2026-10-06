@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ditholoana",
+      "rationale": "פרי תבואה ke 'lokela la tlhahiso' — phetolelo e hlahisa ka mantswe a Sesotho a kopantsweng"
+    }
+  ],
+  "translation": "Mme ba jala masimo, ba jala merara, mme ba hlahisa ditholoana tsa tlhahiso.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/107\/37-40.1791265617421.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "ba jala"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "masimo"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "ba jala"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "merara"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ba hlahisa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ditholoana"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "tlhahiso"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:57.422894571Z",
+  "model": "glm-5.3"
+}

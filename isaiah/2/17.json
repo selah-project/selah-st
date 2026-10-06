@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 2:17",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבהות\/רום",
+      "rationale": "Peditharo ya mantswe a mabeli a hodimo — botsopanyi le hodimo — e bontshang kgethollo eo e senyehang."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hlahaletsa",
+      "rationale": "נשגב bolela ho phahama ho fihlela ho se ka ho fihlelwa; 'hlahaletsa' ha e bontshe kamehlelo eo ka botlalo."
+    }
+  ],
+  "translation": "Mme ho tla thunywa fatshe botsopanyi ba motho, mme ho tla fokotsoa hodimo ya batho; mme Yahwe a tla hlahaletsa ho eena feela ka letsatsi leo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "728d2e096f8450317ccad1086dff7ae8f13ac95ff9bccfbef00781a92a7b620e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/2\/17-17.1791265279813.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושח",
+      "gloss": "mme ho tla thunywa fatshe"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "botsopanyi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ba motho"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "mme ho tla fokotsoa"
+    },
+    {
+      "surface": "רום",
+      "gloss": "hodimo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ya batho"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "mme a tla hlahaletsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ho eena feela"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:19.815249080Z",
+  "model": "glm-5.3"
+}

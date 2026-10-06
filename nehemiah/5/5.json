@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 5:5",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אין לאל ידנו",
+      "rationale": "Idiom ea Seheberu 'ha ho matla ho dihatana tsa rona' — 'dihatana' (matla) e bontsha matla a ho lokolla; KJV e re 'to redeem' eo Seheberu se sa e reng."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבשר \/ כבשים \/ נכבשות",
+      "rationale": "Poeletso ea 'nama' (basar) le 'ho kotula' (kavash) — sehlahisoa se sa phunyehang ka Sesotho."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Nehemia",
+      "rationale": "Boitemoise bona bo bolelwa ho Nehemia e le karabelo ho lleloa batho."
+    }
+  ],
+  "translation": "Mme jwale, nama ya dikgaitsedi le boradia rona ke nama ya rona, mme bana ba bona ke bana ba rona; mme bonang, re kotula ⟨את⟩ bara rona le ⟨את⟩ baradi rona hore e be makgoboko, mme ho na le ba bangwe ba baradi ba rona ba kotutsweng, mme ha ho matla ho dihatana tsa rona, hobane masimu a rona le mereodi ya rona ke a ba bang.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "21c489142201950de4d0c619acdb1be3dab65028ceacd73164329df82aa49784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/nehemiah\/5\/5-5.1791265665257.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "כבשר",
+      "gloss": "ho tshwana le nama"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ya dikgaitsedi le boradia rona"
+    },
+    {
+      "surface": "בשרנו",
+      "gloss": "nama ya rona"
+    },
+    {
+      "surface": "כבניהם",
+      "gloss": "ho tshwana le bana ba bona"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "bana ba rona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme bonang"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "re kotula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bara rona"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "bara rona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "baradi rona"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "baradi rona"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "hore e be makgoboko"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "mme ho na le"
+    },
+    {
+      "surface": "מבנתינו",
+      "gloss": "ba bangwe ba baradi ba rona"
+    },
+    {
+      "surface": "נכבשות",
+      "gloss": "ba kotutsweng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mme ha ho"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "matla"
+    },
+    {
+      "surface": "ידנו",
+      "gloss": "ho dihatana tsa rona"
+    },
+    {
+      "surface": "ושדתינו",
+      "gloss": "masimu a rona"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "le mereodi ya rona"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ke a ba bang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:45.264795374Z",
+  "model": "glm-5.3"
+}

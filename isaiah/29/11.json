@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 29:11",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke yona",
+      "rationale": "Seheberu se na le הוא fela; kopula e kenngwe ka ⟨ke yona⟩"
+    },
+    {
+      "kind": "mystery",
+      "subject": "buku e notlotsweng",
+      "rationale": "Sengoloa se notlotsweng — sebopeho sa bohodia se sa bulweng"
+    },
+    {
+      "kind": "secret",
+      "subject": "pono ya tsohle",
+      "rationale": "Pono e fetohile sephiri se notlotsweng bakeng sa batho ba robetseang (29:10)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חתום \/ חזות",
+      "rationale": "Khothekiso pakeng tsa pono le ho notlolla: pono e fanoang, empa e notlotsweng"
+    }
+  ],
+  "translation": "Mme pono ya tsohle e bile ho lona jwaloka mantswe a buku e notlotsweng, eo ba tlang ho e fana ka yona ⟨אתו⟩ ho ea tsebang buku, ba re: Bala ⟨ena⟩, ke kopa; mme a re: Nkea ke se khone, hobane e notlotsweng ⟨ke yona⟩.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "adb74fd6bbcf56713b5bf2eb621eab82088922939ca3cdde870c91d9f7b80690",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/29\/11-12.1791265316032.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "mme e bile"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "חזות",
+      "gloss": "pono"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ya tsohle"
+    },
+    {
+      "surface": "כדברי",
+      "gloss": "jwaloka mantswe a"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "e notlotsweng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ba tlang ho e fana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ho ea tsebang buku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ea tsebang"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "bala"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nkea ke se"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "khone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "e notlotsweng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:56.034759349Z",
+  "model": "glm-5.3"
+}

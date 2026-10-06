@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "st",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "molato-ofalang",
+      "rationale": "השליט ke 'ya matla, mobusi' — 'molato-ofalang' e ka nna ya se nang temoso e lekanang"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כשגגה",
+      "rationale": "shegaga — phoso ya ho se hlokomolose, eseng bobe ba boithati; e saetse bakeng sa 'phoso'"
+    }
+  ],
+  "translation": "Ho na le bobe boo ke bo boneng tlase ho letsatsi, jwalo ka phoso e tswang ho ya etlang molato-ofalang:",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0dc4c96151043dd3db5dc2826b71c3467290d9d45e226dc2d251210762fa5cd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ecclesiastes\/10\/5-5.1791265686346.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ho na le"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke bo boneng"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlase ho"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "jwalo ka phoso"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "e tswang"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ho"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "ya etlang molato-ofalang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:06.350515699Z",
+  "model": "glm-5.3"
+}

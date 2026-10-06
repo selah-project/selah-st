@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ntho e thata",
+      "rationale": "קשה 'e thata\/e boima' — ketso e bonahalang e fetohileng sebopeho sa lebitso, jwalo ka 'hard thing' kapa 'hardship'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תרעלה",
+      "rationale": "lentswe le teng mona feela ho Tanakh — 'ho inama-inama', ho fofa motsotso"
+    },
+    {
+      "kind": "crux",
+      "subject": "הראיתה",
+      "rationale": "'o bontshitse' (hiphil wa ראה) kgahlanong le 'o etsetseng ho bona' — ditaba tse thata tse bontshitsweng setjhabeng"
+    }
+  ],
+  "translation": "O bontshitse setjhaba sa hao ntho e thata; o re fereketse veine ya ho inama-inama.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "faa5bf51822826c372b3bb13c7c1700c7bcf6c89bc58669132d025fbece5baa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/60\/5-5.1791265525850.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "o bontshitse"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setjhaba sa hao"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ntho e thata"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "o re fereketse"
+    },
+    {
+      "surface": "יין",
+      "gloss": "veine"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "ya ho inama-inama"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:25.851558013Z",
+  "model": "glm-5.3"
+}

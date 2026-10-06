@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צור",
+      "rationale": "E baloa e le 'kgokgetsa' (ho tswa ho צרר); bahlalosi bang ba e baloa e le 'fihla' kapa 'boloka'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בלמדי",
+      "rationale": "'har'a balatedi ba ka' — kapa 'bakeng sa balatedi ba ka' kapa 'ho balatedi ba hae' (bong ba sebapadi bo sa hlakahala)."
+    },
+    {
+      "kind": "secret",
+      "subject": "tlotsa",
+      "rationale": "Ho tlotsa mongolo ke seshwa se kwalehileng — mongolo o notletsweng ho balatedi feela."
+    },
+    {
+      "kind": "mystery",
+      "subject": "bopaki",
+      "rationale": "Taelo ya ho notlolla mongolo e bontsha seo setjhaba se sa se boneng kapa se sa se utlwang."
+    }
+  ],
+  "translation": "Kgokgetsa ⟨את⟩ bopaki, tlotsa ⟨את⟩ Torah har'a balatedi ba ka.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b0eb43cae45c4d62a18b2580819870003183fb77c301b165605eced1c7007fcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/8\/16-16.1791265281072.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Kgokgetsa"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "tlotsa"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "har'a balatedi ba ka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:21.073423953Z",
+  "model": "glm-5.3"
+}

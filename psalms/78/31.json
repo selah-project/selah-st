@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "halefo",
+      "rationale": "אף ka bo e bolela 'nose\/sefahleho'; e bolela 'halefo' ka taba e boletsweng feela"
+    },
+    {
+      "kind": "crux",
+      "subject": "ba-nonneng",
+      "rationale": "משמנים: 'ba nonneng \/ ba matla' (bophara bo falotseng) kgahlanong le 'ba khanyang' — e tshwanang le KJV le JPS"
+    },
+    {
+      "kind": "crux",
+      "subject": "a ba khumamisa",
+      "rationale": "הכריע: 'ho khumamisa dintho' kapa 'ho bolaea \/ ho wa' — YLT e tshwara 'ho khumama', KJV 'ho otla fatshe'"
+    }
+  ],
+  "translation": "Mme halefo ya Elohim e hodile ho bona, mme o ile a bolaea ba-nonneng ba bona, mme bajwala ba Yisraele o ile a ba khumamisa.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "31117e57d2f958c24249e9d8c3b087cd71ac7c26fdbb2cba16578e969e005983",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/78\/31-31.1791265515618.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "mme halefo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "e hodile"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ho bona"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "mme o ile a bolaea"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "ba-nonneng ba bona"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "mme bajwala ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "a ba khumamisa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:15.619056138Z",
+  "model": "glm-5.3"
+}

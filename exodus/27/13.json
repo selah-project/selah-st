@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "amah",
+      "rationale": "אמה ke tekanyo e tswang koana (lekono); e ngotwe ka modumo wa Seheberu, eseng 'cubit'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדמה מזרחה",
+      "rationale": "Seheberu se bolela 'bochabela' kabelo-pedi — peptide e bolela bocha\/bochabela, mizracha peleho ya letsatsi; diphuthelwana tse pedi di bolokwa"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨amah⟩",
+      "rationale": "Sesotho se hloka sebopeho se hlakileng sa tekanyo; 'amah' e ngotwe ka masakana"
+    },
+    {
+      "kind": "measurement",
+      "subject": "bophara ba lebala",
+      "rationale": "Direto tsa kaho: bophara ba lehlakore la bochabela la lebala, masome a hlano a amah"
+    }
+  ],
+  "translation": "Mme bophara ba lebala, ka lehlakoreng la bochabela, ka bochabela, bo tla ba ⟨amah⟩ e masome a hlano.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1c864850d28efa3c990a2168a5846d749f3af8591d0ee92f9d27cd6f4eeb73cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/27\/13-13.1791264810326.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "Mme bophara"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ba lebala"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ka lehlakoreng la"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "bochabela"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ka bochabela"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masome a hlano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amah"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:30.334575046Z",
+  "model": "glm-5.3"
+}

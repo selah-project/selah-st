@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האיל",
+      "rationale": "KJV\/ASV 'lintel' (mokopo wa ka hodimo) kgahlanong le JPS five-sided frame; 'strength' ka tlhaho."
+    },
+    {
+      "kind": "crux",
+      "subject": "חמשית",
+      "rationale": "'Karolo ea bohlano' (a fifth, KJV\/ASV) kgahlanong le 'mikhwa e mehlano' ea dikona tse hlano (JPS 'five angles')."
+    },
+    {
+      "kind": "measurement",
+      "subject": "חמשית",
+      "rationale": "Palo — karolo ea bohlano, tekanyo ya kago."
+    },
+    {
+      "kind": "substitution",
+      "subject": "diae",
+      "rationale": "עצי שמן — mikhwa ya mafura; Sesotho se se na le lentswe le tlwaelehileng la sehlare sena."
+    }
+  ],
+  "translation": "Mme ⟨את⟩ moeno wa Debire a etsa matlhaku a mikhwa ya diae; haele mokopo le mikhwa, e ne e le karolo ea bohlano.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "9f246adffeac78d0c62dc2f4827876de20161f61bd3955d327df49601cc5474f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-kings\/6\/31-31.1791265210399.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mme ⟨את⟩",
+      "marks": "moeno wa Debire"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "moeno"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debire"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a etsa"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "matlhaku"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mikhwa ya"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diae"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "haele mokopo"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mikhwa"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "karolo ea bohlano"
+    }
+  ],
+  "timestamp": "2026-10-06T05:40:10.406495424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 4:37",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פי יהוה",
+      "rationale": "Mongote o re 'molomong wa Yahwe' — Sesotho se hlalosa e le 'ka taelo ya Yahwe'."
+    },
+    {
+      "kind": "addition",
+      "subject": "Bona ke",
+      "rationale": "Seheberu se na le 'אלה' feela; kopula e ekelitswe Sesothong."
+    },
+    {
+      "kind": "measurement",
+      "subject": "פקד",
+      "rationale": "Pale ya ho bala bahlanka ba ba-Kehate bakeng sa sebeletsa oheleng wa kopano."
+    }
+  ],
+  "translation": "Bona ke bao ba baliloeng mafapheng a ba-Kehate, bohle ba sebeletsang oheleng wa kopano, bao Moshe le Aharone ba baleng ka taelo ya Yahwe, ka letsoho la Moshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "5ba025f32c650917bb5aab1cbfe2b97c84b953d95db357757474ac34cec1244a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/4\/37-37.1791264868449.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bona ke bao"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ba baliloeng"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mafapheng"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "a ba-Kehate"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ba sebeletsang"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "oheleng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wa kopano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ba baleng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "taelo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:28.455113711Z",
+  "model": "glm-5.3"
+}

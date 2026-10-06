@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 29:17",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בחן",
+      "rationale": "Seheberu se bolela 'ho hlahloba (metale)', kapa ho beha ka hare ho tlhaho; Sesotho 'hlahloba' e fokotsa setshwantsho sa tlhaho."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מישרים \/ ישר",
+      "rationale": "Motsu o le mong — 'botsitsiri' — o hlaha ka bobedi: Elohim o ratа mesarim, mme Dawide o neelela beyosher lebō; tsela e ho Sesotho e timetse."
+    }
+  ],
+  "translation": "Mme ke tseba, Elohim ya ka, hore wena o hlahloba pelo, mme o a rata dilo tse lokileng; nna, ka ho loka ha pelo ya ka, ke ile ka ithaepa ka boomo tsena tsohle; mme jwale batho ba hao ba fumanwang mona ke bone ka thabo ba ithaepa ho wena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d35e010e6ac8246c438707ca20d792f528df2218fe10f9739b9a2fd72a8fdbf3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/29\/17-17.1791265739459.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתי",
+      "gloss": "mme ke tseba"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "o hlahloba"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "mme dilo tse lokileng"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "o a di rata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "ka ho loka"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ha pelo ya ka"
+    },
+    {
+      "surface": "התנדבתי",
+      "gloss": "ke ile ka ithaepa ka boomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mme jwale"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "batho ba hao"
+    },
+    {
+      "surface": "הנמצאו",
+      "gloss": "ba fumanwang"
+    },
+    {
+      "surface": "פה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke a bona"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ka thabo"
+    },
+    {
+      "surface": "להתנדב",
+      "gloss": "ho ithaepa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho wena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:59.464870623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 39:21",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יזח",
+      "rationale": "zaḵaḵ (ho tloha \/ ho sutumetseha) — lentso le ratwang haholo, le hlahang hang fela ka ho araha ho Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mokotla",
+      "rationale": "חשב ke sengolwa sa matlhosana; 'mokotla' o jarwa ke sebopeho, eseng motso."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hoshene\/sefode",
+      "rationale": "pheto-pheto ya mabitso a kerekeng (hoshene, sefode) boetse bo hlahloba popeho ya Sedumedi."
+    }
+  ],
+  "translation": "Mme ba tlamela ⟨את⟩ hoshene ka ditaba tsa yona ho ya ho ditaba tsa sefode, ka thapo ya tekhelethe, hore e dule hodima mokotla wa sefode, mme hoshene e se ke ya tloha hodima sefode, jwalo ka ha Yahwe a laetse ⟨את⟩ Moshe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "92451a787bf4534af29fea286c93b78e4562a5eb7a81efc689c87727a2f1c828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/39\/21-21.1791264827813.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכסו",
+      "gloss": "ba tlamela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoshene"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshene"
+    },
+    {
+      "surface": "מטבעתיו",
+      "gloss": "ka ditaba tsa yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "ditaba"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sa sefode"
+    },
+    {
+      "surface": "בפתיל",
+      "gloss": "ka thapo"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ya tekhelethe"
+    },
+    {
+      "surface": "להית",
+      "gloss": "hore e dule"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mokotla"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "wa sefode"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme e se ke ya"
+    },
+    {
+      "surface": "יזח",
+      "gloss": "tloha"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshene"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sefode"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jwalo ka ha"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:33:47.825522867Z",
+  "model": "glm-5.3"
+}

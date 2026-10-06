@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sehlabelo se phahamiswang",
+      "rationale": "עלה ke 'ntho e phahamiswang' — sehlabelo se phahamiswang ke tlhaloso ya moelelo, e se nang motho"
+    },
+    {
+      "kind": "crux",
+      "subject": "היא העלה",
+      "rationale": "'eona ke sehlabelo se phahamiswang' — ba ngotse bangwe ba re 'eona' e bolela karolo e seng mafura, e seng sehlabelo ka botlalo (JPS vs Rashi)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תוקד בו",
+      "rationale": "בו ('ka oona') — botho jwalo ka 'mollo o tanyoha ka oona' kapa 'o tanyohwa ka oona'; bobedi bo letle"
+    }
+  ],
+  "translation": "Taela ⟨את⟩ Aharone le ⟨את⟩ bana ba hae, o re: Sena ke Torah ya sehlabelo se phahamiswang: eona ke sehlabelo se phahamiswang hodima moumane wa mollo wa eona hodima altare, bosiu bohle ho fihlela hoseng; mme mollo wa altare o tla tanyoha ka oona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8fe77cede36f5f01c09eb30b1506def2f4894f2246805742b2b9938ab4d8ef20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/6\/2-2.1791264893841.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Taela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba hae"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba hae"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Sena"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sehlabelo se phahamiswang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eona"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sehlabelo se phahamiswang"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "moumane wa mollo wa eona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosiu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "mme mollo wa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "o tla tanyoha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka oona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:34:53.857700591Z",
+  "model": "glm-5.3"
+}

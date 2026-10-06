@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כאיש אחד",
+      "rationale": "'Jwalo ka motho a le mong' — sehoeho sa bongata ka tokelo, eseng motho wa 'nete."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ditoropong",
+      "rationale": "חדש 'kgwedi e ncha\/monetla' — phetolelo e sebedisa kgwedi ya tekanyo; ויגע e bolela 'e hlwekile\/e ile ea fihla'."
+    }
+  ],
+  "translation": "Mme kgwedi ya bosupa e fihlile, mme bana ba Yisraele ba ne ba le ditoropong, mme setjhaba sa bokella jwalo ka motho a le mong ho ya Yerushalayime.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b1dcc3f43a5e8f0f20bc277b3b3ff83079be456a75c3e161ae45871b23f49fa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezra\/3\/1-1.1791265680362.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "e fihlile"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya bosupa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mme bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ditoropong"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "mme sa bokella"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setjhaba"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jwalo ka motho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le mong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:00.365137985Z",
+  "model": "glm-5.3"
+}

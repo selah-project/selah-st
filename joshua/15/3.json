@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 15:3",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mollwane wa borwa wa Yuda",
+      "rationale": "Etsa ya mollwane: maina a dibaka a balwa ka tatellano e tletseng."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Dinkgarabe",
+      "rationale": "מעלה עקרבים ke lebitso la lefelo, 'Thoko ya Dinkgarabe', le sa fetolelwang."
+    },
+    {
+      "kind": "elision",
+      "subject": "ha ho aleph-tav",
+      "rationale": "Ene ho se na את ketsong ena; ho ne ho se moo e ka bolokwang."
+    }
+  ],
+  "translation": "Mme e ile ya tswa ho ya borwa ho ya ho Thoko ya Dinkgarabe, mme ya feta ho ya Tshine, mme ya eketsa ho ya borwa ho ya Kadeshe-Barneae, mme ya feta ho ya Khetsrone, mme ya eketsa ho ya Adare, mme ya dikela ho ya ho Karkea:",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "0268a5d53f53028ad03bf2718e262215bede9010a5cc03ad4f8fd5074e35ec5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/15\/3-3.1791265102151.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Mme e ile ya tswa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ho ya ho Thoko"
+    },
+    {
+      "surface": "עקרבים",
+      "gloss": "ya Dinkgarabe"
+    },
+    {
+      "surface": "ו עבר",
+      "gloss": "mme ya feta"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "Tshine"
+    },
+    {
+      "surface": "ו עלה",
+      "gloss": "mme ya eketsa"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "ho ya Kadeshe"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barneae"
+    },
+    {
+      "surface": "ו עבר",
+      "gloss": "mme ya feta"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetsrone"
+    },
+    {
+      "surface": "ו עלה",
+      "gloss": "mme ya eketsa"
+    },
+    {
+      "surface": "אדרה",
+      "gloss": "Adare"
+    },
+    {
+      "surface": "ו נסב",
+      "gloss": "mme ya dikela"
+    },
+    {
+      "surface": "הקרקעה",
+      "gloss": "Karkea"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:22.154664595Z",
+  "model": "glm-5.3"
+}

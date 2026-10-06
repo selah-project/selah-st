@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 28:15",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke tla",
+      "rationale": "Sesotho e hloka sekhometsi sa bokamoso; Seheberu se na le boemo bo ile boetseng"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד אשר אם",
+      "rationale": "Hebrew idiom 'until that if' — 'ho fihlela ... se ke ka' ho bontsha ketso e tiileng"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yaakobo",
+      "rationale": "Yahwe o bua ka ho ya ka pelong ho Yaakobo torong ya Bethele"
+    }
+  ],
+  "translation": "Mme bona, ke uena nna, mme ke tla u boloka kamoo o tlang ho ea teng kaofela, mme ke tla u busetsa lefatsheng lena; hobane ha ke na ho tlosa o le mong, ho fihlela ke se ke ka etsa ⟨את⟩ seo ke se boleletseng ho uena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b7b6d4631c08fa865fddf23510a9aecbd069b77d98ae1a6007d65bc1ab6750b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/28\/15-15.1791264709570.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "mme bona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ke uena"
+    },
+    {
+      "surface": "ושמרתיך",
+      "gloss": "ke tla u boloka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamoo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "o tlang ho ea teng"
+    },
+    {
+      "surface": "והשבתיך",
+      "gloss": "ke tla u busetsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ke na ho tlosa o le mong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se ke ka"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo ke se boleletseng ho uena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke se boleletseng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho uena"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:49.593616268Z",
+  "model": "glm-5.3"
+}

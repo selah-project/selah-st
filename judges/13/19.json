@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 13:19",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mangeloi",
+      "rationale": "Seheberu se sa bolele mong ha ho ומפלא — baeti ba kang KJV\/ASV ba kenya 'mangeloi', mongolo o sa tlwaelehile"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומפלא לעשות",
+      "rationale": "Mongodi a sa hlakang: 'o ile a etsa se makatsang' (YLT: 'He is doing wonderfully') kapa 'o ile a etsa se makatsang ka tsela e makatsang' — sefela se thusa"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מפלא",
+      "rationale": "Sebopeho se sa tlwaelehile sa מופלא — pontsho e makatsang e hlahang ka mocheso wa altare tokomane e latelang"
+    },
+    {
+      "kind": "you",
+      "subject": "ba ne ba lebelela",
+      "rationale": "Kgetho ya bofelo — Manoake le mosadi wa hae ba lebelela se etsahalang, ba sa kene seetsong"
+    }
+  ],
+  "translation": "Mme Manoake a nka ⟨את⟩ sehlare sa dipodi le ⟨את⟩ minkha, a li hlahisa hodima lejwe ho Yahwe; mme ⟨mangeloi⟩ o ile a etsa se makatsang, mme Manoake le mosadi wa hae ba ne ba lebelela.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "32e1a193b2b2253204aacd23970a828ba0eb6b3d5110364758a662ee61b5e547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/13\/19-19.1791265101480.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlare sa dipodi"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "sa dipodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "minkha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a li hlahisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "lejwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho Yahwe"
+    },
+    {
+      "surface": "ומפלא",
+      "gloss": "a etsa se makatsang"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "ומנוח",
+      "gloss": "Manoake"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "le mosadi wa hae"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ba ne ba lebelela"
+    }
+  ],
+  "timestamp": "2026-10-06T05:38:21.486067266Z",
+  "model": "glm-5.3"
+}

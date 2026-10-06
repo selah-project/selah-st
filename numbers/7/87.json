@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "numbers 7:87",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "di leshome le pedi",
+      "rationale": "Palo e lekanang bakeng sa mofuta o mong le o mong wa diphologolo: 12 poo, 12 ramu, 12 nku, 12 podi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה e bolokwa jwaloka minkha (D2), eseng 'mpho' kapa 'lekgetho', hobane mona ke nehelo ya poone."
+    }
+  ],
+  "translation": "Dikgomo tsohle bakeng sa pehelo: dipoo di leshome le pedi, diramu di leshome le pedi, dinku tse nyane, bana ba selemo, di leshome le pedi, le minkha ya tsona; le dipodi tse phofu tsa dipodi di leshome le pedi bakeng sa boso.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "14d831160a3d5f5c7bfb4d4057d56c4e180e18a9b6e5d88e0cf46c1845e79dcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/7\/84-87.1791265033206.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "bakeng sa pehelo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "di leshome"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le pedi"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "dipoo"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "diramu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "di leshome"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le pedi"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "dinku tse nyane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "di leshome"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le pedi"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "le minkha ya tsona"
+    },
+    {
+      "surface": "ושעירי",
+      "gloss": "le dipodi tse phofu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "tsa dipodi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "di leshome"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le pedi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bakeng sa boso"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:13.225762848Z",
+  "model": "glm-5.3"
+}

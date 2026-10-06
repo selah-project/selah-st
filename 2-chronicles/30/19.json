@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 30:19",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כל",
+      "rationale": "Sebopeho sa Sesotho se kgetha ka ho fetisa; tlhaku e hlahisitsoe ka \"ofeli pele ho pelo\"."
+    },
+    {
+      "kind": "crux",
+      "subject": "ha sehalalelang",
+      "rationale": "הקדש: 'sehalalelang' (dintho tse halalelang) kgahlanong le 'biltong'; JPS 'holy things'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "holofatsa",
+      "rationale": "טהרת: 'holofatsa' (moral purity) kgahlanong le 'hlwekisa' (physical cleanliness) — 'hlwekisa' e ka senyehelela"
+    }
+  ],
+  "translation": "ya ramileng pelo ya hae ka ho hetleha ho batla ⟨את⟩ Elohim, Yahwe, Elohim ya bo-ntate wa hae, le eseng ka holofatsa ha sehalalelang.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "229da27df8a727a2646ca8d048c959898024bcc2c46366b6cdc2d416c2540c1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/30\/19-19.1791265800422.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ofeli"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "pelo ya hae"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ya ramileng"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ho batla"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "bo-ntate wa hae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le eseng"
+    },
+    {
+      "surface": "כטהרת",
+      "gloss": "ka holofatsa ha"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sehalalelang"
+    }
+  ],
+  "timestamp": "2026-10-06T05:50:00.424323450Z",
+  "model": "glm-5.3"
+}

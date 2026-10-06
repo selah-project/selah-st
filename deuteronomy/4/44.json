@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na kopula; Sesotho se e hlokahalisa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Torae",
+      "rationale": "תורה ha eo ea 'molao' feela; lentswe la Seheberu le bolokwa"
+    }
+  ],
+  "translation": "Mme e ena ke Torae eo Moshe a behileng yona pele ga bana ba Yisraele.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "857208e03d7795dd4785ea37071c5b9386fee11d67b65538da07fd59c5f67e5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/4\/43-45.1791265073981.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "mme e ena"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a behileng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:53.999652969Z",
+  "model": "glm-5.3"
+}

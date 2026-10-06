@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 17:13",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se sena copula; Sesotho se e hloka"
+    },
+    {
+      "kind": "crux",
+      "subject": "מקוה",
+      "rationale": "'tshepo' kgahlanong le 'mokoadi' — mantswe a mabedi a amana ka mokhoa wa puo le מקור (mokoadi) ya qetello"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקוה\/מקור",
+      "rationale": "Medumo e mmedi e tshwanang: se-sebetse sa tshepo le mokoadi wa metsi; se latelana ha se bonahale ka ho hlaka ka Sesotho"
+    }
+  ],
+  "translation": "Tshepo ya Yisraele ⟨ke⟩ Yahwe; bohle ba ho tlohang ba tla ikutlwa maswabi, ba-tlohang-bohle ba tla ngolwa lefatsheng, hobane ba tlohe mokoadi wa metsi a phelang, ⟨את⟩ Yahwe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1cbcf8f76049456228edd623a1810bb6b818f238066f0d1c3e035ac73e218fd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/17\/13-13.1791265288323.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקוה",
+      "gloss": "tshepo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "עזביך",
+      "gloss": "ba ho tlohang"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ba tla ikutlwa maswabi"
+    },
+    {
+      "surface": "יסורי",
+      "gloss": "ba-tlohang-bohle"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ba tla ngolwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ba tlohe"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "mokoadi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wa metsi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a phelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:28.324471523Z",
+  "model": "glm-5.3"
+}

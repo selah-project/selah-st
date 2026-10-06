@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 18:1",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Aharone",
+      "rationale": "Yahwe o bolella Aharone ka ho kgetha — 'wena' le 'lona' ka hara puo ena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rwala bobe",
+      "rationale": "נשׂא את עון — 'ho rwala bobe' ke idiom ya Seheberu ya ho tswelela pele ka boikarabello ba phoso, eseng ho beola feela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשאו...תשאו",
+      "rationale": "Phetišo ya 'le tla rwala' hammoho le 'עון...עון' e bopa parallelism ya pelello; e bolokwa ka bobedi."
+    }
+  ],
+  "translation": "Mme Yahwe a re ho Aharone: Wena, le barwa ba hao, le ntlo ya ntata-hao ⟨את⟩, le wena ho sona, le tla rwala ⟨את⟩ bobe ba sehalalelo; mme wena le barwa ba hao, le wena ho bona, le tla rwala ⟨את⟩ bobe ba boprista ba lona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "98e118672824c0ac57d2fd8eb3c9cac44237125d24524f72de6bef92a2293ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/18\/1-1.1791264949520.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "le barwa ba hao"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "le ntlo ya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ntata-hao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena ho sona"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "le tla rwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bobe ba sehalalelo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ba sehalalelo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mme wena"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "le barwa ba hao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena ho bona"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "le tla rwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bobe ba boprista ba lona"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "כהנתכם",
+      "gloss": "ba boprista ba lona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:49.525664353Z",
+  "model": "glm-5.3"
+}

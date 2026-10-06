@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 20:19",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba hlaha ka ditepu",
+      "rationale": "ויחנו e bolela 'ho thothokela' — ho hlaha ka ditepu ke tlhaloso ya sesupo sa tionane"
+    },
+    {
+      "kind": "alternative",
+      "subject": "hodima",
+      "rationale": "על e ka bolela 'kgahlanong le' — moo masole a hlalang kgahlanong le Gibea"
+    }
+  ],
+  "translation": "Mme barwa ba Yisraele ba tlola hoseng, mme ba hlaha ka ditepu hodima Gibea.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2ccc8b18e2f58171fde2224f1b5014f2524841f867e8cd209714b409f9149740",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/20\/19-19.1791265156277.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ba tlola"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba hlaha ka ditepu"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:16.280405954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 35:16",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העלות עלות",
+      "rationale": "phetolelo e dutla: 'ho phahamisa mehaho-e-tukang' — hlakisa ho phahamisa e tukang, joalo ka Seheberu sa pele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עלות",
+      "rationale": "mehaho-e-tukang bakeng sa 'mehlahiso' — sebopeho sa lentswe ke ho phahama ka moya, se hapileng"
+    },
+    {
+      "kind": "measurement",
+      "subject": "letsatsi leo",
+      "rationale": "nako e hlakileng ya ketso — mosebetsi ohle o phethilwe ka letsatsi le le leng"
+    }
+  ],
+  "translation": "Mme ho ile ha hlojwa mosebetsi ohle wa Yahwe ka letsatsi leo, ho etsa Paseka le ho phahamisa mehaho-e-tukang hodima altare ya Yahwe, ka tlaelo ya morena Yosia.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "7c0b59f114028c89657442cb2086d338abd63291252a13f716746d0a9a65fc90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/35\/16-16.1791265796857.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכון",
+      "gloss": "ho ile ha hlojwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "mosebetsi wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ho etsa"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "והעלות",
+      "gloss": "le ho phahamisa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "mehaho-e-tukang"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "ka tlaelo ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosia"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:56.859170955Z",
+  "model": "glm-5.3"
+}

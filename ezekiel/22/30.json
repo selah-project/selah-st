@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 22:30",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Yahwe",
+      "rationale": "לפני (pele-pel'a) e hloka sehlomathiso; Seheberu se re 'pele-pel'a ka' feela — Sesotho se eketsa 'Yahwe' hore moelelo o hlake."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lesika \/ sebube",
+      "rationale": "גדר ke lesika la leruo, פרץ ke sebube ho lesikeng — tlhaku ya lesika e bolokwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "אישׁ",
+      "rationale": "'monna a le mong' — Ezekiele 14:14 o umaka Noa, Daniele le Jobo; mona ha ho ao a fumanwang."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Mantsoe a Yahwe ka boena, a bolella porofeta se ileng sa etsahala."
+    }
+  ],
+  "translation": "Mme ka batla ho tsoa ho bona monna ya bohang lesika, a emeng sebubeng pel'a Yahwe, bakeng sa lefatshe, hore e se ke ea e senya — mme ha ka a mo fumana.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "86ccf3e4310bda758ffaf69792dbd6e4d87d6a29808e7be2e818e336db26f5a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/22\/29-30.1791265422485.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבקש",
+      "gloss": "mme ka batla"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ho tsoa ho bona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ya bohang"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "lesika"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "a emeng"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "sebubeng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pel'a Yahwe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hore e se ke ea"
+    },
+    {
+      "surface": "שחתה",
+      "gloss": "e senya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ha"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ka a fumana"
+    }
+  ],
+  "timestamp": "2026-10-06T05:43:42.488847407Z",
+  "model": "glm-5.3"
+}

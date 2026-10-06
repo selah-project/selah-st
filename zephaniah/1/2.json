@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "st",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אסף אסף",
+      "rationale": "Seinfinitive sa ho iphetla (infinitive absolute) se bontsha matla a kgolu — 'bokella-bokella' ho latela mokgwa wa Sesotho wa ho boelela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סוּף",
+      "rationale": "Tlhaku ya bobedi אסף e tswa motsoing wa סוּף 'ho tlosa ka ho feletseng' — palo ya bophara bo filwe e le 'ho bokella' tlhaho feela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פני",
+      "rationale": "פני 'sefofane' se fetohile 'sehala' — mokgwa wa Sesotho, seswantsho sa tlhaku se timetse."
+    }
+  ],
+  "translation": "Ke tla bokella-bokella ⟨את⟩ tsohle ho tloha sehaleng sa lefatshe, ho bolela Yahwe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ba401209a3f39d690479de78bfff8f6c3a2aa9b90674b6fc5d64f84a1d05abff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/zephaniah\/1\/2-2.1791265469908.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "ke tla bokella"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "bokella"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sehaleng sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:29.909400246Z",
+  "model": "glm-5.3"
+}

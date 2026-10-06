@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 25:34",
+  "book": "jeremiah",
+  "lang": "st",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והתפלשו",
+      "rationale": "'ho tlhakanela motho le lehlabaphio' (Pula 1: ho etswa makgotlo a ash) kgahlanong le 'ho kgama' (JPS); 'ho tlhakaheleng' ke palo ya nku"
+    },
+    {
+      "kind": "addition",
+      "subject": "hloho",
+      "rationale": "Seheberu se na le 'ha-tsen' feela; 'hloho' e ekeditswe ho Sesotho"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ho balisa",
+      "rationale": "Taelo ya ho lla le ho tlhakanela le lehlabaphio e bitsa balisa ka boomo"
+    }
+  ],
+  "translation": "Le lle ka lla le mahahla, lona balisa, le lle ka lla le ntshepe-phefong; lona ba matla ba tlhakaheleng hloho ya nku: hobane mafika a lona a lla bolao a a tletseng, le phalalatso ya lona; mme le tla wa e le sejana se ratang-haholo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b99f9308ed86a098efa6461239b0a5f3c026c8755939184fc7ac2d5596405c81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/jeremiah\/25\/33-35.1791265379921.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "le lle ka lla le mahahla"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "lona balisa"
+    },
+    {
+      "surface": "וזעקו",
+      "gloss": "le ntshe-phefong"
+    },
+    {
+      "surface": "והתפלשו",
+      "gloss": "le tlhakaheleng"
+    },
+    {
+      "surface": "אדירי",
+      "gloss": "lona ba matla"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ya nku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "a tletseng"
+    },
+    {
+      "surface": "ימיכם",
+      "gloss": "mafika a lona"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "a bolao"
+    },
+    {
+      "surface": "ותפוצותיכם",
+      "gloss": "le phalalatso ya lona"
+    },
+    {
+      "surface": "ונפלתם",
+      "gloss": "mme le tla wa"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "e le sejana"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "se ratang-haholo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:59.923444479Z",
+  "model": "glm-5.3"
+}

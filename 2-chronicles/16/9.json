@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 16:9",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משטטות",
+      "rationale": "Root שׁוּט — ho phaphatheka ho dula fatshe; e tsamaya maholo a Yahwe lefatsheng ka ho iketla."
+    },
+    {
+      "kind": "crux",
+      "subject": "להתחזק עם",
+      "rationale": "Hithpael — 'hore a iponne matla' (Yahwe ka boena) kgahlanong le 'hore a matise' (ba bang); KJV\/JPS e nkela Yahwe e le sehlogo, YLT e nkela setjhaba."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mme a be⟩",
+      "rationale": "Sesotho e hloka sehlomathiso ho buisana le התחזק."
+    }
+  ],
+  "translation": "Hobane mahlo a Yahwe a phaphatheka ho dula fatshe lefatsheng hoihle, hore a iponne matla ⟨mme a be⟩ matla le ba nang le pelo e phethehileng ho yena. Mona o ile wa dlala e se nang bohlale ka sebele: hobane ho tloha mona jwale, tshireletso ya ntwa e tla ba le wena.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1111b18d4c804280d3f58b965c90dac48d19ff1a2ed2d3e5e49b285693752fbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/16\/9-9.1791265792939.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a hae"
+    },
+    {
+      "surface": "משטטות",
+      "gloss": "a phaphatheka ho dula fatshe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "lefatsheng hoihle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefatsheng"
+    },
+    {
+      "surface": "להתחזק",
+      "gloss": "hore a iponne matla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "pelo ea bona"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "e phethehileng"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "נסכלת",
+      "gloss": "o ile wa dlala e se nang bohlale"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "sebele se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ho tloha mona jwale"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ho tla ba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ditaba tsa ntwa"
+    }
+  ],
+  "timestamp": "2026-10-06T05:49:52.940483189Z",
+  "model": "glm-5.3"
+}

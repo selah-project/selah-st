@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a rona",
+      "rationale": "Seheberu se na le ‘asher (eofa) se seng sehlomathiso feela; Sesotho se hloka sehlomathiso"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mantswe a kahare",
+      "gloss": "haq: הדברים ke ‘mantswe a kahare’ (hadevarim), eseng ‘mantswe’ feela"
+    }
+  ],
+  "translation": "Mme mantswe a kahare a be ‹a rona› holimo ho pelo ya hau:",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "162879296fcbc456d70a70101ad03e3d4a8bf6e37c82290760e5023dd07c725c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/6\/6-6.1791265038539.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "a be"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a kahare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "‹a rona›"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ke a laela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "על",
+      "gloss": "holimo ho"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya hau"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:18.544149842Z",
+  "model": "glm-5.3"
+}

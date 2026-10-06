@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a tsamaya hoseng hosane",
+      "rationale": "וישכם bolela ho fodisa bosiu — Sesotho se hloka mokhoa oa ho bontša hoseng hosane"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sefahleho sa",
+      "rationale": "את פני יהוה — 'pela sefahleho sa Yahwe'; את ena ke preposition e hlalosang boemo, eseng motho o etswang ho ena"
+    }
+  ],
+  "translation": "Mme Abrahame a tsamaya hoseng hosane ho ya sebakeng seo a neng a eme teng pela ⟨את⟩ sefahleho sa Yahwe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "429dc509974245871a59685555b346204e9a30a4ad4cbd7502ab5f92ac7960ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/19\/27-27.1791264706634.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a tsamaya hoseng hosane"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hoseng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sebakeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "a neng a eme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:31:46.649310677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 11:17",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ho bonga",
+      "rationale": "יהודה (ho tosa diatla kapa ho bonga) ho latela התחלה — 'hlogo ya pele ho bonga' bolela moeta-pele wa bongo ba thapelo."
+    },
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Seheberu se siea copula; Sesotho se e hloka."
+    },
+    {
+      "kind": "crux",
+      "subject": "hlogo ya pele",
+      "rationale": "ראש התחלה: 'hlogo ya qaleho' — bao ba neng ba qala ho bonga, kgahlanong le 'moholo-holo wa bongo'."
+    }
+  ],
+  "translation": "Mme Mattanjah, mora wa Mikae, mora wa Zabdie, mora wa Asafe, e mong wa hlogo ya pele ho bonga ka thapelo; mme Bakbukjah e ne e le wa bobedi hara baena ba hae; mme Abdiae, mora wa Shammuae, mora wa Galale, mora wa Yedutune.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "e029348131457f3be8495a5e7693e8921b419e2e55826111b736f517c42dbd35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/nehemiah\/11\/17-17.1791265669759.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומתניה",
+      "gloss": "Mme Mattanjah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikae"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zabdie"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "התחלה",
+      "gloss": "ya pele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ho bonga"
+    },
+    {
+      "surface": "לתפלה",
+      "gloss": "ka thapelo"
+    },
+    {
+      "surface": "ובקבקיה",
+      "gloss": "mme Bakbukjah"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "hara baena ba hae"
+    },
+    {
+      "surface": "ועבדא",
+      "gloss": "mme Abdiae"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Shammuae"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "Galale"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutune"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:49.764329010Z",
+  "model": "glm-5.3"
+}

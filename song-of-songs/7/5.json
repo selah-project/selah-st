@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 7:5",
+  "book": "song-of-songs",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lephara",
+      "rationale": "שן e bolela 'meno' kapa 'lephara'; 'ya lephara' e boloka ponahalo ya meno a mabedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "diba tsa metsi",
+      "rationale": "ברכות ke diba tsa metsi tse khulu, eseng mahlo feela — tshwano ya 'diba'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בת רבים",
+      "rationale": "Lebitso la sefoka: 'Bath-rabime' — kapa 'morali wa ba bangata'; le tlohilwe jwalo ka lebitso la sebaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "migdal",
+      "rationale": "'toara' e boela makgetlo a mabedi — molala le nko, boemong bo tshwanang"
+    }
+  ],
+  "translation": "Molala wa hao o tshwana le toara ya lephara; mahlo a hao ke diba tsa metsi Kheshbone, ho sefoka sa Bath-rabime; nko ya hao e tshwana le toara ya Lebanone, e shebang lehlakoreng la Damasheke.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2534b054e91a0c8a2429af573e96ed3240e56dd0fd28592e39eb82ac2135e9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/song-of-songs\/7\/5-5.1791265655230.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוארך",
+      "gloss": "molala wa hao"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "o tshwana le toara"
+    },
+    {
+      "surface": "השן",
+      "gloss": "ya lephara"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a hao"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "diba tsa metsi"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Kheshbone"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sefoka sa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath-"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "rabime"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nko ya hao"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "e tshwana le toara"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ya Lebanone"
+    },
+    {
+      "surface": "צופה",
+      "gloss": "e shebang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lehlakoreng la"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasheke"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:35.234090443Z",
+  "model": "glm-5.3"
+}

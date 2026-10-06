@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הדבר",
+      "rationale": "boetlo ba 'lesela' (mofufutso) kgahlanong le 'taelo kapa mola-o-mobe' — JPS e rsa 'pestilence', KJV moo e nang e rswe e le 'cursing' ea mola oa 20."
+    },
+    {
+      "kind": "you",
+      "subject": "ho Yisraele",
+      "rationale": "tokomane e bua le Yisraele ka botlalo — 'ho wena', 'wena'."
+    }
+  ],
+  "translation": "Yahwe o tla mamatsa ho wena ⟨את⟩ lesela, ho fihlela a fedisa ⟨את⟩ wena hodima lefatshe leo o nang o ea ho lona ho e nka.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "192c70c92aeb44b18ba6f7f4ed0bbf15e05aa1e7a34e030947e1c14e50a582f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/28\/21-21.1791265056441.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "o tla mamatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ho wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lesela"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lesela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "a fedisa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o ea"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ho e nka"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:36.450570978Z",
+  "model": "glm-5.3"
+}

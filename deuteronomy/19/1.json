@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a fedisa",
+      "rationale": "כרת ke 'ho khaola'; 'ho fedisa' ho hlalosa sebopeho sa kholo, moelo o timetse"
+    },
+    {
+      "kind": "crux",
+      "subject": "וירשתם",
+      "rationale": "yod-waw-shin: 'o tla ba hlodile' (ba-fetileng e le botho) kgahlanong le 'o tla e hlodile' (naha); KJV 'thou succeedest them' e bala botho"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכרית\/וירשתם",
+      "rationale": "kakaretso ya khaollo-hlodiso: Elohim o khaola, Yisraele o hlodisa — mokgatla o mong o timetse ka Sesotho"
+    }
+  ],
+  "translation": "Ha Yahwe Elohim wa hao a fedisa ⟨את⟩ ditjhaba tseo Yahwe Elohim wa hao a nang ho o fa ⟨את⟩ naha ya tsona, o tla ba dule o hlodile, mme o dule ho metse ya tsona le ho matlo a tsona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b8b448451a4c6da36f73cc4214af336d3dd86355fe1a2076f003c956e3f63131",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/19\/1-1.1791265042977.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "a fedisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditjhaba tseo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditjhaba tseo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa hao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a nang ho o fa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho hao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naha ya tsona"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "naha ya tsona"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "o tla ba dule o hlodile"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "o dule"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "ho metse ya tsona"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "le ho matlo a tsona"
+    }
+  ],
+  "timestamp": "2026-10-06T05:37:22.985120198Z",
+  "model": "glm-5.3"
+}

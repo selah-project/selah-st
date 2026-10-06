@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 3:4",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "porokue",
+      "rationale": "Dikama tse 20 ka bophara, bohodimo bo le 120 — tekanyo ya tempole."
+    },
+    {
+      "kind": "crux",
+      "subject": "הארך",
+      "rationale": "'bophara' kgahlanong le 'bolelele' — porokwe e shebile bophara ba ntlo, mamarabele a fapana."
+    },
+    {
+      "kind": "elision",
+      "subject": "אמות",
+      "rationale": "'dikama' ke karolo ya 'dikama tse mashome a mabedi' — mocheswaneng wa Sesotho ho hlokahala mantswe a mabedi."
+    }
+  ],
+  "translation": "Mme porokwe eo e neng e le ka pele, bophara ba yona bo le ka pele ba bophara ba ntlo, dikama tse mashome a mabedi; mme bohodimo bo le dilemo tse lekgolo le mashome a mabedi; mme a e khufitsa ka hare ka gauta e hloekileng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b688eaa2b08936f8f629ed670132f8f8f03c802e36b37de4c6dbfd79cd58a87c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/3\/4-4.1791265732894.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאולם",
+      "gloss": "Mme porokwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pele"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pele ba"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ba ntlo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikama"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tse mashome a mabedi"
+    },
+    {
+      "surface": "והגבה",
+      "gloss": "mme bohodimo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "dilemo tse lekgolo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "le mashome a mabedi"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "mme a e khufitsa"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "ka hare"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hloekileng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:52.898685408Z",
+  "model": "glm-5.3"
+}

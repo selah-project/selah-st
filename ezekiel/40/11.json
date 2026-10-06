@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "bophara le bolelele ba ponto",
+      "rationale": "Dikhubu tse leshome ka bophara, tse tharo le tse leshome ka bolelele."
+    }
+  ],
+  "translation": "Mme a ela ⟨את⟩ bophara ba sephetho sa ponto, dikhubu tse leshome; mme bolelele ba ponto, dikhubu tse tharo le tse leshome.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/40\/9-12.1791265454703.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "mme a ela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophara ba sephetho sa ponto"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sephetho"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sa ponto"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tse leshome"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikhubu"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bolelele"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ba ponto"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tse tharo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "le tse leshome"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikhubu"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:14.707296740Z",
+  "model": "glm-5.3"
+}

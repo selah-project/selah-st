@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 14:7",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba re",
+      "rationale": "לאמר e hlokoa ke Sesotho e le puo e hlalosang; e ka tloswa ntle le tahlehelo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאד מאד",
+      "rationale": "phetišo ea 'me'od me'od' — haholo haholo — e bolokilwe ka ho bolela kabelo"
+    }
+  ],
+  "translation": "Mme ba bolella phutheho yohle ya bana ba Yisraele, ba re: Naha eo re e fetileng ho e tlala, e ntle kahlano, naha eo e ntse haholo haholo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "a608efd21c7a53db77ac17e9802b4cb031abd2f38e73e4b0374f1da13028d598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/14\/7-7.1791264933693.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mme ba bolella"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle ya"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "phutheho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "naha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "re e fetileng"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ho e"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "naha"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "e ntle kahlano"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "naha eo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haholo"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:33.699131478Z",
+  "model": "glm-5.3"
+}

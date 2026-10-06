@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 6:1",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחשת",
+      "rationale": "'makhgarebe' (khgarebe\/copper): copere kgahlanong le 'brasemene' — Sesotho se hlopha 'khg' bakeng sa ḥ; e ka nna 'tšeentsho' e le khetho e nngwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "והנה",
+      "rationale": "'mme thorong' e fetisetsa lo!; Sesotho se na le lentswe le le ka sehloohong le tshwanang le seheberu hannon"
+    },
+    {
+      "kind": "mystery",
+      "subject": "vision",
+      "rationale": "Pono e sa hlotjweng ka ho feletseng — tjhelete tse nne le dithaba tsa makhgarebe di tla hlaloswa ka mora hore ho mpule"
+    }
+  ],
+  "translation": "Mme ka kgutla, mme ka phahamisa mahlo a ka, mme ka bona, mme thorong — tjhelete tse nne di ile tsa tswa pakeng tsa dithaba tse pedi; mme dithaba tseo ke dithaba tsa makhgarebe <tseentsho>",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "3ebb402d3fb1397eb56c349dc2a69db99d838e2c0e319a589755caa6c13deb98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/zechariah\/6\/1-1.1791265475101.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשב",
+      "gloss": "Mme ka kgutla"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "mme ka phahamisa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mme ka bona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme thorong"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tse nne"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "tjhelete"
+    },
+    {
+      "surface": "יצאות",
+      "gloss": "di ile tsa tswa"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "pakeng tsa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tse pedi"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "וההרים",
+      "gloss": "mme dithaba tseo"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "dithaba tsa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "makhgarebe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:35.101649810Z",
+  "model": "glm-5.3"
+}

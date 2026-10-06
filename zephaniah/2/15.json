@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 2:15",
+  "book": "zephaniah",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עובר עליה",
+      "rationale": "Seheberu se re 'ya fagasang oya ho yena'; Sesotho se hloka sebopeho se itseng sa tlhaho."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mong⟩",
+      "rationale": "Seheberu se re feela 'mme ha ho koetso, ha ho ho feta' — lentswe 'mong' le ekeditswe hore pale e be hlakileng."
+    },
+    {
+      "kind": "crux",
+      "subject": "אני ואפסי עוד",
+      "rationale": "'Nna, mme ha ho ho feta ka nna' — babuetledi ba sa utlwana: 'mme ke felile\/wa me' kgahlanong le 'ha ho mong ho nna' (Isaia 47:8, Sefare 18:7)."
+    },
+    {
+      "kind": "you",
+      "subject": "motse ona",
+      "rationale": "Mongolo o supa Nineve ka ho e buelela ka bona — 'motse ona wa thabo' — bjalo karolo ya mashwe a tahlehelo."
+    }
+  ],
+  "translation": "Se ke sa ⟨e⟩ motse ona wa thabo, o duleng ka polokeho, o bolelang ka pelong ya hae: Nna, mme ha ho ⟨mong⟩ ho nna ka ho feta. E bile joang e fetohile sebakeng sa tshenyo, sebakeng sa phomolo sa diphologolo! Mong le mong ya fagasang o tla dutla, a sutumetse letsoho la hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "dcef3ad59c31d8181d8b0b5e7be0825f6bbef37b637ec01869f85de166ed7c36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/zephaniah\/2\/15-15.1791265480561.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motse ona"
+    },
+    {
+      "surface": "העליזה",
+      "gloss": "wa thabo"
+    },
+    {
+      "surface": "היושבת",
+      "gloss": "o duleng"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka polokeho"
+    },
+    {
+      "surface": "האמרה",
+      "gloss": "o bolelang"
+    },
+    {
+      "surface": "בלבבה",
+      "gloss": "ka pelong ya hae"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "mme ha ho ⟨mong⟩ ho nna ka ho feta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka ho feta"
+    },
+    {
+      "surface": "איך",
+      "gloss": "E bile joang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e fetohile"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "sebakeng sa tshenyo"
+    },
+    {
+      "surface": "מרבץ",
+      "gloss": "sebakeng sa phomolo"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "sa diphologolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Mong le mong"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ya fagasang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "o tla dutla"
+    },
+    {
+      "surface": "ישרק",
+      "gloss": "a dutle"
+    },
+    {
+      "surface": "יניע",
+      "gloss": "a sutumetse"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:40.562372530Z",
+  "model": "glm-5.3"
+}

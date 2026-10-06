@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 9:1",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרבו פקודות העיר",
+      "rationale": "KJV\/JPS: 'Cause them that have charge over the city to draw near' (imperative) vs YLT\/BSB: 'the executioners\/inspectors of the city have drawn near' (perfect) — Sesotho text follows the imperative reading."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פקודות",
+      "rationale": "פקודה ke 'etelo' kapa 'tsebe ya kahlolo'; 'ba etelang kahlolo' — eseng feela 'ba tlametseng'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ba etelang kahlolo",
+      "rationale": "Qapi e hlokahalang bakeng sa ketsahalo, e emetse ⟨את⟩ toro e hlalosang se etswang sona."
+    },
+    {
+      "kind": "invitation",
+      "subject": "קרבו",
+      "rationale": "Taelo e hlahlamang — bitso la bona le bitlang ba phemelo hore ba tlalehe torong."
+    }
+  ],
+  "translation": "Mme o ile a bitla lethoding la ka ka modumo o moholo, a re: Tlalehang, ba etelang kahlolo ⟨את⟩ toro; mme mong le mong ka sebetsa sa phemelo ya hae ka letsoho la hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "4749d9dd0fa8602f3bca4a89ca0f94392b749cb815d0ce8a8b48f664ee950aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/9\/1-1.1791265366706.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "o ile a bitla"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "lethoding la ka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "o moholo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "tlalehang"
+    },
+    {
+      "surface": "פקות",
+      "gloss": "ba etelang kahlolo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toro"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mme mong le mong"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ka sebetsa sa"
+    },
+    {
+      "surface": "משחתו",
+      "gloss": "phemelo ya hae"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ka letsoho la hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:42:46.707024034Z",
+  "model": "glm-5.3"
+}

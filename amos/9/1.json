@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 9:1",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hloho ea likolumo",
+      "rationale": "הכפתור: 'hloho ea likolumo' (capital ya kholomo, ASV\/JPS) kgahlanong le 'moahla oa lemati' (lintel, KJV\/Geneva)"
+    },
+    {
+      "kind": "crux",
+      "subject": "mme ba kgaoloe",
+      "rationale": "ובצעם: e ka ba 'ba kgaoloe' (ka moko wa ba bolela), kapa 'ho khaola ea bona' — motso בצע boetse bo bolela 'ho utsoa'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mojahala",
+      "rationale": "פליט ke 'mojahala\/mofufutsi' — motho ea balehang, eseng taba ea semoya"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נס\/פליט",
+      "rationale": "Phetoho e boletsweng ka makgetlo a mabedi: baleha le pholoha — diphetho tse pedi tse swanang, tse nelang tsela e le nngwe"
+    }
+  ],
+  "translation": "Ke bone ⟨את⟩ Adonai a eme ho alatara, mme a re: Tlaba hloho ea likolumo, hore meahla e tle e thothoke, mme ba kgaoloe ka hlooho, ba bohle; mme ba qetang ke ba bolaea ka thipa: ea balehang a ke ke a baleha, mme ea pholaang a ke ke a pholoha, mojahaleta.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "829535869de4cc05f81ab3bdb433703137c88e5a7ccb6ba0610ccb3d7d2fa11b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/amos\/9\/1-1.1791265461175.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ke bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "a eme"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alatara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mme a re"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Tlaba"
+    },
+    {
+      "surface": "הכפתור",
+      "gloss": "hloho ea likolumo"
+    },
+    {
+      "surface": "וירעשו",
+      "gloss": "e tle e thothoke"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "meahla"
+    },
+    {
+      "surface": "ובצעם",
+      "gloss": "mme ba kgaoloe"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ka hlooho"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ba bohle"
+    },
+    {
+      "surface": "ואחריתם",
+      "gloss": "mme ba qetang"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka thipa"
+    },
+    {
+      "surface": "אהרג",
+      "gloss": "ke ba bolaea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ke ke a"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "baleha"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "נס",
+      "gloss": "ea balehang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme a ke ke a"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "pholoha"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "פליט",
+      "gloss": "mojahala"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:21.176757093Z",
+  "model": "glm-5.3"
+}

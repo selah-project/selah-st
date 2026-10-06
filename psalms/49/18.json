@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "במותו",
+      "rationale": "Literal e re 'ho tlohela lefatshe ho ya lefuneng'; Sesotho se hlokomahele haholo ka 'a siea lefatshe'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כבודו",
+      "rationale": "Kgalalelo\/boima (kgetsi) kgahlanong le 'moshoele' (JPS) — motso o bolela boima, kananelo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא ... לא",
+      "rationale": "Phetoho e kopana: 'ha' habeli, e hlahlamang ho latela 'e ke ke ya'"
+    }
+  ],
+  "translation": "Hobane ha a siea lefatshe, o ke ke wa tsea ⟨את⟩ tsohle; kgalalelo ya hae e ke ke ya theohela ka mora hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "e8eb78ed01ebb61d1d2f3d9f3ae3b16839c9fa2ad84712004cd402802dbee1a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/49\/18-18.1791265506466.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "a siea lefatshe"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o ke ke wa tsea"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ke ke ya"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "theohela"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka mora hae"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kgalalelo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:06.468142918Z",
+  "model": "glm-5.3"
+}

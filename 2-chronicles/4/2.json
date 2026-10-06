@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lewatle",
+      "rationale": "הים ke 'lewatle' — sesupo sa sebelo se seholo sa metsi tempeleng, eseng lewatle la nnete"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dikgato",
+      "rationale": "Pale e ka metara: efa tse leshome ka bophara, tse hlano ka bophahamo, thapo ya efa tse mashome a mararo"
+    },
+    {
+      "kind": "crux",
+      "subject": "thapo ya dikgato tse mashome a mararo",
+      "rationale": "Metara e 30 ho potoloha ha e fepele sekgutlo sa π ka ho feletseng; barasa ba hanela hore 'קו' e ka bo e le thapo ya tekanyo, eseng potoloho ya nnete"
+    }
+  ],
+  "translation": "Mme a etsa ⟨את⟩ lewatle la tšeletsweng, dikgato tse leshome ka efa, ho tloha molaleng oa sona ho ya ho molale, sediko se potolohileng; mme bophahamo ba sona dikgato tse hlano; mme thapo ya dikgato tse mashome a mararo e ne e e potolohela ⟨את⟩ sona ho potoloha.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "454dbca6bb6f46c5bb04fdb08102e585c4e402d1d30f8cd97636766569da877c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/4\/2-2.1791265735391.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme a etsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "la tšeletsweng"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dikgato tse leshome"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka efa"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "ho tloha molaleng oa sona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ya ho"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "molale"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "sediko se potolohileng"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "mme dikgato tse hlano"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka efa"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "bophahamo ba sona"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "mme thapo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ya dikgato tse mashome a mararo"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka efa"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "e ne e e potolohela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sona",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ho potoloha"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:55.395689007Z",
+  "model": "glm-5.3"
+}

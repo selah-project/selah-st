@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikabelo tsa ponto",
+      "rationale": "Pale e kaofela e bala dikhubu: robeli, peli."
+    },
+    {
+      "kind": "crux",
+      "subject": "מהבית",
+      "rationale": "'Ho tloha ntlong' (ASV) kgahlanong le 'ka hare' (KJV\/JPS) — moo ponto e pakang haufi le ntlo."
+    },
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Seheberu se se na sebopeho sa 'to be'."
+    }
+  ],
+  "translation": "Mme a ela ⟨את⟩ ponto ya kena ya ponto, dikhubu tse robeli; mme majareteng a yona, dikhubu tse peli; mme ponto ya kena ya ponto ⟨e ne e le⟩ ho tloha ntlong.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/40\/9-12.1791265454703.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "mme a ela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ponto ya kena ya ponto"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ponto ya kena"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ya ponto"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tse robeli"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikhubu"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "mme majareteng a yona"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tse peli"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dikhubu"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "mme ponto ya kena"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ya ponto"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ho tloha ntlong"
+    }
+  ],
+  "timestamp": "2026-10-06T05:44:14.705706674Z",
+  "model": "glm-5.3"
+}

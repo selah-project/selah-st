@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ho onsta mabele",
+      "rationale": "הינק\/תנק bolela 'ho fana ka mabele, ho nonotsha ka mabele' — ho se ke wa fetoha 'ho hlokomela' feela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הינקהו\/תניקהו",
+      "rationale": "phetoso e tšoanang ya moeti ka hara eumo: tlhoko ya hore o nonotshwe, karabo ea hore o nonotshoa"
+    },
+    {
+      "kind": "you",
+      "subject": "ho mosadi (mme wa Moshe)",
+      "rationale": "morali wa Pharaoe o mo rapalletse ka ho bitsa"
+    }
+  ],
+  "translation": "Mme morali wa Pharaoe a mo re: Tlisa ngwana yo, mme o m[onste] mabele bakeng sa ka, mme ke tla o lefella moputso wa hao. Mme mosadi a nka ⟨את⟩ ngwana, mme a mo[onsta] mabele.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "502c1a32347e0b7cdbc27d0006322f9f2ab42b0c4396b6b1ffbfb7a1afdfbcc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/2\/9-9.1791264755631.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morali"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "wa Pharaoe"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "tlisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngwana yo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "mme o m[onste] mabele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bakeng sa ka"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mme ke"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla lefella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moputso wa hao"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "moputso wa hao"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "mme a nka"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "mme a mo[onsta] mabele"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:35.637668686Z",
+  "model": "glm-5.3"
+}

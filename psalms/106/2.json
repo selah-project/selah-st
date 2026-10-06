@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גבורות",
+      "rationale": "'matla a magolo' kgahlanong le 'dintsho' kapa 'dipholo'; sebopeho ke bongata — dikgoka tsa Yahwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישמיע",
+      "rationale": "polelo ya ho etsa hore e utloehe; 'ya ka phatlalatsa' e ka sebediswa, empah seheberu se bolela ho utlwa"
+    },
+    {
+      "kind": "mystery",
+      "subject": "potso",
+      "rationale": "potso e sa arableheng: matla a Yahwe a ka hlahisoa ka pelong ke mang?"
+    }
+  ],
+  "translation": "Ke mang ya ka bolelang matla a Yahwe, ya ka utisitseng ⟨⟨ho utlwa⟩⟩⟩ toro ya hae kaofela? ⟨kenya: ya ka etsa hore teboho ya hae e utloehe kaofela⟩",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fcb61e354f0233e712d50dc31b2cf746397eccc670f5f638ed852391da2057fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/106\/2-2.1791265570775.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ya ka bolelang"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "matla a magolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ya ka utisitseng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaofela"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "teboho ya hae"
+    }
+  ],
+  "timestamp": "2026-10-06T05:46:10.775924449Z",
+  "model": "glm-5.3"
+}

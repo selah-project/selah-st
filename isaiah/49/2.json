@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 49:2",
+  "book": "isaiah",
+  "lang": "st",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o hloekileng",
+      "rationale": "ברור e bolela 'o kgethilweng, o hlodilweng' — sesupo sa mosele o hloekisitsweng"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החביאני \/ הסתירני",
+      "rationale": "Mantsoe a mabeli a bolelang 'o nkutile' a phethile sefoko, a tsamaisa mosele oa lethabo"
+    }
+  ],
+  "translation": "Mme o ile a etsa molomo oa ka joalo ka kharebo e hlaha; ka moriti wa letsoho la hae o nkutileng, mme o ile a nkgetha joalo ka mosele o hloekileng; moqhobosing oa hae o nneile.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "dd65de30e2a418008d66ca94f6afe41b7938581dffe52fe482e459e90150ea7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/isaiah\/49\/1-2.1791265317239.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Mme o ile a etsa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo oa ka"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "joalo ka kharebo"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "e hlaha"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ka moriti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsoho la hae"
+    },
+    {
+      "surface": "החביאני",
+      "gloss": "o nkutileng"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "mme o ile a nkgetha"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "joalo ka mosele"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "o hloekileng"
+    },
+    {
+      "surface": "באשפתו",
+      "gloss": "moqhobosing oa hae"
+    },
+    {
+      "surface": "הסתירני",
+      "gloss": "o nneile"
+    }
+  ],
+  "timestamp": "2026-10-06T05:41:57.243943280Z",
+  "model": "glm-5.3"
+}

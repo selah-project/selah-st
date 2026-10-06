@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oena⟩",
+      "rationale": "Seheberu se na le ha se na sehlomathiso; Sesotho se se hloka"
+    },
+    {
+      "kind": "you",
+      "subject": "ho Jobe",
+      "rationale": "Yahwe o hahaletsa Jobe ka kotloloho — taaelo ya bobedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאון וגבה",
+      "rationale": "Kakaretso ya mantswe a mangata a boikhantsabo — pale e utloahala hanyane feela ho Sesotho"
+    }
+  ],
+  "translation": "Iketse ⟨oena⟩ hona kajoale ka boikhantsabo le boholo, mme ka khanya le setjhaba o iketse.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "f96f10673bb4d9dbd8be8d6aeeb93774b2d77018abc9a6938e1f65093b46a45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/job\/40\/10-10.1791265632253.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "iketse"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hona kajoale"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boikhantsabo"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "le boholo"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ka khanya"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "le setjhaba"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "o iketse"
+    }
+  ],
+  "timestamp": "2026-10-06T05:47:12.255170564Z",
+  "model": "glm-5.3"
+}

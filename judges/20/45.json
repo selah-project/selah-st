@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "judges 20:45",
+  "book": "judges",
+  "lang": "st",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעללהו",
+      "rationale": "'ba hloekisa' (glean, kaha Geneva\/KJV) kgahlanong le 'ba hlaba' (BSB); lentsoe la Seheberu le bolela ho khothaletsa kaha moqhaka."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mehlano ya dikete \/ dikete tse pedi",
+      "rationale": "Palo ya ba hlabilweng e hlaloswa ka ho hlaka: 5 000 le 2 000."
+    },
+    {
+      "kind": "substitution",
+      "subject": "במסלות",
+      "rationale": "Heb. 'mecheng e tsamaeang' (masela a holimo) e fano'e e le 'litsela tse tsamaeang', e seng 'megala' e mpe ka Seheberu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדעם",
+      "rationale": "Lebitso la Gidom le utlwahala e kaha le tswa ho motso wa ho khaola (גדע), e thweng ba 'khaola' batho ba fihlela moo — papali e sieo Sesothong."
+    }
+  ],
+  "translation": "Mme ba kgutla, ba lula ba ea boholehong, ho ya letlapeng la Ramone; mme ba hloekisa ka litsela tse tsamaeang mehlala e mehlano ya batho; mme ba latela ka morao ho fihlela Gidome, mme ba hlaba ho tsona batho ba dikete tse pedi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "69c8bf15063b1b07ed6b762ea130388d2a50d192d784a262c8888a1aa7327d11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/judges\/20\/45-45.1791265148433.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ba kgutla"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ba lula ba ea boholehong"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "ho ya boholehong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "letlapeng"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "la Ramone"
+    },
+    {
+      "surface": "ויעללהו",
+      "gloss": "ba hloekisa ka"
+    },
+    {
+      "surface": "במסלות",
+      "gloss": "ka litsela tse tsamaeang"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "mehlano"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ya batho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "batho"
+    },
+    {
+      "surface": "וידביקו",
+      "gloss": "ba latela ka morao"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka morao ho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho fihlela"
+    },
+    {
+      "surface": "גדעם",
+      "gloss": "Gidome"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba hlaba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho tsona"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ba dikete tse pedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-06T05:39:08.437392092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "st",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Adonai",
+      "rationale": "אדני ya Molimo e bolokwa jaaka lebitso — eseng 'Morena'"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Selah ke letshwao la mmino, le bolokwa jwaloka sona"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the kingdoms of the earth",
+      "rationale": "Taelo ya ho bina e bitsetswa mmemaloko kaofela"
+    }
+  ],
+  "translation": "Mmemaloko a lefatshe, binedi ho Elohim, rummeleding Adonai. Selah.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8fb4553a04bf3e94aad221c4c0c2e518655bc51bd1a6ad395a1f53fb508af4ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/psalms\/68\/33-33.1791265521683.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "Mmemaloko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a lefatshe"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "binedi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "rummeleding"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:21.683865371Z",
+  "model": "glm-5.3"
+}

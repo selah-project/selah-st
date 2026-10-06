@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 4:15",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "pele ho lediri 'ama' Sesotho se se ke sa e hlalosa ka boyona"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגעו אל",
+      "rationale": "'ba ama' kgahlanong le 'ba atamela' (YLT 'come unto') — tlhaho ke ho ama ka letsoho"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka nako eo ... e hambahamang",
+      "rationale": "בנסע המחנה ke 'ha kampu e tloha', Sesotho se hloka sebopeho sa nako"
+    }
+  ],
+  "translation": "Mme Aharone le bana ba hae ba qetile ho putsa ⟨את⟩ se halalelang le ⟨את⟩ dithoara tsohle tsa se halalelang, ka nako eo kampu e hambahamang; ka mora moo bana ba Kehate ba tla ho jara, mme ba se ke ba ama se halalelang, ba be ba shwele. Hona ke bojaro ba bana ba Kehate ohleng ya kopano.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "8774a8614aa7d47415e297890fb41af5b4a31421f49b9921966683f14a1e00f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/4\/15-16.1791264907231.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "ba qetile"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba hae"
+    },
+    {
+      "surface": "לכסת",
+      "gloss": "ho putsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se halalelang"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "se halalelang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dithoara tsohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dithoara"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsa se halalelang"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "ka nako eo kampu e hambahamang"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ka mora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "moo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ba Kehate"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ho jara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba se ke ba"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "se halalelang"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ba be ba shwele"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hona"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ke bojaro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba bana"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ba Kehate"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ohleng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-06T05:35:07.236679555Z",
+  "model": "glm-5.3"
+}

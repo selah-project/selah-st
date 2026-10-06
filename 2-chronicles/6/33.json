@@ -1,0 +1,174 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 6:33",
+  "book": "2-chronicles",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "“hodima ntlong ena” e ntse e le teng; KJV e fedisa “called upon this house” ho “is called by thy name”."
+    },
+    {
+      "kind": "crux",
+      "subject": "נקרא על הבית",
+      "rationale": "“lebitso la hao le bitsitsoe hodima ntlo ena” (JPS\/ASV) kgahlanong le “ntlo ena e bitswa ka lebitso la hao” (KJV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנכרי",
+      "rationale": "“moahi wa naha e sele” — seheberu se bolela wa se nang kamano, wa lefatshe le sele, eseng tlhaho ya semorao."
+    },
+    {
+      "kind": "addition",
+      "subject": "כל עמי הארץ",
+      "rationale": "“ditjhaba” ka bongata bakeng sa “mabitso a ditjhaba” — Sesotho se hloka bongata mo."
+    }
+  ],
+  "translation": "Mme u tla utloa mahodimong, lefifing la ha u lula, mme o etsa ho ya ka tsohle tseo moahi wa naha e sele a li kopa ho uena, hore ditjhaba tsohle tsa lefatshe di tsebe ⟨את⟩ lebitso la hao, mme di tshabe uena, jwalo ka setjhaba sa hao Yisraele, le ho tseba hore lebitso la hao le bitsitsoe ntlong ena eo ke e ahileng.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "c1acf3a8bf8a2c39b78eb3898ee3055e935c256714cad9655d42aba474992098",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-chronicles\/6\/33-33.1791265718440.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mme u"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tla utloa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ho tloha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mahodimong"
+    },
+    {
+      "surface": "ממכון",
+      "gloss": "lefifing la"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "ha u lula"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mme o etsa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ho ya ka tsohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a li kopa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho uena"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "moahi wa naha e sele"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hore"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "di tsebe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsohle"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ditjhaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tsa lefatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebitso la hao"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "mme di tshabe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "uena"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "jwalo ka setjhaba sa hao"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "le ho tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hore"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "lebitso la hao"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "le bitsitsoe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ke e ahileng"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:38.448059779Z",
+  "model": "glm-5.3"
+}

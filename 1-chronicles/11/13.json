@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 11:13",
+  "book": "1-chronicles",
+  "lang": "st",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חלקת",
+      "rationale": "Heberekeng le bolela 'bohalale bo bobebe' kapa 'karolo ea mobu'; 'karolo ea tshimo' ke moelelo oa sebaka"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "'Sebakeng sa' — seele sa 'pele ho sefahleho sa'"
+    }
+  ],
+  "translation": "Yena o ne a le le Dawide ka Pase-Damime, mme Bapelisti ba hlahaletse ba bokaneleshwa moo bakeng sa ntoa; mme karolo ea tshimo e ne e tletse borele, mme setjhaba se balehile sebakeng sa Bapelisti.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "7bb577bfc4e350bd8885b2470085ee1156c2b160f55e3080c2e34261ec49135e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/1-chronicles\/11\/13-13.1791265734746.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Yena"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o ne a le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "בפס",
+      "gloss": "ka Pase-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damime"
+    },
+    {
+      "surface": "והפלשתים",
+      "gloss": "mme Bapelisti"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ba hlahaletse ba bokaneleshwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "bakeng sa ntoa"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mme e ne e"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "karolo ea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tshimo"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tletse"
+    },
+    {
+      "surface": "שעורים",
+      "gloss": "borele"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "mme setjhaba"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "se balehile"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sebakeng sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelisti"
+    }
+  ],
+  "timestamp": "2026-10-06T05:48:54.751535510Z",
+  "model": "glm-5.3"
+}

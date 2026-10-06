@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 18:1",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨monga hae⟩",
+      "rationale": "Seheberu se sena sehlomathiso; Sesotho se se hlokahala"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלני",
+      "rationale": "dihare tsa Mamre kgahlanong le 'plain\/terebinth' — lemma ke sehare"
+    }
+  ],
+  "translation": "Mme Yahwe o ile a bonahala ho yena hara dihare tsa Mamre, a ntse a dutse ⟨monga hae⟩ lehlakoreng la moeng wa tenthe, ka mocheso wa letsatsi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "77e82642e24d45521b090198d86cb8f10a434ed9b5a64da1417ea876e7e6e757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/18\/1-2.1791264721639.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o ile a bonahala"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho yena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "hara dihare tsa"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mme yena"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dutse"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lehlakoreng la moeng"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tenthe"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "ka mocheso wa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-06T05:32:01.648112817Z",
+  "model": "glm-5.3"
+}

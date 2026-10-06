@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 8:9",
+  "book": "zechariah",
+  "lang": "st",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ho sona",
+      "rationale": "Seheberu se na le נעשה feela; sehlomathiso se hlakisa thehwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "matswalo",
+      "rationale": "ידיכם ke 'matsoho a lona' — matla a ho etsa mosebetsi wa ho haha"
+    },
+    {
+      "kind": "crux",
+      "subject": "ההיכל",
+      "rationale": "'heikhala' e hokahantswe le ntlo — kapa ke tlhaloso ya yona, jwalokaha JPS\/ASV a bontsha"
+    },
+    {
+      "kind": "you",
+      "subject": "ho setjhaba sa bahahi ba Yerushalayime",
+      "rationale": "Taelo e tobile: 'matswalo a lona a matle'"
+    }
+  ],
+  "translation": "Ho bolela Yahwe Tsebaote: Matswalo a lona a matle, lona ba mamelang mafatshe a le mwanya ⟨את⟩ mantswe a ho tswa molomong wa baporofeta, ka letsatsi leo ntlo ya Yahwe Tsebaote e ile ya thehwa ho sona, heikhala, hore ho hahoewe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "93a97d2be8f7de1fee573fa39606beaa16a67b2d6fe40905412ace87ea7eab24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/zechariah\/8\/9-9.1791265531836.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ho bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "תחזקנה",
+      "gloss": "a matle"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "Matswalo a lona"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ba mamelang"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mafatshe a le mwanya"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a le mwanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantswe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantswe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a le mwanya"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ho tswa molomong"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "wa baporofeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "e ile ya thehwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikhala"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "hore ho hahoewe"
+    }
+  ],
+  "timestamp": "2026-10-06T05:45:31.838284678Z",
+  "model": "glm-5.3"
+}
