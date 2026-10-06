@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezekiel 40:49",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "poroko ea tempole",
+      "rationale": "Karolo ea papiso ea Ezekiele 40: bophahamo ba porch, li-ama tse 20 ka bolelele le tse 11 ka bophara, le mehatong."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ama",
+      "rationale": "אַמָּה ke yuniti ea Seheberu; e ngotsoe ka mokhoa oa sona, eseng 'cubit' kapa 'meter'."
+    },
+    {
+      "kind": "crux",
+      "subject": "dikolomo le diayilim",
+      "rationale": "עַמּוּדִים kgahlanong le הָאֵילִים: Ba-translate ba ngata ba nkuoa e le 'dikolomo ho lintlha' empa kamano ea lentsoe אֵל ke pele ho lingoliloeng, kapa ho latela."
+    }
+  ],
+  "translation": "Bolelele ba poroke bo le ama e mashome a mabedi, mme bophara bo le ama e le lesome le e le nngwe, mme ka mehatong eo ba neng ba hodima ho eona; mme dikolomo di fellela ho diayilim, e le nngwe mona le e le nngwe mona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "d553a30713804156c1689898375e6aed72c6e9e002a071973d2b4d6c910db980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/40\/49-49.1791273162531.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "bolelele"
+    },
+    {
+      "surface": "האלם",
+      "gloss": "ba poroke"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "e mashome a mabedi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "mme bophara"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "e le lesome le"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ובמעלות",
+      "gloss": "mme ka mehatong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ba neng ba hodima"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho eona"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "mme dikolomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "diayilim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e le nngwe"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "le e le nngwe"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "mona"
+    }
+  ],
+  "timestamp": "2026-10-06T07:52:42.532371077Z",
+  "model": "glm-5.3"
+}
