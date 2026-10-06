@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 4:22",
+  "book": "genesis",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לטש כל חרש",
+      "rationale": "Ha se 'moqhekelli' feela: Seheberu se re 'moqhokelli wa mosebedisi yo moholo wa koporo le tsepe' — KJV e re 'moqheketsi', JPS 'moqapi wa dibetsa tse khaotsang'; ke hore na o ruta babedi kapa o etsa dithoelope."
+    },
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Seheberu se se na copula ho 'khaitsedi ya Tuvale-Kaine Naama'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "linaleli tsa ketso",
+      "rationale": "Lenane la mabitso a babeli-ba-ditshipi (Tuvale-Kaine, Naama) karolong ya tolokiso ya Ketso 4."
+    }
+  ],
+  "translation": "Mme Tsilah, yena hape, o ile a tswala ⟨את⟩ Tuvale-Kaine, moqhokelli wa mosebedisi yo moholo wa koporo le tsepe; mme khaitsedi ya Tuvale-Kaine e ne e le Naama.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "be75d1597d596c6c2fb93ec9d220b824e8b56ab1a842de6759779564dffe3003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/genesis\/4\/22-22.1791272295958.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצלה",
+      "gloss": "Mme Tsilah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hape"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "o ile a tswala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tuvale-Kaine"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "Tuvale-"
+    },
+    {
+      "surface": "קין",
+      "gloss": "-Kaine"
+    },
+    {
+      "surface": "לטש",
+      "gloss": "moqhokelli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wa yo moholo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "mosebedisi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koporo"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "le tsepe"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "mme khaitsedi ya"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "Tuvale-"
+    },
+    {
+      "surface": "קין",
+      "gloss": "-Kaine"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "Naama"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:15.960238782Z",
+  "model": "glm-5.3"
+}

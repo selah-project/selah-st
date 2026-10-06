@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 4:3",
+  "book": "ruth",
+  "lang": "st",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Sesotho e hloka kopula pejana ya Noami; Seheberu se e sena"
+    },
+    {
+      "kind": "crux",
+      "subject": "לגאל",
+      "rationale": "goela kapa 'ya hlahlamang sehlomathiso' — moeti ya lokelang ho reka se rekisoang ke moholoaba; 'goela' ka Sesotho a ho bontshe kamano"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלקת",
+      "rationale": "'serapa' — lentswe le bolela 'bohalalelo\/tlhabollo'; kapa 'karolo ea tshimo'"
+    },
+    {
+      "kind": "addition",
+      "subject": "se seng",
+      "rationale": "אשר ha e na mofuta o tobileng oa Sesotho; ho hlokeha sehlomathisi"
+    }
+  ],
+  "translation": "Mme a re ho ya hlahlamang sehlomathiso: Serapa sa ⟨את⟩ tshimo se seng sa moholoaba wa rona, wa Elimeleke, Noami ⟨e⟩ rekisitse, ea kileng ea khutla ho tloha masimong a Moabe.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "bc6411af1bf1ba5ac3b6ab94f62940daeecc9e869c38f04df948b35de7be2448",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ruth\/4\/3-3.1791272306988.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mme a re"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "ho ya hlahlamang sehlomathiso"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Serapa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tshimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se seng"
+    },
+    {
+      "surface": "לאחינו",
+      "gloss": "sa moholoaba wa rona"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "wa Elimeleke"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "rekisitse"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noami"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "ea kileng ea khutla"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "ho tloha masimong"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "a Moabe"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:26.989636680Z",
+  "model": "glm-5.3"
+}

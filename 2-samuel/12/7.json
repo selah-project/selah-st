@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 12:7",
+  "book": "2-samuel",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se sena copula; Sesotho se e hloka"
+    },
+    {
+      "kind": "you",
+      "subject": "ho Dawide",
+      "rationale": "Natane o bitela Dawide ka kotloloho: \"U motho eo\""
+    },
+    {
+      "kind": "substitution",
+      "subject": "letsatsing la Sawule",
+      "rationale": "מיד ke \"letsatsing la\"; Sesotho se hloka sehlomathiso \"la\""
+    }
+  ],
+  "translation": "Mme Natane a re ho Dawide: U ⟨ke⟩ motho eo. Jwalo ha a bolela Yahwe, Elohim wa Yisraele: Nna ke ile ka u tlotsa e le morena wa Yisraele, mme ke ile ka u lokolla letsatsing la Sawule.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "04042ceb0c56716cb80ee2e2baab01132577c3ba48f908f54969c747d85cf7d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/2-samuel\/12\/7-7.1791272281538.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawide"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho eo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Jwalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "ke ile ka u tlotsa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "e le morena wa"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mme nna"
+    },
+    {
+      "surface": "הצלתיך",
+      "gloss": "ke ile ka u lokolla"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "letsatsing la"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawule"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:01.539040621Z",
+  "model": "glm-5.3"
+}

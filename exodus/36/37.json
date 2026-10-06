@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 36:37",
+  "book": "exodus",
+  "lang": "st",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "משזר",
+      "rationale": "šazel-form (twisted thread) e seho tlwaelo; e lokisetswe e le 'e bokooang' ho tsoa motso wa ho bokoa."
+    },
+    {
+      "kind": "crux",
+      "subject": "רקם",
+      "rationale": "'moqhobosi' (ya mebala e tshwarahaneng) kgahlanong le 'mohahlaudi' (jps); makgabunyane a mebala a hlahlobwa."
+    }
+  ],
+  "translation": "Mme o ile a etsa ⟨את⟩ sethekiso sa mocheng wa haohle, la tekhelete, le ya bopatau, le ya serame sa khubelu, le linate e bokooang, mosebetsi wa moqhobosi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "fc4e5f6827eebbf3ff7b944c12f282f7b717a35bd5cd99f15a950e2bed23d83a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/exodus\/36\/37-37.1791272293484.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mme o ile a etsa"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "sethekiso"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sa mocheng wa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "haohle"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "le ya bopatau"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "le thanthanyana ya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "serame"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le linate"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "e bokooang"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosebetsi wa"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "moqhobosi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:13.486544996Z",
+  "model": "glm-5.3"
+}

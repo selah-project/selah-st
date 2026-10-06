@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 18:3",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Aharone le barutiwa ba hae",
+      "rationale": "Sefoko se buisitswe ho Aharone ka balebedi ba Levi ba tlang ho mo sebeletsa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tlhokomelo",
+      "rationale": "משמרת ke 'poelo ya sepodisi, boemo ba tlhokomelo' — sebopeho sa mosebetsi, eseng tlhokomelo ya hiso feela."
+    },
+    {
+      "kind": "idiom",
+      "subject": "hore ba se ke ba shwa",
+      "rationale": "Ebreu: 'le ba se ke ba shwa' — phetolelo e bolela sepetho; ebe letshwa le lebisitsoe phosedisong e seng thoko."
+    }
+  ],
+  "translation": "Mme ba tla boloka tlhokomelo ya hau, le tlhokomelo ya tente yohle: empa ho dibediswa tsa sehalalelo le ho aletareng ba se ke ba atamela, hore ba se ke ba shwa, ba le bona le lona.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "47959bb002c2ba96e77a8dc61b27c4e9b0568d345ebf0e7e201d17fd5298cf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/18\/3-4.1791272317264.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "mme ba tla boloka"
+    },
+    {
+      "surface": "משמרתך",
+      "gloss": "tlhokomelo ya hau"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "le tlhokomelo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "אך",
+      "gloss": "empa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dibediswa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tsa sehalalelo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletareng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "ba atamela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hore ba se ke"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ba shwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ba le"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:37.265391911Z",
+  "model": "glm-5.3"
+}

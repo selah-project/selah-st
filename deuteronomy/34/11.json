@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 34:11",
+  "book": "deuteronomy",
+  "lang": "st",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ditsupiso le makgethwa",
+      "rationale": "אוֹתוֹת 'matshwao\/ditsupiso' le מוֹפְתִים 'makgethwa' — mantswe a mabedi a fapaneng a Seheberu, a hlaloswa ka maso a arohaneng"
+    },
+    {
+      "kind": "addition",
+      "subject": "ya",
+      "rationale": "Seheberu se na le boemo (construct) 'naheng ya Mitsrayime'; Sesotho se hloka 'ya'"
+    }
+  ],
+  "translation": "Ho ⟨thuto ya⟩ matsatswao a mabedi: bophirima bo tla hlokomela mehla e mmedi, mme bophirima bo tla hlokomela mehla e mmedi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "17922f53c1066aafe803757783fe8c7031c85e2e3335ff95980e6c5c0ad49395",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/deuteronomy\/34\/11-11.1791272294710.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לְכָל",
+      "gloss": "ho ditsupiso tsohle"
+    },
+    {
+      "surface": "הָ֨אֹת֜וֹת",
+      "gloss": "ditsupiso"
+    },
+    {
+      "surface": "וְהַמּוֹפְתִ֗ים",
+      "gloss": "le makgethwa"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "שְׁלָחוֹ֙",
+      "gloss": "a mo romile"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לַעֲשׂ֖וֹת",
+      "gloss": "ho di etsa"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "naheng ya"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לְפַרְעֹ֥ה",
+      "gloss": "ho Faro"
+    },
+    {
+      "surface": "וּלְכָל",
+      "gloss": "le ho ditlebere"
+    },
+    {
+      "surface": "עֲבָדָ֖יו",
+      "gloss": "tlatla tsa hae"
+    },
+    {
+      "surface": "וּלְכָל",
+      "gloss": "le ho naheng"
+    },
+    {
+      "surface": "אַרְצֽוֹ",
+      "gloss": "ya hae yohle"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:14.711484956Z",
+  "model": "glm-5.3"
+}

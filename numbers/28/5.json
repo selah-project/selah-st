@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 28:5",
+  "book": "numbers",
+  "lang": "st",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ditekanyo",
+      "rationale": "Khothong ya efa, rothong ya haïne — ditekanyo tsa Seheberu di bolokwa jwalo ka tsona."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "למנחה e ntse e le minkha ya mafura le solete, eseng mpho kapa lekgetho."
+    },
+    {
+      "kind": "hapax",
+      "subject": "כתית",
+      "rationale": "Mafura a kotlwa — katla e bolela a hlwekile, a kotlwentshitsweng."
+    }
+  ],
+  "translation": "Mme khothong ya efa ya solete, e le minkha, e tlakantshitsweng ka mafura a kotlwa, rothong ya haïne.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "49c959d2cc7bc7bb6dd90b818d09f5bdbb6644c4168696c5f3a8147de4c905d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/numbers\/28\/5-5.1791272292000.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשירית",
+      "gloss": "Mme khothong ya"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ya solete"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "e le minkha"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "e tlakantshitsweng"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "a kotlwa"
+    },
+    {
+      "surface": "רביעית",
+      "gloss": "rothong ya"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "haïne"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:12.001120586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 6:5",
+  "book": "amos",
+  "lang": "st",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ba phorota",
+      "rationale": "הפרטים: 'ho phoroma ka molomo' (KJV 'chant', ASV 'sing idle songs', JPS 'thrum') — lentsoe le bolela ho phoroma kapa ho bina ka tlhaho ho seng sa seriti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naba",
+      "rationale": "הנבל: seheberu se bolela sebaka sa letlalo kapa seletsa sa dikotoana; 'naba' ke sebopeho se seng sa Sesotho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba hlahisa",
+      "rationale": "חשבו: 'ho bopa ka kelello, ho rala' — 'ho hlahisa' e pharaletse haholo; KJV 'invent'"
+    }
+  ],
+  "translation": "Ba phorota hodima molomo wa naba, jwalo ka Dawide ba hlahisa bakeng sa bona dithaiso tsa koos",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "2b07730cf8ae0f369a1678f72da6ee6ef778ca3f73901e819d9a0499a8f6ece3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/amos\/6\/5-5.1791272281003.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפרטים",
+      "gloss": "ba phorota"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodima"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "naba"
+    },
+    {
+      "surface": "כדויד",
+      "gloss": "jwalo ka Dawide"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ba hlahisa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bakeng sa bona"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dithaiso"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "koos"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:01.003679586Z",
+  "model": "glm-5.3"
+}

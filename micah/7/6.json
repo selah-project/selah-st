@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "st",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנבל",
+      "rationale": "נבל: 'ho nyefola' kgahlanong le 'ho fellwa ke pelo' kapa 'ho phaphamala' — baphetoleli ba sa utlwahala."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קמה",
+      "rationale": "'ho tula kgahlanong le' — Seheberu se re feela 'o eme' (qomo e le kgahlanong, e kentsoe ka ⟨…⟩ taelong ya Sesotho)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איבי אישׁ אנשׁי ביתו",
+      "rationale": "Puisano ea אישׁ\/אנשׁי (monna\/banna) — mokgwa o mong le o mong oa litlhaku, o timetse ka Sesotho."
+    }
+  ],
+  "translation": "Hobane mora o nyefola ntatahae, moradi o tula kgahlanong le mmae, ngwets'e kgahlanong le mmengwets'e; dira tsa monna ke banna ba ntlo ya hae.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "ceac301fe370c59632896d6c5fa666edffe21590bd1fe156806db840d4d2816e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/micah\/7\/6-6.1791272301816.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hobane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "o nyefola"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ntatahae"
+    },
+    {
+      "surface": "בת",
+      "gloss": "moradi"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "o tula kgahlanong le"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "mmae"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ngwets'e"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "kgahlanong le mmengwets'e"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tsa monna"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ke banna ba"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya hae"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:21.817133814Z",
+  "model": "glm-5.3"
+}

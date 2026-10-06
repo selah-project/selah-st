@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 20:9",
+  "book": "joshua",
+  "lang": "st",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke moya\/bophelo, eseng 'moea' ka boelo-ka-botlalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "molapolasi wa madi",
+      "rationale": "גאל הדם: 'molapolasi wa madi' kgahlanong le 'molapolasi wa leloko' — goa ka letsoho"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גר\/הגר",
+      "rationale": "moahi (nom.) le hoahela (verb) — leeme le lahelwa ka Sesotho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ditsebe tsa motsamao",
+      "rationale": "palo ya ditsebe tsa ho fullela di hlaloswa le ho qaheleloa"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ho fullela",
+      "rationale": "tsela e bulehileng ya ho fullela bakeng sa moologi wa moya ka phoso"
+    }
+  ],
+  "translation": "E ne e le ditsebe tseo tsa ⟨motsamao⟩ bakeng sa bana bohle ba Yisraele le bakeng sa moahi yaahelang ho lona, hore motho yo mong le yo mong ya otlang moya a sa its’epa a ka fullela moo, a sa ke ke a swa ka letsoho la molapolasi wa madi, a sa ka a ema pel’a sephutha.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "30e0215f3724cf3a6d43f319845d45a0ed9c8aed86ffca7d921655fda238e6bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/joshua\/20\/9-9.1791272285930.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "tseo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ditsebe"
+    },
+    {
+      "surface": "המועדה",
+      "gloss": "tsa ⟨motsamao⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa bohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "le bakeng sa moahi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "yaahelang"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ho lona"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "hore a fullele"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "moo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mong le yo mong"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ya otlang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "a sa its’epa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa ke ke"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "a swa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsoho"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "la molapolasi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wa madi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "a sa ka"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pel’a"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "sephutha"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:05.931911959Z",
+  "model": "glm-5.3"
+}

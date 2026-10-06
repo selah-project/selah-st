@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "st",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ya bolela ka moya",
+      "rationale": "יפיח ke 'ho foka\/ho ntsha moya' — ho bolela ka sefuba; KJV 'speaketh' o latlheha setshwantsho sa moya"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tshepo",
+      "rationale": "אמונה e bolela 'botenya, tshepo' — eseng 'nete' feela"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na kopula; Sesotho se e hloka"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ya bolela ka moya",
+      "rationale": "Puo ya bobeli: 'Ya foka tumelo' — setshwantsho sa moya se nkilwe ka boomo"
+    }
+  ],
+  "translation": "Ya bolela ka tshepo o phetsa tsedeke; mme paki ya dishano, ⟨ke⟩ bohodu.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "acbe6ed31824bde0e8a16ae1a352433e49359d728b3c56c0651d7804b610899b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/proverbs\/12\/17-17.1791272307110.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "ya bolela ka moya"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "tshepo"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "o phetsa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mme paki"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ya dishano"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bohodu"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:27.111182030Z",
+  "model": "glm-5.3"
+}

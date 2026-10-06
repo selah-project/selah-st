@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "st",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aparoe",
+      "rationale": "Seheberu se bolela sekalero kapa diaparo, se lokiselitse ho ba aparoe ka kakaretso"
+    },
+    {
+      "kind": "addition",
+      "subject": "ya",
+      "rationale": "Seheberu se hlomathisa ka l- feela; Sesotho se hloka sehlomathiso sa 'ya'"
+    }
+  ],
+  "translation": "le ya tsaraeata ya aparoe, le ya ntlo.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "b29bf5797fb48532e44091b59bea1b16776310c4c1e2aaeb9b32f6fdabe7eb7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/leviticus\/14\/54-55.1791272302121.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "le ya tsaraeata"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "aparoe"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "le ya ntlo"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:22.122498696Z",
+  "model": "glm-5.3"
+}

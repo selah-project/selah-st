@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "st",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "ברוח e hlaloswa jwalo ka ruakh ya Yahwe — moya kapa phefo Feela e ka se sebedise"
+    },
+    {
+      "kind": "crux",
+      "subject": "bjk'ea",
+      "rationale": "הבקעה: 'bjk'ea' (valley e bulehileng) kgahlanong le 'tšimo' jwaloka Geneva\/KJV"
+    },
+    {
+      "kind": "addition",
+      "subject": "e ne e le",
+      "rationale": "Seheberu se na le היתה feela; karolo ea nako e ekeditswe"
+    }
+  ],
+  "translation": "Letsoho la Yahwe le ile la ba ho ona, mme le ntse le ntlosa ka ruakh ya Yahwe, mme le ndula ka hare ho bjk'ea, mme e ne e tletse mafokotsi.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "a16d7345247638663a7865b0279f7eaaaf6c36e75a765ab7b70c9300acd1d10d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/ezekiel\/37\/1-1.1791272305398.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "e ne e le"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho ona"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letsoho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "mme le ntlosa"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ka ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "mme le ndula"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka hare ho"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "bjk'ea"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mme e"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tletse"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mafokotsi"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:25.399864577Z",
+  "model": "glm-5.3"
+}

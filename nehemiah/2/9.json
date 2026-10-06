@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 2:9",
+  "book": "nehemiah",
+  "lang": "st",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הנהר",
+      "rationale": "'Metsi' ka bophara; ke Nile kapa Efurates — Sesotho se se na le lebitso le itseng."
+    },
+    {
+      "kind": "addition",
+      "subject": "ba pitse",
+      "rationale": "פרשים bo bolela 'bareeti ba pitse'; Sesotho se hloka 'ba pitse' ho hlakisa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "morena",
+      "rationale": "המלכ here ke morena wa Persia (Artakserksese), motho — e lokile ka D1."
+    }
+  ],
+  "translation": "Mme ke fihle ho bolaodi ba mose o moka ho metsi, mme ke neela bona ⟨את⟩ mangolo a morena; mme morena o ile a romella le nna ditlhogo tsa mabotho le bareeti ba pitse.",
+  "provenance": {
+    "system-sha256": "9a67a5d06ee687e7759b7de116f284d0d5067920e5c1ed7bfb20e40550ee87ae",
+    "user-sha256": "1c55794ffa5e06274ae0068d5ce15adc91cc5f6d0b36d02d47e7e89beb7fa053",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/st\/nehemiah\/2\/9-9.1791272289435.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "mme ke fihle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פחוות",
+      "gloss": "bolaodi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mose"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "o moka ho metsi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mme ke neela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mangolo a morena"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "mangolo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a morena"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mme o ile a romella"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "morena"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ditlhogo tsa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mabotho"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "le bareeti ba pitse"
+    }
+  ],
+  "timestamp": "2026-10-06T07:38:09.436536039Z",
+  "model": "glm-5.3"
+}
